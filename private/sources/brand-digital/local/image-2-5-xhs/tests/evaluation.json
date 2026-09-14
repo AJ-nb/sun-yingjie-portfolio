@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-09",
+  "review_type": "Single-reviewer visual assessment of original PNGs; no blinded panel or competitor baseline",
+  "surface": "ChatGPT web Images 2.5, visible mode 高, API subtype UNKNOWN",
+  "dimensions": "All 18 originals are 1086x1448, exact 3:4; final cards are separately typeset at 1080x1440",
+  "rubric_notes": [
+    "直接可用 means acceptable for the fictional brief at ordinary viewing scale, not pixel identity, manufacturing approval, or print proof.",
+    "需修正 means the main task was achieved but a stated constraint or retained surface needs revision.",
+    "未完成要求 means the primary requested task was not achieved. None of the 18 outputs fell in this category.",
+    "Texture drift is visually judged, not a measured quality-loss percentage. Background recoloring naturally changes reflections; no such expected tint is treated alone as a defect.",
+    "The package input is a flat illustrative reference. Realistic rim highlights and material interpretation are not independently proven added components. Core silhouette/category checks passed, exact geometry fidelity was not established.",
+    "S3 needs revision under the requested clean upper-quarter whitespace, due to added foliage-like shadows. This is a brief-compliance judgment, not a universal aesthetic defect.",
+    "Text checked visually, not exact Unicode/OCR identity. Extra terminal full stops in edited headlines are recorded, not treated as lexical errors because edit prompts did not specify an exact punctuation string."
+  ],
+  "summary": {"outputs":18,"directly_usable":10,"needs_revision":8,"primary_task_incomplete":0,"poster_direct":2,"product_direct":3,"sketch_direct":2,"editing_direct":3,"editing_requested_change_completed":9,"editing_count":9},
+  "runs": [
+    {"id":"P1","prompt":"poster","grade":"直接可用","checks":[true,true,true,true,true],"notes":"6组文案可读且齐全，活动标题最大，杯子为主体，无文字裁切。"},
+    {"id":"P2","prompt":"poster","grade":"需修正","checks":[true,true,true,false,true],"notes":"文案齐全，但青序品牌字大于活动标题，违反标题最大的明确要求。"},
+    {"id":"P3","prompt":"poster","grade":"直接可用","checks":[true,true,true,true,true],"notes":"活动标题最大；底部日期与价格可读，字号相对较小，发布时应检查缩略显示。"},
+    {"id":"G1","prompt":"product","grade":"直接可用","checks":[true,true,true,true,true,true,true],"notes":"一个完整圆罐、配色、色条、圆点和文字保留。现实材质重解释，不能称像素或工程几何复刻。"},
+    {"id":"G2","prompt":"product","grade":"直接可用","checks":[true,true,true,true,true,true,true],"notes":"关键外观清单通过；盖沿高光和视角属于从平面图到真实质感的解释，未证实有独立新增部件。"},
+    {"id":"G3","prompt":"product","grade":"直接可用","checks":[true,true,true,true,true,true,true],"notes":"关键外观清单通过，单罐构图及底部标题正确。"},
+    {"id":"S1","prompt":"sketch","grade":"直接可用","checks":[true,true,true,true,true,true],"notes":"上部留白、中央偏右圆罐、左下杯、右上标签及底部文字均符合草图关系。"},
+    {"id":"S2","prompt":"sketch","grade":"直接可用","checks":[true,true,true,true,true,true],"notes":"位置关系通过；添加包装叶片和底部浅山纹图案，提示词未明确禁止包装图案。"},
+    {"id":"S3","prompt":"sketch","grade":"需修正","checks":[false,true,true,true,true,true],"notes":"位置关系正确，但上部加入枝叶状光影，不符合干净留白的严格口径；其审美本身不判为好坏。"},
+    {"id":"G1-E1","prompt":"edit_1","grade":"直接可用","requested_change":true,"notes":"背景改粉，文字、主体位置及大轮廓保留；微小表面变化不等于完全无损。"},
+    {"id":"G2-E1","prompt":"edit_1","grade":"直接可用","requested_change":true,"notes":"背景改粉，关键文字和组件保留。"},
+    {"id":"G3-E1","prompt":"edit_1","grade":"直接可用","requested_change":true,"notes":"背景改粉，关键文字和组件保留。"},
+    {"id":"G1-E2","prompt":"edit_2","grade":"需修正","requested_change":true,"notes":"标题改对；罐盖细颗粒变成较粗的片状纹理，蓝色标签纹理也变粗。保留末尾句号。"},
+    {"id":"G2-E2","prompt":"edit_2","grade":"需修正","requested_change":true,"notes":"标题改对；罐盖表面出现与E1不同的斑驳纹理，蓝标签细节改变。保留末尾句号。"},
+    {"id":"G3-E2","prompt":"edit_2","grade":"需修正","requested_change":true,"notes":"标题改对且无末尾句号；罐盖与罐身表面纹理明显重绘，不符合其他任何内容不改的严格口径。"},
+    {"id":"G1-E3","prompt":"edit_3","grade":"需修正","requested_change":true,"notes":"唯一圆点改紫，文字和构图保留；沿用并进一步改变已有罐盖和标签纹理。"},
+    {"id":"G2-E3","prompt":"edit_3","grade":"需修正","requested_change":true,"notes":"唯一圆点改紫；包装纹理相对首图仍有累计漂移，未恢复首图细节。"},
+    {"id":"G3-E3","prompt":"edit_3","grade":"需修正","requested_change":true,"notes":"唯一圆点改紫；罐盖与奶白罐身出现更明显的斑驳，文字仍正确。"}
+  ]
+}

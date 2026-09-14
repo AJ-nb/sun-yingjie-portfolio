@@ -1,0 +1,25 @@
+{
+  "name": "XHS Operations OS V2 Architecture Baseline",
+  "files_in_requested_order": [
+    "AGENTS.md",
+    "docs/MASTER_PRD.md",
+    "docs/ARCHITECTURE.md",
+    "docs/DATABASE_SCHEMA.md",
+    "docs/SKILLS_ARCHITECTURE.md",
+    "docs/PROMPT_ARCHITECTURE.md",
+    "docs/EVALS.md",
+    "docs/SECURITY.md",
+    "docs/ROADMAP.md"
+  ],
+  "normative_docs": [
+    "AGENTS.md",
+    "docs/MASTER_PRD.md",
+    "docs/ARCHITECTURE.md",
+    "docs/DATABASE_SCHEMA.md",
+    "docs/SKILLS_ARCHITECTURE.md",
+    "docs/PROMPT_ARCHITECTURE.md",
+    "docs/EVALS.md",
+    "docs/SECURITY.md",
+    "docs/ROADMAP.md"
+  ]
+}

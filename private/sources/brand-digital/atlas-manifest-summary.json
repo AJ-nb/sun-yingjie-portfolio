@@ -1,0 +1,22 @@
+{
+  "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\eagle-aesthetic-atlas\\artifacts\\eagle-import-manifest.json",
+  "sha256": "2bd1d6cea8fee6bb33f4a5718accfdbb41227a76f5fc70881642c88f9f35994a",
+  "generatedAt": "2026-08-19T05:58:36.166Z",
+  "mode": "dry-run",
+  "audit": {
+    "blockingErrors": [],
+    "warnings": [],
+    "totals": {
+      "styles": 144,
+      "references": 2500,
+      "importableReferences": 2500,
+      "cards": 288,
+      "additions": 2788,
+      "adultItems": 222,
+      "localFiles": 288,
+      "bookmarks": 2500,
+      "bytes": 39306792
+    }
+  },
+  "note": "保存的 dry-run 清单；不能证明实际 Eagle 导入或独立逐条学术核验。"
+}

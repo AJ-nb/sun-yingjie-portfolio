@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "视觉档案",
+  "version": "0.1.0",
+  "description": "从网页或本地图片生成带证据边界的视觉档案。",
+  "permissions": ["contextMenus", "storage", "activeTab", "tabs", "scripting", "clipboardWrite"],
+  "host_permissions": ["https://api.openai.com/*"],
+  "optional_host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "视觉档案"
+  },
+  "options_page": "options.html"
+}

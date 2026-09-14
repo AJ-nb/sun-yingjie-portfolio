@@ -1,0 +1,24 @@
+{
+  "name": "ajnb-design-workspace",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "visual-lens",
+    "packages/aesthetic-atlas"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "check:research": "node scripts/verify-open-source-register.mjs",
+    "release:atlas": "pwsh -NoProfile -File scripts/build-atlas-release.ps1",
+    "release:yantai": "npm run zip --workspace luck-power-yantai && node scripts/package-yantai-release.mjs",
+    "taxonomy": "npm run runtime --workspace @ajnb/aesthetic-atlas",
+    "typecheck": "npm run typecheck --workspace @ajnb/aesthetic-atlas && npm run typecheck --workspace luck-power-yantai",
+    "test": "npm run test --workspace @ajnb/aesthetic-atlas && npm run test --workspace luck-power-yantai",
+    "build": "npm run build --workspace @ajnb/aesthetic-atlas && npm run build --workspace luck-power-yantai",
+    "audit:deps": "npm audit --omit=dev --audit-level=high",
+    "check": "npm run check:research && npm run taxonomy && npm run typecheck && npm test && npm run build && npm run audit:deps"
+  }
+}

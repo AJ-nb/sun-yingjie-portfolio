@@ -1,0 +1,34 @@
+[
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\孙英杰个人作品集.pdf",
+    "archive": "private/sources/documents/portfolio-51.pdf",
+    "bytes": 139785925,
+    "sha256": "f5c8166183a030cf39344f156b34e107cb96ec524067d0c878c153677588f004",
+    "id": "portfolio-51",
+    "pageCount": 51
+  },
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+    "archive": "private/sources/documents/rendering-sheet.pdf",
+    "bytes": 12766757,
+    "sha256": "579908cbaac6c9e7bcbbe92af9ad127fa2def005e87e8e0b2e75ee318855bcd4",
+    "id": "rendering-sheet",
+    "pageCount": 1
+  },
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\孙英杰简历.pdf",
+    "archive": "private/sources/documents/resume-source.pdf",
+    "bytes": 280794,
+    "sha256": "f698979fb886ab6845ecb18239c402383cdb68abe8bdd026c0cc24711055567a",
+    "id": "resume-source",
+    "pageCount": 1
+  },
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\项目.pdf",
+    "archive": "private/sources/documents/office-fitness.pdf",
+    "bytes": 33583079,
+    "sha256": "3963fd11e02465de70be3e5cce89ae2801dc1be828e724cd097c7f1639dc3a1c",
+    "id": "office-fitness",
+    "pageCount": 12
+  }
+]

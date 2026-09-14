@@ -1,0 +1,66 @@
+{
+  "nodes": [
+    {
+      "id": "title",
+      "type": "text",
+      "text": "Periastra 项目图谱\n用途：快速进入项目总览、Logo 分析、应用优化和对应器材化知识。",
+      "x": 380,
+      "y": 20,
+      "width": 420,
+      "height": 120
+    },
+    {
+      "id": "main",
+      "type": "file",
+      "file": "Design-Knowledge-Base/projects/Periastra 相机包品牌设计/00_项目总览/Periastra 相机包品牌设计.md",
+      "x": 420,
+      "y": 190,
+      "width": 340,
+      "height": 90
+    },
+    {
+      "id": "analysis",
+      "type": "file",
+      "file": "Design-Knowledge-Base/projects/Periastra 相机包品牌设计/01_Logo 设计/Periastra Logo 设计分析.md",
+      "x": 80,
+      "y": 360,
+      "width": 330,
+      "height": 90
+    },
+    {
+      "id": "apply",
+      "type": "file",
+      "file": "Design-Knowledge-Base/projects/Periastra 相机包品牌设计/02_应用与优化/Periastra 应用与优化.md",
+      "x": 780,
+      "y": 360,
+      "width": 350,
+      "height": 90
+    },
+    {
+      "id": "method",
+      "type": "file",
+      "file": "Design-Knowledge-Base/notes/03_Logo 设计 Logo Design/器材化隐喻与保护结构.md",
+      "x": 420,
+      "y": 540,
+      "width": 360,
+      "height": 90
+    },
+    {
+      "id": "projects",
+      "type": "file",
+      "file": "Design-Knowledge-Base/projects/00_Projects_Index.md",
+      "x": 80,
+      "y": 540,
+      "width": 280,
+      "height": 90
+    }
+  ],
+  "edges": [
+    {"id": "p1", "fromNode": "title", "toNode": "main", "fromSide": "bottom", "toSide": "top"},
+    {"id": "p2", "fromNode": "main", "toNode": "analysis", "fromSide": "bottom", "toSide": "top"},
+    {"id": "p3", "fromNode": "main", "toNode": "apply", "fromSide": "bottom", "toSide": "top"},
+    {"id": "p4", "fromNode": "analysis", "toNode": "method", "fromSide": "bottom", "toSide": "top"},
+    {"id": "p5", "fromNode": "apply", "toNode": "method", "fromSide": "bottom", "toSide": "top"},
+    {"id": "p6", "fromNode": "analysis", "toNode": "projects", "fromSide": "bottom", "toSide": "top"}
+  ]
+}

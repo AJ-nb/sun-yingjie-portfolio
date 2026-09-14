@@ -1,0 +1,11 @@
+{
+  "verifiedOn": "2026-09-14",
+  "skills": [
+    {"name":"liebin","repo":"ShaohuaDavidLee/Liebin","path":".","commit":"990e226397f4bc59c083c6f669b231c9310154ce","purpose":"真实内容三变体与设计规范"},
+    {"name":"frontend-design","repo":"anthropics/skills","path":"skills/frontend-design","commit":"34040c9c568585f6929bedeaad110ad08f079624","license":"Apache-2.0","purpose":"视觉设计与前端实现"},
+    {"name":"ui-ux-pro-max","repo":"nextlevelbuilder/ui-ux-pro-max-skill","path":".claude/skills/ui-ux-pro-max","commit":"7f69fed6a2717900085f1bc3b263721f8ba025e2","license":"MIT","purpose":"界面与可访问性核查"},
+    {"name":"blender-cli","repo":"thanhdongnguyen/Blender-Skill","path":"blender-cli","commit":"d4bc3847a45795d0b5682a32618e68deb354e5ad","license":"MIT","purpose":"本地原创三维人物、渲染和导出"}
+  ],
+  "sourceTemplate":{"repo":"dayinji/sen-3d-resume","verifiedUpstreamCommit":"c9a9fe373cde72c77ff7f2dabde17fb79dce89b3","localSource":"D:/OneDrive/桌面/文件/项目/sen-3d-resume","license":"MIT code only; original personal assets excluded","note":"本地副本无 Git 元数据；不把上游提交号冒称为本地源码的已验证提交。"},
+  "notInstalled":[{"repo":"CloudAI-X/threejs-skills","reason":"无明确仓库许可证，README 安装地址与仓库不一致"},{"repo":"vercel-labs/agent-skills","skill":"web-design-guidelines","reason":"现有检查能力可覆盖，无需重复安装"},{"repo":"anthropics/skills","skill":"webapp-testing","reason":"已有浏览器测试能力，无需重复安装"}]
+}

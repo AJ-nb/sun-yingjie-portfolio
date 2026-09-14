@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"title","type":"text","text":"夜礼司 Logo 设计图谱\n用途：只做导航，不做装饰。\n从品牌总览进入，再区分现行方案、演化过程、规范和支撑知识。","x":420,"y":20,"width":420,"height":140},
+		{"id":"brand","type":"file","file":"Design-Knowledge-Base/projects/夜礼司/00_品牌总览/夜礼司 品牌设计.md","x":460,"y":200,"width":320,"height":90},
+		{"id":"logo-overview","type":"file","file":"Design-Knowledge-Base/projects/夜礼司/01_Logo 设计/00_项目总览/夜礼司 Logo 设计.md","x":70,"y":380,"width":290,"height":90},
+		{"id":"evolution","type":"file","file":"Design-Knowledge-Base/projects/夜礼司/01_Logo 设计/03_演化与时间线/夜礼司 Logo 演化时间线.md","x":410,"y":380,"width":360,"height":90},
+		{"id":"guide","type":"file","file":"Design-Knowledge-Base/projects/夜礼司/01_Logo 设计/02_规范与字标/夜礼司 Logo 规范与字标.md","x":820,"y":380,"width":340,"height":90},
+		{"id":"plan","type":"file","file":"Design-Knowledge-Base/projects/夜礼司/01_Logo 设计/01_方案与决策/夜礼司 Logo 方案与决策.md","x":410,"y":540,"width":360,"height":90},
+		{"id":"product","type":"file","file":"Design-Knowledge-Base/projects/夜礼司/02_产品设计/蛇形口咬道具_绒花蝴蝶磁吸配件/蛇形口咬道具_绒花蝴蝶磁吸配件.md","x":820,"y":540,"width":390,"height":90},
+		{"id":"principle","type":"file","file":"Design-Knowledge-Base/notes/01_设计原则 Design Principles/成人品牌的反差设计与文化转译.md","x":40,"y":720,"width":360,"height":90},
+		{"id":"logo-method","type":"file","file":"Design-Knowledge-Base/notes/03_Logo 设计 Logo Design/印章式 Logo 与身体曲线隐喻.md","x":440,"y":720,"width":340,"height":90},
+		{"id":"product-method","type":"file","file":"Design-Knowledge-Base/notes/08_产品与身体装置 Product and Body Object/身体装置产品的意象、材料与连接结构.md","x":860,"y":720,"width":380,"height":90},
+		{"id":"prompt","type":"file","file":"Design-Knowledge-Base/notes/06_AI 设计工作流 AI Design Workflow/02_产品提示词 Product Prompts/02_成人产品提示词 Adult Product Prompts/00_总览/成人产品提示词总览.md","x":440,"y":880,"width":380,"height":90}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"title","toNode":"brand","fromSide":"bottom","toSide":"top"},
+		{"id":"e2","fromNode":"brand","toNode":"logo-overview","fromSide":"bottom","toSide":"top"},
+		{"id":"e3","fromNode":"brand","toNode":"evolution","fromSide":"bottom","toSide":"top"},
+		{"id":"e4","fromNode":"brand","toNode":"guide","fromSide":"bottom","toSide":"top"},
+		{"id":"e5","fromNode":"logo-overview","toNode":"plan","fromSide":"bottom","toSide":"top"},
+		{"id":"e6","fromNode":"evolution","toNode":"plan","fromSide":"bottom","toSide":"top"},
+		{"id":"e7","fromNode":"guide","toNode":"product","fromSide":"bottom","toSide":"top"},
+		{"id":"e8","fromNode":"plan","toNode":"principle","fromSide":"bottom","toSide":"top"},
+		{"id":"e9","fromNode":"plan","toNode":"logo-method","fromSide":"bottom","toSide":"top"},
+		{"id":"e10","fromNode":"product","toNode":"product-method","fromSide":"bottom","toSide":"top"},
+		{"id":"e11","fromNode":"product","toNode":"prompt","fromSide":"left","toSide":"right"}
+	]
+}

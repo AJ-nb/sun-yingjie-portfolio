@@ -1,0 +1,332 @@
+[
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\README.md",
+    "privatePath": "private/sources/brand-digital/local/lensflow/README.md",
+    "sha256": "e48a6de64d4816c552bd3309e0199704b1561e3ef115eb2fd5085f09a4fc9af6"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\package.json",
+    "privatePath": "private/sources/brand-digital/local/lensflow/package.json",
+    "sha256": "82d6780ff32d2ea93b1fa35178633403a4fe59d6bf00ea6aa978e66b71c4963a"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\LICENSE",
+    "privatePath": "private/sources/brand-digital/local/lensflow/LICENSE",
+    "sha256": "7d7289af7a620bb9084eef871e89c30a56f6249201d2bd2f7cd1832210e4c4ec"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\THIRD_PARTY_NOTICES.md",
+    "privatePath": "private/sources/brand-digital/local/lensflow/THIRD_PARTY_NOTICES.md",
+    "sha256": "5cf2930c7dc1acdbb655068aa00f20b83756d1c838f1664f78dba3f9d048f84c"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\luck-power\\README.md",
+    "privatePath": "private/sources/brand-digital/local/luck-power/README.md",
+    "sha256": "3911cbeb7e5331d5315dcee9fc47e7398c57184554171aff65a48f88694872ba"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\luck-power\\package.json",
+    "privatePath": "private/sources/brand-digital/local/luck-power/package.json",
+    "sha256": "0c3f3fd6a8ee99c724614796a7e72457b3bc79ebc9be5ec3d09a4141af28417c"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\luck-power\\LICENSE",
+    "privatePath": "private/sources/brand-digital/local/luck-power/LICENSE",
+    "sha256": "c005ed2e20946c778633093ba565f6f71bc9a94e1040553cc17274a9f7511075"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\logo-geometry-studio\\README.md",
+    "privatePath": "private/sources/brand-digital/local/logo-geometry-studio/README.md",
+    "sha256": "86cc3f0e02b4aeca50befc70c79833e85030814dd4934ac33131c0516ec46c7a"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\logo-geometry-studio\\package.json",
+    "privatePath": "private/sources/brand-digital/local/logo-geometry-studio/package.json",
+    "sha256": "241886af9a83d260910e394156bbb29febb673a7b3e0f2d29e97d13dac48e096"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\logo-geometry-studio\\THIRD_PARTY_NOTICES.md",
+    "privatePath": "private/sources/brand-digital/local/logo-geometry-studio/THIRD_PARTY_NOTICES.md",
+    "sha256": "afe4ff4a81f4c9d7bd1e2f1c9d160a6286b22e4bcfb306798352af466bd7b381"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\resume-formatter\\README.md",
+    "privatePath": "private/sources/brand-digital/local/resume-formatter/README.md",
+    "sha256": "66e8142e4cfda326719a452dff2f7a0b8207f9a019647b40416615ea3936f68c"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\resume-formatter\\package.json",
+    "privatePath": "private/sources/brand-digital/local/resume-formatter/package.json",
+    "sha256": "ed89a7b13069ad208d3bcd40c9c96b810293dedaadead9f4a463d46c77f63d94"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\resume-formatter\\LICENSE",
+    "privatePath": "private/sources/brand-digital/local/resume-formatter/LICENSE",
+    "sha256": "74f4ffd2606ec414fd72a9987f95d91cd2a7972a1e668d015dffa6525ccb285d"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\resume-formatter\\THIRD_PARTY_NOTICES.md",
+    "privatePath": "private/sources/brand-digital/local/resume-formatter/THIRD_PARTY_NOTICES.md",
+    "sha256": "b8ea16d6257be7d88aeea296465bc7de6e8e08311a1ceb5a6c6990169e4b18a1"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-lens\\README.md",
+    "privatePath": "private/sources/brand-digital/local/visual-lens/README.md",
+    "sha256": "c62c86cb07e505cfe17a1252d6a3f69ab154534c85ea3eb0d2343d82f6e113f2"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-lens\\package.json",
+    "privatePath": "private/sources/brand-digital/local/visual-lens/package.json",
+    "sha256": "d0f0b28598551fce59ca85bfe9faeaa5efe7cd209570bfc41aed9ae51a25dcab"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-archive-extension\\README.md",
+    "privatePath": "private/sources/brand-digital/local/visual-archive-extension/README.md",
+    "sha256": "432eda2e06a1fc56ee98141f9641df2918bb5a7548e85b872332f63138859a86"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-archive-extension\\package.json",
+    "privatePath": "private/sources/brand-digital/local/visual-archive-extension/package.json",
+    "sha256": "083fbf74c63e131230d76e56eb1926d95b0d27d81e984fcff8d229d0d7abc850"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-archive-extension\\manifest.json",
+    "privatePath": "private/sources/brand-digital/local/visual-archive-extension/manifest.json",
+    "sha256": "059ae32304f794b1a9849ebc31c44347ebb745344a38f685b0a69b9b2a0a56ba"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\eagle-aesthetic-atlas\\README.md",
+    "privatePath": "private/sources/brand-digital/local/eagle-aesthetic-atlas/README.md",
+    "sha256": "58c5c43b401aee3ce8e1518bec687613eb5e6425bb189f2981d3484eeae1e694"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\eagle-aesthetic-atlas\\package.json",
+    "privatePath": "private/sources/brand-digital/local/eagle-aesthetic-atlas/package.json",
+    "sha256": "33fe9f56967cd21f91a9126bb52d9d6859543bf3435c4eae3ca401b3f0bfd079"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\xhs-operations-os\\README.md",
+    "privatePath": "private/sources/brand-digital/local/xhs-operations-os/README.md",
+    "sha256": "dab4bdb128621d2f34d23cd17da6a23f2d29f72e838de4a9c5ed7c832231f35d"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\xhs-operations-os\\package.json",
+    "privatePath": "private/sources/brand-digital/local/xhs-operations-os/package.json",
+    "sha256": "bdbf1ad3489fb22bd30c8ee10db9fd200a749cfc6a329ae367882bd8f78cf9ce"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\README.md",
+    "privatePath": "private/sources/brand-digital/local/image-2-5-xhs/README.md",
+    "sha256": "d5cccc7fdb097013507f7725460a77ce38090c5922f22857c2d412959e0a68d7"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\docs\\project-status.md",
+    "privatePath": "private/sources/brand-digital/local/lensflow/docs/project-status.md",
+    "sha256": "128a495f0effe163975c9439fd6e4070be9c5db3a4daead8c14957b2db4e0f58"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\docs\\product\\product-spec.md",
+    "privatePath": "private/sources/brand-digital/local/lensflow/docs/product/product-spec.md",
+    "sha256": "2b9b0ec0a00f80867ca51aebfa7c95e1b469fff5caa6798b0acb6666b826c574"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\docs\\research\\viko-analysis.md",
+    "privatePath": "private/sources/brand-digital/local/lensflow/docs/research/viko-analysis.md",
+    "sha256": "f5dc032437d3aec7282d2e66a91b2a9affd8995bf87320d700dd37a615815ac1"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\docs\\releases\\v0.3.3.md",
+    "privatePath": "private/sources/brand-digital/local/lensflow/docs/releases/v0.3.3.md",
+    "sha256": "010ac1121636d363a09ab8f7863211f8a88877aea75cc10cde17b3eebe8414ad"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\docs\\releases\\v0.3.0.md",
+    "privatePath": "private/sources/brand-digital/local/lensflow/docs/releases/v0.3.0.md",
+    "sha256": "3650dad8267d7ddfa89d1a74db0dceba460318fe5875291bde9de19469c67118"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\luck-power\\vendor\\img2threejs\\UPSTREAM.md",
+    "privatePath": "private/sources/brand-digital/local/luck-power/vendor/img2threejs/UPSTREAM.md",
+    "sha256": "7ec1760332e3f01743e18bdcb111b609175af999a579e9c04631f7afb7366a9b"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\logo-geometry-studio\\docs\\research.md",
+    "privatePath": "private/sources/brand-digital/local/logo-geometry-studio/docs/research.md",
+    "sha256": "866189702207b3ca332bef46770cdc8af97ce9e0742d54b95008faacb142df8b"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\logo-geometry-studio\\docs\\verification.md",
+    "privatePath": "private/sources/brand-digital/local/logo-geometry-studio/docs/verification.md",
+    "sha256": "7e0960beacdbba1c2383753eb8a8da21d88fb29bb5c39172fd0425279d91bf2d"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-lens\\visual-lens\\README.md",
+    "privatePath": "private/sources/brand-digital/local/visual-lens/visual-lens/README.md",
+    "sha256": "6345606c71bc785e79e93bc78d6f4137ed29c5fbf20f435e349fbbd73b4e1998"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-lens\\visual-lens\\package.json",
+    "privatePath": "private/sources/brand-digital/local/visual-lens/visual-lens/package.json",
+    "sha256": "d949a99e8c63ef325e44ba46b262f1c8e84d0b2edb5ea827b1ec1ed5256cca80"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-lens\\visual-lens\\LICENSE",
+    "privatePath": "private/sources/brand-digital/local/visual-lens/visual-lens/LICENSE",
+    "sha256": "5b5d3b07943d006c491ab66eeb1ee8cda56ab1226f075c213ee83a37a10c248b"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-lens\\packages\\aesthetic-atlas\\README.md",
+    "privatePath": "private/sources/brand-digital/local/visual-lens/packages/aesthetic-atlas/README.md",
+    "sha256": "ad9043254a3e3e9879aae139b98a0f9f33eb7e87ec279d74221e9ae05a343f87"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-lens\\docs\\INSTALL-YANTAI.md",
+    "privatePath": "private/sources/brand-digital/local/visual-lens/docs/INSTALL-YANTAI.md",
+    "sha256": "81609cf6c0c540f90a7c1ef76c489b3f11ea98ebd6a339a73c141dd8890e94f0"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\eagle-aesthetic-atlas\\design-philosophy.md",
+    "privatePath": "private/sources/brand-digital/local/eagle-aesthetic-atlas/design-philosophy.md",
+    "sha256": "15bb189d234e0893a3105150a7cf85554d7abf4f331d35fa95193496f5f85261"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\eagle-aesthetic-atlas\\artifacts\\analysis\\bauhaus-product.md",
+    "privatePath": "private/sources/brand-digital/local/eagle-aesthetic-atlas/artifacts/analysis/bauhaus-product.md",
+    "sha256": "543df2ce317cdb06d74f646a66e3165db4ca0bc373e82a64f57b096652d86686"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\xhs-operations-os\\SPEC_MANIFEST.json",
+    "privatePath": "private/sources/brand-digital/local/xhs-operations-os/SPEC_MANIFEST.json",
+    "sha256": "de5ad840bf2f5b36e18aab99e1406b1120cf5956a926e2535ba2dfdec67e2fdf"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\xhs-operations-os\\docs\\MASTER_PRD.md",
+    "privatePath": "private/sources/brand-digital/local/xhs-operations-os/docs/MASTER_PRD.md",
+    "sha256": "dcfde4187a3a78980dc4d8c718a791be63abace306db4ddbde1b7e906e361a7f"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\xhs-operations-os\\docs\\ARCHITECTURE.md",
+    "privatePath": "private/sources/brand-digital/local/xhs-operations-os/docs/ARCHITECTURE.md",
+    "sha256": "a30174e05c36f39cb9ab0b8b448f54e4815bd86b3993cef9b959f5f739b4b1d4"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\xhs-operations-os\\docs\\ROADMAP.md",
+    "privatePath": "private/sources/brand-digital/local/xhs-operations-os/docs/ROADMAP.md",
+    "sha256": "fa8c246e31fbff718e25194f3c7a93dc26c2a40a771c43a86c318a37724b1cf6"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\STATUS.md",
+    "privatePath": "private/sources/brand-digital/local/image-2-5-xhs/STATUS.md",
+    "sha256": "f01f331c75060fa7e8d4223142c1f4689d86ac0c4a69aa90fe21dabfe23a424f"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\sources.md",
+    "privatePath": "private/sources/brand-digital/local/image-2-5-xhs/sources.md",
+    "sha256": "451520fab25d48f796664ad727596c6c6ea25fad402a27f93a821433a8527483"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\post.md",
+    "privatePath": "private/sources/brand-digital/local/image-2-5-xhs/post.md",
+    "sha256": "6d2975a0132bbbe99fc46f32545bdaf6be59029fd7446b5ea5a54c3c0fc9c7b0"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\publish\\image-provenance.json",
+    "privatePath": "private/sources/brand-digital/local/image-2-5-xhs/publish/image-provenance.json",
+    "sha256": "16945901c381a578e80125d2fb97a62c03f1d5dacac22f7601378968b6913f4c"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\tests\\protocol.json",
+    "privatePath": "private/sources/brand-digital/local/image-2-5-xhs/tests/protocol.json",
+    "sha256": "b5ae56b489e4155bf3e2cd6f828aa8d5b4976639701d7114108bd72ea9dd5d08"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\tests\\evaluation.json",
+    "privatePath": "private/sources/brand-digital/local/image-2-5-xhs/tests/evaluation.json",
+    "sha256": "936ab45f6c997af10dd77a810027707d4ce1654af961d12f4ce18f80b57ff11a"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\tests\\session-register.json",
+    "privatePath": "private/sources/brand-digital/local/image-2-5-xhs/tests/session-register.json",
+    "sha256": "f1ee5c8c25a0098ac22e45fc4cdf9b0fe3c7b8bb7a86769bb46f402533d72c0c"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\qa\\final-verification.json",
+    "privatePath": "private/sources/brand-digital/local/image-2-5-xhs/qa/final-verification.json",
+    "sha256": "3b376ca4ae2687a994812c06124a76b925331d1c2045fd29431a6d2f8528dad9"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\output\\xiaohongshu-lensflow-v0.3.0\\evidence\\studio-analysis.png",
+    "privatePath": "private/sources/brand-digital/local/lensflow/output/xiaohongshu-lensflow-v0.3.0/evidence/studio-analysis.png",
+    "sha256": "6ab7a066f23f51070ac8957065a507b8e8e875b51ea5e30ca91c7d80b1407f2d"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\output\\playwright\\lensflow-v030-demo-desktop.png",
+    "privatePath": "private/sources/brand-digital/local/lensflow/output/playwright/lensflow-v030-demo-desktop.png",
+    "sha256": "6c247f964d046763735f72232bd3f70bf3b74b7aeed3cadf7183e171cd430b12"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-lens\\output\\playwright\\yantai-instrument-study-760.png",
+    "privatePath": "private/sources/brand-digital/local/visual-lens/output/playwright/yantai-instrument-study-760.png",
+    "sha256": "77fc6319f3502728c6fde1da2993881a2b5af8e7886daf817ee55e58fe3fedac"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\logo-geometry-studio\\output\\playwright\\viewport-1440x900.png",
+    "privatePath": "private/sources/brand-digital/local/logo-geometry-studio/output/playwright/viewport-1440x900.png",
+    "sha256": "55179ebc3c8e38b65b61aeae142017db463898ac3763eb5689fe88da8a8edfe2"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\logo-geometry-studio\\output\\playwright\\viewport-390x844.png",
+    "privatePath": "private/sources/brand-digital/local/logo-geometry-studio/output/playwright/viewport-390x844.png",
+    "sha256": "035341de89229cd8b20a96f938434140cec870aedbb509f2b210530cc9077035"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\resume-formatter\\output\\xiaohongshu-v2.4.0\\raw\\03-workspace-ui.png",
+    "privatePath": "private/sources/brand-digital/local/resume-formatter/output/xiaohongshu-v2.4.0/raw/03-workspace-ui.png",
+    "sha256": "b41e27ce03d67543321ede29b958b44551fb483ac577630cf0eeaf187fe569e1"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\resume-formatter\\output\\xiaohongshu-v2.4.0\\raw\\04-ai-diff-ui.png",
+    "privatePath": "private/sources/brand-digital/local/resume-formatter/output/xiaohongshu-v2.4.0/raw/04-ai-diff-ui.png",
+    "sha256": "28194f762c7525c008d27bff13fcf6b6b5ddb25a47895102c2e161b92b361e15"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\resume-formatter\\output\\xiaohongshu-v2.4.0\\raw\\05-layout-ui.png",
+    "privatePath": "private/sources/brand-digital/local/resume-formatter/output/xiaohongshu-v2.4.0/raw/05-layout-ui.png",
+    "sha256": "a3f202bdcc5a1355a627ccb8dac1761e28080a2c03b6f0f6aaf2ff923929e385"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-archive-extension\\output\\playwright\\analysis-chinese-desktop.png",
+    "privatePath": "private/sources/brand-digital/local/visual-archive-extension/output/playwright/analysis-chinese-desktop.png",
+    "sha256": "483902186c8415cc591ccde685c621d46151d0f179efe250aed468f43eaf4bdc"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-archive-extension\\output\\playwright\\analysis-chinese-mobile.png",
+    "privatePath": "private/sources/brand-digital/local/visual-archive-extension/output/playwright/analysis-chinese-mobile.png",
+    "sha256": "11392e30a4658e503b26af7289bfc6ca725ee024dc4f9c015ce10e4116571da7"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\eagle-aesthetic-atlas\\artifacts\\cards\\bauhaus-product--dna.png",
+    "privatePath": "private/sources/brand-digital/local/eagle-aesthetic-atlas/artifacts/cards/bauhaus-product--dna.png",
+    "sha256": "8047fb26d81ad4aced2c32e00a28e43b1fe7e4a85bad7f98f667ca59b6afa6c9"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\eagle-aesthetic-atlas\\artifacts\\cards\\bauhaus-product--transfer.png",
+    "privatePath": "private/sources/brand-digital/local/eagle-aesthetic-atlas/artifacts/cards/bauhaus-product--transfer.png",
+    "sha256": "78e49ddded6d6a69aedbfba3fda012144f6582824305c320e76b70b1558fc2be"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\publish\\cards\\01.png",
+    "privatePath": "private/sources/brand-digital/local/image-2-5-xhs/publish/cards/01.png",
+    "sha256": "e1275e65f2522ca45dd33ac2a6be59bf0bd00950e84edd6bf4cdf2439fba7cc6"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\publish\\cards\\04.png",
+    "privatePath": "private/sources/brand-digital/local/image-2-5-xhs/publish/cards/04.png",
+    "sha256": "9cf77c79d8cfccfde809c04246d8c30b6078799c600b9b47b9ec1fccfda3a2a7"
+  },
+  {
+    "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\publish\\cards\\09.png",
+    "privatePath": "private/sources/brand-digital/local/image-2-5-xhs/publish/cards/09.png",
+    "sha256": "c5566c9d62655e01e0d1c2f23815554e51dc74201a067c5e5189bd32608b9069"
+  }
+]

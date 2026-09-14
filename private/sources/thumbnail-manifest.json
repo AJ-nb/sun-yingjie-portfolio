@@ -1,0 +1,242 @@
+[
+  {
+    "case": "aesthetic-atlas",
+    "cover": "/works/digital/aesthetic-atlas/bauhaus-product-dna.webp",
+    "thumbnail": "/thumbnails/aesthetic-atlas.webp",
+    "width": 880,
+    "height": 1100,
+    "bytes": 25396
+  },
+  {
+    "case": "arcteryx",
+    "cover": "/works/legacy/arcteryx/cb880134dd55b4ea48ac6a2c188bf65b.webp",
+    "thumbnail": "/thumbnails/arcteryx.webp",
+    "width": 825,
+    "height": 1100,
+    "bytes": 86654
+  },
+  {
+    "case": "baobab-glow",
+    "cover": "/works/documents/embedded-boards/x1.webp",
+    "thumbnail": "/thumbnails/baobab-glow.webp",
+    "width": 1100,
+    "height": 777,
+    "bytes": 88348
+  },
+  {
+    "case": "bat-quad",
+    "cover": "/works/documents/embedded-boards/x2.webp",
+    "thumbnail": "/thumbnails/bat-quad.webp",
+    "width": 778,
+    "height": 1100,
+    "bytes": 143212
+  },
+  {
+    "case": "cloudwing",
+    "cover": "/works/documents/embedded-boards/x3.webp",
+    "thumbnail": "/thumbnails/cloudwing.webp",
+    "width": 778,
+    "height": 1100,
+    "bytes": 112870
+  },
+  {
+    "case": "construction-recycler",
+    "cover": "/works/local/local-05.webp",
+    "thumbnail": "/thumbnails/construction-recycler.webp",
+    "width": 1100,
+    "height": 563,
+    "bytes": 155934
+  },
+  {
+    "case": "ecological-harvest",
+    "cover": "/works/documents/embedded-boards/x7.webp",
+    "thumbnail": "/thumbnails/ecological-harvest.webp",
+    "width": 778,
+    "height": 1100,
+    "bytes": 198030
+  },
+  {
+    "case": "formline",
+    "cover": "/works/digital/formline/editor-desktop.webp",
+    "thumbnail": "/thumbnails/formline.webp",
+    "width": 1100,
+    "height": 688,
+    "bytes": 37380
+  },
+  {
+    "case": "go-glow",
+    "cover": "/works/documents/portfolio-51/036.webp",
+    "thumbnail": "/thumbnails/go-glow.webp",
+    "width": 1100,
+    "height": 389,
+    "bytes": 82960
+  },
+  {
+    "case": "hermes",
+    "cover": "/works/legacy/hermes/f1455674fa1906fe49bd555bcad97e9c.webp",
+    "thumbnail": "/thumbnails/hermes.webp",
+    "width": 1100,
+    "height": 765,
+    "bytes": 88294
+  },
+  {
+    "case": "huhu-care",
+    "cover": "/works/documents/portfolio-51/028.webp",
+    "thumbnail": "/thumbnails/huhu-care.webp",
+    "width": 1100,
+    "height": 389,
+    "bytes": 28368
+  },
+  {
+    "case": "image-2-5-xhs",
+    "cover": "/works/digital/image-2-5-xhs/evaluation-cover.webp",
+    "thumbnail": "/thumbnails/image-2-5-xhs.webp",
+    "width": 825,
+    "height": 1100,
+    "bytes": 51572
+  },
+  {
+    "case": "jimu-studio",
+    "cover": "/works/documents/portfolio-51/049.webp",
+    "thumbnail": "/thumbnails/jimu-studio.webp",
+    "width": 1100,
+    "height": 389,
+    "bytes": 61474
+  },
+  {
+    "case": "lensflow",
+    "cover": "/works/digital/lensflow/studio-analysis.webp",
+    "thumbnail": "/thumbnails/lensflow.webp",
+    "width": 1100,
+    "height": 794,
+    "bytes": 57370
+  },
+  {
+    "case": "lighting",
+    "cover": "/works/legacy/lighting/5beb6f4875965136b4cf16ffcfe6f1fe.webp",
+    "thumbnail": "/thumbnails/lighting.webp",
+    "width": 778,
+    "height": 1100,
+    "bytes": 24868
+  },
+  {
+    "case": "lingmu",
+    "cover": "/works/documents/portfolio-51/043.webp",
+    "thumbnail": "/thumbnails/lingmu.webp",
+    "width": 1100,
+    "height": 389,
+    "bytes": 45866
+  },
+  {
+    "case": "little-orange",
+    "cover": "/works/documents/embedded-boards/x4.webp",
+    "thumbnail": "/thumbnails/little-orange.webp",
+    "width": 778,
+    "height": 1100,
+    "bytes": 134022
+  },
+  {
+    "case": "periastra",
+    "cover": "/works/brand/periastra/logo/periastra-logo-v01-20260422.webp",
+    "thumbnail": "/thumbnails/periastra.webp",
+    "width": 1100,
+    "height": 548,
+    "bytes": 7474
+  },
+  {
+    "case": "plant-companion",
+    "cover": "/works/documents/office-fitness/012.webp",
+    "thumbnail": "/thumbnails/plant-companion.webp",
+    "width": 1100,
+    "height": 389,
+    "bytes": 18768
+  },
+  {
+    "case": "plumber",
+    "cover": "/works/documents/portfolio-51/016.webp",
+    "thumbnail": "/thumbnails/plumber.webp",
+    "width": 1100,
+    "height": 389,
+    "bytes": 74460
+  },
+  {
+    "case": "polar-wing",
+    "cover": "/works/documents/embedded-boards/x9.webp",
+    "thumbnail": "/thumbnails/polar-wing.webp",
+    "width": 778,
+    "height": 1100,
+    "bytes": 129700
+  },
+  {
+    "case": "purewater-rolling-filter",
+    "cover": "/works/documents/embedded-boards/x8.webp",
+    "thumbnail": "/thumbnails/purewater-rolling-filter.webp",
+    "width": 1100,
+    "height": 777,
+    "bytes": 133282
+  },
+  {
+    "case": "rendering-studies",
+    "cover": "/works/legacy/rendering/6b8d00417baa8b204447fd0857eb435a.webp",
+    "thumbnail": "/thumbnails/rendering-studies.webp",
+    "width": 1100,
+    "height": 449,
+    "bytes": 111524
+  },
+  {
+    "case": "resume-formatter",
+    "cover": "/works/digital/resume-formatter/workspace.webp",
+    "thumbnail": "/thumbnails/resume-formatter.webp",
+    "width": 1100,
+    "height": 782,
+    "bytes": 41094
+  },
+  {
+    "case": "visual-archive",
+    "cover": "/works/digital/visual-archive/analysis-desktop.webp",
+    "thumbnail": "/thumbnails/visual-archive.webp",
+    "width": 1100,
+    "height": 1045,
+    "bytes": 40034
+  },
+  {
+    "case": "water-guardian",
+    "cover": "/works/documents/embedded-boards/x5.webp",
+    "thumbnail": "/thumbnails/water-guardian.webp",
+    "width": 855,
+    "height": 1100,
+    "bytes": 162992
+  },
+  {
+    "case": "water-walking-bath",
+    "cover": "/works/local/local-03.webp",
+    "thumbnail": "/thumbnails/water-walking-bath.webp",
+    "width": 777,
+    "height": 1100,
+    "bytes": 115860
+  },
+  {
+    "case": "yantai",
+    "cover": "/works/digital/yantai/design-study-fixture.webp",
+    "thumbnail": "/thumbnails/yantai.webp",
+    "width": 421,
+    "height": 1100,
+    "bytes": 32648
+  },
+  {
+    "case": "yelisi",
+    "cover": "/works/brand/yelisi/yelisi-logo.webp",
+    "thumbnail": "/thumbnails/yelisi.webp",
+    "width": 743,
+    "height": 1100,
+    "bytes": 15152
+  },
+  {
+    "case": "yuju",
+    "cover": "/works/documents/embedded-boards/x6.webp",
+    "thumbnail": "/thumbnails/yuju.webp",
+    "width": 778,
+    "height": 1100,
+    "bytes": 72964
+  }
+]

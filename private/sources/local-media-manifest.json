@@ -1,0 +1,202 @@
+[
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\作品集展板\\03展板.jpg",
+    "archive": "private/sources/local-media/作品集展板/03展板.jpg",
+    "bytes": 6618087,
+    "sha256": "f5b8056521de86fbd78f27b3e7f3d35c20d62311785c91038e4f18c3c55ec265",
+    "id": "local-01",
+    "sourceDimensions": [
+      3508,
+      4961
+    ],
+    "displayDimensions": [
+      2000,
+      2828
+    ],
+    "publicPath": "/works/local/local-01.webp"
+  },
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\作品集展板\\1.jpg",
+    "archive": "private/sources/local-media/作品集展板/1.jpg",
+    "bytes": 13151550,
+    "sha256": "cd51df93dd99be3bfe7e4400ad17d11bdc46f38029e3eebe1895fc8fe1b7ca34",
+    "id": "local-02",
+    "sourceDimensions": [
+      11822,
+      8351
+    ],
+    "displayDimensions": [
+      2000,
+      1413
+    ],
+    "publicPath": "/works/local/local-02.webp"
+  },
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\作品集展板\\21090303邓志成展板.jpg",
+    "archive": "private/sources/local-media/作品集展板/21090303邓志成展板.jpg",
+    "bytes": 13202207,
+    "sha256": "ac524ef2e4c0ae8ab0bf76447aa5f1a3085332c0c1e4ec344700106c06add6eb",
+    "id": "local-03",
+    "sourceDimensions": [
+      7067,
+      10000
+    ],
+    "displayDimensions": [
+      2000,
+      2830
+    ],
+    "publicPath": "/works/local/local-03.webp"
+  },
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\作品集展板\\APP展板.jpg",
+    "archive": "private/sources/local-media/作品集展板/APP展板.jpg",
+    "bytes": 3191681,
+    "sha256": "bd39b7032a59d755ae8c4f492f0a4c03be03a5ad08662646b3da687cedcacda8",
+    "id": "local-04",
+    "sourceDimensions": [
+      3508,
+      4961
+    ],
+    "displayDimensions": [
+      2000,
+      2828
+    ],
+    "publicPath": "/works/local/local-04.webp"
+  },
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\作品集展板\\图片1.png",
+    "archive": "private/sources/local-media/作品集展板/图片1.png",
+    "bytes": 13193567,
+    "sha256": "9780cec066ecc14b49c86f4c0f314da733ca0dbda8599fa562cf4b3ad87aa984",
+    "id": "local-05",
+    "sourceDimensions": [
+      6356,
+      3250
+    ],
+    "displayDimensions": [
+      2000,
+      1023
+    ],
+    "publicPath": "/works/local/local-05.webp"
+  },
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\作品集展板\\展板(1).jpg",
+    "archive": "private/sources/local-media/作品集展板/展板(1).jpg",
+    "bytes": 1930230,
+    "sha256": "c89abbde987608780a1fc1586ca034d983145b0af8e4b14373a0e68a9b055e36",
+    "id": "local-06",
+    "sourceDimensions": [
+      3508,
+      4961
+    ],
+    "displayDimensions": [
+      2000,
+      2828
+    ],
+    "publicPath": "/works/local/local-06.webp"
+  },
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\作品集展板\\展板.jpg",
+    "archive": "private/sources/local-media/作品集展板/展板.jpg",
+    "bytes": 6557750,
+    "sha256": "38c9dbb5097a0604c0b54faed141480d3b1a58b8dfcdff235024b03a1309990c",
+    "id": "local-07",
+    "sourceDimensions": [
+      3508,
+      4961
+    ],
+    "displayDimensions": [
+      2000,
+      2828
+    ],
+    "publicPath": "/works/local/local-07.webp"
+  },
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\作品集展板\\水中卫士-清藻机智能装备设计—邓志成—张成承.png",
+    "archive": "private/sources/local-media/作品集展板/水中卫士-清藻机智能装备设计—邓志成—张成承.png",
+    "bytes": 22350961,
+    "sha256": "74569642333907bf16963c1b79d9e8b4cbc0e91b20c368a36c27a56ef4cae813",
+    "id": "local-08",
+    "sourceDimensions": [
+      4967,
+      6393
+    ],
+    "displayDimensions": [
+      2000,
+      2574
+    ],
+    "publicPath": "/works/local/local-08.webp"
+  },
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\11.png",
+    "archive": "private/sources/local-media/作品集/11.png",
+    "bytes": 1836564,
+    "sha256": "b21745aaae7a92311eb579941daf2b5ea17e6910090e5769ff094ac4cb39fcb3",
+    "id": "local-09",
+    "sourceDimensions": [
+      2480,
+      3508
+    ],
+    "displayDimensions": [
+      2000,
+      2829
+    ],
+    "publicPath": "/works/local/local-09.webp"
+  },
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\98a0e7c15c0e45ca80f339215435b3d.png",
+    "archive": "private/sources/local-media/作品集/98a0e7c15c0e45ca80f339215435b3d.png",
+    "bytes": 140826,
+    "sha256": "2704b576c55cc7bea872ecc5f89747cd665fef6d293f87e21c58ea1cd501e71a",
+    "id": "local-10",
+    "sourceDimensions": [
+      764,
+      1085
+    ],
+    "displayDimensions": [
+      764,
+      1085
+    ],
+    "publicPath": "/works/local/local-10.webp"
+  },
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\9a631869da37997b419e2f69840dbb27.jpg",
+    "archive": "private/sources/local-media/作品集/9a631869da37997b419e2f69840dbb27.jpg",
+    "bytes": 76385,
+    "sha256": "c22921860ca65b72304c8b21ddae88b7391c06de1db5b5128b9e0abc5579e050",
+    "id": "local-11",
+    "sourceDimensions": [
+      1440,
+      1440
+    ],
+    "displayDimensions": [
+      1440,
+      1440
+    ],
+    "publicPath": "/works/local/local-11.webp"
+  },
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\照片1.jpg",
+    "archive": "private/sources/local-media/作品集/照片1.jpg",
+    "bytes": 4859965,
+    "sha256": "d0b8535783ec789dee53fea125930ccf03f4cf731692ba194125d8174e7301b8",
+    "id": "local-12",
+    "disposition": "portrait-reference-private"
+  },
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\照片2.jpg",
+    "archive": "private/sources/local-media/作品集/照片2.jpg",
+    "bytes": 29952,
+    "sha256": "f9b0ec7687ff475d70a0bfb16157bc5433aad3b6743f82bd475e7fe6b6554f2b",
+    "id": "local-13",
+    "disposition": "portrait-reference-private"
+  },
+  {
+    "source": "D:\\OneDrive\\桌面\\文件\\作品集\\111.mp4",
+    "archive": "private/sources/local-media/作品集/111.mp4",
+    "bytes": 4239466,
+    "sha256": "440a6cde308fcdaebb2ba2e8d1460dcae08a43ac816b9600333f5a77ea5a8a6b",
+    "id": "local-14",
+    "publicPath": "/works/local/111.mp4"
+  }
+]

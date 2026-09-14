@@ -1,0 +1,16 @@
+**/node_modules/
+**/dist/
+**/.cache/
+.sites-runtime/
+.env
+.env.*
+!.env.example
+private/tmp/
+*.log
+avatar/*.blend1
+**/__pycache__/
+*.pyc
+*.tsbuildinfo
+tmp/
+deliverables/**/qa/
+deliverables/**/preview/

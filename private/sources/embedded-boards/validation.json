@@ -1,0 +1,1186 @@
+{
+  "cases": 18,
+  "markdownFiles": 36,
+  "uniqueGalleryImages": 83,
+  "videoCount": 1,
+  "files": [
+    {
+      "file": "web/src/content/works/plumber.zh.md",
+      "category": "product",
+      "images": 18,
+      "videos": 0,
+      "credits": "合作项目；其他成员署名待补充"
+    },
+    {
+      "file": "web/src/content/works/plumber.en.md",
+      "category": "product",
+      "images": 18,
+      "videos": 0,
+      "credits": "Collaborative project; other team credits to be documented"
+    },
+    {
+      "file": "web/src/content/works/huhu-care.zh.md",
+      "category": "product",
+      "images": 13,
+      "videos": 0,
+      "credits": "合作项目；其他成员署名待补充"
+    },
+    {
+      "file": "web/src/content/works/huhu-care.en.md",
+      "category": "product",
+      "images": 13,
+      "videos": 0,
+      "credits": "Collaborative project; other team credits to be documented"
+    },
+    {
+      "file": "web/src/content/works/go-glow.zh.md",
+      "category": "product",
+      "images": 9,
+      "videos": 0,
+      "credits": "合作项目；其他成员署名待补充"
+    },
+    {
+      "file": "web/src/content/works/go-glow.en.md",
+      "category": "product",
+      "images": 9,
+      "videos": 0,
+      "credits": "Collaborative project; other team credits to be documented"
+    },
+    {
+      "file": "web/src/content/works/lingmu.zh.md",
+      "category": "product",
+      "images": 7,
+      "videos": 0,
+      "credits": "合作项目；其他成员署名待补充"
+    },
+    {
+      "file": "web/src/content/works/lingmu.en.md",
+      "category": "product",
+      "images": 7,
+      "videos": 0,
+      "credits": "Collaborative project; other team credits to be documented"
+    },
+    {
+      "file": "web/src/content/works/jimu-studio.zh.md",
+      "category": "product",
+      "images": 6,
+      "videos": 0,
+      "credits": "合作项目；其他成员署名待补充"
+    },
+    {
+      "file": "web/src/content/works/jimu-studio.en.md",
+      "category": "product",
+      "images": 6,
+      "videos": 0,
+      "credits": "Collaborative project; other team credits to be documented"
+    },
+    {
+      "file": "web/src/content/works/plant-companion.zh.md",
+      "category": "product",
+      "images": 12,
+      "videos": 0,
+      "credits": "合作项目；其他成员署名待补充"
+    },
+    {
+      "file": "web/src/content/works/plant-companion.en.md",
+      "category": "product",
+      "images": 12,
+      "videos": 0,
+      "credits": "Collaborative project; other team credits to be documented"
+    },
+    {
+      "file": "web/src/content/works/bat-quad.zh.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "合作项目；其他成员署名待补充"
+    },
+    {
+      "file": "web/src/content/works/bat-quad.en.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "Collaborative project; other team credits to be documented"
+    },
+    {
+      "file": "web/src/content/works/baobab-glow.zh.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "原展板署名：邓志成；合作项目"
+    },
+    {
+      "file": "web/src/content/works/baobab-glow.en.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "Original board credit: Deng Zhicheng (邓志成); collaborative project"
+    },
+    {
+      "file": "web/src/content/works/water-walking-bath.zh.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "原展板署名：邓志成；指导老师：陶裕仿"
+    },
+    {
+      "file": "web/src/content/works/water-walking-bath.en.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "Original board credit: Deng Zhicheng (邓志成); advisor: Tao Yufang (陶裕仿)"
+    },
+    {
+      "file": "web/src/content/works/yuju.zh.md",
+      "category": "digital",
+      "images": 1,
+      "videos": 0,
+      "credits": "合作项目；其他成员署名待补充"
+    },
+    {
+      "file": "web/src/content/works/yuju.en.md",
+      "category": "digital",
+      "images": 1,
+      "videos": 0,
+      "credits": "Collaborative project; other team credits to be documented"
+    },
+    {
+      "file": "web/src/content/works/construction-recycler.zh.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "合作项目；其他成员署名待补充"
+    },
+    {
+      "file": "web/src/content/works/construction-recycler.en.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "Collaborative project; other team credits to be documented"
+    },
+    {
+      "file": "web/src/content/works/cloudwing.zh.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "合作项目；其他成员署名待补充"
+    },
+    {
+      "file": "web/src/content/works/cloudwing.en.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "Collaborative project; other team credits to be documented"
+    },
+    {
+      "file": "web/src/content/works/little-orange.zh.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "合作项目；其他成员署名待补充"
+    },
+    {
+      "file": "web/src/content/works/little-orange.en.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "Collaborative project; other team credits to be documented"
+    },
+    {
+      "file": "web/src/content/works/water-guardian.zh.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "合作署名：邓志成、张成承"
+    },
+    {
+      "file": "web/src/content/works/water-guardian.en.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "Collaboration credits: Deng Zhicheng (邓志成), Zhang Chengcheng (张成承)"
+    },
+    {
+      "file": "web/src/content/works/ecological-harvest.zh.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "合作项目；其他成员署名待补充"
+    },
+    {
+      "file": "web/src/content/works/ecological-harvest.en.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "Collaborative project; other team credits to be documented"
+    },
+    {
+      "file": "web/src/content/works/purewater-rolling-filter.zh.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "原展板署名：孙英杰；合作分工待补充"
+    },
+    {
+      "file": "web/src/content/works/purewater-rolling-filter.en.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "Original board credit: Sun Yingjie (孙英杰); collaborative roles to be documented"
+    },
+    {
+      "file": "web/src/content/works/polar-wing.zh.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "合作项目；其他成员署名待补充"
+    },
+    {
+      "file": "web/src/content/works/polar-wing.en.md",
+      "category": "product",
+      "images": 1,
+      "videos": 0,
+      "credits": "Collaborative project; other team credits to be documented"
+    },
+    {
+      "file": "web/src/content/works/rendering-studies.zh.md",
+      "category": "experiments",
+      "images": 7,
+      "videos": 1,
+      "credits": "视觉习作；模型、背景与参考素材出处待逐项补充"
+    },
+    {
+      "file": "web/src/content/works/rendering-studies.en.md",
+      "category": "experiments",
+      "images": 7,
+      "videos": 1,
+      "credits": "Visual studies; individual model, background and reference credits to be documented"
+    }
+  ],
+  "portfolioComparison": [
+    {
+      "oldPage": 1,
+      "canonical": "portfolio-51/001.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 2,
+      "canonical": "portfolio-51/002.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 3,
+      "canonical": "portfolio-51/003.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 4,
+      "canonical": "portfolio-51/004.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 5,
+      "canonical": "portfolio-51/005.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 6,
+      "canonical": "portfolio-51/006.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 7,
+      "canonical": "portfolio-51/007.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 8,
+      "canonical": "portfolio-51/008.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 9,
+      "canonical": "portfolio-51/009.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 10,
+      "canonical": "portfolio-51/010.webp",
+      "bytesIdentical": false,
+      "pixelsIdentical": false,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0023069394147009884,
+        0.0017010864245864735,
+        0.0028462366643828914
+      ]
+    },
+    {
+      "oldPage": 11,
+      "canonical": "portfolio-51/011.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 12,
+      "canonical": "portfolio-51/012.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 13,
+      "canonical": "portfolio-51/013.webp",
+      "bytesIdentical": false,
+      "pixelsIdentical": false,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.16296858177547224,
+        0.15800822159146521,
+        0.16282568268571987
+      ]
+    },
+    {
+      "oldPage": 14,
+      "canonical": "portfolio-51/014.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 15,
+      "canonical": "portfolio-51/015.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 16,
+      "canonical": "portfolio-51/016.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 17,
+      "canonical": "portfolio-51/017.webp",
+      "bytesIdentical": false,
+      "pixelsIdentical": false,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.15716648722717041,
+        0.1652990114515024,
+        0.17154839972594696
+      ]
+    },
+    {
+      "oldPage": 18,
+      "canonical": "portfolio-51/018.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 19,
+      "canonical": "portfolio-51/019.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 20,
+      "canonical": "portfolio-51/020.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 21,
+      "canonical": "portfolio-51/021.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 22,
+      "canonical": "portfolio-51/022.webp",
+      "bytesIdentical": false,
+      "pixelsIdentical": false,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.005563276891455417,
+        0.0055975335225604385,
+        0.005570128217676422
+      ]
+    },
+    {
+      "oldPage": 23,
+      "canonical": "portfolio-51/023.webp",
+      "bytesIdentical": false,
+      "pixelsIdentical": false,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.46464422041695214,
+        0.4487168444748948,
+        0.47037192913771164
+      ]
+    },
+    {
+      "oldPage": 24,
+      "canonical": "portfolio-51/024.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 25,
+      "canonical": "portfolio-51/025.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 26,
+      "canonical": "portfolio-51/026.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 27,
+      "canonical": "portfolio-51/027.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 28,
+      "canonical": "portfolio-51/028.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 29,
+      "canonical": "portfolio-51/029.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 30,
+      "canonical": "portfolio-51/030.webp",
+      "bytesIdentical": false,
+      "pixelsIdentical": false,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0019966722129783694,
+        0.0020534403445238328,
+        0.0020113536263090927
+      ]
+    },
+    {
+      "oldPage": 31,
+      "canonical": "portfolio-51/031.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 32,
+      "canonical": "portfolio-51/032.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 33,
+      "canonical": "portfolio-51/033.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 34,
+      "canonical": "portfolio-51/034.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 35,
+      "canonical": "portfolio-51/035.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 36,
+      "canonical": "portfolio-51/036.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 37,
+      "canonical": "portfolio-51/037.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 38,
+      "canonical": "portfolio-51/038.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 39,
+      "canonical": "portfolio-51/039.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 40,
+      "canonical": "portfolio-51/040.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 41,
+      "canonical": "portfolio-51/041.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 42,
+      "canonical": "portfolio-51/042.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 43,
+      "canonical": "portfolio-51/043.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 44,
+      "canonical": "portfolio-51/044.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 45,
+      "canonical": "portfolio-51/045.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 46,
+      "canonical": "portfolio-51/046.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 47,
+      "canonical": "portfolio-51/047.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 48,
+      "canonical": "portfolio-51/048.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 49,
+      "canonical": "portfolio-51/049.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 50,
+      "canonical": "portfolio-51/050.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 51,
+      "canonical": "portfolio-51/051.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 52,
+      "canonical": "office-fitness/001.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 53,
+      "canonical": "office-fitness/002.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 54,
+      "canonical": "office-fitness/003.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 55,
+      "canonical": "office-fitness/004.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 56,
+      "canonical": "office-fitness/005.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 57,
+      "canonical": "office-fitness/006.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 58,
+      "canonical": "office-fitness/007.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 59,
+      "canonical": "office-fitness/008.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 60,
+      "canonical": "office-fitness/009.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 61,
+      "canonical": "office-fitness/010.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 62,
+      "canonical": "office-fitness/011.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "oldPage": 63,
+      "canonical": "office-fitness/012.webp",
+      "bytesIdentical": true,
+      "pixelsIdentical": true,
+      "textIdentical": true,
+      "meanAbsoluteRgbDifference": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "embeddedBoards": [
+    {
+      "object": "X1",
+      "case": "baobab-glow",
+      "local": "local-02",
+      "originalDimensions": [
+        4096,
+        2893
+      ],
+      "displayDimensions": [
+        3600,
+        2543
+      ],
+      "sha256": "ec51da77f599c55bf6f3b92914a3ab13d4a484296e3ac37226167d25faf9791f",
+      "publicPath": "/works/documents/embedded-boards/x1.webp",
+      "normalizedMeanAbsoluteRgbDifference": [
+        0.7174875,
+        0.6053425,
+        0.74851375
+      ]
+    },
+    {
+      "object": "X2",
+      "case": "bat-quad",
+      "local": "local-01",
+      "originalDimensions": [
+        2896,
+        4096
+      ],
+      "displayDimensions": [
+        2545,
+        3600
+      ],
+      "sha256": "5525a2963545a6a2440d322e60ddaa0b77c948a28f720ae221baf0c32b50a5d4",
+      "publicPath": "/works/documents/embedded-boards/x2.webp",
+      "normalizedMeanAbsoluteRgbDifference": [
+        0.87677125,
+        0.70271,
+        1.09382125
+      ]
+    },
+    {
+      "object": "X3",
+      "case": "cloudwing",
+      "local": "local-06",
+      "originalDimensions": [
+        2896,
+        4096
+      ],
+      "displayDimensions": [
+        2545,
+        3600
+      ],
+      "sha256": "7dede7b46f5638432c0eecab3616f46b22b3c79aaba4c1392433d038fd147acb",
+      "publicPath": "/works/documents/embedded-boards/x3.webp",
+      "normalizedMeanAbsoluteRgbDifference": [
+        0.70860875,
+        0.61878375,
+        0.6826625
+      ]
+    },
+    {
+      "object": "X4",
+      "case": "little-orange",
+      "local": "local-07",
+      "originalDimensions": [
+        2896,
+        4096
+      ],
+      "displayDimensions": [
+        2545,
+        3600
+      ],
+      "sha256": "3eeaa2f7f0409fda94a19a188def756c636e7054ff29a596f2753d6f41f8f593",
+      "publicPath": "/works/documents/embedded-boards/x4.webp",
+      "normalizedMeanAbsoluteRgbDifference": [
+        0.95556625,
+        0.6839775,
+        1.16803875
+      ]
+    },
+    {
+      "object": "X5",
+      "case": "water-guardian",
+      "local": "local-08",
+      "originalDimensions": [
+        3182,
+        4096
+      ],
+      "displayDimensions": [
+        2797,
+        3600
+      ],
+      "sha256": "f493deb99c23acb53fad21bd57ad2b9d1b413deaafa437f87281f6e0f45e00ea",
+      "publicPath": "/works/documents/embedded-boards/x5.webp",
+      "normalizedMeanAbsoluteRgbDifference": [
+        0.9346275,
+        0.7644675,
+        1.19678875
+      ]
+    },
+    {
+      "object": "X6",
+      "case": "yuju",
+      "local": "local-04",
+      "originalDimensions": [
+        2896,
+        4096
+      ],
+      "displayDimensions": [
+        2545,
+        3600
+      ],
+      "sha256": "750f1c78116e72b717ff82e65b767801481e7d05d1546b7995813c45fd770499",
+      "publicPath": "/works/documents/embedded-boards/x6.webp",
+      "normalizedMeanAbsoluteRgbDifference": [
+        0.5984425,
+        0.42462375,
+        0.8597075
+      ]
+    },
+    {
+      "object": "X7",
+      "case": "ecological-harvest",
+      "local": null,
+      "originalDimensions": [
+        2896,
+        4096
+      ],
+      "displayDimensions": [
+        2545,
+        3600
+      ],
+      "sha256": "9315a985e38c7ef7716d45a84ba6d85fae851a88e0065d75f01a95c9c832e343",
+      "publicPath": "/works/documents/embedded-boards/x7.webp"
+    },
+    {
+      "object": "X8",
+      "case": "purewater-rolling-filter",
+      "local": null,
+      "originalDimensions": [
+        4096,
+        2893
+      ],
+      "displayDimensions": [
+        3600,
+        2543
+      ],
+      "sha256": "b173f2112437e9b43a15c21225d2b081eca7012e2a3307bfb912e7fd42310228",
+      "publicPath": "/works/documents/embedded-boards/x8.webp"
+    },
+    {
+      "object": "X9",
+      "case": "polar-wing",
+      "local": null,
+      "originalDimensions": [
+        2896,
+        4096
+      ],
+      "displayDimensions": [
+        2545,
+        3600
+      ],
+      "sha256": "5de1a93a9732d7bba2f823ef16c47879b5f1ad4f026c62d240025d363ba3b192",
+      "publicPath": "/works/documents/embedded-boards/x9.webp"
+    }
+  ],
+  "errors": []
+}

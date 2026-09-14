@@ -1,0 +1,33 @@
+{
+  "name": "eagle-aesthetic-atlas",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Evidence-led design style atlas and idempotent Eagle 4 importer.",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "check": "tsc -p tsconfig.json --noEmit && vitest run",
+    "taxonomy": "tsx src/cli.ts taxonomy",
+    "collect": "tsx src/cli.ts collect",
+    "download": "tsx src/cli.ts download",
+    "cards": "tsx src/cli.ts cards",
+    "plugin": "tsx src/cli.ts plugin",
+    "manifest": "tsx src/cli.ts manifest",
+    "audit": "tsx src/cli.ts audit",
+    "dry-run": "tsx src/cli.ts dry-run"
+  },
+  "dependencies": {
+    "commander": "^14.0.0",
+    "sharp": "^0.35.3",
+    "zod": "^4.1.5"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

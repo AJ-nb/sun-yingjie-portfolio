@@ -1,0 +1,384 @@
+[
+  {
+    "page": 1,
+    "file": "tests/originals/G1.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": null,
+    "rendered_box": [
+      60,
+      463,
+      450,
+      600
+    ],
+    "tag": null,
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 1,
+    "file": "tests/originals/G1-E3.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": null,
+    "rendered_box": [
+      570,
+      463,
+      450,
+      600
+    ],
+    "tag": null,
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 3,
+    "file": "tests/originals/P1.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": null,
+    "rendered_box": [
+      60,
+      334,
+      300,
+      400
+    ],
+    "tag": null,
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 3,
+    "file": "tests/originals/P2.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": null,
+    "rendered_box": [
+      390,
+      334,
+      300,
+      400
+    ],
+    "tag": null,
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 3,
+    "file": "tests/originals/P3.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": null,
+    "rendered_box": [
+      720,
+      334,
+      300,
+      400
+    ],
+    "tag": null,
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 3,
+    "file": "tests/originals/P2.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": [
+      155,
+      20,
+      955,
+      470
+    ],
+    "rendered_box": [
+      60,
+      865,
+      470,
+      264
+    ],
+    "tag": "P2 hierarchy crop",
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 4,
+    "file": "inputs/package-reference.png",
+    "source_size": [
+      1024,
+      1024
+    ],
+    "crop": [
+      278,
+      235,
+      749,
+      818
+    ],
+    "rendered_box": [
+      71,
+      290,
+      428,
+      530
+    ],
+    "tag": "reference near-silhouette crop, equal display height",
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 4,
+    "file": "tests/originals/G1.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": [
+      230,
+      294,
+      855,
+      1097
+    ],
+    "rendered_box": [
+      588,
+      290,
+      413,
+      530
+    ],
+    "tag": "G1 near-silhouette crop, equal display height",
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 4,
+    "file": "tests/originals/G2.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": null,
+    "rendered_box": [
+      60,
+      932,
+      210,
+      280
+    ],
+    "tag": null,
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 4,
+    "file": "tests/originals/G3.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": null,
+    "rendered_box": [
+      290,
+      932,
+      210,
+      280
+    ],
+    "tag": null,
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 5,
+    "file": "inputs/layout-sketch.png",
+    "source_size": [
+      1080,
+      1440
+    ],
+    "crop": null,
+    "rendered_box": [
+      129,
+      338,
+      311,
+      415
+    ],
+    "tag": null,
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 5,
+    "file": "tests/originals/S1.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": null,
+    "rendered_box": [
+      639,
+      338,
+      311,
+      415
+    ],
+    "tag": null,
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 5,
+    "file": "tests/originals/S2.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": null,
+    "rendered_box": [
+      129,
+      833,
+      311,
+      415
+    ],
+    "tag": null,
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 5,
+    "file": "tests/originals/S3.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": null,
+    "rendered_box": [
+      639,
+      833,
+      311,
+      415
+    ],
+    "tag": null,
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 6,
+    "file": "tests/originals/G2.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": null,
+    "rendered_box": [
+      127,
+      327,
+      316,
+      422
+    ],
+    "tag": null,
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 6,
+    "file": "tests/originals/G2-E1.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": null,
+    "rendered_box": [
+      637,
+      327,
+      316,
+      422
+    ],
+    "tag": null,
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 6,
+    "file": "tests/originals/G2-E2.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": null,
+    "rendered_box": [
+      127,
+      827,
+      316,
+      422
+    ],
+    "tag": null,
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 6,
+    "file": "tests/originals/G2-E3.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": null,
+    "rendered_box": [
+      637,
+      827,
+      316,
+      422
+    ],
+    "tag": null,
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 7,
+    "file": "tests/originals/G1-E1.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": [
+      240,
+      300,
+      845,
+      455
+    ],
+    "rendered_box": [
+      62,
+      346,
+      956,
+      245
+    ],
+    "tag": "equal crop lid before",
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 7,
+    "file": "tests/originals/G1-E3.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": [
+      240,
+      300,
+      845,
+      455
+    ],
+    "rendered_box": [
+      62,
+      693,
+      956,
+      245
+    ],
+    "tag": "equal crop lid after",
+    "operations": "crop if specified, proportional resize, no retouch"
+  },
+  {
+    "page": 8,
+    "file": "tests/originals/G3-E3.png",
+    "source_size": [
+      1086,
+      1448
+    ],
+    "crop": null,
+    "rendered_box": [
+      60,
+      808,
+      330,
+      440
+    ],
+    "tag": null,
+    "operations": "crop if specified, proportional resize, no retouch"
+  }
+]

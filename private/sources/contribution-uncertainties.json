@@ -1,0 +1,2717 @@
+{
+  "schemaVersion": 1,
+  "recordedAt": "2026-09-14T17:18:40.637677+00:00",
+  "scope": "Editorial removal of public contribution placeholders; factual attribution and rights limitations remain. Unknown contributions are archived here, not resolved by the edit.",
+  "casesReviewed": 30,
+  "filesReviewed": 60,
+  "filesEdited": 54,
+  "caseRecords": [
+    {
+      "case": "aesthetic-atlas",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。"
+      ],
+      "knownAttribution": {
+        "zh": "机构原作保留各自作者权利；learnui 与 aesthetic-frontend-skills 仅作词汇种子；研究系统与学习卡共同创作",
+        "en": "Institutional works retain their authors' rights; learnui and aesthetic-frontend-skills serve only as vocabulary seeds; collaborative research-system and study-card work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/aesthetic-atlas.zh.md",
+          "changed": true,
+          "beforeSha256": "40157d4906f093da7f2f4384608f8eab158d4366d780c2a994a41aea102e6708",
+          "afterSha256": "89d9fe13781d4e51b0690448a011d651c010b24d1355ef3d203f4d6a70757981",
+          "before": {
+            "role": "研究系统与学习卡共同创作，具体分工待补充",
+            "credits": "机构原作保留各自作者权利；learnui 与 aesthetic-frontend-skills 仅作词汇种子；项目协作分工待补充",
+            "roleSection": "研究系统与学习卡为共同创作，具体分工待补充。展示重点是分类组织、卡片版式和资料归档；机构作品保留原作者权利，不能作为本人的原创设计。learnui 与 aesthetic-frontend-skills 仅用于早期词汇整理。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "机构原作保留各自作者权利；learnui 与 aesthetic-frontend-skills 仅作词汇种子；研究系统与学习卡共同创作",
+            "roleSection": "研究系统与学习卡为共同创作。展示重点是分类组织、卡片版式和资料归档；机构作品保留原作者权利，不能作为本人的原创设计。learnui 与 aesthetic-frontend-skills 仅用于早期词汇整理。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"研究系统与学习卡共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"机构原作保留各自作者权利；learnui 与 aesthetic-frontend-skills 仅作词汇种子；项目协作分工待补充\""
+            },
+            {
+              "line": 18,
+              "text": "研究系统与学习卡为共同创作，具体分工待补充。展示重点是分类组织、卡片版式和资料归档；机构作品保留原作者权利，不能作为本人的原创设计。learnui 与 aesthetic-frontend-skills 仅用于早期词汇整理。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/digital/aesthetic-atlas/bauhaus-product-dna.webp",
+            "/works/digital/aesthetic-atlas/bauhaus-product-transfer.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/aesthetic-atlas.en.md",
+          "changed": true,
+          "beforeSha256": "3b53ed437f47bb61b5d00b0891ecb531ce680df1e98b61cbce38a02d51e617f8",
+          "afterSha256": "c19344e7f2158781ecffe168514a76b2b88d7655e6dc0c2689fd32d4d429c311",
+          "before": {
+            "role": "Collaborative research-system and study-card work; individual roles to be confirmed",
+            "credits": "Institutional works retain their authors' rights; learnui and aesthetic-frontend-skills serve only as vocabulary seeds; contributor roles to be completed",
+            "roleSection": "The research system and study cards are collaborative work; individual roles remain to be confirmed. This case focuses on classification, card layout and reference organisation. Institutional works retain their authors' rights and are not presented as my original designs. learnui and aesthetic-frontend-skills were used only for early vocabulary organisation."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Institutional works retain their authors' rights; learnui and aesthetic-frontend-skills serve only as vocabulary seeds; collaborative research-system and study-card work",
+            "roleSection": "The research system and study cards are collaborative work. This case focuses on classification, card layout and reference organisation. Institutional works retain their authors' rights and are not presented as my original designs. learnui and aesthetic-frontend-skills were used only for early vocabulary organisation."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative research-system and study-card work; individual roles to be confirmed\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Institutional works retain their authors' rights; learnui and aesthetic-frontend-skills serve only as vocabulary seeds; contributor roles to be completed\""
+            },
+            {
+              "line": 18,
+              "text": "The research system and study cards are collaborative work; individual roles remain to be confirmed. This case focuses on classification, card layout and reference organisation. Institutional works retain their authors' rights and are not presented as my original designs. learnui and aesthetic-frontend-skills were used only for early vocabulary organisation."
+            }
+          ],
+          "preservedMedia": [
+            "/works/digital/aesthetic-atlas/bauhaus-product-dna.webp",
+            "/works/digital/aesthetic-atlas/bauhaus-product-transfer.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "视觉研究资料系统、学习卡与归档工具；机构作品作者权利不归本项目。"
+        },
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "独立目录与 AJNB 内 packages/aesthetic-atlas 是同一图谱项目，不重复计数。"
+        },
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "参考机构作品图片、草稿目录与词汇种子项目未作为原创作品公开展示。"
+        }
+      ]
+    },
+    {
+      "case": "arcteryx",
+      "uncertainties": [],
+      "knownAttribution": {
+        "zh": "BENWU 团队协作；Arc’teryx 品牌及标识归其权利人所有",
+        "en": "Collaboration with the BENWU team; Arc’teryx branding and trademarks belong to their respective rights holders"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/arcteryx.zh.md",
+          "changed": false,
+          "beforeSha256": "b75e47b78f4c536972b5e7ec29832043ed0a1966f868119313e8a7310621a1db",
+          "afterSha256": "b75e47b78f4c536972b5e7ec29832043ed0a1966f868119313e8a7310621a1db",
+          "before": {
+            "role": "参与三维设计和视觉呈现",
+            "credits": "BENWU 团队协作；Arc’teryx 品牌及标识归其权利人所有",
+            "roleSection": "在 BENWU 团队协作中，参与三维设计和视觉呈现。橱窗属于团队合作项目；Arc’teryx 品牌、标识及相关品牌内容归相应权利人所有。"
+          },
+          "after": {
+            "role": "参与三维设计和视觉呈现",
+            "credits": "BENWU 团队协作；Arc’teryx 品牌及标识归其权利人所有",
+            "roleSection": "在 BENWU 团队协作中，参与三维设计和视觉呈现。橱窗属于团队合作项目；Arc’teryx 品牌、标识及相关品牌内容归相应权利人所有。"
+          },
+          "archivedPlaceholderLines": [],
+          "preservedMedia": [
+            "/works/legacy/arcteryx/cb880134dd55b4ea48ac6a2c188bf65b.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/arcteryx.en.md",
+          "changed": false,
+          "beforeSha256": "a305c741d90ef0698b00bf6533ff7821162c37b1e8c736885bf36dea30a51a5c",
+          "afterSha256": "a305c741d90ef0698b00bf6533ff7821162c37b1e8c736885bf36dea30a51a5c",
+          "before": {
+            "role": "Contributed to 3D design and visual presentation",
+            "credits": "Collaboration with the BENWU team; Arc’teryx branding and trademarks belong to their respective rights holders",
+            "roleSection": "Contributed to 3D design and visual presentation in collaboration with the BENWU team. The window is a collective project. Arc’teryx branding, trademarks and related brand content belong to their respective rights holders."
+          },
+          "after": {
+            "role": "Contributed to 3D design and visual presentation",
+            "credits": "Collaboration with the BENWU team; Arc’teryx branding and trademarks belong to their respective rights holders",
+            "roleSection": "Contributed to 3D design and visual presentation in collaboration with the BENWU team. The window is a collective project. Arc’teryx branding, trademarks and related brand content belong to their respective rights holders."
+          },
+          "archivedPlaceholderLines": [],
+          "preservedMedia": [
+            "/works/legacy/arcteryx/cb880134dd55b4ea48ac6a2c188bf65b.webp"
+          ]
+        }
+      },
+      "changed": false,
+      "sourceEvidence": []
+    },
+    {
+      "case": "baobab-glow",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。"
+      ],
+      "knownAttribution": {
+        "zh": "原展板署名：邓志成；合作项目",
+        "en": "Original board credit: Deng Zhicheng (邓志成); collaborative project"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/baobab-glow.zh.md",
+          "changed": true,
+          "beforeSha256": "e8f152b45aab8e4d0623fa204d071ac685c00fb741742aee988cdc1c4b77641a",
+          "afterSha256": "9e8eafe32cbe68c040f0c87caa64b4fb2fb69b080da99657f0f50618c65a059f",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "原展板署名：邓志成；合作项目",
+            "roleSection": "本项目为合作项目，原展板署名邓志成；具体分工待补充。展示内容涵盖产品形态、部件关系、故事板与使用场景。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "原展板署名：邓志成；合作项目",
+            "roleSection": "本项目为合作项目，原展板署名邓志成。展示内容涵盖产品形态、部件关系、故事板与使用场景。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 18,
+              "text": "本项目为合作项目，原展板署名邓志成；具体分工待补充。展示内容涵盖产品形态、部件关系、故事板与使用场景。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x1.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/baobab-glow.en.md",
+          "changed": true,
+          "beforeSha256": "de50c596cf27c859a8c95021768c136a5247308ec02960202e4987b0d0662725",
+          "afterSha256": "cb502f89e284ccaa766bc80d1acfd665b8dafbd65d42ffe5e7f3cfc40b52f9a5",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Original board credit: Deng Zhicheng (邓志成); collaborative project",
+            "roleSection": "This is a collaborative project. The original board credits Deng Zhicheng (邓志成); the specific division of responsibilities remains to be documented. The material presents product form, component relationships, a storyboard and use scenarios."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Original board credit: Deng Zhicheng (邓志成); collaborative project",
+            "roleSection": "This is a collaborative project. The original board credits Deng Zhicheng (邓志成). The material presents product form, component relationships, a storyboard and use scenarios."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 18,
+              "text": "This is a collaborative project. The original board credits Deng Zhicheng (邓志成); the specific division of responsibilities remains to be documented. The material presents product form, component relationships, a storyboard and use scenarios."
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x1.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "展板原署名为邓志成21090303；依据用户说明按合作项目收录，个人分工未核实。"
+        },
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "local-02与X1为相同内容的不同尺寸版本；署名完整保留。"
+        }
+      ]
+    },
+    {
+      "case": "bat-quad",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "其他参与者的完整姓名清单未核实。当前已有的团队/原展板姓名全部保留，未新增姓名。"
+      ],
+      "knownAttribution": {
+        "zh": "合作项目；原始展板信息随作品保留",
+        "en": "Collaborative project; original board information is preserved with the work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/bat-quad.zh.md",
+          "changed": true,
+          "beforeSha256": "2fa506bb496d0585856aeb8a8040fd0a7d332899bdaa45330dbc4959528ade17",
+          "afterSha256": "90dfff26d0ef345d36cf1d21dc82b204462318ab024b68dcf57b0d7cf598c983",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "合作项目；其他成员署名待补充",
+            "roleSection": "本项目为合作项目，具体分工与其他成员署名待补充。展示内容包括草图、整车造型、部件分解、三视图和配色研究。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "合作项目；原始展板信息随作品保留",
+            "roleSection": "本项目为合作项目。展示内容包括草图、整车造型、部件分解、三视图和配色研究。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"合作项目；其他成员署名待补充\""
+            },
+            {
+              "line": 18,
+              "text": "本项目为合作项目，具体分工与其他成员署名待补充。展示内容包括草图、整车造型、部件分解、三视图和配色研究。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x2.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/bat-quad.en.md",
+          "changed": true,
+          "beforeSha256": "f43af3b5d36d9479f2a90be153058b475f96944624fa1738988e3e33bdaa99b7",
+          "afterSha256": "63e194ac2601568a8ae9fdc4dee475600092bfe811477b4f6dfe86c7778ea770",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Collaborative project; other team credits to be documented",
+            "roleSection": "This is a collaborative project; the division of responsibilities and other team credits remain to be documented. The material includes sketches, overall form, component breakdowns, orthographic views and color studies."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative project; original board information is preserved with the work",
+            "roleSection": "This is a collaborative project. The material includes sketches, overall form, component breakdowns, orthographic views and color studies."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative project; other team credits to be documented\""
+            },
+            {
+              "line": 18,
+              "text": "This is a collaborative project; the division of responsibilities and other team credits remain to be documented. The material includes sketches, overall form, component breakdowns, orthographic views and color studies."
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x2.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。"
+        }
+      ]
+    },
+    {
+      "case": "cloudwing",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "其他参与者的完整姓名清单未核实。当前已有的团队/原展板姓名全部保留，未新增姓名。"
+      ],
+      "knownAttribution": {
+        "zh": "合作项目；原始展板信息随作品保留",
+        "en": "Collaborative project; original board information is preserved with the work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/cloudwing.zh.md",
+          "changed": true,
+          "beforeSha256": "b80ce119d0c99ec948f51b7ec8b9db651de86969cc1a2d4b3944df039e78b1cf",
+          "afterSha256": "cf839d7d97a0f07dd3b97033dc77c0a9957e74cbfa7047be5857d720ed54a2be",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "合作项目；其他成员署名待补充",
+            "roleSection": "本项目为合作项目，具体分工与其他成员署名待补充。展示内容包括草图、机身比例、舱盖、座舱、起降支撑和场景渲染。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "合作项目；原始展板信息随作品保留",
+            "roleSection": "本项目为合作项目。展示内容包括草图、机身比例、舱盖、座舱、起降支撑和场景渲染。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"合作项目；其他成员署名待补充\""
+            },
+            {
+              "line": 18,
+              "text": "本项目为合作项目，具体分工与其他成员署名待补充。展示内容包括草图、机身比例、舱盖、座舱、起降支撑和场景渲染。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x3.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/cloudwing.en.md",
+          "changed": true,
+          "beforeSha256": "61fd9cf856d4f41f008e68201abcc1f2723e5afd19aa9f8eef3db1e158169960",
+          "afterSha256": "332c90bea88dd40bbe865b4a833dfd48900533e24aded6a093d430758e04689e",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Collaborative project; other team credits to be documented",
+            "roleSection": "This is a collaborative project; the division of responsibilities and other team credits remain to be documented. The material includes sketches, body proportions, a canopy, cabin, landing supports and scene renders."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative project; original board information is preserved with the work",
+            "roleSection": "This is a collaborative project. The material includes sketches, body proportions, a canopy, cabin, landing supports and scene renders."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative project; other team credits to be documented\""
+            },
+            {
+              "line": 18,
+              "text": "This is a collaborative project; the division of responsibilities and other team credits remain to be documented. The material includes sketches, body proportions, a canopy, cabin, landing supports and scene renders."
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x3.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。"
+        }
+      ]
+    },
+    {
+      "case": "construction-recycler",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "其他参与者的完整姓名清单未核实。当前已有的团队/原展板姓名全部保留，未新增姓名。"
+      ],
+      "knownAttribution": {
+        "zh": "合作项目；原始展板信息随作品保留",
+        "en": "Collaborative project; original board information is preserved with the work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/construction-recycler.zh.md",
+          "changed": true,
+          "beforeSha256": "7b41f4a7571006b70b0503ce4d1d92e568284491d06d8a2488d4b8204f5ad6c3",
+          "afterSha256": "b60b33c3d34d2593efd788862dd98851364b26b8e18397c0c3ed60fcd2aa9760",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "合作项目；其他成员署名待补充",
+            "roleSection": "本项目为合作项目，具体分工与其他成员署名待补充。展示内容涵盖工艺流程、模块布局、运输组合、剖视与部件特写。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "合作项目；原始展板信息随作品保留",
+            "roleSection": "本项目为合作项目。展示内容涵盖工艺流程、模块布局、运输组合、剖视与部件特写。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"合作项目；其他成员署名待补充\""
+            },
+            {
+              "line": 18,
+              "text": "本项目为合作项目，具体分工与其他成员署名待补充。展示内容涵盖工艺流程、模块布局、运输组合、剖视与部件特写。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/local/local-05.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/construction-recycler.en.md",
+          "changed": true,
+          "beforeSha256": "fdb762143c6900020eaaf3d8722637200c9f5e3c71ce6ca36c58f251758c1315",
+          "afterSha256": "fc998bab0643821f4da584934845f738e122729cbfd7a1762333e91a85d28812",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Collaborative project; other team credits to be documented",
+            "roleSection": "This is a collaborative project; the division of responsibilities and other team credits remain to be documented. The material covers process flow, module layout, transport arrangements, cutaways and component details."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative project; original board information is preserved with the work",
+            "roleSection": "This is a collaborative project. The material covers process flow, module layout, transport arrangements, cutaways and component details."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative project; other team credits to be documented\""
+            },
+            {
+              "line": 18,
+              "text": "This is a collaborative project; the division of responsibilities and other team credits remain to be documented. The material covers process flow, module layout, transport arrangements, cutaways and component details."
+            }
+          ],
+          "preservedMedia": [
+            "/works/local/local-05.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。"
+        }
+      ]
+    },
+    {
+      "case": "ecological-harvest",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "其他参与者的完整姓名清单未核实。当前已有的团队/原展板姓名全部保留，未新增姓名。"
+      ],
+      "knownAttribution": {
+        "zh": "合作项目；原始展板信息随作品保留",
+        "en": "Collaborative project; original board information is preserved with the work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/ecological-harvest.zh.md",
+          "changed": true,
+          "beforeSha256": "6be98159b521db323da832f11843feda0beed9b190d6ea1b109ec61f9c34af7f",
+          "afterSha256": "645df26467d79109051b877d079b564ab0406467f2cbeae7c0a4091f5fb341e6",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "合作项目；其他成员署名待补充",
+            "roleSection": "本项目为合作项目，具体分工与其他成员署名待补充。展示内容包括整车造型、内部通道、模块配置、信息屏、维护位置和人机尺度。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "合作项目；原始展板信息随作品保留",
+            "roleSection": "本项目为合作项目。展示内容包括整车造型、内部通道、模块配置、信息屏、维护位置和人机尺度。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"合作项目；其他成员署名待补充\""
+            },
+            {
+              "line": 18,
+              "text": "本项目为合作项目，具体分工与其他成员署名待补充。展示内容包括整车造型、内部通道、模块配置、信息屏、维护位置和人机尺度。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x7.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/ecological-harvest.en.md",
+          "changed": true,
+          "beforeSha256": "e85ee45af6902664a666f7dcb7945e5f80d96a31c9fc35c38856b1c1dcc18e1f",
+          "afterSha256": "130e09e0c7cdebb56201a637ab06e115d67fbfb920a2966a12ba0969de609243",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Collaborative project; other team credits to be documented",
+            "roleSection": "This is a collaborative project; the division of responsibilities and other team credits remain to be documented. The material includes vehicle form, internal passages, module configuration, an information display, maintenance positions and human-scale illustrations."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative project; original board information is preserved with the work",
+            "roleSection": "This is a collaborative project. The material includes vehicle form, internal passages, module configuration, an information display, maintenance positions and human-scale illustrations."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative project; other team credits to be documented\""
+            },
+            {
+              "line": 18,
+              "text": "This is a collaborative project; the division of responsibilities and other team credits remain to be documented. The material includes vehicle form, internal passages, module configuration, an information display, maintenance positions and human-scale illustrations."
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x7.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。"
+        }
+      ]
+    },
+    {
+      "case": "formline",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。"
+      ],
+      "knownAttribution": {
+        "zh": "共同创作；使用 PlaneGCS、Paper.js 等开源组件并保留相应许可",
+        "en": "Collaborative work using PlaneGCS, Paper.js and other open-source components under their respective licenses"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/formline.zh.md",
+          "changed": true,
+          "beforeSha256": "6b0e6f11f742fcca00711fee89e39da702ab5e2fde4f3a5b4f837550ead95436",
+          "afterSha256": "57c0889fdca115d0ef733ea40fc83a9ae9812ffcac161d26b91b65f5964e3b07",
+          "before": {
+            "role": "工具产品与交互共同创作，具体分工待补充",
+            "credits": "共同创作；协作者分工待补充；使用 PlaneGCS、Paper.js 等开源组件并保留相应许可",
+            "roleSection": "工具产品与交互为共同创作，具体分工待补充。展示范围包括画布、约束与图层操作、光学校正、诊断信息和导出路径。几何求解与绘图使用开源组件，保留其贡献和许可证。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "共同创作；使用 PlaneGCS、Paper.js 等开源组件并保留相应许可",
+            "roleSection": "工具产品与交互为共同创作。展示范围包括画布、约束与图层操作、光学校正、诊断信息和导出路径。几何求解与绘图使用开源组件，保留其贡献和许可证。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"工具产品与交互共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"共同创作；协作者分工待补充；使用 PlaneGCS、Paper.js 等开源组件并保留相应许可\""
+            },
+            {
+              "line": 18,
+              "text": "工具产品与交互为共同创作，具体分工待补充。展示范围包括画布、约束与图层操作、光学校正、诊断信息和导出路径。几何求解与绘图使用开源组件，保留其贡献和许可证。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/digital/formline/editor-desktop.webp",
+            "/works/digital/formline/editor-mobile.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/formline.en.md",
+          "changed": true,
+          "beforeSha256": "0b085303554c645b6fb68198d671ce0c3ba89bb71e0f33ddf22bbebec793bf7b",
+          "afterSha256": "bc05123ec62bb67278882be51b9287914f6c929688093769f4f773bb0144fa21",
+          "before": {
+            "role": "Collaborative tool and interaction work; individual roles to be confirmed",
+            "credits": "Collaborative work; contributor roles to be completed; PlaneGCS, Paper.js and other open-source components retain their licenses",
+            "roleSection": "The tool and interaction work is collaborative; individual roles remain to be confirmed. The material covers the canvas, constraints and layers, optical corrections, diagnostic information and export flow. Open-source components support solving and drawing, with their contributions and licenses retained."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative work using PlaneGCS, Paper.js and other open-source components under their respective licenses",
+            "roleSection": "The tool and interaction work is collaborative. The material covers the canvas, constraints and layers, optical corrections, diagnostic information and export flow. Open-source components support solving and drawing, with their contributions and licenses retained."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative tool and interaction work; individual roles to be confirmed\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative work; contributor roles to be completed; PlaneGCS, Paper.js and other open-source components retain their licenses\""
+            },
+            {
+              "line": 18,
+              "text": "The tool and interaction work is collaborative; individual roles remain to be confirmed. The material covers the canvas, constraints and layers, optical corrections, diagnostic information and export flow. Open-source components support solving and drawing, with their contributions and licenses retained."
+            }
+          ],
+          "preservedMedia": [
+            "/works/digital/formline/editor-desktop.webp",
+            "/works/digital/formline/editor-mobile.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "几何设计工具的产品与交互实现；原始资料未逐项拆分个人与 AI 贡献。"
+        },
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "未发现独立 Git 远端，不编造在线地址。"
+        }
+      ]
+    },
+    {
+      "case": "go-glow",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "其他参与者的完整姓名清单未核实。当前已有的团队/原展板姓名全部保留，未新增姓名。"
+      ],
+      "knownAttribution": {
+        "zh": "合作项目；原始展板信息随作品保留",
+        "en": "Collaborative project; original board information is preserved with the work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/go-glow.zh.md",
+          "changed": true,
+          "beforeSha256": "08f2545fd39a087562bdabe69f8a01582ccd86810e1bd46e6b3c4ef12f8d9db6",
+          "afterSha256": "cc5b9858d6915dc7b1ee1406ba5c979c69483788e76e5b1db459f6ed5a6d9ef7",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "合作项目；其他成员署名待补充",
+            "roleSection": "本项目为合作项目，具体分工待补充。展示内容包括需求情境、模块组合、草图、使用方式、配套界面与产品渲染。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "合作项目；原始展板信息随作品保留",
+            "roleSection": "本项目为合作项目。展示内容包括需求情境、模块组合、草图、使用方式、配套界面与产品渲染。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"合作项目；其他成员署名待补充\""
+            },
+            {
+              "line": 24,
+              "text": "本项目为合作项目，具体分工待补充。展示内容包括需求情境、模块组合、草图、使用方式、配套界面与产品渲染。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/legacy-full-portfolio/030.webp",
+            "/works/documents/portfolio-51/029.webp",
+            "/works/documents/portfolio-51/030.webp",
+            "/works/documents/portfolio-51/031.webp",
+            "/works/documents/portfolio-51/032.webp",
+            "/works/documents/portfolio-51/033.webp",
+            "/works/documents/portfolio-51/034.webp",
+            "/works/documents/portfolio-51/035.webp",
+            "/works/documents/portfolio-51/036.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/go-glow.en.md",
+          "changed": true,
+          "beforeSha256": "a4e6c062f3606a6ed2cdc1efc9bf8617d4a8742f62698c06171d7e1433780748",
+          "afterSha256": "841d347aa0a41145615850c8fde915646865a46f44964a0e3c7c5114ca3f0ae7",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Collaborative project; other team credits to be documented",
+            "roleSection": "This is a collaborative project; the specific division of responsibilities remains to be documented. The material covers use scenarios, module combinations, sketches, usage illustrations, a companion interface and product renders."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative project; original board information is preserved with the work",
+            "roleSection": "This is a collaborative project. The material covers use scenarios, module combinations, sketches, usage illustrations, a companion interface and product renders."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative project; other team credits to be documented\""
+            },
+            {
+              "line": 24,
+              "text": "This is a collaborative project; the specific division of responsibilities remains to be documented. The material covers use scenarios, module combinations, sketches, usage illustrations, a companion interface and product renders."
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/legacy-full-portfolio/030.webp",
+            "/works/documents/portfolio-51/029.webp",
+            "/works/documents/portfolio-51/030.webp",
+            "/works/documents/portfolio-51/031.webp",
+            "/works/documents/portfolio-51/032.webp",
+            "/works/documents/portfolio-51/033.webp",
+            "/works/documents/portfolio-51/034.webp",
+            "/works/documents/portfolio-51/035.webp",
+            "/works/documents/portfolio-51/036.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。"
+        }
+      ]
+    },
+    {
+      "case": "hermes",
+      "uncertainties": [],
+      "knownAttribution": {
+        "zh": "BENWU 团队协作；Hermès 品牌及标识归其权利人所有",
+        "en": "Collaboration with the BENWU team; Hermès branding and trademarks belong to their respective rights holders"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/hermes.zh.md",
+          "changed": false,
+          "beforeSha256": "522241affc46a637647707ef5c6ca7aaa488a05e860d394c55521e4eaa79766f",
+          "afterSha256": "522241affc46a637647707ef5c6ca7aaa488a05e860d394c55521e4eaa79766f",
+          "before": {
+            "role": "参与三维设计和视觉呈现",
+            "credits": "BENWU 团队协作；Hermès 品牌及标识归其权利人所有",
+            "roleSection": "在 BENWU 团队协作中，参与三维设计和视觉呈现。以下作品呈现团队共同完成的橱窗内容；Hermès 品牌、标识及相关品牌内容归相应权利人所有。"
+          },
+          "after": {
+            "role": "参与三维设计和视觉呈现",
+            "credits": "BENWU 团队协作；Hermès 品牌及标识归其权利人所有",
+            "roleSection": "在 BENWU 团队协作中，参与三维设计和视觉呈现。以下作品呈现团队共同完成的橱窗内容；Hermès 品牌、标识及相关品牌内容归相应权利人所有。"
+          },
+          "archivedPlaceholderLines": [],
+          "preservedMedia": [
+            "/works/legacy/hermes/043e019544984416521bf2009313a5fb.webp",
+            "/works/legacy/hermes/34aa997644c1849af5a716bd5cdcf55b.webp",
+            "/works/legacy/hermes/40379d8484144b6a435498fcf8b9d857.webp",
+            "/works/legacy/hermes/51a7ab3976cb48ff18f4591b5056409e.webp",
+            "/works/legacy/hermes/54f3c93240044222915bc785ca86bc40.webp",
+            "/works/legacy/hermes/776d28c61be0075bb8c93bffd65035ef.webp",
+            "/works/legacy/hermes/8c4f37a6cb7ca715256d9a6f7dc9e210.webp",
+            "/works/legacy/hermes/a8d210af1968eb83486446dc2f40027a.webp",
+            "/works/legacy/hermes/b1d7e5fa28f89c792ee7a540882cf5ce.webp",
+            "/works/legacy/hermes/bfdc3c738e0adc5a35237a99374f7ac5.webp",
+            "/works/legacy/hermes/e8d955a3898da97773e081384d4117e3.webp",
+            "/works/legacy/hermes/f1455674fa1906fe49bd555bcad97e9c.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/hermes.en.md",
+          "changed": false,
+          "beforeSha256": "59f0df288c25611b60c04020558ccb9a5c49213a7a44ff856050372f273bf659",
+          "afterSha256": "59f0df288c25611b60c04020558ccb9a5c49213a7a44ff856050372f273bf659",
+          "before": {
+            "role": "Contributed to 3D design and visual presentation",
+            "credits": "Collaboration with the BENWU team; Hermès branding and trademarks belong to their respective rights holders",
+            "roleSection": "Contributed to 3D design and visual presentation in collaboration with the BENWU team. The work shown is a collective team contribution. Hermès branding, trademarks and related brand content belong to their respective rights holders."
+          },
+          "after": {
+            "role": "Contributed to 3D design and visual presentation",
+            "credits": "Collaboration with the BENWU team; Hermès branding and trademarks belong to their respective rights holders",
+            "roleSection": "Contributed to 3D design and visual presentation in collaboration with the BENWU team. The work shown is a collective team contribution. Hermès branding, trademarks and related brand content belong to their respective rights holders."
+          },
+          "archivedPlaceholderLines": [],
+          "preservedMedia": [
+            "/works/legacy/hermes/043e019544984416521bf2009313a5fb.webp",
+            "/works/legacy/hermes/34aa997644c1849af5a716bd5cdcf55b.webp",
+            "/works/legacy/hermes/40379d8484144b6a435498fcf8b9d857.webp",
+            "/works/legacy/hermes/51a7ab3976cb48ff18f4591b5056409e.webp",
+            "/works/legacy/hermes/54f3c93240044222915bc785ca86bc40.webp",
+            "/works/legacy/hermes/776d28c61be0075bb8c93bffd65035ef.webp",
+            "/works/legacy/hermes/8c4f37a6cb7ca715256d9a6f7dc9e210.webp",
+            "/works/legacy/hermes/a8d210af1968eb83486446dc2f40027a.webp",
+            "/works/legacy/hermes/b1d7e5fa28f89c792ee7a540882cf5ce.webp",
+            "/works/legacy/hermes/bfdc3c738e0adc5a35237a99374f7ac5.webp",
+            "/works/legacy/hermes/e8d955a3898da97773e081384d4117e3.webp",
+            "/works/legacy/hermes/f1455674fa1906fe49bd555bcad97e9c.webp"
+          ]
+        }
+      },
+      "changed": false,
+      "sourceEvidence": []
+    },
+    {
+      "case": "huhu-care",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "其他参与者的完整姓名清单未核实。当前已有的团队/原展板姓名全部保留，未新增姓名。"
+      ],
+      "knownAttribution": {
+        "zh": "合作项目；原始展板信息随作品保留",
+        "en": "Collaborative project; original board information is preserved with the work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/huhu-care.zh.md",
+          "changed": true,
+          "beforeSha256": "2dbf997089c12f81fd23298c4fedb7f23b24bbff9dd3a8d53237fda29f915160",
+          "afterSha256": "fe3e353f0fbe2bac94c2239a6e927da066031d84fa2ff7db214a3ee15578bea6",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "合作项目；其他成员署名待补充",
+            "roleSection": "本项目为合作项目，具体分工待补充。展示内容涵盖检查旅程、造型推演、手工形态模型、部件示意与场景渲染。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "合作项目；原始展板信息随作品保留",
+            "roleSection": "本项目为合作项目。展示内容涵盖检查旅程、造型推演、手工形态模型、部件示意与场景渲染。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"合作项目；其他成员署名待补充\""
+            },
+            {
+              "line": 24,
+              "text": "本项目为合作项目，具体分工待补充。展示内容涵盖检查旅程、造型推演、手工形态模型、部件示意与场景渲染。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/legacy-full-portfolio/022.webp",
+            "/works/documents/legacy-full-portfolio/023.webp",
+            "/works/documents/portfolio-51/018.webp",
+            "/works/documents/portfolio-51/019.webp",
+            "/works/documents/portfolio-51/020.webp",
+            "/works/documents/portfolio-51/021.webp",
+            "/works/documents/portfolio-51/022.webp",
+            "/works/documents/portfolio-51/023.webp",
+            "/works/documents/portfolio-51/024.webp",
+            "/works/documents/portfolio-51/025.webp",
+            "/works/documents/portfolio-51/026.webp",
+            "/works/documents/portfolio-51/027.webp",
+            "/works/documents/portfolio-51/028.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/huhu-care.en.md",
+          "changed": true,
+          "beforeSha256": "6007938ea39303160576a0171948b28f26efc601d63c5faf7e012256a42b3e9c",
+          "afterSha256": "f1463bef8c9aaa3fa14a59493420b8e0edfc2686676c52cd9f8715991e801034",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Collaborative project; other team credits to be documented",
+            "roleSection": "This is a collaborative project; the specific division of responsibilities remains to be documented. The presentation covers the examination journey, form exploration, handmade form models, component diagrams and scene renders."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative project; original board information is preserved with the work",
+            "roleSection": "This is a collaborative project. The presentation covers the examination journey, form exploration, handmade form models, component diagrams and scene renders."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative project; other team credits to be documented\""
+            },
+            {
+              "line": 24,
+              "text": "This is a collaborative project; the specific division of responsibilities remains to be documented. The presentation covers the examination journey, form exploration, handmade form models, component diagrams and scene renders."
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/legacy-full-portfolio/022.webp",
+            "/works/documents/legacy-full-portfolio/023.webp",
+            "/works/documents/portfolio-51/018.webp",
+            "/works/documents/portfolio-51/019.webp",
+            "/works/documents/portfolio-51/020.webp",
+            "/works/documents/portfolio-51/021.webp",
+            "/works/documents/portfolio-51/022.webp",
+            "/works/documents/portfolio-51/023.webp",
+            "/works/documents/portfolio-51/024.webp",
+            "/works/documents/portfolio-51/025.webp",
+            "/works/documents/portfolio-51/026.webp",
+            "/works/documents/portfolio-51/027.webp",
+            "/works/documents/portfolio-51/028.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。"
+        }
+      ]
+    },
+    {
+      "case": "image-2-5-xhs",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。"
+      ],
+      "knownAttribution": {
+        "zh": "包含 AI 生成图像与单人目视评估；测试品牌为虚构；测试设计与研究图文共同创作",
+        "en": "Includes AI-generated images and a single evaluator's visual assessment; the test brand is fictional; collaborative test-design and research-editorial work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/image-2-5-xhs.zh.md",
+          "changed": true,
+          "beforeSha256": "f4b945fbfe55b0bb8b86261b6a976fabdc7b604a5877e8ce834543b7edbd1be8",
+          "afterSha256": "8f0389d1c70d2d122975e20f92f1b03499b3596468c15ad60561fdd2e32e985e",
+          "before": {
+            "role": "测试设计与研究图文共同创作，具体分工待补充",
+            "credits": "包含 AI 生成图像与单人目视评估；图文协作分工待补充；测试品牌为虚构",
+            "roleSection": "测试设计与研究图文为共同创作，具体分工待补充。工作内容包括任务与提示词整理、原始结果保存、单人目视验收和图卡编辑。画面含 AI 生成内容，品牌与商品均为虚构测试对象。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "包含 AI 生成图像与单人目视评估；测试品牌为虚构；测试设计与研究图文共同创作",
+            "roleSection": "测试设计与研究图文为共同创作。工作内容包括任务与提示词整理、原始结果保存、单人目视验收和图卡编辑。画面含 AI 生成内容，品牌与商品均为虚构测试对象。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"测试设计与研究图文共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"包含 AI 生成图像与单人目视评估；图文协作分工待补充；测试品牌为虚构\""
+            },
+            {
+              "line": 18,
+              "text": "测试设计与研究图文为共同创作，具体分工待补充。工作内容包括任务与提示词整理、原始结果保存、单人目视验收和图卡编辑。画面含 AI 生成内容，品牌与商品均为虚构测试对象。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/digital/image-2-5-xhs/evaluation-boundaries.webp",
+            "/works/digital/image-2-5-xhs/evaluation-cover.webp",
+            "/works/digital/image-2-5-xhs/product-consistency.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/image-2-5-xhs.en.md",
+          "changed": true,
+          "beforeSha256": "7883ae04850935b4c59081cd32043274de7f1b11705eed96e9b9ae0ca1652e31",
+          "afterSha256": "2eed8f77e3abd2b251d6b5386400f957d4c01892973fc653e9e33c7bc4c429be",
+          "before": {
+            "role": "Collaborative test-design and research-editorial work; individual roles to be confirmed",
+            "credits": "Includes AI-generated images and a single evaluator's visual assessment; editorial contributor roles to be completed; the test brand is fictional",
+            "roleSection": "Test design and the research editorial are collaborative work; individual roles remain to be confirmed. The work includes organising tasks and prompts, preserving original outputs, visual assessment by one evaluator and editing the cards. Images include AI-generated content; the brand and products are fictional test subjects."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Includes AI-generated images and a single evaluator's visual assessment; the test brand is fictional; collaborative test-design and research-editorial work",
+            "roleSection": "Test design and the research editorial are collaborative work. The work includes organising tasks and prompts, preserving original outputs, visual assessment by one evaluator and editing the cards. Images include AI-generated content; the brand and products are fictional test subjects."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative test-design and research-editorial work; individual roles to be confirmed\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Includes AI-generated images and a single evaluator's visual assessment; editorial contributor roles to be completed; the test brand is fictional\""
+            },
+            {
+              "line": 18,
+              "text": "Test design and the research editorial are collaborative work; individual roles remain to be confirmed. The work includes organising tasks and prompts, preserving original outputs, visual assessment by one evaluator and editing the cards. Images include AI-generated content; the brand and products are fictional test subjects."
+            }
+          ],
+          "preservedMedia": [
+            "/works/digital/image-2-5-xhs/evaluation-boundaries.webp",
+            "/works/digital/image-2-5-xhs/evaluation-cover.webp",
+            "/works/digital/image-2-5-xhs/product-consistency.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "测试任务设计、人工目视评估与研究图文整理；画面包含 AI 生成内容。"
+        },
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "Image 2.5 仅沿用原始网页记录的名称；本次未独立确认 API 子型号。"
+        }
+      ]
+    },
+    {
+      "case": "jimu-studio",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "其他参与者的完整姓名清单未核实。当前已有的团队/原展板姓名全部保留，未新增姓名。"
+      ],
+      "knownAttribution": {
+        "zh": "合作项目；原始展板信息随作品保留",
+        "en": "Collaborative project; original board information is preserved with the work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/jimu-studio.zh.md",
+          "changed": true,
+          "beforeSha256": "71ad0ced8c50f6c17b936d5bc883bec46e2a6aa8ae557c13a09a3f67e52e49f6",
+          "afterSha256": "f9f4a93b54a23f5efd9d4a2095cfc691839ffa65deb75f5bd35ae3020c5beb65",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "合作项目；其他成员署名待补充",
+            "roleSection": "本项目为合作项目，具体分工待补充。展示内容包括材料方向比较、使用情境、家具草图、模块分解、尺寸表达和居家渲染。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "合作项目；原始展板信息随作品保留",
+            "roleSection": "本项目为合作项目。展示内容包括材料方向比较、使用情境、家具草图、模块分解、尺寸表达和居家渲染。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"合作项目；其他成员署名待补充\""
+            },
+            {
+              "line": 22,
+              "text": "本项目为合作项目，具体分工待补充。展示内容包括材料方向比较、使用情境、家具草图、模块分解、尺寸表达和居家渲染。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/portfolio-51/044.webp",
+            "/works/documents/portfolio-51/045.webp",
+            "/works/documents/portfolio-51/046.webp",
+            "/works/documents/portfolio-51/047.webp",
+            "/works/documents/portfolio-51/048.webp",
+            "/works/documents/portfolio-51/049.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/jimu-studio.en.md",
+          "changed": true,
+          "beforeSha256": "641b101406e4fb5d3de33aaa3fab17929a035772bc5b1b00ead7a1e2ba0105d9",
+          "afterSha256": "cba72e73b94a063376157a9257c00024faf7939279d2491a661abf9e35854187",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Collaborative project; other team credits to be documented",
+            "roleSection": "This is a collaborative project; the specific division of responsibilities remains to be documented. The presentation covers material directions, use scenarios, furniture sketches, module breakdowns, dimensions and domestic renders."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative project; original board information is preserved with the work",
+            "roleSection": "This is a collaborative project. The presentation covers material directions, use scenarios, furniture sketches, module breakdowns, dimensions and domestic renders."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative project; other team credits to be documented\""
+            },
+            {
+              "line": 22,
+              "text": "This is a collaborative project; the specific division of responsibilities remains to be documented. The presentation covers material directions, use scenarios, furniture sketches, module breakdowns, dimensions and domestic renders."
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/portfolio-51/044.webp",
+            "/works/documents/portfolio-51/045.webp",
+            "/works/documents/portfolio-51/046.webp",
+            "/works/documents/portfolio-51/047.webp",
+            "/works/documents/portfolio-51/048.webp",
+            "/works/documents/portfolio-51/049.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。"
+        }
+      ]
+    },
+    {
+      "case": "lensflow",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。"
+      ],
+      "knownAttribution": {
+        "zh": "包含 AI 辅助实现与开源组件；各依赖保留原许可",
+        "en": "Includes AI-assisted implementation and open-source components; dependency licenses retained"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/lensflow.zh.md",
+          "changed": true,
+          "beforeSha256": "c3663124495acfb6775b7330bf2f8de56fa965b3e4faa35ee95574d7a987103b",
+          "afterSha256": "917c6037cde871ae5683bc9d0e7f0acba0e95394cb62ae5c72fc7de4cb913a31",
+          "before": {
+            "role": "产品与交互共同创作，具体分工待补充",
+            "credits": "包含 AI 辅助实现与开源组件；具体协作分工待补充，各依赖保留原许可",
+            "roleSection": "产品与交互为共同创作，包含 AI 辅助实现和开源组件，具体分工待补充。案例重点是工作区的信息组织、首次使用路径与生成任务的连续性。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "包含 AI 辅助实现与开源组件；各依赖保留原许可",
+            "roleSection": "产品与交互为共同创作，包含 AI 辅助实现和开源组件。案例重点是工作区的信息组织、首次使用路径与生成任务的连续性。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"产品与交互共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"包含 AI 辅助实现与开源组件；具体协作分工待补充，各依赖保留原许可\""
+            },
+            {
+              "line": 18,
+              "text": "产品与交互为共同创作，包含 AI 辅助实现和开源组件，具体分工待补充。案例重点是工作区的信息组织、首次使用路径与生成任务的连续性。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/digital/lensflow/studio-analysis.webp",
+            "/works/digital/lensflow/studio-guide.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/lensflow.en.md",
+          "changed": true,
+          "beforeSha256": "f6ddcd51c39350cb56ec9d52fbbd061078b030c84959deb6c1d1bc9c1fa10527",
+          "afterSha256": "5ef0da51dcc722d1e9513fa6427ba6d13129a809b4384ad155d85d6636e65694",
+          "before": {
+            "role": "Collaborative product and interaction work; individual roles to be confirmed",
+            "credits": "Includes AI-assisted implementation and open-source components; contributor roles to be completed, dependency licenses retained",
+            "roleSection": "Product and interaction work is collaborative, with AI-assisted implementation and open-source components. Individual roles remain to be confirmed. This case focuses on workspace organisation, the first-use path and continuity across generation tasks."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Includes AI-assisted implementation and open-source components; dependency licenses retained",
+            "roleSection": "Product and interaction work is collaborative, with AI-assisted implementation and open-source components. This case focuses on workspace organisation, the first-use path and continuity across generation tasks."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative product and interaction work; individual roles to be confirmed\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Includes AI-assisted implementation and open-source components; contributor roles to be completed, dependency licenses retained\""
+            },
+            {
+              "line": 18,
+              "text": "Product and interaction work is collaborative, with AI-assisted implementation and open-source components. Individual roles remain to be confirmed. This case focuses on workspace organisation, the first-use path and continuity across generation tasks."
+            }
+          ],
+          "preservedMedia": [
+            "/works/digital/lensflow/studio-analysis.webp",
+            "/works/digital/lensflow/studio-guide.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "个人工具项目的产品与交互实现；人工、AI 与上游组件的逐项贡献比例未核实。"
+        }
+      ]
+    },
+    {
+      "case": "lighting",
+      "uncertainties": [],
+      "knownAttribution": {
+        "zh": "BENWU 团队协作；BENWU EDITION 品牌及标识归其权利人所有",
+        "en": "Collaboration with the BENWU team; BENWU EDITION branding and trademarks belong to their respective rights holders"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/lighting.zh.md",
+          "changed": false,
+          "beforeSha256": "96e1f0e0b2bdfa35f14c5486d7737e8392c95366f6ef6dfd25d3fc212535261d",
+          "afterSha256": "96e1f0e0b2bdfa35f14c5486d7737e8392c95366f6ef6dfd25d3fc212535261d",
+          "before": {
+            "role": "参与三维设计和视觉呈现",
+            "credits": "BENWU 团队协作；BENWU EDITION 品牌及标识归其权利人所有",
+            "roleSection": "在 BENWU 团队协作中，参与三维设计和视觉呈现。此处展示的是团队合作的灯具项目；BENWU EDITION 品牌及标识归相应权利人所有。联合展示空间中的其他家具作为场景背景呈现。"
+          },
+          "after": {
+            "role": "参与三维设计和视觉呈现",
+            "credits": "BENWU 团队协作；BENWU EDITION 品牌及标识归其权利人所有",
+            "roleSection": "在 BENWU 团队协作中，参与三维设计和视觉呈现。此处展示的是团队合作的灯具项目；BENWU EDITION 品牌及标识归相应权利人所有。联合展示空间中的其他家具作为场景背景呈现。"
+          },
+          "archivedPlaceholderLines": [],
+          "preservedMedia": [
+            "/works/legacy/lighting/1a933b09873b81c73f03877f8f9a61ea.webp",
+            "/works/legacy/lighting/211a2e25f8d767e880624789a3a63594.webp",
+            "/works/legacy/lighting/3f7ec7c3d1a16952bb9a0a0c1523be7b.webp",
+            "/works/legacy/lighting/450b32ccc90b8ca88b74c5bbf307c838.webp",
+            "/works/legacy/lighting/4c9ca8a7b2459a9667ce0b7438da56e1.webp",
+            "/works/legacy/lighting/5beb6f4875965136b4cf16ffcfe6f1fe.webp",
+            "/works/legacy/lighting/916094a2d9a1fe336ac2d4c9854737b4.webp",
+            "/works/legacy/lighting/9aa74a4014cf6e5ba9f80dae478ae31e.webp",
+            "/works/legacy/lighting/a56bfb9a22490e6fa6dc7073ce8b6f87.webp",
+            "/works/legacy/lighting/b3462a8b9f91b20f2fb239d91e7cadcf.webp",
+            "/works/legacy/lighting/e9ab15f955279470fd53cb6e9e9a8c18.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/lighting.en.md",
+          "changed": false,
+          "beforeSha256": "cec3320e0dfb649da496fa4b01c18c7e22953685a6821975775da51db449224a",
+          "afterSha256": "cec3320e0dfb649da496fa4b01c18c7e22953685a6821975775da51db449224a",
+          "before": {
+            "role": "Contributed to 3D design and visual presentation",
+            "credits": "Collaboration with the BENWU team; BENWU EDITION branding and trademarks belong to their respective rights holders",
+            "roleSection": "Contributed to 3D design and visual presentation in collaboration with the BENWU team. The lighting project is a collective contribution; BENWU EDITION branding and trademarks belong to their respective rights holders. Other furniture in the collective display appears as part of the setting."
+          },
+          "after": {
+            "role": "Contributed to 3D design and visual presentation",
+            "credits": "Collaboration with the BENWU team; BENWU EDITION branding and trademarks belong to their respective rights holders",
+            "roleSection": "Contributed to 3D design and visual presentation in collaboration with the BENWU team. The lighting project is a collective contribution; BENWU EDITION branding and trademarks belong to their respective rights holders. Other furniture in the collective display appears as part of the setting."
+          },
+          "archivedPlaceholderLines": [],
+          "preservedMedia": [
+            "/works/legacy/lighting/1a933b09873b81c73f03877f8f9a61ea.webp",
+            "/works/legacy/lighting/211a2e25f8d767e880624789a3a63594.webp",
+            "/works/legacy/lighting/3f7ec7c3d1a16952bb9a0a0c1523be7b.webp",
+            "/works/legacy/lighting/450b32ccc90b8ca88b74c5bbf307c838.webp",
+            "/works/legacy/lighting/4c9ca8a7b2459a9667ce0b7438da56e1.webp",
+            "/works/legacy/lighting/5beb6f4875965136b4cf16ffcfe6f1fe.webp",
+            "/works/legacy/lighting/916094a2d9a1fe336ac2d4c9854737b4.webp",
+            "/works/legacy/lighting/9aa74a4014cf6e5ba9f80dae478ae31e.webp",
+            "/works/legacy/lighting/a56bfb9a22490e6fa6dc7073ce8b6f87.webp",
+            "/works/legacy/lighting/b3462a8b9f91b20f2fb239d91e7cadcf.webp",
+            "/works/legacy/lighting/e9ab15f955279470fd53cb6e9e9a8c18.webp"
+          ]
+        }
+      },
+      "changed": false,
+      "sourceEvidence": []
+    },
+    {
+      "case": "lingmu",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "其他参与者的完整姓名清单未核实。当前已有的团队/原展板姓名全部保留，未新增姓名。"
+      ],
+      "knownAttribution": {
+        "zh": "合作项目；原始展板信息随作品保留",
+        "en": "Collaborative project; original board information is preserved with the work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/lingmu.zh.md",
+          "changed": true,
+          "beforeSha256": "7280966bc66f8112ca8ea40a76649ce58b3fd6f7bf6cdec839f05892e7598224",
+          "afterSha256": "62abcce0261b1580767030b2ec0f5cf283d36dfe088b06ff286769b196342a29",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "合作项目；其他成员署名待补充",
+            "roleSection": "本项目为合作项目，具体分工待补充。展示内容涵盖需求情境、用户旅程、洗头故事板、形态草图、清洁模块与使用场景。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "合作项目；原始展板信息随作品保留",
+            "roleSection": "本项目为合作项目。展示内容涵盖需求情境、用户旅程、洗头故事板、形态草图、清洁模块与使用场景。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"合作项目；其他成员署名待补充\""
+            },
+            {
+              "line": 22,
+              "text": "本项目为合作项目，具体分工待补充。展示内容涵盖需求情境、用户旅程、洗头故事板、形态草图、清洁模块与使用场景。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/portfolio-51/037.webp",
+            "/works/documents/portfolio-51/038.webp",
+            "/works/documents/portfolio-51/039.webp",
+            "/works/documents/portfolio-51/040.webp",
+            "/works/documents/portfolio-51/041.webp",
+            "/works/documents/portfolio-51/042.webp",
+            "/works/documents/portfolio-51/043.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/lingmu.en.md",
+          "changed": true,
+          "beforeSha256": "8a1c3c3d464a267e3bd83a88eac9b9187d208a03bc9aa65551f1f59a09ff0c95",
+          "afterSha256": "708eacb00b1e92777ecd540da9cab2b32497b57cb969bc697ea6f9021be9df83",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Collaborative project; other team credits to be documented",
+            "roleSection": "This is a collaborative project; the specific division of responsibilities remains to be documented. The material covers use scenarios, a user journey, a hair-washing storyboard, sketches, cleaning modules and scenes of use."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative project; original board information is preserved with the work",
+            "roleSection": "This is a collaborative project. The material covers use scenarios, a user journey, a hair-washing storyboard, sketches, cleaning modules and scenes of use."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative project; other team credits to be documented\""
+            },
+            {
+              "line": 22,
+              "text": "This is a collaborative project; the specific division of responsibilities remains to be documented. The material covers use scenarios, a user journey, a hair-washing storyboard, sketches, cleaning modules and scenes of use."
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/portfolio-51/037.webp",
+            "/works/documents/portfolio-51/038.webp",
+            "/works/documents/portfolio-51/039.webp",
+            "/works/documents/portfolio-51/040.webp",
+            "/works/documents/portfolio-51/041.webp",
+            "/works/documents/portfolio-51/042.webp",
+            "/works/documents/portfolio-51/043.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。"
+        },
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "p.38-43为图像型页面，已进行视觉阅读；用户样本量、百分比、测试方法没有独立记录。"
+        },
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "清洁覆盖、夹伤、烫伤、防水、湿区电气与适用人群需另行验证，不能宣称已实现独立安全洗浴。"
+        }
+      ]
+    },
+    {
+      "case": "little-orange",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "其他参与者的完整姓名清单未核实。当前已有的团队/原展板姓名全部保留，未新增姓名。"
+      ],
+      "knownAttribution": {
+        "zh": "合作项目；原始展板信息随作品保留",
+        "en": "Collaborative project; original board information is preserved with the work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/little-orange.zh.md",
+          "changed": true,
+          "beforeSha256": "18fe8be6731600c30dbeb5d79ffefb72aaaf5a913f05d9474f2b8de41766aef6",
+          "afterSha256": "15b4429c372e54744169588afaf1507fa00d61a30631a6964a921240b3aaacc0",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "合作项目；其他成员署名待补充",
+            "roleSection": "本项目为合作项目，具体分工与其他成员署名待补充。展示内容包括形态草图、踏板机构、分解图、界面、提手与遥控器收纳。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "合作项目；原始展板信息随作品保留",
+            "roleSection": "本项目为合作项目。展示内容包括形态草图、踏板机构、分解图、界面、提手与遥控器收纳。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"合作项目；其他成员署名待补充\""
+            },
+            {
+              "line": 18,
+              "text": "本项目为合作项目，具体分工与其他成员署名待补充。展示内容包括形态草图、踏板机构、分解图、界面、提手与遥控器收纳。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x4.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/little-orange.en.md",
+          "changed": true,
+          "beforeSha256": "6517aa0ceb6b14ca7bdc033547121279e898a9bbe95685d1b90354b95985f9f1",
+          "afterSha256": "4bdeae69c90d965f97f883c781a249755c94af7f701c13bf937f1f5b849f0c65",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Collaborative project; other team credits to be documented",
+            "roleSection": "This is a collaborative project; the division of responsibilities and other team credits remain to be documented. The material covers sketches, a pedal mechanism, an exploded view, an interface, a handle and remote-control storage."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative project; original board information is preserved with the work",
+            "roleSection": "This is a collaborative project. The material covers sketches, a pedal mechanism, an exploded view, an interface, a handle and remote-control storage."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative project; other team credits to be documented\""
+            },
+            {
+              "line": 18,
+              "text": "This is a collaborative project; the division of responsibilities and other team credits remain to be documented. The material covers sketches, a pedal mechanism, an exploded view, an interface, a handle and remote-control storage."
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x4.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。"
+        }
+      ]
+    },
+    {
+      "case": "periastra",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "其他参与者的完整姓名清单未核实。当前已有的团队/原展板姓名全部保留，未新增姓名。"
+      ],
+      "knownAttribution": {
+        "zh": "品牌图形与应用研究；共同创作",
+        "en": "Collaborative brand-mark and application studies"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/periastra.zh.md",
+          "changed": true,
+          "beforeSha256": "b9ed1fa91a9e14696e3e01a8c6c06230186603b5f2b2e96c44e1e9f36a12814d",
+          "afterSha256": "ea1d2d9aaa4f0a1ed46c445520abe9af48c2321b752b0a5eaf6c96aba9928d8f",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "品牌图形与应用研究；协作者署名待补充",
+            "roleSection": "本项目为共同创作，具体分工待补充。展示内容涵盖图形母题、标志结构、线宽与负形分析，以及小尺寸应用的检查方向。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "品牌图形与应用研究；共同创作",
+            "roleSection": "本项目为共同创作。展示内容涵盖图形母题、标志结构、线宽与负形分析，以及小尺寸应用的检查方向。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"品牌图形与应用研究；协作者署名待补充\""
+            },
+            {
+              "line": 18,
+              "text": "本项目为共同创作，具体分工待补充。展示内容涵盖图形母题、标志结构、线宽与负形分析，以及小尺寸应用的检查方向。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/brand/periastra/explainers/periastra-application-fit-v01.svg",
+            "/works/brand/periastra/explainers/periastra-lineweight-negative-space-v01.svg",
+            "/works/brand/periastra/explainers/periastra-structure-breakdown-v01.svg",
+            "/works/brand/periastra/logo/periastra-logo-v01-20260422.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/periastra.en.md",
+          "changed": true,
+          "beforeSha256": "4c3ae8a7b594a118e2160a9f24440a9443a6610c2041cfed7dc8b03266af50d7",
+          "afterSha256": "134aa74be37cd3e3245e296db7faed45b847355192e754eb70d4ea68aa74fc29",
+          "before": {
+            "role": "Collaborative work; individual roles to be confirmed",
+            "credits": "Brand mark and application studies; collaborator credits to be completed",
+            "roleSection": "This is collaborative work; individual roles remain to be confirmed. The material presented covers the visual motifs, mark structure, line weight and negative space analysis, and directions for checking small applications."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative brand-mark and application studies",
+            "roleSection": "This is collaborative work. The material presented covers the visual motifs, mark structure, line weight and negative space analysis, and directions for checking small applications."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; individual roles to be confirmed\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Brand mark and application studies; collaborator credits to be completed\""
+            },
+            {
+              "line": 18,
+              "text": "This is collaborative work; individual roles remain to be confirmed. The material presented covers the visual motifs, mark structure, line weight and negative space analysis, and directions for checking small applications."
+            }
+          ],
+          "preservedMedia": [
+            "/works/brand/periastra/explainers/periastra-application-fit-v01.svg",
+            "/works/brand/periastra/explainers/periastra-lineweight-negative-space-v01.svg",
+            "/works/brand/periastra/explainers/periastra-structure-breakdown-v01.svg",
+            "/works/brand/periastra/logo/periastra-logo-v01-20260422.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "品牌标志与视觉结构研究；现有资料未单列个人、AI 与协作分工。"
+        }
+      ]
+    },
+    {
+      "case": "plant-companion",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "其他参与者的完整姓名清单未核实。当前已有的团队/原展板姓名全部保留，未新增姓名。"
+      ],
+      "knownAttribution": {
+        "zh": "合作项目；原始展板信息随作品保留",
+        "en": "Collaborative project; original board information is preserved with the work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/plant-companion.zh.md",
+          "changed": true,
+          "beforeSha256": "cb5ad27f75179ccd55d21eb1cb3f95893ba32ba876ff6109e8f26073705d1732",
+          "afterSha256": "08b83943f95a9dcaa413d2c104d5201670ca59b8bbf8edb1b1f79a3d5976e434",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "合作项目；其他成员署名待补充",
+            "roleSection": "本项目为团队合作项目，具体分工与其他成员署名待补充。展示内容涵盖需求整理、植物仿生、器材模块、CMF、像素植物与应用界面。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "合作项目；原始展板信息随作品保留",
+            "roleSection": "本项目为团队合作项目。展示内容涵盖需求整理、植物仿生、器材模块、CMF、像素植物与应用界面。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"合作项目；其他成员署名待补充\""
+            },
+            {
+              "line": 24,
+              "text": "本项目为团队合作项目，具体分工与其他成员署名待补充。展示内容涵盖需求整理、植物仿生、器材模块、CMF、像素植物与应用界面。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/office-fitness/001.webp",
+            "/works/documents/office-fitness/002.webp",
+            "/works/documents/office-fitness/003.webp",
+            "/works/documents/office-fitness/004.webp",
+            "/works/documents/office-fitness/005.webp",
+            "/works/documents/office-fitness/006.webp",
+            "/works/documents/office-fitness/007.webp",
+            "/works/documents/office-fitness/008.webp",
+            "/works/documents/office-fitness/009.webp",
+            "/works/documents/office-fitness/010.webp",
+            "/works/documents/office-fitness/011.webp",
+            "/works/documents/office-fitness/012.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/plant-companion.en.md",
+          "changed": true,
+          "beforeSha256": "c3f4626781b8dc512c4f0288cc01a87398cf9f8e7afd7156cd8d13fe198fbdc8",
+          "afterSha256": "f2c484a1eca4ff9c7f71bac7a185acf31a98c9000018134efb9a83aae1e096d5",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Collaborative project; other team credits to be documented",
+            "roleSection": "This is a team project; the division of responsibilities and other team credits remain to be documented. The material covers needs, plant-inspired forms, equipment modules, CMF, pixel plants and app interfaces."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative project; original board information is preserved with the work",
+            "roleSection": "This is a team project. The material covers needs, plant-inspired forms, equipment modules, CMF, pixel plants and app interfaces."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative project; other team credits to be documented\""
+            },
+            {
+              "line": 24,
+              "text": "This is a team project; the division of responsibilities and other team credits remain to be documented. The material covers needs, plant-inspired forms, equipment modules, CMF, pixel plants and app interfaces."
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/office-fitness/001.webp",
+            "/works/documents/office-fitness/002.webp",
+            "/works/documents/office-fitness/003.webp",
+            "/works/documents/office-fitness/004.webp",
+            "/works/documents/office-fitness/005.webp",
+            "/works/documents/office-fitness/006.webp",
+            "/works/documents/office-fitness/007.webp",
+            "/works/documents/office-fitness/008.webp",
+            "/works/documents/office-fitness/009.webp",
+            "/works/documents/office-fitness/010.webp",
+            "/works/documents/office-fitness/011.webp",
+            "/works/documents/office-fitness/012.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "原稿页脚明确标注Teamwork；个人具体分工和其他成员名单未列出。"
+        }
+      ]
+    },
+    {
+      "case": "plumber",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "其他参与者的完整姓名清单未核实。当前已有的团队/原展板姓名全部保留，未新增姓名。"
+      ],
+      "knownAttribution": {
+        "zh": "合作项目；原始展板信息随作品保留",
+        "en": "Collaborative project; original board information is preserved with the work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/plumber.zh.md",
+          "changed": true,
+          "beforeSha256": "802e1d6b19b29e3cff7ab615027ec21e6fd3812c3a98db1334722d7a98afd209",
+          "afterSha256": "9fd5c7a0680eab04d6c53f3fd44ef50689c5bf52e4af61f706ca81489838690c",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "合作项目；其他成员署名待补充",
+            "roleSection": "本项目为合作项目，具体分工待补充。此处展示团队提案中的服务关系梳理、产品形态探索、部件组织、界面与场景表达。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "合作项目；原始展板信息随作品保留",
+            "roleSection": "本项目为合作项目。此处展示团队提案中的服务关系梳理、产品形态探索、部件组织、界面与场景表达。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"合作项目；其他成员署名待补充\""
+            },
+            {
+              "line": 24,
+              "text": "本项目为合作项目，具体分工待补充。此处展示团队提案中的服务关系梳理、产品形态探索、部件组织、界面与场景表达。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/legacy-full-portfolio/010.webp",
+            "/works/documents/legacy-full-portfolio/013.webp",
+            "/works/documents/legacy-full-portfolio/017.webp",
+            "/works/documents/portfolio-51/003.webp",
+            "/works/documents/portfolio-51/004.webp",
+            "/works/documents/portfolio-51/005.webp",
+            "/works/documents/portfolio-51/006.webp",
+            "/works/documents/portfolio-51/007.webp",
+            "/works/documents/portfolio-51/008.webp",
+            "/works/documents/portfolio-51/009.webp",
+            "/works/documents/portfolio-51/010.webp",
+            "/works/documents/portfolio-51/011.webp",
+            "/works/documents/portfolio-51/012.webp",
+            "/works/documents/portfolio-51/013.webp",
+            "/works/documents/portfolio-51/014.webp",
+            "/works/documents/portfolio-51/015.webp",
+            "/works/documents/portfolio-51/016.webp",
+            "/works/documents/portfolio-51/017.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/plumber.en.md",
+          "changed": true,
+          "beforeSha256": "13b6c55bf9f52bdc6dfee0b8f4da30c4173f36190e2e6ffb0d2eacc4d6432147",
+          "afterSha256": "3275dc908289c4800b7503e76068efeb0acffc9fa01ee84bfd2170700c431c13",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Collaborative project; other team credits to be documented",
+            "roleSection": "This is a collaborative project; the specific division of responsibilities remains to be documented. The material presents the team’s service mapping, form exploration, component organization, interfaces and scene visualization."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative project; original board information is preserved with the work",
+            "roleSection": "This is a collaborative project. The material presents the team’s service mapping, form exploration, component organization, interfaces and scene visualization."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative project; other team credits to be documented\""
+            },
+            {
+              "line": 24,
+              "text": "This is a collaborative project; the specific division of responsibilities remains to be documented. The material presents the team’s service mapping, form exploration, component organization, interfaces and scene visualization."
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/legacy-full-portfolio/010.webp",
+            "/works/documents/legacy-full-portfolio/013.webp",
+            "/works/documents/legacy-full-portfolio/017.webp",
+            "/works/documents/portfolio-51/003.webp",
+            "/works/documents/portfolio-51/004.webp",
+            "/works/documents/portfolio-51/005.webp",
+            "/works/documents/portfolio-51/006.webp",
+            "/works/documents/portfolio-51/007.webp",
+            "/works/documents/portfolio-51/008.webp",
+            "/works/documents/portfolio-51/009.webp",
+            "/works/documents/portfolio-51/010.webp",
+            "/works/documents/portfolio-51/011.webp",
+            "/works/documents/portfolio-51/012.webp",
+            "/works/documents/portfolio-51/013.webp",
+            "/works/documents/portfolio-51/014.webp",
+            "/works/documents/portfolio-51/015.webp",
+            "/works/documents/portfolio-51/016.webp",
+            "/works/documents/portfolio-51/017.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。"
+        }
+      ]
+    },
+    {
+      "case": "polar-wing",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "其他参与者的完整姓名清单未核实。当前已有的团队/原展板姓名全部保留，未新增姓名。"
+      ],
+      "knownAttribution": {
+        "zh": "合作项目；原始展板信息随作品保留",
+        "en": "Collaborative project; original board information is preserved with the work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/polar-wing.zh.md",
+          "changed": true,
+          "beforeSha256": "62d55b11a5c3cd06d63bd3ef19ed025243ddc352db24b8626bb765c4a15f7b87",
+          "afterSha256": "0e73bb73dcbffbb9a017a38b311c2e4b96817740a1209c6069adb9358ffa2ea6",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "合作项目；其他成员署名待补充",
+            "roleSection": "本项目为合作项目，具体分工与其他成员署名待补充。展示内容包括情境参考、草图、座舱、座椅、透明舱盖、推进部件和多视角渲染。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "合作项目；原始展板信息随作品保留",
+            "roleSection": "本项目为合作项目。展示内容包括情境参考、草图、座舱、座椅、透明舱盖、推进部件和多视角渲染。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"合作项目；其他成员署名待补充\""
+            },
+            {
+              "line": 18,
+              "text": "本项目为合作项目，具体分工与其他成员署名待补充。展示内容包括情境参考、草图、座舱、座椅、透明舱盖、推进部件和多视角渲染。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x9.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/polar-wing.en.md",
+          "changed": true,
+          "beforeSha256": "f8c004372843507e413d3feadd6ff996a0b3504e232c31fdbd3af686954c1a19",
+          "afterSha256": "f4d6ff66d4f6a1ce1292ce0d9c9e6a22b4ffda710378528e4f14ec13c168cf01",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Collaborative project; other team credits to be documented",
+            "roleSection": "This is a collaborative project; the division of responsibilities and other team credits remain to be documented. The material includes scenario references, sketches, a cabin, seats, a transparent canopy, propulsion parts and multiple render views."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative project; original board information is preserved with the work",
+            "roleSection": "This is a collaborative project. The material includes scenario references, sketches, a cabin, seats, a transparent canopy, propulsion parts and multiple render views."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative project; other team credits to be documented\""
+            },
+            {
+              "line": 18,
+              "text": "This is a collaborative project; the division of responsibilities and other team credits remain to be documented. The material includes scenario references, sketches, a cabin, seats, a transparent canopy, propulsion parts and multiple render views."
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x9.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。"
+        }
+      ]
+    },
+    {
+      "case": "purewater-rolling-filter",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。"
+      ],
+      "knownAttribution": {
+        "zh": "原展板署名：孙英杰；合作项目",
+        "en": "Original board credit: Sun Yingjie (孙英杰); collaborative project"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/purewater-rolling-filter.zh.md",
+          "changed": true,
+          "beforeSha256": "7bf083930d8f453cca3a1296b9dc65e07f5fbeb76215eead3d8a8632b2a39f51",
+          "afterSha256": "d832e86eaaf1dcecb73fe5452f616a6170d9e948386604090ebb527a3143f896",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "原展板署名：孙英杰；合作分工待补充",
+            "roleSection": "原展板署名孙英杰，本案例按合作项目收录，具体分工待补充。展示内容包括滚动运输、叠放过滤、提拉杆、固定结构和出水口。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "原展板署名：孙英杰；合作项目",
+            "roleSection": "原展板署名孙英杰，本案例按合作项目收录。展示内容包括滚动运输、叠放过滤、提拉杆、固定结构和出水口。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"原展板署名：孙英杰；合作分工待补充\""
+            },
+            {
+              "line": 18,
+              "text": "原展板署名孙英杰，本案例按合作项目收录，具体分工待补充。展示内容包括滚动运输、叠放过滤、提拉杆、固定结构和出水口。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x8.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/purewater-rolling-filter.en.md",
+          "changed": true,
+          "beforeSha256": "43335a62d7602cb78921dff886180158bfbf412983ab0c941ba304ece1d38ac6",
+          "afterSha256": "73059c41877a769f8c1ad8fbbcfaa4c304f628648931ef186b1f521eae64baa2",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Original board credit: Sun Yingjie (孙英杰); collaborative roles to be documented",
+            "roleSection": "The original board credits Sun Yingjie (孙英杰). This case is presented as a collaborative project; the specific division of responsibilities remains to be documented. The material covers rolling transport, stacked filtering, a pull handle, fastening parts and an outlet."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Original board credit: Sun Yingjie (孙英杰); collaborative project",
+            "roleSection": "The original board credits Sun Yingjie (孙英杰). This case is presented as a collaborative project. The material covers rolling transport, stacked filtering, a pull handle, fastening parts and an outlet."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Original board credit: Sun Yingjie (孙英杰); collaborative roles to be documented\""
+            },
+            {
+              "line": 18,
+              "text": "The original board credits Sun Yingjie (孙英杰). This case is presented as a collaborative project; the specific division of responsibilities remains to be documented. The material covers rolling transport, stacked filtering, a pull handle, fastening parts and an outlet."
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x8.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "原展板署名孙英杰21090315；未列出完整分工，保守使用合作项目标签，不推定独立工程开发。"
+        }
+      ]
+    },
+    {
+      "case": "rendering-studies",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "选集中各模型、背景、参考素材的作者/授权与个人协作分工未逐项列明，音轨作者未核实。公开稿保留第三方权利和车辆造型非原创声明，未据删除占位语作出新的原创或授权结论。"
+      ],
+      "knownAttribution": {
+        "zh": "视觉习作；车辆设计、品牌标识与第三方参考素材的权利归原权利人所有",
+        "en": "Visual studies; rights to the depicted vehicle designs, brands and third-party references remain with their respective owners"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/rendering-studies.zh.md",
+          "changed": true,
+          "beforeSha256": "2834c4c5b110ed20ddc23bbfc491b9e2b74081c3f6a02d5281ce4c09b9a3e542",
+          "afterSha256": "a1f721b8415b7f536d7dcdc2c19a29139096eacc4149638b4013680795de8d74",
+          "before": {
+            "role": "3D渲染与场景呈现",
+            "credits": "视觉习作；模型、背景与参考素材出处待逐项补充",
+            "roleSection": "展示方向为 3D 渲染与场景呈现。选集中的模型、背景、参考素材及协作分工未逐项列明，本案例聚焦可见的视觉研究。"
+          },
+          "after": {
+            "role": "3D渲染与场景呈现",
+            "credits": "视觉习作；车辆设计、品牌标识与第三方参考素材的权利归原权利人所有",
+            "roleSection": "展示方向为 3D 渲染与场景呈现，涵盖自行车产品图、产品场景长卷与跑车动态影像。本案例聚焦材质、灯光与镜头表达。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 6,
+              "text": "credits: \"视觉习作；模型、背景与参考素材出处待逐项补充\""
+            },
+            {
+              "line": 18,
+              "text": "展示方向为 3D 渲染与场景呈现。选集中的模型、背景、参考素材及协作分工未逐项列明，本案例聚焦可见的视觉研究。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/rendering-sheet/001.webp",
+            "/works/legacy/rendering/22de046ff3e66598345084183a3aea6b.webp",
+            "/works/legacy/rendering/6b8d00417baa8b204447fd0857eb435a.webp",
+            "/works/legacy/rendering/7ddd2cc1d08f22e83dbf11ca277471eb.webp",
+            "/works/legacy/rendering/a7bdacdb33c834301102c595220b48d3.webp",
+            "/works/legacy/rendering/c7db2abf68343f46198039db6ab4fba6.webp",
+            "/works/legacy/rendering/d426d7f675239cd43c29396f4b542fee.webp",
+            "/works/local/111.mp4"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/rendering-studies.en.md",
+          "changed": true,
+          "beforeSha256": "17b404cfdc41edaa7156372863d287834376029b7f08f69fa51e0e205d5d8a62",
+          "afterSha256": "be526642213d80441f98f811037a9b783282573320f369b177ee39cad1f84bc3",
+          "before": {
+            "role": "3D Rendering & Scene Visualization",
+            "credits": "Visual studies; individual model, background and reference credits to be documented",
+            "roleSection": "The presentation focuses on 3D rendering and scene visualization. Individual models, backgrounds, references and collaborative responsibilities are not itemized; the case addresses the visible visual studies."
+          },
+          "after": {
+            "role": "3D Rendering & Scene Visualization",
+            "credits": "Visual studies; rights to the depicted vehicle designs, brands and third-party references remain with their respective owners",
+            "roleSection": "The presentation focuses on 3D rendering and scene visualization through bicycle images, a product-scene collection and sports-car motion. The case explores materials, lighting and camera work."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 6,
+              "text": "credits: \"Visual studies; individual model, background and reference credits to be documented\""
+            },
+            {
+              "line": 18,
+              "text": "The presentation focuses on 3D rendering and scene visualization. Individual models, backgrounds, references and collaborative responsibilities are not itemized; the case addresses the visible visual studies."
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/rendering-sheet/001.webp",
+            "/works/legacy/rendering/22de046ff3e66598345084183a3aea6b.webp",
+            "/works/legacy/rendering/6b8d00417baa8b204447fd0857eb435a.webp",
+            "/works/legacy/rendering/7ddd2cc1d08f22e83dbf11ca277471eb.webp",
+            "/works/legacy/rendering/a7bdacdb33c834301102c595220b48d3.webp",
+            "/works/legacy/rendering/c7db2abf68343f46198039db6ab4fba6.webp",
+            "/works/legacy/rendering/d426d7f675239cd43c29396f4b542fee.webp",
+            "/works/local/111.mp4"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "与GO GLOW、HUHU CARE、植遇相伴、引渡者及灯具素材有主题与部分画面交叉；选集作为独立编辑呈现保留，避免把其中相同产品重复计为新产品。"
+        },
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "渲染、照片合成、参考素材及AIGC的逐图来源未完整标注；不宣称所有模型、背景或人物均独立原创。"
+        },
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "111.mp4 为跑车动画，与自行车6图不同；按渲染与动态视觉选集合并，不认定车辆造型原创或 Ferrari 品牌委托。"
+        },
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "视频图像已抽样核验；音轨作者与逐项素材出处未核实。"
+        }
+      ]
+    },
+    {
+      "case": "resume-formatter",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。"
+      ],
+      "knownAttribution": {
+        "zh": "Fork 自 gracexygu/resume-formatter；上游与本 Fork 均采用 MIT License；共同创作",
+        "en": "Collaborative development of a fork of gracexygu/resume-formatter; upstream and this fork use the MIT License"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/resume-formatter.zh.md",
+          "changed": true,
+          "beforeSha256": "f342877166ab2afd61349f34682615b3ddb349979230b2a228323b6ba2b51ebd",
+          "afterSha256": "56dd50e97590d230bf464492466e1c705f228e3a6f701e9a90ea30fae0a8aa6b",
+          "before": {
+            "role": "开源项目二次设计与开发，具体协作分工待补充",
+            "credits": "Fork 自 gracexygu/resume-formatter；上游与本 Fork 均采用 MIT License；具体协作分工待补充",
+            "roleSection": "本案例属于开源项目二次设计与开发，具体协作分工待补充。上游为 [gracexygu/resume-formatter](https://github.com/gracexygu/resume-formatter)，上游与本 Fork 均采用 MIT License。这里展示的是扩展后的工作区、版本管理和可审阅修改流程，不主张整个项目从零原创。"
+          },
+          "after": {
+            "role": "共同创作 · 开源项目二次开发",
+            "credits": "Fork 自 gracexygu/resume-formatter；上游与本 Fork 均采用 MIT License；共同创作",
+            "roleSection": "本案例属于开源项目的协作式二次设计与开发。上游为 [gracexygu/resume-formatter](https://github.com/gracexygu/resume-formatter)，上游与本 Fork 均采用 MIT License。这里展示的是扩展后的工作区、版本管理和可审阅修改流程，不主张整个项目从零原创。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"开源项目二次设计与开发，具体协作分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Fork 自 gracexygu/resume-formatter；上游与本 Fork 均采用 MIT License；具体协作分工待补充\""
+            },
+            {
+              "line": 18,
+              "text": "本案例属于开源项目二次设计与开发，具体协作分工待补充。上游为 [gracexygu/resume-formatter](https://github.com/gracexygu/resume-formatter)，上游与本 Fork 均采用 MIT License。这里展示的是扩展后的工作区、版本管理和可审阅修改流程，不主张整个项目从零原创。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/digital/resume-formatter/layout-controls.webp",
+            "/works/digital/resume-formatter/rewrite-diff.webp",
+            "/works/digital/resume-formatter/workspace.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/resume-formatter.en.md",
+          "changed": true,
+          "beforeSha256": "a1acdecd40c7b61a630e3033ee0282ecaee06a24c254e8bdf8183c2e15fb59e9",
+          "afterSha256": "2d3ff647fb9dafa102fa9727b9dbc161395c52d030c17a746fa71e8a61cbc278",
+          "before": {
+            "role": "Design and development of an open-source fork; contributor roles to be confirmed",
+            "credits": "Fork of gracexygu/resume-formatter; upstream and this fork use the MIT License; contributor roles to be completed",
+            "roleSection": "This case concerns the design and development of an open-source fork; individual contributor roles remain to be confirmed. The upstream project is [gracexygu/resume-formatter](https://github.com/gracexygu/resume-formatter). Both upstream and this fork use the MIT License. The work shown covers the extended workspace, version management and reviewable changes; the whole project is not claimed as an original creation from scratch."
+          },
+          "after": {
+            "role": "Collaborative work on an open-source fork",
+            "credits": "Collaborative development of a fork of gracexygu/resume-formatter; upstream and this fork use the MIT License",
+            "roleSection": "This case presents collaborative design and development of an open-source fork. The upstream project is [gracexygu/resume-formatter](https://github.com/gracexygu/resume-formatter). Both upstream and this fork use the MIT License. The work shown covers the extended workspace, version management and reviewable changes; the whole project is not claimed as an original creation from scratch."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Design and development of an open-source fork; contributor roles to be confirmed\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Fork of gracexygu/resume-formatter; upstream and this fork use the MIT License; contributor roles to be completed\""
+            },
+            {
+              "line": 18,
+              "text": "This case concerns the design and development of an open-source fork; individual contributor roles remain to be confirmed. The upstream project is [gracexygu/resume-formatter](https://github.com/gracexygu/resume-formatter). Both upstream and this fork use the MIT License. The work shown covers the extended workspace, version management and reviewable changes; the whole project is not claimed as an original creation from scratch."
+            }
+          ],
+          "preservedMedia": [
+            "/works/digital/resume-formatter/layout-controls.webp",
+            "/works/digital/resume-formatter/rewrite-diff.webp",
+            "/works/digital/resume-formatter/workspace.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "基于开源项目的二次设计与开发；不宣称从零原创完整项目。"
+        },
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "上游为 gracexygu/resume-formatter，GitHub API 已确认 Fork 关系。"
+        }
+      ]
+    },
+    {
+      "case": "visual-archive",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "其他参与者的完整姓名清单未核实。当前已有的团队/原展板姓名全部保留，未新增姓名。"
+      ],
+      "knownAttribution": {
+        "zh": "扩展原型与交互共同创作",
+        "en": "Collaborative extension-prototype and interaction work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/visual-archive.zh.md",
+          "changed": true,
+          "beforeSha256": "96eaa2e58f8100ca079ecdedc8438e06ea553e25897109ffcb3c496852a81f21",
+          "afterSha256": "2156d3d724bdbf2c53fad51021963526b6049456edc015da697711e4c2c9f694",
+          "before": {
+            "role": "扩展原型与交互共同创作，具体分工待补充",
+            "credits": "共同创作；协作者署名与具体分工待补充",
+            "roleSection": "扩展原型与交互为共同创作，具体分工待补充。展示重点是图片输入、本地测量结果、档案状态和信息层级，以及桌面与移动端的阅读组织。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "扩展原型与交互共同创作",
+            "roleSection": "扩展原型与交互为共同创作。展示重点是图片输入、本地测量结果、档案状态和信息层级，以及桌面与移动端的阅读组织。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"扩展原型与交互共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"共同创作；协作者署名与具体分工待补充\""
+            },
+            {
+              "line": 18,
+              "text": "扩展原型与交互为共同创作，具体分工待补充。展示重点是图片输入、本地测量结果、档案状态和信息层级，以及桌面与移动端的阅读组织。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/digital/visual-archive/analysis-desktop.webp",
+            "/works/digital/visual-archive/analysis-mobile.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/visual-archive.en.md",
+          "changed": true,
+          "beforeSha256": "304164d52a57021d0191f1952c4a475235f0b3c46290c3c906c4352d90f9583c",
+          "afterSha256": "8b930d85c28515b3185edce1a759cc15699dfcba577f22f00fd5b2ff8fa7a9c0",
+          "before": {
+            "role": "Collaborative extension prototype and interaction work; individual roles to be confirmed",
+            "credits": "Collaborative work; collaborator credits and roles to be completed",
+            "roleSection": "The extension prototype and interaction work is collaborative; individual roles remain to be confirmed. This case focuses on image input, local results, archive state and information hierarchy, together with desktop and mobile reading layouts."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative extension-prototype and interaction work",
+            "roleSection": "The extension prototype and interaction work is collaborative. This case focuses on image input, local results, archive state and information hierarchy, together with desktop and mobile reading layouts."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative extension prototype and interaction work; individual roles to be confirmed\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative work; collaborator credits and roles to be completed\""
+            },
+            {
+              "line": 18,
+              "text": "The extension prototype and interaction work is collaborative; individual roles remain to be confirmed. This case focuses on image input, local results, archive state and information hierarchy, together with desktop and mobile reading layouts."
+            }
+          ],
+          "preservedMedia": [
+            "/works/digital/visual-archive/analysis-desktop.webp",
+            "/works/digital/visual-archive/analysis-mobile.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "浏览器扩展原型与交互实现；具体个人与 AI 分工未完整标注。"
+        },
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "这是独立早期原型，不重复计作砚台当前功能。"
+        }
+      ]
+    },
+    {
+      "case": "water-guardian",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。"
+      ],
+      "knownAttribution": {
+        "zh": "合作署名：邓志成、张成承",
+        "en": "Collaboration credits: Deng Zhicheng (邓志成), Zhang Chengcheng (张成承)"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/water-guardian.zh.md",
+          "changed": true,
+          "beforeSha256": "4b0c878019455b46fd0730e00a6c5d5a734ae410a491effe25540e639b0fb99b",
+          "afterSha256": "bd4ea52f661bb7332d20ceda27e9cca969bdfe72c24117a951026be1f28ab7f2",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "合作署名：邓志成、张成承",
+            "roleSection": "本项目为合作项目，原资料包含邓志成、张成承署名；具体分工待补充。展示内容涵盖草图、浮体布局、过滤与清洁部件、三视图和场景渲染。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "合作署名：邓志成、张成承",
+            "roleSection": "本项目为合作项目，原资料包含邓志成、张成承署名。展示内容涵盖草图、浮体布局、过滤与清洁部件、三视图和场景渲染。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 18,
+              "text": "本项目为合作项目，原资料包含邓志成、张成承署名；具体分工待补充。展示内容涵盖草图、浮体布局、过滤与清洁部件、三视图和场景渲染。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x5.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/water-guardian.en.md",
+          "changed": true,
+          "beforeSha256": "12479917412c37e83bd765ddaea441167bda1c6162ecb4f3f88edf66e35d7a4b",
+          "afterSha256": "6c37c6f44bc5618fa225b730570cd33b99b54bf75005c1a6cbc343f9f9ad1797",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Collaboration credits: Deng Zhicheng (邓志成), Zhang Chengcheng (张成承)",
+            "roleSection": "This is a collaborative project. The source credits include Deng Zhicheng (邓志成) and Zhang Chengcheng (张成承); the specific division of responsibilities remains to be documented. The material covers sketches, floating-body layout, filtering and cleaning parts, orthographic views and scene renders."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaboration credits: Deng Zhicheng (邓志成), Zhang Chengcheng (张成承)",
+            "roleSection": "This is a collaborative project. The source credits include Deng Zhicheng (邓志成) and Zhang Chengcheng (张成承). The material covers sketches, floating-body layout, filtering and cleaning parts, orthographic views and scene renders."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 18,
+              "text": "This is a collaborative project. The source credits include Deng Zhicheng (邓志成) and Zhang Chengcheng (张成承); the specific division of responsibilities remains to be documented. The material covers sketches, floating-body layout, filtering and cleaning parts, orthographic views and scene renders."
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x5.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "原文件名包含邓志成、张成承；依据用户说明按合作项目收录，个人分工未核实。"
+        },
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "local-08与X5为相同内容的不同尺寸版本，采用X5展示并保留原始署名文件。"
+        }
+      ]
+    },
+    {
+      "case": "water-walking-bath",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。"
+      ],
+      "knownAttribution": {
+        "zh": "原展板署名：邓志成；指导老师：陶裕仿",
+        "en": "Original board credit: Deng Zhicheng (邓志成); advisor: Tao Yufang (陶裕仿)"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/water-walking-bath.zh.md",
+          "changed": true,
+          "beforeSha256": "dd32bb1b2e4f7ab9833d36cb1b9a06f8e68d6eea00980bc36c95a3a1fc70c2e7",
+          "afterSha256": "22f8c8661a03d0b3e801c71bc9b4f24fbdaa4836c9c72647292ed106df1053ad",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "原展板署名：邓志成；指导老师：陶裕仿",
+            "roleSection": "本项目为合作项目，原展板署名邓志成，指导老师为陶裕仿；具体分工待补充。展示内容涵盖入口、支撑部件、内部机构与人机尺度。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "原展板署名：邓志成；指导老师：陶裕仿",
+            "roleSection": "本项目为合作项目，原展板署名邓志成，指导老师为陶裕仿。展示内容涵盖入口、支撑部件、内部机构与人机尺度。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 18,
+              "text": "本项目为合作项目，原展板署名邓志成，指导老师为陶裕仿；具体分工待补充。展示内容涵盖入口、支撑部件、内部机构与人机尺度。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/local/local-03.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/water-walking-bath.en.md",
+          "changed": true,
+          "beforeSha256": "eefc03743109799502f41e97faa8701d0c7b22a8b83db80b57603cc747265354",
+          "afterSha256": "9670f3bf472b82b4c137e22acb6fbf9648fb9f6de5a189d93ceb943ce26fd2ff",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Original board credit: Deng Zhicheng (邓志成); advisor: Tao Yufang (陶裕仿)",
+            "roleSection": "This is a collaborative project. The original board credits Deng Zhicheng (邓志成) and advisor Tao Yufang (陶裕仿); the specific division of responsibilities remains to be documented. The material covers access, support features, internal mechanisms and human-scale relationships."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Original board credit: Deng Zhicheng (邓志成); advisor: Tao Yufang (陶裕仿)",
+            "roleSection": "This is a collaborative project. The original board credits Deng Zhicheng (邓志成) and advisor Tao Yufang (陶裕仿). The material covers access, support features, internal mechanisms and human-scale relationships."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 18,
+              "text": "This is a collaborative project. The original board credits Deng Zhicheng (邓志成) and advisor Tao Yufang (陶裕仿); the specific division of responsibilities remains to be documented. The material covers access, support features, internal mechanisms and human-scale relationships."
+            }
+          ],
+          "preservedMedia": [
+            "/works/local/local-03.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "原展板署名邓志成21090303，指导老师陶裕仿；依据用户说明按合作项目收录，个人分工未核实。"
+        }
+      ]
+    },
+    {
+      "case": "yantai",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。"
+      ],
+      "knownAttribution": {
+        "zh": "共同创作；使用开源组件，保留 MIT 及依赖许可",
+        "en": "Collaborative work using open-source components; MIT and dependency licenses retained"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/yantai.zh.md",
+          "changed": true,
+          "beforeSha256": "2714fb17bfce7f50937651489ac1a428bc61cebdcdc98d375b81a21ae96262bf",
+          "afterSha256": "99c60196d01f93a451473cde3b208f31c3dd8708f261302385f2e8074e385ab3",
+          "before": {
+            "role": "产品与交互共同创作，具体分工待补充",
+            "credits": "共同创作与开源组件协作；具体分工待补充，保留 MIT 及依赖许可",
+            "roleSection": "产品与交互为共同创作，具体分工待补充。本案例展示学习路径、图像与分析的对应方式，以及进入 Eagle 前的人工确认环节。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "共同创作；使用开源组件，保留 MIT 及依赖许可",
+            "roleSection": "产品与交互为共同创作。本案例展示学习路径、图像与分析的对应方式，以及进入 Eagle 前的人工确认环节。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"产品与交互共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"共同创作与开源组件协作；具体分工待补充，保留 MIT 及依赖许可\""
+            },
+            {
+              "line": 18,
+              "text": "产品与交互为共同创作，具体分工待补充。本案例展示学习路径、图像与分析的对应方式，以及进入 Eagle 前的人工确认环节。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/digital/yantai/design-study-fixture.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/yantai.en.md",
+          "changed": true,
+          "beforeSha256": "26dddd45f64b5849c15bdefebb2a08955ddf1da32d4e3f8d1de34b992fa8bc15",
+          "afterSha256": "0a476ea6080ac8ba86cf486631fd98f5cf78891425545b6bd9769e295d0e24e2",
+          "before": {
+            "role": "Collaborative product and interaction work; individual roles to be confirmed",
+            "credits": "Collaborative work with open-source components; contributor roles to be completed, MIT and dependency licenses retained",
+            "roleSection": "Product and interaction work is collaborative; individual roles remain to be confirmed. This case presents the learning sequence, the connection between image and analysis, and human confirmation before an Eagle entry is created."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative work using open-source components; MIT and dependency licenses retained",
+            "roleSection": "Product and interaction work is collaborative. This case presents the learning sequence, the connection between image and analysis, and human confirmation before an Eagle entry is created."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative product and interaction work; individual roles to be confirmed\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative work with open-source components; contributor roles to be completed, MIT and dependency licenses retained\""
+            },
+            {
+              "line": 18,
+              "text": "Product and interaction work is collaborative; individual roles remain to be confirmed. This case presents the learning sequence, the connection between image and analysis, and human confirmation before an Eagle entry is created."
+            }
+          ],
+          "preservedMedia": [
+            "/works/digital/yantai/design-study-fixture.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "工具产品与交互演化项目；具体人机协作分工未在已核对资料中完整列明。"
+        },
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "截图为演示夹具，设计推断不是原作者、真实材料、工艺、隐藏结构或安全性证明。"
+        }
+      ]
+    },
+    {
+      "case": "yelisi",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "其他参与者的完整姓名清单未核实。当前已有的团队/原展板姓名全部保留，未新增姓名。"
+      ],
+      "knownAttribution": {
+        "zh": "品牌视觉与产品概念共同创作",
+        "en": "Collaborative brand-identity and product-concept work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/yelisi.zh.md",
+          "changed": true,
+          "beforeSha256": "6f04665f76005f8a91413c8d9720f7b2116ee5beff5937cdcca2085998bfae50",
+          "afterSha256": "30e99f9dc0054e094443fc9e876d0f69b7bcccbbc792d44c61d7d78a0f5fc87b",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "品牌视觉与产品概念共同创作；协作者署名待补充",
+            "roleSection": "品牌视觉与产品概念为共同创作，具体分工待补充。本案例呈现命名与图形方向的演化，以及蛇形主体和蝴蝶配件之间的连接研究。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "品牌视觉与产品概念共同创作",
+            "roleSection": "品牌视觉与产品概念为共同创作。本案例呈现命名与图形方向的演化，以及蛇形主体和蝴蝶配件之间的连接研究。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"品牌视觉与产品概念共同创作；协作者署名待补充\""
+            },
+            {
+              "line": 18,
+              "text": "品牌视觉与产品概念为共同创作，具体分工待补充。本案例呈现命名与图形方向的演化，以及蛇形主体和蝴蝶配件之间的连接研究。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/brand/yelisi/snake-component-dimensions-concept.webp",
+            "/works/brand/yelisi/songnasty-historical-logo.webp",
+            "/works/brand/yelisi/yelisi-logo.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/yelisi.en.md",
+          "changed": true,
+          "beforeSha256": "2fea0c9362f82bb9104225007723605cce0b9ae47e3dd002a36ad32c7cee48ae",
+          "afterSha256": "56bddb9d2461bcc24607afe760ffe2a207e9dd6af0cb141279fb9cd3bb3c87c2",
+          "before": {
+            "role": "Collaborative work; individual roles to be confirmed",
+            "credits": "Collaborative brand and product concept work; collaborator credits to be completed",
+            "roleSection": "The brand and product concepts are collaborative work; individual roles remain to be confirmed. This case presents the evolution of the name and visual direction, together with a connection study for a snake-shaped body and butterfly accessory."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative brand-identity and product-concept work",
+            "roleSection": "The brand and product concepts are collaborative work. This case presents the evolution of the name and visual direction, together with a connection study for a snake-shaped body and butterfly accessory."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; individual roles to be confirmed\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative brand and product concept work; collaborator credits to be completed\""
+            },
+            {
+              "line": 18,
+              "text": "The brand and product concepts are collaborative work; individual roles remain to be confirmed. This case presents the evolution of the name and visual direction, together with a connection study for a snake-shaped body and butterfly accessory."
+            }
+          ],
+          "preservedMedia": [
+            "/works/brand/yelisi/snake-component-dimensions-concept.webp",
+            "/works/brand/yelisi/songnasty-historical-logo.webp",
+            "/works/brand/yelisi/yelisi-logo.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "品牌视觉与产品概念研究；现有资料未提供委托合同、团队分工或商业生产证明。"
+        },
+        {
+          "source": "private/sources/brand-digital/inventory.json",
+          "statement": "Songnasty 是历史工作名，不作为独立品牌重复计数。"
+        }
+      ]
+    },
+    {
+      "case": "yuju",
+      "uncertainties": [
+        "原公开稿未能逐项确认具体协作分工；原有说明及行号已完整保存在languages.before和archivedPlaceholderLines。共同创作标签不等于每个展示环节均由个人完成。",
+        "其他参与者的完整姓名清单未核实。当前已有的团队/原展板姓名全部保留，未新增姓名。"
+      ],
+      "knownAttribution": {
+        "zh": "合作项目；原始展板信息随作品保留",
+        "en": "Collaborative project; original board information is preserved with the work"
+      },
+      "languages": {
+        "zh": {
+          "file": "web/src/content/works/yuju.zh.md",
+          "changed": true,
+          "beforeSha256": "8983bc40a9a43d69d8c47d49b9cdd1d4abaf4b9806af4080e8dc5af5b6de5ba2",
+          "afterSha256": "6a85e7309ecb484eb45f504e928a6cbdcc8caf710c01fd91fc068921c4694fb1",
+          "before": {
+            "role": "共同创作，具体分工待补充",
+            "credits": "合作项目；其他成员署名待补充",
+            "roleSection": "本项目为合作项目，具体分工与其他成员署名待补充。展示内容涵盖命名、伞形标识、视觉规范、页面关系与界面样机。"
+          },
+          "after": {
+            "role": "共同创作",
+            "credits": "合作项目；原始展板信息随作品保留",
+            "roleSection": "本项目为合作项目。展示内容涵盖命名、伞形标识、视觉规范、页面关系与界面样机。"
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"共同创作，具体分工待补充\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"合作项目；其他成员署名待补充\""
+            },
+            {
+              "line": 18,
+              "text": "本项目为合作项目，具体分工与其他成员署名待补充。展示内容涵盖命名、伞形标识、视觉规范、页面关系与界面样机。"
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x6.webp"
+          ]
+        },
+        "en": {
+          "file": "web/src/content/works/yuju.en.md",
+          "changed": true,
+          "beforeSha256": "fdd16f37cb92d993e77dd26a6eab783e013d57e3473bc65644b2793cd1856eac",
+          "afterSha256": "bdadcfdcf0b1e50a1a1973636bf0aab37b5ebef5255eef07c380bf904aefd02f",
+          "before": {
+            "role": "Collaborative work; specific role to be documented",
+            "credits": "Collaborative project; other team credits to be documented",
+            "roleSection": "This is a collaborative project; the division of responsibilities and other team credits remain to be documented. The material covers naming, an umbrella-shaped mark, visual guidelines, screen relationships and interface mockups."
+          },
+          "after": {
+            "role": "Collaborative work",
+            "credits": "Collaborative project; original board information is preserved with the work",
+            "roleSection": "This is a collaborative project. The material covers naming, an umbrella-shaped mark, visual guidelines, screen relationships and interface mockups."
+          },
+          "archivedPlaceholderLines": [
+            {
+              "line": 5,
+              "text": "role: \"Collaborative work; specific role to be documented\""
+            },
+            {
+              "line": 6,
+              "text": "credits: \"Collaborative project; other team credits to be documented\""
+            },
+            {
+              "line": 18,
+              "text": "This is a collaborative project; the division of responsibilities and other team credits remain to be documented. The material covers naming, an umbrella-shaped mark, visual guidelines, screen relationships and interface mockups."
+            }
+          ],
+          "preservedMedia": [
+            "/works/documents/embedded-boards/x6.webp"
+          ]
+        }
+      },
+      "changed": true,
+      "sourceEvidence": [
+        {
+          "source": "private/sources/pdf-cases.json",
+          "statement": "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。"
+        }
+      ]
+    }
+  ],
+  "verification": {
+    "publicPlaceholderCount": 0,
+    "bilingualMediaPreserved": true,
+    "knownNamesAndUpstreamAttributionPreserved": true,
+    "nonContributionFrontmatterUnchanged": true,
+    "contentValidator": {
+      "command": "node scripts/validate-content.mjs",
+      "exitCode": 0,
+      "result": "PASS: 30 bilingual cases, 130 media references, all 30 legacy work images covered."
+    }
+  }
+}

@@ -1,0 +1,560 @@
+[
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E5%A7%8B%E7%A5%96%E9%B8%9F/cb880134dd55b4ea48ac6a2c188bf65b.jpg",
+    "sourcePath": "始祖鸟/cb880134dd55b4ea48ac6a2c188bf65b.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E5%A7%8B%E7%A5%96%E9%B8%9F/cb880134dd55b4ea48ac6a2c188bf65b.jpg",
+    "archive": "private/sources/legacy/assets/始祖鸟/cb880134dd55b4ea48ac6a2c188bf65b.jpg",
+    "bytes": 233932,
+    "sha256": "c8ee8955609042a996263111e18f4fb86ce388aa42d6df997e6d8c98b0721b15",
+    "category": "arcteryx",
+    "sourceDimensions": [
+      1280,
+      1707
+    ],
+    "displayDimensions": [
+      1280,
+      1707
+    ],
+    "publicPath": "/works/legacy/arcteryx/cb880134dd55b4ea48ac6a2c188bf65b.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E5%AD%99%E8%8B%B1%E6%9D%B0%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81%E9%9B%86/%E9%A1%B9%E7%9B%AE.pdf",
+    "sourcePath": "孙英杰个人作品集/项目.pdf",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E5%AD%99%E8%8B%B1%E6%9D%B0%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81%E9%9B%86/%E9%A1%B9%E7%9B%AE.pdf",
+    "archive": "private/sources/legacy/assets/孙英杰个人作品集/项目.pdf",
+    "bytes": 173240209,
+    "sha256": "71c6237f2b1e533904dcf6bfd22afd9812d132df259073baf9d5169ef2de79e5",
+    "category": "portfolio"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E6%B8%B2%E6%9F%93%E4%BD%9C%E5%93%81/22de046ff3e66598345084183a3aea6b.jpg",
+    "sourcePath": "渲染作品/22de046ff3e66598345084183a3aea6b.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E6%B8%B2%E6%9F%93%E4%BD%9C%E5%93%81/22de046ff3e66598345084183a3aea6b.jpg",
+    "archive": "private/sources/legacy/assets/渲染作品/22de046ff3e66598345084183a3aea6b.jpg",
+    "bytes": 588679,
+    "sha256": "3565d0adc64be65173182909699fe91a83e59ea2362749edeb45298d65c69ed5",
+    "category": "rendering",
+    "sourceDimensions": [
+      3608,
+      2348
+    ],
+    "displayDimensions": [
+      2000,
+      1302
+    ],
+    "publicPath": "/works/legacy/rendering/22de046ff3e66598345084183a3aea6b.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E6%B8%B2%E6%9F%93%E4%BD%9C%E5%93%81/6b8d00417baa8b204447fd0857eb435a.png",
+    "sourcePath": "渲染作品/6b8d00417baa8b204447fd0857eb435a.png",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E6%B8%B2%E6%9F%93%E4%BD%9C%E5%93%81/6b8d00417baa8b204447fd0857eb435a.png",
+    "archive": "private/sources/legacy/assets/渲染作品/6b8d00417baa8b204447fd0857eb435a.png",
+    "bytes": 18065593,
+    "sha256": "991416b918c99a1d8bce6bfd391a2d1bcae0ac10877203fc350bcef342beab71",
+    "category": "rendering",
+    "sourceDimensions": [
+      6885,
+      2810
+    ],
+    "displayDimensions": [
+      2000,
+      816
+    ],
+    "publicPath": "/works/legacy/rendering/6b8d00417baa8b204447fd0857eb435a.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E6%B8%B2%E6%9F%93%E4%BD%9C%E5%93%81/7ddd2cc1d08f22e83dbf11ca277471eb.png",
+    "sourcePath": "渲染作品/7ddd2cc1d08f22e83dbf11ca277471eb.png",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E6%B8%B2%E6%9F%93%E4%BD%9C%E5%93%81/7ddd2cc1d08f22e83dbf11ca277471eb.png",
+    "archive": "private/sources/legacy/assets/渲染作品/7ddd2cc1d08f22e83dbf11ca277471eb.png",
+    "bytes": 48199970,
+    "sha256": "584cae8733345cc78a769894f5215a810ca76f9e12a78b980d3a9b4c82238f9e",
+    "category": "rendering",
+    "sourceDimensions": [
+      2755,
+      3600
+    ],
+    "displayDimensions": [
+      2000,
+      2613
+    ],
+    "publicPath": "/works/legacy/rendering/7ddd2cc1d08f22e83dbf11ca277471eb.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E6%B8%B2%E6%9F%93%E4%BD%9C%E5%93%81/a7bdacdb33c834301102c595220b48d3.png",
+    "sourcePath": "渲染作品/a7bdacdb33c834301102c595220b48d3.png",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E6%B8%B2%E6%9F%93%E4%BD%9C%E5%93%81/a7bdacdb33c834301102c595220b48d3.png",
+    "archive": "private/sources/legacy/assets/渲染作品/a7bdacdb33c834301102c595220b48d3.png",
+    "bytes": 30414775,
+    "sha256": "28b22d366d3615f42a32f92e91bed16d3a1f55fdff879e5c89eab14f1b1d78e2",
+    "category": "rendering",
+    "sourceDimensions": [
+      4168,
+      2713
+    ],
+    "displayDimensions": [
+      2000,
+      1302
+    ],
+    "publicPath": "/works/legacy/rendering/a7bdacdb33c834301102c595220b48d3.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E6%B8%B2%E6%9F%93%E4%BD%9C%E5%93%81/c7db2abf68343f46198039db6ab4fba6.png",
+    "sourcePath": "渲染作品/c7db2abf68343f46198039db6ab4fba6.png",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E6%B8%B2%E6%9F%93%E4%BD%9C%E5%93%81/c7db2abf68343f46198039db6ab4fba6.png",
+    "archive": "private/sources/legacy/assets/渲染作品/c7db2abf68343f46198039db6ab4fba6.png",
+    "bytes": 43724748,
+    "sha256": "a3ba1118188390d773cfa2930e12d243ff9621dceac22fe2189e71edd7b5c9d9",
+    "category": "rendering",
+    "sourceDimensions": [
+      2755,
+      3600
+    ],
+    "displayDimensions": [
+      2000,
+      2613
+    ],
+    "publicPath": "/works/legacy/rendering/c7db2abf68343f46198039db6ab4fba6.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E6%B8%B2%E6%9F%93%E4%BD%9C%E5%93%81/d426d7f675239cd43c29396f4b542fee.png",
+    "sourcePath": "渲染作品/d426d7f675239cd43c29396f4b542fee.png",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E6%B8%B2%E6%9F%93%E4%BD%9C%E5%93%81/d426d7f675239cd43c29396f4b542fee.png",
+    "archive": "private/sources/legacy/assets/渲染作品/d426d7f675239cd43c29396f4b542fee.png",
+    "bytes": 22719701,
+    "sha256": "05a148e5c32f93dfa5f891d64d41162644d4d20abb3ca6b0824d2f7a504e8cb8",
+    "category": "rendering",
+    "sourceDimensions": [
+      4168,
+      2713
+    ],
+    "displayDimensions": [
+      2000,
+      1302
+    ],
+    "publicPath": "/works/legacy/rendering/d426d7f675239cd43c29396f4b542fee.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%86%AC%E5%AD%A3/54f3c93240044222915bc785ca86bc40.jpg",
+    "sourcePath": "爱马仕/冬季/54f3c93240044222915bc785ca86bc40.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%86%AC%E5%AD%A3/54f3c93240044222915bc785ca86bc40.jpg",
+    "archive": "private/sources/legacy/assets/爱马仕/冬季/54f3c93240044222915bc785ca86bc40.jpg",
+    "bytes": 160381,
+    "sha256": "9748917c4a0c1b8ab6b03aae9453ff8506f3e8831d2048e01ad9c3061c1b0bb1",
+    "category": "hermes",
+    "sourceDimensions": [
+      1083,
+      1080
+    ],
+    "displayDimensions": [
+      1083,
+      1080
+    ],
+    "publicPath": "/works/legacy/hermes/54f3c93240044222915bc785ca86bc40.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%86%AC%E5%AD%A3/776d28c61be0075bb8c93bffd65035ef.jpg",
+    "sourcePath": "爱马仕/冬季/776d28c61be0075bb8c93bffd65035ef.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%86%AC%E5%AD%A3/776d28c61be0075bb8c93bffd65035ef.jpg",
+    "archive": "private/sources/legacy/assets/爱马仕/冬季/776d28c61be0075bb8c93bffd65035ef.jpg",
+    "bytes": 148067,
+    "sha256": "8f921d51a46f3550ee2ee26406ef0460ddddcc78831de22ddb0acb5df70ad0a4",
+    "category": "hermes",
+    "sourceDimensions": [
+      1080,
+      1239
+    ],
+    "displayDimensions": [
+      1080,
+      1239
+    ],
+    "publicPath": "/works/legacy/hermes/776d28c61be0075bb8c93bffd65035ef.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%86%AC%E5%AD%A3/8c4f37a6cb7ca715256d9a6f7dc9e210.jpg",
+    "sourcePath": "爱马仕/冬季/8c4f37a6cb7ca715256d9a6f7dc9e210.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%86%AC%E5%AD%A3/8c4f37a6cb7ca715256d9a6f7dc9e210.jpg",
+    "archive": "private/sources/legacy/assets/爱马仕/冬季/8c4f37a6cb7ca715256d9a6f7dc9e210.jpg",
+    "bytes": 172162,
+    "sha256": "7ba3ead4547ccf4b0ba617a43052bd6da4e456f23ea50fe9271ac2716c59370e",
+    "category": "hermes",
+    "sourceDimensions": [
+      1080,
+      1440
+    ],
+    "displayDimensions": [
+      1080,
+      1440
+    ],
+    "publicPath": "/works/legacy/hermes/8c4f37a6cb7ca715256d9a6f7dc9e210.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%86%AC%E5%AD%A3/bfdc3c738e0adc5a35237a99374f7ac5.jpg",
+    "sourcePath": "爱马仕/冬季/bfdc3c738e0adc5a35237a99374f7ac5.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%86%AC%E5%AD%A3/bfdc3c738e0adc5a35237a99374f7ac5.jpg",
+    "archive": "private/sources/legacy/assets/爱马仕/冬季/bfdc3c738e0adc5a35237a99374f7ac5.jpg",
+    "bytes": 191973,
+    "sha256": "2169fff20ec309a0c99f830e30a6af7ce7fd55bc9a249a5b3022015c964588b0",
+    "category": "hermes",
+    "sourceDimensions": [
+      1080,
+      1398
+    ],
+    "displayDimensions": [
+      1080,
+      1398
+    ],
+    "publicPath": "/works/legacy/hermes/bfdc3c738e0adc5a35237a99374f7ac5.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%86%AC%E5%AD%A3/e8d955a3898da97773e081384d4117e3.jpg",
+    "sourcePath": "爱马仕/冬季/e8d955a3898da97773e081384d4117e3.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%86%AC%E5%AD%A3/e8d955a3898da97773e081384d4117e3.jpg",
+    "archive": "private/sources/legacy/assets/爱马仕/冬季/e8d955a3898da97773e081384d4117e3.jpg",
+    "bytes": 218923,
+    "sha256": "32b388ba48848f1db020caf0d8751b0fe6e18071d2f2d6c71e7527cbdf334831",
+    "category": "hermes",
+    "sourceDimensions": [
+      1440,
+      1080
+    ],
+    "displayDimensions": [
+      1440,
+      1080
+    ],
+    "publicPath": "/works/legacy/hermes/e8d955a3898da97773e081384d4117e3.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%86%AC%E5%AD%A3/f1455674fa1906fe49bd555bcad97e9c.jpg",
+    "sourcePath": "爱马仕/冬季/f1455674fa1906fe49bd555bcad97e9c.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%86%AC%E5%AD%A3/f1455674fa1906fe49bd555bcad97e9c.jpg",
+    "archive": "private/sources/legacy/assets/爱马仕/冬季/f1455674fa1906fe49bd555bcad97e9c.jpg",
+    "bytes": 209108,
+    "sha256": "a10eed8cc6bf85f87c3f66533e32b37c179348b2b218a4b6f12eb5ff42043997",
+    "category": "hermes",
+    "sourceDimensions": [
+      1553,
+      1080
+    ],
+    "displayDimensions": [
+      1553,
+      1080
+    ],
+    "publicPath": "/works/legacy/hermes/f1455674fa1906fe49bd555bcad97e9c.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%A4%8F%E5%AD%A3/40379d8484144b6a435498fcf8b9d857.png",
+    "sourcePath": "爱马仕/夏季/40379d8484144b6a435498fcf8b9d857.png",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%A4%8F%E5%AD%A3/40379d8484144b6a435498fcf8b9d857.png",
+    "archive": "private/sources/legacy/assets/爱马仕/夏季/40379d8484144b6a435498fcf8b9d857.png",
+    "bytes": 3444984,
+    "sha256": "df83fbc85f28f7e6589b7d9c66c5a49d3335aabaeed913e25d8bef6ff0d0e76d",
+    "category": "hermes",
+    "sourceDimensions": [
+      1280,
+      1737
+    ],
+    "displayDimensions": [
+      1280,
+      1737
+    ],
+    "publicPath": "/works/legacy/hermes/40379d8484144b6a435498fcf8b9d857.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%A4%8F%E5%AD%A3/51a7ab3976cb48ff18f4591b5056409e.jpg",
+    "sourcePath": "爱马仕/夏季/51a7ab3976cb48ff18f4591b5056409e.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%A4%8F%E5%AD%A3/51a7ab3976cb48ff18f4591b5056409e.jpg",
+    "archive": "private/sources/legacy/assets/爱马仕/夏季/51a7ab3976cb48ff18f4591b5056409e.jpg",
+    "bytes": 340941,
+    "sha256": "2e204034fb665ac9234ea96fe403786e88cf0ff8405a6d9067ae1e6523366a20",
+    "category": "hermes",
+    "sourceDimensions": [
+      1080,
+      1154
+    ],
+    "displayDimensions": [
+      1080,
+      1154
+    ],
+    "publicPath": "/works/legacy/hermes/51a7ab3976cb48ff18f4591b5056409e.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%A4%8F%E5%AD%A3/a8d210af1968eb83486446dc2f40027a.jpg",
+    "sourcePath": "爱马仕/夏季/a8d210af1968eb83486446dc2f40027a.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E5%A4%8F%E5%AD%A3/a8d210af1968eb83486446dc2f40027a.jpg",
+    "archive": "private/sources/legacy/assets/爱马仕/夏季/a8d210af1968eb83486446dc2f40027a.jpg",
+    "bytes": 451044,
+    "sha256": "b593a72e9e2746460792970d7dafbecc3262296fed57ffd1dd09fee434a90215",
+    "category": "hermes",
+    "sourceDimensions": [
+      1115,
+      1553
+    ],
+    "displayDimensions": [
+      1115,
+      1553
+    ],
+    "publicPath": "/works/legacy/hermes/a8d210af1968eb83486446dc2f40027a.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E7%A7%8B%E5%AD%A3/043e019544984416521bf2009313a5fb.jpg",
+    "sourcePath": "爱马仕/秋季/043e019544984416521bf2009313a5fb.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E7%A7%8B%E5%AD%A3/043e019544984416521bf2009313a5fb.jpg",
+    "archive": "private/sources/legacy/assets/爱马仕/秋季/043e019544984416521bf2009313a5fb.jpg",
+    "bytes": 255739,
+    "sha256": "33d7bac8d8c7a6e6e4730051e5b0828bc204cd00591bf73dd65fe5f6a996d210",
+    "category": "hermes",
+    "sourceDimensions": [
+      1280,
+      1920
+    ],
+    "displayDimensions": [
+      1280,
+      1920
+    ],
+    "publicPath": "/works/legacy/hermes/043e019544984416521bf2009313a5fb.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E7%A7%8B%E5%AD%A3/34aa997644c1849af5a716bd5cdcf55b.jpg",
+    "sourcePath": "爱马仕/秋季/34aa997644c1849af5a716bd5cdcf55b.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E7%A7%8B%E5%AD%A3/34aa997644c1849af5a716bd5cdcf55b.jpg",
+    "archive": "private/sources/legacy/assets/爱马仕/秋季/34aa997644c1849af5a716bd5cdcf55b.jpg",
+    "bytes": 249748,
+    "sha256": "7b9e5e61cf73532c67b268b367c93ee30030ab6e31322f6d6ee49c2221e5a14d",
+    "category": "hermes",
+    "sourceDimensions": [
+      1280,
+      1707
+    ],
+    "displayDimensions": [
+      1280,
+      1707
+    ],
+    "publicPath": "/works/legacy/hermes/34aa997644c1849af5a716bd5cdcf55b.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E7%A7%8B%E5%AD%A3/b1d7e5fa28f89c792ee7a540882cf5ce.jpg",
+    "sourcePath": "爱马仕/秋季/b1d7e5fa28f89c792ee7a540882cf5ce.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E7%88%B1%E9%A9%AC%E4%BB%95/%E7%A7%8B%E5%AD%A3/b1d7e5fa28f89c792ee7a540882cf5ce.jpg",
+    "archive": "private/sources/legacy/assets/爱马仕/秋季/b1d7e5fa28f89c792ee7a540882cf5ce.jpg",
+    "bytes": 220317,
+    "sha256": "3eb815209b13f7b81de829354ace6d4bff256f604f06d16ef86f847f300bd018",
+    "category": "hermes",
+    "sourceDimensions": [
+      1280,
+      1707
+    ],
+    "displayDimensions": [
+      1280,
+      1707
+    ],
+    "publicPath": "/works/legacy/hermes/b1d7e5fa28f89c792ee7a540882cf5ce.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/1a933b09873b81c73f03877f8f9a61ea.jpg",
+    "sourcePath": "设计上海与米兰设计周/1a933b09873b81c73f03877f8f9a61ea.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/1a933b09873b81c73f03877f8f9a61ea.jpg",
+    "archive": "private/sources/legacy/assets/设计上海与米兰设计周/1a933b09873b81c73f03877f8f9a61ea.jpg",
+    "bytes": 4973042,
+    "sha256": "c2733ed26547162aca0544c7e55830bfb02f540e5cc6a564c4c7af6aabd9a35b",
+    "category": "lighting",
+    "sourceDimensions": [
+      3213,
+      5712
+    ],
+    "displayDimensions": [
+      2000,
+      3556
+    ],
+    "publicPath": "/works/legacy/lighting/1a933b09873b81c73f03877f8f9a61ea.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/211a2e25f8d767e880624789a3a63594.jpg",
+    "sourcePath": "设计上海与米兰设计周/211a2e25f8d767e880624789a3a63594.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/211a2e25f8d767e880624789a3a63594.jpg",
+    "archive": "private/sources/legacy/assets/设计上海与米兰设计周/211a2e25f8d767e880624789a3a63594.jpg",
+    "bytes": 70777,
+    "sha256": "c2003e7bda33ac1a4f7be67afae1af695ecd67991dd8cee46a84b2c3faa58b79",
+    "category": "lighting",
+    "sourceDimensions": [
+      1280,
+      960
+    ],
+    "displayDimensions": [
+      1280,
+      960
+    ],
+    "publicPath": "/works/legacy/lighting/211a2e25f8d767e880624789a3a63594.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/3f7ec7c3d1a16952bb9a0a0c1523be7b.jpg",
+    "sourcePath": "设计上海与米兰设计周/3f7ec7c3d1a16952bb9a0a0c1523be7b.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/3f7ec7c3d1a16952bb9a0a0c1523be7b.jpg",
+    "archive": "private/sources/legacy/assets/设计上海与米兰设计周/3f7ec7c3d1a16952bb9a0a0c1523be7b.jpg",
+    "bytes": 590898,
+    "sha256": "5474060570657ebcb02a165bdd6b1d36bc1f618e53dd60ebf9db0abcdd4212a9",
+    "category": "lighting",
+    "sourceDimensions": [
+      3840,
+      3840
+    ],
+    "displayDimensions": [
+      2000,
+      2000
+    ],
+    "publicPath": "/works/legacy/lighting/3f7ec7c3d1a16952bb9a0a0c1523be7b.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/450b32ccc90b8ca88b74c5bbf307c838.png",
+    "sourcePath": "设计上海与米兰设计周/450b32ccc90b8ca88b74c5bbf307c838.png",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/450b32ccc90b8ca88b74c5bbf307c838.png",
+    "archive": "private/sources/legacy/assets/设计上海与米兰设计周/450b32ccc90b8ca88b74c5bbf307c838.png",
+    "bytes": 397004,
+    "sha256": "dc2b5f8ad8c5883dcbc4e960ea15bb3e351569628d9500a5c04ae977d2937c61",
+    "category": "lighting",
+    "sourceDimensions": [
+      959,
+      720
+    ],
+    "displayDimensions": [
+      959,
+      720
+    ],
+    "publicPath": "/works/legacy/lighting/450b32ccc90b8ca88b74c5bbf307c838.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/4c9ca8a7b2459a9667ce0b7438da56e1.jpg",
+    "sourcePath": "设计上海与米兰设计周/4c9ca8a7b2459a9667ce0b7438da56e1.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/4c9ca8a7b2459a9667ce0b7438da56e1.jpg",
+    "archive": "private/sources/legacy/assets/设计上海与米兰设计周/4c9ca8a7b2459a9667ce0b7438da56e1.jpg",
+    "bytes": 526469,
+    "sha256": "ba21d6d6f4419aaa2e415aaf3d72835f060ba3612bcc9c2035bf7f2afbb72ed2",
+    "category": "lighting",
+    "sourceDimensions": [
+      3840,
+      3840
+    ],
+    "displayDimensions": [
+      2000,
+      2000
+    ],
+    "publicPath": "/works/legacy/lighting/4c9ca8a7b2459a9667ce0b7438da56e1.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/5beb6f4875965136b4cf16ffcfe6f1fe.png",
+    "sourcePath": "设计上海与米兰设计周/5beb6f4875965136b4cf16ffcfe6f1fe.png",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/5beb6f4875965136b4cf16ffcfe6f1fe.png",
+    "archive": "private/sources/legacy/assets/设计上海与米兰设计周/5beb6f4875965136b4cf16ffcfe6f1fe.png",
+    "bytes": 572398,
+    "sha256": "7cfa166190c18ae837b59a9be1c851daceaadd07f10ac4aefc442e9b3673d6f0",
+    "category": "lighting",
+    "sourceDimensions": [
+      1280,
+      1810
+    ],
+    "displayDimensions": [
+      1280,
+      1810
+    ],
+    "publicPath": "/works/legacy/lighting/5beb6f4875965136b4cf16ffcfe6f1fe.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/916094a2d9a1fe336ac2d4c9854737b4.jpg",
+    "sourcePath": "设计上海与米兰设计周/916094a2d9a1fe336ac2d4c9854737b4.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/916094a2d9a1fe336ac2d4c9854737b4.jpg",
+    "archive": "private/sources/legacy/assets/设计上海与米兰设计周/916094a2d9a1fe336ac2d4c9854737b4.jpg",
+    "bytes": 37753,
+    "sha256": "94ae2b1ff6d210d0c02401078dd9180e39e5c9082c6c8e159f815bc5790df51d",
+    "category": "lighting",
+    "sourceDimensions": [
+      898,
+      898
+    ],
+    "displayDimensions": [
+      898,
+      898
+    ],
+    "publicPath": "/works/legacy/lighting/916094a2d9a1fe336ac2d4c9854737b4.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/9aa74a4014cf6e5ba9f80dae478ae31e.jpg",
+    "sourcePath": "设计上海与米兰设计周/9aa74a4014cf6e5ba9f80dae478ae31e.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/9aa74a4014cf6e5ba9f80dae478ae31e.jpg",
+    "archive": "private/sources/legacy/assets/设计上海与米兰设计周/9aa74a4014cf6e5ba9f80dae478ae31e.jpg",
+    "bytes": 149363,
+    "sha256": "4a2d0fcf110da1a4370b1e29c6b492c8585fdba03d478dace85437233938790f",
+    "category": "lighting",
+    "sourceDimensions": [
+      1280,
+      560
+    ],
+    "displayDimensions": [
+      1280,
+      560
+    ],
+    "publicPath": "/works/legacy/lighting/9aa74a4014cf6e5ba9f80dae478ae31e.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/a56bfb9a22490e6fa6dc7073ce8b6f87.png",
+    "sourcePath": "设计上海与米兰设计周/a56bfb9a22490e6fa6dc7073ce8b6f87.png",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/a56bfb9a22490e6fa6dc7073ce8b6f87.png",
+    "archive": "private/sources/legacy/assets/设计上海与米兰设计周/a56bfb9a22490e6fa6dc7073ce8b6f87.png",
+    "bytes": 119265,
+    "sha256": "3c06aabdd848deb10666e7a4bfa5bef1c2dcada208dde0ba39d1b93c5600371e",
+    "category": "lighting",
+    "sourceDimensions": [
+      1280,
+      960
+    ],
+    "displayDimensions": [
+      1280,
+      960
+    ],
+    "publicPath": "/works/legacy/lighting/a56bfb9a22490e6fa6dc7073ce8b6f87.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/b3462a8b9f91b20f2fb239d91e7cadcf.jpg",
+    "sourcePath": "设计上海与米兰设计周/b3462a8b9f91b20f2fb239d91e7cadcf.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/b3462a8b9f91b20f2fb239d91e7cadcf.jpg",
+    "archive": "private/sources/legacy/assets/设计上海与米兰设计周/b3462a8b9f91b20f2fb239d91e7cadcf.jpg",
+    "bytes": 358662,
+    "sha256": "d68d7cdf38662e5ff2df3b1913ae59a81ae1f39f6125ff57f999ddbb19fd354f",
+    "category": "lighting",
+    "sourceDimensions": [
+      1280,
+      2276
+    ],
+    "displayDimensions": [
+      1280,
+      2276
+    ],
+    "publicPath": "/works/legacy/lighting/b3462a8b9f91b20f2fb239d91e7cadcf.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/e9ab15f955279470fd53cb6e9e9a8c18.jpg",
+    "sourcePath": "设计上海与米兰设计周/e9ab15f955279470fd53cb6e9e9a8c18.jpg",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AE%BE%E8%AE%A1%E4%B8%8A%E6%B5%B7%E4%B8%8E%E7%B1%B3%E5%85%B0%E8%AE%BE%E8%AE%A1%E5%91%A8/e9ab15f955279470fd53cb6e9e9a8c18.jpg",
+    "archive": "private/sources/legacy/assets/设计上海与米兰设计周/e9ab15f955279470fd53cb6e9e9a8c18.jpg",
+    "bytes": 200220,
+    "sha256": "84333a4f1ffae51544f1c6ab416c204a32ea6347f5a471b95a2c139972834654",
+    "category": "lighting",
+    "sourceDimensions": [
+      1280,
+      1280
+    ],
+    "displayDimensions": [
+      1280,
+      1280
+    ],
+    "publicPath": "/works/legacy/lighting/e9ab15f955279470fd53cb6e9e9a8c18.webp"
+  },
+  {
+    "sourceUrl": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AF%81%E4%BB%B6%E7%85%A7.png",
+    "sourcePath": "证件照.png",
+    "source": "https://69aeabebed37723301011cec--shiny-sunshine-72b10e.netlify.app/%E8%AF%81%E4%BB%B6%E7%85%A7.png",
+    "archive": "private/sources/legacy/assets/证件照.png",
+    "bytes": 6435322,
+    "sha256": "2a426c3cc226cf2f306c30a248801b800be3c1cf085a7162f3997522bb8f49ae",
+    "category": "portrait"
+  }
+]

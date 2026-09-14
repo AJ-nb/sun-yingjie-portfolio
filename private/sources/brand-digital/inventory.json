@@ -1,0 +1,924 @@
+{
+  "schemaVersion": 1,
+  "assembledAt": "2026-09-14T16:10:17.555071+00:00",
+  "scope": "品牌与本地数字项目素材；由父任务决定最终网站编排",
+  "sourceRepository": "AJ-nb/AJNB",
+  "sourceTreeSha": "4cc06aaf35637c4941cba4d0eb5524f1f1e618ad",
+  "candidateCount": 10,
+  "displayEligibleCount": 9,
+  "publicAssetCount": 22,
+  "candidates": [
+    {
+      "id": "periastra",
+      "titleZh": "Periastra 相机包品牌标志",
+      "titleEn": "Periastra Camera Bag Identity",
+      "category": "brand",
+      "confirmedDescription": "以字母 P、镜头旋涡与保护容器为母题，构建摄影装备品牌标志，并记录线宽、负形与小尺寸应用的优化方向。",
+      "sourcePaths": [
+        "github:AJ-nb/AJNB/Design-Knowledge-Base/projects/Periastra 相机包品牌设计"
+      ],
+      "publicAssetPaths": [
+        "/works/brand/periastra/logo/periastra-logo-v01-20260422.webp",
+        "/works/brand/periastra/explainers/periastra-structure-breakdown-v01.svg",
+        "/works/brand/periastra/explainers/periastra-lineweight-negative-space-v01.svg",
+        "/works/brand/periastra/explainers/periastra-application-fit-v01.svg"
+      ],
+      "assets": [
+        {
+          "publicPath": "/works/brand/periastra/logo/periastra-logo-v01-20260422.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\sun-yingjie-portfolio\\private\\sources\\brand-digital\\github\\AJ-nb\\AJNB\\Design-Knowledge-Base\\projects\\Periastra 相机包品牌设计\\assets\\logo\\periastra-logo-v01-20260422.png",
+          "sourceSha256": "45b9cf85e1f4433ef43052c32fbfcfff8dcd555d34c4d3e287d541307120c6d2",
+          "outputSha256": "2637767939f8aba533262f6090ef30e01ba1831bdc3390b37d116f553c722824",
+          "captionZh": "Periastra 标志：首字母 P、镜头旋涡与保护容器",
+          "kind": "logo",
+          "originalDimensions": [
+            5164,
+            2573
+          ],
+          "dimensions": [
+            2000,
+            997
+          ],
+          "bytes": 52166,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "标志研究；未核实实体应用或量产"
+        },
+        {
+          "publicPath": "/works/brand/periastra/explainers/periastra-structure-breakdown-v01.svg",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\sun-yingjie-portfolio\\private\\sources\\brand-digital\\github\\AJ-nb\\AJNB\\Design-Knowledge-Base\\projects\\Periastra 相机包品牌设计\\assets\\explainers\\periastra-structure-breakdown-v01.svg",
+          "sourceSha256": "f66a6b259a21bfbd62ad0294875b56ead5a6ece62b14c6d007c3a779d46eed74",
+          "outputSha256": "ba3722cf119ea8fe362a56e100f6faa2ca1e8b99a28a705bb1701aca45637cdb",
+          "captionZh": "P、保护外框与镜头旋涡的结构拆解",
+          "kind": "process-diagram",
+          "bytes": 70801,
+          "operations": "将原 SVG 的相对 Logo 引用内嵌为该 Logo 的 WebP 副本，避免网页图片依赖失效；未改动图形和文字",
+          "provenanceLimit": "应用适配与优化说明；并非已经完成的实体工艺测试"
+        },
+        {
+          "publicPath": "/works/brand/periastra/explainers/periastra-lineweight-negative-space-v01.svg",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\sun-yingjie-portfolio\\private\\sources\\brand-digital\\github\\AJ-nb\\AJNB\\Design-Knowledge-Base\\projects\\Periastra 相机包品牌设计\\assets\\explainers\\periastra-lineweight-negative-space-v01.svg",
+          "sourceSha256": "e3d2c9d83b88aae837c224cd1a29cbafe652c729a8542c036d7d14ec5b113c2e",
+          "outputSha256": "d57448b6c6a36877a3749dc862bcf06f26703985a17a1d7aea19cff3ba00b770",
+          "captionZh": "线宽层级与中央负形的优化方向",
+          "kind": "process-diagram",
+          "bytes": 1484,
+          "operations": "原 SVG 复制",
+          "provenanceLimit": "应用适配与优化说明；并非已经完成的实体工艺测试"
+        },
+        {
+          "publicPath": "/works/brand/periastra/explainers/periastra-application-fit-v01.svg",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\sun-yingjie-portfolio\\private\\sources\\brand-digital\\github\\AJ-nb\\AJNB\\Design-Knowledge-Base\\projects\\Periastra 相机包品牌设计\\assets\\explainers\\periastra-application-fit-v01.svg",
+          "sourceSha256": "945ea09deb1696c7d1f84932d01528999edaf2c2909ba18e27f0a721b646124b",
+          "outputSha256": "506d0a5fdfe8d0112b8c52bd8d8dda1b6ec9d1ddcab3a401ecf7cfad173a2729",
+          "captionZh": "小尺寸与工艺适配检查项（待验证）",
+          "kind": "process-diagram",
+          "bytes": 1572,
+          "operations": "原 SVG 复制",
+          "provenanceLimit": "应用适配与优化说明；并非已经完成的实体工艺测试"
+        }
+      ],
+      "role": "品牌标志与视觉结构研究；现有资料未单列个人、AI 与协作分工。",
+      "provenanceLimits": [
+        "资料范围为 Logo 及应用研究，不代表相机包整机/结构设计。",
+        "金属铭牌、织唛、压印等为拟验证方向，没有实体生产或商用客户证明。"
+      ],
+      "status": "标志方案与应用研究",
+      "displayEligible": true,
+      "links": [],
+      "aliases": [],
+      "attribution": null,
+      "confirmedDetails": []
+    },
+    {
+      "id": "yelisi",
+      "titleZh": "夜礼司品牌识别与身体装置研究",
+      "titleEn": "YELISI — Night Ritual Atelier",
+      "category": "brand",
+      "confirmedDescription": "从 Songnasty 早期 S 曲线探索转向中文品牌夜礼司，以宋式私印、篆书空间和身体负形建立识别，并延伸研究蛇形口咬主体与蝴蝶磁吸配件的连接关系。",
+      "sourcePaths": [
+        "github:AJ-nb/AJNB/Design-Knowledge-Base/projects/夜礼司"
+      ],
+      "publicAssetPaths": [
+        "/works/brand/yelisi/yelisi-logo.webp",
+        "/works/brand/yelisi/songnasty-historical-logo.webp",
+        "/works/brand/yelisi/snake-component-dimensions-concept.webp"
+      ],
+      "assets": [
+        {
+          "publicPath": "/works/brand/yelisi/yelisi-logo.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\sun-yingjie-portfolio\\private\\sources\\brand-digital\\github\\AJ-nb\\AJNB\\Design-Knowledge-Base\\projects\\夜礼司\\01_Logo 设计\\assets\\logo\\yelisi-final-logo-v01-20260514.png",
+          "sourceSha256": "f574d9c82db49ccec2563100e066d35b3bc2645b750dad4af2eddff310045c8a",
+          "outputSha256": "529657e9b73686384822f7ac063c2faff6a419d5e90900ccd4c56701f8318961",
+          "captionZh": "夜礼司现行标志：私印秩序与中央身体负形",
+          "kind": "logo",
+          "originalDimensions": [
+            1122,
+            1662
+          ],
+          "dimensions": [
+            1122,
+            1662
+          ],
+          "bytes": 13820,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "原稿记录的正式方向；矢量化精修与工艺测试尚待完成"
+        },
+        {
+          "publicPath": "/works/brand/yelisi/songnasty-historical-logo.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\sun-yingjie-portfolio\\private\\sources\\brand-digital\\github\\AJ-nb\\AJNB\\Design-Knowledge-Base\\projects\\夜礼司\\01_Logo 设计\\assets\\history\\历史_Songnasty旧版最终标志.png",
+          "sourceSha256": "62e9deb0d0cfc181a8977e19d9779440be471523d029c605e777ec84f82ea80a",
+          "outputSha256": "81e13b35fee3ee6e5852d734494aae0cb9ee4963c6b58b65e045ff28191b47dc",
+          "captionZh": "Songnasty 历史探索阶段（非现行品牌标志）",
+          "kind": "logo",
+          "originalDimensions": [
+            420,
+            410
+          ],
+          "dimensions": [
+            420,
+            410
+          ],
+          "bytes": 6378,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "历史工作名，仅作演化证据"
+        },
+        {
+          "publicPath": "/works/brand/yelisi/snake-component-dimensions-concept.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\sun-yingjie-portfolio\\private\\sources\\brand-digital\\github\\AJ-nb\\AJNB\\Design-Knowledge-Base\\projects\\夜礼司\\02_产品设计\\蛇形口咬道具_绒花蝴蝶磁吸配件\\assets\\佩戴效果图.png",
+          "sourceSha256": "cd6d3a3fcbdae9ff6ab865023e34d183a5c2c04e84ec03677271aa821d3064d6",
+          "outputSha256": "e7db66964c17129b13ae4c686959bf73bce8c5766f99cb95d293a036b4f61844",
+          "captionZh": "蛇形部件概念与尺寸标注（研究稿）",
+          "kind": "concept-render",
+          "originalDimensions": [
+            1968,
+            1026
+          ],
+          "dimensions": [
+            1968,
+            1026
+          ],
+          "bytes": 57526,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "源文件名为“佩戴效果图”，实际画面为蛇形部件尺寸渲染；尺寸、材料、安全与佩戴性能均未独立验证"
+        }
+      ],
+      "role": "品牌视觉与产品概念研究；现有资料未提供委托合同、团队分工或商业生产证明。",
+      "provenanceLimits": [
+        "Songnasty 是历史工作名，不作为独立品牌重复计数。",
+        "Logo 定向不等于工艺完稿；资料仍列出矢量化、字标和应用测试任务。",
+        "产品图只能证明概念研究；无实物打样、磁吸力、口部材料安全和人体工学验证。",
+        "纯蝴蝶形态参考、人像佩戴示意及历史字形参考图未纳入公开资产。"
+      ],
+      "status": "现行品牌方向；产品概念研究",
+      "displayEligible": true,
+      "links": [],
+      "aliases": [
+        "Songnasty",
+        "Night Ritual Atelier"
+      ],
+      "attribution": null,
+      "confirmedDetails": []
+    },
+    {
+      "id": "lensflow",
+      "titleZh": "镜序 Lensflow",
+      "titleEn": "Lensflow",
+      "category": "digital",
+      "confirmedDescription": "面向设计素材的本地 AI 创作工作台，贯通图像采集、结构化分析、提示词与参考组织、批量生成任务及资产归档。扩展与产品网站共享工作区界面。",
+      "sourcePaths": [
+        "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\README.md",
+        "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\docs\\project-status.md",
+        "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\THIRD_PARTY_NOTICES.md"
+      ],
+      "publicAssetPaths": [
+        "/works/digital/lensflow/studio-analysis.webp",
+        "/works/digital/lensflow/studio-guide.webp"
+      ],
+      "assets": [
+        {
+          "publicPath": "/works/digital/lensflow/studio-analysis.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\output\\xiaohongshu-lensflow-v0.3.0\\evidence\\studio-analysis.png",
+          "sourceSha256": "6ab7a066f23f51070ac8957065a507b8e8e875b51ea5e30ca91c7d80b1407f2d",
+          "outputSha256": "ea7ef2af8a00de389be498e10ac8194168b7dd89986e568bd9f58da2613706c8",
+          "captionZh": "镜序 Studio：素材分析与结构化结果界面（v0.3.0 演示）",
+          "kind": "screenshot",
+          "originalDimensions": [
+            1440,
+            1040
+          ],
+          "dimensions": [
+            1440,
+            1040
+          ],
+          "bytes": 111080,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "界面内灯具为演示素材，不作为独立原创工业设计成果。"
+        },
+        {
+          "publicPath": "/works/digital/lensflow/studio-guide.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\output\\playwright\\lensflow-v030-demo-desktop.png",
+          "sourceSha256": "6c247f964d046763735f72232bd3f70bf3b74b7aeed3cadf7183e171cd430b12",
+          "outputSha256": "329f6863f0ed922d18f5ff2f37d905477107e8e9eff44c4f669c45d13f54116d",
+          "captionZh": "镜序首次使用引导与本地演示界面",
+          "kind": "screenshot",
+          "originalDimensions": [
+            1440,
+            1044
+          ],
+          "dimensions": [
+            1440,
+            1044
+          ],
+          "bytes": 62856,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "演示模式预计算数据，不代表本次实时模型调用结果。"
+        }
+      ],
+      "role": "个人工具项目的产品与交互实现；人工、AI 与上游组件的逐项贡献比例未核实。",
+      "provenanceLimits": [
+        "截图为 v0.3.0 保存的演示界面；本地 package 记录 v0.3.3。",
+        "第三方模型真实接口兼容性与外部集成不是全面验证状态。",
+        "Chrome Web Store、账号、付费、云同步与完整移动编辑不在已确认交付范围。"
+      ],
+      "status": "已有源码、文档、截图及公开产品站",
+      "displayEligible": true,
+      "links": [
+        {
+          "label": "在线体验",
+          "url": "https://aj-nb.github.io/lensflow/",
+          "verified": true,
+          "method": "GitHub Pages API + HTTP 200（2026-09-15）",
+          "public": true
+        },
+        {
+          "label": "项目源码",
+          "url": "https://github.com/AJ-nb/lensflow",
+          "verified": true,
+          "method": "GitHub REST API",
+          "verifiedAt": "2026-09-14T16:10:17.555071+00:00",
+          "public": true
+        }
+      ],
+      "aliases": [
+        "镜序"
+      ],
+      "attribution": "项目与第三方依赖保留各自许可证；Viko 为行为调研对象，不冒认其品牌或素材。",
+      "confirmedDetails": []
+    },
+    {
+      "id": "yantai",
+      "titleZh": "砚台 · 产品造型学习工具",
+      "titleEn": "Yantai — Form Study",
+      "category": "digital",
+      "confirmedDescription": "从网页、本地或图片链接采集视觉素材，拆解产品造型手法与结构假设，再由人工确认分类与 Eagle 归档。当前 AJNB 模块将重点收束到设计学习和可追溯归档。",
+      "sourcePaths": [
+        "D:\\OneDrive\\桌面\\文件\\项目\\luck-power\\README.md",
+        "D:\\OneDrive\\桌面\\文件\\项目\\visual-lens\\README.md",
+        "D:\\OneDrive\\桌面\\文件\\项目\\visual-lens\\visual-lens\\README.md",
+        "D:\\OneDrive\\桌面\\文件\\项目\\visual-lens\\docs\\INSTALL-YANTAI.md"
+      ],
+      "publicAssetPaths": [
+        "/works/digital/yantai/design-study-fixture.webp"
+      ],
+      "assets": [
+        {
+          "publicPath": "/works/digital/yantai/design-study-fixture.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-lens\\output\\playwright\\yantai-instrument-study-760.png",
+          "sourceSha256": "77fc6319f3502728c6fde1da2993881a2b5af8e7886daf817ee55e58fe3fedac",
+          "outputSha256": "e76e3424c5ca778a00afc303a45c06762fb3f0a01163be08d1f59fd3737ab86b",
+          "captionZh": "砚台产品造型学习界面：观察、拆解、迁移与归档（演示夹具）",
+          "kind": "screenshot",
+          "originalDimensions": [
+            760,
+            1985
+          ],
+          "dimensions": [
+            760,
+            1985
+          ],
+          "bytes": 107080,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "画面明确标注“预览夹具 · study”；灯具与分析数字为界面演示内容，不是用户产品成果或测量性能。"
+        }
+      ],
+      "role": "工具产品与交互演化项目；具体人机协作分工未在已核对资料中完整列明。",
+      "provenanceLimits": [
+        "luck-power v0.6.3 与 visual-lens/AJNB v0.7.5 属同一砚台演化线。",
+        "旧版 OCR、三视图、重建、工作台等已在当前模块删除，不应混写为现行功能。",
+        "AJNB 当前仓库与 RC 下载为私有访问，公开访客只能访问旧版 luck-power。",
+        "截图为演示夹具，设计推断不是原作者、真实材料、工艺、隐藏结构或安全性证明。"
+      ],
+      "status": "砚台当前 v0.7.5 RC；既有公开前身 v0.6.3",
+      "displayEligible": true,
+      "links": [
+        {
+          "label": "公开前身源码 v0.6.3",
+          "url": "https://github.com/AJ-nb/luck-power",
+          "verified": true,
+          "method": "GitHub REST API",
+          "verifiedAt": "2026-09-14T16:10:17.555071+00:00",
+          "public": true
+        },
+        {
+          "label": "当前私有工作区",
+          "url": "https://github.com/AJ-nb/AJNB",
+          "verified": true,
+          "method": "GitHub REST API",
+          "verifiedAt": "2026-09-14T16:10:17.555071+00:00",
+          "public": false
+        }
+      ],
+      "aliases": [
+        "luck-power",
+        "visual-lens",
+        "luck-power-yantai"
+      ],
+      "attribution": "保留 MIT 及各依赖许可；img2threejs 等仅属于旧版工作流范围。",
+      "confirmedDetails": []
+    },
+    {
+      "id": "formline",
+      "titleZh": "构线 Formline",
+      "titleEn": "Formline — Geometry Studio",
+      "category": "digital",
+      "confirmedDescription": "本地优先的几何 Logo 设计器，将约束构造与可撤销的光学校正分别保存，提供图层、布尔操作、三种视图、诊断和 SVG／PNG／工程导出。",
+      "sourcePaths": [
+        "D:\\OneDrive\\桌面\\文件\\项目\\logo-geometry-studio\\README.md",
+        "D:\\OneDrive\\桌面\\文件\\项目\\logo-geometry-studio\\docs\\verification.md",
+        "D:\\OneDrive\\桌面\\文件\\项目\\logo-geometry-studio\\THIRD_PARTY_NOTICES.md"
+      ],
+      "publicAssetPaths": [
+        "/works/digital/formline/editor-desktop.webp",
+        "/works/digital/formline/editor-mobile.webp"
+      ],
+      "assets": [
+        {
+          "publicPath": "/works/digital/formline/editor-desktop.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\logo-geometry-studio\\output\\playwright\\viewport-1440x900.png",
+          "sourceSha256": "55179ebc3c8e38b65b61aeae142017db463898ac3763eb5689fe88da8a8edfe2",
+          "outputSha256": "a7f26c8e69d06e3e7f2e3cb57cd436990636477675c6747a7c261f186ed96073",
+          "captionZh": "构线桌面编辑器：几何画布、图层、约束与诊断",
+          "kind": "screenshot",
+          "originalDimensions": [
+            1440,
+            900
+          ],
+          "dimensions": [
+            1440,
+            900
+          ],
+          "bytes": 64516,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "画面为已有自动化验收截图；示例为 Aperture 01。"
+        },
+        {
+          "publicPath": "/works/digital/formline/editor-mobile.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\logo-geometry-studio\\output\\playwright\\viewport-390x844.png",
+          "sourceSha256": "035341de89229cd8b20a96f938434140cec870aedbb509f2b210530cc9077035",
+          "outputSha256": "037144988c4a936dad18573e623633c46a79d99d4ecc7a098d183b560f3992ec",
+          "captionZh": "构线移动端画布与折叠检查器",
+          "kind": "screenshot",
+          "originalDimensions": [
+            390,
+            844
+          ],
+          "dimensions": [
+            390,
+            844
+          ],
+          "bytes": 18346,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "界面诊断辅助设计判断，不代表审美评分。"
+        }
+      ],
+      "role": "几何设计工具的产品与交互实现；原始资料未逐项拆分个人与 AI 贡献。",
+      "provenanceLimits": [
+        "几何诊断不是审美评分，也不能替代设计判断。",
+        "第一版不包含字标、云同步、多人协作与任意 SVG 往返编辑。",
+        "未发现独立 Git 远端，不编造在线地址。"
+      ],
+      "status": "本地实现与已保存验收记录",
+      "displayEligible": true,
+      "links": [],
+      "aliases": [
+        "logo-geometry-studio",
+        "luck-power/logo-geometry-studio"
+      ],
+      "attribution": "PlaneGCS（LGPL-2.1）与其余依赖许可见私档 THIRD_PARTY_NOTICES.md。",
+      "confirmedDetails": []
+    },
+    {
+      "id": "resume-formatter",
+      "titleZh": "Resume Formatter 简历编辑器",
+      "titleEn": "Resume Formatter",
+      "category": "digital",
+      "confirmedDescription": "在开源简历排版工具基础上扩展本地优先工作区，管理母版、岗位版本、事实证据、模板排版和可审阅的 AI 修改；支持独立 HTML 与 PDF 打印流程。",
+      "sourcePaths": [
+        "D:\\OneDrive\\桌面\\文件\\项目\\resume-formatter\\README.md",
+        "D:\\OneDrive\\桌面\\文件\\项目\\resume-formatter\\LICENSE",
+        "D:\\OneDrive\\桌面\\文件\\项目\\resume-formatter\\THIRD_PARTY_NOTICES.md"
+      ],
+      "publicAssetPaths": [
+        "/works/digital/resume-formatter/workspace.webp",
+        "/works/digital/resume-formatter/rewrite-diff.webp",
+        "/works/digital/resume-formatter/layout-controls.webp"
+      ],
+      "assets": [
+        {
+          "publicPath": "/works/digital/resume-formatter/workspace.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\resume-formatter\\output\\xiaohongshu-v2.4.0\\raw\\03-workspace-ui.png",
+          "sourceSha256": "b41e27ce03d67543321ede29b958b44551fb483ac577630cf0eeaf187fe569e1",
+          "outputSha256": "cd5f4b4cbc804c2a13cec893804aea0931bcefe02479b3d64f84f811fe555f23",
+          "captionZh": "简历母版、岗位版本与事实证据工作区",
+          "kind": "screenshot",
+          "originalDimensions": [
+            1440,
+            1024
+          ],
+          "dimensions": [
+            1440,
+            1024
+          ],
+          "bytes": 70012,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "使用仓库声明的虚构 fixture，画面不代表孙英杰的个人履历。"
+        },
+        {
+          "publicPath": "/works/digital/resume-formatter/rewrite-diff.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\resume-formatter\\output\\xiaohongshu-v2.4.0\\raw\\04-ai-diff-ui.png",
+          "sourceSha256": "28194f762c7525c008d27bff13fcf6b6b5ddb25a47895102c2e161b92b361e15",
+          "outputSha256": "93e5c67e35fb50be30cc595a7ed4e876d4d78ec9b86870de3e629e78d15c201c",
+          "captionZh": "AI 改写先展示差异，再由用户应用",
+          "kind": "screenshot",
+          "originalDimensions": [
+            1440,
+            1024
+          ],
+          "dimensions": [
+            1440,
+            1024
+          ],
+          "bytes": 32864,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "虚构样例；不把其中数字作为真实业绩。"
+        },
+        {
+          "publicPath": "/works/digital/resume-formatter/layout-controls.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\resume-formatter\\output\\xiaohongshu-v2.4.0\\raw\\05-layout-ui.png",
+          "sourceSha256": "a3f202bdcc5a1355a627ccb8dac1761e28080a2c03b6f0f6aaf2ff923929e385",
+          "outputSha256": "8ba037f244f288b4a2576d7ca46587bb1aea151f7481589a545cdd86868f32d6",
+          "captionZh": "模板选择与精确排版控制",
+          "kind": "screenshot",
+          "originalDimensions": [
+            1440,
+            1024
+          ],
+          "dimensions": [
+            1440,
+            1024
+          ],
+          "bytes": 74522,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "v2.4.0 保存的展示素材。"
+        }
+      ],
+      "role": "基于开源项目的二次设计与开发；不宣称从零原创完整项目。",
+      "provenanceLimits": [
+        "上游为 gracexygu/resume-formatter，GitHub API 已确认 Fork 关系。",
+        "截图中的人物、岗位、履历与成效为虚构测试资料。",
+        "规则检查不代表真实 ATS 通过率或招聘结果。"
+      ],
+      "status": "v2.4.0 Fork；公开源码与 Pages",
+      "displayEligible": true,
+      "links": [
+        {
+          "label": "在线体验",
+          "url": "https://aj-nb.github.io/resume-formatter/",
+          "verified": true,
+          "method": "GitHub Pages API + HTTP 200（2026-09-15）",
+          "public": true
+        },
+        {
+          "label": "项目源码",
+          "url": "https://github.com/AJ-nb/resume-formatter",
+          "verified": true,
+          "method": "GitHub REST API",
+          "verifiedAt": "2026-09-14T16:10:17.555071+00:00",
+          "public": true
+        },
+        {
+          "label": "上游项目",
+          "url": "https://github.com/gracexygu/resume-formatter",
+          "verified": true,
+          "method": "GitHub fork.parent",
+          "public": true
+        }
+      ],
+      "aliases": [],
+      "attribution": "基于 gracexygu/resume-formatter 二次开发；上游与本 Fork 均采用 MIT License。此署名应在公开案例保留。",
+      "confirmedDetails": []
+    },
+    {
+      "id": "visual-archive",
+      "titleZh": "视觉档案",
+      "titleEn": "Visual Archive",
+      "category": "digital",
+      "confirmedDescription": "将网页图片或本地文件整理为带来源与证据边界的视觉档案，区分本地尺寸与色板测量、模型观察、推断、未知项及复现计划。",
+      "sourcePaths": [
+        "D:\\OneDrive\\桌面\\文件\\项目\\visual-archive-extension\\README.md",
+        "D:\\OneDrive\\桌面\\文件\\项目\\visual-archive-extension\\manifest.json"
+      ],
+      "publicAssetPaths": [
+        "/works/digital/visual-archive/analysis-desktop.webp",
+        "/works/digital/visual-archive/analysis-mobile.webp"
+      ],
+      "assets": [
+        {
+          "publicPath": "/works/digital/visual-archive/analysis-desktop.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-archive-extension\\output\\playwright\\analysis-chinese-desktop.png",
+          "sourceSha256": "483902186c8415cc591ccde685c621d46151d0f179efe250aed468f43eaf4bdc",
+          "outputSha256": "0417244895f9b5a91b04743c3146c5845d0f3082aa486d1361f7bc5c93039616",
+          "captionZh": "视觉档案：本地尺寸与色板测量、待生成档案状态",
+          "kind": "screenshot",
+          "originalDimensions": [
+            1426,
+            1355
+          ],
+          "dimensions": [
+            1426,
+            1355
+          ],
+          "bytes": 77964,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "画面中模型档案尚未生成；截图证明本地测量与空状态界面，不证明模型分析精度。"
+        },
+        {
+          "publicPath": "/works/digital/visual-archive/analysis-mobile.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-archive-extension\\output\\playwright\\analysis-chinese-mobile.png",
+          "sourceSha256": "11392e30a4658e503b26af7289bfc6ca725ee024dc4f9c015ce10e4116571da7",
+          "outputSha256": "180d2b5a76d2c1c4a21b01ab80642b71ae8150e96acab78d2454d6d3a6a03e79",
+          "captionZh": "视觉档案移动端：本地测量与待生成档案状态",
+          "kind": "screenshot",
+          "originalDimensions": [
+            375,
+            1665
+          ],
+          "dimensions": [
+            375,
+            1665
+          ],
+          "bytes": 48168,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "截图中模型档案尚未生成；结构化档案不是原始制作元数据。"
+        }
+      ],
+      "role": "浏览器扩展原型与交互实现；具体个人与 AI 分工未完整标注。",
+      "provenanceLimits": [
+        "单张图无法确定隐藏几何、精确材料、相机标定、源文件或原始提示词。",
+        "未发现公开仓库或正式扩展商店链接。",
+        "这是独立早期原型，不重复计作砚台当前功能。"
+      ],
+      "status": "本地 v0.1.0 扩展原型与截图",
+      "displayEligible": true,
+      "links": [],
+      "aliases": [
+        "visual-archive-extension"
+      ],
+      "attribution": null,
+      "confirmedDetails": []
+    },
+    {
+      "id": "aesthetic-atlas",
+      "titleZh": "Eagle 审美图谱",
+      "titleEn": "Eagle Aesthetic Atlas",
+      "category": "digital",
+      "confirmedDescription": "将设计风格、来源记录、双语学习卡与 Eagle 导入清单串联为可追溯的视觉研究资料系统，并明确区分机构事实、分类推断和策展判断。",
+      "sourcePaths": [
+        "D:\\OneDrive\\桌面\\文件\\项目\\eagle-aesthetic-atlas\\README.md",
+        "D:\\OneDrive\\桌面\\文件\\项目\\eagle-aesthetic-atlas\\artifacts\\eagle-import-manifest.json",
+        "D:\\OneDrive\\桌面\\文件\\项目\\visual-lens\\packages\\aesthetic-atlas\\README.md"
+      ],
+      "publicAssetPaths": [
+        "/works/digital/aesthetic-atlas/bauhaus-product-dna.webp",
+        "/works/digital/aesthetic-atlas/bauhaus-product-transfer.webp"
+      ],
+      "assets": [
+        {
+          "publicPath": "/works/digital/aesthetic-atlas/bauhaus-product-dna.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\eagle-aesthetic-atlas\\artifacts\\cards\\bauhaus-product--dna.png",
+          "sourceSha256": "8047fb26d81ad4aced2c32e00a28e43b1fe7e4a85bad7f98f667ca59b6afa6c9",
+          "outputSha256": "08cb98185e9d807ec70c5d3d89fb5c0ab165e70070cb68953b24cf146b2223ce",
+          "captionZh": "审美图谱：包豪斯产品风格 DNA 学习卡",
+          "kind": "study-card",
+          "originalDimensions": [
+            1600,
+            2000
+          ],
+          "dimensions": [
+            1600,
+            2000
+          ],
+          "bytes": 57584,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "这是本项目生成的学习卡版式与示意图，不是历史作品原作，也不是历史权威结论。"
+        },
+        {
+          "publicPath": "/works/digital/aesthetic-atlas/bauhaus-product-transfer.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\eagle-aesthetic-atlas\\artifacts\\cards\\bauhaus-product--transfer.png",
+          "sourceSha256": "78e49ddded6d6a69aedbfba3fda012144f6582824305c320e76b70b1558fc2be",
+          "outputSha256": "c980cf3d200fe35231538c8ec748122f9c8d12d8491267642a9c86862928940d",
+          "captionZh": "审美图谱：包豪斯产品风格迁移方法卡",
+          "kind": "study-card",
+          "originalDimensions": [
+            1600,
+            2000
+          ],
+          "dimensions": [
+            1600,
+            2000
+          ],
+          "bytes": 57076,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "策展分类、锚点选择和迁移建议属于判断；没有公开转存机构艺术品图像。"
+        }
+      ],
+      "role": "视觉研究资料系统、学习卡与归档工具；机构作品作者权利不归本项目。",
+      "provenanceLimits": [
+        "独立目录与 AJNB 内 packages/aesthetic-atlas 是同一图谱项目，不重复计数。",
+        "清单为 dry-run，不能单凭它声称已经导入 Eagle 图库。",
+        "源文档与已读清单记录 144 个风格、2500 个来源书签和 288 张学习卡；数量不代表人工逐条核实或用户规模。",
+        "参考机构作品图片、草稿目录与词汇种子项目未作为原创作品公开展示。"
+      ],
+      "status": "既有资料包、学习卡与导入清单",
+      "displayEligible": true,
+      "links": [
+        {
+          "label": "整合后的私有工作区",
+          "url": "https://github.com/AJ-nb/AJNB",
+          "verified": true,
+          "method": "GitHub REST API",
+          "verifiedAt": "2026-09-14T16:10:17.555071+00:00",
+          "public": false
+        }
+      ],
+      "aliases": [
+        "eagle-aesthetic-atlas",
+        "visual-lens/packages/aesthetic-atlas"
+      ],
+      "attribution": "机构原作保留各自作者及权利；joeseesun/learnui 与 alexiseverage/aesthetic-frontend-skills 仅为词汇种子来源。",
+      "confirmedDetails": []
+    },
+    {
+      "id": "xhs-operations-os",
+      "titleZh": "小红书内容运营工作台",
+      "titleEn": "XHS Operations OS",
+      "category": "digital",
+      "confirmedDescription": "面向已核实产品资料到可审阅内容包的运营工具规划，现有资料包括产品需求、工作流、数据与架构规范，以及工作区配置。",
+      "sourcePaths": [
+        "D:\\OneDrive\\桌面\\文件\\项目\\xhs-operations-os\\README.md",
+        "D:\\OneDrive\\桌面\\文件\\项目\\xhs-operations-os\\SPEC_MANIFEST.json",
+        "D:\\OneDrive\\桌面\\文件\\项目\\xhs-operations-os\\docs\\MASTER_PRD.md",
+        "D:\\OneDrive\\桌面\\文件\\项目\\xhs-operations-os\\docs\\ROADMAP.md"
+      ],
+      "publicAssetPaths": [],
+      "assets": [],
+      "role": "产品与系统规划候选；完整界面和端到端实现尚未从现有材料建立。",
+      "provenanceLimits": [
+        "未找到现有界面截图；本次不创建伪界面作为完成证明。",
+        "路线图是计划，不能改写成已完成的内容生成、审核、发布或业务分析功能。",
+        "当前仓库为私有，缺少可供公开访客体验的链接。"
+      ],
+      "status": "规划与早期工作区配置；暂不进入公开作品卡片",
+      "displayEligible": false,
+      "links": [
+        {
+          "label": "私有项目资料",
+          "url": "https://github.com/AJ-nb/xhs-operations-os",
+          "verified": true,
+          "method": "GitHub REST API",
+          "verifiedAt": "2026-09-14T16:10:17.555071+00:00",
+          "public": false
+        }
+      ],
+      "aliases": [],
+      "attribution": null,
+      "confirmedDetails": []
+    },
+    {
+      "id": "image-2-5-xhs",
+      "titleZh": "图像生成与连续编辑评测",
+      "titleEn": "Image Generation & Editing Study",
+      "category": "experiment",
+      "confirmedDescription": "围绕虚构包装、海报、草图和连续编辑任务保存提示词、原图、逐张验收与来源记录，并将可用性判断整理为九张研究图文。",
+      "sourcePaths": [
+        "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\README.md",
+        "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\STATUS.md",
+        "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\tests\\evaluation.json",
+        "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\publish\\image-provenance.json"
+      ],
+      "publicAssetPaths": [
+        "/works/digital/image-2-5-xhs/evaluation-cover.webp",
+        "/works/digital/image-2-5-xhs/product-consistency.webp",
+        "/works/digital/image-2-5-xhs/evaluation-boundaries.webp"
+      ],
+      "assets": [
+        {
+          "publicPath": "/works/digital/image-2-5-xhs/evaluation-cover.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\publish\\cards\\01.png",
+          "sourceSha256": "e1275e65f2522ca45dd33ac2a6be59bf0bd00950e84edd6bf4cdf2439fba7cc6",
+          "outputSha256": "f4d1884e545ff600abdf329e0d5069dafba9ae20386f9071a8b0ffdc5fe746c1",
+          "captionZh": "图像生成与连续编辑测试：研究图文封面",
+          "kind": "research-card",
+          "originalDimensions": [
+            1080,
+            1440
+          ],
+          "dimensions": [
+            1080,
+            1440
+          ],
+          "bytes": 85608,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "虚构品牌 AI 生成测试。页面中的 Image 2.5 为原测试记录网页标签，API 子型号未核实。"
+        },
+        {
+          "publicPath": "/works/digital/image-2-5-xhs/product-consistency.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\publish\\cards\\04.png",
+          "sourceSha256": "9cf77c79d8cfccfde809c04246d8c30b6078799c600b9b47b9ec1fccfda3a2a7",
+          "outputSha256": "a375060a52fe13632f66a29594963674d1df7e30b7aff022e477bb8d00a96b0b",
+          "captionZh": "同一虚构包装的参考与生成结果比较",
+          "kind": "research-card",
+          "originalDimensions": [
+            1080,
+            1440
+          ],
+          "dimensions": [
+            1080,
+            1440
+          ],
+          "bytes": 94296,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "示例为 AI 生成，不是商品摄影；图卡来源映射保存在原项目中。"
+        },
+        {
+          "publicPath": "/works/digital/image-2-5-xhs/evaluation-boundaries.webp",
+          "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\publish\\cards\\09.png",
+          "sourceSha256": "c5566c9d62655e01e0d1c2f23815554e51dc74201a067c5e5189bd32608b9069",
+          "outputSha256": "83b4bb7dbb770e669db56ee12b842710d8c70d4674238749b42a1411f7a47c5d",
+          "captionZh": "可用性判定与小样本结论边界",
+          "kind": "research-card",
+          "originalDimensions": [
+            1080,
+            1440
+          ],
+          "dimensions": [
+            1080,
+            1440
+          ],
+          "bytes": 113578,
+          "operations": "等比缩放（最长边不超过 2000 px）与 WebP 格式转换；无裁切、重绘、修图或内容替换",
+          "provenanceLimit": "单人、单一虚构品牌、无竞品或人工基线；不推广为普遍成功率或效率提升。"
+        }
+      ],
+      "role": "测试任务设计、人工目视评估与研究图文整理；画面包含 AI 生成内容。",
+      "provenanceLimits": [
+        "Image 2.5 仅沿用原始网页记录的名称；本次未独立确认 API 子型号。",
+        "9/9 指指定修改执行完成，不等于 9/9 可直接使用。",
+        "没有旧版、竞品或人工基线，不能推导节省返工比例或工时。",
+        "原项目明确没有操作小红书发布。"
+      ],
+      "status": "2026-09-09 已保存研究素材包；未发布",
+      "displayEligible": true,
+      "links": [],
+      "aliases": [],
+      "attribution": null,
+      "confirmedDetails": []
+    }
+  ],
+  "repositorySnapshots": [
+    {
+      "repository": "AJ-nb/AJNB",
+      "url": "https://github.com/AJ-nb/AJNB",
+      "private": true,
+      "fork": false,
+      "parent": null,
+      "license": null,
+      "verifiedAt": "2026-09-14T16:10:17.555071+00:00"
+    },
+    {
+      "repository": "AJ-nb/lensflow",
+      "url": "https://github.com/AJ-nb/lensflow",
+      "private": false,
+      "fork": false,
+      "parent": null,
+      "license": "MIT",
+      "verifiedAt": "2026-09-14T16:10:17.555071+00:00"
+    },
+    {
+      "repository": "AJ-nb/luck-power",
+      "url": "https://github.com/AJ-nb/luck-power",
+      "private": false,
+      "fork": false,
+      "parent": null,
+      "license": "MIT",
+      "verifiedAt": "2026-09-14T16:10:17.555071+00:00"
+    },
+    {
+      "repository": "AJ-nb/resume-formatter",
+      "url": "https://github.com/AJ-nb/resume-formatter",
+      "private": false,
+      "fork": true,
+      "parent": "gracexygu/resume-formatter",
+      "license": "MIT",
+      "verifiedAt": "2026-09-14T16:10:17.555071+00:00"
+    },
+    {
+      "repository": "AJ-nb/xhs-operations-os",
+      "url": "https://github.com/AJ-nb/xhs-operations-os",
+      "private": true,
+      "fork": false,
+      "parent": null,
+      "license": null,
+      "verifiedAt": "2026-09-14T16:10:17.555071+00:00"
+    }
+  ],
+  "deduplication": {
+    "projectRules": [
+      "Songnasty 合并为夜礼司历史阶段",
+      "luck-power、luck-power-xhs-v063 与 visual-lens 归为砚台演化线",
+      "logo-geometry-studio 独立目录与 luck-power 内复制不重复计数",
+      "eagle-aesthetic-atlas 与 visual-lens/packages/aesthetic-atlas 不重复计数",
+      "lensflow worktrees、planning-seed 与输出构建不另算项目",
+      "各 .output、dist、页面构建、视口副本不另算作品"
+    ],
+    "identicalBrandSources": [
+      {
+        "sha256": "45b9cf85e1f4433ef43052c32fbfcfff8dcd555d34c4d3e287d541307120c6d2",
+        "sourcePaths": [
+          "Design-Knowledge-Base/projects/Periastra 相机包品牌设计/assets/logo/periastra-logo-v01-20260422.png",
+          "Design-Knowledge-Base/projects/Periastra 相机包品牌设计/assets/raw/4-22确认.png"
+        ]
+      },
+      {
+        "sha256": "cd6d3a3fcbdae9ff6ab865023e34d183a5c2c04e84ec03677271aa821d3064d6",
+        "sourcePaths": [
+          "Design-Knowledge-Base/projects/夜礼司/02_产品设计/蛇形口咬道具_绒花蝴蝶磁吸配件/assets/raw/佩戴示意.png",
+          "Design-Knowledge-Base/projects/夜礼司/02_产品设计/蛇形口咬道具_绒花蝴蝶磁吸配件/assets/佩戴效果图.png"
+        ]
+      },
+      {
+        "sha256": "cc3d365e29e7123a6c48d70ce760f1b517f24cd4536f5fb251151d3ee345839b",
+        "sourcePaths": [
+          "Design-Knowledge-Base/projects/夜礼司/02_产品设计/蛇形口咬道具_绒花蝴蝶磁吸配件/assets/raw/制作尺寸.png",
+          "Design-Knowledge-Base/projects/夜礼司/02_产品设计/蛇形口咬道具_绒花蝴蝶磁吸配件/assets/蓝色闪蝶尺寸图.png"
+        ]
+      },
+      {
+        "sha256": "181f9a199db45492df0d823a7fc4647970969420b4b6b2e0c6a221ebd7de29f0",
+        "sourcePaths": [
+          "Design-Knowledge-Base/projects/夜礼司/02_产品设计/蛇形口咬道具_绒花蝴蝶磁吸配件/assets/raw/暂定制作.png",
+          "Design-Knowledge-Base/projects/夜礼司/02_产品设计/蛇形口咬道具_绒花蝴蝶磁吸配件/assets/蓝色闪蝶形态参考图.png"
+        ]
+      },
+      {
+        "sha256": "0e3dfc5466f7f6c9652f92a192db7bfd1bd1263fc35f68bb99c689a2372ddad5",
+        "sourcePaths": [
+          "Design-Knowledge-Base/projects/夜礼司/02_产品设计/蛇形口咬道具_绒花蝴蝶磁吸配件/assets/raw/示意1.png",
+          "Design-Knowledge-Base/projects/夜礼司/02_产品设计/蛇形口咬道具_绒花蝴蝶磁吸配件/assets/蛇造型尺寸图.png"
+        ]
+      }
+    ]
+  },
+  "excludedPublicMaterials": [
+    {
+      "path": "夜礼司/01_Logo 设计/assets/history/历史_Songnasty设计来源.png",
+      "reason": "历史字形参考拼贴；保留私档，不作为独立原创交付"
+    },
+    {
+      "path": "夜礼司/02_产品设计/蛇形口咬道具_绒花蝴蝶磁吸配件/assets/蓝色闪蝶形态参考图.png",
+      "reason": "纯形态参考；作者与授权未核实"
+    },
+    {
+      "path": "夜礼司/02_产品设计/蛇形口咬道具_绒花蝴蝶磁吸配件/assets/蓝色闪蝶尺寸图.png",
+      "reason": "参考图的尺寸标注衍生；作者与制作边界未核实"
+    },
+    {
+      "path": "夜礼司/02_产品设计/蛇形口咬道具_绒花蝴蝶磁吸配件/assets/蛇造型尺寸图.png",
+      "reason": "文件名与实际人像佩戴示意不一致；人物图像来源与授权未核实"
+    },
+    {
+      "path": "eagle-aesthetic-atlas/artifacts/references",
+      "reason": "机构及第三方作品；不作为用户原创成果搬入公开图库"
+    },
+    {
+      "path": "lensflow/docs/design/assets",
+      "reason": "设计探索参考画面，已有真实运行截图优先"
+    }
+  ],
+  "verification": {
+    "brandDownloads": "已按 Git blob 下载 30 个文件并保存树 SHA 和逐文件来源",
+    "visualReview": "全部选定素材已经逐图或带文件索引的联系表目视核对",
+    "runtimeTests": "本子任务仅归档、查证和格式转换，未重新运行各工具项目测试",
+    "publicLinkChecks": "Lensflow 与 Resume Formatter Pages 已读取到 HTTP 200；仓库公开状态和 Fork 关系由 GitHub API 核实"
+  }
+}

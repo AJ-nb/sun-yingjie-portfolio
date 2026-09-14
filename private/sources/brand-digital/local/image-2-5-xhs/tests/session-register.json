@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-09",
+  "timezone": "Asia/Shanghai",
+  "mode": "高",
+  "independent_sessions": {
+    "P1":"https://chatgpt.com/c/6aa0ceb5-0388-83e8-8188-de9d0e95ce50",
+    "P2":"https://chatgpt.com/c/6aa0ce87-40cc-83ee-a424-f0d516654743",
+    "P3":"https://chatgpt.com/c/6aa0ced7-0d40-83e8-be20-fd719715c86c",
+    "G1":"https://chatgpt.com/c/6aa0d6b7-5698-83ee-88c5-56b47b904331",
+    "G2":"https://chatgpt.com/c/6aa0d72a-d690-83e9-87e8-7032278ca297",
+    "G3":"https://chatgpt.com/c/6aa0d793-82e0-83e8-815e-7a23c414d857",
+    "S1":"https://chatgpt.com/c/6aa0d8be-82ec-83ee-95ae-e5b8dd0c626a",
+    "S2":"https://chatgpt.com/c/6aa0d92d-6bb8-83e8-8b9a-1b75892f5695",
+    "S3":"https://chatgpt.com/c/6aa0d94d-9478-83ee-b92d-7a1ba51f86e0"
+  },
+  "mapping": "Gx-E1/E2/E3 remain in corresponding Gx conversation. Prompt keys map exactly to tests/protocol.json. G inputs are inputs/package-reference.png; S inputs are inputs/layout-sketch.png. P has no reference input.",
+  "observed_export_times_utc": {
+    "G1":"2026-09-09T03:51:51Z","G2":"2026-09-09T03:53:03Z","G3":"2026-09-09T03:54:16Z",
+    "G1-E1":"2026-09-09T03:58:31Z","G2-E1":"2026-09-09T03:59:20Z","G3-E1":"2026-09-09T03:59:37Z",
+    "S1":"2026-09-09T03:59:57Z","S2":"2026-09-09T04:00:24Z","S3":"2026-09-09T04:02:05Z",
+    "G1-E2":"2026-09-09T04:01:25Z","G2-E2":"2026-09-09T04:02:38Z","G3-E2":"2026-09-09T04:05:49Z",
+    "G1-E3":"2026-09-09T04:10:48Z","G2-E3":"2026-09-09T04:07:11Z","G3-E3":"2026-09-09T04:10:48Z"
+  },
+  "time_limitations":"These are observed export times, not actual model completion instants. No web-wait or API-latency statistic is reported. Poster times were not precisely retained.",
+  "operational_events":[
+    "Local upload permission initially blocked; user enabled it; uploads verified by attachment filename before submission.",
+    "Repeated uploads were renamed by the webpage to package-reference(1)/(2) and layout-sketch(1)/(2); the exact same local source files were chosen.",
+    "G1-E2 rendered an image but the UI remained in Stop answering state. E3 stayed as an unsent draft. Reload restored idle state and E3 was submitted once; four final images observed in each G conversation.",
+    "G3-E2 required opening its image preview before its original was available in pageAssets; no regeneration was requested.",
+    "No deliberate model rerolls or candidate selection; no automatic retry or replacement was observed. Intermittent page observation cannot exclude hidden orchestration.",
+    "18 downloaded final PNGs preserved; no retouching or content repair. Export hashes recorded."
+  ]
+}

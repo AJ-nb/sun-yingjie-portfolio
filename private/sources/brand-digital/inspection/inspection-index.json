@@ -1,0 +1,37 @@
+{
+  "digital": [
+    "lensflow/apps/site/public/media/studio-overview.webp",
+    "lensflow/output/playwright/lensflow-v030-demo-desktop.png",
+    "lensflow/output/xiaohongshu-lensflow-v0.3.0/evidence/studio-analysis.png",
+    "resume-formatter/output/xiaohongshu-v2.4.0/raw/03-workspace-ui.png",
+    "resume-formatter/output/xiaohongshu-v2.4.0/raw/04-ai-diff-ui.png",
+    "resume-formatter/output/xiaohongshu-v2.4.0/raw/05-layout-ui.png",
+    "resume-formatter/output/playwright/final-1440x1024.png",
+    "visual-lens/output/playwright/yantai-instrument-study-760.png",
+    "visual-lens/output/playwright/design-study-760.png",
+    "visual-lens/visual-lens/output/playwright/eagle-plugin-1080x720.png",
+    "visual-lens/visual-lens/output/playwright/apple-workbench-empty-660.png",
+    "visual-archive-extension/output/playwright/analysis-chinese-desktop.png",
+    "logo-geometry-studio/output/playwright/viewport-1440x900.png",
+    "eagle-aesthetic-atlas/artifacts/cards/bauhaus-product--dna.png",
+    "eagle-aesthetic-atlas/artifacts/cards/bauhaus-product--transfer.png",
+    "image-2-5-xhs/publish/cards/01.png",
+    "image-2-5-xhs/publish/cards/04.png",
+    "image-2-5-xhs/publish/cards/09.png"
+  ],
+  "brand": [
+    "Periastra 相机包品牌设计\\assets\\logo\\periastra-logo-v01-20260422.png",
+    "Periastra 相机包品牌设计\\assets\\raw\\4-22确认.png",
+    "夜礼司\\01_Logo 设计\\assets\\history\\历史_Songnasty旧版最终标志.png",
+    "夜礼司\\01_Logo 设计\\assets\\history\\历史_Songnasty设计来源.png",
+    "夜礼司\\01_Logo 设计\\assets\\logo\\yelisi-final-logo-v01-20260514.png",
+    "夜礼司\\02_产品设计\\蛇形口咬道具_绒花蝴蝶磁吸配件\\assets\\佩戴效果图.png",
+    "夜礼司\\02_产品设计\\蛇形口咬道具_绒花蝴蝶磁吸配件\\assets\\蓝色闪蝶尺寸图.png",
+    "夜礼司\\02_产品设计\\蛇形口咬道具_绒花蝴蝶磁吸配件\\assets\\蓝色闪蝶形态参考图.png",
+    "夜礼司\\02_产品设计\\蛇形口咬道具_绒花蝴蝶磁吸配件\\assets\\蛇造型尺寸图.png",
+    "夜礼司\\02_产品设计\\蛇形口咬道具_绒花蝴蝶磁吸配件\\assets\\raw\\佩戴示意.png",
+    "夜礼司\\02_产品设计\\蛇形口咬道具_绒花蝴蝶磁吸配件\\assets\\raw\\制作尺寸.png",
+    "夜礼司\\02_产品设计\\蛇形口咬道具_绒花蝴蝶磁吸配件\\assets\\raw\\暂定制作.png",
+    "夜礼司\\02_产品设计\\蛇形口咬道具_绒花蝴蝶磁吸配件\\assets\\raw\\示意1.png"
+  ]
+}

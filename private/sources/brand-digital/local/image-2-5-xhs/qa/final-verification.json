@@ -1,0 +1,554 @@
+{
+  "verified_at_utc": "2026-09-09T04:35:36.154642+00:00",
+  "passed": true,
+  "checks": [
+    {
+      "check": "all_json_parse",
+      "passed": true
+    },
+    {
+      "check": "all_18_original_ids",
+      "passed": true
+    },
+    {
+      "check": "18_unique_original_hashes",
+      "passed": true
+    },
+    {
+      "check": "original_hashes_unchanged",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_G1-E1",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_G1-E2",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_G1-E3",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_G1",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_G2-E1",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_G2-E2",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_G2-E3",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_G2",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_G3-E1",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_G3-E2",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_G3-E3",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_G3",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_P1",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_P2",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_P3",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_S1",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_S2",
+      "passed": true
+    },
+    {
+      "check": "original_dimensions_S3",
+      "passed": true
+    },
+    {
+      "check": "nine_numbered_cards",
+      "passed": true
+    },
+    {
+      "check": "card_dimensions_01",
+      "passed": true
+    },
+    {
+      "check": "card_dimensions_02",
+      "passed": true
+    },
+    {
+      "check": "card_dimensions_03",
+      "passed": true
+    },
+    {
+      "check": "card_dimensions_04",
+      "passed": true
+    },
+    {
+      "check": "card_dimensions_05",
+      "passed": true
+    },
+    {
+      "check": "card_dimensions_06",
+      "passed": true
+    },
+    {
+      "check": "card_dimensions_07",
+      "passed": true
+    },
+    {
+      "check": "card_dimensions_08",
+      "passed": true
+    },
+    {
+      "check": "card_dimensions_09",
+      "passed": true
+    },
+    {
+      "check": "grades_10_8_0",
+      "passed": true
+    },
+    {
+      "check": "evaluation_ids_match",
+      "passed": true
+    },
+    {
+      "check": "nine_edits_completed",
+      "passed": true
+    },
+    {
+      "check": "group_P",
+      "passed": true
+    },
+    {
+      "check": "group_G",
+      "passed": true
+    },
+    {
+      "check": "group_S",
+      "passed": true
+    },
+    {
+      "check": "all_text_in_canvas",
+      "passed": true
+    },
+    {
+      "check": "no_text_block_overlap",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_0",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_0",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_0",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_0",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_1",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_1",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_1",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_1",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_2",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_2",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_2",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_2",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_3",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_3",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_3",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_3",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_4",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_4",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_4",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_4",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_5",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_5",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_5",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_5",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_6",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_6",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_6",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_6",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_7",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_7",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_7",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_7",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_8",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_8",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_8",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_8",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_9",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_9",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_9",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_9",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_10",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_10",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_10",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_10",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_11",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_11",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_11",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_11",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_12",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_12",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_12",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_12",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_13",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_13",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_13",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_13",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_14",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_14",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_14",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_14",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_15",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_15",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_15",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_15",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_16",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_16",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_16",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_16",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_17",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_17",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_17",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_17",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_18",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_18",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_18",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_18",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_19",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_19",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_19",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_19",
+      "passed": true
+    },
+    {
+      "check": "provenance_size_20",
+      "passed": true
+    },
+    {
+      "check": "valid_crop_20",
+      "passed": true
+    },
+    {
+      "check": "image_in_canvas_20",
+      "passed": true
+    },
+    {
+      "check": "proportional_scale_20",
+      "passed": true
+    },
+    {
+      "check": "card7_identical_crop_and_scale",
+      "passed": true
+    },
+    {
+      "check": "body_600_to_900",
+      "passed": true
+    },
+    {
+      "check": "three_titles",
+      "passed": true
+    },
+    {
+      "check": "titles_at_most_20_characters",
+      "passed": true
+    },
+    {
+      "check": "required_README.md",
+      "passed": true
+    },
+    {
+      "check": "required_sources.md",
+      "passed": true
+    },
+    {
+      "check": "required_scripts/build_cards.py",
+      "passed": true
+    },
+    {
+      "check": "required_tests/protocol.json",
+      "passed": true
+    },
+    {
+      "check": "required_inputs/package-reference.png",
+      "passed": true
+    },
+    {
+      "check": "required_inputs/layout-sketch.png",
+      "passed": true
+    }
+  ],
+  "text_overlaps": [],
+  "body_counts": {
+    "chinese_characters": 689,
+    "non_whitespace_characters": 864
+  },
+  "visual_review": "All nine 360x480 mobile previews visually inspected in this task; original comparison chains and detailed cards inspected. No visible overflow or text obstruction found. Static Pillow output, no web app or Playwright claim.",
+  "limitations": [
+    "23 records, 16 source groups; independent-source target not met.",
+    "Single reviewer and brand; no old-model, competitor or manual baseline.",
+    "Web API subtype and reliable generation latency unknown.",
+    "No Xiaohongshu publication performed."
+  ]
+}

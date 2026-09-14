@@ -1,0 +1,812 @@
+[
+  {
+    "id": "plumber",
+    "titleZh": "引渡者 · 管道危机24小时",
+    "titleEn": "PLUMBER · Sewer Crisis 24h",
+    "category": "product",
+    "summaryZh": "将排水管道清淤机器人、地下基站与游戏化控制界面组织为一套市政维护概念，探索设备作业和公众参与之间的联系。",
+    "summaryEn": "A municipal maintenance concept combining a pipe-cleaning robot, an underground service station and a gamified control interface.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "concept",
+    "galleries": [
+      "/works/documents/portfolio-51/016.webp",
+      "/works/documents/portfolio-51/003.webp",
+      "/works/documents/portfolio-51/004.webp",
+      "/works/documents/portfolio-51/005.webp",
+      "/works/documents/portfolio-51/006.webp",
+      "/works/documents/portfolio-51/007.webp",
+      "/works/documents/portfolio-51/008.webp",
+      "/works/documents/portfolio-51/009.webp",
+      "/works/documents/portfolio-51/010.webp",
+      "/works/documents/portfolio-51/011.webp",
+      "/works/documents/portfolio-51/012.webp",
+      "/works/documents/portfolio-51/013.webp",
+      "/works/documents/portfolio-51/014.webp",
+      "/works/documents/portfolio-51/015.webp",
+      "/works/documents/portfolio-51/017.webp",
+      "/works/documents/legacy-full-portfolio/010.webp",
+      "/works/documents/legacy-full-portfolio/013.webp",
+      "/works/documents/legacy-full-portfolio/017.webp"
+    ],
+    "sources": [
+      "portfolio-51.pdf pp.3-17",
+      "legacy-full-portfolio.pdf pp.3-17; pp.10/13/17 retained as visual variants",
+      "rendering-sheet.pdf p.1 lower robot scenes"
+    ],
+    "backgroundZh": "引渡者从排水管道淤积和地下维护作业出发，把清淤机器人、地下基站和公众参与界面放进同一套服务提案。项目关注设备如何被部署、作业信息如何呈现，以及市政工人、市民和管理方之间的关系。",
+    "processZh": [
+      "过程先用故事板、服务系统蓝图和用户旅程连接不同角色，再通过草图与 AIGC 推演探索机器人形态。后续页面将扫描、清理、巡航和返回基站组织成流程，并呈现视觉风格、操作页面、机器人与基站的分解示意。"
+    ],
+    "resultsZh": [
+      "已形成覆盖服务、产品、界面和场景的概念提案。现阶段成果为设计呈现，设备运行、清淤效果与游戏化参与效果尚未验证。以下保留早期演示版本的对应页面。"
+    ],
+    "evidenceLimits": [
+      "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。",
+      "资料展示设计提案与视觉成果，未提供生产、交付、运行测试或效果评估记录。",
+      "市场规模、降雨与效率数据未逐项追溯；自主导航、扫描、无线通信、地下充电与清淤效果均为提案设想。",
+      "p.10/13/17两个版本文本相同但像素不同，均保留；不将文字一致等同图像完全重复。"
+    ],
+    "creditsZh": "合作项目；其他成员署名待补充",
+    "creditsEn": "Collaborative project; other team credits to be documented",
+    "backgroundEn": "PLUMBER starts with sediment buildup and underground maintenance, bringing a cleaning robot, an underground service station and a public-participation interface into one service proposal. It explores deployment, the presentation of task information, and relationships between municipal workers, residents and administrators.",
+    "processEn": [
+      "Storyboards, a service-system blueprint and user journeys connect the different roles. Sketches and AIGC explorations then develop the robot’s form. Later pages organize scanning, cleaning, cruising and returning to the station into a proposed workflow, followed by visual direction, interface screens and exploded views of the robot and station."
+    ],
+    "resultsEn": [
+      "The outcome is a concept proposal spanning service, product, interface and scene design. It remains a design presentation; equipment operation, cleaning performance and the effects of gamified participation have not been validated. Corresponding pages from an earlier presentation version follow."
+    ]
+  },
+  {
+    "id": "huhu-care",
+    "titleZh": "HUHU CARE · 儿童呼气检测概念",
+    "titleEn": "HUHU CARE · Pediatric Breath-Test Concept",
+    "category": "product",
+    "summaryZh": "以吹气球、握持造型和灯光反馈重新组织儿童呼气检测体验，聚焦儿童、家长与医护人员之间的引导过程。",
+    "summaryEn": "A pediatric breath-test design study using balloon interaction, a handheld form and light feedback to explore a more approachable examination experience.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "concept",
+    "galleries": [
+      "/works/documents/portfolio-51/028.webp",
+      "/works/documents/portfolio-51/018.webp",
+      "/works/documents/portfolio-51/019.webp",
+      "/works/documents/portfolio-51/020.webp",
+      "/works/documents/portfolio-51/021.webp",
+      "/works/documents/portfolio-51/022.webp",
+      "/works/documents/portfolio-51/023.webp",
+      "/works/documents/portfolio-51/024.webp",
+      "/works/documents/portfolio-51/025.webp",
+      "/works/documents/portfolio-51/026.webp",
+      "/works/documents/portfolio-51/027.webp",
+      "/works/documents/legacy-full-portfolio/022.webp",
+      "/works/documents/legacy-full-portfolio/023.webp"
+    ],
+    "sources": [
+      "portfolio-51.pdf pp.18-28",
+      "legacy-full-portfolio.pdf pp.18-28; pp.22/23 retained as visual variants",
+      "rendering-sheet.pdf p.1 HUHU CARE scenes"
+    ],
+    "backgroundZh": "HUHU CARE 关注儿童面对检查器械时的紧张感，以及理解和配合呼气操作的困难。概念以吹气球这一熟悉动作作为入口，围绕儿童、家长和医护人员之间的引导关系组织体验。",
+    "processZh": [
+      "方案通过角色分析和检查旅程整理接触点，再以草图、手工形态模型和 AIGC 图像比较外观方向。部件表达包括可替换吹嘴、防滑握持区域、气球连接和充电底座，流程图则探索连续操作与灯光提示。部分故事画面由 Midjourney 生成。"
+    ],
+    "resultsZh": [
+      "成果为儿童呼气检测的外观与体验概念，包含故事板、形态模型照片、结构示意和渲染。检测技术路线、试剂方式及临床适用性尚未验证，形态模型不代表可运行的诊断原型。以下保留早期演示版本。"
+    ],
+    "evidenceLimits": [
+      "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。",
+      "资料展示设计提案与视觉成果，未提供生产、交付、运行测试或效果评估记录。",
+      "原稿同时出现碳13/碳14尿素呼气试验、CO2与NH3传感器描述，技术口径不一致；不可据此宣称检测准确性或儿童医疗适用性。",
+      "“糖果”化试剂、气球奖励、卫生、材料及传感器方案未经医疗或工程验证。",
+      "原稿p.19明确说明部分故事画面由Midjourney生成；模型制作照片仅证明形态模型展示，不证明可运行检测原型。"
+    ],
+    "creditsZh": "合作项目；其他成员署名待补充",
+    "creditsEn": "Collaborative project; other team credits to be documented",
+    "backgroundEn": "HUHU CARE explores children’s anxiety around examination equipment and the difficulty of understanding and cooperating with a breath-sampling task. Blowing up a balloon provides a familiar starting point for a guided experience involving children, parents and clinical staff.",
+    "processEn": [
+      "Role analysis and an examination journey establish the touchpoints. Sketches, handmade form models and AIGC images compare visual directions. Component studies include a replaceable mouthpiece, textured grip, balloon connection and charging base; a process diagram explores the sequence and light cues. Some storyboard images were generated with Midjourney."
+    ],
+    "resultsEn": [
+      "The outcome is an appearance and experience concept for pediatric breath testing, with storyboards, form-model photographs, component diagrams and renders. The diagnostic approach, reagent format and clinical suitability have not been validated; the form model is not a functioning diagnostic prototype. Earlier presentation versions follow."
+    ]
+  },
+  {
+    "id": "go-glow",
+    "titleZh": "GO GLOW · 模块化个护",
+    "titleEn": "GO GLOW · Modular Personal Care",
+    "category": "product",
+    "summaryZh": "围绕旅行与日常护理场景，将牙刷、洁面和头皮护理模块纳入统一的产品形态与界面探索。",
+    "summaryEn": "A modular personal-care concept bringing toothbrush, facial-cleansing and scalp-care attachments into a shared product and interface language.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "concept",
+    "galleries": [
+      "/works/documents/portfolio-51/036.webp",
+      "/works/documents/portfolio-51/029.webp",
+      "/works/documents/portfolio-51/030.webp",
+      "/works/documents/portfolio-51/031.webp",
+      "/works/documents/portfolio-51/032.webp",
+      "/works/documents/portfolio-51/033.webp",
+      "/works/documents/portfolio-51/034.webp",
+      "/works/documents/portfolio-51/035.webp",
+      "/works/documents/legacy-full-portfolio/030.webp"
+    ],
+    "sources": [
+      "portfolio-51.pdf pp.29-36",
+      "legacy-full-portfolio.pdf pp.29-36; p.30 retained as a visual variant",
+      "rendering-sheet.pdf p.1 GO GLOW sequence"
+    ],
+    "backgroundZh": "GO GLOW 以旅行中的个护用品携带、收纳和充电为切入点。原提案面向女性用户，将牙刷、洁面和头皮护理三个方向纳入同一套产品语言，探索日常与出行之间的转换。",
+    "processZh": [
+      "用户旅程从行李准备延伸到使用和维护，再通过草图探索手柄与护理头的关系。产品页面展示不同模块的使用姿态，配套应用以低保真结构和高保真界面表达模式与信息组织。"
+    ],
+    "resultsZh": [
+      "已形成产品与界面概念提案。模块连接、防水、清洁效果和实际收纳表现仍需样机与测试验证。以下保留早期演示版本中的背景页面。"
+    ],
+    "evidenceLimits": [
+      "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。",
+      "资料展示设计提案与视觉成果，未提供生产、交付、运行测试或效果评估记录。",
+      "原稿中的市场百分比、空间节省、接口良率及防水等级没有可核验的测试支持，不作为本项目已达成参数。",
+      "原稿中人物、场景及参考品牌图不能据此认定为真实使用测试或品牌合作。"
+    ],
+    "creditsZh": "合作项目；其他成员署名待补充",
+    "creditsEn": "Collaborative project; other team credits to be documented",
+    "backgroundEn": "GO GLOW begins with carrying, storing and charging personal-care products while traveling. The original proposal focuses on women and brings toothbrush, facial-cleansing and scalp-care directions into one product language, exploring the transition between everyday and travel use.",
+    "processEn": [
+      "The user journey extends from packing through use and maintenance. Sketches then explore the relationship between the handle and care attachments. Product pages show how the modules are held and used, while low- and high-fidelity app screens express modes and information organization."
+    ],
+    "resultsEn": [
+      "The outcome is a product and interface concept proposal. Module connections, water resistance, cleaning performance and practical storage require prototypes and testing. An earlier version of the background presentation page follows."
+    ]
+  },
+  {
+    "id": "lingmu",
+    "titleZh": "LINGMU · 无臂人士洗浴概念",
+    "titleEn": "LINGMU · Accessible Bathing Concept",
+    "category": "product",
+    "summaryZh": "面向上肢缺失或活动受限的洗浴场景，以可调节清洗模块、身体可触及的控制方式和垂直设备布局探索自主洗浴。",
+    "summaryEn": "An accessible bathing concept exploring adjustable washing modules and reachable controls for people with absent or limited upper-limb function.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "concept",
+    "galleries": [
+      "/works/documents/portfolio-51/043.webp",
+      "/works/documents/portfolio-51/037.webp",
+      "/works/documents/portfolio-51/038.webp",
+      "/works/documents/portfolio-51/039.webp",
+      "/works/documents/portfolio-51/040.webp",
+      "/works/documents/portfolio-51/041.webp",
+      "/works/documents/portfolio-51/042.webp"
+    ],
+    "sources": [
+      "portfolio-51.pdf pp.37-43",
+      "legacy-full-portfolio.pdf pp.37-43"
+    ],
+    "backgroundZh": "LINGMU 面向无臂人士及上肢活动受限的洗浴情境，关注洗头、清洁身体、调节水温和操作开关时对双手或他人协助的依赖。项目从浴室中的身体动作和设备位置关系出发。",
+    "processZh": [
+      "前期页面以人物情境和旅程整理操作障碍，再从整体淋浴布局和局部清洁模块展开草图。后续方案展示垂直设备布局、可调清洗部件、控制位置和材料设想，以人物比例表达使用关系。"
+    ],
+    "resultsZh": [
+      "成果为无障碍洗浴概念提案。现有材料呈现布局和操作设想，清洁覆盖、湿区安全与不同人群的实际使用体验仍需实物验证。"
+    ],
+    "evidenceLimits": [
+      "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。",
+      "资料展示设计提案与视觉成果，未提供生产、交付、运行测试或效果评估记录。",
+      "p.38-43为图像型页面，已进行视觉阅读；用户样本量、百分比、测试方法没有独立记录。",
+      "清洁覆盖、夹伤、烫伤、防水、湿区电气与适用人群需另行验证，不能宣称已实现独立安全洗浴。"
+    ],
+    "creditsZh": "合作项目；其他成员署名待补充",
+    "creditsEn": "Collaborative project; other team credits to be documented",
+    "backgroundEn": "LINGMU explores bathing for people with absent or limited upper-limb function. It focuses on dependence on hands or assistance when washing hair and the body, adjusting water temperature and operating switches, starting with the relationship between body movement and equipment position.",
+    "processEn": [
+      "Early pages use personal scenarios and a journey to organize interaction barriers. Sketches explore both the overall shower layout and local cleaning modules. The developed proposal shows a vertical arrangement, adjustable washing parts, control locations and material ideas, with human figures communicating the relationship to the body."
+    ],
+    "resultsEn": [
+      "The outcome is an accessible-bathing concept proposal. The material presents layout and interaction ideas; cleaning coverage, wet-area safety and use by different people still require physical validation."
+    ]
+  },
+  {
+    "id": "jimu-studio",
+    "titleZh": "JiMu Studio · 玉米芯板材模块化家具",
+    "titleEn": "JiMu Studio · Corncob-Board Modular Furniture",
+    "category": "product",
+    "summaryZh": "以玉米芯复合板材为材料设想，将收纳、移动与可调整的桌面组合在一件适用于有限居住空间的家具概念中。",
+    "summaryEn": "A compact furniture concept combining storage, mobility and an adjustable work surface around a proposed corncob-based composite board.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "concept",
+    "galleries": [
+      "/works/documents/portfolio-51/049.webp",
+      "/works/documents/portfolio-51/044.webp",
+      "/works/documents/portfolio-51/045.webp",
+      "/works/documents/portfolio-51/046.webp",
+      "/works/documents/portfolio-51/047.webp",
+      "/works/documents/portfolio-51/048.webp"
+    ],
+    "sources": [
+      "portfolio-51.pdf pp.44-49",
+      "legacy-full-portfolio.pdf pp.44-49"
+    ],
+    "backgroundZh": "JiMu Studio 将农业副产物的材料再利用与有限居住空间中的收纳、阅读和工作联系起来。提案以玉米芯复合板材为材料设想，探索一件能够移动、展开和组合的家具。",
+    "processZh": [
+      "方案从植物来源材料及家具应用方向展开，再借助用户画像和草图组织功能。后续页面呈现板材设想、柜体与桌面组合、模块分解和尺寸关系，并将家具放入居住场景中观察整体比例。"
+    ],
+    "resultsZh": [
+      "成果为材料应用与模块化家具提案。板材配方、材料性能、承载和连接结构尚未通过样品与测试验证；当前呈现的是材料与家具的设计设想。"
+    ],
+    "evidenceLimits": [
+      "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。",
+      "资料展示设计提案与视觉成果，未提供生产、交付、运行测试或效果评估记录。",
+      "p.45-49为图像型页面，已进行视觉阅读；未发现板材样品、配方或力学测试记录。",
+      "阻燃、抗菌、耐水、可降解、承载及环境收益等描述属于原稿设想，不作为已验证材料性能。"
+    ],
+    "creditsZh": "合作项目；其他成员署名待补充",
+    "creditsEn": "Collaborative project; other team credits to be documented",
+    "backgroundEn": "JiMu Studio connects reuse of agricultural byproducts with storage, reading and work in limited living space. A proposed corncob-based composite board provides the material direction for furniture that can move, unfold and combine.",
+    "processEn": [
+      "The proposal begins with plant-derived materials and furniture applications, then uses a persona and sketches to organize functions. Later pages show the board concept, cabinet and desktop combinations, module breakdowns and dimensions. Domestic scenes place the furniture in context to explore overall proportions."
+    ],
+    "resultsEn": [
+      "The outcome is a material-application and modular-furniture proposal. Board formulation, material properties, load capacity and connections have not been validated through samples and testing. The current presentation is a material and furniture design concept."
+    ]
+  },
+  {
+    "id": "plant-companion",
+    "titleZh": "植遇相伴 · 办公轻智能健身",
+    "titleEn": "Plant Companion · Light Smart Fitness",
+    "category": "product",
+    "summaryZh": "将哑铃、跳绳、按摩球与弹力带的模块组合置于植物形态的桌面场景中，并通过虚拟养植和打卡界面探索运动激励。",
+    "summaryEn": "A desktop fitness concept pairing plant-inspired modular equipment with a virtual-growing and check-in app experience.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "collaboration",
+    "galleries": [
+      "/works/documents/office-fitness/012.webp",
+      "/works/documents/office-fitness/001.webp",
+      "/works/documents/office-fitness/002.webp",
+      "/works/documents/office-fitness/003.webp",
+      "/works/documents/office-fitness/004.webp",
+      "/works/documents/office-fitness/005.webp",
+      "/works/documents/office-fitness/006.webp",
+      "/works/documents/office-fitness/007.webp",
+      "/works/documents/office-fitness/008.webp",
+      "/works/documents/office-fitness/009.webp",
+      "/works/documents/office-fitness/010.webp",
+      "/works/documents/office-fitness/011.webp"
+    ],
+    "sources": [
+      "office-fitness.pdf pp.1-12",
+      "legacy-full-portfolio.pdf pp.52-63 (all 12 displayed pages pixel-identical)",
+      "rendering-sheet.pdf p.1 desk-fitness sequence"
+    ],
+    "backgroundZh": "植遇相伴以久坐办公、桌面空间有限和运动动力不足为情境，将轻量运动器材与植物形态联系起来。产品在收纳状态下融入桌面，应用则用虚拟养植与打卡表达持续活动的激励设想。",
+    "processZh": [
+      "方案从办公人群情境、竞品和需求梳理出发，以植物形态探索可收纳的器材组合。后续呈现哑铃、跳绳、按摩球和弹力带的用法，并将像素植物、卡片、成长记录和打卡串联为应用流程。"
+    ],
+    "resultsZh": [
+      "已形成产品与应用界面的完整概念提案。器材连接与使用体验、运动记录方式、长期参与及健康效果仍需样机和用户验证。"
+    ],
+    "evidenceLimits": [
+      "原稿页脚明确标注Teamwork；个人具体分工和其他成员名单未列出。",
+      "资料展示设计提案与视觉成果，未提供生产、交付、运行测试或效果评估记录。",
+      "原稿年份标注2022，但内容中包含2024关键词及后续年份图表，不据此确定项目完成日期。",
+      "健康改善、运动效果、卡路里计算和参与度提升未提供测试或实测证据。"
+    ],
+    "creditsZh": "合作项目；其他成员署名待补充",
+    "creditsEn": "Collaborative project; other team credits to be documented",
+    "backgroundEn": "Plant Companion uses sedentary office work, limited desk space and low motivation to exercise as its design context. Lightweight exercise equipment takes on plant-inspired forms when stored, while a companion app uses virtual growing and check-ins to explore encouragement for regular activity.",
+    "processEn": [
+      "Office scenarios, competitor observations and needs inform a storable equipment combination inspired by plants. The developed proposal shows dumbbell, skipping-rope, massage-ball and resistance-band uses, then links pixel plants, cards, growth records and check-ins into an app flow."
+    ],
+    "resultsEn": [
+      "The outcome is a complete product and app-interface concept proposal. Equipment connections and usability, activity recording, long-term participation and health effects require prototypes and user validation."
+    ]
+  },
+  {
+    "id": "bat-quad",
+    "titleZh": "蝠型四轮越野电动摩托车",
+    "titleEn": "Bat-Inspired Electric Quad",
+    "category": "product",
+    "summaryZh": "借用蝙蝠的形态特征探索四轮越野车的车身造型，展板呈现草图、三视图、结构分解和配色方案。",
+    "summaryEn": "An electric-quad concept translating bat-inspired forms into bodywork, with sketches, orthographic views, component studies and color variants.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "collaboration",
+    "galleries": [
+      "/works/documents/embedded-boards/x2.webp"
+    ],
+    "sources": [
+      "local-01: 作品集展板/03展板.jpg",
+      "portfolio-51.pdf p.50 /X2; raw private/sources/embedded-boards/X2.jp2",
+      "legacy-full-portfolio.pdf p.50 /X2"
+    ],
+    "backgroundZh": "项目以蝙蝠的形态特征为起点，探索休闲越野电动车的外观。展板把仿生意象延伸到车头、车身轮廓和部件组合。",
+    "processZh": [
+      "草图从蝙蝠意象发展车头和侧面轮廓，再通过分解图安排车架、座椅、照明与显示部件。三视图和人物尺度表达补充整体比例，配色渲染比较不同的视觉效果。"
+    ],
+    "resultsZh": [
+      "成果为四轮越野车的造型概念与课程展板，尚未进入实车验证阶段。动力、电池与车辆性能不作为已实现规格。"
+    ],
+    "evidenceLimits": [
+      "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。",
+      "资料展示设计提案与视觉成果，未提供生产、交付、运行测试或效果评估记录。",
+      "原稿文字写60V/3000Wh，参数表却写12V与12V5Ah；参数存在冲突，不作为已验证车辆规格。",
+      "local-01与X2是相同构图内容的不同压缩/尺寸版本；采用3600长边X2展示，原始本地图仍保留。"
+    ],
+    "creditsZh": "合作项目；其他成员署名待补充",
+    "creditsEn": "Collaborative project; other team credits to be documented",
+    "backgroundEn": "This project takes bat forms as a starting point for the appearance of a recreational electric off-road vehicle. The board extends the biomorphic reference into the front, body silhouette and component arrangement.",
+    "processEn": [
+      "Sketches develop the front and side silhouette from the bat reference. Exploded views organize the frame, seat, lighting and display. Orthographic views and human-scale illustrations supplement the proportions, while color renders compare visual treatments."
+    ],
+    "resultsEn": [
+      "The outcome is an electric-quad form concept and course presentation board, without vehicle testing. Powertrain, battery and vehicle-performance descriptions are not established specifications."
+    ]
+  },
+  {
+    "id": "baobab-glow",
+    "titleZh": "BAOBAB GLOW · 便携照明",
+    "titleEn": "BAOBAB GLOW · Portable Solar Lighting",
+    "category": "product",
+    "summaryZh": "以猴面包树意象与非洲地区的学习照明场景为主题，探索兼具手持与桌面放置方式的太阳能便携灯。",
+    "summaryEn": "A solar-lighting concept inspired by baobab forms, exploring handheld and tabletop use for learning and daily mobility.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "collaboration",
+    "galleries": [
+      "/works/documents/embedded-boards/x1.webp"
+    ],
+    "sources": [
+      "local-02: 作品集展板/1.jpg; board credit 邓志成21090303",
+      "portfolio-51.pdf p.50 /X1; raw private/sources/embedded-boards/X1.jp2",
+      "legacy-full-portfolio.pdf p.50 /X1"
+    ],
+    "backgroundZh": "BAOBAB GLOW 以猴面包树意象，以及非洲地区的学习和放学后移动照明为概念背景。方案把手持携带与桌面放置放进同一件便携灯中。",
+    "processZh": [
+      "方案从树木形态建立产品意象，以分解示意展示灯体、透镜、电池和开关关系。故事板进一步把课堂、步行与居家阅读串联起来，观察同一灯具在不同情境中的使用姿态。"
+    ],
+    "resultsZh": [
+      "成果为便携照明概念展板。太阳能供电、照度、续航和当地实际使用表现尚未经过验证。"
+    ],
+    "evidenceLimits": [
+      "展板原署名为邓志成21090303；依据用户说明按合作项目收录，个人分工未核实。",
+      "资料展示设计提案与视觉成果，未提供生产、交付、运行测试或效果评估记录。",
+      "非洲部署、太阳能供电表现、照度和续航未获证实。",
+      "local-02与X1为相同内容的不同尺寸版本；署名完整保留。"
+    ],
+    "creditsZh": "原展板署名：邓志成；合作项目",
+    "creditsEn": "Original board credit: Deng Zhicheng (邓志成); collaborative project",
+    "backgroundEn": "BAOBAB GLOW draws on baobab forms and learning and after-school lighting scenarios in Africa. The concept combines handheld carrying and tabletop placement in one portable light.",
+    "processEn": [
+      "Tree forms establish the product reference. An exploded view shows relationships between the body, lens, battery and switch. Storyboards connect classrooms, walking and reading at home to explore how one light is used in different situations."
+    ],
+    "resultsEn": [
+      "The outcome is a portable-lighting concept board. Solar power, illuminance, battery life and performance in the proposed local setting have not been validated."
+    ]
+  },
+  {
+    "id": "water-walking-bath",
+    "titleZh": "适老型水中漫步浴缸",
+    "titleEn": "Age-Friendly Water-Walking Bathtub",
+    "category": "product",
+    "summaryZh": "将侧向入口、扶手、座位与水中步行空间结合，探索面向老年人的洗浴和轻活动产品布局。",
+    "summaryEn": "An age-friendly bathing concept combining a side entrance, handrails, seating and a water-walking area.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "collaboration",
+    "galleries": [
+      "/works/local/local-03.webp"
+    ],
+    "sources": [
+      "local-03: 作品集展板/21090303邓志成展板.jpg; board credit 邓志成21090303, 指导老师陶裕仿"
+    ],
+    "backgroundZh": "项目将老年人进出浴缸、获得身体支撑和进行水中轻活动的需求结合，探索洗浴设备的内部布局。侧向入口、扶手和座位构成主要接触点。",
+    "processZh": [
+      "方案先组织浴缸入口、扶手、座位和显示器位置，再用分解示意呈现跑步机与推流器等内部部件的设想。三视图和人物比例补充空间关系。"
+    ],
+    "resultsZh": [
+      "成果为适老洗浴设备概念与课程展板。进出、密封、防滑、承载和水中活动的实际体验仍需验证，未形成康复效果结论。"
+    ],
+    "evidenceLimits": [
+      "原展板署名邓志成21090303，指导老师陶裕仿；依据用户说明按合作项目收录，个人分工未核实。",
+      "资料展示设计提案与视觉成果，未提供生产、交付、运行测试或效果评估记录。",
+      "水中步行、康复收益、承载、防滑、密封和电气安全均无验证记录。"
+    ],
+    "creditsZh": "原展板署名：邓志成；指导老师：陶裕仿",
+    "creditsEn": "Original board credit: Deng Zhicheng (邓志成); advisor: Tao Yufang (陶裕仿)",
+    "backgroundEn": "This project combines older users’ needs for entering and leaving a bathtub, physical support and light movement in water. A side entrance, handrails and a seat form the main contact points in an exploration of the interior layout.",
+    "processEn": [
+      "The proposal first arranges the entrance, handrails, seat and display. An exploded diagram then presents proposed internal parts, including a treadmill and water-flow device. Orthographic views and human figures add spatial context."
+    ],
+    "resultsEn": [
+      "The outcome is an age-friendly bathing concept and course board. Access, sealing, slip resistance, load capacity and the practical water-activity experience require validation; no rehabilitation outcome has been established."
+    ]
+  },
+  {
+    "id": "yuju",
+    "titleZh": "雨聚 · 共享雨伞应用",
+    "titleEn": "Yuju · Umbrella-Sharing App",
+    "category": "product",
+    "summaryZh": "围绕共享雨伞的租借与归还，建立包含位置查询、信用积分、帮助中心和账户设置的应用界面概念。",
+    "summaryEn": "An umbrella-sharing app concept covering location search, rental support, credit points and account settings.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "collaboration",
+    "galleries": [
+      "/works/documents/embedded-boards/x6.webp"
+    ],
+    "sources": [
+      "local-04: 作品集展板/APP展板.jpg",
+      "portfolio-51.pdf p.50 /X6; raw private/sources/embedded-boards/X6.jp2",
+      "legacy-full-portfolio.pdf p.50 /X6"
+    ],
+    "backgroundZh": "雨聚围绕共享雨伞的集中租借与归还建立应用概念，把位置查询、账户、信用积分和帮助功能放入一套绿色视觉系统。",
+    "processZh": [
+      "命名从“雨”与“聚”建立共享情境，标识借用雨伞轮廓。界面组织覆盖导航、账户、信用、帮助中心和设置，配合绿色主色、图标与页面样机形成整体表达。"
+    ],
+    "resultsZh": [
+      "成果为应用界面提案，当前展示的是设计页面与流程关系，未提供应用上线或服务运营结果。"
+    ],
+    "evidenceLimits": [
+      "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。",
+      "资料为界面提案，未提供可运行应用、运营数据或上线记录。",
+      "界面中21090303属于原稿显示内容，不据此单独推定项目作者。",
+      "local-04与X6为相同内容的不同尺寸版本；采用X6展示。"
+    ],
+    "creditsZh": "合作项目；其他成员署名待补充",
+    "creditsEn": "Collaborative project; other team credits to be documented",
+    "backgroundEn": "Yuju develops an app concept around shared umbrella pickup and return. Location search, accounts, credit points and help functions sit within a green visual system.",
+    "processEn": [
+      "The name combines ideas of rain and gathering, while the mark uses an umbrella silhouette. Navigation, accounts, credit, a help center and settings establish the screen organization, supported by green as the primary color, icons and mockups."
+    ],
+    "resultsEn": [
+      "The outcome is an app-interface proposal. The presentation consists of screens and flow relationships; no app launch or service-operation results are documented."
+    ]
+  },
+  {
+    "id": "construction-recycler",
+    "titleZh": "模块化建筑废料回收装备",
+    "titleEn": "Modular Construction-Waste Recycler",
+    "category": "product",
+    "summaryZh": "以可分别运输的破碎分选、粉碎和混合成型模块，探索建筑废料现场处理装备的组织方式。",
+    "summaryEn": "A mobile recycling-equipment concept organized into transportable crushing, sorting, pulverizing and forming modules.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "collaboration",
+    "galleries": [
+      "/works/local/local-05.webp"
+    ],
+    "sources": [
+      "local-05: 作品集展板/图片1.png"
+    ],
+    "backgroundZh": "项目以建筑拆除废料再利用和设备移动部署为情境，探索现场处理装备的模块划分。不同处理环节被安排在可分别运输的单元中。",
+    "processZh": [
+      "提案划分进料、破碎分选、粉碎及混合成型环节，再探索模块的车载布局和组合方式。剖视示意与局部图用于表达内部通道和部件之间的空间关系。"
+    ],
+    "resultsZh": [
+      "成果为模块化装备概念。分选、处理能力及成型材料尚未通过设备、样品和计算验证。"
+    ],
+    "evidenceLimits": [
+      "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。",
+      "资料展示设计提案与视觉成果，未提供生产、交付、运行测试或效果评估记录。",
+      "非承重砖成型、分选纯度、处理效率及碳排放降低仅为提案目标，未提供样品或计算验证。"
+    ],
+    "creditsZh": "合作项目；其他成员署名待补充",
+    "creditsEn": "Collaborative project; other team credits to be documented",
+    "backgroundEn": "This project uses reuse of demolition waste and mobile deployment as the setting for a modular on-site processing system. Different processing stages are arranged in units intended for separate transport.",
+    "processEn": [
+      "The proposal separates feeding, crushing and sorting, pulverizing, and mixing and forming. Vehicle-mounted layouts and combinations are then explored. Cutaways and detail views communicate internal passages and the spatial relationships between parts."
+    ],
+    "resultsEn": [
+      "The outcome is a modular equipment concept. Sorting, processing capacity and formed materials have not been validated through equipment, samples or calculations."
+    ]
+  },
+  {
+    "id": "cloudwing",
+    "titleZh": "云端之翼 · 垂直起降载人飞行器",
+    "titleEn": "CloudWing · VTOL Passenger Aircraft",
+    "category": "product",
+    "summaryZh": "以连续机身曲面、舱盖开启方式和乘坐空间为核心，探索未来载人垂直起降飞行器的外观概念。",
+    "summaryEn": "A future VTOL passenger-aircraft concept focused on continuous body surfaces, cabin access and passenger accommodation.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "collaboration",
+    "galleries": [
+      "/works/documents/embedded-boards/x3.webp"
+    ],
+    "sources": [
+      "local-06: 作品集展板/展板(1).jpg",
+      "portfolio-51.pdf p.50 /X3; raw private/sources/embedded-boards/X3.jp2",
+      "legacy-full-portfolio.pdf p.50 /X3"
+    ],
+    "backgroundZh": "云端之翼以未来载人垂直起降飞行器为主题，探索机身曲面、进出方式和乘坐空间之间的关系。方案聚焦整体形态与座舱体验的视觉表达。",
+    "processZh": [
+      "草图先推演机身和舱体比例，后续通过多视角展示舱盖、座舱与支撑结构。配色和场景图进一步探索未来交通工具的视觉性格。"
+    ],
+    "resultsZh": [
+      "成果为飞行器造型概念。动力架构、空气动力、实际飞行与安全性尚未验证；当前图像不代表可飞行原型。"
+    ],
+    "evidenceLimits": [
+      "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。",
+      "资料展示设计提案与视觉成果，未提供生产、交付、运行测试或效果评估记录。",
+      "原稿对活塞式发动机、喷气系统和推进原理的描述混杂；无法据此建立可飞行性。",
+      "自主导航、空气动力表现、效率及安全性未经验证。",
+      "local-06与X3为相同内容的不同尺寸版本；与“极翼”是不同概念，不合并。"
+    ],
+    "creditsZh": "合作项目；其他成员署名待补充",
+    "creditsEn": "Collaborative project; other team credits to be documented",
+    "backgroundEn": "CloudWing explores a future VTOL passenger aircraft through the relationship between body surfaces, access and seating space. The proposal focuses on the visual expression of overall form and cabin experience.",
+    "processEn": [
+      "Sketches develop body and cabin proportions. Multiple views then explore the canopy, interior and support structures. Color and scenario images further investigate the visual character of a future vehicle."
+    ],
+    "resultsEn": [
+      "The outcome is an aircraft form concept. Propulsion architecture, aerodynamics, flight and safety have not been validated; the images do not represent a flying prototype."
+    ]
+  },
+  {
+    "id": "little-orange",
+    "titleZh": "小橘运动加油站",
+    "titleEn": "Little Orange · Seated Pedal Exerciser",
+    "category": "product",
+    "summaryZh": "以橘子形态建立桌下或座椅前使用的踏步器概念，结合档位灯光、显示界面、提手与遥控收纳。",
+    "summaryEn": "An orange-inspired seated pedal-exerciser concept with speed feedback, a display, a carrying handle and remote storage.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "collaboration",
+    "galleries": [
+      "/works/documents/embedded-boards/x4.webp"
+    ],
+    "sources": [
+      "local-07: 作品集展板/展板.jpg",
+      "portfolio-51.pdf p.50 /X4; raw private/sources/embedded-boards/X4.jp2",
+      "legacy-full-portfolio.pdf p.50 /X4"
+    ],
+    "backgroundZh": "小橘运动加油站面向居家或办公的坐姿腿部活动，以橘子形态为视觉起点，探索放在桌下或座椅前使用的踏板设备。",
+    "processZh": [
+      "方案以橘子意象安排外壳与踏板比例，用分解示意组织传动、电机、显示与外壳关系。灯光、显示页面和遥控收纳进一步表达使用时的反馈与整理方式。"
+    ],
+    "resultsZh": [
+      "成果为日常轻活动设备概念。运动表现、噪声、人体适配和康复收益尚未验证。"
+    ],
+    "evidenceLimits": [
+      "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。",
+      "资料展示设计提案与视觉成果，未提供生产、交付、运行测试或效果评估记录。",
+      "原稿包含康复训练表述，但未提供医学、人体工学或运动效果验证；公开摘要按日常轻活动概念表述。",
+      "local-07与X4为相同内容的不同尺寸版本；不与“植遇相伴”合并。"
+    ],
+    "creditsZh": "合作项目；其他成员署名待补充",
+    "creditsEn": "Collaborative project; other team credits to be documented",
+    "backgroundEn": "Little Orange addresses seated leg movement at home or in the office. An orange-inspired form provides the starting point for a pedal device placed under a desk or in front of a chair.",
+    "processEn": [
+      "The proposal arranges the shell and pedals around an orange-inspired form. An exploded diagram organizes transmission, motor, display and housing. Lighting, display screens and remote storage express the intended feedback and tidying process."
+    ],
+    "resultsEn": [
+      "The outcome is a concept for light daily activity. Exercise performance, noise, ergonomic fit and rehabilitation benefits have not been validated."
+    ]
+  },
+  {
+    "id": "water-guardian",
+    "titleZh": "水中卫士 · 清藻机",
+    "titleEn": "Water Guardian · Algae-Cleaning Concept",
+    "category": "product",
+    "summaryZh": "围绕水面藻类收集情境，探索结合过滤入口、移动浮体与清洁模块的水体维护装备形态。",
+    "summaryEn": "A water-maintenance equipment concept combining a floating body, collection openings and proposed filtering and cleaning modules.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "collaboration",
+    "galleries": [
+      "/works/documents/embedded-boards/x5.webp"
+    ],
+    "sources": [
+      "local-08: 水中卫士-清藻机智能装备设计—邓志成—张成承.png",
+      "portfolio-51.pdf p.50 /X5; raw private/sources/embedded-boards/X5.jp2",
+      "legacy-full-portfolio.pdf p.50 /X5"
+    ],
+    "backgroundZh": "水中卫士以水面藻类收集和水体维护为背景，探索移动浮体、过滤入口与清洁模块的组合。提案通过圆角体块表达水面装备的整体形态。",
+    "processZh": [
+      "方案以草图探索圆角浮体轮廓，再通过分解图和三视图安排过滤入口、内部模块与顶部部件。细节和水面场景用于表达设备的外观与使用位置。"
+    ],
+    "resultsZh": [
+      "成果为清藻装备概念展板。过滤、清藻方式、生态影响和水质改善尚未通过实测验证。"
+    ],
+    "evidenceLimits": [
+      "原文件名包含邓志成、张成承；依据用户说明按合作项目收录，个人分工未核实。",
+      "资料展示设计提案与视觉成果，未提供生产、交付、运行测试或效果评估记录。",
+      "超声清藻、物理过滤、生物友好及水质改善没有实测支持；展板把频率写作“输出频率为20kHz-40kHz”，不转换为已实现产品参数。",
+      "local-08与X5为相同内容的不同尺寸版本，采用X5展示并保留原始署名文件。"
+    ],
+    "creditsZh": "合作署名：邓志成、张成承",
+    "creditsEn": "Collaboration credits: Deng Zhicheng (邓志成), Zhang Chengcheng (张成承)",
+    "backgroundEn": "Water Guardian uses surface-algae collection and water maintenance as the context for combining a moving floating body, filtering openings and cleaning modules. Rounded volumes establish the overall form of the proposed equipment.",
+    "processEn": [
+      "Sketches explore a rounded floating silhouette. Exploded and orthographic views then arrange the filtering openings, internal modules and upper parts. Details and water scenes communicate the appearance and intended operating position."
+    ],
+    "resultsEn": [
+      "The outcome is an algae-cleaning equipment concept board. Filtering, algae-removal methods, ecological effects and water-quality improvement have not been tested."
+    ]
+  },
+  {
+    "id": "ecological-harvest",
+    "titleZh": "生态丰收漫游者 · 落叶回收转换清洁车",
+    "titleEn": "Ecological Harvest Rambler · Leaf-Recycling Sweeper",
+    "category": "product",
+    "summaryZh": "围绕城市落叶收集与有机物再利用，探索将清扫、分选、储存和处理模块整合进移动清洁设备。",
+    "summaryEn": "A leaf-recycling street-sweeper concept integrating collection, sorting, storage and proposed organic-material processing.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "concept",
+    "galleries": [
+      "/works/documents/embedded-boards/x7.webp"
+    ],
+    "sources": [
+      "portfolio-51.pdf p.50 /X7; raw private/sources/embedded-boards/X7.jp2",
+      "legacy-full-portfolio.pdf p.50 /X7"
+    ],
+    "backgroundZh": "生态丰收漫游者以城市道路的落叶清扫和有机物循环使用为情境，探索在移动清洁设备内组织收集、分选、储存与处理模块。",
+    "processZh": [
+      "方案将清扫刷、吸尘入口、储存区和处理通道安排在整车布局中，通过内部结构、三视图和人物比例表达空间关系。外部信息屏与场景渲染补充设备在道路环境中的形象。"
+    ],
+    "resultsZh": [
+      "成果为城市清洁装备概念。落叶转化工艺、清扫能力、无人驾驶与环境收益仍需设备和流程验证。"
+    ],
+    "evidenceLimits": [
+      "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。",
+      "资料展示设计提案与视觉成果，未提供生产、交付、运行测试或效果评估记录。",
+      "原稿关于肥料转化、无人驾驶、低碳及清扫效率的内容属于概念目标，未提供工艺或实车验证。",
+      "此前只有作品集总览页可见；本次直接提取原PDF嵌入图，不是补绘或再生成。"
+    ],
+    "creditsZh": "合作项目；其他成员署名待补充",
+    "creditsEn": "Collaborative project; other team credits to be documented",
+    "backgroundEn": "Ecological Harvest Rambler uses urban leaf sweeping and reuse of organic material as the setting for a mobile cleaning system. The concept organizes collection, sorting, storage and processing modules within one vehicle.",
+    "processEn": [
+      "Sweeping brushes, a suction opening, storage and processing passages are arranged within the vehicle. Internal views, orthographic drawings and human figures express spatial relationships. An external display and scene renders place the equipment visually in a street setting."
+    ],
+    "resultsEn": [
+      "The outcome is an urban-cleaning equipment concept. Leaf-conversion processes, sweeping capacity, autonomous driving and environmental benefits require equipment and process validation."
+    ]
+  },
+  {
+    "id": "purewater-rolling-filter",
+    "titleZh": "PureWater · 滚动取水过滤设备",
+    "titleEn": "PureWater Rolling Filter",
+    "category": "product",
+    "summaryZh": "将可推行的储水容器与可拆分的过滤层组合，探索偏远地区取水运输和家庭储水的产品概念。",
+    "summaryEn": "A water-collection concept combining a rolling container with stackable filtering layers for transport and household storage.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "concept",
+    "galleries": [
+      "/works/documents/embedded-boards/x8.webp"
+    ],
+    "sources": [
+      "portfolio-51.pdf p.50 /X8; board credit 孙英杰21090315; raw private/sources/embedded-boards/X8.jp2",
+      "legacy-full-portfolio.pdf p.50 /X8"
+    ],
+    "backgroundZh": "PureWater 以非洲农村与偏远地区的长距离取水和家庭储水为设计情境，把可推行容器与可拆分过滤层联系起来。",
+    "processZh": [
+      "方案通过可推行容器减少直接提举的设计设想，并将过滤层安排为竖向叠放组合。分解图呈现提拉杆、固定结构、出水口和层间关系，人物比例与三视图补充两种状态的表达。"
+    ],
+    "resultsZh": [
+      "成果为取水、运输与过滤设备概念。实际运输负担、过滤表现和饮用水安全尚未验证。"
+    ],
+    "evidenceLimits": [
+      "原展板署名孙英杰21090315；未列出完整分工，保守使用合作项目标签，不推定独立工程开发。",
+      "资料展示设计提案与视觉成果，未提供生产、交付、运行测试或效果评估记录。",
+      "过滤材料的污染物去除能力、饮用水安全、容量、重量及运输负担未获证实。",
+      "展板尺寸与手推使用情境之间存在需复核之处，不将图中数字转成实物规格。"
+    ],
+    "creditsZh": "原展板署名：孙英杰；合作分工待补充",
+    "creditsEn": "Original board credit: Sun Yingjie (孙英杰); collaborative roles to be documented",
+    "backgroundEn": "PureWater uses long-distance water collection and household storage in rural Africa and remote areas as its design context, connecting a rolling container with separable filtering layers.",
+    "processEn": [
+      "The proposal explores rolling transport as a way to reduce direct lifting, with filtering layers arranged in a vertical stack. An exploded view presents the pull handle, fastening structure, outlet and layer relationships. Human figures and orthographic views illustrate the two configurations."
+    ],
+    "resultsEn": [
+      "The outcome is a water-collection, transport and filtering concept. Practical transport effort, filtering performance and drinking-water safety have not been validated."
+    ]
+  },
+  {
+    "id": "polar-wing",
+    "titleZh": "极翼 · 载人级无人驾驶eVTOL",
+    "titleEn": "Polar Wing · Autonomous Passenger eVTOL",
+    "category": "product",
+    "summaryZh": "面向未来城市空中出行，探索带分布式推进单元的载人飞行器造型、座舱和部件组织。",
+    "summaryEn": "An urban air-mobility concept exploring a passenger cabin, distributed propulsion units and a sculpted aircraft body.",
+    "roleZh": "合作项目",
+    "roleEn": "Collaborative project",
+    "status": "concept",
+    "galleries": [
+      "/works/documents/embedded-boards/x9.webp"
+    ],
+    "sources": [
+      "portfolio-51.pdf p.50 /X9; raw private/sources/embedded-boards/X9.jp2",
+      "legacy-full-portfolio.pdf p.50 /X9"
+    ],
+    "backgroundZh": "极翼以未来城市空中出行为情境，探索载人级无人驾驶 eVTOL 的机身、多人座舱与分布式推进单元。项目从未来交通工具的整体比例与部件组织展开。",
+    "processZh": [
+      "方案通过情境与草图比较机身及推进单元的配置，继而展示座舱、座椅和舱盖的分解关系。多视角场景及尺寸示意补充整机的比例表达。"
+    ],
+    "resultsZh": [
+      "成果为未来出行概念展板。电推进、无人驾驶、航程和飞行安全仍属待验证方向，未形成可飞行原型的证据。"
+    ],
+    "evidenceLimits": [
+      "项目具体分工未核实；以“合作项目”保守标注，不推定独立完成或个人主导。",
+      "资料展示设计提案与视觉成果，未提供生产、交付、运行测试或效果评估记录。",
+      "原稿标题使用EVTOL，正文混用喷气与分布式电推进表述；动力系统与可飞行性未验证。",
+      "最大航程、载重、速度、无人驾驶及安全性均不可作为实测性能。",
+      "展板示意多座舱位且参数写4人，不能称单人飞行器；与云端之翼为不同设计。"
+    ],
+    "creditsZh": "合作项目；其他成员署名待补充",
+    "creditsEn": "Collaborative project; other team credits to be documented",
+    "backgroundEn": "Polar Wing explores an autonomous passenger eVTOL for future urban air mobility, combining an aircraft body, a multi-seat cabin and distributed propulsion units. The project develops overall proportions and component organization.",
+    "processEn": [
+      "Scenarios and sketches compare body and propulsion layouts. The proposal then shows cabin, seat and canopy relationships through component views. Multiple scenes and dimension illustrations supplement the overall proportions."
+    ],
+    "resultsEn": [
+      "The outcome is a future-mobility concept board. Electric propulsion, autonomous operation, range and flight safety remain unvalidated directions; there is no evidence of a flying prototype."
+    ]
+  },
+  {
+    "id": "rendering-studies",
+    "titleZh": "渲染与动态影像习作",
+    "titleEn": "Rendering & Motion Studies",
+    "category": "experiment",
+    "summaryZh": "通过自行车静态图、产品场景长卷与跑车动态短片，探索材质、灯光、镜头和环境之间的视觉关系。",
+    "summaryEn": "Bicycle stills, a product-scene collection and a sports-car motion study exploring relationships between materials, lighting, cameras and environments.",
+    "roleZh": "3D渲染与场景呈现",
+    "roleEn": "3D Rendering & Scene Visualization",
+    "status": "presentation",
+    "galleries": [
+      "/works/legacy/rendering/6b8d00417baa8b204447fd0857eb435a.webp",
+      "/works/legacy/rendering/22de046ff3e66598345084183a3aea6b.webp",
+      "/works/legacy/rendering/7ddd2cc1d08f22e83dbf11ca277471eb.webp",
+      "/works/legacy/rendering/a7bdacdb33c834301102c595220b48d3.webp",
+      "/works/legacy/rendering/c7db2abf68343f46198039db6ab4fba6.webp",
+      "/works/legacy/rendering/d426d7f675239cd43c29396f4b542fee.webp",
+      "/works/documents/rendering-sheet/001.webp"
+    ],
+    "sources": [
+      "rendering-sheet.pdf p.1 (long-format original)",
+      "cross-reference: portfolio-51.pdf pp.15-16,27-28,34,36; office-fitness.pdf pp.1,8,12",
+      "cross-reference: legacy/lighting/5beb6f4875965136b4cf16ffcfe6f1fe.webp, e9ab15f955279470fd53cb6e9e9a8c18.webp, 3f7ec7c3d1a16952bb9a0a0c1523be7b.webp, 4c9ca8a7b2459a9667ce0b7438da56e1.webp, 916094a2d9a1fe336ac2d4c9854737b4.webp, a56bfb9a22490e6fa6dc7073ce8b6f87.webp",
+      "legacy/rendering: 6 bicycle images retained as a distinct editorial group",
+      "local-14: 111.mp4; reviewed nine sample frames across the 27.916667-second film"
+    ],
+    "backgroundZh": "本组选集围绕材质、灯光、构图与场景展开，包含自行车静态图、产品渲染长卷和跑车动态习作。不同主题共同探索产品在细节、完整形态与环境中的视觉呈现。",
+    "processZh": [
+      "自行车组比较暗色整车、雪地与山地场景，以及车架、水壶、车把和传动部件的近景。产品长卷通过配色、组合和环境光呈现个护、健身、灯具及装备；动态短片则切换极光和沙漠场景，展示跑车车身与运动镜头。"
+    ],
+    "resultsZh": [
+      "成果为静态与动态视觉习作。选集展示图像表达，不将出现的品牌视为委托客户，也不据此声明汽车或自行车产品造型为原创设计。"
+    ],
+    "evidenceLimits": [
+      "只从图像确认视觉主题，不为无标题习作补写客户、功能、工程结构、年份或交付故事。",
+      "与GO GLOW、HUHU CARE、植遇相伴、引渡者及灯具素材有主题与部分画面交叉；选集作为独立编辑呈现保留，避免把其中相同产品重复计为新产品。",
+      "legacy/rendering目录6张图均为自行车渲染，与此长页不是同一组内容，不因文件夹名相同而去重。",
+      "渲染、照片合成、参考素材及AIGC的逐图来源未完整标注；不宣称所有模型、背景或人物均独立原创。",
+      "111.mp4 为跑车动画，与自行车6图不同；按渲染与动态视觉选集合并，不认定车辆造型原创或 Ferrari 品牌委托。",
+      "视频图像已抽样核验；音轨作者与逐项素材出处未核实。"
+    ],
+    "videos": [
+      {
+        "path": "/works/local/111.mp4",
+        "durationSeconds": 27.916667,
+        "width": 960,
+        "height": 544,
+        "fps": 24,
+        "descriptionZh": "带 Ferrari 标志跑车的极光与沙漠场景动画习作",
+        "descriptionEn": "Aurora- and desert-scene motion study featuring a sports car with Ferrari marks"
+      }
+    ],
+    "creditsZh": "视觉习作；模型、背景与参考素材出处待逐项补充",
+    "creditsEn": "Visual studies; individual model, background and reference credits to be documented",
+    "backgroundEn": "This selection explores materials, lighting, composition and scenes through bicycle stills, a long-format product-render collection and a sports-car motion study. Together they examine products as details, complete forms and objects within an environment.",
+    "processEn": [
+      "The bicycle group compares a dark overall view, snow and mountain settings, and close-ups of the frame, bottle, handlebar and drivetrain. The product collection uses colors, arrangements and environmental light across personal care, fitness, lighting and equipment. The motion study alternates aurora and desert settings to show the car body and movement."
+    ],
+    "resultsEn": [
+      "The outcome is a selection of still and motion visualization studies. Brands shown are not presented as commissioning clients, and this selection does not claim original authorship of the depicted car or bicycle product designs."
+    ]
+  }
+]

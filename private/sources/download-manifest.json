@@ -1,0 +1,211 @@
+{
+  "publicPath": "/downloads/sun-yingjie-selected-portfolio.pdf",
+  "document": "deliverables\\portfolio\\sun-yingjie-portfolio.pdf",
+  "pages": [
+    {
+      "page": 1,
+      "kind": "cover",
+      "case": null
+    },
+    {
+      "page": 2,
+      "kind": "index",
+      "case": null
+    },
+    {
+      "page": 3,
+      "kind": "profile",
+      "case": null
+    },
+    {
+      "page": 4,
+      "kind": "project",
+      "case": "hermes"
+    },
+    {
+      "page": 5,
+      "kind": "details",
+      "case": "hermes"
+    },
+    {
+      "page": 6,
+      "kind": "project",
+      "case": "arcteryx"
+    },
+    {
+      "page": 7,
+      "kind": "project",
+      "case": "lighting"
+    },
+    {
+      "page": 8,
+      "kind": "details",
+      "case": "lighting"
+    },
+    {
+      "page": 9,
+      "kind": "project",
+      "case": "plumber"
+    },
+    {
+      "page": 10,
+      "kind": "details",
+      "case": "plumber"
+    },
+    {
+      "page": 11,
+      "kind": "project",
+      "case": "huhu-care"
+    },
+    {
+      "page": 12,
+      "kind": "details",
+      "case": "huhu-care"
+    },
+    {
+      "page": 13,
+      "kind": "project",
+      "case": "plant-companion"
+    },
+    {
+      "page": 14,
+      "kind": "details",
+      "case": "plant-companion"
+    },
+    {
+      "page": 15,
+      "kind": "project",
+      "case": "baobab-glow"
+    },
+    {
+      "page": 16,
+      "kind": "project",
+      "case": "bat-quad"
+    },
+    {
+      "page": 17,
+      "kind": "project",
+      "case": "cloudwing"
+    },
+    {
+      "page": 18,
+      "kind": "project",
+      "case": "construction-recycler"
+    },
+    {
+      "page": 19,
+      "kind": "project",
+      "case": "ecological-harvest"
+    },
+    {
+      "page": 20,
+      "kind": "project",
+      "case": "go-glow"
+    },
+    {
+      "page": 21,
+      "kind": "project",
+      "case": "jimu-studio"
+    },
+    {
+      "page": 22,
+      "kind": "project",
+      "case": "lingmu"
+    },
+    {
+      "page": 23,
+      "kind": "project",
+      "case": "little-orange"
+    },
+    {
+      "page": 24,
+      "kind": "project",
+      "case": "polar-wing"
+    },
+    {
+      "page": 25,
+      "kind": "project",
+      "case": "purewater-rolling-filter"
+    },
+    {
+      "page": 26,
+      "kind": "project",
+      "case": "water-guardian"
+    },
+    {
+      "page": 27,
+      "kind": "project",
+      "case": "water-walking-bath"
+    },
+    {
+      "page": 28,
+      "kind": "project",
+      "case": "periastra"
+    },
+    {
+      "page": 29,
+      "kind": "project",
+      "case": "yelisi"
+    },
+    {
+      "page": 30,
+      "kind": "project",
+      "case": "lensflow"
+    },
+    {
+      "page": 31,
+      "kind": "details",
+      "case": "lensflow"
+    },
+    {
+      "page": 32,
+      "kind": "project",
+      "case": "yantai"
+    },
+    {
+      "page": 33,
+      "kind": "project",
+      "case": "formline"
+    },
+    {
+      "page": 34,
+      "kind": "project",
+      "case": "aesthetic-atlas"
+    },
+    {
+      "page": 35,
+      "kind": "project",
+      "case": "resume-formatter"
+    },
+    {
+      "page": 36,
+      "kind": "project",
+      "case": "visual-archive"
+    },
+    {
+      "page": 37,
+      "kind": "project",
+      "case": "yuju"
+    },
+    {
+      "page": 38,
+      "kind": "project",
+      "case": "image-2-5-xhs"
+    },
+    {
+      "page": 39,
+      "kind": "project",
+      "case": "rendering-studies"
+    },
+    {
+      "page": 40,
+      "kind": "contact",
+      "case": null
+    }
+  ],
+  "caseCount": 30,
+  "pageCount": 40,
+  "bytes": 16945242,
+  "sha256": "9ac44ac3533e7bdc33245fbd58b7a2f7260db68aca65daea92861a57e1dfa78e",
+  "note": "New editorial portfolio with all 30 case introductions, selected detail pages, original collaboration credits, clickable index and full-case web links. Complete original PDF pages retained in private source archive."
+}

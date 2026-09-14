@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>孙英杰 | 策略驱动型全栈设计师</title>
+  <meta name="description" content="孙英杰作品集：策略驱动型全栈设计师，覆盖商业落地、工业系统、战略设计与 AIGC 生产工作流。" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="bg-mesh"></div>
+  <div class="grain"></div>
+
+  <header class="topbar" id="top">
+    <a class="brand" href="#top" id="brandText">Sun Yingjie</a>
+    <div class="topbar-right">
+      <nav class="topnav" id="topNav">
+        <a class="nav-link" href="#project-index" id="navIndex">精选项目</a>
+        <a class="nav-link" href="#commercial" id="navCommercial">商业落地</a>
+        <a class="nav-link" href="#industrial" id="navIndustrial">工业系统</a>
+        <a class="nav-link" href="#strategy" id="navStrategy">战略案例</a>
+        <a class="nav-link" href="#aigc" id="navAigc">AIGC 专家</a>
+        <a class="nav-link" href="#about" id="navAbout">关于我</a>
+        <a class="nav-link" href="#contact" id="navContact">联系</a>
+      </nav>
+      <button class="lang-toggle" id="langToggle" type="button">EN</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero section-shell">
+      <div class="hero-media">
+        <p class="hero-photo-tag" id="heroPhotoTag">OPEN TO WORK · HANGZHOU</p>
+        <img id="heroPortrait" src="" alt="孙英杰形象照" loading="eager" />
+      </div>
+
+      <div class="hero-copy">
+        <p class="eyebrow" id="heroEyebrow"></p>
+        <h1 id="heroName"></h1>
+        <p class="hero-role" id="heroRole"></p>
+        <p class="hero-tagline" id="heroTagline"></p>
+
+        <div class="personal-facts" id="personalFacts"></div>
+
+        <div class="hero-actions">
+          <a class="btn" id="heroPrimaryBtn" href="#project-index"></a>
+          <a class="btn ghost" id="heroSecondaryBtn" href="#" target="_blank" rel="noopener"></a>
+        </div>
+
+        <div class="advantage-head">
+          <h2 id="advantageTitle"></h2>
+        </div>
+        <div class="advantage-grid" id="advantageGrid"></div>
+
+        <div class="social-proof" id="socialProof"></div>
+        <div class="hero-stats" id="assetStats"></div>
+      </div>
+    </section>
+
+    <section class="section-shell" id="project-index">
+      <div class="section-head">
+        <p class="eyebrow" id="indexEyebrow"></p>
+        <h2 id="indexTitle"></h2>
+        <p id="indexDesc"></p>
+      </div>
+      <div class="project-index-grid" id="projectIndexGrid"></div>
+    </section>
+
+    <section class="section-shell" id="commercial">
+      <div class="section-head">
+        <p class="eyebrow" id="commercialEyebrow"></p>
+        <h2 id="commercialTitle"></h2>
+        <p id="commercialDesc"></p>
+      </div>
+
+      <article class="case-block accent-hermes">
+        <div class="case-head">
+          <h3 id="hermesTitle"></h3>
+          <p id="hermesDesc"></p>
+        </div>
+        <div class="season-wrap" id="hermesSeasons"></div>
+        <div class="project-analysis">
+          <h4 id="hermesAnalysisTitle"></h4>
+          <ul id="hermesAnalysisList"></ul>
+        </div>
+        <div class="case-meta">
+          <h5 id="hermesMetaTitle"></h5>
+          <ul id="hermesMetaList"></ul>
+        </div>
+      </article>
+
+      <article class="case-block accent-arc">
+        <div class="case-head">
+          <h3 id="arcTitle"></h3>
+          <p id="arcDesc"></p>
+        </div>
+        <div class="single-gallery" id="arcGallery"></div>
+        <div class="project-analysis">
+          <h4 id="arcAnalysisTitle"></h4>
+          <ul id="arcAnalysisList"></ul>
+        </div>
+        <div class="case-meta">
+          <h5 id="arcMetaTitle"></h5>
+          <ul id="arcMetaList"></ul>
+        </div>
+      </article>
+    </section>
+
+    <section class="section-shell" id="industrial">
+      <div class="section-head">
+        <p class="eyebrow" id="industrialEyebrow"></p>
+        <h2 id="industrialTitle"></h2>
+        <p id="industrialDesc"></p>
+      </div>
+      <div class="masonry" id="industrialGallery"></div>
+      <div class="project-analysis">
+        <h4 id="industrialAnalysisTitle"></h4>
+        <ul id="industrialAnalysisList"></ul>
+      </div>
+      <div class="case-meta">
+        <h5 id="industrialMetaTitle"></h5>
+        <ul id="industrialMetaList"></ul>
+      </div>
+    </section>
+
+    <section class="section-shell" id="strategy">
+      <div class="section-head">
+        <p class="eyebrow" id="strategyEyebrow"></p>
+        <h2 id="strategyTitle"></h2>
+        <p id="strategyDesc"></p>
+      </div>
+
+      <div class="strategy-grid">
+        <div class="strategy-card">
+          <h3 id="strategyMethodTitle"></h3>
+          <ul id="strategyMethodList"></ul>
+          <h4 id="strategyRoleTitle"></h4>
+          <ul id="strategyRoleList"></ul>
+        </div>
+
+        <div class="strategy-card strategy-pdf">
+          <h3 id="strategyPdfTitle"></h3>
+          <iframe id="portfolioPdf" title="孙英杰项目案例PDF"></iframe>
+          <div class="pdf-actions">
+            <a id="pdfOpen" class="btn" href="#" target="_blank" rel="noopener"></a>
+            <a id="pdfDownload" class="btn ghost" href="#" download></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-shell" id="aigc">
+      <div class="section-head">
+        <p class="eyebrow" id="aigcEyebrow"></p>
+        <h2 id="aigcTitle"></h2>
+        <p id="aigcDesc"></p>
+      </div>
+
+      <div class="aigc-grid" id="aigcGrid"></div>
+
+      <div class="tool-matrix">
+        <div>
+          <h4 id="aigcToolImageTitle"></h4>
+          <div class="tool-chips" id="aigcToolImage"></div>
+        </div>
+        <div>
+          <h4 id="aigcToolVideoTitle"></h4>
+          <div class="tool-chips" id="aigcToolVideo"></div>
+        </div>
+        <div>
+          <h4 id="aigcToolPipelineTitle"></h4>
+          <div class="tool-chips" id="aigcToolPipeline"></div>
+        </div>
+      </div>
+
+      <div class="gallery-grid" id="aigcGallery"></div>
+    </section>
+
+    <section class="section-shell dark" id="lab">
+      <div class="section-head">
+        <p class="eyebrow" id="labEyebrow"></p>
+        <h2 id="labTitle"></h2>
+        <p id="labDesc"></p>
+      </div>
+
+      <div class="workflow-lane" id="workflowLane"></div>
+      <div class="masonry lab-masonry" id="labGallery"></div>
+
+      <div class="project-analysis lab-analysis">
+        <h4 id="labAnalysisTitle"></h4>
+        <ul id="labAnalysisList"></ul>
+      </div>
+    </section>
+
+    <section class="section-shell" id="about">
+      <div class="section-head">
+        <p class="eyebrow" id="aboutEyebrow"></p>
+        <h2 id="aboutTitle"></h2>
+        <p id="aboutDesc"></p>
+      </div>
+
+      <div class="about-grid">
+        <article class="about-card">
+          <h3 id="aboutExpTitle"></h3>
+          <ul id="aboutExpList"></ul>
+        </article>
+
+        <article class="about-card">
+          <h3 id="aboutEduTitle"></h3>
+          <ul id="aboutEduList"></ul>
+          <h3 id="aboutAwardsTitle" class="about-subtitle"></h3>
+          <ul id="aboutAwardsList"></ul>
+        </article>
+
+        <article class="about-card">
+          <h3 id="aboutSkillsTitle"></h3>
+          <div class="skill-tags" id="aboutSkills"></div>
+          <h3 id="aboutTraitsTitle" class="about-subtitle"></h3>
+          <div class="trait-tags" id="aboutTraits"></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section-shell" id="contact">
+      <div class="section-head">
+        <p class="eyebrow" id="contactEyebrow"></p>
+        <h2 id="contactTitle"></h2>
+        <p id="contactDesc"></p>
+      </div>
+
+      <div class="contact-grid">
+        <div>
+          <h3 id="contactCard1Title"></h3>
+          <p id="contactCard1Text"></p>
+        </div>
+        <div>
+          <h3 id="contactCard2Title"></h3>
+          <p id="coverageText"></p>
+        </div>
+        <div>
+          <h3 id="contactCard3Title"></h3>
+          <p id="contactCard3Text"></p>
+        </div>
+        <div>
+          <h3 id="contactCard4Title"></h3>
+          <p id="contactCard4Text"></p>
+        </div>
+      </div>
+
+      <div class="proof-strip" id="proofStrip"></div>
+    </section>
+  </main>
+
+  <button class="back-top" id="backTop" type="button" aria-label="返回顶部">↑</button>
+
+  <div class="lightbox" id="lightbox" aria-hidden="true">
+    <button class="lightbox-close" id="lightboxClose" aria-label="关闭">×</button>
+    <img id="lightboxImg" alt="作品大图" />
+    <p id="lightboxCaption"></p>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>

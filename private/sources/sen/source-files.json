@@ -1,0 +1,102 @@
+[
+  {
+    "path": "web/eslint.config.js",
+    "sha256": "d030add5c621d2dd072847f3a26c6037ff9966c555fea1644da796ea44261c5f"
+  },
+  {
+    "path": "web/index.html",
+    "sha256": "c83847abb1ad80ce126ebf15f8231e08fb7d891779ec6677cc91848021bef9fa"
+  },
+  {
+    "path": "web/package-lock.json",
+    "sha256": "17cd907cd88aa14a5c44865628eadcfddb5c7cf5073f66abb0e0db6040fe7df5"
+  },
+  {
+    "path": "web/package.json",
+    "sha256": "2e651eef4e7de52184e85d3c78c767aed01a9fe970eb4e2cafe1594deaeccf47"
+  },
+  {
+    "path": "web/tsconfig.app.json",
+    "sha256": "b2752c7470c1281480f83c12c98d2e9ae5a3ea3b3933c7d59038fc81844c913f"
+  },
+  {
+    "path": "web/tsconfig.json",
+    "sha256": "e8d6f7b50828db3953e21c7e92584f9206b3cd2551b4012507372afbb7fe9ce3"
+  },
+  {
+    "path": "web/tsconfig.node.json",
+    "sha256": "3ced5d22ba9e246c839a695526296a8d067fbe9db838d728516d2eac9215b333"
+  },
+  {
+    "path": "web/vite.config.ts",
+    "sha256": "606f19a327b5ada8db5ddffec696b0bd91cf56982aebf836c13be7bbb123e8d1"
+  },
+  {
+    "path": "web/scripts/compress-media.sh",
+    "sha256": "4bbbef6c5abfd29a5dfddca0682ca4b9948e031c868f8c8199f1a5e48a203028"
+  },
+  {
+    "path": "web/src/App.tsx",
+    "sha256": "84eac150cb4a2baf16d5c27cf2c0ba6230782c98f4795215ca950a8d6c5dbae6"
+  },
+  {
+    "path": "web/src/main.tsx",
+    "sha256": "c2e407303a7b23f69c4c62bae669686764391d8afec1a529fa64b12f8f17f086"
+  },
+  {
+    "path": "web/src/store.ts",
+    "sha256": "38ba2b2a05cc0ab3721e249afa6b6488b14fea1e7ce6df42113ee3cbdd376735"
+  },
+  {
+    "path": "web/src/styles.css",
+    "sha256": "0da23622865ad977bda939a4187c1394926de55eabff919a657f244e43d596f8"
+  },
+  {
+    "path": "web/src/vite-env.d.ts",
+    "sha256": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5"
+  },
+  {
+    "path": "web/src/data/focusPoints.ts",
+    "sha256": "1029e64253732c2ffa84952711cdc6340c380213852845f0ec698bba5264ca5d"
+  },
+  {
+    "path": "web/src/data/workDocs.ts",
+    "sha256": "49c4c86dfcc90d177620609d8c7a47289376240a26e14d642ada264ce134a98c"
+  },
+  {
+    "path": "web/src/data/works.ts",
+    "sha256": "6855f8cf4668f7b53796bc8da8fc41ea06afbd7c8f8315675c517a1bfdb6c118"
+  },
+  {
+    "path": "web/src/scene/Env.tsx",
+    "sha256": "51e2f61d41b783e54d77017450087b8bf092797d2668b6dfadf32345f00c9bf8"
+  },
+  {
+    "path": "web/src/scene/Scene.tsx",
+    "sha256": "406802de3ae83cef7b0cddd28d5be767dddcbefddb9e4af29bf77ab49f4b1953"
+  },
+  {
+    "path": "web/src/ui/LoadingScreen.tsx",
+    "sha256": "425ed51e12f49b7d464e211747d2ff353c9865745e47c0187574b27938fdcbd5"
+  },
+  {
+    "path": "web/src/ui/NoiseOverlay.tsx",
+    "sha256": "60abe79d2dbb5bdb4ceed2d0715609c66bb30e38d5b2835495f243ce0d1d46fb"
+  },
+  {
+    "path": "web/src/ui/Resume.tsx",
+    "sha256": "54e3ea6e8cb747b1a0815de71cac092b3095de2c78b73d2d05ad12abb5be9d77"
+  },
+  {
+    "path": "web/src/ui/SocialIcons.tsx",
+    "sha256": "15cde5f3d6bde385c0971f320eabb496b3a3dad9c9c88400a564a4337389e284"
+  },
+  {
+    "path": "web/src/ui/Works.tsx",
+    "sha256": "603339788b201cdeaf86f24e13257cc38d443f17f51afebe4c7453961e6eabcb"
+  },
+  {
+    "path": "web/src/ui/ZooopLogo.tsx",
+    "sha256": "e449daa45ce27423c3fd0fdf6702484ea50796fb64240efecfc58a663a8c4f98"
+  }
+]
