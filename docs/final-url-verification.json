@@ -1,0 +1,32 @@
+{
+  "verifiedAt": "2026-09-14T18:10:09.083931+00:00",
+  "previousReservedUrl": "https://sun-yingjie-portfolio.mauve-heron-8150.chatgpt.site",
+  "deployedUrl": "https://sun-yingjie-portfolio.ajhhq.chatgpt.site",
+  "files": [
+    {
+      "path": "deliverables\\portfolio\\sun-yingjie-portfolio.pdf",
+      "pages": 40,
+      "updatedLinks": 31,
+      "allPagePixelsUnchanged": true,
+      "bytes": 16945554,
+      "sha256": "8eea4aaad110aba12b88d87deb8ac82d4e0db3aac4124d0865bedea097ad7428"
+    },
+    {
+      "path": "deliverables\\resume\\sun-yingjie-resume.pdf",
+      "pages": 1,
+      "updatedLinks": 1,
+      "allPagePixelsUnchanged": true,
+      "bytes": 302562,
+      "sha256": "24a0493a665b6909e3cc67eeb37f0bc20f940ccf38ecb14537c30803c215d15b"
+    },
+    {
+      "path": "deliverables\\resume\\sun-yingjie-resume.docx",
+      "onlyChangedZipEntries": [
+        "word/_rels/document.xml.rels"
+      ],
+      "bytes": 38551,
+      "sha256": "1ade71bcd66591030a5d6d9879d4bf12931c03d8e532c71b7677678298239ef3"
+    }
+  ],
+  "note": "Only link destinations changed. All 41 PDF pages were re-rendered at 60 dpi and are pixel-identical; all DOCX entries except the hyperlink relationship are byte-identical."
+}

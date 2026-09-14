@@ -1,0 +1,37 @@
+{
+  "verifiedAt": "2026-09-14T18:07:03.976574+00:00",
+  "sourceCommit": "60692cfb49206a1b723a3093b9b71134906dfd4e",
+  "sourceRepository": "https://github.com/AJ-nb/sun-yingjie-portfolio",
+  "checks": {
+    "npmCi": true,
+    "content": true,
+    "typecheck": true,
+    "lint": true,
+    "build": true,
+    "gitLfsFsck": true,
+    "selectedMediaByteEquality": true,
+    "runtimeBundlesByteEquality": true,
+    "htmlEquivalentAfterNewlineNormalization": true
+  },
+  "selectedMediaCount": 164,
+  "selectedMediaBytes": 55384994,
+  "staticFiles": 169,
+  "bundles": [
+    {
+      "name": "index-CP_pINMR.js",
+      "bytes": 646531,
+      "sha256": "409864b467acd900571e275067c588857d99de4e82a523c705c11dff03288bb3"
+    },
+    {
+      "name": "index-K-08r9Oa.css",
+      "bytes": 21623,
+      "sha256": "282e29155e0fb11f4161a49de644bf64aaa364a253151766bcb32a69e9599cf0"
+    },
+    {
+      "name": "PortraitScene-Cx9dcKFz.js",
+      "bytes": 891268,
+      "sha256": "ca5b685e90db768c1b7406b97d66d13bd50a7e5a49f524d8269952114e7dcc81"
+    }
+  ],
+  "privateArtifactsInRelease": 0
+}

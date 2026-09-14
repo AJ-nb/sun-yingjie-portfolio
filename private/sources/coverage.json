@@ -36,8 +36,8 @@
     {
       "path": "private/sources/download-manifest.json",
       "exists": true,
-      "bytes": 4037,
-      "sha256": "6be0a4e98f3d5b9d742dbd851001bbcc8db5998b435ae43334e96ee5b14fc536"
+      "bytes": 4105,
+      "sha256": "65539da4670de91be246ee96272c31fe6ff9f1dc034fd177bba90a86ba2aefcc"
     },
     {
       "path": "private/sources/thumbnail-manifest.json",
@@ -1033,7 +1033,7 @@
       "path": "web/dist/media-index.json",
       "exists": true,
       "bytes": 11288,
-      "sha256": "b228c86f66662066adf2fb7406276d617e88badae1f445b84d571829b9799c73"
+      "sha256": "237c9187249366e85e7c3f95d30150970d14284c5eeeff49703aa555a958e7f0"
     },
     "stagingScript": {
       "path": "scripts/stage-public.mjs",
@@ -1044,11 +1044,11 @@
     "viteConfig": {
       "path": "web/vite.config.ts",
       "exists": true,
-      "bytes": 400,
-      "sha256": "9f9d9d4d2b7eed2f61a13295283909f68568f8bb08599798bca3ba1b017f4570"
+      "bytes": 432,
+      "sha256": "35f7144bc9905f10a9cb01d01fb9681d10c656bbfe40de71d4dc66e155b705dc"
     },
     "buildAssetCount": 164,
-    "buildAssetBytes": 55384994,
+    "buildAssetBytes": 55397915,
     "currentAllowListMatchesBuild": true,
     "assets": [
       {
@@ -1079,19 +1079,19 @@
         "source": {
           "path": "web/public/downloads/sun-yingjie-resume.pdf",
           "exists": true,
-          "bytes": 289953,
-          "sha256": "a62d7d2b25736af1d0cfe2ef488cbe0167e438be1789d8beb64d507b3fe02d22",
-          "expectedBytes": 289953,
+          "bytes": 302562,
+          "sha256": "24a0493a665b6909e3cc67eeb37f0bc20f940ccf38ecb14537c30803c215d15b",
+          "expectedBytes": 302562,
           "bytesMatch": true
         },
         "build": {
           "path": "web/dist/downloads/sun-yingjie-resume.pdf",
           "exists": true,
-          "bytes": 289953,
-          "sha256": "a62d7d2b25736af1d0cfe2ef488cbe0167e438be1789d8beb64d507b3fe02d22",
-          "expectedBytes": 289953,
+          "bytes": 302562,
+          "sha256": "24a0493a665b6909e3cc67eeb37f0bc20f940ccf38ecb14537c30803c215d15b",
+          "expectedBytes": 302562,
           "bytesMatch": true,
-          "expectedSha256": "a62d7d2b25736af1d0cfe2ef488cbe0167e438be1789d8beb64d507b3fe02d22",
+          "expectedSha256": "24a0493a665b6909e3cc67eeb37f0bc20f940ccf38ecb14537c30803c215d15b",
           "sha256Matches": true
         }
       },
@@ -1101,19 +1101,19 @@
         "source": {
           "path": "web/public/downloads/sun-yingjie-selected-portfolio.pdf",
           "exists": true,
-          "bytes": 16945242,
-          "sha256": "9ac44ac3533e7bdc33245fbd58b7a2f7260db68aca65daea92861a57e1dfa78e",
-          "expectedBytes": 16945242,
+          "bytes": 16945554,
+          "sha256": "8eea4aaad110aba12b88d87deb8ac82d4e0db3aac4124d0865bedea097ad7428",
+          "expectedBytes": 16945554,
           "bytesMatch": true
         },
         "build": {
           "path": "web/dist/downloads/sun-yingjie-selected-portfolio.pdf",
           "exists": true,
-          "bytes": 16945242,
-          "sha256": "9ac44ac3533e7bdc33245fbd58b7a2f7260db68aca65daea92861a57e1dfa78e",
-          "expectedBytes": 16945242,
+          "bytes": 16945554,
+          "sha256": "8eea4aaad110aba12b88d87deb8ac82d4e0db3aac4124d0865bedea097ad7428",
+          "expectedBytes": 16945554,
           "bytesMatch": true,
-          "expectedSha256": "9ac44ac3533e7bdc33245fbd58b7a2f7260db68aca65daea92861a57e1dfa78e",
+          "expectedSha256": "8eea4aaad110aba12b88d87deb8ac82d4e0db3aac4124d0865bedea097ad7428",
           "sha256Matches": true
         }
       },
@@ -16487,7 +16487,7 @@
     "presentationCount": 2,
     "presentationSlides": 21,
     "stagedAssets": 164,
-    "stagedBytes": 55384994,
+    "stagedBytes": 55397915,
     "uniqueCaseAssetCount": 130,
     "unselectedPublicIntermediates": 90,
     "unselectedIntermediateBytes": 29367890,
@@ -16568,11 +16568,11 @@
         {
           "path": "deliverables/portfolio/sun-yingjie-portfolio.pdf",
           "exists": true,
-          "bytes": 16945242,
-          "sha256": "9ac44ac3533e7bdc33245fbd58b7a2f7260db68aca65daea92861a57e1dfa78e",
-          "expectedBytes": 16945242,
+          "bytes": 16945554,
+          "sha256": "8eea4aaad110aba12b88d87deb8ac82d4e0db3aac4124d0865bedea097ad7428",
+          "expectedBytes": 16945554,
           "bytesMatch": true,
-          "expectedSha256": "9ac44ac3533e7bdc33245fbd58b7a2f7260db68aca65daea92861a57e1dfa78e",
+          "expectedSha256": "8eea4aaad110aba12b88d87deb8ac82d4e0db3aac4124d0865bedea097ad7428",
           "sha256Matches": true
         }
       ],
@@ -16590,25 +16590,25 @@
         {
           "path": "deliverables/resume/sun-yingjie-resume.pdf",
           "exists": true,
-          "bytes": 289953,
-          "sha256": "a62d7d2b25736af1d0cfe2ef488cbe0167e438be1789d8beb64d507b3fe02d22",
-          "expectedBytes": 289953,
+          "bytes": 302562,
+          "sha256": "24a0493a665b6909e3cc67eeb37f0bc20f940ccf38ecb14537c30803c215d15b",
+          "expectedBytes": 302562,
           "bytesMatch": true,
-          "expectedSha256": "a62d7d2b25736af1d0cfe2ef488cbe0167e438be1789d8beb64d507b3fe02d22",
+          "expectedSha256": "24a0493a665b6909e3cc67eeb37f0bc20f940ccf38ecb14537c30803c215d15b",
           "sha256Matches": true
         },
         {
           "path": "deliverables/resume/sun-yingjie-resume.docx",
           "exists": true,
-          "bytes": 38558,
-          "sha256": "5c71f517126209915c1f99fd02cbac3aed2c887097afdf6d88b83bdcd4209214"
+          "bytes": 38551,
+          "sha256": "1ade71bcd66591030a5d6d9879d4bf12931c03d8e532c71b7677678298239ef3"
         }
       ],
       "contentData": {
         "path": "deliverables/resume/resume-content.json",
         "exists": true,
-        "bytes": 3087,
-        "sha256": "efddff83874b222dba075a3a51037e1df0609cc4ba1bdf35f447e4c8ff7b1038"
+        "bytes": 2997,
+        "sha256": "833f3a8356b163f174994cecab2a95f8977075624a0c7ccd0782fc6391288f95"
       },
       "publicPath": "/downloads/sun-yingjie-resume.pdf",
       "pageCount": 1,
@@ -16764,16 +16764,17 @@
     "meaning": "Five user-provided generated direction images from this production phase. They are not anatomical measurements, historical work cases, or additions to the 159 historical source records."
   },
   "historicalSourceVerifiedAt": "2026-09-14T17:09:27.018557+00:00",
-  "publicationSnapshotAt": "2026-09-14T17:52:33.590390+00:00",
+  "publicationSnapshotAt": "2026-09-14T18:12:46.037462+00:00",
   "snapshotStatus": "final-local-build",
   "finalSnapshotVerification": {
-    "verifiedAt": "2026-09-14T17:52:33.590390+00:00",
-    "rehashed": "164 selected public/dist asset pairs, current public intermediates, 60 finalized case files, listed manifest files, new deliverable files and five production references.",
+    "verifiedAt": "2026-09-14T18:12:46.037462+00:00",
+    "rehashed": "164 selected source/build pairs, manifest files, current Vite config, and final delivery files after the deployed URL correction. Historical source hashes and the 60 reviewed case files were retained from the previous verified snapshot.",
     "historicalSourceHashes": "Retained from the earlier verified snapshot; the 11 engineering originals were not rehashed in this publication refresh.",
     "historicalSourceCountUnchanged": true,
     "historicalSourceBytesUnchanged": true,
     "engineeringVerificationUnchanged": true,
     "currentCaseFilesUseLF": true,
     "issues": []
-  }
+  },
+  "finalUrlCorrectionReport": "docs/final-url-verification.json"
 }

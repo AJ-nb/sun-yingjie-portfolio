@@ -16,7 +16,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 PUBLIC = ROOT / 'web/public'
 OUT = ROOT / 'deliverables/portfolio'
 OUT.mkdir(parents=True, exist_ok=True)
-URL = 'https://sun-yingjie-portfolio.mauve-heron-8150.chatgpt.site'
+URL = 'https://sun-yingjie-portfolio.ajhhq.chatgpt.site'
 pdfmetrics.registerFont(TTFont('CN', 'C:/Windows/Fonts/msyh.ttc'))
 pdfmetrics.registerFont(TTFont('CNB', 'C:/Windows/Fonts/msyhbd.ttc'))
 W,H = 960,600

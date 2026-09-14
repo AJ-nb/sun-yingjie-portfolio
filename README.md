@@ -2,10 +2,12 @@
 
 面向求职与商业合作的个人作品集：30 个案例、60 份中英文正文、三维人物、完整案例阅读，以及重新排版的作品集和简历。
 
-- 在线作品集：https://sun-yingjie-portfolio.mauve-heron-8150.chatgpt.site
+- 线上预览（当前仅本人访问）：https://sun-yingjie-portfolio.ajhhq.chatgpt.site
 - 私人源码仓库：https://github.com/AJ-nb/sun-yingjie-portfolio
 - 排版作品集：`deliverables/portfolio/sun-yingjie-portfolio.pdf`
 - 简历 PDF 与可编辑 Word：`deliverables/resume/`
+
+当前状态：网站与文档已完成验证，三维人物相似度等待用户集中审阅。依照已确认方案，审阅后才开放公众访问。实际交付和验证记录见 `docs/DELIVERY.md`。
 
 ## 本地运行
 
@@ -51,3 +53,5 @@ npm run preview
 只有 `web/dist` 中明确选入的公开构建参与 Sites 发布。Sites 使用独立的静态发布目录；私人来源档案、建模工程、生成提示词不上传到公开站点。GitHub 仓库保存可维护的源文件和交付文档，并保持私人可见性。站点身份信息在 `.openai/hosting.json`，凭据不写入文件。
 
 新增素材后，先确认用途和署名，更新中英文案例，运行内容校验和构建，再发布。本次未购买素材、模型服务或存储容量。
+
+发布时使用干净检出的构建目录。`scripts/prepare_site_release.py --build <构建目录> --release <.sites-runtime下的新目录>` 会创建独立静态发布包，拒绝覆盖既有目录。页面输出通过后，才运行 Sites 的打包和发布流程。

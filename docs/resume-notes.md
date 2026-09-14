@@ -16,7 +16,7 @@
 
 内容源：`deliverables/resume/resume-content.json`。编辑后运行 `scripts/resume/build_resume.py`，随后运行 `scripts/resume/export_word.ps1`。使用 Codex bundled Python；PDF 导出使用本机 Microsoft Word 16 的只读文档导出接口。
 
-`portfolio_url` 初始为空；收到经验证的公开站点后填入该字段并重新生成。较长 URL 可能需单独一行，更新后须重新验证一页布局。
+`portfolio_url` 已填入本项目的固定站点地址。当前站点访问范围见 `docs/DELIVERY.md`；开放公众访问前，不应把该链接当作匿名可访问的招聘投递链接。修改地址后重新生成，并验证一页布局。
 
 ## 验证
 
@@ -24,4 +24,6 @@
 
 最终目视验证图为 `deliverables/resume/qa/linked-1.png`：一页，无截断、重叠、缺字、标题边框或多余第二页。PDF 为可选择文本的 tagged A4 文档，DOCX 保持正文可编辑。QA 目录包含迭代图，仅内部检查，不作为用户交付附件。
 
-公开网址已填入 portfolio_url，并以可点击的在线作品集显示。PDF 链接注释已检查，目标匹配最终站点（Word 自动添加末尾斜杠）。
+站点地址已填入 portfolio_url，并以可点击的在线作品集显示。PDF 链接注释已检查，目标匹配本项目固定地址（Word 自动添加末尾斜杠）。页面能否匿名访问需另行确认。
+
+最终上线地址为 `https://sun-yingjie-portfolio.ajhhq.chatgpt.site`。已修正 PDF 注释和 DOCX 的超链接关系；PDF 重渲染后与此前通过审阅的一页版面逐像素一致，DOCX 正文、样式及其他归档条目均保持原字节。当前 PDF 为 302,562 字节，SHA256 `24a0493a665b6909e3cc67eeb37f0bc20f940ccf38ecb14537c30803c215d15b`。详细证据见 `final-url-verification.json`。
