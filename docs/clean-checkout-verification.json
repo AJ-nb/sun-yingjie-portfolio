@@ -33,5 +33,13 @@
       "sha256": "ca5b685e90db768c1b7406b97d66d13bd50a7e5a49f524d8269952114e7dcc81"
     }
   ],
-  "privateArtifactsInRelease": 0
+  "privateArtifactsInRelease": 0,
+  "finalUrlVerifiedAt": "2026-09-14T18:15:50.209262+00:00",
+  "finalSourceCommit": "1cb55d922af7f57f4eb5248dfebd1de7b9d4825f",
+  "finalSelectedMediaBytes": 55397915,
+  "finalMediaByteEquality": true,
+  "finalRuntimeBundlesUnchanged": true,
+  "finalSiteMetadataUrl": "https://sun-yingjie-portfolio.ajhhq.chatgpt.site",
+  "finalNpmCiAndBuildPassed": true,
+  "finalGitLfsFsckPassed": true
 }

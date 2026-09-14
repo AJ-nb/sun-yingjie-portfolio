@@ -64,3 +64,7 @@ Representative screenshots:
 - [Live scene, 1440 px](../design/qa/normal-live-3d-1440.png)
 
 The 01:48 full rerun used final avatar GLB SHA256 `e2f130df044e950b0459e05e8467aaa3604a42bc6d4923bf53d6fa0aa3118be5` and the final 40-page PDF. All 14 checks passed again, including actual model loading, first-frame display, failure fallback and manual still view. Likeness remains a separate user review.
+
+## Final deployment URL correction
+
+Sites assigned `https://sun-yingjie-portfolio.ajhhq.chatgpt.site` at deployment. The share metadata and PDF/DOCX hyperlinks were changed to that address. The final checkout was installed and built again; all three runtime bundles are byte-identical to the browser-tested versions. All 164 selected media assets match the final source files. PDF pages were re-rendered and compared pixel-for-pixel after updating only link destinations; see `final-url-verification.json`. The earlier download sizes in the functional-run table describe that run; final portfolio size is 16,945,554 bytes and résumé size is 302,562 bytes. Final online transport checks are recorded in `remote-delivery-verification.json`.

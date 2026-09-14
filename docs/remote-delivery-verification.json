@@ -1,0 +1,95 @@
+{
+  "verifiedAt": "2026-09-14T18:18:45.986Z",
+  "url": "https://sun-yingjie-portfolio.ajhhq.chatgpt.site",
+  "accessMode": "owner-only",
+  "siteVersion": 2,
+  "siteCommit": "58c52886ba302a79aca884aa5f250a03a3083384",
+  "checks": [
+    {
+      "path": "/models/avatar.glb",
+      "status": 200,
+      "code": 0,
+      "bytes": 6803224,
+      "sha256": "e2f130df044e950b0459e05e8467aaa3604a42bc6d4923bf53d6fa0aa3118be5",
+      "matchesLocal": true,
+      "error": ""
+    },
+    {
+      "path": "/downloads/sun-yingjie-selected-portfolio.pdf",
+      "status": 200,
+      "code": 0,
+      "bytes": 16945554,
+      "sha256": "8eea4aaad110aba12b88d87deb8ac82d4e0db3aac4124d0865bedea097ad7428",
+      "matchesLocal": true,
+      "error": ""
+    },
+    {
+      "path": "/downloads/sun-yingjie-resume.pdf",
+      "status": 200,
+      "code": 0,
+      "bytes": 302562,
+      "sha256": "24a0493a665b6909e3cc67eeb37f0bc20f940ccf38ecb14537c30803c215d15b",
+      "matchesLocal": true,
+      "error": ""
+    },
+    {
+      "path": "/avatar/portrait.webp",
+      "status": 200,
+      "code": 0,
+      "bytes": 151208,
+      "sha256": "b76f10e66356688869489f3c784492d9d4c1c92889e8095c9f7c1c7d5dc5e63b",
+      "matchesLocal": true,
+      "error": ""
+    },
+    {
+      "path": "/assets/index-CP_pINMR.js",
+      "status": 200,
+      "code": 0,
+      "bytes": 646531,
+      "sha256": "409864b467acd900571e275067c588857d99de4e82a523c705c11dff03288bb3",
+      "matchesLocal": true,
+      "error": ""
+    },
+    {
+      "path": "/assets/index-K-08r9Oa.css",
+      "status": 200,
+      "code": 0,
+      "bytes": 21623,
+      "sha256": "282e29155e0fb11f4161a49de644bf64aaa364a253151766bcb32a69e9599cf0",
+      "matchesLocal": true,
+      "error": ""
+    },
+    {
+      "path": "/assets/PortraitScene-Cx9dcKFz.js",
+      "status": 200,
+      "code": 0,
+      "bytes": 891268,
+      "sha256": "ca5b685e90db768c1b7406b97d66d13bd50a7e5a49f524d8269952114e7dcc81",
+      "matchesLocal": true,
+      "error": ""
+    },
+    {
+      "path": "/media-index.json",
+      "status": 200,
+      "code": 0,
+      "bytes": 11288,
+      "sha256": "237c9187249366e85e7c3f95d30150970d14284c5eeeff49703aa555a958e7f0",
+      "matchesLocal": true,
+      "error": ""
+    },
+    {
+      "path": "/",
+      "status": 200,
+      "code": 0,
+      "bytes": 2744,
+      "sha256": "8762b89303f1e27b1227a09267ad0c88e8ee9f5e9f61f90b6779f2d07e4e1dc4",
+      "matchesLocal": true,
+      "error": ""
+    }
+  ],
+  "anonymousRequest": {
+    "status": 401,
+    "code": 0
+  },
+  "allAuthorizedChecksPassed": true
+}

@@ -1028,7 +1028,7 @@
   ],
   "publication": {
     "meaning": "Final local build snapshot: explicitly selected local assets. Remote deployment results are recorded by the main task delivery record.",
-    "remoteDeploymentVerified": false,
+    "remoteDeploymentVerified": true,
     "mediaIndex": {
       "path": "web/dist/media-index.json",
       "exists": true,
@@ -5184,7 +5184,11 @@
       "modelPublicPath": "/models/avatar.glb",
       "historicalWorkSource": false,
       "note": "The GLB is a current production asset. This coverage report verifies file identity between public and dist; it does not certify anatomical accuracy or likeness."
-    }
+    },
+    "remoteVerificationReport": "docs/remote-delivery-verification.json",
+    "remoteVerificationScope": "Successful private deployment; authenticated HTTP 200 and byte comparison for both downloads, GLB, portrait, three runtime bundles and media index; homepage metadata checked. Other media verified against the packaged source locally.",
+    "siteUrl": "https://sun-yingjie-portfolio.ajhhq.chatgpt.site",
+    "accessMode": "owner-only"
   },
   "presentations": [
     {
