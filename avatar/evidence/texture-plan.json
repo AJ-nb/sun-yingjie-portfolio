@@ -1,0 +1,224 @@
+{
+  "schema_version": 2,
+  "request": "Project user-provided multiview references onto real avatar meshes using explicit face-corner UV coordinates and image texture sampling",
+  "catalog_sha256": "53e68a65c0b4cd4d4dddacdf396ed83cd84a752da3340ca522fd8cacfc34fb09",
+  "selected_features": [
+    "image-texture-sampling",
+    "uv-explicit-coordinates"
+  ],
+  "seed_refs": [
+    "bpy.types.BlendDataImages.html",
+    "bpy.types.Float2AttributeValue.html",
+    "bpy.types.Mesh.html",
+    "bpy.types.MeshUVLoopLayer.html#bpy.types.MeshUVLoopLayer.uv",
+    "bpy.types.NodeLinks.html",
+    "bpy.types.ShaderNodeTexImage.html",
+    "bpy.types.UVLoopLayers.html#bpy.types.UVLoopLayers.new"
+  ],
+  "reads": [
+    {
+      "ref": "bpy.types.MeshUVLoopLayer.html",
+      "source_text_sha256": "35ed77828f5d9f33746d8c54ea02379919409fc710dad82a810a89bf50915794",
+      "ranges": [
+        [
+          1,
+          100
+        ]
+      ],
+      "total_lines": 229,
+      "links": [
+        "bpy.types.BoolAttribute.html",
+        "bpy.types.BoolAttributeValue.html",
+        "bpy.types.Float2AttributeValue.html",
+        "bpy.types.Mesh.html",
+        "bpy.types.MeshUVLoop.html",
+        "bpy.types.Struct.html",
+        "bpy.types.UVLoopLayers.html",
+        "bpy.types.bpy_prop_collection.html",
+        "bpy.types.bpy_struct.html"
+      ],
+      "complete": false
+    },
+    {
+      "ref": "bpy.types.UVLoopLayers.html",
+      "source_text_sha256": "63a5b20543238d7323fc5862183c87733463d01307f897c193513cb3453f264e",
+      "ranges": [
+        [
+          1,
+          100
+        ]
+      ],
+      "total_lines": 204,
+      "links": [
+        "bpy.types.Mesh.html",
+        "bpy.types.MeshUVLoopLayer.html",
+        "bpy.types.Struct.html",
+        "bpy.types.bpy_prop_collection.html",
+        "bpy.types.bpy_struct.html"
+      ],
+      "complete": false
+    },
+    {
+      "ref": "bpy.types.Float2AttributeValue.html",
+      "source_text_sha256": "9529f0aeaae5c0f564b1c88a60b9a9f53d7e681ea5ba77edf8b3e64054e544da",
+      "ranges": [
+        [
+          1,
+          100
+        ]
+      ],
+      "total_lines": 156,
+      "links": [
+        "bpy.types.Float2Attribute.html",
+        "bpy.types.MeshUVLoopLayer.html",
+        "bpy.types.Struct.html",
+        "bpy.types.bpy_struct.html",
+        "mathutils.html"
+      ],
+      "complete": false
+    },
+    {
+      "ref": "bpy.types.ShaderNodeTexImage.html",
+      "source_text_sha256": "00c62f77bccae5e1d798013a83237fc6f876556a49975248a68b5de3040d6d76",
+      "ranges": [
+        [
+          1,
+          100
+        ]
+      ],
+      "total_lines": 463,
+      "links": [
+        "bpy.types.ColorMapping.html",
+        "bpy.types.Image.html",
+        "bpy.types.ImageUser.html",
+        "bpy.types.Node.html",
+        "bpy.types.NodeInternal.html",
+        "bpy.types.NodeInternalSocketTemplate.html",
+        "bpy.types.ShaderNode.html",
+        "bpy.types.Struct.html",
+        "bpy.types.TexMapping.html",
+        "bpy.types.bpy_struct.html"
+      ],
+      "complete": false
+    },
+    {
+      "ref": "bpy.types.BlendDataImages.html",
+      "source_text_sha256": "68381089a4ad35a98443dfb1a9a12e2fb6c20935d8a3b969314960527b9a198e",
+      "ranges": [
+        [
+          1,
+          100
+        ]
+      ],
+      "total_lines": 228,
+      "links": [
+        "bpy.types.BlendData.html",
+        "bpy.types.Image.html",
+        "bpy.types.Struct.html",
+        "bpy.types.bpy_prop_collection.html",
+        "bpy.types.bpy_struct.html"
+      ],
+      "complete": false
+    },
+    {
+      "ref": "bpy.types.Mesh.html",
+      "source_text_sha256": "3f91898610df0eabea65a09e42eeb3d09898c22a44a52f537b438cd292c995eb",
+      "ranges": [
+        [
+          1,
+          100
+        ]
+      ],
+      "total_lines": 994,
+      "links": [
+        "bmesh.html",
+        "bpy.types.AnimData.html",
+        "bpy.types.Attribute.html",
+        "bpy.types.AttributeGroupMesh.html",
+        "bpy.types.BlendData.html",
+        "bpy.types.BlendDataMeshes.html",
+        "bpy.types.FloatAttribute.html",
+        "bpy.types.ID.html",
+        "bpy.types.IDMaterials.html",
+        "bpy.types.Key.html",
+        "bpy.types.LoopColors.html",
+        "bpy.types.Material.html",
+        "bpy.types.Mesh.html",
+        "bpy.types.MeshEdge.html",
+        "bpy.types.MeshEdges.html",
+        "bpy.types.MeshLoop.html",
+        "bpy.types.MeshLoopColorLayer.html",
+        "bpy.types.MeshLoopTriangle.html",
+        "bpy.types.MeshLoopTriangles.html",
+        "bpy.types.MeshLoops.html",
+        "bpy.types.MeshNormalValue.html",
+        "bpy.types.MeshPolygon.html",
+        "bpy.types.MeshPolygons.html",
+        "bpy.types.MeshSkinVertexLayer.html",
+        "bpy.types.MeshUVLoopLayer.html",
+        "bpy.types.MeshVertex.html",
+        "bpy.types.MeshVertices.html",
+        "bpy.types.Object.html",
+        "bpy.types.ReadOnlyInteger.html",
+        "bpy.types.Struct.html",
+        "bpy.types.UVLoopLayers.html",
+        "bpy.types.bpy_prop_array.html",
+        "bpy.types.bpy_prop_collection.html",
+        "bpy.types.bpy_struct.html",
+        "info_gotchas_meshes.html",
+        "mathutils.html"
+      ],
+      "complete": false
+    },
+    {
+      "ref": "bpy.types.Mesh.html#bpy.types.Mesh.uv_layers",
+      "source_text_sha256": "7d8a388c0329638497ac7c61c2c7bba03d18d3cb6852a64480ea797516a9dd49",
+      "ranges": [
+        [
+          1,
+          8
+        ]
+      ],
+      "total_lines": 8,
+      "links": [
+        "bpy.types.MeshUVLoopLayer.html",
+        "bpy.types.UVLoopLayers.html"
+      ],
+      "complete": true
+    },
+    {
+      "ref": "bpy.types.Mesh.html#bpy.types.Mesh.loops",
+      "source_text_sha256": "d1f9fdd0f8a0dec733f62ea42d97c63211aea5b0e5505c0c438ed6704f7bea88",
+      "ranges": [
+        [
+          1,
+          8
+        ]
+      ],
+      "total_lines": 8,
+      "links": [
+        "bpy.types.MeshLoop.html",
+        "bpy.types.MeshLoops.html"
+      ],
+      "complete": true
+    },
+    {
+      "ref": "bpy.types.MeshLoop.html#bpy.types.MeshLoop.vertex_index",
+      "source_text_sha256": "f9893a3eb192e217181e19fe1aa68d80ee4b4cd57380e711fb3923c470b80c2d",
+      "ranges": [
+        [
+          1,
+          8
+        ]
+      ],
+      "total_lines": 8,
+      "links": [],
+      "complete": true
+    }
+  ],
+  "script_sha256": null,
+  "bindings": [],
+  "unresolved": [],
+  "evidence_policy": "Blender facts must come from bundled source or recorded runtime inspection. Pretrained Blender knowledge is not admissible.",
+  "review_note": "Select source refs and read them with docs.py --plan before implementing. Each Blender-specific statement must have a supporting source; source IDs alone do not prove semantic support."
+}

@@ -1,0 +1,74 @@
+Blender argv: ["D:\\blender-5.0.1-windows-x64\\blender.exe", "--background", "--factory-startup", "--disable-autoexec", "--python-exit-code", "1", "--python", "D:\\OneDrive\\桌面\\文件\\项目\\sun-yingjie-portfolio\\scripts\\avatar\\build_avatar.py", "--", "--turntable"]
+D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\scripts\avatar\build_avatar.py:37: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat.use_nodes = True
+Info: Saved as "sun-yingjie-avatar-draft-v2.blend"
+INFO Draco mesh compression is available, use library at D:\blender-5.0.1-windows-x64\5.0\scripts\addons_core\io_scene_gltf2\extern_draco.dll
+01:41:07 | INFO: Starting glTF 2.0 export
+01:41:07 | INFO: Extracting primitive: Batch | surface 00
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: Batch | surface 01
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: Batch | surface 02
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: Batch | surface 03
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: Batch | surface 04
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: Batch | surface 05
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: Batch | surface 06
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: Batch | surface 07
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: Batch | surface 08
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: Batch | surface 09
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: Batch | surface 10
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: Batch | surface 11
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: Batch | surface 12
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: Batch | surface 13
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: Batch | surface 14
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: eye_left | curved sclera
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: eye iris -1
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: eye iris inner -1
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: eye pupil -1
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: eye_right | curved sclera
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: eye iris 1
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: eye iris inner 1
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Extracting primitive: eye pupil 1
+01:41:07 | INFO: Primitives created: 1
+01:41:07 | INFO: Finished glTF 2.0 export in 0.6017062664031982 s
+00:11.203  render           | Saved: 'D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\web\public\images\avatar\front.png'
+00:11.875  render           | Saved: 'D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\web\public\images\avatar\three-quarter.png'
+00:12.484  render           | Saved: 'D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\web\public\images\avatar\side.png'
+00:13.140  render           | Saved: 'D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\web\public\images\avatar\back.png'
+00:13.797  render           | Saved: 'D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\web\public\images\avatar\turntable-00.png'
+00:14.406  render           | Saved: 'D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\web\public\images\avatar\turntable-01.png'
+00:14.968  render           | Saved: 'D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\web\public\images\avatar\turntable-02.png'
+00:15.515  render           | Saved: 'D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\web\public\images\avatar\turntable-03.png'
+00:16.062  render           | Saved: 'D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\web\public\images\avatar\turntable-04.png'
+00:16.609  render           | Saved: 'D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\web\public\images\avatar\turntable-05.png'
+00:17.187  render           | Saved: 'D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\web\public\images\avatar\turntable-06.png'
+00:17.765  render           | Saved: 'D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\web\public\images\avatar\turntable-07.png'
+00:18.328  render           | Saved: 'D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\web\public\images\avatar\turntable-08.png'
+00:18.859  render           | Saved: 'D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\web\public\images\avatar\turntable-09.png'
+00:19.453  render           | Saved: 'D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\web\public\images\avatar\turntable-10.png'
+00:20.062  render           | Saved: 'D:\OneDrive\桌面\文件\项目\sun-yingjie-portfolio\web\public\images\avatar\turntable-11.png'
+
+AVATAR_BUILD_REPORT={"draft": true, "source_photo": "作品集/照片1.jpg", "geometry_source": "original parameterized surface meshes; no third-party personal assets", "authored_mesh_count": 562, "authored_vertex_count": 123314, "glb_bytes": 6803224, "views": ["front", "three-quarter", "side", "back", "turntable-00", "turntable-01", "turntable-02", "turntable-03", "turntable-04", "turntable-05", "turntable-06", "turntable-07", "turntable-08", "turntable-09", "turntable-10", "turntable-11"], "animation": "CameraAction", "frames": [1, 240], "fps": 30}
+Blender 5.0.1 (hash a3db93c5b259 built 2025-12-16 01:32:30)
+
+Blender quit

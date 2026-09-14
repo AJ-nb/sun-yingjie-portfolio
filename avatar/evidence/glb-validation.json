@@ -1,0 +1,45 @@
+{
+  "passed": true,
+  "file_bytes": 6803224,
+  "file_mib": 6.488,
+  "mesh_count": 23,
+  "material_count": 19,
+  "node_count": 30,
+  "exported_vertex_count": 123504,
+  "triangle_count": 241898,
+  "embedded_reference_textures": 4,
+  "textured_primitives": 15,
+  "independent_eye_nodes": [
+    "eye iris -1",
+    "eye iris inner -1",
+    "eye pupil -1",
+    "eye_left | curved sclera",
+    "eye iris 1",
+    "eye iris inner 1",
+    "eye pupil 1",
+    "eye_right | curved sclera"
+  ],
+  "animations": [
+    {
+      "name": "CameraAction",
+      "duration_seconds": 8.0,
+      "channel_count": 2
+    }
+  ],
+  "max_mesh_axis_spans": [
+    1.8222792148590088,
+    1.7699999809265137,
+    0.9958614110946655
+  ],
+  "checks": [
+    "GLB header and binary bounds",
+    "Finite mesh and UV coordinates",
+    "Triangle indices in range",
+    "Non-flat three-axis geometry",
+    "Independent eyes",
+    "Semantic anchors",
+    "Animation times and outputs",
+    "Embedded source-derived surface textures",
+    "Below 8 MiB"
+  ]
+}

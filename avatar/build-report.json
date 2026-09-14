@@ -1,0 +1,2844 @@
+{
+  "draft": true,
+  "source_photo": "作品集/照片1.jpg",
+  "geometry_source": "original parameterized surface meshes; no third-party personal assets",
+  "authored_mesh_count": 562,
+  "authored_vertex_count": 123314,
+  "mesh_records": [
+    {
+      "name": "Face | continuous head jaw and neck surface",
+      "vertices": 18560,
+      "faces": 18432
+    },
+    {
+      "name": "Ear | posterior volume -1",
+      "vertices": 830,
+      "faces": 864
+    },
+    {
+      "name": "Left ear | cartilage shell",
+      "vertices": 884,
+      "faces": 832
+    },
+    {
+      "name": "Ear | inner antihelix -1",
+      "vertices": 280,
+      "faces": 274
+    },
+    {
+      "name": "Ear | tragus -1",
+      "vertices": 314,
+      "faces": 336
+    },
+    {
+      "name": "Ear | posterior volume 1",
+      "vertices": 830,
+      "faces": 864
+    },
+    {
+      "name": "Right ear | cartilage shell",
+      "vertices": 884,
+      "faces": 832
+    },
+    {
+      "name": "Ear | inner antihelix 1",
+      "vertices": 280,
+      "faces": 274
+    },
+    {
+      "name": "Ear | tragus 1",
+      "vertices": 314,
+      "faces": 336
+    },
+    {
+      "name": "eye_left | curved sclera",
+      "vertices": 1113,
+      "faces": 1040
+    },
+    {
+      "name": "eye iris -1",
+      "vertices": 731,
+      "faces": 672
+    },
+    {
+      "name": "eye iris inner -1",
+      "vertices": 731,
+      "faces": 672
+    },
+    {
+      "name": "eye pupil -1",
+      "vertices": 731,
+      "faces": 672
+    },
+    {
+      "name": "Eyelid | blended lid plane -1 True",
+      "vertices": 441,
+      "faces": 384
+    },
+    {
+      "name": "Eyelid -1 True",
+      "vertices": 343,
+      "faces": 338
+    },
+    {
+      "name": "Eyelid | blended lid plane -1 False",
+      "vertices": 441,
+      "faces": 384
+    },
+    {
+      "name": "Eyelid -1 False",
+      "vertices": 343,
+      "faces": 338
+    },
+    {
+      "name": "Upper lash root -1",
+      "vertices": 252,
+      "faces": 248
+    },
+    {
+      "name": "Upper eyelid fold -1",
+      "vertices": 192,
+      "faces": 188
+    },
+    {
+      "name": "eye_right | curved sclera",
+      "vertices": 1113,
+      "faces": 1040
+    },
+    {
+      "name": "eye iris 1",
+      "vertices": 731,
+      "faces": 672
+    },
+    {
+      "name": "eye iris inner 1",
+      "vertices": 731,
+      "faces": 672
+    },
+    {
+      "name": "eye pupil 1",
+      "vertices": 731,
+      "faces": 672
+    },
+    {
+      "name": "Eyelid | blended lid plane 1 True",
+      "vertices": 441,
+      "faces": 384
+    },
+    {
+      "name": "Eyelid 1 True",
+      "vertices": 343,
+      "faces": 338
+    },
+    {
+      "name": "Eyelid | blended lid plane 1 False",
+      "vertices": 441,
+      "faces": 384
+    },
+    {
+      "name": "Eyelid 1 False",
+      "vertices": 343,
+      "faces": 338
+    },
+    {
+      "name": "Upper lash root 1",
+      "vertices": 252,
+      "faces": 248
+    },
+    {
+      "name": "Upper eyelid fold 1",
+      "vertices": 192,
+      "faces": 188
+    },
+    {
+      "name": "Quarter zip | shaped torso knit",
+      "vertices": 4320,
+      "faces": 4224
+    },
+    {
+      "name": "Sleeve | flat seam -1",
+      "vertices": 252,
+      "faces": 248
+    },
+    {
+      "name": "Sleeve | flat seam 1",
+      "vertices": 252,
+      "faces": 248
+    },
+    {
+      "name": "Quarter zip | broad folded knit collar",
+      "vertices": 2525,
+      "faces": 2400
+    },
+    {
+      "name": "inner collar",
+      "vertices": 637,
+      "faces": 632
+    },
+    {
+      "name": "outer collar piping",
+      "vertices": 637,
+      "faces": 632
+    },
+    {
+      "name": "collar finished front edge 0",
+      "vertices": 147,
+      "faces": 142
+    },
+    {
+      "name": "collar finished front edge 1",
+      "vertices": 147,
+      "faces": 142
+    },
+    {
+      "name": "Knit | folded collar rib 01",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 02",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 03",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 04",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 05",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 06",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 07",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 08",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 09",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 10",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 11",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 12",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 13",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 14",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 15",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 16",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 17",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 18",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 19",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 20",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 21",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 22",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 23",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 24",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 25",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 26",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 27",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 28",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 29",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 30",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 31",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 32",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 33",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 34",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 35",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 36",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 37",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 38",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 39",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 40",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 41",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 42",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 43",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 44",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 45",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 46",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 47",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 48",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 49",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 50",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 51",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 52",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 53",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 54",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 55",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 56",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 57",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 58",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 59",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 60",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 61",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 62",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 63",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 64",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 65",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 66",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 67",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 68",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 69",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 70",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 71",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 72",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 73",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 74",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 75",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 76",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 77",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 78",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 79",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Knit | folded collar rib 80",
+      "vertices": 100,
+      "faces": 98
+    },
+    {
+      "name": "Zip | recessed tape",
+      "vertices": 392,
+      "faces": 386
+    },
+    {
+      "name": "Zip | chain -1",
+      "vertices": 312,
+      "faces": 308
+    },
+    {
+      "name": "Zip | chain 1",
+      "vertices": 312,
+      "faces": 308
+    },
+    {
+      "name": "Zip tooth 00",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 01",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 02",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 03",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 04",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 05",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 06",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 07",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 08",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 09",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 10",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 11",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 12",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 13",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 14",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 15",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 16",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 17",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 18",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 19",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 20",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 21",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 22",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 23",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 24",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 25",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 26",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 27",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 28",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 29",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 30",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 31",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 32",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 33",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 34",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 35",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 36",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 37",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 38",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 39",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 40",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 41",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 42",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 43",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 44",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 45",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 46",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip tooth 47",
+      "vertices": 10,
+      "faces": 7
+    },
+    {
+      "name": "Zip | pull tab",
+      "vertices": 16,
+      "faces": 10
+    },
+    {
+      "name": "Knit | linked stitch column -45",
+      "vertices": 284,
+      "faces": 282
+    },
+    {
+      "name": "Knit | linked stitch column -44",
+      "vertices": 308,
+      "faces": 306
+    },
+    {
+      "name": "Knit | linked stitch column -43",
+      "vertices": 328,
+      "faces": 326
+    },
+    {
+      "name": "Knit | linked stitch column -42",
+      "vertices": 344,
+      "faces": 342
+    },
+    {
+      "name": "Knit | linked stitch column -41",
+      "vertices": 352,
+      "faces": 350
+    },
+    {
+      "name": "Knit | linked stitch column -40",
+      "vertices": 360,
+      "faces": 358
+    },
+    {
+      "name": "Knit | linked stitch column -39",
+      "vertices": 368,
+      "faces": 366
+    },
+    {
+      "name": "Knit | linked stitch column -38",
+      "vertices": 372,
+      "faces": 370
+    },
+    {
+      "name": "Knit | linked stitch column -37",
+      "vertices": 376,
+      "faces": 374
+    },
+    {
+      "name": "Knit | linked stitch column -36",
+      "vertices": 384,
+      "faces": 382
+    },
+    {
+      "name": "Knit | linked stitch column -35",
+      "vertices": 388,
+      "faces": 386
+    },
+    {
+      "name": "Knit | linked stitch column -34",
+      "vertices": 392,
+      "faces": 390
+    },
+    {
+      "name": "Knit | linked stitch column -33",
+      "vertices": 400,
+      "faces": 398
+    },
+    {
+      "name": "Knit | linked stitch column -32",
+      "vertices": 400,
+      "faces": 398
+    },
+    {
+      "name": "Knit | linked stitch column -31",
+      "vertices": 408,
+      "faces": 406
+    },
+    {
+      "name": "Knit | linked stitch column -30",
+      "vertices": 408,
+      "faces": 406
+    },
+    {
+      "name": "Knit | linked stitch column -29",
+      "vertices": 416,
+      "faces": 414
+    },
+    {
+      "name": "Knit | linked stitch column -28",
+      "vertices": 416,
+      "faces": 414
+    },
+    {
+      "name": "Knit | linked stitch column -27",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -26",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -25",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -24",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -23",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -22",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -21",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -20",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -19",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -18",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -17",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -16",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -15",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -14",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -13",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -12",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -11",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -10",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -9",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -8",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -7",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -6",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -5",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -4",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -3",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -2",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column -1",
+      "vertices": 144,
+      "faces": 142
+    },
+    {
+      "name": "Knit | linked stitch column 00",
+      "vertices": 144,
+      "faces": 142
+    },
+    {
+      "name": "Knit | linked stitch column 01",
+      "vertices": 144,
+      "faces": 142
+    },
+    {
+      "name": "Knit | linked stitch column 02",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 03",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 04",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 05",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 06",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 07",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 08",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 09",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 10",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 11",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 12",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 13",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 14",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 15",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 16",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 17",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 18",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 19",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 20",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 21",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 22",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 23",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 24",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 25",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 26",
+      "vertices": 424,
+      "faces": 422
+    },
+    {
+      "name": "Knit | linked stitch column 27",
+      "vertices": 420,
+      "faces": 418
+    },
+    {
+      "name": "Knit | linked stitch column 28",
+      "vertices": 420,
+      "faces": 418
+    },
+    {
+      "name": "Knit | linked stitch column 29",
+      "vertices": 412,
+      "faces": 410
+    },
+    {
+      "name": "Knit | linked stitch column 30",
+      "vertices": 412,
+      "faces": 410
+    },
+    {
+      "name": "Knit | linked stitch column 31",
+      "vertices": 404,
+      "faces": 402
+    },
+    {
+      "name": "Knit | linked stitch column 32",
+      "vertices": 404,
+      "faces": 402
+    },
+    {
+      "name": "Knit | linked stitch column 33",
+      "vertices": 396,
+      "faces": 394
+    },
+    {
+      "name": "Knit | linked stitch column 34",
+      "vertices": 392,
+      "faces": 390
+    },
+    {
+      "name": "Knit | linked stitch column 35",
+      "vertices": 388,
+      "faces": 386
+    },
+    {
+      "name": "Knit | linked stitch column 36",
+      "vertices": 384,
+      "faces": 382
+    },
+    {
+      "name": "Knit | linked stitch column 37",
+      "vertices": 380,
+      "faces": 378
+    },
+    {
+      "name": "Knit | linked stitch column 38",
+      "vertices": 372,
+      "faces": 370
+    },
+    {
+      "name": "Knit | linked stitch column 39",
+      "vertices": 364,
+      "faces": 362
+    },
+    {
+      "name": "Knit | linked stitch column 40",
+      "vertices": 360,
+      "faces": 358
+    },
+    {
+      "name": "Knit | linked stitch column 41",
+      "vertices": 348,
+      "faces": 346
+    },
+    {
+      "name": "Knit | linked stitch column 42",
+      "vertices": 340,
+      "faces": 338
+    },
+    {
+      "name": "Knit | linked stitch column 43",
+      "vertices": 324,
+      "faces": 322
+    },
+    {
+      "name": "Knit | linked stitch column 44",
+      "vertices": 308,
+      "faces": 306
+    },
+    {
+      "name": "Knit | linked stitch column 45",
+      "vertices": 280,
+      "faces": 278
+    },
+    {
+      "name": "Hair | full sculpted undercut cap",
+      "vertices": 3744,
+      "faces": 3648
+    },
+    {
+      "name": "Hair | varied crown layer 00",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 01",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 02",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 03",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 04",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 05",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 06",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 07",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 08",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 09",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 10",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 11",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 12",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 13",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 14",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 15",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 16",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | varied crown layer 17",
+      "vertices": 207,
+      "faces": 200
+    },
+    {
+      "name": "Hair | overlapping fine strand 000",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 001",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 002",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 003",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 004",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 005",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 006",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 007",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 008",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 009",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 010",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 011",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 012",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 013",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 014",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 015",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 016",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 017",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 018",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 019",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 020",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 021",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 022",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 023",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 024",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 025",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 026",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 027",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 028",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 029",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 030",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 031",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 032",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 033",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 034",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 035",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 036",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 037",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 038",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 039",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 040",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 041",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 042",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 043",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 044",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 045",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 046",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 047",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 048",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 049",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 050",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 051",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 052",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 053",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 054",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 055",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 056",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 057",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 058",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 059",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 060",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 061",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 062",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 063",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 064",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 065",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 066",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 067",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 068",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 069",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 070",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 071",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 072",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 073",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 074",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 075",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 076",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 077",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 078",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 079",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 080",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 081",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 082",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 083",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 084",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 085",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 086",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 087",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 088",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 089",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 090",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 091",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 092",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 093",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 094",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 095",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 096",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 097",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 098",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 099",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 100",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 101",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 102",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 103",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 104",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 105",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 106",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 107",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 108",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 109",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 110",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 111",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 112",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 113",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 114",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 115",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 116",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 117",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 118",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 119",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 120",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 121",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 122",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 123",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 124",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 125",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 126",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 127",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 128",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 129",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 130",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 131",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 132",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 133",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 134",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 135",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 136",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 137",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 138",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 139",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 140",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 141",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 142",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 143",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 144",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 145",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 146",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 147",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 148",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 149",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 150",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 151",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 152",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 153",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 154",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 155",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 156",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 157",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 158",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 159",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 160",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 161",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 162",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 163",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 164",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 165",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 166",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 167",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 168",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 169",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 170",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 171",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 172",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 173",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 174",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 175",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 176",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 177",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 178",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | overlapping fine strand 179",
+      "vertices": 60,
+      "faces": 58
+    },
+    {
+      "name": "Hair | irregular fringe layer 00",
+      "vertices": 350,
+      "faces": 342
+    },
+    {
+      "name": "Hair | restrained fringe strand 00",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 00 00",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 00 01",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 00 02",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 00 03",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 00 04",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 00 05",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 00 06",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | irregular fringe layer 01",
+      "vertices": 350,
+      "faces": 342
+    },
+    {
+      "name": "Hair | layered fringe fiber 01 00",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 01 01",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 01 02",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 01 03",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 01 04",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 01 05",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 01 06",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | irregular fringe layer 02",
+      "vertices": 350,
+      "faces": 342
+    },
+    {
+      "name": "Hair | restrained fringe strand 02",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 02 00",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 02 01",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 02 02",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 02 03",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 02 04",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 02 05",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 02 06",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | irregular fringe layer 03",
+      "vertices": 350,
+      "faces": 342
+    },
+    {
+      "name": "Hair | layered fringe fiber 03 00",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 03 01",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 03 02",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 03 03",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 03 04",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 03 05",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 03 06",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | irregular fringe layer 04",
+      "vertices": 350,
+      "faces": 342
+    },
+    {
+      "name": "Hair | restrained fringe strand 04",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 04 00",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 04 01",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 04 02",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 04 03",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 04 04",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 04 05",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 04 06",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | irregular fringe layer 05",
+      "vertices": 350,
+      "faces": 342
+    },
+    {
+      "name": "Hair | layered fringe fiber 05 00",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 05 01",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 05 02",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 05 03",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 05 04",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 05 05",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 05 06",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | irregular fringe layer 06",
+      "vertices": 350,
+      "faces": 342
+    },
+    {
+      "name": "Hair | restrained fringe strand 06",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 06 00",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 06 01",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 06 02",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 06 03",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 06 04",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 06 05",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 06 06",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | irregular fringe layer 07",
+      "vertices": 350,
+      "faces": 342
+    },
+    {
+      "name": "Hair | layered fringe fiber 07 00",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 07 01",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 07 02",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 07 03",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 07 04",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 07 05",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 07 06",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | irregular fringe layer 08",
+      "vertices": 350,
+      "faces": 342
+    },
+    {
+      "name": "Hair | restrained fringe strand 08",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 08 00",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 08 01",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 08 02",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 08 03",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 08 04",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 08 05",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 08 06",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | irregular fringe layer 09",
+      "vertices": 350,
+      "faces": 342
+    },
+    {
+      "name": "Hair | layered fringe fiber 09 00",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 09 01",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 09 02",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 09 03",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 09 04",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 09 05",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 09 06",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | irregular fringe layer 10",
+      "vertices": 350,
+      "faces": 342
+    },
+    {
+      "name": "Hair | restrained fringe strand 10",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 10 00",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 10 01",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 10 02",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 10 03",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 10 04",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 10 05",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 10 06",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | irregular fringe layer 11",
+      "vertices": 350,
+      "faces": 342
+    },
+    {
+      "name": "Hair | layered fringe fiber 11 00",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 11 01",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 11 02",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 11 03",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 11 04",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 11 05",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | layered fringe fiber 11 06",
+      "vertices": 140,
+      "faces": 138
+    },
+    {
+      "name": "Hair | loose silhouette strand 03",
+      "vertices": 135,
+      "faces": 132
+    }
+  ],
+  "glb_bytes": 6803224,
+  "views": [
+    "front",
+    "three-quarter",
+    "side",
+    "back",
+    "turntable-00",
+    "turntable-01",
+    "turntable-02",
+    "turntable-03",
+    "turntable-04",
+    "turntable-05",
+    "turntable-06",
+    "turntable-07",
+    "turntable-08",
+    "turntable-09",
+    "turntable-10",
+    "turntable-11"
+  ],
+  "animation": "CameraAction",
+  "frames": [
+    1,
+    240
+  ],
+  "fps": 30
+}

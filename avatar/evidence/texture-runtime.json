@@ -1,0 +1,170 @@
+[
+  {
+    "texture_inputs": [
+      "Vector"
+    ],
+    "texture_outputs": [
+      "Color",
+      "Alpha"
+    ],
+    "uv_outputs": [
+      "UV"
+    ]
+  },
+  {
+    "texture_inputs": [
+      "Vector"
+    ],
+    "texture_outputs": [
+      "Color",
+      "Alpha"
+    ],
+    "uv_outputs": [
+      "UV"
+    ]
+  },
+  {
+    "texture_inputs": [
+      "Vector"
+    ],
+    "texture_outputs": [
+      "Color",
+      "Alpha"
+    ],
+    "uv_outputs": [
+      "UV"
+    ]
+  },
+  {
+    "texture_inputs": [
+      "Vector"
+    ],
+    "texture_outputs": [
+      "Color",
+      "Alpha"
+    ],
+    "uv_outputs": [
+      "UV"
+    ]
+  },
+  {
+    "texture_inputs": [
+      "Vector"
+    ],
+    "texture_outputs": [
+      "Color",
+      "Alpha"
+    ],
+    "uv_outputs": [
+      "UV"
+    ]
+  },
+  {
+    "texture_inputs": [
+      "Vector"
+    ],
+    "texture_outputs": [
+      "Color",
+      "Alpha"
+    ],
+    "uv_outputs": [
+      "UV"
+    ]
+  },
+  {
+    "texture_inputs": [
+      "Vector"
+    ],
+    "texture_outputs": [
+      "Color",
+      "Alpha"
+    ],
+    "uv_outputs": [
+      "UV"
+    ]
+  },
+  {
+    "texture_inputs": [
+      "Vector"
+    ],
+    "texture_outputs": [
+      "Color",
+      "Alpha"
+    ],
+    "uv_outputs": [
+      "UV"
+    ]
+  },
+  {
+    "texture_inputs": [
+      "Vector"
+    ],
+    "texture_outputs": [
+      "Color",
+      "Alpha"
+    ],
+    "uv_outputs": [
+      "UV"
+    ]
+  },
+  {
+    "texture_inputs": [
+      "Vector"
+    ],
+    "texture_outputs": [
+      "Color",
+      "Alpha"
+    ],
+    "uv_outputs": [
+      "UV"
+    ]
+  },
+  {
+    "texture_inputs": [
+      "Vector"
+    ],
+    "texture_outputs": [
+      "Color",
+      "Alpha"
+    ],
+    "uv_outputs": [
+      "UV"
+    ]
+  },
+  {
+    "texture_inputs": [
+      "Vector"
+    ],
+    "texture_outputs": [
+      "Color",
+      "Alpha"
+    ],
+    "uv_outputs": [
+      "UV"
+    ]
+  },
+  {
+    "texture_inputs": [
+      "Vector"
+    ],
+    "texture_outputs": [
+      "Color",
+      "Alpha"
+    ],
+    "uv_outputs": [
+      "UV"
+    ]
+  },
+  {
+    "texture_inputs": [
+      "Vector"
+    ],
+    "texture_outputs": [
+      "Color",
+      "Alpha"
+    ],
+    "uv_outputs": [
+      "UV"
+    ]
+  }
+]

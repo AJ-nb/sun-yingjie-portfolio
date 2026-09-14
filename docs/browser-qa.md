@@ -1,14 +1,14 @@
 # Production browser QA
 
-Result: **14/14 functional checks passed** on 2026-09-15 01:30 Asia/Shanghai. No unresolved Critical or Important functional issue was observed in this run.
+Result: **14/14 functional checks passed** on 2026-09-15 01:48 Asia/Shanghai. No unresolved Critical or Important functional issue was observed in this run.
 
 ## Environment and evidence
 
 - Production preview: `http://127.0.0.1:4173/`.
 - Initial verification used agent-browser 0.37.1, isolated session `syj-final-qa`. It confirmed meaningful content, 30 catalog cards, no framework error overlay, and an empty CLI error list. The host browser reported reduced-motion preference enabled. The session was closed afterward.
 - Automated assertions used Playwright Core with Chrome **152.0.7977.83**, a separate temporary profile, explicit reduced/no-preference contexts, and permission for software WebGL. Existing browser sessions were not used.
-- Tested build entry SHA-256: `edbdb3c3d5ccd81f81defb40b105b43858035944f01f45cc86bf17f1ff4e9563`.
-- Build assets: `index-xkSNyte9.js`, `PortraitScene-DmGcnT0n.js`, `index-K-08r9Oa.css`.
+- Tested build entry SHA-256: `6da534625d703526c0c374208db1f3e368ff6668fa3b65e80595ce70f47f6c22`.
+- Build assets: `index-CP_pINMR.js`, `PortraitScene-Cx9dcKFz.js`, `index-K-08r9Oa.css`.
 - Reproducible checks: [browser-qa.mjs](../scripts/qa/browser-qa.mjs). Full measured results: [browser-results.json](../design/qa/browser-results.json).
 
 ## Verified behavior
@@ -24,7 +24,7 @@ Result: **14/14 functional checks passed** on 2026-09-15 01:30 Asia/Shanghai. No
 | Cross-page anchors | Case → about, contact, and top reached their intended targets. The contact check accounts for the document's maximum scroll position. |
 | Lightbox keyboard and focus | ArrowRight wrapped `12 / 12` to `1 / 12`; ArrowLeft restored the previous image. Zoom changed the view, Escape closed it, body scrolling resumed, and keyboard focus returned to the opening image button. |
 | Video | Muted playback advanced beyond 0.25 seconds without media error: **960 × 544**, duration **27.916667 seconds**, readyState 4. |
-| Language and downloads | Chinese/English home and case copy, document language, and language query parameter changed together. Both links triggered browser download events and served HTTP 200 with a PDF signature. Portfolio: **16,944,926 bytes**; résumé: **289,953 bytes**. |
+| Language and downloads | Chinese/English home and case copy, document language, and language query parameter changed together. Both links triggered browser download events and served HTTP 200 with a PDF signature. Portfolio: **16,945,242 bytes**; résumé: **289,953 bytes**. |
 | Responsive width | At 320, 390, and 1440 px, Chinese and English home/index/representative case pages had document and body widths equal to viewport width. Screenshots were inspected for the 320 px Chinese home, 390 px English home and catalog, 320 px English case, and desktop live scene. |
 | Reduced motion | A fresh reduced-motion context made **zero** requests for the dynamic scene/Three bundle or GLB before an explicit click. Clicking loaded one GLB, revealed the live scene, and hid the poster. Switching to still view removed the canvas and restored the poster. |
 | Normal and delayed GLB | Normal preference automatically loaded the live scene. An intentionally held GLB request left the poster visible and canvas transparent until the model's first frame. Releasing it produced a 1440 × 1000 canvas and hid the poster. |
@@ -40,7 +40,7 @@ Two initial test failures were corrected in the test harness: the contact anchor
 
 ## Validation and limits
 
-`npm run build` (including TypeScript) and `npm run lint` passed after these fixes. The build staged 164 selected assets, reported as 53.8 MiB. Vite still reported its existing warning for minified chunks over 500 kB: the main bundle was 602.89 kB and the dynamic scene bundle 891.27 kB. This is a build-size observation, not a measured runtime performance finding.
+`npm run build` (including TypeScript) and `npm run lint` passed after these fixes. The build staged 164 selected assets, reported as 52.8 MiB. Vite still reported its existing warning for minified chunks over 500 kB: the main bundle was 598.15 kB and the dynamic scene bundle 891.27 kB. This is a build-size observation, not a measured runtime performance finding.
 
 This run used desktop Chrome with simulated viewport widths. It did not test physical iOS/Android hardware, Safari/Firefox, screen-reader output, real mobile GPU/battery behavior, network performance, or audio playback. Video was muted. Case images were explicitly decoded to check the files, rather than requiring a visitor to scroll through every lazy image. All Chinese cases were checked; English functionality and representative layouts were checked, not every English translation sentence. PDF download delivery was verified; PDF editorial/layout review belongs to the separate document checks. Avatar likeness was outside this QA. A later replacement GLB needs its own loading/fallback/render verification.
 
@@ -62,3 +62,5 @@ Representative screenshots:
 - [English case, 320 px](../design/qa/case-en-320.png)
 - [Lightbox, 390 px](../design/qa/lightbox-390.png)
 - [Live scene, 1440 px](../design/qa/normal-live-3d-1440.png)
+
+The 01:48 full rerun used final avatar GLB SHA256 `e2f130df044e950b0459e05e8467aaa3604a42bc6d4923bf53d6fa0aa3118be5` and the final 40-page PDF. All 14 checks passed again, including actual model loading, first-frame display, failure fallback and manual still view. Likeness remains a separate user review.

@@ -29,6 +29,7 @@ def values(accessor_index):
         out.append(p)
     return out
 triangle_count=0; vertex_count=0; spans=[]
+textured_primitives=0
 for mesh in doc['meshes']:
     for primitive in mesh['primitives']:
         p=values(primitive['attributes']['POSITION'])
@@ -37,6 +38,17 @@ for mesh in doc['meshes']:
         assert all(0<=i[0]<len(p) for i in indices)
         vertex_count+=len(p); triangle_count+=len(indices)//3
         spans.append([max(t[k] for t in p)-min(t[k] for t in p) for k in range(3)])
+        material=doc['materials'][primitive['material']]
+        if 'baseColorTexture' in material.get('pbrMetallicRoughness',{}):
+            assert 'TEXCOORD_0' in primitive['attributes']
+            coordinates=values(primitive['attributes']['TEXCOORD_0'])
+            assert len(coordinates)==len(p)
+            textured_primitives+=1
+assert textured_primitives>=4
+assert len(doc.get('images',[]))==4
+for embedded_image in doc['images']:
+    assert 'bufferView' in embedded_image and 'uri' not in embedded_image
+    assert embedded_image['mimeType'] in ['image/jpeg','image/png']
 assert max(s[2] for s in spans)>.5, 'Actual front/back depth is required'
 names=[n.get('name','') for n in doc['nodes']]
 for anchor in ['focus-start','focus-1','focus-2','focus-3','focus-works']:
@@ -54,6 +66,6 @@ for animation in doc['animations']:
     animations.append({'name':animation['name'],'duration_seconds':max(ends),'channel_count':len(animation['channels'])})
 assert any(a['name']=='CameraAction' and a['duration_seconds']>7 for a in animations)
 assert len(raw)<8*1024*1024
-report={'passed':True,'file_bytes':len(raw),'file_mib':round(len(raw)/1024/1024,3),'mesh_count':len(doc['meshes']),'material_count':len(doc['materials']),'node_count':len(doc['nodes']),'exported_vertex_count':vertex_count,'triangle_count':triangle_count,'independent_eye_nodes':eye_nodes,'animations':animations,'max_mesh_axis_spans':list(map(max,zip(*spans))),'checks':['GLB header and binary bounds','Finite mesh coordinates','Triangle indices in range','Non-flat three-axis geometry','Independent eyes','Semantic anchors','Animation times and outputs','Below 8 MiB']}
+report={'passed':True,'file_bytes':len(raw),'file_mib':round(len(raw)/1024/1024,3),'mesh_count':len(doc['meshes']),'material_count':len(doc['materials']),'node_count':len(doc['nodes']),'exported_vertex_count':vertex_count,'triangle_count':triangle_count,'embedded_reference_textures':len(doc['images']),'textured_primitives':textured_primitives,'independent_eye_nodes':eye_nodes,'animations':animations,'max_mesh_axis_spans':list(map(max,zip(*spans))),'checks':['GLB header and binary bounds','Finite mesh and UV coordinates','Triangle indices in range','Non-flat three-axis geometry','Independent eyes','Semantic anchors','Animation times and outputs','Embedded source-derived surface textures','Below 8 MiB']}
 (root/'avatar/evidence/glb-validation.json').write_text(json.dumps(report,indent=2),encoding='utf8')
 print(json.dumps(report,indent=2))

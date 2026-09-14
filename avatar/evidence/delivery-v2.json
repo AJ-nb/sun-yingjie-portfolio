@@ -1,0 +1,461 @@
+{
+  "revision": 2,
+  "status": "Stable review snapshot; user likeness confirmation pending",
+  "geometry": "Original continuous head/jaw/neck and substantial torso, separate eye roots, authored hair clumps",
+  "texture_sources": "User-provided generated references; see references/user-generated/manifest.json",
+  "reference_count": 5,
+  "embedded_model_texture_count": 4,
+  "unique_turntable_angles": 12,
+  "video": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1200,
+        "height": 1200,
+        "r_frame_rate": "30/1",
+        "nb_frames": "120"
+      }
+    ],
+    "format": {
+      "duration": "4.000000"
+    }
+  },
+  "files": [
+    {
+      "path": "avatar/sun-yingjie-avatar-draft.blend",
+      "bytes": 1498697,
+      "sha256": "3df8a27db37ccaf767a7259604bb8743e8c0470361f7a1fd4b0b9c76f3aedfe6"
+    },
+    {
+      "path": "avatar/sun-yingjie-avatar-draft-v2.blend",
+      "bytes": 4509456,
+      "sha256": "b01a6c91480d2c94aee555b03f942d0f2bce39ccba4f1956a57787517650766c"
+    },
+    {
+      "path": "web/public/models/avatar.glb",
+      "bytes": 6803224,
+      "sha256": "e2f130df044e950b0459e05e8467aaa3604a42bc6d4923bf53d6fa0aa3118be5"
+    },
+    {
+      "path": "web/public/images/avatar/front.png",
+      "bytes": 1086956,
+      "sha256": "1e20143cb6a6be952b398918f3567f1b73a63979c2b6b6f49b67bf70572d9279",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "mode": "RGBA",
+      "content_bounds": [
+        286,
+        141,
+        914,
+        1134
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/three-quarter.png",
+      "bytes": 1027601,
+      "sha256": "1150c9dbe088007a078fc4d70ccabdd61a2f669336483e5bb35dcad897b436a9",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "mode": "RGBA",
+      "content_bounds": [
+        347,
+        141,
+        880,
+        1135
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/side.png",
+      "bytes": 835809,
+      "sha256": "c21de8725b43c232ee7a2110c3355bfcceec83f7f3db9c8dd01da546d6bae9b8",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "mode": "RGBA",
+      "content_bounds": [
+        423,
+        141,
+        788,
+        1137
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/back.png",
+      "bytes": 1047737,
+      "sha256": "415b410d794b0e0a41fec3adc74067f9d37342d4bf3fae6cde2289b716a5b45c",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "mode": "RGBA",
+      "content_bounds": [
+        286,
+        141,
+        914,
+        1135
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/multi-angle.png",
+      "bytes": 1863513,
+      "sha256": "d57d8da961464cdf3561a57388fb009bb73dc1d03635fba445ea86457e2f55db",
+      "dimensions": [
+        2400,
+        2400
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "web/public/images/avatar/before-after-v2.png",
+      "bytes": 901298,
+      "sha256": "0d3eca344fb70921c9421cd73f4f04b3adcf924949cd3aac7889acc4472e77e0",
+      "dimensions": [
+        2400,
+        1200
+      ],
+      "mode": "RGB"
+    },
+    {
+      "path": "web/public/images/avatar/turntable-00.png",
+      "bytes": 1086956,
+      "sha256": "747d31edeacee9c9e2f192dfbe47be5c85cc6c990010efb0edefc15c93f39c2e",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "mode": "RGBA",
+      "content_bounds": [
+        286,
+        141,
+        914,
+        1134
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/turntable-01.png",
+      "bytes": 1044683,
+      "sha256": "3946c26dd5722d91fed1afbc581526f419ac044386fdeca5deb3506dedb894ae",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "mode": "RGBA",
+      "content_bounds": [
+        333,
+        141,
+        890,
+        1135
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/turntable-02.png",
+      "bytes": 932285,
+      "sha256": "d4e0fd0eead34c38e58f028e77279e5fe7f3fb94992eddc309421326efb4d27a",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "mode": "RGBA",
+      "content_bounds": [
+        422,
+        141,
+        811,
+        1136
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/turntable-03.png",
+      "bytes": 835809,
+      "sha256": "b2139058fd437e660838484a510c8f72c13abd8f102ab63515bfe707f1cdf7d4",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "mode": "RGBA",
+      "content_bounds": [
+        423,
+        141,
+        788,
+        1137
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/turntable-04.png",
+      "bytes": 890934,
+      "sha256": "d334649a7de55acf6cf9508cc4001b2fffd39bf6ccfeedab1f12a0e430e925ee",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "mode": "RGBA",
+      "content_bounds": [
+        420,
+        141,
+        812,
+        1136
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/turntable-05.png",
+      "bytes": 994856,
+      "sha256": "60917b6ec93933c2118bde9f561fa8a71489216f6d27c5d7c32e523215484bc5",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "mode": "RGBA",
+      "content_bounds": [
+        333,
+        141,
+        890,
+        1135
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/turntable-06.png",
+      "bytes": 1047737,
+      "sha256": "7700e3e261f87074b878e9555a8c47625f47a007e07cd870982f1eedcdfe97a0",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "mode": "RGBA",
+      "content_bounds": [
+        286,
+        141,
+        914,
+        1135
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/turntable-07.png",
+      "bytes": 1002020,
+      "sha256": "0a711ea105bc6e17a5e09aed5687c31338f66138c222e45d111bda01025c0175",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "mode": "RGBA",
+      "content_bounds": [
+        310,
+        141,
+        867,
+        1135
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/turntable-08.png",
+      "bytes": 882820,
+      "sha256": "a019be30e9541fe40ed93ab34f52d07840c5299dab6d157b8868a87cccbaac4d",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "mode": "RGBA",
+      "content_bounds": [
+        389,
+        141,
+        778,
+        1136
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/turntable-09.png",
+      "bytes": 814155,
+      "sha256": "95835c4d35eac74a2ca13b1cb4a0ed73c2ae704bf062c3751e3e2e90cf64f59b",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "mode": "RGBA",
+      "content_bounds": [
+        412,
+        141,
+        777,
+        1137
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/turntable-10.png",
+      "bytes": 917044,
+      "sha256": "76ab9ea4f15374632a3ce6cd85591cfe7ed96be802850179bfeb939c8850e4fc",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "mode": "RGBA",
+      "content_bounds": [
+        388,
+        141,
+        780,
+        1136
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/turntable-11.png",
+      "bytes": 1038966,
+      "sha256": "14c821aebf82d9ee1c29d96edd8fbf404c16b75d0e3678a5f3a68f469fe7d4cb",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "mode": "RGBA",
+      "content_bounds": [
+        310,
+        141,
+        867,
+        1135
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/turntable.mp4",
+      "bytes": 764805,
+      "sha256": "c7fa31b1f3a1c51b0fb75d453ca956b76ecc9b1ac71b7d108da393d4edf54223"
+    },
+    {
+      "path": "scripts/avatar/build_avatar.py",
+      "bytes": 30291,
+      "sha256": "4a28398e202ee9b34b452e52d13a5c75a036b34395a5354773cc0e1f95c20124"
+    },
+    {
+      "path": "avatar/README.md",
+      "bytes": 6234,
+      "sha256": "b359ff418eae89fe5708c65162c96292736feb54596c6f4b70af6fb021e2f32d"
+    }
+  ],
+  "glb_validation": {
+    "passed": true,
+    "file_bytes": 6803224,
+    "file_mib": 6.488,
+    "mesh_count": 23,
+    "material_count": 19,
+    "node_count": 30,
+    "exported_vertex_count": 123504,
+    "triangle_count": 241898,
+    "embedded_reference_textures": 4,
+    "textured_primitives": 15,
+    "independent_eye_nodes": [
+      "eye iris -1",
+      "eye iris inner -1",
+      "eye pupil -1",
+      "eye_left | curved sclera",
+      "eye iris 1",
+      "eye iris inner 1",
+      "eye pupil 1",
+      "eye_right | curved sclera"
+    ],
+    "animations": [
+      {
+        "name": "CameraAction",
+        "duration_seconds": 8.0,
+        "channel_count": 2
+      }
+    ],
+    "max_mesh_axis_spans": [
+      1.8222792148590088,
+      1.7699999809265137,
+      0.9958614110946655
+    ],
+    "checks": [
+      "GLB header and binary bounds",
+      "Finite mesh and UV coordinates",
+      "Triangle indices in range",
+      "Non-flat three-axis geometry",
+      "Independent eyes",
+      "Semantic anchors",
+      "Animation times and outputs",
+      "Embedded source-derived surface textures",
+      "Below 8 MiB"
+    ]
+  },
+  "saved_blend_validation": {
+    "passed": true,
+    "check": "Fresh Blender process reopened original saved .blend",
+    "object_count": 573,
+    "required_objects": [
+      "Camera",
+      "eye_left | curved sclera",
+      "eye_right | curved sclera",
+      "focus-start",
+      "focus-1",
+      "focus-2",
+      "focus-3",
+      "focus-works"
+    ],
+    "camera_action": "CameraAction",
+    "camera_poses": [
+      {
+        "frame": 1,
+        "position": [
+          -0.6167179346084595,
+          -5.867679119110107,
+          1.940000057220459
+        ],
+        "rotation": [
+          1.5504601001739502,
+          0.0,
+          -0.10471975803375244
+        ]
+      },
+      {
+        "frame": 70,
+        "position": [
+          0.0,
+          -5.699999809265137,
+          1.909999966621399
+        ],
+        "rotation": [
+          1.5497467517852783,
+          0.0,
+          0.0
+        ]
+      },
+      {
+        "frame": 145,
+        "position": [
+          1.0418890714645386,
+          -5.908846378326416,
+          1.7599999904632568
+        ],
+        "rotation": [
+          1.550799012184143,
+          0.0,
+          0.1745329201221466
+        ]
+      },
+      {
+        "frame": 205,
+        "position": [
+          -1.4396867752075195,
+          -6.235968589782715,
+          1.649999976158142
+        ],
+        "rotation": [
+          1.5520485639572144,
+          0.0,
+          -0.22689279913902283
+        ]
+      },
+      {
+        "frame": 240,
+        "position": [
+          -2.0549631118774414,
+          -6.324525833129883,
+          1.6299999952316284
+        ],
+        "rotation": [
+          1.552753210067749,
+          0.0,
+          -0.3141592741012573
+        ]
+      }
+    ]
+  }
+}

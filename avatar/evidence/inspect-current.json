@@ -1,0 +1,731 @@
+{
+  "review": [
+    {
+      "line": 19,
+      "code": "for obj in list(bpy.data.objects):",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 20,
+      "code": "    bpy.data.objects.remove(obj, do_unlink=True)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 21,
+      "code": "scene = bpy.context.scene",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 29,
+      "code": "    obj = bpy.data.objects.new(name, data)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 30,
+      "code": "    scene.collection.objects.link(obj)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 32,
+      "code": "        export_objects.append(obj)",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 36,
+      "code": "    mat = bpy.data.materials.new(name)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 37,
+      "code": "    mat.use_nodes = True",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 38,
+      "code": "    mat.diffuse_color = (*color, 1)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 39,
+      "code": "    mat.roughness = roughness",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 40,
+      "code": "    mat.metallic = metallic",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 41,
+      "code": "    node = next(n for n in mat.node_tree.nodes if n.bl_idname == 'ShaderNodeBsdfPrincipled')",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 42,
+      "code": "    node.inputs['Base Color'].default_value = (*color,1)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 43,
+      "code": "    node.inputs['Roughness'].default_value = roughness",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 44,
+      "code": "    node.inputs['Metallic'].default_value = metallic",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 45,
+      "code": "    node.inputs['Specular IOR Level'].default_value = specular",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 75,
+      "code": "    texture_image=bpy.data.images.load(str(texture_path),check_existing=True)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 76,
+      "code": "    texture_image.pack()",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 79,
+      "code": "        node=next(n for n in mat.node_tree.nodes if n.bl_idname=='ShaderNodeBsdfPrincipled')",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 80,
+      "code": "        tex=mat.node_tree.nodes.new('ShaderNodeTexImage')",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 81,
+      "code": "        tex.image=texture_image",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 82,
+      "code": "        tex.extension='EXTEND' if category=='eye' else 'REPEAT'",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 83,
+      "code": "        uv_node=mat.node_tree.nodes.new('ShaderNodeUVMap')",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 84,
+      "code": "        uv_node.uv_map='ReferenceProjection'",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 85,
+      "code": "        socket_names={'texture_inputs':[s.name for s in tex.inputs],'texture_outputs':[s.name for s in tex.outputs],'uv_outputs':[s.name for s in uv_node.outputs]}",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 86,
+      "code": "        runtime_texture_sockets.append(socket_names)",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 88,
+      "code": "        mat.node_tree.links.new(tex.inputs['Vector'],uv_node.outputs['UV'])",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 89,
+      "code": "        mat.node_tree.links.new(node.inputs['Base Color'],tex.outputs['Color'])",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 90,
+      "code": "(OUT/'evidence/texture-runtime.json').write_text(json.dumps(runtime_texture_sockets,indent=2),encoding='utf8')",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 115,
+      "code": "    if name.startswith(('Brow','Lip |','Mouth |','Nostril')): return None",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 116,
+      "code": "    if name.startswith(('Ear','Left ear','Right ear','Neck')): mat=anatomy_mat",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 117,
+      "code": "    if _head_geometry and not name.startswith('eye') and not name.startswith('Batch'):",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 119,
+      "code": "    data = bpy.data.meshes.new(name)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 120,
+      "code": "    data.from_pydata(vertices, [], faces, shade_flat=False)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 121,
+      "code": "    corrected = data.validate(verbose=True)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 124,
+      "code": "    data.materials.append(mat)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 127,
+      "code": "        uv_layer=data.uv_layers.new(name='ReferenceProjection')",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 134,
+      "code": "                uv_layer.uv[loop_index].vector=(u,v)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 137,
+      "code": "    mesh_records.append({'name':name,'vertices':len(vertices),'faces':len(faces)})",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 138,
+      "code": "    if export and not name.startswith('eye') and not name.startswith('Batch'):",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 139,
+      "code": "        geometry_parts.append((obj,vertices,faces,mat))",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 149,
+      "code": "            f.append((a,b,b+row,a+row))",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 177,
+      "code": "            verts.append(add(p,add(scale(axis,r*cos(a)),scale(axis2,r*sin(a)*flatten))))",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 181,
+      "code": "            faces.append((a,b,b+sides,a+sides))",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 192,
+      "code": "            verts.append((center[0]+radii[0]*sin(p)*cos(a),center[1]+radii[1]*sin(p)*sin(a),center[2]+radii[2]*cos(p)))",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 193,
+      "code": "    verts.append((center[0],center[1],center[2]-radii[2]))",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 195,
+      "code": "    for i in range(nu): faces.append((0,1+i,1+(i+1)%nu))",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 199,
+      "code": "            faces.append((a,a+nu,b+nu,b))",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 201,
+      "code": "    for i in range(nu): faces.append((bot,1+(nv-2)*nu+(i+1)%nu,1+(nv-2)*nu+i))",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 215,
+      "code": "                out.append((2*t**3-3*t*t+1)*a[k]+(t**3-2*t*t+t)*m0*dz+(-2*t**3+3*t*t)*b[k]+(t**3-t*t)*m1*dz)",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 264,
+      "code": "        pts.append((sign*(.455+.033*sin(a)),-.032,2.26+.088*cos(a)))",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 287,
+      "code": "    eye.location=(ex,ey,ez-HEAD_DROP)",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 301,
+      "code": "    iris.parent=eye",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 302,
+      "code": "    ring.parent=eye",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 303,
+      "code": "    pupil.parent=eye",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 314,
+      "code": "            points.append((x,face_y(x,z)-.004,z))",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 315,
+      "code": "            radii.append((.0034 if upper else .0026)*(.3+.7*(1-t*t)**.5))",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 321,
+      "code": "        pts.append((x,face_y(x,z)-.006,z+.0005))",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 326,
+      "code": "        pts.append((x,face_y(x,z)-.003,z))",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 332,
+      "code": "        pts.append((x,face_y(x,z)-.009,z))",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 333,
+      "code": "        radii.append(.003+.016*sin(pi*t)**.6)",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 345,
+      "code": "        pts.append((x,face_y(x,z)-.0015,z))",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 361,
+      "code": "    z=mouth_line(t); pts.append((x,face_y(x,z)-.006,z))",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 375,
+      "code": "                out.append((2*t**3-3*t*t+1)*a[k]+(t**3-2*t*t+t)*m0*dz+(-2*t**3+3*t*t)*b[k]+(t**3-t*t)*m1*dz)",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 396,
+      "code": "        pts.append((x,.07-d*sqrt(max(0,1-(x/w)**2))-.004,z))",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 423,
+      "code": "        pts.append((x,y-.0015,z+.002))",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 456,
+      "code": "            pts.append((x,y,z))",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 482,
+      "code": "        pts.append(p)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 483,
+      "code": "        radii.append(.001+(.040+.007*(k%4))*sin(pi*t)**.65)",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 498,
+      "code": "        pts.append((p[0]+lift*sin(aa),p[1]-lift*cos(aa),p[2]+.004*sin(pi*t)))",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 528,
+      "code": "            strand.append((p[0]+shift*widths[j]+.002*sin(pi*t*2+k+s),p[1]-.40*widths[j]*sqrt(max(0,1-shift*shift))-.002,p[2]+.003*sin(pi*t)))",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 542,
+      "code": "    if obj.parent is None:",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 543,
+      "code": "        obj.parent=avatar_root",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 546,
+      "code": "    obj.location=position",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 550,
+      "code": "    obj.location=(distance*sin(a),-distance*cos(a),target_z+elevation)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 551,
+      "code": "    obj.rotation_euler=(pi/2-math.atan2(elevation,distance),0,a)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 553,
+      "code": "camera_data=bpy.data.cameras.new('Portrait camera optics')",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 554,
+      "code": "camera_data.lens=63",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 556,
+      "code": "scene.camera=camera",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 557,
+      "code": "scene.frame_start=1",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 558,
+      "code": "scene.frame_end=240",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 559,
+      "code": "scene.render.fps=30",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 562,
+      "code": "    camera.keyframe_insert(data_path='location',frame=frame)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 563,
+      "code": "    camera.keyframe_insert(data_path='rotation_euler',frame=frame)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 564,
+      "code": "camera.animation_data.action.name='CameraAction'",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 565,
+      "code": "scene.frame_set(70)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 569,
+      "code": "    data=bpy.data.lights.new(name,'AREA')",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 570,
+      "code": "    data.energy=power",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 571,
+      "code": "    data.size=size",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 572,
+      "code": "    data.color=color",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 576,
+      "code": "    light.location=position",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 577,
+      "code": "    light.rotation_euler=(pi/2-math.atan2(z-1.8,d),0,a)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 579,
+      "code": "scene.render.engine='BLENDER_EEVEE'",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 580,
+      "code": "scene.render.resolution_x=1200",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 581,
+      "code": "scene.render.resolution_y=1200",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 582,
+      "code": "scene.render.resolution_percentage=100",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 583,
+      "code": "scene.render.image_settings.file_format='PNG'",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 584,
+      "code": "scene.render.image_settings.color_mode='RGBA'",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 585,
+      "code": "scene.render.film_transparent=True",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 586,
+      "code": "OUT.mkdir(parents=True,exist_ok=True)",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 587,
+      "code": "IMAGES.mkdir(parents=True,exist_ok=True)",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 588,
+      "code": "MODELS.mkdir(parents=True,exist_ok=True)",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 589,
+      "code": "bpy.ops.wm.save_as_mainfile(filepath=str(OUT/'sun-yingjie-avatar-draft-v2.blend'),compress=True)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 595,
+      "code": "    batch=batches.setdefault(id(mat),{'mat':mat,'v':[],'f':[]})",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 601,
+      "code": "    export_objects.remove(obj)",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 602,
+      "code": "    bpy.data.objects.remove(obj,do_unlink=True)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 603,
+      "code": "for index,batch in enumerate(batches.values()):",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 605,
+      "code": "    obj.parent=avatar_root",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 606,
+      "code": "for obj in list(bpy.data.objects): obj.select_set(False)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 607,
+      "code": "for obj in export_objects: obj.select_set(True)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 608,
+      "code": "bpy.ops.export_scene.gltf(filepath=str(MODELS/'avatar.glb'),export_format='GLB',use_selection=True,export_cameras=True,export_animations=True,export_animation_mode='ACTIONS',export_frame_range=True,export_yup=True,export_copyright='Original geometry authored for Sun Yingjie portfolio; likeness subject to user review.')",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 609,
+      "code": "review_data=bpy.data.cameras.new('Review optics')",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 610,
+      "code": "review_data.type='ORTHO'",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 611,
+      "code": "review_data.ortho_scale=3.5",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 613,
+      "code": "scene.camera=review",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 620,
+      "code": "    scene.render.filepath=str(IMAGES/(name+'.png'))",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 621,
+      "code": "    bpy.ops.render.render(write_still=True)",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 622,
+      "code": "scene.camera=camera",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    },
+    {
+      "line": 623,
+      "code": "metrics={'draft':True,'source_photo':'作品集/照片1.jpg','geometry_source':'original parameterized surface meshes; no third-party personal assets','authored_mesh_count':len(authored_records),'authored_vertex_count':sum(m['vertices'] for m in authored_records),'mesh_records':authored_records,'glb_bytes':(MODELS/'avatar.glb').stat().st_size,'views':[v[0] for v in views],'animation':'CameraAction','frames':[1,240],'fps':30}",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 624,
+      "code": "(OUT/'build-report.json').write_text(json.dumps(metrics,ensure_ascii=False,indent=2),encoding='utf8')",
+      "requires_source": false,
+      "classification": "unknown_object_type_review_required"
+    },
+    {
+      "line": 625,
+      "code": "print('AVATAR_BUILD_REPORT='+json.dumps({k:v for k,v in metrics.items() if k!='mesh_records'},ensure_ascii=False))",
+      "requires_source": true,
+      "classification": "known_blender_or_dynamic"
+    }
+  ],
+  "note": "requires_source=false means type is unknown, not permission to classify a Blender operation as general_python."
+}

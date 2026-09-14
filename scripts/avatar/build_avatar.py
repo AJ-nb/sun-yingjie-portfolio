@@ -54,7 +54,7 @@ eye_white = material('Eye | warm sclera',(.59,.555,.51),.34,0,.14)
 iris_mat = material('Eye | dark brown iris',(.008,.006,.004),.32,0,.16)
 pupil_mat = material('Eye | pupil',(.004,.003,.003),.29,0,.21)
 iris_light = material('Eye | iris inner brown',(.018,.011,.008),.34,0,.16)
-hair_mats = [material('Hair | dark clump %02d'%i,(.007+i*.0017,.005+i*.0012,.004+i*.001),.69+i*.025,0,.13) for i in range(5)]
+hair_mats = [material('Hair | dark clump %02d'%i,(.003+i*.0006,.0024+i*.00045,.002+i*.00035),.82+i*.02,0,.09) for i in range(5)]
 brow_mat = material('Brow | natural black brown',(.025,.014,.010),.69)
 cloth = material('Quarter zip | heather slate',(.150,.161,.170),.90,0,.13)
 cloth_dark = material('Quarter zip | seam shadow',(.108,.116,.125),.92)
@@ -68,7 +68,7 @@ texture_categories={}
 runtime_texture_sockets=[]
 for category,mats in [
     ('skin',[skin,skin_edge,lip_top,lip_bottom,crease,brow_mat]),
-    ('hair',hair_mats),('cloth',[cloth,cloth_dark,cloth_light]),('collar',[collar_mat]),
+    ('cloth',[cloth,cloth_dark,cloth_light]),('collar',[collar_mat]),
     ('eye',[eye_white,iris_mat,pupil_mat,iris_light]),
 ]:
     texture_path=OUT/'textures'/('eye-front.jpg' if category=='eye' else 'collar-knit.jpg' if category=='collar' else category+'-projection.jpg')
@@ -112,7 +112,7 @@ def projection_uv(point,category,name):
     return ((angle+pi)/(2*pi),z/3.20)
 
 def mesh(name, vertices, faces, mat, export=True):
-    if name.startswith(('Brow','Lip |','Mouth |','Nostril')): return None
+    if name.startswith(('Brow','Lip |','Mouth |','Nostril','Neck')): return None
     if name.startswith(('Ear','Left ear','Right ear','Neck')): mat=anatomy_mat
     if _head_geometry and not name.startswith('eye') and not name.startswith('Batch'):
         vertices=[(x,y,z-HEAD_DROP) for x,y,z in vertices]
@@ -203,7 +203,7 @@ def ellipsoid(name, center, radii, mat, nu=40,nv=24):
 
 # One uninterrupted cranium/face mesh: jaw, chin, cheek planes, orbital hollows,
 # glabella, nasal bridge, nasal tip, alae and philtrum are continuous displacements.
-PROFILE=[(1.75,.046,.15,.04),(1.795,.179,.245,.02),(1.86,.283,.295,.012),(1.95,.357,.330,.0),(2.08,.402,.348,.0),(2.23,.438,.354,.0),(2.40,.442,.356,.012),(2.60,.422,.346,.019),(2.78,.365,.313,.035),(2.90,.244,.235,.045),(2.97,.018,.028,.04)]
+PROFILE=[(1.20,.287,.235,.045),(1.45,.269,.220,.045),(1.68,.253,.205,.045),(1.75,.255,.240,.040),(1.795,.264,.275,.025),(1.86,.295,.300,.020),(1.95,.357,.330,.0),(2.08,.402,.348,.0),(2.23,.438,.354,.0),(2.40,.442,.356,.012),(2.60,.422,.346,.019),(2.78,.365,.313,.035),(2.90,.244,.235,.045),(2.97,.018,.028,.04)]
 def profile(z):
     for i,(a,b) in enumerate(zip(PROFILE,PROFILE[1:])):
         if a[0]<=z<=b[0]:
@@ -231,12 +231,11 @@ def face_y(x,z):
     y-=.035*gaussian(x,z,0,1.85,.145,.069)
     return y
 def head(u,v):
-    z=lerp(1.75,2.97,v); w,d,c=profile(z); a=2*pi*u
+    z=lerp(1.20,2.97,v); w,d,c=profile(z); a=2*pi*u
     x=w*sin(a)
     y=face_y(x,z) if cos(a)>=0 else c+d*sqrt(max(0,1-(x/w)**2))
-    z+=.25*max(-cos(a),0)**.7*(1-v)**3
     return (x,y,z)
-grid('Face | integrated craniofacial surface',head,128,110,skin,True)
+grid('Face | continuous head jaw and neck surface',head,128,144,skin,True)
 
 # Neck grows into the jaw and clavicle, gently wider at its base.
 _head_geometry=False
@@ -467,7 +466,7 @@ def hair_point(a,t):
     horizontal=sqrt(max(.0001,1-q*q))
     volume=.014*sin(5*a+.7)*sin(pi*t)+.007*sin(11*a)*sin(pi*t)
     x=(.51+volume)*horizontal*sin(a)+.010*sin(pi*t)
-    y=.018-(.435+volume)*horizontal*cos(a)
+    y=.018-(.490+volume)*horizontal*cos(a)
     return x,y,z
 grid('Hair | full sculpted undercut cap',lambda u,v:hair_point(2*pi*u,v),96,38,hair_mats[0],True)
 for k in range(18):
@@ -533,6 +532,7 @@ for k,path in enumerate([
     [(.22,-.14,2.95),(.31,-.23,3.015),(.41,-.19,2.97),(.45,-.12,2.89)],
     [(-.075,-.29,2.925),(-.14,-.44,2.79),(-.015,-.47,2.53),(-.045,-.38,2.47)],
 ]):
+    if k<3: continue
     pts=[bezier(path,j/26) for j in range(27)]
     tube('Hair | loose silhouette strand %02d'%k,pts,[.0003+.0023*sin(pi*j/26) for j in range(27)],hair_mats[1],5)
 

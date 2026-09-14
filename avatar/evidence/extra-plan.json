@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "request": "Source extensions for actual runtime material sockets, database access, camera orientation and animation name",
+  "catalog_sha256": "53e68a65c0b4cd4d4dddacdf396ed83cd84a752da3340ca522fd8cacfc34fb09",
+  "selected_features": [
+    "api:bpy.types.BlendDataCameras",
+    "api:bpy.types.BlendData",
+    "api:bpy.context",
+    "api:bpy.types.NodeSocketColor",
+    "api:bpy.types.NodeSocketFloat",
+    "api:bpy.types.NodeSocket",
+    "api:bpy.types.Light",
+    "api:bpy.types.AnimData",
+    "api:bpy.types.ID",
+    "api:mathutils"
+  ],
+  "seed_refs": [
+    "bpy.context.html",
+    "bpy.types.AnimData.html",
+    "bpy.types.BlendData.html",
+    "bpy.types.BlendDataCameras.html",
+    "bpy.types.ID.html",
+    "bpy.types.Light.html",
+    "bpy.types.NodeSocket.html",
+    "bpy.types.NodeSocketColor.html",
+    "bpy.types.NodeSocketFloat.html",
+    "mathutils.html"
+  ],
+  "reads": [],
+  "script_sha256": null,
+  "bindings": [],
+  "unresolved": [],
+  "evidence_policy": "Blender facts must come from bundled source or recorded runtime inspection. Pretrained Blender knowledge is not admissible.",
+  "review_note": "Select source refs and read them with docs.py --plan before implementing. Each Blender-specific statement must have a supporting source; source IDs alone do not prove semantic support."
+}

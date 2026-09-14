@@ -89,7 +89,14 @@ for category in ['skin','hair','cloth']:
             xb=611-365*x
             if category=='hair': yb=55+(3.034-raw)*542
             else: yb=550-(z-1.53)*150
-        rgb=(sample('front',xf,yf,category=='hair',category=='skin')*front_weight[:,None]+sample('side',xs,ys,category=='hair',category=='skin')*side_weight[:,None]+sample('back',xb,yb,category=='hair',category=='skin')*back_weight[:,None])
+        if category=='skin':
+            clean_skin=sample('side',555+20*si,455+(z-2)*24,skin=True)
+            extent=.94 if raw>2.48 else .78
+            keep_front=np.clip((extent-np.abs(si))/.20,0,1)*np.clip(co*4,0,1)
+            if z<1.58: keep_front*=np.clip((z-1.35)/.23,0,1)
+            rgb=sample('front',xf,yf,skin=True)*keep_front[:,None]+clean_skin*(1-keep_front[:,None])
+        else:
+            rgb=(sample('front',xf,yf,category=='hair')*front_weight[:,None]+sample('side',xs,ys,category=='hair')*side_weight[:,None]+sample('back',xb,yb,category=='hair')*back_weight[:,None])
         # Texture contains reference lighting, so avoid further contrast boosting.
         atlas[row]=np.clip(rgb,0,255).astype(np.uint8)
     Image.fromarray(atlas).save(OUT/(category+'-projection.jpg'),quality=92,subsampling=0)
