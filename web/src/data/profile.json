@@ -1,0 +1,18 @@
+{
+  "name": {"zh":"孙英杰","en":"Yingjie Sun"},
+  "position": {"zh":"品牌与产品设计＋AI","en":"Brand & product design + AI"},
+  "phone":"13515249897",
+  "email":"2950884508@qq.com",
+  "url":"https://sun-yingjie-portfolio.ajhhq.chatgpt.site",
+  "summary": {
+    "zh":"从商业橱窗、产品与三维表达，到品牌孵化和数字工具。以设计判断连接真实需求，用 AI 辅助研究、组织与实现。",
+    "en":"From commercial windows and product visualization to brand incubation and digital tools. Connecting real needs through design judgment, with AI supporting research, organization and implementation."
+  },
+  "timeline":[
+    {"id":"education","point":"focus-1","start":"2021-09","end":"2025-06","period":{"zh":"2021.09 — 2025.06","en":"2021.09 — 2025.06"},"place":{"zh":"常州工学院","en":"Changzhou Institute of Technology"},"role":{"zh":"产品设计 · 本科","en":"BA in Product Design"},"description":{"zh":"从用户研究、材料工艺与人机关系出发，建立产品造型、结构表达和设计验证的方法。","en":"A foundation in user research, materials and ergonomics, extending into product form, structural communication and design evaluation."}},
+    {"id":"ouyin","point":"focus-2","start":"2023-12","end":"2025-02","period":{"zh":"2023.12 — 2025.02","en":"2023.12 — 2025.02"},"place":{"zh":"湖南欧音文化传媒有限公司","en":"Hunan Ouyin Culture & Media"},"role":{"zh":"设计师助理","en":"Design assistant"},"description":{"zh":"参与市场调研、用户反馈整理和交互原型设计，协助团队把需求转化为可讨论、可迭代的体验方案。","en":"Contributed to market research, user feedback synthesis and interaction prototypes, helping the team turn requirements into tangible proposals."}},
+    {"id":"benwu","point":"focus-3","start":"2025-03","end":"2025-12","period":{"zh":"2025.03 — 2025.12","en":"2025.03 — 2025.12"},"place":{"zh":"BENWU","en":"BENWU"},"role":{"zh":"3D 设计师","en":"3D designer"},"description":{"zh":"参与 Hermès、Arc’teryx 商业橱窗与铝型材灯具的三维设计和视觉呈现。研究空间、道具与商品的关系，以及材料在光线中的表现。","en":"Contributed to Hermès and Arc’teryx window displays and aluminum lighting visualization, exploring spatial composition, props, merchandise, materials and light."}},
+    {"id":"liling","point":"focus-4","start":"2026-03","end":null,"period":{"zh":"2026.03 — 至今","en":"2026.03 — Present"},"place":{"zh":"杭州理灵企业服务有限公司","en":"Hangzhou Liling Enterprise Services"},"role":{"zh":"品牌孵化与设计","en":"Brand incubation & design"},"description":{"zh":"参与彼源 AI 的品牌、官网视觉、交互与开发，以及夜礼司、Periastra 品牌研究与应用表达，连接品牌定位、产品关系和数字体验。","en":"Participating in Biyuan AI’s branding, website visuals, interaction and development, alongside brand research and applications for Yelisi and Periastra."}},
+    {"id":"ai","point":"focus-5","start":"2026-08","end":null,"period":{"zh":"2026 — 持续实践","en":"2026 — Ongoing"},"place":{"zh":"AI 与数字产品实践","en":"AI & digital product practice"},"role":{"zh":"需求、交互与实现","en":"Research, interaction & implementation"},"description":{"zh":"通过镜序、砚台和薪跳等实际项目，探索参考分析、结构化输出、人工确认与任务恢复。让 AI 进入可检验的工作流程，并保留来源与判断。","en":"Exploring reference analysis, structured outputs, human confirmation and task recovery through Lensflow, Yantai and Xintiao. Bringing AI into inspectable workflows with retained sources and judgment."}}
+  ]
+}

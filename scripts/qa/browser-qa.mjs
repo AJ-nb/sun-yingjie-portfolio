@@ -7,9 +7,9 @@ import { fileURLToPath } from 'node:url'
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..')
 const require = createRequire(import.meta.url)
-const { chromium } = require(process.env.SYJ_QA_PLAYWRIGHT || 'C:/Users/LENOVO/AppData/Local/npm-cache/_npx/8718c3904bb5fece/node_modules/playwright-core')
+const { chromium } = require(process.env.SYJ_QA_PLAYWRIGHT || 'C:/Users/LENOVO/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright')
 const base = process.env.SYJ_QA_URL || 'http://127.0.0.1:4173/'
-const screenshots = path.join(root, 'design/qa')
+const screenshots = path.join(root, 'design/qa-r2')
 await mkdir(screenshots, { recursive: true })
 const index = await readFile(path.join(root, 'web/dist/index.html'))
 const report = { timestamp: new Date().toISOString(), base, buildIndexSha256: createHash('sha256').update(index).digest('hex'), engine: 'Chrome headless, isolated temporary profile; software WebGL permitted', checks: [], errors: [], measurements: {} }
@@ -52,10 +52,10 @@ async function noOverflow(label) {
 }
 
 try {
-  await check('30 catalog cards and every thumbnail decodes', async () => {
-    await home(); assert.equal(await count(), 30)
-    const images = await decodeImages('.catalog-grid img'); assert.equal(images.length, 30); assert(images.every(image => image.width > 0), JSON.stringify(images.filter(image => image.error)))
-    return { cards: 30, uniqueDecodedThumbnails: images.length }
+  await check('All catalog cards and every thumbnail decode', async () => {
+    await home(); assert.equal(await count(), slugs.length)
+    const images = await decodeImages('.catalog-grid img'); assert.equal(images.length, slugs.length); assert(images.every(image => image.width > 0), JSON.stringify(images.filter(image => image.error)))
+    return { cards: slugs.length, uniqueDecodedThumbnails: images.length }
   })
   await check('All categories match source counts; normalized query; empty-state reset', async () => {
     await home()
@@ -65,10 +65,10 @@ try {
     await page.getByRole('button', { name: '全部作品', exact: true }).click()
     const search = page.getByRole('searchbox'); await search.fill('  ＬＥＮＳＦＬＯＷ  '); assert.equal(await count(), 1); assert.equal(await page.locator('.catalog-grid .work-card').getAttribute('href'), '#/work/lensflow')
     await search.fill('no-such-project-938247'); await page.locator('.empty-state').waitFor(); assert.equal(await count(), 0)
-    await page.getByRole('button', { name: '清除筛选', exact: true }).click(); assert.equal(await count(), 30); assert.equal(await search.inputValue(), '')
+    await page.getByRole('button', { name: '清除筛选', exact: true }).click(); assert.equal(await count(), slugs.length); assert.equal(await search.inputValue(), '')
     await screenshot('catalog-390.png'); return counts
   })
-  await check('All 30 deep routes load and every case image decodes', async () => {
+  await check('All deep routes load and every case image decodes', async () => {
     let imageReferences = 0; const unique = new Set()
     for (const slug of slugs) {
       await detail(slug); assert((await page.locator('.case-header h1').innerText()).trim()); assert.equal(await page.locator('.case-body h2').count(), 6)
@@ -138,7 +138,7 @@ try {
       await page.setViewportSize({ width, height: width > 700 ? 1000 : 844 })
       for (const lang of ['zh', 'en']) {
         await page.goto(`${base}${lang === 'en' ? '?lang=en' : ''}#top`); await page.locator('#hero-name').waitFor(); sizes.push({ width, lang, surface: 'home', ...(await noOverflow('home')) }); await screenshot(`home-${lang}-${width}.png`)
-        await page.locator('.hero .primary').click(); await page.locator('#works').waitFor(); sizes.push({ width, lang, surface: 'index', ...(await noOverflow('index')) })
+        await page.locator('.sen-explore').click(); await page.locator('#works').waitFor(); sizes.push({ width, lang, surface: 'index', ...(await noOverflow('index')) })
         await detail('arcteryx', lang); sizes.push({ width, lang, surface: 'case', ...(await noOverflow('case')) }); await screenshot(`case-${lang}-${width}.png`)
       }
     }
@@ -174,6 +174,28 @@ try {
     await p.route('**/models/avatar.glb', route => { blocked = true; return route.abort('failed') })
     try { await p.goto(base); await p.waitForFunction(() => document.querySelector('.scene-toggle')?.textContent.includes('查看三维人物')); await p.waitForTimeout(1300); assert(blocked); await p.locator('canvas').waitFor({ state: 'detached' }); assert.equal(await p.locator('.portrait-poster').evaluate(node => getComputedStyle(node).visibility), 'visible'); return { deliberatelyAbortedModel: true, staticRestored: true } }
     finally { await ctx.close() }
+  })
+  await check('sen gallery has six ordered chapters, accessible stops, mobile fallback and reverse scroll', async () => {
+    await page.emulateMedia({ reducedMotion: 'no-preference' })
+    await page.setViewportSize({ width: 1440, height: 900 }); await page.goto(base)
+    await page.locator('.wk-progress').waitFor({ state: 'attached' })
+    const titles = await page.locator('.wk-card-head h2').allTextContents()
+    assert.deepEqual(titles, ['商业橱窗','铝型材灯具','产品设计与模型','三维渲染实践','品牌孵化','AI 与数字产品'])
+    const galleryTop = await page.locator('.wk-gallery').evaluate(node => node.getBoundingClientRect().top + scrollY)
+    const states = []
+    for (const index of [0, 2, 5, 1, 0]) {
+      await page.evaluate(top => window.scrollTo({ top, behavior: 'instant' }), galleryTop + index * 1440)
+      await page.waitForFunction(expected => document.querySelector('.wk-progress button[aria-current]')?.textContent?.startsWith(String(expected + 1).padStart(2, '0')), index)
+      const rect = await page.locator('.wk-card').nth(index).boundingBox(); assert(Math.abs(rect.x) < 2)
+      states.push({ index, x: rect.x }); await screenshot(`chapter-${index}-1440.png`)
+    }
+    const points = await page.locator('.tl-entry').evaluateAll(nodes => nodes.map(node => ({ point: node.dataset.point, top: node.getBoundingClientRect().top + scrollY })))
+    assert.deepEqual(points.map(p => p.point), ['focus-1','focus-2','focus-3','focus-4','focus-5'])
+    for (const point of points) { await page.evaluate(top => window.scrollTo({ top, behavior: 'instant' }), point.top - 270); await page.waitForTimeout(650); await screenshot(`${point.point}-1440.png`) }
+    await page.setViewportSize({ width: 390, height: 844 }); await page.locator('.wk-vertical').waitFor({ state: 'attached' }); assert.equal(await page.locator('.wk-progress').count(), 0)
+    await page.locator('.wk-card').first().scrollIntoViewIfNeeded(); await screenshot('chapter-mobile-390.png'); await noOverflow('vertical gallery')
+    await page.emulateMedia({ reducedMotion: 'reduce' })
+    return { titles, points: points.map(p => p.point), forwardAndReverse: states }
   })
   await check('No unexpected console errors or uncaught page errors in functional checks', async () => { assert.equal(report.errors.length, 0, JSON.stringify(report.errors)); return { recordedErrors: report.errors.length } })
 } finally {

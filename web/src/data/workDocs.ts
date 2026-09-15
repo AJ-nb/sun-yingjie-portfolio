@@ -1,6 +1,7 @@
+import { CHAPTERS, editorialMetadata, type EditorialMetadata } from './chapters'
 export type Lang = 'zh' | 'en'
 export type Category = 'commercial' | 'product' | 'brand' | 'digital' | 'experiments'
-export interface WorkDoc {
+export interface WorkDoc extends EditorialMetadata {
   slug: string; lang: Lang; title: string; category: Category; summary: string; role: string
   credits: string; status: string; cover: string; tags: string[]; year?: string; body: string
 }
@@ -21,11 +22,10 @@ for (const [path, raw] of Object.entries(files)) {
   if (!name) continue
   const { data, body } = parse(raw)
   const lang = name[2] as Lang
-  collection[lang].push({ ...data, slug: name[1], lang, body, tags: data.tags ? JSON.parse(data.tags) as string[] : [] } as WorkDoc)
+  collection[lang].push({ ...data, ...editorialMetadata(name[1], data.category), slug: name[1], lang, body, tags: data.tags ? JSON.parse(data.tags) as string[] : [] } as WorkDoc)
 }
-export const FEATURED = ['hermes', 'lighting', 'arcteryx', 'plumber', 'lensflow', 'periastra']
-const order = (slug: string) => FEATURED.includes(slug) ? FEATURED.indexOf(slug) : 100
-for (const lang of ['zh', 'en'] as const) collection[lang].sort((a, b) => order(a.slug) - order(b.slug) || a.slug.localeCompare(b.slug))
+export const FEATURED = ['hermes', 'arcteryx', 'lighting', 'plumber', 'huhu-care', 'rendering-studies', 'biyuan', 'yelisi', 'periastra', 'lensflow', 'yantai', 'xintiao']
+for (const lang of ['zh', 'en'] as const) collection[lang].sort((a, b) => CHAPTERS.findIndex(ch => ch.id === a.chapter) - CHAPTERS.findIndex(ch => ch.id === b.chapter) || a.order - b.order || (a.startDate ?? '9999').localeCompare(b.startDate ?? '9999') || a.slug.localeCompare(b.slug))
 export function getWorks(lang: Lang): WorkDoc[] { return collection[lang] }
 export function getWorkDoc(slug?: string, lang: Lang = 'zh'): WorkDoc | null { return collection[lang].find(work => work.slug === slug) ?? null }
 export function asset(path: string): string { return path.startsWith('/') ? `${import.meta.env.BASE_URL}${path.slice(1)}` : path }

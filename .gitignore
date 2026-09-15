@@ -2,6 +2,7 @@
 **/dist/
 **/.cache/
 .sites-runtime/
+.production-runtime/
 .env
 .env.*
 !.env.example
@@ -14,3 +15,6 @@ avatar/*.blend1
 tmp/
 deliverables/**/qa/
 deliverables/**/preview/
+design/qa-r2/
+docs/qa-r2-*.png
+deliverables/resume/resume-review.png

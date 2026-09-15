@@ -2,13 +2,16 @@ import { Component, Suspense, lazy, useEffect, useRef, useState, type MouseEvent
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
-import { asset, CATEGORIES, FEATURED, getWorkDoc, getWorks, type Category, type Lang, type WorkDoc } from './data/workDocs'
+import { asset, CATEGORIES, getWorkDoc, getWorks, type Category, type Lang, type WorkDoc } from './data/workDocs'
+import { SenIntroduction, SenGallery } from './ui/SenExperience'
+import profile from './data/profile.json'
 import './styles.css'
+import './sen.css'
 
 const PortraitScene = lazy(() => import('./scene/PortraitScene'))
 const copy = {
   zh: {
-    works: '作品', about: '关于', contact: '联系', skip: '直接浏览作品', profession: '产品设计师 / 跨媒介创作者',
+    works: '作品', about: '关于', contact: '联系', skip: '直接浏览作品', profession: '品牌与产品设计＋AI',
     hero: '形与意，从概念到实现。', intro: '以工业设计为起点，连接商业空间、品牌视觉与数字产品。让想法在材料、结构和体验中成为具体的作品。',
     explore: '浏览作品', view3d: '查看三维人物', still: '静态观看', scroll: '向下探索',
     selected: '在不同尺度中，找到设计的秩序。', catalog: '作品目录', catalogText: '从空间与产品，到视觉与屏幕。',
@@ -22,7 +25,7 @@ const copy = {
     notFound: '这个案例暂时没有收录。', top: '回到顶部', count: '件作品', all: '查看全部作品',
   },
   en: {
-    works: 'Work', about: 'About', contact: 'Contact', skip: 'Go directly to work', profession: 'Product designer / Multidisciplinary maker',
+    works: 'Work', about: 'About', contact: 'Contact', skip: 'Go directly to work', profession: 'Brand & product design + AI',
     hero: 'Form and meaning, made tangible.', intro: 'Rooted in industrial design, I work across commercial spaces, visual identities and digital products. Ideas take shape through materials, structure and experience.',
     explore: 'Explore work', view3d: 'View 3D portrait', still: 'Still view', scroll: 'Explore below',
     selected: 'Finding order, across scales.', catalog: 'Work index', catalogText: 'From spaces and objects to identities and screens.',
@@ -64,17 +67,25 @@ function Portrait({ lang, reduced }: { lang: Lang; reduced: boolean }) {
     return () => window.clearTimeout(timer)
   }, [reduced])
   useEffect(() => {
-    const node = container.current?.parentElement
-    if (!node) return
-    const observer = new IntersectionObserver(([entry]) => setActive(entry.isIntersecting), { threshold: 0 })
-    observer.observe(node)
-    return () => observer.disconnect()
+    const update = () => {
+      const gallery = document.querySelector<HTMLElement>('.wk-gallery')
+      const top = gallery?.getBoundingClientRect().top ?? innerHeight
+      container.current?.style.setProperty('--works-fog', String(Math.max(0, Math.min(.78, (1 - top / innerHeight) * 1.1))))
+      // Keep the camera tail synchronized until it has completed behind the work panel.
+      setActive(!document.hidden && top > -innerWidth)
+    }
+    update()
+    window.addEventListener('scroll', update, { passive: true })
+    window.addEventListener('resize', update)
+    document.addEventListener('visibilitychange', update)
+    return () => { window.removeEventListener('scroll', update); window.removeEventListener('resize', update); document.removeEventListener('visibilitychange', update) }
   }, [])
   const showScene = requested || (!reduced && enabled)
   const stopScene = () => { setRequested(false); setEnabled(false); setSceneReady(false) }
   return <div ref={container} className={`portrait-stage ${showScene && sceneReady ? 'is-live' : 'is-static'}`} aria-label={lang === 'zh' ? '三维人物' : '3D portrait'}>
-    <img className="portrait-poster" style={{ visibility: showScene && sceneReady ? 'hidden' : 'visible' }} src={asset('/avatar/portrait.webp')} alt={lang === 'zh' ? '孙英杰风格化三维半身像' : 'Stylized 3D bust of Yingjie Sun'} fetchPriority="high" />
+    <img className="portrait-poster" style={{ visibility: showScene && sceneReady ? 'hidden' : 'visible' }} src={asset('/avatar/portrait.webp')} alt={lang === 'zh' ? '孙英杰风格化三维半身像' : 'Stylized 3D bust of Yingjie Sun'} loading="eager" />
     {showScene && <SceneBoundary fallback={null} onError={stopScene}><Suspense fallback={null}><PortraitScene active={active} reduced={reduced} ready={sceneReady} onReady={setSceneReady} /></Suspense></SceneBoundary>}
+    <div className="portrait-fog" aria-hidden="true" />
     <button className="scene-toggle" onClick={() => { if (showScene) stopScene(); else { setSceneReady(false); setRequested(true) } }}><span aria-hidden="true">{showScene ? '◉' : '◎'}</span> {showScene ? copy[lang].still : copy[lang].view3d}</button>
   </div>
 }
@@ -144,7 +155,6 @@ export default function App() {
   const slug = caseSlug(hash), isCase = slug !== null
   const works = getWorks(lang), normalizedQuery = query.normalize('NFKC').toLocaleLowerCase().trim()
   const shown = works.filter(work => (category === 'all' || work.category === category) && `${work.title} ${work.summary} ${work.tags.join(' ')}`.normalize('NFKC').toLocaleLowerCase().includes(normalizedQuery))
-  const heroWorks = FEATURED.map(id => works.find(work => work.slug === id)).filter((work): work is WorkDoc => !!work)
   useEffect(() => {
     const previousRestoration = history.scrollRestoration
     history.scrollRestoration = 'manual'
@@ -201,18 +211,10 @@ export default function App() {
     <a className="skip-link" href={isCase ? '#case-start' : '#works'} onClick={isCase ? event => { event.preventDefault(); document.querySelector<HTMLElement>('.case-page')?.focus() } : homeAnchor}>{t.skip}</a>
     <header className={`site-header ${isCase ? 'on-case' : ''}`}><a href="#top" onClick={homeAnchor} className="signature">Sun Yingjie<span>孙英杰</span></a><nav aria-label={lang === 'zh' ? '主导航' : 'Main navigation'}><a href="#works" onClick={homeAnchor}>{t.works}</a><a href="#about" onClick={homeAnchor}>{t.about}</a><a href="#contact" onClick={homeAnchor}>{t.contact}</a></nav><button className="language" onClick={toggleLanguage} aria-label="切换语言 / Switch language">{lang === 'zh' ? 'EN' : '中'}</button></header>
     {isCase ? <CasePage work={getWorkDoc(slug!, lang)} lang={lang} back={back} visit={visit} openPhoto={(photos, index) => setLightbox({ photos, index })} /> : <main id="top">
-      <div className="intro-scene"><Portrait lang={lang} reduced={reduced} />
-        <section className="hero" aria-labelledby="hero-name"><div className="hero-title"><p>{t.profession}</p><h1 id="hero-name">Yingjie Sun</h1></div><div className="hero-side hero-left"><h2>{t.hero}</h2><p>{t.intro}</p><a className="primary" href="#works" onClick={homeAnchor}>{t.explore}<span aria-hidden="true">↗</span></a></div><div className="hero-side hero-right"><span>孙英杰</span><p>{lang === 'zh' ? '产品的尺度，空间的叙事，屏幕里的体验。' : 'Objects, spaces, and experiences on screen.'}</p></div><a className="scroll-cue" href="#journey" onClick={homeAnchor}>{t.scroll}<span aria-hidden="true">↓</span></a></section>
-        <section className="journey" id="journey" aria-label={t.about}><div className="journey-intro"><span>{lang === 'zh' ? '我的设计路径' : 'My practice'}</span><h2>{lang === 'zh' ? <>由物及人，<br />由形入境。</> : <>From objects<br />to experiences.</>}</h2></div><div className="journey-entries">
-          <article><span>2021 — 2025</span><h3>{lang === 'zh' ? '常州工学院' : 'Changzhou Institute of Technology'}</h3><p>{lang === 'zh' ? '产品设计本科。从用户研究、材料工艺到产品结构，建立设计的基本方法。' : 'BA in Product Design. A foundation in user research, materials, processes and product structure.'}</p></article>
-          <article><span>2025</span><h3>{lang === 'zh' ? '湖南欧音文化传媒' : 'Hunan Ouyin Culture & Media'}</h3><p>{lang === 'zh' ? '设计师助理，参与调研与交互原型表达。' : 'Design assistant, contributing to research and interaction prototypes.'}</p></article>
-          <article><span>2025.03 — 2025.12</span><h3>BENWU</h3><p>{lang === 'zh' ? '3D 设计师。参与商业空间与产品的三维表达，研究形态、材质与灯光的关系。' : '3D designer. Commercial space and product visualization through form, material and light.'}</p></article>
-          <article><span>{lang === 'zh' ? '持续探索' : 'Ongoing practice'}</span><h3>{lang === 'zh' ? '设计 × 数字工具' : 'Design × Digital tools'}</h3><p>{lang === 'zh' ? '将设计方法延伸到镜序、砚台和构线，让工具服务于真实的创作流程。' : 'Extending design practice into Lensflow, Yantai and Formline, with tools shaped around creative workflows.'}</p></article>
-        </div></section>
-      </div>
-      <section className="selected-section" aria-labelledby="selected-title"><div className="section-heading"><span>{lang === 'zh' ? '代表作品' : 'Selected work'}</span><h2 id="selected-title">{t.selected}</h2></div><div className="featured-grid">{heroWorks.map(work => renderCard(work, true))}</div><a className="text-link" href="#works" onClick={homeAnchor}>{t.all} <span aria-hidden="true">↓</span></a></section>
+      <SenIntroduction lang={lang} reduced={reduced} portrait={<Portrait lang={lang} reduced={reduced} />} anchor={homeAnchor} />
+      <SenGallery works={works} lang={lang} reduced={reduced} visit={visit} catalogue={homeAnchor} />
       <section className="work-index" id="works" aria-labelledby="index-title"><div className="index-heading"><div><h2 id="index-title">{t.catalog}</h2><p>{t.catalogText}</p></div><span>{String(works.length).padStart(2, '0')} {t.count}</span></div><div className="filters"><div className="category-list" role="group" aria-label={lang === 'zh' ? '作品分类' : 'Work category'}>{Object.entries(CATEGORIES[lang]).map(([value, label]) => <button key={value} aria-pressed={category === value} onClick={() => setCategory(value as Category | 'all')}>{label}</button>)}</div><label className="search"><span aria-hidden="true">⌕</span><input type="search" value={query} onChange={event => setQuery(event.target.value)} placeholder={t.search} aria-label={t.search} /></label></div><p className="result-count" aria-live="polite">{shown.length} / {works.length} {t.count}</p>{shown.length ? <div className="catalog-grid">{shown.map(work => renderCard(work))}</div> : <div className="empty-state"><h3>{t.empty}</h3><p>{t.emptyText}</p><button className="primary" onClick={() => { setCategory('all'); setQuery('') }}>{t.clear}</button></div>}</section>
-      <section className="about-section" id="about"><div className="about-heading"><span>{t.about}</span><h2>{t.aboutTitle}</h2></div><div className="about-body"><p>{t.aboutText}</p><div className="skill-list">{['Rhino', 'KeyShot', 'Blender', 'Figma', 'CMF', 'AIGC'].map(skill => <span key={skill}>{skill}</span>)}</div><a className="download-link" href={asset('/downloads/sun-yingjie-selected-portfolio.pdf')} download><span>{t.resume}<small>{t.resumeNote}</small></span><span aria-hidden="true">↓</span></a><a className="download-link" href={asset('/downloads/sun-yingjie-resume.pdf')} download><span>{t.cv}<small>{t.cvNote}</small></span><span aria-hidden="true">↓</span></a></div></section>
+      <section className="about-section" id="about"><div className="about-heading"><span>{t.about}</span><h2>{t.aboutTitle}</h2></div><div className="about-body"><p>{profile.summary[lang]}</p><div className="skill-list">{['Rhino', 'KeyShot', 'Blender', 'Figma', 'CMF', 'AIGC'].map(skill => <span key={skill}>{skill}</span>)}</div><a className="download-link" href={asset('/downloads/sun-yingjie-selected-portfolio.pdf')} download><span>{t.resume}<small>{t.resumeNote}</small></span><span aria-hidden="true">↓</span></a><a className="download-link" href={asset('/downloads/sun-yingjie-resume.pdf')} download><span>{t.cv}<small>{t.cvNote}</small></span><span aria-hidden="true">↓</span></a></div></section>
       <section className="contact-section" id="contact"><span>{t.contact}</span><h2>{t.contactTitle}</h2><p>{t.contactText}</p><a className="email-link" href="mailto:2950884508@qq.com">2950884508@qq.com<span aria-hidden="true">↗</span></a><div className="contact-actions"><a href="mailto:2950884508@qq.com">{t.email}</a><a href="tel:+8613515249897">{t.phone} · 135 1524 9897</a><a href="https://github.com/AJ-nb" target="_blank" rel="noreferrer">GitHub ↗</a></div></section>
     </main>}
     <footer><span>© 2026 孙英杰 / Yingjie Sun</span><span>{lang === 'zh' ? '用设计连接想法与现实。' : 'Connecting ideas and reality through design.'}</span><a href={isCase ? '#works' : '#top'} onClick={homeAnchor}>{isCase ? t.works : t.top} ↑</a></footer>
