@@ -1,0 +1,1338 @@
+{
+  "started": "2026-09-15T06:48:26.953Z",
+  "base": "http://127.0.0.1:4178/",
+  "buildIndexSha256": "f78181bf413c13fd011112a6ec56470627f942d05a78cb402680dde0ecef356a",
+  "scope": "Production v4 interaction extension; run alongside the complete v3 regression suite. Local isolated Chromium evidence, not field performance data or a complete accessibility certification.",
+  "checkFilter": null,
+  "checks": [
+    {
+      "name": "v4 preview is the exact local production build and all source profiles are preserved",
+      "passed": true,
+      "milliseconds": 8,
+      "detail": {
+        "cases": 33,
+        "languages": 2,
+        "canonicalExperiences": 5
+      }
+    },
+    {
+      "name": "Four hero perspectives match original thumbnails and case links in both languages",
+      "passed": true,
+      "milliseconds": 1066,
+      "detail": [
+        {
+          "lang": "zh",
+          "slug": "hermes",
+          "source": "http://127.0.0.1:4178/thumbnails/hermes.webp"
+        },
+        {
+          "lang": "zh",
+          "slug": "plumber",
+          "source": "http://127.0.0.1:4178/thumbnails/plumber.webp"
+        },
+        {
+          "lang": "zh",
+          "slug": "biyuan",
+          "source": "http://127.0.0.1:4178/thumbnails/biyuan.webp"
+        },
+        {
+          "lang": "zh",
+          "slug": "periastra",
+          "source": "http://127.0.0.1:4178/thumbnails/periastra.webp"
+        },
+        {
+          "lang": "zh",
+          "slug": "hermes",
+          "source": "http://127.0.0.1:4178/thumbnails/hermes.webp"
+        },
+        {
+          "lang": "en",
+          "slug": "hermes",
+          "source": "http://127.0.0.1:4178/thumbnails/hermes.webp"
+        },
+        {
+          "lang": "en",
+          "slug": "plumber",
+          "source": "http://127.0.0.1:4178/thumbnails/plumber.webp"
+        },
+        {
+          "lang": "en",
+          "slug": "biyuan",
+          "source": "http://127.0.0.1:4178/thumbnails/biyuan.webp"
+        },
+        {
+          "lang": "en",
+          "slug": "periastra",
+          "source": "http://127.0.0.1:4178/thumbnails/periastra.webp"
+        },
+        {
+          "lang": "en",
+          "slug": "hermes",
+          "source": "http://127.0.0.1:4178/thumbnails/hermes.webp"
+        }
+      ]
+    },
+    {
+      "name": "Homepage skip link moves keyboard focus to the catalogue and the next tab reaches its controls",
+      "passed": true,
+      "milliseconds": 256,
+      "detail": {
+        "languages": 2,
+        "targetFocused": true,
+        "nextTabInCatalogue": true
+      }
+    },
+    {
+      "name": "Selected works expose three original projects, explanations and operable case links",
+      "passed": true,
+      "milliseconds": 460,
+      "detail": {
+        "projects": [
+          "lighting",
+          "huhu-care",
+          "lensflow"
+        ],
+        "focusKey": "selected:lensflow"
+      }
+    },
+    {
+      "name": "Personal profile contains five source experiences, six expandable capabilities and four downloads",
+      "passed": true,
+      "milliseconds": 554,
+      "detail": [
+        {
+          "lang": "zh",
+          "experiences": 5,
+          "capabilities": 6,
+          "downloads": [
+            "sun-yingjie-selected-portfolio.pdf",
+            "sun-yingjie-full-portfolio.pdf",
+            "sun-yingjie-resume.pdf",
+            "sun-yingjie-resume.docx"
+          ]
+        },
+        {
+          "lang": "en",
+          "experiences": 5,
+          "capabilities": 6,
+          "downloads": [
+            "sun-yingjie-selected-portfolio.pdf",
+            "sun-yingjie-full-portfolio.pdf",
+            "sun-yingjie-resume.pdf",
+            "sun-yingjie-resume.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Five design methods change their explanation and project evidence with keyboard operation",
+      "passed": true,
+      "milliseconds": 677,
+      "detail": [
+        {
+          "lang": "zh",
+          "method": "frame",
+          "hrefs": [
+            "#/work/huhu-care",
+            "#/work/plumber"
+          ]
+        },
+        {
+          "lang": "zh",
+          "method": "observe",
+          "hrefs": [
+            "#/work/lighting",
+            "#/work/yantai"
+          ]
+        },
+        {
+          "lang": "zh",
+          "method": "compare",
+          "hrefs": [
+            "#/work/periastra",
+            "#/work/formline"
+          ]
+        },
+        {
+          "lang": "zh",
+          "method": "respond",
+          "hrefs": [
+            "#/work/lensflow",
+            "#/work/resume-formatter"
+          ]
+        },
+        {
+          "lang": "zh",
+          "method": "handover",
+          "hrefs": [
+            "#/work/formline",
+            "#/work/yantai"
+          ]
+        },
+        {
+          "lang": "zh",
+          "method": "frame",
+          "hrefs": [
+            "#/work/huhu-care",
+            "#/work/plumber"
+          ]
+        },
+        {
+          "lang": "en",
+          "method": "frame",
+          "hrefs": [
+            "#/work/huhu-care",
+            "#/work/plumber"
+          ]
+        },
+        {
+          "lang": "en",
+          "method": "observe",
+          "hrefs": [
+            "#/work/lighting",
+            "#/work/yantai"
+          ]
+        },
+        {
+          "lang": "en",
+          "method": "compare",
+          "hrefs": [
+            "#/work/periastra",
+            "#/work/formline"
+          ]
+        },
+        {
+          "lang": "en",
+          "method": "respond",
+          "hrefs": [
+            "#/work/lensflow",
+            "#/work/resume-formatter"
+          ]
+        },
+        {
+          "lang": "en",
+          "method": "handover",
+          "hrefs": [
+            "#/work/formline",
+            "#/work/yantai"
+          ]
+        },
+        {
+          "lang": "en",
+          "method": "frame",
+          "hrefs": [
+            "#/work/huhu-care",
+            "#/work/plumber"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gallery and list views retain search, selections and focus through section navigation, reload and case return",
+      "passed": true,
+      "milliseconds": 947,
+      "detail": {
+        "focusKey": "catalog:plumber",
+        "sourceCount": 33,
+        "filteredCount": 1,
+        "reload": true,
+        "sectionNavigation": [
+          "#about",
+          "#contact"
+        ],
+        "restoredHero": "biyuan",
+        "restoredMethod": "handover",
+        "capabilityExpanded": true
+      }
+    },
+    {
+      "name": "Returning from a non-default hero perspective restores the selected project and initiating focus",
+      "passed": true,
+      "milliseconds": 338,
+      "detail": {
+        "focusKey": "hero:biyuan",
+        "restoredSelection": 2
+      }
+    },
+    {
+      "name": "Returning from a non-default design method restores its explanation and initiating focus",
+      "passed": true,
+      "milliseconds": 283,
+      "detail": {
+        "focusKey": "method:handover:formline",
+        "method": "handover"
+      }
+    },
+    {
+      "name": "Returning from an expanded capability reopens the initiating evidence link",
+      "passed": true,
+      "milliseconds": 233,
+      "detail": {
+        "focusKey": "capability:ai-workflows:lensflow",
+        "expanded": true
+      }
+    },
+    {
+      "name": "Still browsing persists, respects the system preference and preserves content and reading anchors",
+      "passed": true,
+      "milliseconds": 1180,
+      "detail": {
+        "persists": true,
+        "before": {
+          "top": 89.59375,
+          "left": 0
+        },
+        "after": {
+          "top": 89.65625,
+          "left": 0
+        },
+        "systemWins": true,
+        "runningAnimations": 0
+      }
+    },
+    {
+      "name": "Contact copy succeeds and permission failure provides readable recovery",
+      "passed": true,
+      "milliseconds": 1174,
+      "detail": {
+        "bilingualCopy": true,
+        "deniedClipboardRecovery": true
+      }
+    },
+    {
+      "name": "Bilingual hero, profile, method and list layouts fit desktop, short screens and mobile touch targets",
+      "passed": true,
+      "milliseconds": 4847,
+      "detail": [
+        {
+          "size": {
+            "width": 320,
+            "height": 844
+          },
+          "lang": "zh",
+          "viewport": 320,
+          "document": 320,
+          "body": 320,
+          "hero": {
+            "top": 585,
+            "bottom": 749,
+            "visibleHeight": 164.703125
+          }
+        },
+        {
+          "size": {
+            "width": 320,
+            "height": 844
+          },
+          "lang": "en",
+          "viewport": 320,
+          "document": 320,
+          "body": 320,
+          "hero": {
+            "top": 713,
+            "bottom": 878,
+            "visibleHeight": 130.6875
+          }
+        },
+        {
+          "size": {
+            "width": 390,
+            "height": 844
+          },
+          "lang": "zh",
+          "viewport": 390,
+          "document": 390,
+          "body": 390,
+          "hero": {
+            "top": 602,
+            "bottom": 808,
+            "visibleHeight": 205.875
+          }
+        },
+        {
+          "size": {
+            "width": 390,
+            "height": 844
+          },
+          "lang": "en",
+          "viewport": 390,
+          "document": 390,
+          "body": 390,
+          "hero": {
+            "top": 626,
+            "bottom": 832,
+            "visibleHeight": 205.875
+          }
+        },
+        {
+          "size": {
+            "width": 768,
+            "height": 1000
+          },
+          "lang": "zh",
+          "viewport": 768,
+          "document": 768,
+          "body": 768,
+          "hero": {
+            "top": 419,
+            "bottom": 646,
+            "visibleHeight": 226.59375
+          }
+        },
+        {
+          "size": {
+            "width": 768,
+            "height": 1000
+          },
+          "lang": "en",
+          "viewport": 768,
+          "document": 768,
+          "body": 768,
+          "hero": {
+            "top": 419,
+            "bottom": 646,
+            "visibleHeight": 226.59375
+          }
+        },
+        {
+          "size": {
+            "width": 1440,
+            "height": 1000
+          },
+          "lang": "zh",
+          "viewport": 1440,
+          "document": 1440,
+          "body": 1440,
+          "hero": {
+            "top": 568,
+            "bottom": 1015,
+            "visibleHeight": 431.796875
+          }
+        },
+        {
+          "size": {
+            "width": 1440,
+            "height": 1000
+          },
+          "lang": "en",
+          "viewport": 1440,
+          "document": 1440,
+          "body": 1440,
+          "hero": {
+            "top": 568,
+            "bottom": 1015,
+            "visibleHeight": 431.796875
+          }
+        },
+        {
+          "size": {
+            "width": 1440,
+            "height": 720
+          },
+          "lang": "zh",
+          "viewport": 1440,
+          "document": 1440,
+          "body": 1440,
+          "hero": {
+            "top": 457,
+            "bottom": 819,
+            "visibleHeight": 263.15625
+          }
+        },
+        {
+          "size": {
+            "width": 1440,
+            "height": 720
+          },
+          "lang": "en",
+          "viewport": 1440,
+          "document": 1440,
+          "body": 1440,
+          "hero": {
+            "top": 457,
+            "bottom": 819,
+            "visibleHeight": 263.15625
+          }
+        }
+      ]
+    },
+    {
+      "name": "Touch input operates the featured work selector, methods and expandable capabilities",
+      "passed": true,
+      "milliseconds": 1069,
+      "detail": {
+        "width": 390,
+        "touch": true,
+        "hero": true,
+        "method": true,
+        "capability": true
+      }
+    },
+    {
+      "name": "Portrait loads near the desktop viewport, responds to local pointer movement, stops offscreen and requires a mobile tap",
+      "passed": true,
+      "milliseconds": 10492,
+      "detail": {
+        "desktop": {
+          "modelRequests": 1,
+          "pointerChangedPixels": true,
+          "activeDraws": 4200,
+          "stoppedBefore": 4240,
+          "stoppedAfter": 4240,
+          "staticFallback": true
+        },
+        "mobile": {
+          "modelRequests": 1,
+          "deliberateTap": true,
+          "staticFallback": true
+        }
+      }
+    },
+    {
+      "name": "Case guide and sticky outline remain hittable and reveal unobscured headings after scrolling",
+      "passed": true,
+      "milliseconds": 4353,
+      "detail": [
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "lang": "zh",
+          "slug": "hermes",
+          "surface": ".case-reading",
+          "section": 3,
+          "position": {
+            "headingTop": 159.65625,
+            "headingBottom": 231.625,
+            "headerBottom": 76.796875,
+            "outlineTop": 76.796875,
+            "outlineBottom": 139.59375,
+            "viewportHeight": 844
+          }
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "lang": "zh",
+          "slug": "hermes",
+          "surface": ".case-outline",
+          "section": 1,
+          "position": {
+            "headingTop": 159.328125,
+            "headingBottom": 231.296875,
+            "headerBottom": 76.796875,
+            "outlineTop": 76.796875,
+            "outlineBottom": 139.59375,
+            "viewportHeight": 844
+          }
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "lang": "zh",
+          "slug": "hermes",
+          "surface": ".case-outline",
+          "section": 4,
+          "position": {
+            "headingTop": 159.984375,
+            "headingBottom": 231.953125,
+            "headerBottom": 76.796875,
+            "outlineTop": 76.796875,
+            "outlineBottom": 139.59375,
+            "viewportHeight": 844
+          }
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "lang": "zh",
+          "slug": "resume-formatter",
+          "surface": ".case-reading",
+          "section": 3,
+          "position": {
+            "headingTop": 159.484375,
+            "headingBottom": 231.453125,
+            "headerBottom": 76.796875,
+            "outlineTop": 76.796875,
+            "outlineBottom": 139.59375,
+            "viewportHeight": 844
+          }
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "lang": "zh",
+          "slug": "resume-formatter",
+          "surface": ".case-outline",
+          "section": 1,
+          "position": {
+            "headingTop": 159.953125,
+            "headingBottom": 231.921875,
+            "headerBottom": 76.796875,
+            "outlineTop": 76.796875,
+            "outlineBottom": 139.59375,
+            "viewportHeight": 844
+          }
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "lang": "zh",
+          "slug": "resume-formatter",
+          "surface": ".case-outline",
+          "section": 4,
+          "position": {
+            "headingTop": 159.5625,
+            "headingBottom": 231.53125,
+            "headerBottom": 76.796875,
+            "outlineTop": 76.796875,
+            "outlineBottom": 139.59375,
+            "viewportHeight": 844
+          }
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "lang": "en",
+          "slug": "hermes",
+          "surface": ".case-reading",
+          "section": 3,
+          "position": {
+            "headingTop": 159.171875,
+            "headingBottom": 231.140625,
+            "headerBottom": 76.796875,
+            "outlineTop": 76.796875,
+            "outlineBottom": 139.59375,
+            "viewportHeight": 844
+          }
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "lang": "en",
+          "slug": "hermes",
+          "surface": ".case-outline",
+          "section": 1,
+          "position": {
+            "headingTop": 159.84375,
+            "headingBottom": 231.8125,
+            "headerBottom": 76.796875,
+            "outlineTop": 76.796875,
+            "outlineBottom": 139.59375,
+            "viewportHeight": 844
+          }
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "lang": "en",
+          "slug": "hermes",
+          "surface": ".case-outline",
+          "section": 4,
+          "position": {
+            "headingTop": 159.8125,
+            "headingBottom": 231.78125,
+            "headerBottom": 76.796875,
+            "outlineTop": 76.796875,
+            "outlineBottom": 139.59375,
+            "viewportHeight": 844
+          }
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "lang": "en",
+          "slug": "resume-formatter",
+          "surface": ".case-reading",
+          "section": 3,
+          "position": {
+            "headingTop": 160.046875,
+            "headingBottom": 232.015625,
+            "headerBottom": 76.796875,
+            "outlineTop": 76.796875,
+            "outlineBottom": 139.59375,
+            "viewportHeight": 844
+          }
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "lang": "en",
+          "slug": "resume-formatter",
+          "surface": ".case-outline",
+          "section": 1,
+          "position": {
+            "headingTop": 159.515625,
+            "headingBottom": 231.484375,
+            "headerBottom": 76.796875,
+            "outlineTop": 76.796875,
+            "outlineBottom": 139.59375,
+            "viewportHeight": 844
+          }
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "lang": "en",
+          "slug": "resume-formatter",
+          "surface": ".case-outline",
+          "section": 4,
+          "position": {
+            "headingTop": 159.4375,
+            "headingBottom": 231.40625,
+            "headerBottom": 76.796875,
+            "outlineTop": 76.796875,
+            "outlineBottom": 139.59375,
+            "viewportHeight": 844
+          }
+        },
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 720
+          },
+          "lang": "zh",
+          "slug": "hermes",
+          "surface": ".case-reading",
+          "section": 3,
+          "position": {
+            "headingTop": 172.875,
+            "headingBottom": 272.875,
+            "headerBottom": 89.59375,
+            "outlineTop": 89.59375,
+            "outlineBottom": 152.390625,
+            "viewportHeight": 720
+          }
+        },
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 720
+          },
+          "lang": "zh",
+          "slug": "hermes",
+          "surface": ".case-outline",
+          "section": 1,
+          "position": {
+            "headingTop": 171.984375,
+            "headingBottom": 271.984375,
+            "headerBottom": 89.59375,
+            "outlineTop": 89.59375,
+            "outlineBottom": 152.390625,
+            "viewportHeight": 720
+          }
+        },
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 720
+          },
+          "lang": "zh",
+          "slug": "hermes",
+          "surface": ".case-outline",
+          "section": 4,
+          "position": {
+            "headingTop": 172.359375,
+            "headingBottom": 272.359375,
+            "headerBottom": 89.59375,
+            "outlineTop": 89.59375,
+            "outlineBottom": 152.390625,
+            "viewportHeight": 720
+          }
+        },
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 720
+          },
+          "lang": "zh",
+          "slug": "resume-formatter",
+          "surface": ".case-reading",
+          "section": 3,
+          "position": {
+            "headingTop": 172.796875,
+            "headingBottom": 272.796875,
+            "headerBottom": 89.59375,
+            "outlineTop": 89.59375,
+            "outlineBottom": 152.390625,
+            "viewportHeight": 720
+          }
+        },
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 720
+          },
+          "lang": "zh",
+          "slug": "resume-formatter",
+          "surface": ".case-outline",
+          "section": 1,
+          "position": {
+            "headingTop": 172.265625,
+            "headingBottom": 272.265625,
+            "headerBottom": 89.59375,
+            "outlineTop": 89.59375,
+            "outlineBottom": 152.390625,
+            "viewportHeight": 720
+          }
+        },
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 720
+          },
+          "lang": "zh",
+          "slug": "resume-formatter",
+          "surface": ".case-outline",
+          "section": 4,
+          "position": {
+            "headingTop": 172.03125,
+            "headingBottom": 272.03125,
+            "headerBottom": 89.59375,
+            "outlineTop": 89.59375,
+            "outlineBottom": 152.390625,
+            "viewportHeight": 720
+          }
+        },
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 720
+          },
+          "lang": "en",
+          "slug": "hermes",
+          "surface": ".case-reading",
+          "section": 3,
+          "position": {
+            "headingTop": 172.609375,
+            "headingBottom": 272.609375,
+            "headerBottom": 89.59375,
+            "outlineTop": 89.59375,
+            "outlineBottom": 152.390625,
+            "viewportHeight": 720
+          }
+        },
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 720
+          },
+          "lang": "en",
+          "slug": "hermes",
+          "surface": ".case-outline",
+          "section": 1,
+          "position": {
+            "headingTop": 171.96875,
+            "headingBottom": 271.96875,
+            "headerBottom": 89.59375,
+            "outlineTop": 89.59375,
+            "outlineBottom": 152.390625,
+            "viewportHeight": 720
+          }
+        },
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 720
+          },
+          "lang": "en",
+          "slug": "hermes",
+          "surface": ".case-outline",
+          "section": 4,
+          "position": {
+            "headingTop": 172.65625,
+            "headingBottom": 272.65625,
+            "headerBottom": 89.59375,
+            "outlineTop": 89.59375,
+            "outlineBottom": 152.390625,
+            "viewportHeight": 720
+          }
+        },
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 720
+          },
+          "lang": "en",
+          "slug": "resume-formatter",
+          "surface": ".case-reading",
+          "section": 3,
+          "position": {
+            "headingTop": 172.078125,
+            "headingBottom": 272.078125,
+            "headerBottom": 89.59375,
+            "outlineTop": 89.59375,
+            "outlineBottom": 152.390625,
+            "viewportHeight": 720
+          }
+        },
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 720
+          },
+          "lang": "en",
+          "slug": "resume-formatter",
+          "surface": ".case-outline",
+          "section": 1,
+          "position": {
+            "headingTop": 171.984375,
+            "headingBottom": 271.984375,
+            "headerBottom": 89.59375,
+            "outlineTop": 89.59375,
+            "outlineBottom": 152.390625,
+            "viewportHeight": 720
+          }
+        },
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 720
+          },
+          "lang": "en",
+          "slug": "resume-formatter",
+          "surface": ".case-outline",
+          "section": 4,
+          "position": {
+            "headingTop": 172.0625,
+            "headingBottom": 272.0625,
+            "headerBottom": 89.59375,
+            "outlineTop": 89.59375,
+            "outlineBottom": 152.390625,
+            "viewportHeight": 720
+          }
+        }
+      ]
+    },
+    {
+      "name": "New hero, expanded profile, design methods, list and contact pass automated accessibility checks",
+      "passed": true,
+      "milliseconds": 31902,
+      "detail": [
+        {
+          "label": "hero-zh-390",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "profile-zh-390",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "method-zh-390",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "list-zh-390",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "contact-zh-390",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "hero-en-390",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "profile-en-390",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "method-en-390",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "list-en-390",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "contact-en-390",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "hero-zh-1440",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "profile-zh-1440",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "method-zh-1440",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "list-zh-1440",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "contact-zh-1440",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "hero-en-1440",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "profile-en-1440",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "method-en-1440",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "list-en-1440",
+          "violations": 0,
+          "incomplete": 2
+        },
+        {
+          "label": "contact-en-1440",
+          "violations": 0,
+          "incomplete": 2
+        }
+      ]
+    },
+    {
+      "name": "v4 interactions produce no uncaught errors or unexpected failed requests",
+      "passed": true,
+      "milliseconds": 16,
+      "detail": {
+        "runtimeErrors": 0,
+        "failedRequests": 0,
+        "consoleErrors": 0
+      }
+    }
+  ],
+  "accessibility": [
+    {
+      "label": "hero-zh-390",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "profile-zh-390",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "method-zh-390",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "list-zh-390",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "contact-zh-390",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "hero-en-390",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "profile-en-390",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "method-en-390",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "list-en-390",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "contact-en-390",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "hero-zh-1440",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "profile-zh-1440",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "method-zh-1440",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "list-zh-1440",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "contact-zh-1440",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "hero-en-1440",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "profile-en-1440",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "method-en-1440",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "list-en-1440",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "contact-en-1440",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    }
+  ],
+  "runtimeErrors": [],
+  "consoleErrors": [],
+  "failedRequests": [],
+  "browserVersion": "153.0.8010.36",
+  "browserSource": "existing local Chromium-family browser",
+  "responsive": {
+    "layouts": [
+      {
+        "size": {
+          "width": 320,
+          "height": 844
+        },
+        "lang": "zh",
+        "viewport": 320,
+        "document": 320,
+        "body": 320,
+        "hero": {
+          "top": 585,
+          "bottom": 749,
+          "visibleHeight": 164.703125
+        }
+      },
+      {
+        "size": {
+          "width": 320,
+          "height": 844
+        },
+        "lang": "en",
+        "viewport": 320,
+        "document": 320,
+        "body": 320,
+        "hero": {
+          "top": 713,
+          "bottom": 878,
+          "visibleHeight": 130.6875
+        }
+      },
+      {
+        "size": {
+          "width": 390,
+          "height": 844
+        },
+        "lang": "zh",
+        "viewport": 390,
+        "document": 390,
+        "body": 390,
+        "hero": {
+          "top": 602,
+          "bottom": 808,
+          "visibleHeight": 205.875
+        }
+      },
+      {
+        "size": {
+          "width": 390,
+          "height": 844
+        },
+        "lang": "en",
+        "viewport": 390,
+        "document": 390,
+        "body": 390,
+        "hero": {
+          "top": 626,
+          "bottom": 832,
+          "visibleHeight": 205.875
+        }
+      },
+      {
+        "size": {
+          "width": 768,
+          "height": 1000
+        },
+        "lang": "zh",
+        "viewport": 768,
+        "document": 768,
+        "body": 768,
+        "hero": {
+          "top": 419,
+          "bottom": 646,
+          "visibleHeight": 226.59375
+        }
+      },
+      {
+        "size": {
+          "width": 768,
+          "height": 1000
+        },
+        "lang": "en",
+        "viewport": 768,
+        "document": 768,
+        "body": 768,
+        "hero": {
+          "top": 419,
+          "bottom": 646,
+          "visibleHeight": 226.59375
+        }
+      },
+      {
+        "size": {
+          "width": 1440,
+          "height": 1000
+        },
+        "lang": "zh",
+        "viewport": 1440,
+        "document": 1440,
+        "body": 1440,
+        "hero": {
+          "top": 568,
+          "bottom": 1015,
+          "visibleHeight": 431.796875
+        }
+      },
+      {
+        "size": {
+          "width": 1440,
+          "height": 1000
+        },
+        "lang": "en",
+        "viewport": 1440,
+        "document": 1440,
+        "body": 1440,
+        "hero": {
+          "top": 568,
+          "bottom": 1015,
+          "visibleHeight": 431.796875
+        }
+      },
+      {
+        "size": {
+          "width": 1440,
+          "height": 720
+        },
+        "lang": "zh",
+        "viewport": 1440,
+        "document": 1440,
+        "body": 1440,
+        "hero": {
+          "top": 457,
+          "bottom": 819,
+          "visibleHeight": 263.15625
+        }
+      },
+      {
+        "size": {
+          "width": 1440,
+          "height": 720
+        },
+        "lang": "en",
+        "viewport": 1440,
+        "document": 1440,
+        "body": 1440,
+        "hero": {
+          "top": 457,
+          "bottom": 819,
+          "visibleHeight": 263.15625
+        }
+      }
+    ],
+    "undersized": [],
+    "cropped": [],
+    "overflowErrors": []
+  },
+  "finished": "2026-09-15T06:49:28.005Z",
+  "summary": {
+    "passed": 18,
+    "failed": 0,
+    "accessibilityStates": 20
+  }
+}

@@ -1,40 +1,8 @@
-import { useEffect, useRef, useState, type MouseEvent, type ReactNode } from 'react'
+import { useEffect, useRef, useState, type MouseEvent } from 'react'
 import { motion, useMotionValueEvent, useScroll, useTransform } from 'framer-motion'
-import profile from '../data/profile.json'
 import { CHAPTERS } from '../data/chapters'
 import { chapterIdeas } from '../data/editorial'
 import { asset, type Lang, type WorkDoc } from '../data/workDocs'
-
-const ease = [0.22, 1, 0.36, 1] as const
-
-export function SenIntroduction({ lang, reduced, portrait, anchor }: { lang: Lang; reduced: boolean; portrait: ReactNode; anchor: (event: MouseEvent<HTMLAnchorElement>) => void }) {
-  const timeline = useRef<HTMLElement>(null)
-  const { scrollY } = useScroll()
-  const { scrollYProgress } = useScroll({ target: timeline, offset: ['start 0.6', 'start start'] })
-  const opacity = useTransform(scrollYProgress, [0, .5], [1, 0])
-  const titleY = useTransform(scrollYProgress, [0, 1], [0, -96])
-  const bodyY = useTransform(scrollYProgress, [0, 1], [0, -52])
-  const frameOpacity = useTransform(scrollY, [0, 280], [1, 0])
-  const scrimOpacity = useTransform(scrollY, [0, 520], [0, .4])
-  return <div className="intro-scene">
-    {portrait}
-    <motion.div className="sen-scrim" style={{ opacity: reduced ? .2 : scrimOpacity }} aria-hidden="true" />
-    <div className="sen-grain" aria-hidden="true" />
-    <motion.div className="sen-frame" style={{ opacity: reduced ? 1 : frameOpacity }} aria-hidden="true"><i /><i /><i /><i /><span>{profile.position[lang]}</span><span>{lang === 'zh' ? '作品与实践 · 2026' : 'Selected practice · 2026'}</span></motion.div>
-    <section className="sen-hero" aria-labelledby="hero-name">
-      <motion.div className="sen-hero-copy" style={reduced ? undefined : { opacity }}>
-        <motion.h1 id="hero-name" style={reduced ? undefined : { y: titleY }}>{profile.name[lang]}</motion.h1>
-        <motion.div style={reduced ? undefined : { y: bodyY }}><p className="sen-position">{profile.position[lang]}</p><p className="sen-summary">{profile.summary[lang]}</p><a href="#works" onClick={anchor} className="sen-explore">{lang === 'zh' ? '浏览作品' : 'Explore work'} <span aria-hidden="true">↓</span></a></motion.div>
-      </motion.div>
-    </section>
-    <section ref={timeline} className="sen-resume" id="journey" aria-labelledby="journey-title">
-      <div className="sen-resume-heading"><span>{lang === 'zh' ? '设计路径' : 'My practice'}</span><h2 id="journey-title">{lang === 'zh' ? <>从物的设计，<br />到体验的构建。</> : <>From objects<br />to experiences.</>}</h2></div>
-      <div className="sen-glass-rail"><div className="tl-list">{profile.timeline.map(entry => <motion.article className="tl-entry" data-point={entry.point} key={entry.id} initial={reduced ? false : { opacity: 0, y: 28 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true, amount: .2 }} transition={{ duration: .65, ease }}>
-        <span className="tl-period">{entry.period[lang]}</span><h3>{entry.place[lang]}</h3><span className="tl-role">{entry.role[lang]}</span><p>{entry.description[lang]}</p>
-      </motion.article>)}</div></div>
-    </section>
-  </div>
-}
 
 export function SenGallery({ works, lang, reduced, visit, catalogue }: { works: WorkDoc[]; lang: Lang; reduced: boolean; visit: (slug: string) => void; catalogue: (event: MouseEvent<HTMLAnchorElement>) => void }) {
   const gallery = useRef<HTMLElement>(null)

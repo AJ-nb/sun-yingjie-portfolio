@@ -1,0 +1,3846 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-15T05:53:25.108Z",
+  "provider": "GitHub REST through authenticated gh CLI",
+  "scope": "10 search themes, 11 queries including one broadened zero-result query; first 20 repositories by stars per query, not an exhaustive scan.",
+  "method": "Stars order is an entry point only. Selection requires source, README and license review; personal brand and demo media are not automatically licensed by the code license.",
+  "queries": [
+    {
+      "group": "creative-developer",
+      "q": "creative developer portfolio stars:>10",
+      "searchedAt": "2026-09-15T05:52:33.381Z",
+      "status": 0,
+      "results": [
+        {
+          "defaultBranch": "master",
+          "description": "This repo is dedicated to collecting and showcasing the coolest GitHub profile READMEs from developers around the world. Whether your README is visually stunning, informative, or uniquely creative, we’d love to see it here!",
+          "fullName": "nikhilsbuilds/Cool-GitHub-Profile-README",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "cc0-1.0",
+            "name": "Creative Commons Zero v1.0 Universal",
+            "url": "https://api.github.com/licenses/cc0-1.0"
+          },
+          "pushedAt": "2025-09-02T04:26:54Z",
+          "stargazersCount": 111,
+          "url": "https://github.com/nikhilsbuilds/Cool-GitHub-Profile-README"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "An Open Sourced Creative Portfolio for Developer and Tech Geeks  😀",
+          "fullName": "sleepyqadir/TechFolio",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2023-10-02T00:04:35Z",
+          "stargazersCount": 76,
+          "url": "https://github.com/sleepyqadir/TechFolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "A personal portfolio for developers and designers, built with Next.js and styled with TailwindCSS. It features a clean UI, responsive layout, and sections to showcase projects, experience, and creative skills.",
+          "fullName": "ibrahimmemonn/Figma-Portfolio",
+          "homepage": "https://figma-portfolio-ten.vercel.app",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-08-07T10:17:45Z",
+          "stargazersCount": 68,
+          "url": "https://github.com/ibrahimmemonn/Figma-Portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": " A curated list of awesome creative personal websites from awesome designers and developers 😎.",
+          "fullName": "Arif-un/awesome-portfolio-websites",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2026-08-30T16:14:44Z",
+          "stargazersCount": 64,
+          "url": "https://github.com/Arif-un/awesome-portfolio-websites"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "SS2025 — ✨ Personal site & portfolio for creative developer Henry Desroches ",
+          "fullName": "xdesro/true-terrors",
+          "homepage": "https://henry.codes",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-09-08T15:49:07Z",
+          "stargazersCount": 64,
+          "url": "https://github.com/xdesro/true-terrors"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "FW2021 — ✨ Personal site & portfolio for creative developer Henry Desroches",
+          "fullName": "xdesro/soon",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2024-04-11T01:31:21Z",
+          "stargazersCount": 58,
+          "url": "https://github.com/xdesro/soon"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "A beautifully crafted and fully responsive developer portfolio with an aesthetic, modern UI built using HTML, CSS, and JavaScript to showcase my projects, skills, and creative personality.",
+          "fullName": "NausheenFaiyaz/NausheenFaiyazPortfolio",
+          "homepage": "https://nausheenportfolio.vercel.app/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-05-30T06:25:07Z",
+          "stargazersCount": 51,
+          "url": "https://github.com/NausheenFaiyaz/NausheenFaiyazPortfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Explore 90+ unique and creative project ideas for developers, learners, and professionals. Perfect for building innovative apps, enhancing portfolios, and mastering skills. Contribute, share, and bring ideas to life! Fork this GitHub repo and start your coding journey today. 🚀",
+          "fullName": "king04aman/Unique-Project-Ideas",
+          "homepage": "https://github.com/king04aman/Unique-Project-Ideas",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2025-02-28T17:23:46Z",
+          "stargazersCount": 45,
+          "url": "https://github.com/king04aman/Unique-Project-Ideas"
+        },
+        {
+          "defaultBranch": "start-engine",
+          "description": "This project aims to provide an immersive and visually striking portfolio website using cutting-edge technologies. Whether you're a designer, developer, or creative professional, this portfolio template will leave a lasting impression on your visitors.",
+          "fullName": "Andrew-Tsegaye/Stunning_3D_Portfolio_Website",
+          "homepage": "https://eskinder.vercel.app",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2024-06-27T06:22:23Z",
+          "stargazersCount": 35,
+          "url": "https://github.com/Andrew-Tsegaye/Stunning_3D_Portfolio_Website"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "This Portfolio is a sleek, minimalist portfolio platform designed for developers, designers, and creatives who want a professional online presence with full control over their content. It features a clean black-and-white aesthetic, a built-in admin dashboard for managing blogs, projects, testimonials, and gallery items, plus a secure backend ",
+          "fullName": "heyrapto/raptomx-portfolio",
+          "homepage": "https://raptomx.vercel.app",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-05-10T22:48:36Z",
+          "stargazersCount": 35,
+          "url": "https://github.com/heyrapto/raptomx-portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "SS2019 — ✨ Personal site & portfolio for creative developer Henry Desroches",
+          "fullName": "xdesro/vogue",
+          "homepage": "https://henry.codes",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2022-02-10T18:51:30Z",
+          "stargazersCount": 31,
+          "url": "https://github.com/xdesro/vogue"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Hola is a modern and stylish vCard website template. Designed to be a resume, vCard, portfolio template, it’s the perfect template for creative designers, developers, freelancers, photographer or any creative profession. It is fully responsive and retina/hi-dpi ready. It will look great on any devices from desktop to mobile phones. It has blog page templates, working contact form, stylish portfolio section and other features you will only find on premium templates. Built with clean and organized code, this template is also very easy to customize.",
+          "fullName": "devlom/grav-theme-hola",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2025-06-26T10:38:54Z",
+          "stargazersCount": 28,
+          "url": "https://github.com/devlom/grav-theme-hola"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "A definitive portfolio network for developers, designers, and creative engineers. Features a high-performance \"Industrial UI,\" real-time filtering with holographic maps, and deep GitHub integration. Built with Next.js 15, Tailwind, and Framer Motion.",
+          "fullName": "andymarrow/Stark",
+          "homepage": "https://stark.et",
+          "isArchived": false,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "url": ""
+          },
+          "pushedAt": "2026-09-14T16:38:53Z",
+          "stargazersCount": 26,
+          "url": "https://github.com/andymarrow/Stark"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Modern Portfolio is a sleek, interactive, and high-performance developer portfolio template built using Next.js, Framer Motion, and Tailwind CSS. Designed for modern web developers and creative professionals, this template offers a clean, professional interface to showcase skills, experience, and projects with style and precision.",
+          "fullName": "Shamim-Al-Mamun/Modern-Portfolio-NextJS-Framer-Motion",
+          "homepage": "https://modern-portfolio-next-js-framer-motion.vercel.app",
+          "isArchived": false,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "url": ""
+          },
+          "pushedAt": "2025-03-24T07:46:22Z",
+          "stargazersCount": 23,
+          "url": "https://github.com/Shamim-Al-Mamun/Modern-Portfolio-NextJS-Framer-Motion"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Polaris is a sleek and modern portfolio template built with Astro, designed to help designers, developers, and creatives showcase their work with clarity and style. Inspired by the guiding North Star, Polaris puts your projects in the spotlight while keeping the layout clean, responsive, and performance-focused.",
+          "fullName": "educlopez/Polaris",
+          "homepage": "https://polaris-six-rust.vercel.app",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2026-07-31T15:27:30Z",
+          "stargazersCount": 23,
+          "url": "https://github.com/educlopez/Polaris"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Welcome to my 3D interactive developer portfolio, crafted using React, Three.js (@react-three/fiber), and Framer Motion. This project showcases my web development skills, creative design sense, and a passion for immersive UI/UX experiences.",
+          "fullName": "Aditya-9944/3d-react-portfolio",
+          "homepage": "https://aditya-portfollio.netlify.app/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2025-07-18T11:10:02Z",
+          "stargazersCount": 19,
+          "url": "https://github.com/Aditya-9944/3d-react-portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "modern portfolio websites**, **developer showcase templates**, and **creative web interfaces** using a variety of frameworks, design systems, and frontend technologies.  My GitHub features portfolio projects ranging from:  - clean and minimal layouts - premium business-style templates - terminal-inspired developer portfolios",
+          "fullName": "Dev-moe-kyawaung/Flutter-Web-Portfolio-Wpa",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-06-10T17:41:59Z",
+          "stargazersCount": 16,
+          "url": "https://github.com/Dev-moe-kyawaung/Flutter-Web-Portfolio-Wpa"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Looking for inspiration to create the best web developer portfolio website? Explore this personal portfolio website designed specifically for modern developers and creatives. Whether you're a full-stack web developer, a front-end web developer, or a graphic designer, this developer portfolio website offers the perfect foundation to showcase skills.",
+          "fullName": "0x1Luffy/New-Portfolio",
+          "homepage": "https://chetankesare9.vercel.app/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-04-07T03:57:48Z",
+          "stargazersCount": 15,
+          "url": "https://github.com/0x1Luffy/New-Portfolio"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Showcase your skills, experience, and projects with a sleek and customizable portfolio app built using Jetpack Compose. Whether you're a developer, designer, or creative, this app makes it easy to present your personal brand in style! 🚀✨",
+          "fullName": "abdelillahbel/SkillSnapAndroid",
+          "homepage": "https://skill-snap-web.vercel.app",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2024-11-26T09:26:41Z",
+          "stargazersCount": 14,
+          "url": "https://github.com/abdelillahbel/SkillSnapAndroid"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "A Responsive Bootstrap portfolio template for Designers, Developers, Agency and all the creatives.  built with Flutter Made with 💙",
+          "fullName": "this-kin/folio",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2024-02-26T18:23:16Z",
+          "stargazersCount": 12,
+          "url": "https://github.com/this-kin/folio"
+        }
+      ],
+      "error": null
+    },
+    {
+      "group": "webgl-portfolio",
+      "q": "webgl portfolio stars:>20",
+      "searchedAt": "2026-09-15T05:52:33.384Z",
+      "status": 0,
+      "results": [
+        {
+          "defaultBranch": "main",
+          "description": "Interactive developer portfolio built with Three.js, Vue and modern web technologies, focused on immersive user experiences, smooth animations and high-performance frontend architecture.",
+          "fullName": "davidhckh/portfolio-2025",
+          "homepage": "https://david-hckh.com/",
+          "isArchived": false,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "url": ""
+          },
+          "pushedAt": "2026-08-11T13:07:48Z",
+          "stargazersCount": 863,
+          "url": "https://github.com/davidhckh/portfolio-2025"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Recreation of bokoko33's amazing portfolio",
+          "fullName": "andrewwoan/abigail-bloom-portolio-bokoko33",
+          "homepage": "https://abigail-bloom-portolio-bokoko33.vercel.app/",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2024-03-07T03:13:29Z",
+          "stargazersCount": 539,
+          "url": "https://github.com/andrewwoan/abigail-bloom-portolio-bokoko33"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Bruno Arizio's 2019 portfolio.",
+          "fullName": "bizarro/bruno-arizio",
+          "homepage": "https://brunoarizio.com",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2025-02-12T02:59:55Z",
+          "stargazersCount": 464,
+          "url": "https://github.com/bizarro/bruno-arizio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "An immersive, interactive 3D Web Developer portfolio built by Tomasz 'ITom' Szmajda using React Three Fiber, GSAP, and advanced WebGL rendering architecture.",
+          "fullName": "ITomPoland/portfolio-itom",
+          "homepage": "https://itomdev.com",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2026-09-08T14:18:50Z",
+          "stargazersCount": 396,
+          "url": "https://github.com/ITomPoland/portfolio-itom"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "WebGL portfolio experiment.",
+          "fullName": "vaalentin/2015",
+          "homepage": "https://github.com/vaalentin/2015",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2022-02-11T13:34:58Z",
+          "stargazersCount": 274,
+          "url": "https://github.com/vaalentin/2015"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "my 3D multiplayer portfolio P2P website using Three.js  and WebRTC",
+          "fullName": "JohansenJunias20/portofolio",
+          "homepage": "https://JohansenJunias20.github.io",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2023-03-14T19:28:55Z",
+          "stargazersCount": 219,
+          "url": "https://github.com/JohansenJunias20/portofolio"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Luis Bizarro's Portfolio from 2020 to 2023.",
+          "fullName": "bizarro/bizar.ro",
+          "homepage": "https://2020.bizarro.dev",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2025-02-19T06:19:45Z",
+          "stargazersCount": 218,
+          "url": "https://github.com/bizarro/bizar.ro"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Building beautiful websites used to be gatekept. Not anymore. So I built all of them.",
+          "fullName": "Qiuner/Qiuner.github.io",
+          "homepage": "https://qiuner.github.io/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-09-07T04:30:23Z",
+          "stargazersCount": 191,
+          "url": "https://github.com/Qiuner/Qiuner.github.io"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "animated webgl portfolio using html,css,javascript (three js, locomotive js, gsap)....",
+          "fullName": "MAGGIx1404/webgl-portfolio",
+          "homepage": "https://maggix1404.github.io/webgl-portfolio/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2021-08-30T06:04:32Z",
+          "stargazersCount": 188,
+          "url": "https://github.com/MAGGIx1404/webgl-portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Interactive & Responsive 3D developer portfolio built with React, TypeScript, Three.js, GSAP, WebGL have AI chat & chessbot",
+          "fullName": "red1-for-hek/portfolio-website",
+          "homepage": "https://redoyanulhaque.me/",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2026-08-24T15:38:47Z",
+          "stargazersCount": 164,
+          "url": "https://github.com/red1-for-hek/portfolio-website"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Award-winning personal portfolio website by Evangelos Giatsidis built with Next.js, React Three Fiber, and GSAP animations.",
+          "fullName": "Giats2498/giats-portfolio",
+          "homepage": "https://giats.me/",
+          "isArchived": false,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "url": ""
+          },
+          "pushedAt": "2025-06-01T16:56:30Z",
+          "stargazersCount": 129,
+          "url": "https://github.com/Giats2498/giats-portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "My Interactive Workspace",
+          "fullName": "Snokke/my-interactive-workspace",
+          "homepage": "https://andriibabintsev.com",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2025-08-10T12:49:35Z",
+          "stargazersCount": 121,
+          "url": "https://github.com/Snokke/my-interactive-workspace"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "awwwards portfolio recreate using html5, css3 and javscript(builded)",
+          "fullName": "MAGGIx1404/awwwards-Rebuild",
+          "homepage": "https://maggix1404.github.io/awwwards-Rebuild/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2021-08-31T04:47:01Z",
+          "stargazersCount": 105,
+          "url": "https://github.com/MAGGIx1404/awwwards-Rebuild"
+        },
+        {
+          "defaultBranch": "rmain",
+          "description": "Portfolio",
+          "fullName": "AT010303/Room_Portfolio",
+          "homepage": "https://at010303.vercel.app/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2024-07-25T06:37:06Z",
+          "stargazersCount": 95,
+          "url": "https://github.com/AT010303/Room_Portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "A whole new way of presenting a developer's portfolio. ",
+          "fullName": "midopooler/Portfolio2.0",
+          "homepage": "https://pulkitmidha.com/",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2025-01-05T19:57:27Z",
+          "stargazersCount": 72,
+          "url": "https://github.com/midopooler/Portfolio2.0"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "A single-file Three.js studio concept with an interactive Kyoto lobby, arcade, portfolio CRTs, and editorial case studies.",
+          "fullName": "MengTo/sublevel-studio",
+          "homepage": "https://mengto.github.io/sublevel-studio/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-09-03T08:54:40Z",
+          "stargazersCount": 63,
+          "url": "https://github.com/MengTo/sublevel-studio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "This GitHub repository contains code for a personal portfolio website using React, TailwindCSS, React-Router,  Gsap-Animation, WebGL, Three.js, and Emailjs. It likely showcases the developer's work and skills in an interactive way.",
+          "fullName": "Shm-Rsuf/personal-portfolio",
+          "homepage": "https://usuf-portfolio.vercel.app",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2024-08-21T17:30:04Z",
+          "stargazersCount": 56,
+          "url": "https://github.com/Shm-Rsuf/personal-portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Creative 3D personal portfolio built with Next.js, Prismic CMS, Three.js, Tailwind CSS, and GSAP, featuring interactive elements and custom animations.",
+          "fullName": "codedalex/Fizzi-3D-Website",
+          "homepage": "https://fizzi-soda.vercel.app/",
+          "isArchived": false,
+          "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "url": "https://api.github.com/licenses/apache-2.0"
+          },
+          "pushedAt": "2024-09-25T19:16:44Z",
+          "stargazersCount": 49,
+          "url": "https://github.com/codedalex/Fizzi-3D-Website"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "A centralized location for my WebGL and other demos.",
+          "fullName": "FarazzShaikh/experiments",
+          "homepage": "https://farazzshaikh.github.io/experiments",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2021-09-01T09:09:58Z",
+          "stargazersCount": 45,
+          "url": "https://github.com/FarazzShaikh/experiments"
+        },
+        {
+          "defaultBranch": "develop",
+          "description": "Luis Bizarro's Portfolio from 2013 to 2018.",
+          "fullName": "bizarro/lhbzr.github.io",
+          "homepage": "https://lhbzr.com",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2025-02-11T00:33:07Z",
+          "stargazersCount": 43,
+          "url": "https://github.com/bizarro/lhbzr.github.io"
+        }
+      ],
+      "error": null
+    },
+    {
+      "group": "gsap-portfolio",
+      "q": "gsap portfolio stars:>50",
+      "searchedAt": "2026-09-15T05:52:33.384Z",
+      "status": 0,
+      "results": [
+        {
+          "defaultBranch": "main",
+          "description": "Interactive 3D developer portfolio with a keyboard where every keycap is a skill. Built with Next.js, React, TypeScript, GSAP & Motion. Free to use!",
+          "fullName": "Naresh-Khatri/3d-portfolio",
+          "homepage": "https://nareshkhatri.dev",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-07-25T15:52:14Z",
+          "stargazersCount": 1274,
+          "url": "https://github.com/Naresh-Khatri/3d-portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "My Portfolio Website Showcasing the website 3d interactions or experience and my work.",
+          "fullName": "MoncyDev/Portfolio-Website",
+          "homepage": "https://www.moncy.dev",
+          "isArchived": false,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "url": ""
+          },
+          "pushedAt": "2026-03-21T04:58:27Z",
+          "stargazersCount": 1127,
+          "url": "https://github.com/MoncyDev/Portfolio-Website"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Interactive developer portfolio built with Three.js, Vue and modern web technologies, focused on immersive user experiences, smooth animations and high-performance frontend architecture.",
+          "fullName": "davidhckh/portfolio-2025",
+          "homepage": "https://david-hckh.com/",
+          "isArchived": false,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "url": ""
+          },
+          "pushedAt": "2026-08-11T13:07:48Z",
+          "stargazersCount": 863,
+          "url": "https://github.com/davidhckh/portfolio-2025"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Personal portfolio (2018)",
+          "fullName": "iuridepaula/portfolio",
+          "homepage": "https://iuri.is/",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2023-02-26T18:19:04Z",
+          "stargazersCount": 579,
+          "url": "https://github.com/iuridepaula/portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "👨‍🎓 An eye-catching developer Portfolio, built on NextJS, GSAP, Tailwind and React.",
+          "fullName": "shubh73/devfolio",
+          "homepage": "https://shubhporwal.me",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2026-04-26T04:58:17Z",
+          "stargazersCount": 452,
+          "url": "https://github.com/shubh73/devfolio"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Interactive Portfolio with Next, GSAP, Tailwind, and React",
+          "fullName": "ayush013/folio",
+          "homepage": "https://www.ayushsingh.co.in",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2023-10-10T10:40:08Z",
+          "stargazersCount": 423,
+          "url": "https://github.com/ayush013/folio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "An immersive, interactive 3D Web Developer portfolio built by Tomasz 'ITom' Szmajda using React Three Fiber, GSAP, and advanced WebGL rendering architecture.",
+          "fullName": "ITomPoland/portfolio-itom",
+          "homepage": "https://itomdev.com",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2026-09-08T14:18:50Z",
+          "stargazersCount": 396,
+          "url": "https://github.com/ITomPoland/portfolio-itom"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Portfolio website in React-three-fiber, Drei & GSAP",
+          "fullName": "mohitvirli/mohitvirli.github.io",
+          "homepage": "https://clevir.li/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-09-13T07:13:35Z",
+          "stargazersCount": 388,
+          "url": "https://github.com/mohitvirli/mohitvirli.github.io"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "My personal website",
+          "fullName": "adeolaadeoti/adeolaadeoti-portfolio",
+          "homepage": "https://web.archive.org/web/20201203095832/https://adeolaadeoti.netlify.app/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2023-01-06T09:56:02Z",
+          "stargazersCount": 363,
+          "url": "https://github.com/adeolaadeoti/adeolaadeoti-portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "A visually stunning personal portfolio website showcasing my skills, projects, and personality with 3D animations, smooth interactions, and a cosmic theme. Built using Next.js, Tailwind CSS, GSAP, and more!",
+          "fullName": "Abhiz2411/3D-interactive-portfolio",
+          "homepage": "https://www.abhijitzende.com/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-02-10T05:42:48Z",
+          "stargazersCount": 321,
+          "url": "https://github.com/Abhiz2411/3D-interactive-portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Build a stunning Fashion Studio Website Landing page with React JS. This website is created using locomotive-scroll for smooth scrolling. Also, GSAP and Framer-Motion for some custom animations and effects. You can learn to make this website by visiting the tutorial link from the description. ",
+          "fullName": "codebucks27/wibe-studio",
+          "homepage": "https://wibe-studio.netlify.app/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-04-26T13:26:26Z",
+          "stargazersCount": 250,
+          "url": "https://github.com/codebucks27/wibe-studio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "The first version of my portfolio website. Launched in March, 2023.",
+          "fullName": "victorcodess/folio-v1",
+          "homepage": "https://v1.victorwilliams.me",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2025-11-06T18:21:49Z",
+          "stargazersCount": 247,
+          "url": "https://github.com/victorcodess/folio-v1"
+        },
+        {
+          "defaultBranch": "v5-nemo",
+          "description": "My portfolio website build with Nuxt, Scss and GSAP",
+          "fullName": "logotip4ik/portfolio",
+          "homepage": "https://bogdankostyuk.xyz",
+          "isArchived": false,
+          "license": {
+            "key": "cc0-1.0",
+            "name": "Creative Commons Zero v1.0 Universal",
+            "url": "https://api.github.com/licenses/cc0-1.0"
+          },
+          "pushedAt": "2023-07-30T19:29:01Z",
+          "stargazersCount": 228,
+          "url": "https://github.com/logotip4ik/portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Showcasing my web dev skills with magic animation, and cutting-edge design.",
+          "fullName": "Tajmirul/portfolio-2.0",
+          "homepage": "https://tajmirul.site",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2026-05-02T02:08:00Z",
+          "stargazersCount": 225,
+          "url": "https://github.com/Tajmirul/portfolio-2.0"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "animated webgl portfolio using html,css,javascript (three js, locomotive js, gsap)....",
+          "fullName": "MAGGIx1404/webgl-portfolio",
+          "homepage": "https://maggix1404.github.io/webgl-portfolio/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2021-08-30T06:04:32Z",
+          "stargazersCount": 188,
+          "url": "https://github.com/MAGGIx1404/webgl-portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "This Layout made with Next.js, Next.js Cloudinary, Framer Motion, Gsap, Lenis, Styled Component, Lucide Icons, React Wrap Balancer, Tailwind and Postcss.",
+          "fullName": "AliBagheri2079/dennis-snellenberg-portfolio",
+          "homepage": "https://dennis-snellenberg-portfolio.vercel.app",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2023-12-25T13:46:51Z",
+          "stargazersCount": 186,
+          "url": "https://github.com/AliBagheri2079/dennis-snellenberg-portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "A modern Awwwards-inspired interactive website featuring smooth GSAP animations, creative UI interactions, immersive motion design, and experimental layouts, built to showcase premium frontend experiences similar to SOTD-level digital projects.",
+          "fullName": "Thakuma07/Truus.co-Awwward-Website",
+          "homepage": "https://truus-awwward-website.vercel.app/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-09-11T05:32:18Z",
+          "stargazersCount": 180,
+          "url": "https://github.com/Thakuma07/Truus.co-Awwward-Website"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "This portfolio serves as both a personal showcase and a testament to modern web development capabilities, featuring smooth animations, engaging interactions, and a cohesive visual identity throughout.",
+          "fullName": "prashantkoirala465/web-development-portfolio",
+          "homepage": "https://web-development-portfolio-blond.vercel.app",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2025-08-10T18:07:22Z",
+          "stargazersCount": 177,
+          "url": "https://github.com/prashantkoirala465/web-development-portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Interactive & Responsive 3D developer portfolio built with React, TypeScript, Three.js, GSAP, WebGL have AI chat & chessbot",
+          "fullName": "red1-for-hek/portfolio-website",
+          "homepage": "https://redoyanulhaque.me/",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2026-08-24T15:38:47Z",
+          "stargazersCount": 164,
+          "url": "https://github.com/red1-for-hek/portfolio-website"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Build a 3D animated developer portfolio from scratch with React, GSAP, Three.js & Tailwind — full tutorial walkthrough!  ",
+          "fullName": "Ali-Sanati/awwwards-portfolio",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2025-06-15T17:10:40Z",
+          "stargazersCount": 163,
+          "url": "https://github.com/Ali-Sanati/awwwards-portfolio"
+        }
+      ],
+      "error": null
+    },
+    {
+      "group": "photography",
+      "q": "photography portfolio stars:>20",
+      "searchedAt": "2026-09-15T05:52:33.384Z",
+      "status": 0,
+      "results": [
+        {
+          "defaultBranch": "master",
+          "description": "A free online portfolio website to showcase your photos.",
+          "fullName": "rampatra/photography",
+          "homepage": "http://photography.rampatra.com",
+          "isArchived": false,
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0"
+          },
+          "pushedAt": "2025-10-28T15:29:47Z",
+          "stargazersCount": 1192,
+          "url": "https://github.com/rampatra/photography"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "📷 A Website created using Tailwind CSS, HTML, CSS and JavaScript that can be used as a Photographer Portfolio.",
+          "fullName": "JoaoFranco03/photography-portfolio",
+          "homepage": "https://photography-portfolio-joaofranco03.netlify.app/",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2024-12-28T22:47:06Z",
+          "stargazersCount": 469,
+          "url": "https://github.com/JoaoFranco03/photography-portfolio"
+        },
+        {
+          "defaultBranch": "gh-pages",
+          "description": "Visual Portfolio Generator with no extra installation",
+          "fullName": "andyzg/gallery",
+          "homepage": "http://andyzhang.net/gallery",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2024-05-24T19:43:17Z",
+          "stargazersCount": 378,
+          "url": "https://github.com/andyzg/gallery"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "A modern photography portfolio website built with Next.js 16 featuring interactive maps photo management and a comprehensive dashboard.",
+          "fullName": "ECarry/photography-website",
+          "homepage": "https://p.isera.dev",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2026-09-11T16:05:05Z",
+          "stargazersCount": 365,
+          "url": "https://github.com/ECarry/photography-website"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Includes Light/Dark mode.",
+          "fullName": "LekoArts/gatsby-starter-portfolio-emilia",
+          "homepage": "https://emilia.lekoarts.de",
+          "isArchived": true,
+          "license": {
+            "key": "0bsd",
+            "name": "BSD Zero Clause License",
+            "url": "https://api.github.com/licenses/0bsd"
+          },
+          "pushedAt": "2025-06-26T07:47:35Z",
+          "stargazersCount": 357,
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-emilia"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.",
+          "fullName": "LekoArts/gatsby-starter-portfolio-jodie",
+          "homepage": "https://jodie.lekoarts.de/",
+          "isArchived": true,
+          "license": {
+            "key": "0bsd",
+            "name": "BSD Zero Clause License",
+            "url": "https://api.github.com/licenses/0bsd"
+          },
+          "pushedAt": "2025-06-26T07:47:39Z",
+          "stargazersCount": 348,
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-jodie"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Photo Portfolio w/ Next.js + TailwindCSS + Contentful",
+          "fullName": "jpvalery/portfolio",
+          "homepage": "https://jpvalery.photo",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2025-12-10T10:39:30Z",
+          "stargazersCount": 278,
+          "url": "https://github.com/jpvalery/portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Capture life through the Camera.",
+          "fullName": "sun0225SUN/camlife",
+          "homepage": "https://camlife.app",
+          "isArchived": false,
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0"
+          },
+          "pushedAt": "2026-06-01T20:02:22Z",
+          "stargazersCount": 114,
+          "url": "https://github.com/sun0225SUN/camlife"
+        },
+        {
+          "defaultBranch": "main",
+          "description": ":camera: Photography portfolio Jekyll template",
+          "fullName": "CloudCannon/aperture-jekyll-template",
+          "homepage": "https://cosmic-hippopotamus.cloudvent.net/",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2022-12-05T02:48:31Z",
+          "stargazersCount": 113,
+          "url": "https://github.com/CloudCannon/aperture-jekyll-template"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "A personal photography portfolio template built with Nuxt.js and Tailwind CSS.",
+          "fullName": "Youhan/maya-nuxt-template",
+          "homepage": "https://maya-nuxt-template.vercel.app",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2025-04-09T18:59:52Z",
+          "stargazersCount": 111,
+          "url": "https://github.com/Youhan/maya-nuxt-template"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "📸 My personal website dedicated to photography",
+          "fullName": "BenjaminOddou/portfolio",
+          "homepage": "https://www.benjaminoddou-photographe.com",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2026-05-14T13:20:13Z",
+          "stargazersCount": 101,
+          "url": "https://github.com/BenjaminOddou/portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "📸 A photography portfolio that showcases my love for travel and code. Built using React, Node.js, TypeScript and Tailwind, this project is a great example of my skills and eye for detail.",
+          "fullName": "catherineisonline/travel-with-catherine",
+          "homepage": "https://travel-with-catherine.vercel.app/",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2026-01-27T08:02:54Z",
+          "stargazersCount": 87,
+          "url": "https://github.com/catherineisonline/travel-with-catherine"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Check out my photography portfolio made with React!",
+          "fullName": "danielnuwin/React-Photography-Portfolio",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2024-05-03T01:31:40Z",
+          "stargazersCount": 85,
+          "url": "https://github.com/danielnuwin/React-Photography-Portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "My personal website. Uses a Material 3 Expressive styled shell, photo gallery, blog, and features tons of customization options. Built on React 19. Research, photography, blog posts.",
+          "fullName": "hnpf/virex.lol",
+          "homepage": "https://virex.lol/",
+          "isArchived": false,
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0"
+          },
+          "pushedAt": "2026-09-14T23:26:14Z",
+          "stargazersCount": 69,
+          "url": "https://github.com/hnpf/virex.lol"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "A portfolio for my personal website highlighting photography, videography, and projects.",
+          "fullName": "maxemitchell/portfolio",
+          "homepage": "https://www.maxemitchell.com/",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2026-02-16T02:57:07Z",
+          "stargazersCount": 60,
+          "url": "https://github.com/maxemitchell/portfolio"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "This is the portfolio of Tonino De Marco, a French photographer",
+          "fullName": "abrasseu/toninodemarco-photography",
+          "homepage": "https://www.toninodemarco-photography.com/",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2022-06-21T17:37:32Z",
+          "stargazersCount": 59,
+          "url": "https://github.com/abrasseu/toninodemarco-photography"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "AstroJS based photography portfolio site template",
+          "fullName": "rockem/astro-photography-portfolio",
+          "homepage": "https://rockem.github.io/astro-photography-portfolio/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2025-07-08T05:25:29Z",
+          "stargazersCount": 57,
+          "url": "https://github.com/rockem/astro-photography-portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "🖼️ My photography portfolio website designed in Figma, and built with Next.js and Tailwind CSS.",
+          "fullName": "mitul-s/typicalmitul.com",
+          "homepage": "https://typicalmitul.com/",
+          "isArchived": false,
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0"
+          },
+          "pushedAt": "2026-06-22T16:03:14Z",
+          "stargazersCount": 57,
+          "url": "https://github.com/mitul-s/typicalmitul.com"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Photography portfolio featuring albums, galleries, and globes. 🔧 Built with Next.js, Three.js, and Tailwind. 🌎 Hosted on Contentful and Pages.",
+          "fullName": "agarun/photos",
+          "homepage": "https://photos.agarun.com/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-08-29T03:25:25Z",
+          "stargazersCount": 55,
+          "url": "https://github.com/agarun/photos"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Design/Photography Portfolio is a free Astro template for showcasing the works of designers and photographers.",
+          "fullName": "pysunday/DesignPhotographyPortfolio",
+          "homepage": "https://cosmic-cactus-65b8d8.netlify.app/en/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2025-08-28T08:18:22Z",
+          "stargazersCount": 41,
+          "url": "https://github.com/pysunday/DesignPhotographyPortfolio"
+        }
+      ],
+      "error": null
+    },
+    {
+      "group": "typography",
+      "q": "typography animation user:codrops",
+      "searchedAt": "2026-09-15T05:52:33.384Z",
+      "status": 0,
+      "results": [
+        {
+          "defaultBranch": "main",
+          "description": "Inspiration and ideas for on-scroll typography animations that add an extra layer of creativity to a website design.",
+          "fullName": "codrops/OnScrollTypographyAnimations",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2023-12-05T12:32:33Z",
+          "stargazersCount": 343,
+          "url": "https://github.com/codrops/OnScrollTypographyAnimations"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "A switching title effect where a fixed element changes depending on the scroll position. ",
+          "fullName": "codrops/ScrollingLettersAnimation",
+          "homepage": "https://tympanus.net/codrops/?p=33990",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2018-02-12T12:05:14Z",
+          "stargazersCount": 229,
+          "url": "https://github.com/codrops/ScrollingLettersAnimation"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "A set of inspirational letter animations for display typography effects powered by anime.js",
+          "fullName": "codrops/LetterEffects",
+          "homepage": "http://tympanus.net/Development/LetterEffects/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2016-10-18T12:14:37Z",
+          "stargazersCount": 207,
+          "url": "https://github.com/codrops/LetterEffects"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Animations for revealing blurry text on scroll.",
+          "fullName": "codrops/ScrollBlurTypography",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2024-04-23T13:12:19Z",
+          "stargazersCount": 148,
+          "url": "https://github.com/codrops/ScrollBlurTypography"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Recreation of Thibaud Allie's letter stagger animation.",
+          "fullName": "codrops/TypographyMotion",
+          "homepage": "https://tympanus.net/codrops/?p=50136",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2020-11-11T09:09:09Z",
+          "stargazersCount": 85,
+          "url": "https://github.com/codrops/TypographyMotion"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "An expanding image animation inside of a typographic block.",
+          "fullName": "codrops/ImageExpansionTypography",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2024-04-02T11:56:03Z",
+          "stargazersCount": 47,
+          "url": "https://github.com/codrops/ImageExpansionTypography"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "An experimental typography animation based on a kinetic type design by Domagoj Štrok where words get duplicated several times.",
+          "fullName": "codrops/RepetitiveTypography",
+          "homepage": "https://tympanus.net/codrops/?p=56972",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2021-10-20T10:09:34Z",
+          "stargazersCount": 43,
+          "url": "https://github.com/codrops/RepetitiveTypography"
+        }
+      ],
+      "error": null
+    },
+    {
+      "group": "scroll-gallery",
+      "q": "scroll gallery user:codrops",
+      "searchedAt": "2026-09-15T05:52:33.384Z",
+      "status": 0,
+      "results": [],
+      "error": null
+    },
+    {
+      "group": "three-dimensional",
+      "q": "portfolio threejs stars:>50",
+      "searchedAt": "2026-09-15T05:52:33.384Z",
+      "status": 0,
+      "results": [
+        {
+          "defaultBranch": "main",
+          "description": "The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!",
+          "fullName": "adrianhajdin/project_3D_developer_portfolio",
+          "homepage": "https://jsmastery.pro",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2024-10-29T09:21:29Z",
+          "stargazersCount": 7123,
+          "url": "https://github.com/adrianhajdin/project_3D_developer_portfolio"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "My personal portfolio website built using React and three js",
+          "fullName": "HamishMW/portfolio",
+          "homepage": "https://hamishw.com",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2024-11-16T02:46:21Z",
+          "stargazersCount": 3526,
+          "url": "https://github.com/HamishMW/portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "3D Scrolling Portfolio Website with Three.js",
+          "fullName": "fireship-io/threejs-scroll-animation-demo",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2024-07-06T10:45:24Z",
+          "stargazersCount": 1665,
+          "url": "https://github.com/fireship-io/threejs-scroll-animation-demo"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your skills and get a job!",
+          "fullName": "adrianhajdin/3D_portfolio",
+          "homepage": "https://3d-portfolio.com",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2024-05-20T06:14:12Z",
+          "stargazersCount": 1348,
+          "url": "https://github.com/adrianhajdin/3D_portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "My Portfolio Website Showcasing the website 3d interactions or experience and my work.",
+          "fullName": "MoncyDev/Portfolio-Website",
+          "homepage": "https://www.moncy.dev",
+          "isArchived": false,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "url": ""
+          },
+          "pushedAt": "2026-03-21T04:58:27Z",
+          "stargazersCount": 1127,
+          "url": "https://github.com/MoncyDev/Portfolio-Website"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Learn how to build 3D websites from scratch with the Three.js Crash Course. It's a fun and practical way to create a portfolio that really pops!",
+          "fullName": "adrianhajdin/threejs-portfolio",
+          "homepage": "https://threejscc-portfolio.vercel.app/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2024-10-29T09:24:06Z",
+          "stargazersCount": 1029,
+          "url": "https://github.com/adrianhajdin/threejs-portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Interactive developer portfolio built with Three.js, Vue and modern web technologies, focused on immersive user experiences, smooth animations and high-performance frontend architecture.",
+          "fullName": "davidhckh/portfolio-2025",
+          "homepage": "https://david-hckh.com/",
+          "isArchived": false,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "url": ""
+          },
+          "pushedAt": "2026-08-11T13:07:48Z",
+          "stargazersCount": 863,
+          "url": "https://github.com/davidhckh/portfolio-2025"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "incredible 3D developer portfolio website with awesome graphics - built with React & Three.js 🪄",
+          "fullName": "ladunjexa/reactjs18-3d-portfolio",
+          "homepage": "https://threejs-3-d-portfolio.vercel.app",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2024-12-08T12:13:38Z",
+          "stargazersCount": 761,
+          "url": "https://github.com/ladunjexa/reactjs18-3d-portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Build a visually captivating 3D portfolio with React.js and Three.js! Learn to combine interactive 3D graphics and smooth web performance to showcase your skills in an engaging way.",
+          "fullName": "adrianhajdin/3d-portfolio",
+          "homepage": "https://jsmastery.pro",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2025-04-11T11:05:38Z",
+          "stargazersCount": 639,
+          "url": "https://github.com/adrianhajdin/3d-portfolio"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Recreation of bokoko33's amazing portfolio",
+          "fullName": "andrewwoan/abigail-bloom-portolio-bokoko33",
+          "homepage": "https://abigail-bloom-portolio-bokoko33.vercel.app/",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2024-03-07T03:13:29Z",
+          "stargazersCount": 539,
+          "url": "https://github.com/andrewwoan/abigail-bloom-portolio-bokoko33"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Bruno Arizio's 2019 portfolio.",
+          "fullName": "bizarro/bruno-arizio",
+          "homepage": "https://brunoarizio.com",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2025-02-12T02:59:55Z",
+          "stargazersCount": 464,
+          "url": "https://github.com/bizarro/bruno-arizio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "This portfolio template is designed to showcase your skills, experience, and accomplishments in a visually appealing and professional manner.",
+          "fullName": "shaqdeff/Portfolio-Template",
+          "homepage": "https://shaq-portfolio.netlify.app/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2024-07-26T09:17:46Z",
+          "stargazersCount": 455,
+          "url": "https://github.com/shaqdeff/Portfolio-Template"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Retro Computer Personal Website with very simple UNIX shell implementation, files system implementation, markdown interrupter and renderer and text layout engine.",
+          "fullName": "edhinrichsen/retro-computer-website",
+          "homepage": "https://edh.dev",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2026-01-22T11:20:35Z",
+          "stargazersCount": 433,
+          "url": "https://github.com/edhinrichsen/retro-computer-website"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Interactive 3D Portfolio Website with Next.js, Three.js & Tailwind CSS | Checkout the tutorial link ⚡",
+          "fullName": "codebucks27/Next.js-Creative-Portfolio-Website",
+          "homepage": "https://next-js-creative-portfolio-website.vercel.app",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2026-04-26T13:00:12Z",
+          "stargazersCount": 398,
+          "url": "https://github.com/codebucks27/Next.js-Creative-Portfolio-Website"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "An immersive, interactive 3D Web Developer portfolio built by Tomasz 'ITom' Szmajda using React Three Fiber, GSAP, and advanced WebGL rendering architecture.",
+          "fullName": "ITomPoland/portfolio-itom",
+          "homepage": "https://itomdev.com",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2026-09-08T14:18:50Z",
+          "stargazersCount": 396,
+          "url": "https://github.com/ITomPoland/portfolio-itom"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Modern 3D Portfolio using React, Three.js and Typescript",
+          "fullName": "sanidhyy/3d-portfolio",
+          "homepage": "https://shubam.netlify.app",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2026-09-11T05:48:23Z",
+          "stargazersCount": 293,
+          "url": "https://github.com/sanidhyy/3d-portfolio"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "A modern, animated 3D developer portfolio.",
+          "fullName": "Ali-Sanati/Portfolio",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2025-05-20T14:29:29Z",
+          "stargazersCount": 255,
+          "url": "https://github.com/Ali-Sanati/Portfolio"
+        },
+        {
+          "defaultBranch": "Main",
+          "description": "3D Game-like Portfolio with character movements developed using Three.js, React.js, Blender Models and React-Three-Fiber with interactive elements.",
+          "fullName": "VinayMatta63/threejs-portfolio",
+          "homepage": "https://vinay-matta.netlify.app/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-05-27T20:31:27Z",
+          "stargazersCount": 228,
+          "url": "https://github.com/VinayMatta63/threejs-portfolio"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "This is an interactive 3D art gallery made with Three.js, perfect for artists or designers to exhibit their portfolio of artworks and projects. ",
+          "fullName": "theringsofsaturn/3D-art-gallery-threejs",
+          "homepage": "https://emilian-kasemi-3d-art-gallery.vercel.app/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2024-03-28T01:47:23Z",
+          "stargazersCount": 219,
+          "url": "https://github.com/theringsofsaturn/3D-art-gallery-threejs"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "my 3D multiplayer portfolio P2P website using Three.js  and WebRTC",
+          "fullName": "JohansenJunias20/portofolio",
+          "homepage": "https://JohansenJunias20.github.io",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2023-03-14T19:28:55Z",
+          "stargazersCount": 219,
+          "url": "https://github.com/JohansenJunias20/portofolio"
+        }
+      ],
+      "error": null
+    },
+    {
+      "group": "editorial",
+      "q": "editorial website stars:>5",
+      "searchedAt": "2026-09-15T05:52:33.384Z",
+      "status": 0,
+      "results": [
+        {
+          "defaultBranch": "11.0.x",
+          "description": "Built using Drupal, an enterprise website builder platform that combines powerful editorial features, mobile, lead-generation, SEO, social media integration, and beautiful bespoke designs. Varbase is packed with adaptive functionalities and essential modules.",
+          "fullName": "Vardot/varbase",
+          "homepage": "https://www.drupal.org/project/varbase",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-09-08T14:54:03Z",
+          "stargazersCount": 96,
+          "url": "https://github.com/Vardot/varbase"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Documentation for The Psalms - my blog about software’s intersection with culture. Not just for the website - for the entire process (correspondence, notetaking, drafting, *revising*, editorializing, promoting, discussing, and even reflecting.)",
+          "fullName": "extratone/bilge",
+          "homepage": "https://bilge.world",
+          "isArchived": false,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "url": ""
+          },
+          "pushedAt": "2025-07-14T15:57:09Z",
+          "stargazersCount": 54,
+          "url": "https://github.com/extratone/bilge"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "",
+          "fullName": "LolPanda2004/Amour-Editorial-Website",
+          "homepage": "https://amour-editorial-website.vercel.app",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2025-10-22T03:55:55Z",
+          "stargazersCount": 11,
+          "url": "https://github.com/LolPanda2004/Amour-Editorial-Website"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Modified Editorial website template. Based on Editorial theme in html5up.net, adapted for Jekyll by Andrew Bancich.",
+          "fullName": "sdasrc/editorial-website-extended",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "url": ""
+          },
+          "pushedAt": "2024-06-10T05:00:55Z",
+          "stargazersCount": 11,
+          "url": "https://github.com/sdasrc/editorial-website-extended"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "A cinematic, scroll-driven tattoo studio website that turns ink art into a premium visual storytelling experience using video, motion, and editorial UI design.",
+          "fullName": "VedantGupta19402/Orion-Ink",
+          "homepage": "https://orion-ink.netlify.app/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-07-20T03:52:42Z",
+          "stargazersCount": 10,
+          "url": "https://github.com/VedantGupta19402/Orion-Ink"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "StellarInsure marketing website — editorial minimalist, built with Next.js + shadcn/ui",
+          "fullName": "StellarInsure-Org/stellarinsure-website",
+          "homepage": "https://stellarinsure-web-six.vercel.app",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-06-08T06:31:51Z",
+          "stargazersCount": 9,
+          "url": "https://github.com/StellarInsure-Org/stellarinsure-website"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Jay Perry's website",
+          "fullName": "jayperryworks/jayperryworks-site",
+          "homepage": "http://jayperryworks.com",
+          "isArchived": false,
+          "license": {
+            "key": "cc0-1.0",
+            "name": "Creative Commons Zero v1.0 Universal",
+            "url": "https://api.github.com/licenses/cc0-1.0"
+          },
+          "pushedAt": "2026-09-09T23:56:28Z",
+          "stargazersCount": 9,
+          "url": "https://github.com/jayperryworks/jayperryworks-site"
+        },
+        {
+          "defaultBranch": "main",
+          "description": " 9 Email Marketing Tips For Content Marketers Even “agnostics” regarding email marketing can't hash out the following evidence - the average ROI from this promotional practice is close to 3,800%. Measureless opportunities to scale up and relative cheapness, compared to other reaching-out channels, are the two reasons why the email marketing is fair-haired by businesses. However, this is not about the price and physical extent alone.  The chief advantage is a better alignment of communication with customers. If you hope a certain content strategy brings desirable results, overlooking the quality of mailing messages will be a sorry pitfall. Always keep in mind that newsletters, welcome, retention, and other emails are not just a brand's facade - but a powerful tool for generating conversions. By joining sides of email and content strategies, you can come up with synergy from both. In this guide, we’ll cover a few recommendations for content marketers on how to write email messages that work.  Tips for email marketing  Segment your list Split the batch of email recipients into smaller groups based on chosen criteria, and mail distinct relevant messages - for each. You can use recipients' GEO, demographic characteristics, or purchase history to distinguish homogeneous clusters and proceed with the content planning. Segmentation is the basic premise for personalization, and if you still doubt why bothering about the latter - here are just a few numbers we took from Instapage: 52% of customers claim they do care if the message was tailor-made or not 82% of marketers say that mail personalization increases the open ratio custom emails have 41% more unique clicks than mass-produced ones. To avoid a fragmented approach, use data from CRMs, website analytics tools, and other sources to define segments. Concerning phrasings, a good idea is to create Buyer personas profiles. Thus, you'll be able to choose the appropriate message length and wording. Say, design a newsletter to promote paid subscription for an email validator service. You've decided to distinguish corporate clients based on their company size and determined the following groups: #1 - B2Bs and #2 - sole entrepreneurs. Possible messages for the two: #1. Our \"XXL\" plan is perfect for agencies and enterprises. One can add unlimited users and conduct up to 100,000 checks per month.  #2. With our \"S\" you get 1,000 credits and 5,000 unique recipients - for only $33 per month. Plus - a 7-days free trial.  Use interactive content The best content marketers know that interactive content came into vogue a long time ago. As to emails, here are the most common examples: CSS animated buttons If you include CTAs buttons (that we hope you do) - liven them up a bit. Add an animated hover effect, so that every time a recipient puts a cursor on a button, it changes shape, shade, color, or text.  “Add hover to emphasise objects”, source  This shouldn’t necessarily be something dramatic - add tiny accents that will yet grab the user's attention. starring  “Add a star rating component to engage readers with content”, source  Including ranking or reviewing widgets in the email body is one of the most working ways to engage the reader with the message. Ask recipients to assess your product or service with stars. Add the link to Google Forms if you want to receive an extended opinion on overall customer satisfaction. pictures' rollovers  “Use animated images to describe goods better”, source  The effect is eagerly used by the ones who promote online stores. Using The rollover allows to show goods from different angles or even play with recipients, if relevant. Take into account that this feature only works on desktops - mobile mail users will see the very first picture only. images carousel  “Add pieces of text directly on images”, source  If you want to enhance goods cards with descriptive content, say - price and shipping details, use a carousel instead of a rollover. As so, you can add more info pictures to the email body and, hopefully, convert more recipients into customers. a countdown  “Countdowns work well for limited in time offers”, source  Again, this type of interactive content fits the online shopping niche. Animated clocks amplify urgency and theoretically increase conversions. But it's important to stay extremely careful and not to sound desperate - otherwise, the newsletter will end up in the recipient's \"Spam\".  Improve design The attractiveness of an email is something granted on certain terms, indeed. Not all emails need to be flashy or include expensive designs. However, there are some prevailing common trends in the matter. By following them, you seem to show the recipient that your company is moving in step with the times, and not stuck in the 2000s. Here's the shortlist from the TOP email design trends list that a 99designs provides - as of 2021: magazine-styled  “Make newsletters to look a bit editorial”, source  More and more newsletters tend to look like a centerfold from good old printed media. With a strict following to the \"Less is more\" principle - clear fonts, short phrases, HD-quality images with a few objects on them, and short CTAs. hand-made illustrations  “Unique pictures create a distinct flavour of your brand”, source  Tailored icons or sketchy images - whatever fits your mailing purpose, just make sure it's not too bright, contrast, or overloaded with details. Give preference to clean colors. skeuomorphic objects This is when a design resembles a real object. To see an example - just open a reader App on your smartphone.  “A skeuomorphic bookshelf”, source  HD photographies  “If you operate in the luxury segment, do not skimp on email visuals”, source  These are expensive content, but if you work in fashion or other chick industries - it may be worth the effort. animated content Yeap, we've covered this in a previous tip. single scroll  “Looks especially good on smartphones”, source  Place the entire email content, including buttons, on the endless-looking long frame. Focus on conversions Stay focused on what's your mailing purpose. Don't forget that everybody expects to see a good ROI from email actions at the end of the reporting period. Craft effective CTAs - perceive these not as a sole button with a \"Download now\" text or so, but as an entire sense of a message that you write. To create a captivating CTA copy, adhere to the below advices: include win-win propositions Even though you’re not providing a customer with a discount or cash refund at the moment, your proposition may include a non-monetary incentive. New arrivals, selection of the latest news, free copies, advice from experts - the only rule here is to offer what’ll hold in high esteem. trigger on emotions Don't long-windedly list benefits. Instead, simulate a life situation and show how your product or service can help. use several CTAs throughout the email Email body may be viewed in several scrolls, especially when via small mobile devices’ screens. If you add a call to action at the beginning of the message, a mere number of users will get back to it after finishing reading the content. Thus, you may lose potential conversion. Include several buttons throughout the email body, but don’t sound repeatedly - change calls’ forms and wording.  Encourage readers to reply Driving recipients to reply is challenging yet able to be done. First, choose the proper writing tone. According to an extensive study of emails that didn’t get a response, the most preferable is a 3rd-grade reading level.  “Too elementary or too proficient tone may scare away readers”, source  Of course, you must apply this recommendation with an eye on the recipient. If you mail to a professor or a government agency, a “3rd-grade” rule isn’t applicable. But all else being equal - simplify the lexicon to the level a schoolchild can understand it. Another trick is to sound overall happy. Emails that are enhanced with positive emotions get 10-15% more replies, on average than neutral ones. The best manner is to choose a slightly warm tone. Exaggerated excitement may look weird and even suspicious, especially when reaching out to business partners. And don’t forget about courtesy. A rare person will respond if you address him or her with a hair-raising “To whom it may concern” phrase.  Make it personal Personification shouldn’t be confused with personalization. The second is rather about mailing fitting content from a commercial perspective, while the first term - about addressing the recipient as a one-off personality. Personal emails start with the recipient’s name - and no other way. They include references to the user's interests or past actions. For example, if your tourist agency’s client is interested in island vacations - you shall approach him or her with respective offers. They also shall contain personalized promotions, if any. The best way to expand this approach on hundreds or thousands of recipients is to launch trigger-based email campaigns. Create delivery scenarios for different segments or stages of a sales pipeline. Then prepare a fitting sequence of relevant content - for every single scenario. To give a human face to mailing, one can practice greetings, as well. Birthdays, state holidays, anniversaries, a new status in the loyalty system - there are a lot of examples of what one may congratulate the customer with.  Keep your emails out of spam folders It is better not to launch mailing at all than to use an untrustworthy emails’ database. The risks are much higher than a slew of undelivered messages - from harming a sender's reputation to being banned by mailing systems. So it's better to stay proactive: tidy away broken, misspelled, temporary, or other worrisome emails from the database - either manually or with the help of software collect a valid email address only - through email finders avoid spam-trigger words establish a double opt-in validation set the correct mailing frequency.  Make sure your emails look clean and crisp Newsletters shall afterall bring revenues - whether you want it or not. But in a bid of quantity, don’t lose the overall content integrity and sense: a subject line, pre-header, header, email body, and calls shall be consistent with one another the copy must be of the proper size; although the length depends on many factors, stick to an “ideal” interval - 50 to 125 words if can, don’t attach too many files or links to external websites - mailing filters are suspicious to these adapt the layout to fit smaller screens - nothing looks worse than broken email elements when you open it on mobile.  Wrapping up It doesn't make much difference whether you create mailing content for personal or business purposes - these email marketing tips will serve both. No strains here - the recipient’s interest should be at your forefront. If you can hook him or her with the content by using tricks we've covered, you’ll never fail with enough conversions.",
+          "fullName": "ZulqarnainZilli/-9-Email-Marketing-Tips-For-Content-Marketers",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2021-07-26T08:52:34Z",
+          "stargazersCount": 7,
+          "url": "https://github.com/ZulqarnainZilli/-9-Email-Marketing-Tips-For-Content-Marketers"
+        }
+      ],
+      "error": null
+    },
+    {
+      "group": "webgpu",
+      "q": "portfolio webgpu",
+      "searchedAt": "2026-09-15T05:52:33.384Z",
+      "status": 0,
+      "results": [
+        {
+          "defaultBranch": "main",
+          "description": "new portfolio draft with webgpu gallery",
+          "fullName": "bruno-quintela/portfolio-webgpu",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-01-27T14:10:08Z",
+          "stargazersCount": 0,
+          "url": "https://github.com/bruno-quintela/portfolio-webgpu"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "",
+          "fullName": "jdgiles26/portfolio-webgpu",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-08-12T02:18:51Z",
+          "stargazersCount": 0,
+          "url": "https://github.com/jdgiles26/portfolio-webgpu"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "",
+          "fullName": "callmeATHUL/athul-portfolio-webgpu",
+          "homepage": "https://athul-portfolio-webgpu.vercel.app",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2026-09-10T01:37:31Z",
+          "stargazersCount": 0,
+          "url": "https://github.com/callmeATHUL/athul-portfolio-webgpu"
+        }
+      ],
+      "error": null
+    },
+    {
+      "group": "page-transition",
+      "q": "page transitions portfolio stars:>10",
+      "searchedAt": "2026-09-15T05:52:33.384Z",
+      "status": 0,
+      "results": [
+        {
+          "defaultBranch": "master",
+          "description": "This responsive layout is based on an initial grid of four boxes. Once a box is clicked, it gets resized to fullscreen and the other boxes scale down and fade out. In the work section we experiment with another transition which is to show a panel by making it appear from the bottom while scaling the current one down. To see it in action, open the work section and click on one of the portfolio items and navigate through them.",
+          "fullName": "codrops/FullscreenLayoutPageTransitions",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2013-04-23T21:06:39Z",
+          "stargazersCount": 726,
+          "url": "https://github.com/codrops/FullscreenLayoutPageTransitions"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Includes Light/Dark mode.",
+          "fullName": "LekoArts/gatsby-starter-portfolio-emilia",
+          "homepage": "https://emilia.lekoarts.de",
+          "isArchived": true,
+          "license": {
+            "key": "0bsd",
+            "name": "BSD Zero Clause License",
+            "url": "https://api.github.com/licenses/0bsd"
+          },
+          "pushedAt": "2025-06-26T07:47:35Z",
+          "stargazersCount": 357,
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-emilia"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "Minimalistic portfolio with full-width grid, page transitions, support for additional MDX pages, and a focus on large images. Especially designers and/or photographers will love this theme! Built with MDX and Theme UI.",
+          "fullName": "LekoArts/gatsby-starter-portfolio-emma",
+          "homepage": "https://emma.lekoarts.de",
+          "isArchived": true,
+          "license": {
+            "key": "0bsd",
+            "name": "BSD Zero Clause License",
+            "url": "https://api.github.com/licenses/0bsd"
+          },
+          "pushedAt": "2025-06-26T07:47:36Z",
+          "stargazersCount": 279,
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-emma"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "Create awesome sidebar for your portfolio or any projects, It is build using ReactJs and styled-components. React router is already configured, Also it has page transition effect using framer-motion.",
+          "fullName": "codebucks27/react-sidebar",
+          "homepage": "https://react-sidebar.vercel.app/",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2023-12-24T11:57:53Z",
+          "stargazersCount": 124,
+          "url": "https://github.com/codebucks27/react-sidebar"
+        }
+      ],
+      "error": null
+    },
+    {
+      "group": "scroll-gallery",
+      "q": "gallery user:codrops",
+      "reason": "The combined scroll/gallery query returned zero results; broadened to gallery within Codrops.",
+      "searchedAt": "2026-09-15T05:53:11.103Z",
+      "status": 0,
+      "results": [
+        {
+          "defaultBranch": "master",
+          "description": "Gamma Gallery is an experimental responsive image gallery that attempts to provide an adjustable responsive images approach taking its grid layout and the full slideshow view into account.",
+          "fullName": "codrops/GammaGallery",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2016-05-25T18:47:09Z",
+          "stargazersCount": 396,
+          "url": "https://github.com/codrops/GammaGallery"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "A responsive grid gallery based on the [Google Chromebook getting started](https://gweb-gettingstartedguide.appspot.com/) guide gallery. In this Blueprint we use Masonry for the grid and 3D transforms for navigating the items.",
+          "fullName": "codrops/GridGallery",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2015-05-27T16:19:54Z",
+          "stargazersCount": 234,
+          "url": "https://github.com/codrops/GridGallery"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "A flat-style Polaroid gallery where the items are scattered randomly in a container. When a specific item is selected, it will move to the middle while the other Polaroids will make space for it by moving to the sides. Optionally, an item can have a backface which will be shown by flipping the Polaroid when clicking on the current navigation dot again. ",
+          "fullName": "codrops/ScatteredPolaroidsGallery",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2016-12-24T11:15:39Z",
+          "stargazersCount": 191,
+          "url": "https://github.com/codrops/ScatteredPolaroidsGallery"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "A responsive product grid layout with touch-friendly Flickity galleries and Isotope-powered filter functionality.",
+          "fullName": "codrops/FilterableProductGrid",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2017-04-23T08:10:44Z",
+          "stargazersCount": 144,
+          "url": "https://github.com/codrops/FilterableProductGrid"
+        },
+        {
+          "defaultBranch": "master",
+          "description": "A highly experimental 3D room layout for a gallery that aims to show exhibition details in an interesting way.",
+          "fullName": "codrops/Exhibition",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "",
+            "name": "",
+            "url": ""
+          },
+          "pushedAt": "2017-03-30T10:11:58Z",
+          "stargazersCount": 119,
+          "url": "https://github.com/codrops/Exhibition"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "An inline menu layout with a playful hover animation and a gallery content preview panel.",
+          "fullName": "codrops/InlineMenuLayout",
+          "homepage": "https://tympanus.net/codrops/?p=51858",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2020-11-11T14:53:06Z",
+          "stargazersCount": 67,
+          "url": "https://github.com/codrops/InlineMenuLayout"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "An experimental layout transition where a stack of images animates to a gallery view, showing some more content.",
+          "fullName": "codrops/ContentLayoutTransition",
+          "homepage": "https://tympanus.net/codrops/?p=63558",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2023-12-02T20:30:14Z",
+          "stargazersCount": 61,
+          "url": "https://github.com/codrops/ContentLayoutTransition"
+        },
+        {
+          "defaultBranch": "main",
+          "description": "A concept for page transitions where a tooltip image animates to a gallery layout and fullscreen image.",
+          "fullName": "codrops/TooltipTransition",
+          "homepage": "",
+          "isArchived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "url": "https://api.github.com/licenses/mit"
+          },
+          "pushedAt": "2022-12-07T13:01:44Z",
+          "stargazersCount": 26,
+          "url": "https://github.com/codrops/TooltipTransition"
+        }
+      ],
+      "error": null
+    }
+  ],
+  "uniqueCandidateCount": 119,
+  "uniqueCandidates": [
+    {
+      "defaultBranch": "master",
+      "description": "This repo is dedicated to collecting and showcasing the coolest GitHub profile READMEs from developers around the world. Whether your README is visually stunning, informative, or uniquely creative, we’d love to see it here!",
+      "fullName": "nikhilsbuilds/Cool-GitHub-Profile-README",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "url": "https://api.github.com/licenses/cc0-1.0"
+      },
+      "pushedAt": "2025-09-02T04:26:54Z",
+      "stargazersCount": 111,
+      "url": "https://github.com/nikhilsbuilds/Cool-GitHub-Profile-README"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "An Open Sourced Creative Portfolio for Developer and Tech Geeks  😀",
+      "fullName": "sleepyqadir/TechFolio",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2023-10-02T00:04:35Z",
+      "stargazersCount": 76,
+      "url": "https://github.com/sleepyqadir/TechFolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "A personal portfolio for developers and designers, built with Next.js and styled with TailwindCSS. It features a clean UI, responsive layout, and sections to showcase projects, experience, and creative skills.",
+      "fullName": "ibrahimmemonn/Figma-Portfolio",
+      "homepage": "https://figma-portfolio-ten.vercel.app",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-08-07T10:17:45Z",
+      "stargazersCount": 68,
+      "url": "https://github.com/ibrahimmemonn/Figma-Portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": " A curated list of awesome creative personal websites from awesome designers and developers 😎.",
+      "fullName": "Arif-un/awesome-portfolio-websites",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2026-08-30T16:14:44Z",
+      "stargazersCount": 64,
+      "url": "https://github.com/Arif-un/awesome-portfolio-websites"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "SS2025 — ✨ Personal site & portfolio for creative developer Henry Desroches ",
+      "fullName": "xdesro/true-terrors",
+      "homepage": "https://henry.codes",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-09-08T15:49:07Z",
+      "stargazersCount": 64,
+      "url": "https://github.com/xdesro/true-terrors"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "FW2021 — ✨ Personal site & portfolio for creative developer Henry Desroches",
+      "fullName": "xdesro/soon",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2024-04-11T01:31:21Z",
+      "stargazersCount": 58,
+      "url": "https://github.com/xdesro/soon"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "A beautifully crafted and fully responsive developer portfolio with an aesthetic, modern UI built using HTML, CSS, and JavaScript to showcase my projects, skills, and creative personality.",
+      "fullName": "NausheenFaiyaz/NausheenFaiyazPortfolio",
+      "homepage": "https://nausheenportfolio.vercel.app/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-05-30T06:25:07Z",
+      "stargazersCount": 51,
+      "url": "https://github.com/NausheenFaiyaz/NausheenFaiyazPortfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Explore 90+ unique and creative project ideas for developers, learners, and professionals. Perfect for building innovative apps, enhancing portfolios, and mastering skills. Contribute, share, and bring ideas to life! Fork this GitHub repo and start your coding journey today. 🚀",
+      "fullName": "king04aman/Unique-Project-Ideas",
+      "homepage": "https://github.com/king04aman/Unique-Project-Ideas",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2025-02-28T17:23:46Z",
+      "stargazersCount": 45,
+      "url": "https://github.com/king04aman/Unique-Project-Ideas"
+    },
+    {
+      "defaultBranch": "start-engine",
+      "description": "This project aims to provide an immersive and visually striking portfolio website using cutting-edge technologies. Whether you're a designer, developer, or creative professional, this portfolio template will leave a lasting impression on your visitors.",
+      "fullName": "Andrew-Tsegaye/Stunning_3D_Portfolio_Website",
+      "homepage": "https://eskinder.vercel.app",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2024-06-27T06:22:23Z",
+      "stargazersCount": 35,
+      "url": "https://github.com/Andrew-Tsegaye/Stunning_3D_Portfolio_Website"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "This Portfolio is a sleek, minimalist portfolio platform designed for developers, designers, and creatives who want a professional online presence with full control over their content. It features a clean black-and-white aesthetic, a built-in admin dashboard for managing blogs, projects, testimonials, and gallery items, plus a secure backend ",
+      "fullName": "heyrapto/raptomx-portfolio",
+      "homepage": "https://raptomx.vercel.app",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-05-10T22:48:36Z",
+      "stargazersCount": 35,
+      "url": "https://github.com/heyrapto/raptomx-portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "SS2019 — ✨ Personal site & portfolio for creative developer Henry Desroches",
+      "fullName": "xdesro/vogue",
+      "homepage": "https://henry.codes",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2022-02-10T18:51:30Z",
+      "stargazersCount": 31,
+      "url": "https://github.com/xdesro/vogue"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "Hola is a modern and stylish vCard website template. Designed to be a resume, vCard, portfolio template, it’s the perfect template for creative designers, developers, freelancers, photographer or any creative profession. It is fully responsive and retina/hi-dpi ready. It will look great on any devices from desktop to mobile phones. It has blog page templates, working contact form, stylish portfolio section and other features you will only find on premium templates. Built with clean and organized code, this template is also very easy to customize.",
+      "fullName": "devlom/grav-theme-hola",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2025-06-26T10:38:54Z",
+      "stargazersCount": 28,
+      "url": "https://github.com/devlom/grav-theme-hola"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "A definitive portfolio network for developers, designers, and creative engineers. Features a high-performance \"Industrial UI,\" real-time filtering with holographic maps, and deep GitHub integration. Built with Next.js 15, Tailwind, and Framer Motion.",
+      "fullName": "andymarrow/Stark",
+      "homepage": "https://stark.et",
+      "isArchived": false,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "url": ""
+      },
+      "pushedAt": "2026-09-14T16:38:53Z",
+      "stargazersCount": 26,
+      "url": "https://github.com/andymarrow/Stark"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Modern Portfolio is a sleek, interactive, and high-performance developer portfolio template built using Next.js, Framer Motion, and Tailwind CSS. Designed for modern web developers and creative professionals, this template offers a clean, professional interface to showcase skills, experience, and projects with style and precision.",
+      "fullName": "Shamim-Al-Mamun/Modern-Portfolio-NextJS-Framer-Motion",
+      "homepage": "https://modern-portfolio-next-js-framer-motion.vercel.app",
+      "isArchived": false,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "url": ""
+      },
+      "pushedAt": "2025-03-24T07:46:22Z",
+      "stargazersCount": 23,
+      "url": "https://github.com/Shamim-Al-Mamun/Modern-Portfolio-NextJS-Framer-Motion"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Polaris is a sleek and modern portfolio template built with Astro, designed to help designers, developers, and creatives showcase their work with clarity and style. Inspired by the guiding North Star, Polaris puts your projects in the spotlight while keeping the layout clean, responsive, and performance-focused.",
+      "fullName": "educlopez/Polaris",
+      "homepage": "https://polaris-six-rust.vercel.app",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2026-07-31T15:27:30Z",
+      "stargazersCount": 23,
+      "url": "https://github.com/educlopez/Polaris"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Welcome to my 3D interactive developer portfolio, crafted using React, Three.js (@react-three/fiber), and Framer Motion. This project showcases my web development skills, creative design sense, and a passion for immersive UI/UX experiences.",
+      "fullName": "Aditya-9944/3d-react-portfolio",
+      "homepage": "https://aditya-portfollio.netlify.app/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2025-07-18T11:10:02Z",
+      "stargazersCount": 19,
+      "url": "https://github.com/Aditya-9944/3d-react-portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "modern portfolio websites**, **developer showcase templates**, and **creative web interfaces** using a variety of frameworks, design systems, and frontend technologies.  My GitHub features portfolio projects ranging from:  - clean and minimal layouts - premium business-style templates - terminal-inspired developer portfolios",
+      "fullName": "Dev-moe-kyawaung/Flutter-Web-Portfolio-Wpa",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-06-10T17:41:59Z",
+      "stargazersCount": 16,
+      "url": "https://github.com/Dev-moe-kyawaung/Flutter-Web-Portfolio-Wpa"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Looking for inspiration to create the best web developer portfolio website? Explore this personal portfolio website designed specifically for modern developers and creatives. Whether you're a full-stack web developer, a front-end web developer, or a graphic designer, this developer portfolio website offers the perfect foundation to showcase skills.",
+      "fullName": "0x1Luffy/New-Portfolio",
+      "homepage": "https://chetankesare9.vercel.app/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-04-07T03:57:48Z",
+      "stargazersCount": 15,
+      "url": "https://github.com/0x1Luffy/New-Portfolio"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "Showcase your skills, experience, and projects with a sleek and customizable portfolio app built using Jetpack Compose. Whether you're a developer, designer, or creative, this app makes it easy to present your personal brand in style! 🚀✨",
+      "fullName": "abdelillahbel/SkillSnapAndroid",
+      "homepage": "https://skill-snap-web.vercel.app",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2024-11-26T09:26:41Z",
+      "stargazersCount": 14,
+      "url": "https://github.com/abdelillahbel/SkillSnapAndroid"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "A Responsive Bootstrap portfolio template for Designers, Developers, Agency and all the creatives.  built with Flutter Made with 💙",
+      "fullName": "this-kin/folio",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2024-02-26T18:23:16Z",
+      "stargazersCount": 12,
+      "url": "https://github.com/this-kin/folio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Interactive developer portfolio built with Three.js, Vue and modern web technologies, focused on immersive user experiences, smooth animations and high-performance frontend architecture.",
+      "fullName": "davidhckh/portfolio-2025",
+      "homepage": "https://david-hckh.com/",
+      "isArchived": false,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "url": ""
+      },
+      "pushedAt": "2026-08-11T13:07:48Z",
+      "stargazersCount": 863,
+      "url": "https://github.com/davidhckh/portfolio-2025"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "Recreation of bokoko33's amazing portfolio",
+      "fullName": "andrewwoan/abigail-bloom-portolio-bokoko33",
+      "homepage": "https://abigail-bloom-portolio-bokoko33.vercel.app/",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2024-03-07T03:13:29Z",
+      "stargazersCount": 539,
+      "url": "https://github.com/andrewwoan/abigail-bloom-portolio-bokoko33"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "Bruno Arizio's 2019 portfolio.",
+      "fullName": "bizarro/bruno-arizio",
+      "homepage": "https://brunoarizio.com",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2025-02-12T02:59:55Z",
+      "stargazersCount": 464,
+      "url": "https://github.com/bizarro/bruno-arizio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "An immersive, interactive 3D Web Developer portfolio built by Tomasz 'ITom' Szmajda using React Three Fiber, GSAP, and advanced WebGL rendering architecture.",
+      "fullName": "ITomPoland/portfolio-itom",
+      "homepage": "https://itomdev.com",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2026-09-08T14:18:50Z",
+      "stargazersCount": 396,
+      "url": "https://github.com/ITomPoland/portfolio-itom"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "WebGL portfolio experiment.",
+      "fullName": "vaalentin/2015",
+      "homepage": "https://github.com/vaalentin/2015",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2022-02-11T13:34:58Z",
+      "stargazersCount": 274,
+      "url": "https://github.com/vaalentin/2015"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "my 3D multiplayer portfolio P2P website using Three.js  and WebRTC",
+      "fullName": "JohansenJunias20/portofolio",
+      "homepage": "https://JohansenJunias20.github.io",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2023-03-14T19:28:55Z",
+      "stargazersCount": 219,
+      "url": "https://github.com/JohansenJunias20/portofolio"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "Luis Bizarro's Portfolio from 2020 to 2023.",
+      "fullName": "bizarro/bizar.ro",
+      "homepage": "https://2020.bizarro.dev",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2025-02-19T06:19:45Z",
+      "stargazersCount": 218,
+      "url": "https://github.com/bizarro/bizar.ro"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Building beautiful websites used to be gatekept. Not anymore. So I built all of them.",
+      "fullName": "Qiuner/Qiuner.github.io",
+      "homepage": "https://qiuner.github.io/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-09-07T04:30:23Z",
+      "stargazersCount": 191,
+      "url": "https://github.com/Qiuner/Qiuner.github.io"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "animated webgl portfolio using html,css,javascript (three js, locomotive js, gsap)....",
+      "fullName": "MAGGIx1404/webgl-portfolio",
+      "homepage": "https://maggix1404.github.io/webgl-portfolio/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2021-08-30T06:04:32Z",
+      "stargazersCount": 188,
+      "url": "https://github.com/MAGGIx1404/webgl-portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Interactive & Responsive 3D developer portfolio built with React, TypeScript, Three.js, GSAP, WebGL have AI chat & chessbot",
+      "fullName": "red1-for-hek/portfolio-website",
+      "homepage": "https://redoyanulhaque.me/",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2026-08-24T15:38:47Z",
+      "stargazersCount": 164,
+      "url": "https://github.com/red1-for-hek/portfolio-website"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Award-winning personal portfolio website by Evangelos Giatsidis built with Next.js, React Three Fiber, and GSAP animations.",
+      "fullName": "Giats2498/giats-portfolio",
+      "homepage": "https://giats.me/",
+      "isArchived": false,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "url": ""
+      },
+      "pushedAt": "2025-06-01T16:56:30Z",
+      "stargazersCount": 129,
+      "url": "https://github.com/Giats2498/giats-portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "My Interactive Workspace",
+      "fullName": "Snokke/my-interactive-workspace",
+      "homepage": "https://andriibabintsev.com",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2025-08-10T12:49:35Z",
+      "stargazersCount": 121,
+      "url": "https://github.com/Snokke/my-interactive-workspace"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "awwwards portfolio recreate using html5, css3 and javscript(builded)",
+      "fullName": "MAGGIx1404/awwwards-Rebuild",
+      "homepage": "https://maggix1404.github.io/awwwards-Rebuild/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2021-08-31T04:47:01Z",
+      "stargazersCount": 105,
+      "url": "https://github.com/MAGGIx1404/awwwards-Rebuild"
+    },
+    {
+      "defaultBranch": "rmain",
+      "description": "Portfolio",
+      "fullName": "AT010303/Room_Portfolio",
+      "homepage": "https://at010303.vercel.app/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2024-07-25T06:37:06Z",
+      "stargazersCount": 95,
+      "url": "https://github.com/AT010303/Room_Portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "A whole new way of presenting a developer's portfolio. ",
+      "fullName": "midopooler/Portfolio2.0",
+      "homepage": "https://pulkitmidha.com/",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2025-01-05T19:57:27Z",
+      "stargazersCount": 72,
+      "url": "https://github.com/midopooler/Portfolio2.0"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "A single-file Three.js studio concept with an interactive Kyoto lobby, arcade, portfolio CRTs, and editorial case studies.",
+      "fullName": "MengTo/sublevel-studio",
+      "homepage": "https://mengto.github.io/sublevel-studio/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-09-03T08:54:40Z",
+      "stargazersCount": 63,
+      "url": "https://github.com/MengTo/sublevel-studio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "This GitHub repository contains code for a personal portfolio website using React, TailwindCSS, React-Router,  Gsap-Animation, WebGL, Three.js, and Emailjs. It likely showcases the developer's work and skills in an interactive way.",
+      "fullName": "Shm-Rsuf/personal-portfolio",
+      "homepage": "https://usuf-portfolio.vercel.app",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2024-08-21T17:30:04Z",
+      "stargazersCount": 56,
+      "url": "https://github.com/Shm-Rsuf/personal-portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Creative 3D personal portfolio built with Next.js, Prismic CMS, Three.js, Tailwind CSS, and GSAP, featuring interactive elements and custom animations.",
+      "fullName": "codedalex/Fizzi-3D-Website",
+      "homepage": "https://fizzi-soda.vercel.app/",
+      "isArchived": false,
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "pushedAt": "2024-09-25T19:16:44Z",
+      "stargazersCount": 49,
+      "url": "https://github.com/codedalex/Fizzi-3D-Website"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "A centralized location for my WebGL and other demos.",
+      "fullName": "FarazzShaikh/experiments",
+      "homepage": "https://farazzshaikh.github.io/experiments",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2021-09-01T09:09:58Z",
+      "stargazersCount": 45,
+      "url": "https://github.com/FarazzShaikh/experiments"
+    },
+    {
+      "defaultBranch": "develop",
+      "description": "Luis Bizarro's Portfolio from 2013 to 2018.",
+      "fullName": "bizarro/lhbzr.github.io",
+      "homepage": "https://lhbzr.com",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2025-02-11T00:33:07Z",
+      "stargazersCount": 43,
+      "url": "https://github.com/bizarro/lhbzr.github.io"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Interactive 3D developer portfolio with a keyboard where every keycap is a skill. Built with Next.js, React, TypeScript, GSAP & Motion. Free to use!",
+      "fullName": "Naresh-Khatri/3d-portfolio",
+      "homepage": "https://nareshkhatri.dev",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-07-25T15:52:14Z",
+      "stargazersCount": 1274,
+      "url": "https://github.com/Naresh-Khatri/3d-portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "My Portfolio Website Showcasing the website 3d interactions or experience and my work.",
+      "fullName": "MoncyDev/Portfolio-Website",
+      "homepage": "https://www.moncy.dev",
+      "isArchived": false,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "url": ""
+      },
+      "pushedAt": "2026-03-21T04:58:27Z",
+      "stargazersCount": 1127,
+      "url": "https://github.com/MoncyDev/Portfolio-Website"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "Personal portfolio (2018)",
+      "fullName": "iuridepaula/portfolio",
+      "homepage": "https://iuri.is/",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2023-02-26T18:19:04Z",
+      "stargazersCount": 579,
+      "url": "https://github.com/iuridepaula/portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "👨‍🎓 An eye-catching developer Portfolio, built on NextJS, GSAP, Tailwind and React.",
+      "fullName": "shubh73/devfolio",
+      "homepage": "https://shubhporwal.me",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2026-04-26T04:58:17Z",
+      "stargazersCount": 452,
+      "url": "https://github.com/shubh73/devfolio"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "Interactive Portfolio with Next, GSAP, Tailwind, and React",
+      "fullName": "ayush013/folio",
+      "homepage": "https://www.ayushsingh.co.in",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2023-10-10T10:40:08Z",
+      "stargazersCount": 423,
+      "url": "https://github.com/ayush013/folio"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "Portfolio website in React-three-fiber, Drei & GSAP",
+      "fullName": "mohitvirli/mohitvirli.github.io",
+      "homepage": "https://clevir.li/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-09-13T07:13:35Z",
+      "stargazersCount": 388,
+      "url": "https://github.com/mohitvirli/mohitvirli.github.io"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "My personal website",
+      "fullName": "adeolaadeoti/adeolaadeoti-portfolio",
+      "homepage": "https://web.archive.org/web/20201203095832/https://adeolaadeoti.netlify.app/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2023-01-06T09:56:02Z",
+      "stargazersCount": 363,
+      "url": "https://github.com/adeolaadeoti/adeolaadeoti-portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "A visually stunning personal portfolio website showcasing my skills, projects, and personality with 3D animations, smooth interactions, and a cosmic theme. Built using Next.js, Tailwind CSS, GSAP, and more!",
+      "fullName": "Abhiz2411/3D-interactive-portfolio",
+      "homepage": "https://www.abhijitzende.com/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-02-10T05:42:48Z",
+      "stargazersCount": 321,
+      "url": "https://github.com/Abhiz2411/3D-interactive-portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Build a stunning Fashion Studio Website Landing page with React JS. This website is created using locomotive-scroll for smooth scrolling. Also, GSAP and Framer-Motion for some custom animations and effects. You can learn to make this website by visiting the tutorial link from the description. ",
+      "fullName": "codebucks27/wibe-studio",
+      "homepage": "https://wibe-studio.netlify.app/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-04-26T13:26:26Z",
+      "stargazersCount": 250,
+      "url": "https://github.com/codebucks27/wibe-studio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "The first version of my portfolio website. Launched in March, 2023.",
+      "fullName": "victorcodess/folio-v1",
+      "homepage": "https://v1.victorwilliams.me",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2025-11-06T18:21:49Z",
+      "stargazersCount": 247,
+      "url": "https://github.com/victorcodess/folio-v1"
+    },
+    {
+      "defaultBranch": "v5-nemo",
+      "description": "My portfolio website build with Nuxt, Scss and GSAP",
+      "fullName": "logotip4ik/portfolio",
+      "homepage": "https://bogdankostyuk.xyz",
+      "isArchived": false,
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "url": "https://api.github.com/licenses/cc0-1.0"
+      },
+      "pushedAt": "2023-07-30T19:29:01Z",
+      "stargazersCount": 228,
+      "url": "https://github.com/logotip4ik/portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Showcasing my web dev skills with magic animation, and cutting-edge design.",
+      "fullName": "Tajmirul/portfolio-2.0",
+      "homepage": "https://tajmirul.site",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2026-05-02T02:08:00Z",
+      "stargazersCount": 225,
+      "url": "https://github.com/Tajmirul/portfolio-2.0"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "This Layout made with Next.js, Next.js Cloudinary, Framer Motion, Gsap, Lenis, Styled Component, Lucide Icons, React Wrap Balancer, Tailwind and Postcss.",
+      "fullName": "AliBagheri2079/dennis-snellenberg-portfolio",
+      "homepage": "https://dennis-snellenberg-portfolio.vercel.app",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2023-12-25T13:46:51Z",
+      "stargazersCount": 186,
+      "url": "https://github.com/AliBagheri2079/dennis-snellenberg-portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "A modern Awwwards-inspired interactive website featuring smooth GSAP animations, creative UI interactions, immersive motion design, and experimental layouts, built to showcase premium frontend experiences similar to SOTD-level digital projects.",
+      "fullName": "Thakuma07/Truus.co-Awwward-Website",
+      "homepage": "https://truus-awwward-website.vercel.app/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-09-11T05:32:18Z",
+      "stargazersCount": 180,
+      "url": "https://github.com/Thakuma07/Truus.co-Awwward-Website"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "This portfolio serves as both a personal showcase and a testament to modern web development capabilities, featuring smooth animations, engaging interactions, and a cohesive visual identity throughout.",
+      "fullName": "prashantkoirala465/web-development-portfolio",
+      "homepage": "https://web-development-portfolio-blond.vercel.app",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2025-08-10T18:07:22Z",
+      "stargazersCount": 177,
+      "url": "https://github.com/prashantkoirala465/web-development-portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Build a 3D animated developer portfolio from scratch with React, GSAP, Three.js & Tailwind — full tutorial walkthrough!  ",
+      "fullName": "Ali-Sanati/awwwards-portfolio",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2025-06-15T17:10:40Z",
+      "stargazersCount": 163,
+      "url": "https://github.com/Ali-Sanati/awwwards-portfolio"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "A free online portfolio website to showcase your photos.",
+      "fullName": "rampatra/photography",
+      "homepage": "http://photography.rampatra.com",
+      "isArchived": false,
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0"
+      },
+      "pushedAt": "2025-10-28T15:29:47Z",
+      "stargazersCount": 1192,
+      "url": "https://github.com/rampatra/photography"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "📷 A Website created using Tailwind CSS, HTML, CSS and JavaScript that can be used as a Photographer Portfolio.",
+      "fullName": "JoaoFranco03/photography-portfolio",
+      "homepage": "https://photography-portfolio-joaofranco03.netlify.app/",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2024-12-28T22:47:06Z",
+      "stargazersCount": 469,
+      "url": "https://github.com/JoaoFranco03/photography-portfolio"
+    },
+    {
+      "defaultBranch": "gh-pages",
+      "description": "Visual Portfolio Generator with no extra installation",
+      "fullName": "andyzg/gallery",
+      "homepage": "http://andyzhang.net/gallery",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2024-05-24T19:43:17Z",
+      "stargazersCount": 378,
+      "url": "https://github.com/andyzg/gallery"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "A modern photography portfolio website built with Next.js 16 featuring interactive maps photo management and a comprehensive dashboard.",
+      "fullName": "ECarry/photography-website",
+      "homepage": "https://p.isera.dev",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2026-09-11T16:05:05Z",
+      "stargazersCount": 365,
+      "url": "https://github.com/ECarry/photography-website"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Includes Light/Dark mode.",
+      "fullName": "LekoArts/gatsby-starter-portfolio-emilia",
+      "homepage": "https://emilia.lekoarts.de",
+      "isArchived": true,
+      "license": {
+        "key": "0bsd",
+        "name": "BSD Zero Clause License",
+        "url": "https://api.github.com/licenses/0bsd"
+      },
+      "pushedAt": "2025-06-26T07:47:35Z",
+      "stargazersCount": 357,
+      "url": "https://github.com/LekoArts/gatsby-starter-portfolio-emilia"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.",
+      "fullName": "LekoArts/gatsby-starter-portfolio-jodie",
+      "homepage": "https://jodie.lekoarts.de/",
+      "isArchived": true,
+      "license": {
+        "key": "0bsd",
+        "name": "BSD Zero Clause License",
+        "url": "https://api.github.com/licenses/0bsd"
+      },
+      "pushedAt": "2025-06-26T07:47:39Z",
+      "stargazersCount": 348,
+      "url": "https://github.com/LekoArts/gatsby-starter-portfolio-jodie"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Photo Portfolio w/ Next.js + TailwindCSS + Contentful",
+      "fullName": "jpvalery/portfolio",
+      "homepage": "https://jpvalery.photo",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2025-12-10T10:39:30Z",
+      "stargazersCount": 278,
+      "url": "https://github.com/jpvalery/portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Capture life through the Camera.",
+      "fullName": "sun0225SUN/camlife",
+      "homepage": "https://camlife.app",
+      "isArchived": false,
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0"
+      },
+      "pushedAt": "2026-06-01T20:02:22Z",
+      "stargazersCount": 114,
+      "url": "https://github.com/sun0225SUN/camlife"
+    },
+    {
+      "defaultBranch": "main",
+      "description": ":camera: Photography portfolio Jekyll template",
+      "fullName": "CloudCannon/aperture-jekyll-template",
+      "homepage": "https://cosmic-hippopotamus.cloudvent.net/",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2022-12-05T02:48:31Z",
+      "stargazersCount": 113,
+      "url": "https://github.com/CloudCannon/aperture-jekyll-template"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "A personal photography portfolio template built with Nuxt.js and Tailwind CSS.",
+      "fullName": "Youhan/maya-nuxt-template",
+      "homepage": "https://maya-nuxt-template.vercel.app",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2025-04-09T18:59:52Z",
+      "stargazersCount": 111,
+      "url": "https://github.com/Youhan/maya-nuxt-template"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "📸 My personal website dedicated to photography",
+      "fullName": "BenjaminOddou/portfolio",
+      "homepage": "https://www.benjaminoddou-photographe.com",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2026-05-14T13:20:13Z",
+      "stargazersCount": 101,
+      "url": "https://github.com/BenjaminOddou/portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "📸 A photography portfolio that showcases my love for travel and code. Built using React, Node.js, TypeScript and Tailwind, this project is a great example of my skills and eye for detail.",
+      "fullName": "catherineisonline/travel-with-catherine",
+      "homepage": "https://travel-with-catherine.vercel.app/",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2026-01-27T08:02:54Z",
+      "stargazersCount": 87,
+      "url": "https://github.com/catherineisonline/travel-with-catherine"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "Check out my photography portfolio made with React!",
+      "fullName": "danielnuwin/React-Photography-Portfolio",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2024-05-03T01:31:40Z",
+      "stargazersCount": 85,
+      "url": "https://github.com/danielnuwin/React-Photography-Portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "My personal website. Uses a Material 3 Expressive styled shell, photo gallery, blog, and features tons of customization options. Built on React 19. Research, photography, blog posts.",
+      "fullName": "hnpf/virex.lol",
+      "homepage": "https://virex.lol/",
+      "isArchived": false,
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0"
+      },
+      "pushedAt": "2026-09-14T23:26:14Z",
+      "stargazersCount": 69,
+      "url": "https://github.com/hnpf/virex.lol"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "A portfolio for my personal website highlighting photography, videography, and projects.",
+      "fullName": "maxemitchell/portfolio",
+      "homepage": "https://www.maxemitchell.com/",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2026-02-16T02:57:07Z",
+      "stargazersCount": 60,
+      "url": "https://github.com/maxemitchell/portfolio"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "This is the portfolio of Tonino De Marco, a French photographer",
+      "fullName": "abrasseu/toninodemarco-photography",
+      "homepage": "https://www.toninodemarco-photography.com/",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2022-06-21T17:37:32Z",
+      "stargazersCount": 59,
+      "url": "https://github.com/abrasseu/toninodemarco-photography"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "AstroJS based photography portfolio site template",
+      "fullName": "rockem/astro-photography-portfolio",
+      "homepage": "https://rockem.github.io/astro-photography-portfolio/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2025-07-08T05:25:29Z",
+      "stargazersCount": 57,
+      "url": "https://github.com/rockem/astro-photography-portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "🖼️ My photography portfolio website designed in Figma, and built with Next.js and Tailwind CSS.",
+      "fullName": "mitul-s/typicalmitul.com",
+      "homepage": "https://typicalmitul.com/",
+      "isArchived": false,
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0"
+      },
+      "pushedAt": "2026-06-22T16:03:14Z",
+      "stargazersCount": 57,
+      "url": "https://github.com/mitul-s/typicalmitul.com"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Photography portfolio featuring albums, galleries, and globes. 🔧 Built with Next.js, Three.js, and Tailwind. 🌎 Hosted on Contentful and Pages.",
+      "fullName": "agarun/photos",
+      "homepage": "https://photos.agarun.com/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-08-29T03:25:25Z",
+      "stargazersCount": 55,
+      "url": "https://github.com/agarun/photos"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "Design/Photography Portfolio is a free Astro template for showcasing the works of designers and photographers.",
+      "fullName": "pysunday/DesignPhotographyPortfolio",
+      "homepage": "https://cosmic-cactus-65b8d8.netlify.app/en/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2025-08-28T08:18:22Z",
+      "stargazersCount": 41,
+      "url": "https://github.com/pysunday/DesignPhotographyPortfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Inspiration and ideas for on-scroll typography animations that add an extra layer of creativity to a website design.",
+      "fullName": "codrops/OnScrollTypographyAnimations",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2023-12-05T12:32:33Z",
+      "stargazersCount": 343,
+      "url": "https://github.com/codrops/OnScrollTypographyAnimations"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "A switching title effect where a fixed element changes depending on the scroll position. ",
+      "fullName": "codrops/ScrollingLettersAnimation",
+      "homepage": "https://tympanus.net/codrops/?p=33990",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2018-02-12T12:05:14Z",
+      "stargazersCount": 229,
+      "url": "https://github.com/codrops/ScrollingLettersAnimation"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "A set of inspirational letter animations for display typography effects powered by anime.js",
+      "fullName": "codrops/LetterEffects",
+      "homepage": "http://tympanus.net/Development/LetterEffects/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2016-10-18T12:14:37Z",
+      "stargazersCount": 207,
+      "url": "https://github.com/codrops/LetterEffects"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Animations for revealing blurry text on scroll.",
+      "fullName": "codrops/ScrollBlurTypography",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2024-04-23T13:12:19Z",
+      "stargazersCount": 148,
+      "url": "https://github.com/codrops/ScrollBlurTypography"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "Recreation of Thibaud Allie's letter stagger animation.",
+      "fullName": "codrops/TypographyMotion",
+      "homepage": "https://tympanus.net/codrops/?p=50136",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2020-11-11T09:09:09Z",
+      "stargazersCount": 85,
+      "url": "https://github.com/codrops/TypographyMotion"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "An expanding image animation inside of a typographic block.",
+      "fullName": "codrops/ImageExpansionTypography",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2024-04-02T11:56:03Z",
+      "stargazersCount": 47,
+      "url": "https://github.com/codrops/ImageExpansionTypography"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "An experimental typography animation based on a kinetic type design by Domagoj Štrok where words get duplicated several times.",
+      "fullName": "codrops/RepetitiveTypography",
+      "homepage": "https://tympanus.net/codrops/?p=56972",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2021-10-20T10:09:34Z",
+      "stargazersCount": 43,
+      "url": "https://github.com/codrops/RepetitiveTypography"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!",
+      "fullName": "adrianhajdin/project_3D_developer_portfolio",
+      "homepage": "https://jsmastery.pro",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2024-10-29T09:21:29Z",
+      "stargazersCount": 7123,
+      "url": "https://github.com/adrianhajdin/project_3D_developer_portfolio"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "My personal portfolio website built using React and three js",
+      "fullName": "HamishMW/portfolio",
+      "homepage": "https://hamishw.com",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2024-11-16T02:46:21Z",
+      "stargazersCount": 3526,
+      "url": "https://github.com/HamishMW/portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "3D Scrolling Portfolio Website with Three.js",
+      "fullName": "fireship-io/threejs-scroll-animation-demo",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2024-07-06T10:45:24Z",
+      "stargazersCount": 1665,
+      "url": "https://github.com/fireship-io/threejs-scroll-animation-demo"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your skills and get a job!",
+      "fullName": "adrianhajdin/3D_portfolio",
+      "homepage": "https://3d-portfolio.com",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2024-05-20T06:14:12Z",
+      "stargazersCount": 1348,
+      "url": "https://github.com/adrianhajdin/3D_portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Learn how to build 3D websites from scratch with the Three.js Crash Course. It's a fun and practical way to create a portfolio that really pops!",
+      "fullName": "adrianhajdin/threejs-portfolio",
+      "homepage": "https://threejscc-portfolio.vercel.app/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2024-10-29T09:24:06Z",
+      "stargazersCount": 1029,
+      "url": "https://github.com/adrianhajdin/threejs-portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "incredible 3D developer portfolio website with awesome graphics - built with React & Three.js 🪄",
+      "fullName": "ladunjexa/reactjs18-3d-portfolio",
+      "homepage": "https://threejs-3-d-portfolio.vercel.app",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2024-12-08T12:13:38Z",
+      "stargazersCount": 761,
+      "url": "https://github.com/ladunjexa/reactjs18-3d-portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Build a visually captivating 3D portfolio with React.js and Three.js! Learn to combine interactive 3D graphics and smooth web performance to showcase your skills in an engaging way.",
+      "fullName": "adrianhajdin/3d-portfolio",
+      "homepage": "https://jsmastery.pro",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2025-04-11T11:05:38Z",
+      "stargazersCount": 639,
+      "url": "https://github.com/adrianhajdin/3d-portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "This portfolio template is designed to showcase your skills, experience, and accomplishments in a visually appealing and professional manner.",
+      "fullName": "shaqdeff/Portfolio-Template",
+      "homepage": "https://shaq-portfolio.netlify.app/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2024-07-26T09:17:46Z",
+      "stargazersCount": 455,
+      "url": "https://github.com/shaqdeff/Portfolio-Template"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Retro Computer Personal Website with very simple UNIX shell implementation, files system implementation, markdown interrupter and renderer and text layout engine.",
+      "fullName": "edhinrichsen/retro-computer-website",
+      "homepage": "https://edh.dev",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2026-01-22T11:20:35Z",
+      "stargazersCount": 433,
+      "url": "https://github.com/edhinrichsen/retro-computer-website"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Interactive 3D Portfolio Website with Next.js, Three.js & Tailwind CSS | Checkout the tutorial link ⚡",
+      "fullName": "codebucks27/Next.js-Creative-Portfolio-Website",
+      "homepage": "https://next-js-creative-portfolio-website.vercel.app",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2026-04-26T13:00:12Z",
+      "stargazersCount": 398,
+      "url": "https://github.com/codebucks27/Next.js-Creative-Portfolio-Website"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Modern 3D Portfolio using React, Three.js and Typescript",
+      "fullName": "sanidhyy/3d-portfolio",
+      "homepage": "https://shubam.netlify.app",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2026-09-11T05:48:23Z",
+      "stargazersCount": 293,
+      "url": "https://github.com/sanidhyy/3d-portfolio"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "A modern, animated 3D developer portfolio.",
+      "fullName": "Ali-Sanati/Portfolio",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2025-05-20T14:29:29Z",
+      "stargazersCount": 255,
+      "url": "https://github.com/Ali-Sanati/Portfolio"
+    },
+    {
+      "defaultBranch": "Main",
+      "description": "3D Game-like Portfolio with character movements developed using Three.js, React.js, Blender Models and React-Three-Fiber with interactive elements.",
+      "fullName": "VinayMatta63/threejs-portfolio",
+      "homepage": "https://vinay-matta.netlify.app/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-05-27T20:31:27Z",
+      "stargazersCount": 228,
+      "url": "https://github.com/VinayMatta63/threejs-portfolio"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "This is an interactive 3D art gallery made with Three.js, perfect for artists or designers to exhibit their portfolio of artworks and projects. ",
+      "fullName": "theringsofsaturn/3D-art-gallery-threejs",
+      "homepage": "https://emilian-kasemi-3d-art-gallery.vercel.app/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2024-03-28T01:47:23Z",
+      "stargazersCount": 219,
+      "url": "https://github.com/theringsofsaturn/3D-art-gallery-threejs"
+    },
+    {
+      "defaultBranch": "11.0.x",
+      "description": "Built using Drupal, an enterprise website builder platform that combines powerful editorial features, mobile, lead-generation, SEO, social media integration, and beautiful bespoke designs. Varbase is packed with adaptive functionalities and essential modules.",
+      "fullName": "Vardot/varbase",
+      "homepage": "https://www.drupal.org/project/varbase",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-09-08T14:54:03Z",
+      "stargazersCount": 96,
+      "url": "https://github.com/Vardot/varbase"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Documentation for The Psalms - my blog about software’s intersection with culture. Not just for the website - for the entire process (correspondence, notetaking, drafting, *revising*, editorializing, promoting, discussing, and even reflecting.)",
+      "fullName": "extratone/bilge",
+      "homepage": "https://bilge.world",
+      "isArchived": false,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "url": ""
+      },
+      "pushedAt": "2025-07-14T15:57:09Z",
+      "stargazersCount": 54,
+      "url": "https://github.com/extratone/bilge"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "",
+      "fullName": "LolPanda2004/Amour-Editorial-Website",
+      "homepage": "https://amour-editorial-website.vercel.app",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2025-10-22T03:55:55Z",
+      "stargazersCount": 11,
+      "url": "https://github.com/LolPanda2004/Amour-Editorial-Website"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "Modified Editorial website template. Based on Editorial theme in html5up.net, adapted for Jekyll by Andrew Bancich.",
+      "fullName": "sdasrc/editorial-website-extended",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "url": ""
+      },
+      "pushedAt": "2024-06-10T05:00:55Z",
+      "stargazersCount": 11,
+      "url": "https://github.com/sdasrc/editorial-website-extended"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "A cinematic, scroll-driven tattoo studio website that turns ink art into a premium visual storytelling experience using video, motion, and editorial UI design.",
+      "fullName": "VedantGupta19402/Orion-Ink",
+      "homepage": "https://orion-ink.netlify.app/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-07-20T03:52:42Z",
+      "stargazersCount": 10,
+      "url": "https://github.com/VedantGupta19402/Orion-Ink"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "StellarInsure marketing website — editorial minimalist, built with Next.js + shadcn/ui",
+      "fullName": "StellarInsure-Org/stellarinsure-website",
+      "homepage": "https://stellarinsure-web-six.vercel.app",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-06-08T06:31:51Z",
+      "stargazersCount": 9,
+      "url": "https://github.com/StellarInsure-Org/stellarinsure-website"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Jay Perry's website",
+      "fullName": "jayperryworks/jayperryworks-site",
+      "homepage": "http://jayperryworks.com",
+      "isArchived": false,
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "url": "https://api.github.com/licenses/cc0-1.0"
+      },
+      "pushedAt": "2026-09-09T23:56:28Z",
+      "stargazersCount": 9,
+      "url": "https://github.com/jayperryworks/jayperryworks-site"
+    },
+    {
+      "defaultBranch": "main",
+      "description": " 9 Email Marketing Tips For Content Marketers Even “agnostics” regarding email marketing can't hash out the following evidence - the average ROI from this promotional practice is close to 3,800%. Measureless opportunities to scale up and relative cheapness, compared to other reaching-out channels, are the two reasons why the email marketing is fair-haired by businesses. However, this is not about the price and physical extent alone.  The chief advantage is a better alignment of communication with customers. If you hope a certain content strategy brings desirable results, overlooking the quality of mailing messages will be a sorry pitfall. Always keep in mind that newsletters, welcome, retention, and other emails are not just a brand's facade - but a powerful tool for generating conversions. By joining sides of email and content strategies, you can come up with synergy from both. In this guide, we’ll cover a few recommendations for content marketers on how to write email messages that work.  Tips for email marketing  Segment your list Split the batch of email recipients into smaller groups based on chosen criteria, and mail distinct relevant messages - for each. You can use recipients' GEO, demographic characteristics, or purchase history to distinguish homogeneous clusters and proceed with the content planning. Segmentation is the basic premise for personalization, and if you still doubt why bothering about the latter - here are just a few numbers we took from Instapage: 52% of customers claim they do care if the message was tailor-made or not 82% of marketers say that mail personalization increases the open ratio custom emails have 41% more unique clicks than mass-produced ones. To avoid a fragmented approach, use data from CRMs, website analytics tools, and other sources to define segments. Concerning phrasings, a good idea is to create Buyer personas profiles. Thus, you'll be able to choose the appropriate message length and wording. Say, design a newsletter to promote paid subscription for an email validator service. You've decided to distinguish corporate clients based on their company size and determined the following groups: #1 - B2Bs and #2 - sole entrepreneurs. Possible messages for the two: #1. Our \"XXL\" plan is perfect for agencies and enterprises. One can add unlimited users and conduct up to 100,000 checks per month.  #2. With our \"S\" you get 1,000 credits and 5,000 unique recipients - for only $33 per month. Plus - a 7-days free trial.  Use interactive content The best content marketers know that interactive content came into vogue a long time ago. As to emails, here are the most common examples: CSS animated buttons If you include CTAs buttons (that we hope you do) - liven them up a bit. Add an animated hover effect, so that every time a recipient puts a cursor on a button, it changes shape, shade, color, or text.  “Add hover to emphasise objects”, source  This shouldn’t necessarily be something dramatic - add tiny accents that will yet grab the user's attention. starring  “Add a star rating component to engage readers with content”, source  Including ranking or reviewing widgets in the email body is one of the most working ways to engage the reader with the message. Ask recipients to assess your product or service with stars. Add the link to Google Forms if you want to receive an extended opinion on overall customer satisfaction. pictures' rollovers  “Use animated images to describe goods better”, source  The effect is eagerly used by the ones who promote online stores. Using The rollover allows to show goods from different angles or even play with recipients, if relevant. Take into account that this feature only works on desktops - mobile mail users will see the very first picture only. images carousel  “Add pieces of text directly on images”, source  If you want to enhance goods cards with descriptive content, say - price and shipping details, use a carousel instead of a rollover. As so, you can add more info pictures to the email body and, hopefully, convert more recipients into customers. a countdown  “Countdowns work well for limited in time offers”, source  Again, this type of interactive content fits the online shopping niche. Animated clocks amplify urgency and theoretically increase conversions. But it's important to stay extremely careful and not to sound desperate - otherwise, the newsletter will end up in the recipient's \"Spam\".  Improve design The attractiveness of an email is something granted on certain terms, indeed. Not all emails need to be flashy or include expensive designs. However, there are some prevailing common trends in the matter. By following them, you seem to show the recipient that your company is moving in step with the times, and not stuck in the 2000s. Here's the shortlist from the TOP email design trends list that a 99designs provides - as of 2021: magazine-styled  “Make newsletters to look a bit editorial”, source  More and more newsletters tend to look like a centerfold from good old printed media. With a strict following to the \"Less is more\" principle - clear fonts, short phrases, HD-quality images with a few objects on them, and short CTAs. hand-made illustrations  “Unique pictures create a distinct flavour of your brand”, source  Tailored icons or sketchy images - whatever fits your mailing purpose, just make sure it's not too bright, contrast, or overloaded with details. Give preference to clean colors. skeuomorphic objects This is when a design resembles a real object. To see an example - just open a reader App on your smartphone.  “A skeuomorphic bookshelf”, source  HD photographies  “If you operate in the luxury segment, do not skimp on email visuals”, source  These are expensive content, but if you work in fashion or other chick industries - it may be worth the effort. animated content Yeap, we've covered this in a previous tip. single scroll  “Looks especially good on smartphones”, source  Place the entire email content, including buttons, on the endless-looking long frame. Focus on conversions Stay focused on what's your mailing purpose. Don't forget that everybody expects to see a good ROI from email actions at the end of the reporting period. Craft effective CTAs - perceive these not as a sole button with a \"Download now\" text or so, but as an entire sense of a message that you write. To create a captivating CTA copy, adhere to the below advices: include win-win propositions Even though you’re not providing a customer with a discount or cash refund at the moment, your proposition may include a non-monetary incentive. New arrivals, selection of the latest news, free copies, advice from experts - the only rule here is to offer what’ll hold in high esteem. trigger on emotions Don't long-windedly list benefits. Instead, simulate a life situation and show how your product or service can help. use several CTAs throughout the email Email body may be viewed in several scrolls, especially when via small mobile devices’ screens. If you add a call to action at the beginning of the message, a mere number of users will get back to it after finishing reading the content. Thus, you may lose potential conversion. Include several buttons throughout the email body, but don’t sound repeatedly - change calls’ forms and wording.  Encourage readers to reply Driving recipients to reply is challenging yet able to be done. First, choose the proper writing tone. According to an extensive study of emails that didn’t get a response, the most preferable is a 3rd-grade reading level.  “Too elementary or too proficient tone may scare away readers”, source  Of course, you must apply this recommendation with an eye on the recipient. If you mail to a professor or a government agency, a “3rd-grade” rule isn’t applicable. But all else being equal - simplify the lexicon to the level a schoolchild can understand it. Another trick is to sound overall happy. Emails that are enhanced with positive emotions get 10-15% more replies, on average than neutral ones. The best manner is to choose a slightly warm tone. Exaggerated excitement may look weird and even suspicious, especially when reaching out to business partners. And don’t forget about courtesy. A rare person will respond if you address him or her with a hair-raising “To whom it may concern” phrase.  Make it personal Personification shouldn’t be confused with personalization. The second is rather about mailing fitting content from a commercial perspective, while the first term - about addressing the recipient as a one-off personality. Personal emails start with the recipient’s name - and no other way. They include references to the user's interests or past actions. For example, if your tourist agency’s client is interested in island vacations - you shall approach him or her with respective offers. They also shall contain personalized promotions, if any. The best way to expand this approach on hundreds or thousands of recipients is to launch trigger-based email campaigns. Create delivery scenarios for different segments or stages of a sales pipeline. Then prepare a fitting sequence of relevant content - for every single scenario. To give a human face to mailing, one can practice greetings, as well. Birthdays, state holidays, anniversaries, a new status in the loyalty system - there are a lot of examples of what one may congratulate the customer with.  Keep your emails out of spam folders It is better not to launch mailing at all than to use an untrustworthy emails’ database. The risks are much higher than a slew of undelivered messages - from harming a sender's reputation to being banned by mailing systems. So it's better to stay proactive: tidy away broken, misspelled, temporary, or other worrisome emails from the database - either manually or with the help of software collect a valid email address only - through email finders avoid spam-trigger words establish a double opt-in validation set the correct mailing frequency.  Make sure your emails look clean and crisp Newsletters shall afterall bring revenues - whether you want it or not. But in a bid of quantity, don’t lose the overall content integrity and sense: a subject line, pre-header, header, email body, and calls shall be consistent with one another the copy must be of the proper size; although the length depends on many factors, stick to an “ideal” interval - 50 to 125 words if can, don’t attach too many files or links to external websites - mailing filters are suspicious to these adapt the layout to fit smaller screens - nothing looks worse than broken email elements when you open it on mobile.  Wrapping up It doesn't make much difference whether you create mailing content for personal or business purposes - these email marketing tips will serve both. No strains here - the recipient’s interest should be at your forefront. If you can hook him or her with the content by using tricks we've covered, you’ll never fail with enough conversions.",
+      "fullName": "ZulqarnainZilli/-9-Email-Marketing-Tips-For-Content-Marketers",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2021-07-26T08:52:34Z",
+      "stargazersCount": 7,
+      "url": "https://github.com/ZulqarnainZilli/-9-Email-Marketing-Tips-For-Content-Marketers"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "new portfolio draft with webgpu gallery",
+      "fullName": "bruno-quintela/portfolio-webgpu",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-01-27T14:10:08Z",
+      "stargazersCount": 0,
+      "url": "https://github.com/bruno-quintela/portfolio-webgpu"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "",
+      "fullName": "jdgiles26/portfolio-webgpu",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-08-12T02:18:51Z",
+      "stargazersCount": 0,
+      "url": "https://github.com/jdgiles26/portfolio-webgpu"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "",
+      "fullName": "callmeATHUL/athul-portfolio-webgpu",
+      "homepage": "https://athul-portfolio-webgpu.vercel.app",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2026-09-10T01:37:31Z",
+      "stargazersCount": 0,
+      "url": "https://github.com/callmeATHUL/athul-portfolio-webgpu"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "This responsive layout is based on an initial grid of four boxes. Once a box is clicked, it gets resized to fullscreen and the other boxes scale down and fade out. In the work section we experiment with another transition which is to show a panel by making it appear from the bottom while scaling the current one down. To see it in action, open the work section and click on one of the portfolio items and navigate through them.",
+      "fullName": "codrops/FullscreenLayoutPageTransitions",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2013-04-23T21:06:39Z",
+      "stargazersCount": 726,
+      "url": "https://github.com/codrops/FullscreenLayoutPageTransitions"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "Minimalistic portfolio with full-width grid, page transitions, support for additional MDX pages, and a focus on large images. Especially designers and/or photographers will love this theme! Built with MDX and Theme UI.",
+      "fullName": "LekoArts/gatsby-starter-portfolio-emma",
+      "homepage": "https://emma.lekoarts.de",
+      "isArchived": true,
+      "license": {
+        "key": "0bsd",
+        "name": "BSD Zero Clause License",
+        "url": "https://api.github.com/licenses/0bsd"
+      },
+      "pushedAt": "2025-06-26T07:47:36Z",
+      "stargazersCount": 279,
+      "url": "https://github.com/LekoArts/gatsby-starter-portfolio-emma"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "Create awesome sidebar for your portfolio or any projects, It is build using ReactJs and styled-components. React router is already configured, Also it has page transition effect using framer-motion.",
+      "fullName": "codebucks27/react-sidebar",
+      "homepage": "https://react-sidebar.vercel.app/",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2023-12-24T11:57:53Z",
+      "stargazersCount": 124,
+      "url": "https://github.com/codebucks27/react-sidebar"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "Gamma Gallery is an experimental responsive image gallery that attempts to provide an adjustable responsive images approach taking its grid layout and the full slideshow view into account.",
+      "fullName": "codrops/GammaGallery",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2016-05-25T18:47:09Z",
+      "stargazersCount": 396,
+      "url": "https://github.com/codrops/GammaGallery"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "A responsive grid gallery based on the [Google Chromebook getting started](https://gweb-gettingstartedguide.appspot.com/) guide gallery. In this Blueprint we use Masonry for the grid and 3D transforms for navigating the items.",
+      "fullName": "codrops/GridGallery",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2015-05-27T16:19:54Z",
+      "stargazersCount": 234,
+      "url": "https://github.com/codrops/GridGallery"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "A flat-style Polaroid gallery where the items are scattered randomly in a container. When a specific item is selected, it will move to the middle while the other Polaroids will make space for it by moving to the sides. Optionally, an item can have a backface which will be shown by flipping the Polaroid when clicking on the current navigation dot again. ",
+      "fullName": "codrops/ScatteredPolaroidsGallery",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2016-12-24T11:15:39Z",
+      "stargazersCount": 191,
+      "url": "https://github.com/codrops/ScatteredPolaroidsGallery"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "A responsive product grid layout with touch-friendly Flickity galleries and Isotope-powered filter functionality.",
+      "fullName": "codrops/FilterableProductGrid",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2017-04-23T08:10:44Z",
+      "stargazersCount": 144,
+      "url": "https://github.com/codrops/FilterableProductGrid"
+    },
+    {
+      "defaultBranch": "master",
+      "description": "A highly experimental 3D room layout for a gallery that aims to show exhibition details in an interesting way.",
+      "fullName": "codrops/Exhibition",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "",
+        "name": "",
+        "url": ""
+      },
+      "pushedAt": "2017-03-30T10:11:58Z",
+      "stargazersCount": 119,
+      "url": "https://github.com/codrops/Exhibition"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "An inline menu layout with a playful hover animation and a gallery content preview panel.",
+      "fullName": "codrops/InlineMenuLayout",
+      "homepage": "https://tympanus.net/codrops/?p=51858",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2020-11-11T14:53:06Z",
+      "stargazersCount": 67,
+      "url": "https://github.com/codrops/InlineMenuLayout"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "An experimental layout transition where a stack of images animates to a gallery view, showing some more content.",
+      "fullName": "codrops/ContentLayoutTransition",
+      "homepage": "https://tympanus.net/codrops/?p=63558",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2023-12-02T20:30:14Z",
+      "stargazersCount": 61,
+      "url": "https://github.com/codrops/ContentLayoutTransition"
+    },
+    {
+      "defaultBranch": "main",
+      "description": "A concept for page transitions where a tooltip image animates to a gallery layout and fullscreen image.",
+      "fullName": "codrops/TooltipTransition",
+      "homepage": "",
+      "isArchived": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "url": "https://api.github.com/licenses/mit"
+      },
+      "pushedAt": "2022-12-07T13:01:44Z",
+      "stargazersCount": 26,
+      "url": "https://github.com/codrops/TooltipTransition"
+    }
+  ]
+}

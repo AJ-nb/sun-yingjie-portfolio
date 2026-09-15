@@ -1,0 +1,855 @@
+{
+  "started": "2026-09-15T06:47:05.387Z",
+  "base": "http://127.0.0.1:4178/",
+  "buildIndexSha256": "f78181bf413c13fd011112a6ec56470627f942d05a78cb402680dde0ecef356a",
+  "scope": "Production-build browser checks. Isolated Chromium profile. Default reduced-motion mode; normal-motion and model-failure checks are explicit. Laboratory evidence, not field performance data.",
+  "checkFilter": null,
+  "checks": [
+    {
+      "name": "Production build responds and explicit media/download/license whitelist is present",
+      "passed": true,
+      "milliseconds": 1340,
+      "detail": {
+        "mediaEntries": 478,
+        "experimentViews": 25,
+        "licenses": 229,
+        "downloads": [
+          {
+            "file": "/downloads/sun-yingjie-selected-portfolio.pdf",
+            "bytes": 4877914,
+            "sha256": "a8d95a7e82a095ff57dcae787e4d026df4627d7a923ffabeb93a008e73213e66"
+          },
+          {
+            "file": "/downloads/sun-yingjie-full-portfolio.pdf",
+            "bytes": 20397286,
+            "sha256": "a2628f82b3dfa01322fd2ecb780b6e35fcf70b10941d5e1f7c64eb1be4fe0778"
+          },
+          {
+            "file": "/downloads/sun-yingjie-resume.pdf",
+            "bytes": 215491,
+            "sha256": "f00b5ccb53b8508809fc8dcdf6e72fda0cfb1a7d34bda08ff8e8dbfe63d480e9"
+          },
+          {
+            "file": "/downloads/sun-yingjie-resume.docx",
+            "bytes": 38759,
+            "sha256": "a15261671ebcb6f69be32ca798c9ba77eccfe05e90c438e176dcd9fb3c6be337"
+          }
+        ]
+      }
+    },
+    {
+      "name": "All 33 catalog cards, category counts, normalized search and empty-state reset",
+      "passed": true,
+      "milliseconds": 1295,
+      "detail": {
+        "cards": 33,
+        "categories": {
+          "digital": 8,
+          "commercial": 2,
+          "product": 17,
+          "brand": 3,
+          "experiments": 3
+        }
+      }
+    },
+    {
+      "name": "Static homepage performance sample records timing, layout shift and asset requests",
+      "passed": true,
+      "milliseconds": 193,
+      "detail": {
+        "static": {
+          "navigationDurationMs": 50.400000005960464,
+          "domContentLoadedMs": 49.70000000298023,
+          "lcpMs": null,
+          "cls": 0,
+          "jsRequests": 1,
+          "modelRequests": 0,
+          "resourceTransferredBytes": 834536,
+          "canvasCount": 0,
+          "sampleAtMs": 190.20000000298023
+        },
+        "conditions": "Local production preview; desktop 1440x1000; reduced motion; browser cache may be warm; no CPU or network throttle; observation ends after fonts and poster decode. Not field Core Web Vitals."
+      }
+    },
+    {
+      "name": "All 66 bilingual routes match source titles and every case image decodes",
+      "passed": true,
+      "milliseconds": 6419,
+      "detail": {
+        "routes": 66,
+        "imageReferences": 556,
+        "uniqueDecodedImages": 240
+      }
+    },
+    {
+      "name": "Eight experiments work at 320, 390, 768 and 1440 pixels with complete touch targets",
+      "passed": true,
+      "milliseconds": 5659,
+      "detail": [
+        {
+          "width": 320,
+          "slug": "hermes",
+          "lastView": "冬 / Winter",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 320,
+          "slug": "lighting",
+          "lastView": "吊灯",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 320,
+          "slug": "plumber",
+          "lastView": "04 部件关系",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 320,
+          "slug": "huhu-care",
+          "lastView": "医护",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 320,
+          "slug": "biyuan",
+          "lastView": "03 找到名称",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 320,
+          "slug": "periastra",
+          "lastView": "负形与线宽",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 320,
+          "slug": "lensflow",
+          "lastView": "04 恢复",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 320,
+          "slug": "resume-formatter",
+          "lastView": "差异审阅",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 390,
+          "slug": "hermes",
+          "lastView": "冬 / Winter",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 390,
+          "slug": "lighting",
+          "lastView": "吊灯",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 390,
+          "slug": "plumber",
+          "lastView": "04 部件关系",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 390,
+          "slug": "huhu-care",
+          "lastView": "医护",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 390,
+          "slug": "biyuan",
+          "lastView": "03 找到名称",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 390,
+          "slug": "periastra",
+          "lastView": "负形与线宽",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 390,
+          "slug": "lensflow",
+          "lastView": "04 恢复",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 390,
+          "slug": "resume-formatter",
+          "lastView": "差异审阅",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 768,
+          "slug": "hermes",
+          "lastView": "冬 / Winter",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 768,
+          "slug": "lighting",
+          "lastView": "吊灯",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 768,
+          "slug": "plumber",
+          "lastView": "04 部件关系",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 768,
+          "slug": "huhu-care",
+          "lastView": "医护",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 768,
+          "slug": "biyuan",
+          "lastView": "03 找到名称",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 768,
+          "slug": "periastra",
+          "lastView": "负形与线宽",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 768,
+          "slug": "lensflow",
+          "lastView": "04 恢复",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 768,
+          "slug": "resume-formatter",
+          "lastView": "差异审阅",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 1440,
+          "slug": "hermes",
+          "lastView": "冬 / Winter",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 1440,
+          "slug": "lighting",
+          "lastView": "吊灯",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 1440,
+          "slug": "plumber",
+          "lastView": "04 部件关系",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 1440,
+          "slug": "huhu-care",
+          "lastView": "医护",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 1440,
+          "slug": "biyuan",
+          "lastView": "03 找到名称",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 1440,
+          "slug": "periastra",
+          "lastView": "负形与线宽",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 1440,
+          "slug": "lensflow",
+          "lastView": "04 恢复",
+          "targets": "44px minimum",
+          "reset": true
+        },
+        {
+          "width": 1440,
+          "slug": "resume-formatter",
+          "lastView": "差异审阅",
+          "targets": "44px minimum",
+          "reset": true
+        }
+      ]
+    },
+    {
+      "name": "Hermes and robot hotspots expose accurate source-based annotations",
+      "passed": true,
+      "milliseconds": 258,
+      "detail": {
+        "pointerAndKeyboard": true,
+        "originalImages": true
+      }
+    },
+    {
+      "name": "Lensflow partial failure retains successful outputs and only increments failed-item attempts",
+      "passed": true,
+      "milliseconds": 129,
+      "detail": {
+        "failed": [
+          {
+            "id": "A",
+            "status": "success",
+            "result": "fixture-A-v1",
+            "attempts": 1
+          },
+          {
+            "id": "B",
+            "status": "success",
+            "result": "fixture-B-v1",
+            "attempts": 1
+          },
+          {
+            "id": "C",
+            "status": "failed",
+            "result": "",
+            "attempts": 1
+          }
+        ],
+        "recovered": [
+          {
+            "id": "A",
+            "status": "success",
+            "result": "fixture-A-v1",
+            "attempts": 1
+          },
+          {
+            "id": "B",
+            "status": "success",
+            "result": "fixture-B-v1",
+            "attempts": 1
+          },
+          {
+            "id": "C",
+            "status": "success",
+            "result": "fixture-C-v1",
+            "attempts": 2
+          }
+        ],
+        "reset": true
+      }
+    },
+    {
+      "name": "Resume suggestions require acceptance, reject preserves text, undo restores history",
+      "passed": true,
+      "milliseconds": 150,
+      "detail": {
+        "accept": true,
+        "reject": true,
+        "keyboardUndo": true,
+        "reset": true
+      }
+    },
+    {
+      "name": "Periastra uses the same source at four CSS sizes and reversible colour inversion",
+      "passed": true,
+      "milliseconds": 196,
+      "detail": [
+        {
+          "width": 16,
+          "source": "./works/brand/periastra/logo/periastra-logo-v01-20260422.webp"
+        },
+        {
+          "width": 32,
+          "source": "./works/brand/periastra/logo/periastra-logo-v01-20260422.webp"
+        },
+        {
+          "width": 64,
+          "source": "./works/brand/periastra/logo/periastra-logo-v01-20260422.webp"
+        },
+        {
+          "width": 128,
+          "source": "./works/brand/periastra/logo/periastra-logo-v01-20260422.webp"
+        }
+      ]
+    },
+    {
+      "name": "Mobile touch taps operate seasonal hotspots and reversible resume review",
+      "passed": true,
+      "milliseconds": 789,
+      "detail": {
+        "width": 390,
+        "touch": true,
+        "hotspot": true,
+        "acceptAndUndo": true
+      }
+    },
+    {
+      "name": "Original video decodes and muted playback advances",
+      "passed": true,
+      "milliseconds": 731,
+      "detail": {
+        "time": 0.260439,
+        "duration": 27.916667,
+        "width": 960,
+        "height": 544,
+        "error": null
+      }
+    },
+    {
+      "name": "Case navigation, back/forward, filters, scroll position and focus survive route changes",
+      "passed": true,
+      "milliseconds": 865,
+      "detail": {
+        "scrollBefore": 8820,
+        "scrollAfter": 8820,
+        "nativeCaseScrollBefore": 2877,
+        "nativeCaseScrollAfter": 2877,
+        "nextSlug": "huhu-care",
+        "focusOnCase": true,
+        "initiatingLinkFocusRestored": true,
+        "reloadThenBack": true
+      }
+    },
+    {
+      "name": "Control-click preserves the current page and opens the requested case in a new tab",
+      "passed": true,
+      "milliseconds": 580,
+      "detail": {
+        "newTab": true,
+        "originalPagePreserved": true
+      }
+    },
+    {
+      "name": "Delayed cold case chunks restore saved reading position after a home reload and browser back",
+      "passed": true,
+      "milliseconds": 2812,
+      "detail": {
+        "before": 3314,
+        "savedBefore": {
+          "hash": "#/work/hermes",
+          "top": 3314
+        },
+        "after": 3314,
+        "delayedLoads": 2,
+        "delayPerChunkMs": 400
+      }
+    },
+    {
+      "name": "Bilingual lightbox supports keyboard navigation, zoom, Escape and trigger focus restoration",
+      "passed": true,
+      "milliseconds": 722,
+      "detail": [
+        {
+          "lang": "zh",
+          "initialCounter": "12 / 15",
+          "arrowKeys": true,
+          "zoom": true,
+          "restoredFocus": true
+        },
+        {
+          "lang": "en",
+          "initialCounter": "12 / 15",
+          "arrowKeys": true,
+          "zoom": true,
+          "restoredFocus": true
+        }
+      ]
+    },
+    {
+      "name": "Case outline moves keyboard focus and malformed routes recover",
+      "passed": true,
+      "milliseconds": 441,
+      "detail": {
+        "skipLinkFocus": true,
+        "outlineKeyboardFocus": true,
+        "malformedAndMissing": true
+      }
+    },
+    {
+      "name": "Reduced motion keeps complete static content and no automatic 3D canvas",
+      "passed": true,
+      "milliseconds": 159,
+      "detail": {
+        "automaticCanvas": false,
+        "allSixChapters": true,
+        "keyboardInteraction": true,
+        "poster": {
+          "visible": "visible",
+          "source": "http://127.0.0.1:4178/avatar/portrait.webp"
+        }
+      }
+    },
+    {
+      "name": "Normal-motion routes complete, six gallery stops reverse, and resize keeps the current chapter usable",
+      "passed": true,
+      "milliseconds": 1111,
+      "detail": {
+        "positions": [
+          {
+            "chapter": 1,
+            "x": 0
+          },
+          {
+            "chapter": 3,
+            "x": 0
+          },
+          {
+            "chapter": 6,
+            "x": 0
+          },
+          {
+            "chapter": 2,
+            "x": 0
+          },
+          {
+            "chapter": 1,
+            "x": 0
+          }
+        ],
+        "shortViewport": {
+          "headerTop": 111.984375,
+          "lastLinkBottom": 601.0625,
+          "progressTop": 638.203125,
+          "viewport": 720
+        }
+      }
+    },
+    {
+      "name": "Blocked 3D model falls back to the visible poster with an operable retry control",
+      "passed": true,
+      "milliseconds": 1252,
+      "detail": {
+        "blockedRequests": 1,
+        "posterVisible": true,
+        "retryAvailable": true,
+        "note": "Model request intentionally aborted in a separate browser context."
+      }
+    },
+    {
+      "name": "Home and English/Chinese case layouts have no horizontal overflow at all required widths",
+      "passed": true,
+      "milliseconds": 3136,
+      "detail": [
+        {
+          "width": 320,
+          "lang": "zh",
+          "view": "catalog",
+          "document": 320,
+          "body": 320
+        },
+        {
+          "width": 320,
+          "lang": "zh",
+          "view": "case",
+          "document": 320,
+          "body": 320
+        },
+        {
+          "width": 320,
+          "lang": "en",
+          "view": "catalog",
+          "document": 320,
+          "body": 320
+        },
+        {
+          "width": 320,
+          "lang": "en",
+          "view": "case",
+          "document": 320,
+          "body": 320
+        },
+        {
+          "width": 390,
+          "lang": "zh",
+          "view": "catalog",
+          "document": 390,
+          "body": 390
+        },
+        {
+          "width": 390,
+          "lang": "zh",
+          "view": "case",
+          "document": 390,
+          "body": 390
+        },
+        {
+          "width": 390,
+          "lang": "en",
+          "view": "catalog",
+          "document": 390,
+          "body": 390
+        },
+        {
+          "width": 390,
+          "lang": "en",
+          "view": "case",
+          "document": 390,
+          "body": 390
+        },
+        {
+          "width": 768,
+          "lang": "zh",
+          "view": "catalog",
+          "document": 768,
+          "body": 768
+        },
+        {
+          "width": 768,
+          "lang": "zh",
+          "view": "case",
+          "document": 768,
+          "body": 768
+        },
+        {
+          "width": 768,
+          "lang": "en",
+          "view": "catalog",
+          "document": 768,
+          "body": 768
+        },
+        {
+          "width": 768,
+          "lang": "en",
+          "view": "case",
+          "document": 768,
+          "body": 768
+        },
+        {
+          "width": 1440,
+          "lang": "zh",
+          "view": "catalog",
+          "document": 1440,
+          "body": 1440
+        },
+        {
+          "width": 1440,
+          "lang": "zh",
+          "view": "case",
+          "document": 1440,
+          "body": 1440
+        },
+        {
+          "width": 1440,
+          "lang": "en",
+          "view": "catalog",
+          "document": 1440,
+          "body": 1440
+        },
+        {
+          "width": 1440,
+          "lang": "en",
+          "view": "case",
+          "document": 1440,
+          "body": 1440
+        }
+      ]
+    },
+    {
+      "name": "WCAG automated checks have no critical or serious violations on home and eight experiments",
+      "passed": true,
+      "milliseconds": 10096,
+      "detail": [
+        {
+          "label": "home-zh",
+          "violations": 0,
+          "passes": 30
+        },
+        {
+          "label": "hermes",
+          "violations": 0,
+          "passes": 27
+        },
+        {
+          "label": "lighting",
+          "violations": 0,
+          "passes": 27
+        },
+        {
+          "label": "plumber",
+          "violations": 0,
+          "passes": 27
+        },
+        {
+          "label": "huhu-care",
+          "violations": 0,
+          "passes": 27
+        },
+        {
+          "label": "biyuan",
+          "violations": 0,
+          "passes": 27
+        },
+        {
+          "label": "periastra",
+          "violations": 0,
+          "passes": 26
+        },
+        {
+          "label": "lensflow",
+          "violations": 0,
+          "passes": 26
+        },
+        {
+          "label": "resume-formatter",
+          "violations": 0,
+          "passes": 27
+        },
+        {
+          "label": "resume-formatter-en",
+          "violations": 0,
+          "passes": 27
+        },
+        {
+          "label": "case-bottom-mobile",
+          "violations": 0,
+          "passes": 28
+        },
+        {
+          "label": "empty-search-mobile",
+          "violations": 0,
+          "passes": 30
+        }
+      ]
+    },
+    {
+      "name": "No uncaught runtime errors or unexpected failed requests during functional checks",
+      "passed": true,
+      "milliseconds": 0,
+      "detail": {
+        "runtimeErrors": 0,
+        "failedRequests": 0,
+        "consoleErrors": 0
+      }
+    }
+  ],
+  "runtimeErrors": [],
+  "consoleErrors": [],
+  "failedRequests": [],
+  "accessibility": [
+    {
+      "label": "home-zh",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    },
+    {
+      "label": "hermes",
+      "violations": [],
+      "passes": 27,
+      "incomplete": 1
+    },
+    {
+      "label": "lighting",
+      "violations": [],
+      "passes": 27,
+      "incomplete": 1
+    },
+    {
+      "label": "plumber",
+      "violations": [],
+      "passes": 27,
+      "incomplete": 1
+    },
+    {
+      "label": "huhu-care",
+      "violations": [],
+      "passes": 27,
+      "incomplete": 1
+    },
+    {
+      "label": "biyuan",
+      "violations": [],
+      "passes": 27,
+      "incomplete": 1
+    },
+    {
+      "label": "periastra",
+      "violations": [],
+      "passes": 26,
+      "incomplete": 1
+    },
+    {
+      "label": "lensflow",
+      "violations": [],
+      "passes": 26,
+      "incomplete": 1
+    },
+    {
+      "label": "resume-formatter",
+      "violations": [],
+      "passes": 27,
+      "incomplete": 1
+    },
+    {
+      "label": "resume-formatter-en",
+      "violations": [],
+      "passes": 27,
+      "incomplete": 1
+    },
+    {
+      "label": "case-bottom-mobile",
+      "violations": [],
+      "passes": 28,
+      "incomplete": 1
+    },
+    {
+      "label": "empty-search-mobile",
+      "violations": [],
+      "passes": 30,
+      "incomplete": 2
+    }
+  ],
+  "browserVersion": "153.0.8010.36",
+  "browserSource": "existing local Chromium-family browser",
+  "performance": {
+    "static": {
+      "navigationDurationMs": 50.400000005960464,
+      "domContentLoadedMs": 49.70000000298023,
+      "lcpMs": null,
+      "cls": 0,
+      "jsRequests": 1,
+      "modelRequests": 0,
+      "resourceTransferredBytes": 834536,
+      "canvasCount": 0,
+      "sampleAtMs": 190.20000000298023
+    },
+    "conditions": "Local production preview; desktop 1440x1000; reduced motion; browser cache may be warm; no CPU or network throttle; observation ends after fonts and poster decode. Not field Core Web Vitals."
+  },
+  "finished": "2026-09-15T06:47:44.994Z",
+  "summary": {
+    "passed": 22,
+    "failed": 0,
+    "decodedImages": 240
+  }
+}

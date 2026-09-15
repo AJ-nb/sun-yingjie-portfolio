@@ -1,7 +1,7 @@
 name: Verify portfolio
 on:
   push:
-    branches: [portfolio-redesign, portfolio-design-v3]
+    branches: [portfolio-redesign, portfolio-design-v3, portfolio-studio-v4]
   pull_request:
     branches: [portfolio-redesign]
 permissions:
@@ -23,7 +23,8 @@ jobs:
         working-directory: web
       - run: npm run check:content && npm run typecheck && npm run lint
         working-directory: web
-      - run: node scripts/verify-experiments.mjs && node scripts/verify-scroll-timeline.mjs && node scripts/verify-model.mjs
+      - run: npm run check:invariants
+        working-directory: web
       - run: npm run build
         working-directory: web
       - run: npx playwright install --with-deps chromium
@@ -32,6 +33,7 @@ jobs:
         run: |
           npm run preview -- --host 127.0.0.1 --port 4173 > /tmp/portfolio-preview.log 2>&1 &
           node ../scripts/qa/browser-v3.mjs
+          node ../scripts/qa/browser-v4.mjs
         working-directory: web
         env:
           PORTFOLIO_QA_URL: http://127.0.0.1:4173/
@@ -39,4 +41,6 @@ jobs:
         if: always()
         with:
           name: portfolio-browser-qa
-          path: design/qa-v3/
+          path: |
+            design/qa-v3/
+            design/qa-v4/

@@ -13,6 +13,8 @@ tags: ["Design learning", "Product form", "Visual analysis", "Eagle"]
 
 Yantai extends reference collection into design learning: observe form, understand a method, try transferring it, then save the result in a reusable reference system. The project evolved from luck-power's broader image tools towards product form study and archiving.
 
+It is intended for product design learners and designers who want to turn references into reusable methods. An input can come from the current web image, a dragged image, a local file or an image URL. The next task is to identify form relationships worth studying, consider how they could inform another exercise and return confirmed material to a reference library.
+
 ## My role
 
 Product and interaction work is collaborative. This case presents the learning sequence, the connection between image and analysis, and human confirmation before an Eagle entry is created.
@@ -26,6 +28,12 @@ A style label does not explain how a form works. The tool must connect judgments
 ### Connect analysis to image locations
 
 Capture first checks decoding and dimensions, then organizes form techniques, underlying form families, structural hypotheses and design exploration. Language, structure and CMF can be examined and cached separately, making each review question explicit.
+
+### Finding a transferable question in a lamp
+
+The existing study example supports three levels of reading. First, observe the relative widths, axes and positions of the shade, stem and base. Second, consider how those proportions might affect perceived weight, stability and direction. Third, propose an exercise: preserve one relationship while changing another proportion or position, then compare the expression. The latter two levels are interpretations and design proposals to review, not conclusions about the lamp's actual construction or materials.
+
+The analysis can then lead to further work. A reader returns to the image to check an observation, selects a relationship to study and decides whether to investigate design language, structure or CMF. Every analysis does not need to unfold at once.
 
 ### Preserve a human choice before archiving
 

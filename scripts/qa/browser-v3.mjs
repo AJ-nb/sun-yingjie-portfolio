@@ -551,6 +551,7 @@ try {
   })
 
   await check('Home and English/Chinese case layouts have no horizontal overflow at all required widths', async () => {
+    await page.emulateMedia({ reducedMotion: 'reduce' })
     const states = []
     for (const width of [320, 390, 768, 1440]) {
       await page.setViewportSize({ width, height: width < 700 ? 844 : 1000 })
@@ -566,6 +567,7 @@ try {
   })
 
   await check('WCAG automated checks have no critical or serious violations on home and eight experiments', async () => {
+    await page.emulateMedia({ reducedMotion: 'reduce' })
     await page.setViewportSize({ width: 1440, height: 1000 })
     const failures = []
     await home()
