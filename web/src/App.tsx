@@ -74,11 +74,12 @@ function savePagePosition() {
 }
 function RestoreScroll({ page, onRouteMount }: { page: ReturnType<typeof readPageLocation>; onRouteMount: (isCase: boolean) => void }) {
   useLayoutEffect(() => { onRouteMount(caseSlug(page.hash) !== null) }, [page.hash, onRouteMount])
-  useEffect(() => {
+  useLayoutEffect(() => {
     let lastSaved = -Infinity
     let trailing: number | undefined
+    let cancelled = false
     const save = () => {
-      if (location.hash !== page.hash) return
+      if (cancelled || location.hash !== page.hash) return
       savePagePosition()
       lastSaved = performance.now()
     }
@@ -89,18 +90,24 @@ function RestoreScroll({ page, onRouteMount }: { page: ReturnType<typeof readPag
       else trailing = window.setTimeout(save, remaining)
     }
     const settled = () => { clearTimeout(trailing); save() }
-    window.addEventListener('scroll', scroll, { passive: true })
-    window.addEventListener('scrollend', settled, { passive: true })
-    return () => { clearTimeout(trailing); window.removeEventListener('scroll', scroll); window.removeEventListener('scrollend', settled) }
-  }, [page.hash])
-  useEffect(() => {
     const frame = requestAnimationFrame(() => {
+      if (cancelled || location.hash !== page.hash) return
       if (page.top !== null) window.scrollTo({ top: page.top, behavior: 'instant' })
       else if (caseSlug(page.hash) !== null || !page.hash || page.hash === '#top') window.scrollTo({ top: 0, behavior: 'instant' })
       else document.getElementById(page.hash.slice(1))?.scrollIntoView({ behavior: 'instant' })
       if (caseSlug(page.hash) === null && page.focusKey) document.querySelector<HTMLElement>(`[data-return-focus="${CSS.escape(page.focusKey)}"]`)?.focus({ preventScroll: true })
+      // Route layout can clamp the previous page's scroll before this frame.
+      // Start saving only after restoration so it cannot replace the destination.
+      window.addEventListener('scroll', scroll, { passive: true })
+      window.addEventListener('scrollend', settled, { passive: true })
     })
-    return () => cancelAnimationFrame(frame)
+    return () => {
+      cancelled = true
+      cancelAnimationFrame(frame)
+      clearTimeout(trailing)
+      window.removeEventListener('scroll', scroll)
+      window.removeEventListener('scrollend', settled)
+    }
   }, [page])
   return null
 }

@@ -1,14 +1,14 @@
 {
-  "started": "2026-09-15T06:47:05.387Z",
+  "started": "2026-09-15T07:08:42.837Z",
   "base": "http://127.0.0.1:4178/",
-  "buildIndexSha256": "f78181bf413c13fd011112a6ec56470627f942d05a78cb402680dde0ecef356a",
+  "buildIndexSha256": "d208240ccd848d1f16b44714c6c96b993e5742dc640b105948b38d6fa97170dc",
   "scope": "Production-build browser checks. Isolated Chromium profile. Default reduced-motion mode; normal-motion and model-failure checks are explicit. Laboratory evidence, not field performance data.",
   "checkFilter": null,
   "checks": [
     {
       "name": "Production build responds and explicit media/download/license whitelist is present",
       "passed": true,
-      "milliseconds": 1340,
+      "milliseconds": 1261,
       "detail": {
         "mediaEntries": 478,
         "experimentViews": 25,
@@ -40,7 +40,7 @@
     {
       "name": "All 33 catalog cards, category counts, normalized search and empty-state reset",
       "passed": true,
-      "milliseconds": 1295,
+      "milliseconds": 1164,
       "detail": {
         "cards": 33,
         "categories": {
@@ -55,18 +55,18 @@
     {
       "name": "Static homepage performance sample records timing, layout shift and asset requests",
       "passed": true,
-      "milliseconds": 193,
+      "milliseconds": 131,
       "detail": {
         "static": {
-          "navigationDurationMs": 50.400000005960464,
-          "domContentLoadedMs": 49.70000000298023,
-          "lcpMs": null,
+          "navigationDurationMs": 17.899999991059303,
+          "domContentLoadedMs": 17.19999998807907,
+          "lcpMs": 112,
           "cls": 0,
           "jsRequests": 1,
           "modelRequests": 0,
-          "resourceTransferredBytes": 834536,
+          "resourceTransferredBytes": 222046,
           "canvasCount": 0,
-          "sampleAtMs": 190.20000000298023
+          "sampleAtMs": 129.5
         },
         "conditions": "Local production preview; desktop 1440x1000; reduced motion; browser cache may be warm; no CPU or network throttle; observation ends after fonts and poster decode. Not field Core Web Vitals."
       }
@@ -74,7 +74,7 @@
     {
       "name": "All 66 bilingual routes match source titles and every case image decodes",
       "passed": true,
-      "milliseconds": 6419,
+      "milliseconds": 7584,
       "detail": {
         "routes": 66,
         "imageReferences": 556,
@@ -84,7 +84,7 @@
     {
       "name": "Eight experiments work at 320, 390, 768 and 1440 pixels with complete touch targets",
       "passed": true,
-      "milliseconds": 5659,
+      "milliseconds": 5331,
       "detail": [
         {
           "width": 320,
@@ -315,7 +315,7 @@
     {
       "name": "Hermes and robot hotspots expose accurate source-based annotations",
       "passed": true,
-      "milliseconds": 258,
+      "milliseconds": 217,
       "detail": {
         "pointerAndKeyboard": true,
         "originalImages": true
@@ -324,7 +324,7 @@
     {
       "name": "Lensflow partial failure retains successful outputs and only increments failed-item attempts",
       "passed": true,
-      "milliseconds": 129,
+      "milliseconds": 114,
       "detail": {
         "failed": [
           {
@@ -372,7 +372,7 @@
     {
       "name": "Resume suggestions require acceptance, reject preserves text, undo restores history",
       "passed": true,
-      "milliseconds": 150,
+      "milliseconds": 148,
       "detail": {
         "accept": true,
         "reject": true,
@@ -383,7 +383,7 @@
     {
       "name": "Periastra uses the same source at four CSS sizes and reversible colour inversion",
       "passed": true,
-      "milliseconds": 196,
+      "milliseconds": 179,
       "detail": [
         {
           "width": 16,
@@ -406,7 +406,7 @@
     {
       "name": "Mobile touch taps operate seasonal hotspots and reversible resume review",
       "passed": true,
-      "milliseconds": 789,
+      "milliseconds": 751,
       "detail": {
         "width": 390,
         "touch": true,
@@ -417,9 +417,9 @@
     {
       "name": "Original video decodes and muted playback advances",
       "passed": true,
-      "milliseconds": 731,
+      "milliseconds": 700,
       "detail": {
-        "time": 0.260439,
+        "time": 0.268261,
         "duration": 27.916667,
         "width": 960,
         "height": 544,
@@ -429,7 +429,7 @@
     {
       "name": "Case navigation, back/forward, filters, scroll position and focus survive route changes",
       "passed": true,
-      "milliseconds": 865,
+      "milliseconds": 994,
       "detail": {
         "scrollBefore": 8820,
         "scrollAfter": 8820,
@@ -444,7 +444,7 @@
     {
       "name": "Control-click preserves the current page and opens the requested case in a new tab",
       "passed": true,
-      "milliseconds": 580,
+      "milliseconds": 303,
       "detail": {
         "newTab": true,
         "originalPagePreserved": true
@@ -453,7 +453,7 @@
     {
       "name": "Delayed cold case chunks restore saved reading position after a home reload and browser back",
       "passed": true,
-      "milliseconds": 2812,
+      "milliseconds": 2777,
       "detail": {
         "before": 3314,
         "savedBefore": {
@@ -468,7 +468,7 @@
     {
       "name": "Bilingual lightbox supports keyboard navigation, zoom, Escape and trigger focus restoration",
       "passed": true,
-      "milliseconds": 722,
+      "milliseconds": 586,
       "detail": [
         {
           "lang": "zh",
@@ -489,7 +489,7 @@
     {
       "name": "Case outline moves keyboard focus and malformed routes recover",
       "passed": true,
-      "milliseconds": 441,
+      "milliseconds": 508,
       "detail": {
         "skipLinkFocus": true,
         "outlineKeyboardFocus": true,
@@ -499,7 +499,7 @@
     {
       "name": "Reduced motion keeps complete static content and no automatic 3D canvas",
       "passed": true,
-      "milliseconds": 159,
+      "milliseconds": 171,
       "detail": {
         "automaticCanvas": false,
         "allSixChapters": true,
@@ -513,7 +513,7 @@
     {
       "name": "Normal-motion routes complete, six gallery stops reverse, and resize keeps the current chapter usable",
       "passed": true,
-      "milliseconds": 1111,
+      "milliseconds": 1205,
       "detail": {
         "positions": [
           {
@@ -548,7 +548,7 @@
     {
       "name": "Blocked 3D model falls back to the visible poster with an operable retry control",
       "passed": true,
-      "milliseconds": 1252,
+      "milliseconds": 1104,
       "detail": {
         "blockedRequests": 1,
         "posterVisible": true,
@@ -559,7 +559,7 @@
     {
       "name": "Home and English/Chinese case layouts have no horizontal overflow at all required widths",
       "passed": true,
-      "milliseconds": 3136,
+      "milliseconds": 2285,
       "detail": [
         {
           "width": 320,
@@ -678,7 +678,7 @@
     {
       "name": "WCAG automated checks have no critical or serious violations on home and eight experiments",
       "passed": true,
-      "milliseconds": 10096,
+      "milliseconds": 9056,
       "detail": [
         {
           "label": "home-zh",
@@ -830,23 +830,23 @@
       "incomplete": 2
     }
   ],
-  "browserVersion": "153.0.8010.36",
-  "browserSource": "existing local Chromium-family browser",
+  "browserVersion": "153.0.8010.12",
+  "browserSource": "Playwright pinned Chromium",
   "performance": {
     "static": {
-      "navigationDurationMs": 50.400000005960464,
-      "domContentLoadedMs": 49.70000000298023,
-      "lcpMs": null,
+      "navigationDurationMs": 17.899999991059303,
+      "domContentLoadedMs": 17.19999998807907,
+      "lcpMs": 112,
       "cls": 0,
       "jsRequests": 1,
       "modelRequests": 0,
-      "resourceTransferredBytes": 834536,
+      "resourceTransferredBytes": 222046,
       "canvasCount": 0,
-      "sampleAtMs": 190.20000000298023
+      "sampleAtMs": 129.5
     },
     "conditions": "Local production preview; desktop 1440x1000; reduced motion; browser cache may be warm; no CPU or network throttle; observation ends after fonts and poster decode. Not field Core Web Vitals."
   },
-  "finished": "2026-09-15T06:47:44.994Z",
+  "finished": "2026-09-15T07:09:19.982Z",
   "summary": {
     "passed": 22,
     "failed": 0,
