@@ -55,7 +55,7 @@ python scripts/resume/build_resume.py
 ./scripts/resume/export_word.ps1
 ```
 
-简历用 Microsoft Word 原生导出；导出后检查恰为一页。PDF 网页版仅压缩图像，保留文字、目录、链接与透明图层；精选 32 页与扩展 112 页分别保留高清原件和小于 20 MiB 的下载版。
+简历用 Microsoft Word 原生导出；导出后检查恰为一页。可用 `PORTFOLIO_PYTHON` 指定 Python，默认尝试 Codex 运行时，再查找 PATH 中的 Python。PDF 网页版仅压缩图像，保留文字、目录、链接与透明图层；精选 32 页与扩展 112 页分别保留高清原件和小于 20 MiB 的下载版。
 
 ## 来源与发布
 

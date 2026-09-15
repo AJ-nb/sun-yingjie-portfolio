@@ -1,0 +1,153 @@
+{
+  "startedAt": "2026-09-15T17:34:35.916Z",
+  "baseUrl": "http://127.0.0.1:4173/",
+  "checks": [
+    {
+      "name": "responsive layout 320px",
+      "passed": true,
+      "milliseconds": 349,
+      "detail": {
+        "overflow": {
+          "viewport": 320,
+          "document": 320,
+          "body": 320
+        },
+        "selectedOrder": [
+          "biyuan",
+          "periastra",
+          "yelisi",
+          "lighting",
+          "hermes",
+          "lensflow"
+        ]
+      }
+    },
+    {
+      "name": "responsive layout 390px",
+      "passed": true,
+      "milliseconds": 197,
+      "detail": {
+        "overflow": {
+          "viewport": 390,
+          "document": 390,
+          "body": 390
+        },
+        "selectedOrder": [
+          "biyuan",
+          "periastra",
+          "yelisi",
+          "lighting",
+          "hermes",
+          "lensflow"
+        ]
+      }
+    },
+    {
+      "name": "mobile menu focus and contact navigation",
+      "passed": true,
+      "milliseconds": 124
+    },
+    {
+      "name": "responsive layout 768px",
+      "passed": true,
+      "milliseconds": 45,
+      "detail": {
+        "overflow": {
+          "viewport": 768,
+          "document": 768,
+          "body": 768
+        },
+        "selectedOrder": [
+          "biyuan",
+          "periastra",
+          "yelisi",
+          "lighting",
+          "hermes",
+          "lensflow"
+        ]
+      }
+    },
+    {
+      "name": "responsive layout 1440px",
+      "passed": true,
+      "milliseconds": 256,
+      "detail": {
+        "overflow": {
+          "viewport": 1440,
+          "document": 1440,
+          "body": 1440
+        },
+        "selectedOrder": [
+          "biyuan",
+          "periastra",
+          "yelisi",
+          "lighting",
+          "hermes",
+          "lensflow"
+        ]
+      }
+    },
+    {
+      "name": "hero shortcuts and document downloads",
+      "passed": true,
+      "milliseconds": 363
+    },
+    {
+      "name": "archive controls, case route, history and lightbox",
+      "passed": true,
+      "milliseconds": 1337,
+      "detail": {
+        "route": "biyuan",
+        "focusKey": "selected:biyuan",
+        "lightbox": true
+      }
+    },
+    {
+      "name": "desktop original-video behavior and three-column footer",
+      "passed": true,
+      "milliseconds": 1440,
+      "detail": {
+        "forward": 2.24537,
+        "reverse": 0.449074
+      }
+    },
+    {
+      "name": "English route",
+      "passed": true,
+      "milliseconds": 280
+    },
+    {
+      "name": "no runtime errors",
+      "passed": true,
+      "milliseconds": 0
+    },
+    {
+      "name": "mobile explicit hero playback and footer loop placement",
+      "passed": true,
+      "milliseconds": 739,
+      "detail": {
+        "order": [
+          {
+            "className": "original-video original-video-footer",
+            "top": 624.515625
+          },
+          {
+            "className": "footer-column footer-works",
+            "top": -292.78125
+          },
+          {
+            "className": "footer-wordmark",
+            "top": -20.78125
+          },
+          {
+            "className": "footer-column footer-contact",
+            "top": 149.921875
+          }
+        ]
+      }
+    }
+  ],
+  "browserVersion": "153.0.4234.32",
+  "browserSource": "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe",
+  "finishedAt": "2026-09-15T17:34:46.467Z"
+}

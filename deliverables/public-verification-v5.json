@@ -1,0 +1,67 @@
+{
+  "url": "https://sun-yingjie-portfolio.ajhhq.chatgpt.site",
+  "verifiedAt": "2026-09-15T17:48:47.584Z",
+  "freshUnauthenticatedContext": true,
+  "checks": [
+    {
+      "name": "anonymous homepage",
+      "status": 200,
+      "passed": true
+    },
+    {
+      "name": "anonymous case",
+      "url": "https://sun-yingjie-portfolio.ajhhq.chatgpt.site/#/work/biyuan",
+      "passed": true
+    },
+    {
+      "name": "media-index.json",
+      "status": 200,
+      "bytes": 71118,
+      "sha256": "b96922ed70d8378376ecd0c8a15ea27900919a7bb458c15d19108154100c1532",
+      "passed": true
+    },
+    {
+      "name": "media/v5/footer-gaze.json",
+      "status": 200,
+      "bytes": 13989,
+      "sha256": "3551c685a81239112fc2309adc9dc8cf5f35e96a3829bd0ac0df5724ac187dc6",
+      "passed": true
+    },
+    {
+      "name": "works/brand/periastra/final-wordmark.png",
+      "status": 200,
+      "bytes": 922932,
+      "sha256": "92b7c176b3e083da1a5a240ca90f270860064616902e56e0e9d5921c595ad395",
+      "passed": true
+    },
+    {
+      "name": "sun-yingjie-selected-portfolio.pdf",
+      "clickedDownload": true,
+      "bytes": 3455210,
+      "sha256": "d16ca5b44f5e0f653663571d86536cf3e3f55924d5cb0518aad81368136e7550",
+      "passed": true
+    },
+    {
+      "name": "sun-yingjie-full-portfolio.pdf",
+      "clickedDownload": true,
+      "bytes": 19317084,
+      "sha256": "8cbadb34e3f008a30ae09ddc4ba9f03b9943a6a8f65df46d3ed475bbedc7b76e",
+      "passed": true
+    },
+    {
+      "name": "sun-yingjie-resume.pdf",
+      "clickedDownload": true,
+      "bytes": 301925,
+      "sha256": "0f8f85a0bab6f058f4d122e1673f12164f55170fad47a0b4a159f6969a61de9c",
+      "passed": true
+    },
+    {
+      "name": "sun-yingjie-resume.docx",
+      "clickedDownload": true,
+      "bytes": 2615146,
+      "sha256": "cc1a0f151ca52d83092d97ad52c86160718c75828c89a5ef35c7b7c2e8733d85",
+      "passed": true
+    }
+  ],
+  "passed": true
+}
