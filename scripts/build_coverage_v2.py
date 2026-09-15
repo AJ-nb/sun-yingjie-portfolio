@@ -56,6 +56,11 @@ for item in media:
     if not source.is_file() or not built.is_file() or source.read_bytes() != built.read_bytes():
         errors.append(f'Build differs from source: {path}')
 selected = {item['path'] for item in media}
+expected_files = {item['path'].lstrip('/') for item in media} | {'index.html', 'media-index.json'}
+expected_files.update(path.relative_to(ROOT / 'web/dist').as_posix() for path in (ROOT / 'web/dist/assets').rglob('*') if path.is_file())
+actual_files = {path.relative_to(ROOT / 'web/dist').as_posix() for path in (ROOT / 'web/dist').rglob('*') if path.is_file()}
+if actual_files != expected_files:
+    errors.append(f'Build file set differs from selected assets: {sorted(actual_files ^ expected_files)}')
 for case in cases:
     for path in case['media']:
         if path not in selected:
@@ -65,7 +70,7 @@ manifests = []
 for directory in ['refinement-v2', 'refinement-digital']:
     for path in sorted((PRIVATE / directory).glob('*.json')):
         manifests.append(record(path))
-deliverables = [record(ROOT / path) for path in ['deliverables/portfolio/sun-yingjie-portfolio.pdf', 'deliverables/resume/sun-yingjie-resume.pdf', 'deliverables/resume/sun-yingjie-resume.docx', 'avatar/sun-yingjie-avatar-draft-v3.blend', 'web/public/models/avatar.glb'] if (ROOT / path).exists()]
+deliverables = [record(ROOT / path) for path in ['deliverables/portfolio/sun-yingjie-portfolio.pdf', 'deliverables/portfolio/sun-yingjie-portfolio-web.pdf', 'deliverables/resume/sun-yingjie-resume.pdf', 'deliverables/resume/sun-yingjie-resume.docx', 'avatar/sun-yingjie-avatar-draft-v3.blend', 'web/public/models/avatar.glb'] if (ROOT / path).exists()]
 report = {
     'schemaVersion': 2,
     'generatedAt': datetime.now(timezone.utc).isoformat(),

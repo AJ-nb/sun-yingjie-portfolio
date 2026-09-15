@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-15T02:39:11.983652+00:00",
+  "generatedAt": "2026-09-15T03:09:02.215199+00:00",
   "scope": "Second-round selected website, bilingual cases and deliverables. Historical originals retain their earlier verification date; no claim to have reread all large archives.",
   "historicalSourceSnapshot": {
     "path": "private/sources/history/refinement-r1/coverage.json",
@@ -4709,6 +4709,21 @@
       "sha256": "009f1c77269ef1dfbe281903e2c8ea35ea7e4d329b8e0b21a330575937ecabaf"
     },
     {
+      "path": "private/sources/refinement-v2/portfolio-web-compression-trials.json",
+      "bytes": 842,
+      "sha256": "6fc37746ec012f6a2fc6f2cf2fdcb48ff3179b7703c5548329cc25d0be76732f"
+    },
+    {
+      "path": "private/sources/refinement-v2/portfolio-web-compression.json",
+      "bytes": 34132,
+      "sha256": "6e4c23f7a85d00bd379ed05e6b4b5c6df4e0f9143d5c06f26a34955d90b50850"
+    },
+    {
+      "path": "private/sources/refinement-v2/portfolio-web-qa.json",
+      "bytes": 22106,
+      "sha256": "ca9a41795a46c2827f0eb8a9ec7bc83ba143436d129d6560a3adb926e32f5fae"
+    },
+    {
       "path": "private/sources/refinement-v2/psd-source-hashes.json",
       "bytes": 529,
       "sha256": "eec934df25d96f48502526af828e8b3d397f88791a14b4e46b06ac409e2468ce"
@@ -5746,7 +5761,7 @@
       },
       {
         "path": "/downloads/sun-yingjie-selected-portfolio.pdf",
-        "bytes": 54192777
+        "bytes": 20387294
       },
       {
         "path": "/models/avatar.glb",
@@ -6722,13 +6737,18 @@
       }
     ],
     "assetCount": 246,
-    "bytes": 111631869
+    "bytes": 77826386
   },
   "deliverables": [
     {
       "path": "deliverables/portfolio/sun-yingjie-portfolio.pdf",
       "bytes": 54192777,
       "sha256": "2758f8e26b7065432a06c359c3c6b3fff7110885831611b1cc346747e8a3a5bb"
+    },
+    {
+      "path": "deliverables/portfolio/sun-yingjie-portfolio-web.pdf",
+      "bytes": 20387294,
+      "sha256": "aef1cfe4c5e653a781d13be92b6b6f09b4211e3b0c7ce66180d93d617793295a"
     },
     {
       "path": "deliverables/resume/sun-yingjie-resume.pdf",

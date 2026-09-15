@@ -1579,5 +1579,9 @@
   ],
   "bytes": 54192777,
   "sha256": "2758f8e26b7065432a06c359c3c6b3fff7110885831611b1cc346747e8a3a5bb",
-  "note": "Second edition: all 33 case introductions in six shared chapters, high-resolution native/source detail pages, preserved collaboration credits, clickable index and stable full-case web links. Original sources retained unchanged."
+  "note": "Second edition: all 33 case introductions in six shared chapters, high-resolution native/source detail pages, preserved collaboration credits, clickable index and stable full-case web links. Original sources retained unchanged.",
+  "publicDocument": "deliverables/portfolio/sun-yingjie-portfolio-web.pdf",
+  "publicBytes": 20387294,
+  "publicSha256": "aef1cfe4c5e653a781d13be92b6b6f09b4211e3b0c7ce66180d93d617793295a",
+  "publicOptimization": "Raster images only, up to 1800px, JPEG80 4:4:4; strict size below 20MiB. All text, page content streams, outlines and links preserved; detailed evidence in refinement-v2/portfolio-web-compression.json."
 }

@@ -272,7 +272,13 @@ text('SUN YINGJIE',699,90,18,SAGE,'Times-Italic')
 end('contact')
 c.save()
 public_pdf=PUBLIC/'downloads/sun-yingjie-selected-portfolio.pdf'
-shutil.copyfile(output,public_pdf)
+web_output=OUT/'sun-yingjie-portfolio-web.pdf'
+subprocess.run([sys.executable,str(ROOT/'scripts/compress_portfolio_pdf.py'),'--input',str(output),'--output',str(web_output),'--max-edge','1800','--quality','80','--report',str(ROOT/'private/sources/refinement-v2/portfolio-web-compression.json')],check=True)
+shutil.copyfile(web_output,public_pdf)
 (ROOT/'private/sources/download-manifest.json').write_text(json.dumps({'publicPath':'/downloads/sun-yingjie-selected-portfolio.pdf','document':str(output.relative_to(ROOT)),'pages':records,'caseCount':len(cases),'pageCount':page,'chapters':CHAPTERS,'profileSource':'web/src/data/profile.json','chapterSource':'web/src/data/chapters.ts','media':list(used_media.values()),'bytes':output.stat().st_size,'sha256':hashlib.sha256(output.read_bytes()).hexdigest(),'note':'Second edition: all 33 case introductions in six shared chapters, high-resolution native/source detail pages, preserved collaboration credits, clickable index and stable full-case web links. Original sources retained unchanged.'},ensure_ascii=False,indent=2),encoding='utf-8')
 (ROOT/'private/sources/refinement-v2/portfolio-text-bounds.json').write_text(json.dumps(text_bounds,ensure_ascii=False,indent=2),encoding='utf-8')
+download_manifest=ROOT/'private/sources/download-manifest.json'
+download_data=json.loads(download_manifest.read_text(encoding='utf-8'))
+download_data.update({'publicDocument':web_output.relative_to(ROOT).as_posix(),'publicBytes':web_output.stat().st_size,'publicSha256':hashlib.sha256(web_output.read_bytes()).hexdigest(),'publicOptimization':'Raster images only, up to 1800px, JPEG80 4:4:4; strict size below 20MiB. All text, page content streams, outlines and links preserved; detailed evidence in refinement-v2/portfolio-web-compression.json.'})
+download_manifest.write_text(json.dumps(download_data,ensure_ascii=False,indent=2),encoding='utf-8')
 print(json.dumps({'pages':page,'cases':len(cases),'bytes':output.stat().st_size,'output':str(output)},ensure_ascii=False))

@@ -1,0 +1,33 @@
+{
+  "sourceSha256": "2758f8e26b7065432a06c359c3c6b3fff7110885831611b1cc346747e8a3a5bb",
+  "attempts": [
+    {
+      "maxImageEdge": 2000,
+      "jpegQuality": 84,
+      "subsampling": "4:4:4",
+      "optimizeHuffman": true,
+      "imageCount": 123,
+      "bytes": 25217096,
+      "underLimit": false
+    },
+    {
+      "maxImageEdge": 1800,
+      "jpegQuality": 82,
+      "subsampling": "4:4:4",
+      "optimizeHuffman": true,
+      "imageCount": 123,
+      "bytes": 21521073,
+      "underLimit": false
+    },
+    {
+      "maxImageEdge": 1600,
+      "jpegQuality": 80,
+      "subsampling": "4:4:4",
+      "optimizeHuffman": true,
+      "imageCount": 123,
+      "bytes": 18115948,
+      "underLimit": true
+    }
+  ],
+  "status": "Parameter study; final selection is recorded in portfolio-web-compression.json"
+}

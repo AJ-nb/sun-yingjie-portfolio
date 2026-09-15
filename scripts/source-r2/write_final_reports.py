@@ -23,7 +23,7 @@ doc.write_text(f'''# 作品集 PDF 质检记录 · 第二版
 | 项目 | 核对结果 |
 | --- | --- |
 | 交付文件 | `deliverables/portfolio/sun-yingjie-portfolio.pdf` |
-| 公开下载副本 | `web/public/downloads/sun-yingjie-selected-portfolio.pdf`，与交付文件哈希相同 |
+| 公开下载副本 | `web/public/downloads/sun-yingjie-selected-portfolio.pdf`，独立的网页优化版；以 `portfolio-web-qa.md` 的当前校验记录为准 |
 | SHA-256 | `{meta['sha256']}` |
 | 字节数 | {meta['bytes']:,} |
 | 页面 | 116 页，960 × 600 pt 横版 |

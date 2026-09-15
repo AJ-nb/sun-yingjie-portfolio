@@ -13,6 +13,8 @@
 
 使用 Node.js 20 或更新的受支持版本，并安装 Git LFS。首次检出时执行 `git lfs pull`，确保 PDF 和 Blender 工程为实际文件。
 
+Windows 下建议使用较短的检出路径；本轮在仓库内设置 `git config core.longpaths true`，解决深层品牌资料的长路径限制。若首次检出提示路径过长，先设置该选项，再仅在新建、没有个人改动的验证副本中恢复 HEAD 文件。
+
 ```powershell
 cd web
 npm ci
@@ -36,7 +38,7 @@ npm run preview
 
 案例位于 `web/src/content/works/<slug>.zh.md` 和 `.en.md`。保持两种语言的分类、署名和媒体一致。每个案例包含背景、本人职责、关键问题、设计过程、最终作品、成果与阶段。`web/src/data/chapters.ts` 控制六章顺序、精选项目及有依据的日期精度；`web/src/data/profile.json` 统一姓名、联系信息、教育与工作经历，供网站和文档共用。
 
-修改封面后运行 `python scripts/prepare_web_assets.py`，生成缩略图和人物静帧。新版设计作品集使用 `python scripts/build_portfolio.py`，依赖 ReportLab、Pillow 和 Windows 微软雅黑字体。简历内容和再生成方法见 `deliverables/resume/resume-content.json` 与 `docs/resume-notes.md`。
+修改封面后运行 `python scripts/prepare_web_assets.py`，生成缩略图和人物静帧。新版设计作品集使用 `python scripts/build_portfolio.py`，依赖 ReportLab、Pillow、pypdf 和 Windows 微软雅黑字体；同时保留高清原版并生成小于20MiB的网页优化版。网页优化仅压缩内嵌图片，文字、矢量、目录、书签和链接保留；独立验证见 `docs/portfolio-web-qa.md`。简历内容和再生成方法见 `deliverables/resume/resume-content.json` 与 `docs/resume-notes.md`。
 
 网站三维模块延迟加载，低动态模式仅在主动请求后加载。镜头按五个履历节点停靠，GLB 中的 `CameraAction` 为350帧、24fps，末段进入作品。`scrollTimeline.ts` 统一节点与镜头映射，`verify-scroll-timeline.mjs` 检查驻留、反向滚动与视口变化。只旋转两个独立眼球根节点，触屏不启用光标跟随。制作方法与参考来源见 `avatar/README.md`。
 
@@ -61,3 +63,5 @@ npm run preview
 最后运行 `python scripts/build_coverage_v2.py`，刷新本地构建与当前来源覆盖快照。远端公开验证单独记录，不能将本地构建检查等同于匿名访问成功。网站不设置阅后失效或访问次数限制；托管平台的实际服务与流量限制仍适用，不承诺无限流量或永久零故障。
 
 发布时使用干净检出的构建目录。`scripts/prepare_site_release.py --build <构建目录> --release <.sites-runtime下的新目录>` 会创建独立静态发布包，拒绝覆盖既有目录。页面输出通过后，才运行 Sites 的打包和发布流程。
+
+构建与发布器均严格核对实际文件与选入清单，不能跳过额外文件错误。本轮旧输出曾发现已撤选的薪跳角色图；全新 GitHub 检出构建已排除它，采用后者发布。当前依赖审计和开发服务维护边界见 `docs/dependency-maintenance.md`。
