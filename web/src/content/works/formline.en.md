@@ -13,6 +13,8 @@ tags: ["Design tool", "Geometric constraints", "Logo", "Interaction design"]
 
 Formline addresses two activities in geometric logo design: building an explainable construction and making small corrections for the final visual result. These are stored separately so that designers can compare construction logic with appearance.
 
+The tool is intended for designers refining geometric marks: construct with circles, lines and constraints, inspect negative space and visual weight, then export a final graphic for applications and a construction drawing for explanation. Work often spread across guides, duplicate versions and export files stays within one local project.
+
 ## My role
 
 The tool and interaction work is collaborative. The material covers the canvas, constraints and layers, optical corrections, diagnostic information and export flow. Open-source components support solving and drawing, with their contributions and licenses retained.
@@ -26,6 +28,12 @@ Mathematical validity does not guarantee balanced visual weight. Designers need 
 Geometry, Final and X-Ray show construction, corrected appearance and their relationship. Independent, resettable optical adjustments avoid destroying the underlying geometry. Layers and constraints surround the canvas, keeping the object being edited visible.
 
 Diagnostics separate open paths, negative space, visual weight and export visibility so the current review question stays clear. Desktop shows the inspector alongside the canvas; mobile collapses supporting areas without merging construction and correction.
+
+### Reading a path from construction to delivery
+
+Starting with the existing Aperture 01 example, a designer can inspect axes and shape relationships in Geometry, adjust an individual object's optical position or visual weight in Final, then compare the change in X-Ray. An unsuitable adjustment can be reset for that object while its construction remains intact. Final SVG, construction SVG, PNG and project JSON then serve different purposes: presentation and application need different files, while continued editing needs the project relationships.
+
+This is a walkthrough of existing editing functions. Preserving stable geometry when constraints conflict, non-destructive Boolean nodes and local autosaving support continued work; they do not decide whether the final mark is balanced.
 
 ## Final work
 

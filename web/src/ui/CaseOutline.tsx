@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import type { Lang } from '../data/workDocs'
+import { focusCaseHeading } from './caseNavigation'
 
 export default function CaseOutline({ headings, lang, reduced }: { headings: string[]; lang: Lang; reduced: boolean }) {
   const [active, setActive] = useState(0)
@@ -15,8 +16,7 @@ export default function CaseOutline({ headings, lang, reduced }: { headings: str
   return <nav className="case-outline" aria-label={lang === 'zh' ? '案例阅读目录' : 'Case contents'}>
     <span className="outline-label">{lang === 'zh' ? '阅读路径' : 'Reading path'}</span>
     <div>{headings.map((heading, index) => <button key={heading} aria-current={active === index ? 'step' : undefined} onClick={() => {
-      const node = document.getElementById(`case-section-${index}`)
-      if (node) { window.scrollTo({ top: scrollY + node.getBoundingClientRect().top - 105, behavior: reduced ? 'instant' : 'smooth' }); node.focus({ preventScroll: true }) }
+      focusCaseHeading(index, reduced)
     }}><span>{String(index + 1).padStart(2, '0')}</span>{heading}</button>)}</div>
   </nav>
 }

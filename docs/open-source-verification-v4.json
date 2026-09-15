@@ -1,0 +1,3916 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-09-15T06:12:36.003Z",
+  "provider": "GitHub REST through authenticated gh CLI",
+  "focusRepositoryCount": 29,
+  "sourceRepositoryCount": 29,
+  "licenseTextRepositoryCount": 22,
+  "searchCandidateCount": 119,
+  "followupOutsideSearch": [
+    "codrops/Scroll3DGrid"
+  ],
+  "reviewMethod": "README, repository file tree, immutable source blobs and license declarations were read. Source behavior is supported by inspected code ranges. Demo websites were not loaded and upstream builds/benchmarks were not run. Repositories without a suitable grant remain research-only. No upstream code, media, fonts or personal claims were integrated by this research task.",
+  "licenseCounts": {
+    "standard-license-text-retrieved": 20,
+    "custom-restricted": 1,
+    "no-explicit-license-found": 5,
+    "conflicting-statements": 2,
+    "mit-declared-no-full-text": 1
+  },
+  "accessNotes": [
+    "Some concurrent GitHub requests returned transient EOF or exceeded the initial command wait. Missing responses were retried and completed before this register was written.",
+    "All recorded source blobs are pinned by upstream Git SHA and paired with a verified HEAD commit. Empty placeholder files were excluded from supporting evidence."
+  ],
+  "artifactValidation": {
+    "checkedAt": "2026-09-15T06:24:21.626Z",
+    "status": "passed",
+    "searchThemeCount": 10,
+    "searchQueryCount": 11,
+    "uniqueSearchCandidateCount": 119,
+    "focusRepositoryCount": 29,
+    "sourceRepositoryCount": 29,
+    "standaloneLicenseRepositoryCount": 22,
+    "inspectedFileCount": 91,
+    "verifiedExcerptCount": 386,
+    "checks": [
+      "Search counts, candidate uniqueness and successful query responses",
+      "Each focus repo has README and nonempty source evidence",
+      "Pinned commit SHA verified against independently read GitHub commit response",
+      "Every supporting blob path, SHA and upstream size matches retrieved tree and file metadata",
+      "Every excerpt line matches the retrieved source text",
+      "License classification counts match repository records",
+      "Both JSON documents parsed; all 29 research table entries present exactly once",
+      "106 relative Markdown file links and implementation source paths resolve locally",
+      "Both notice documents preserve the complete pre-v4 content",
+      "Local relation validator passed for 33 cases and 132 bilingual recommendations"
+    ],
+    "limits": [
+      "This verifies the research register; it is not an upstream runtime/performance audit."
+    ],
+    "errors": [],
+    "parsedJsonFileCount": 2,
+    "repositoryTableRowCount": 29,
+    "localLinksChecked": 106,
+    "originalNoticesPreserved": true,
+    "localRelationCheck": {
+      "status": "passed",
+      "caseCount": 33,
+      "bilingualRecommendationCount": 132,
+      "command": "node scripts/verify-case-relations.mjs"
+    }
+  },
+  "implementationReview": {
+    "reviewedAt": "2026-09-15T06:23:12.378Z",
+    "basis": "Current local v4 source read; browser verification is owned by integration and is not asserted here.",
+    "newDependenciesFromResearch": 0,
+    "upstreamCodeCopied": false,
+    "upstreamAssetsCopied": false,
+    "upstreamFontsCopied": false,
+    "profileCapabilityCount": 6,
+    "methodStepCount": 5,
+    "heroSelectionCount": 4,
+    "selectedWorkCount": 3,
+    "existingPortrait": {
+      "path": "web/public/avatar/portrait.webp",
+      "mode": "RGBA",
+      "width": 1280,
+      "height": 720,
+      "alphaExtrema": [0, 255],
+      "newlyGenerated": false,
+      "use": "Existing transparent portrait used as static fallback; original GLB uses initial pose and pointer parallax. Former resume camera tour is not the new home navigation."
+    },
+    "imageGenerationAttempt": {
+      "subject": "HUHU transparent-background edit",
+      "status": "failed",
+      "error": "HTTP 500 / convert_request_failed",
+      "newImageProduced": false,
+      "existingAssetsPreserved": true
+    }
+  },
+  "observations": [
+    {
+      "repo": "HamishMW/portfolio",
+      "kind": "个人作品集",
+      "fact": "首页由 Intro、三个 ProjectSummary、Profile 组成；ProjectSummary 用 alternate 调整顺序，visible/focused 驱动过渡并延迟加载模型。",
+      "mechanism": "精选项目交替编排；能力描述先于技术名；可见时才加载三维。",
+      "proposal": "首屏与精选展示；沿用 Motion，保留原生标题和链接。",
+      "license": "MIT",
+      "limits": "README 明确不能把作者项目当作自己的；不复制项目图与经历。",
+      "adoptionStatus": "independently-implemented-mechanisms",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Curated selected-work rhythm and visibility-aware portrait activity. Original cases, existing Motion/Three stack.",
+        "localFiles": [
+          "web/src/ui/Studio.tsx",
+          "web/src/App.tsx",
+          "web/src/studio.css"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/HamishMW/portfolio",
+        "description": "My personal portfolio website built using React and three js",
+        "defaultBranch": "master",
+        "isArchived": false,
+        "starsAtSearch": 3526,
+        "searchLicenseDeclaration": {
+          "key": "mit",
+          "name": "MIT License",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "commitSha": "b7444bc16216f38c64f4afb8d2f53b8c4cbb2bda",
+        "commitDate": "2024-11-16T02:45:42Z",
+        "commitUrl": "https://github.com/HamishMW/portfolio/commit/b7444bc16216f38c64f4afb8d2f53b8c4cbb2bda",
+        "snapshotRefReturnedByTreeApi": "b7444bc16216f38c64f4afb8d2f53b8c4cbb2bda"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "a3209b064588dac9afa2626004a968fdfc9a53e9",
+          "upstreamSizeBytes": 2238,
+          "retrievedAt": "2026-09-15T05:56:40.194Z",
+          "httpAccess": "success",
+          "url": "https://github.com/HamishMW/portfolio/blob/b7444bc16216f38c64f4afb8d2f53b8c4cbb2bda/README.md",
+          "blobApiUrl": "https://api.github.com/repos/HamishMW/portfolio/git/blobs/a3209b064588dac9afa2626004a968fdfc9a53e9",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 4,
+              "text": "<h1 align=\"center\">Personal portfolio</h1>"
+            },
+            {
+              "line": 38,
+              "text": "## Permissions"
+            },
+            {
+              "line": 40,
+              "text": "I'm cool with anyone using the code or parts of the code for their own site, it is open source so people can learn from it and adapt it. However, I would encourage you to modify the theme and components it to make it your own. If you are using the site's design largely unmodified, I'd appreciate being credited as the designer of the website."
+            },
+            {
+              "line": 42,
+              "text": "I do not give permission to present any of my projects as your own (this is being actively used as my portfolio site and these are my real projects I've worked on)."
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "0d8c798d24cba42d40eaa9fb6a2c0af389f5514c",
+          "upstreamSizeBytes": 1072,
+          "retrievedAt": "2026-09-15T05:56:40.194Z",
+          "httpAccess": "success",
+          "url": "https://github.com/HamishMW/portfolio/blob/b7444bc16216f38c64f4afb8d2f53b8c4cbb2bda/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/HamishMW/portfolio/git/blobs/0d8c798d24cba42d40eaa9fb6a2c0af389f5514c",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "MIT License"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2020 Hamish Williams"
+            },
+            {
+              "line": 5,
+              "text": "Permission is hereby granted, free of charge, to any person obtaining a copy"
+            },
+            {
+              "line": 7,
+              "text": "in the Software without restriction, including without limitation the rights"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "app/routes/home/home.jsx",
+          "upstreamBlobSha": "1c291970b4870b6675b2a6e402933aaba60594de",
+          "upstreamSizeBytes": 5761,
+          "retrievedAt": "2026-09-15T05:57:54.790Z",
+          "httpAccess": "success",
+          "url": "https://github.com/HamishMW/portfolio/blob/b7444bc16216f38c64f4afb8d2f53b8c4cbb2bda/app/routes/home/home.jsx",
+          "blobApiUrl": "https://api.github.com/repos/HamishMW/portfolio/git/blobs/1c291970b4870b6675b2a6e402933aaba60594de",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 101,
+              "text": "<ProjectSummary"
+            },
+            {
+              "line": 109,
+              "text": "buttonLink=\"/projects/smart-sparrow\""
+            },
+            {
+              "line": 121,
+              "text": "<ProjectSummary"
+            },
+            {
+              "line": 123,
+              "text": "alternate"
+            },
+            {
+              "line": 130,
+              "text": "buttonLink=\"https://gamestack.hamishw.com\""
+            },
+            {
+              "line": 146,
+              "text": "<ProjectSummary"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "app/routes/home/project-summary.jsx",
+          "upstreamBlobSha": "aa754d7a5488e6f88d94ee921f040186a1bb6224",
+          "upstreamSizeBytes": 6404,
+          "retrievedAt": "2026-09-15T05:57:54.790Z",
+          "httpAccess": "success",
+          "url": "https://github.com/HamishMW/portfolio/blob/b7444bc16216f38c64f4afb8d2f53b8c4cbb2bda/app/routes/home/project-summary.jsx",
+          "blobApiUrl": "https://api.github.com/repos/HamishMW/portfolio/git/blobs/aa754d7a5488e6f88d94ee921f040186a1bb6224",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 31,
+              "text": "alternate,"
+            },
+            {
+              "line": 111,
+              "text": "{isHydrated && visible && ("
+            },
+            {
+              "line": 141,
+              "text": "{isHydrated && visible && ("
+            },
+            {
+              "line": 180,
+              "text": "data-alternate={alternate}"
+            },
+            {
+              "line": 192,
+              "text": "<Transition in={sectionVisible || focused}>"
+            },
+            {
+              "line": 195,
+              "text": "{!alternate && !isMobile && ("
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "iuridepaula/portfolio",
+      "kind": "个人作品集",
+      "fact": "Home.vue 将职业与个人背景拆成独立 Scene 组件，isPlaying 控制循环，卸载时销毁时间线。",
+      "mechanism": "把职业路径组织成少量有主题的章节，并停止离屏动画。",
+      "proposal": "借鉴叙事分段；保留本站真实履历，不使用游戏人物与音频。",
+      "license": "MIT（版权占位字段未填写）",
+      "limits": "README 明确实现来自 2018/2019，不能直接当作现代技术栈建议。",
+      "adoptionStatus": "independently-implemented-general-pattern",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Separated identity/experience/method sections and cleanup of local motion sources; no legacy scene implementation, audio or character assets.",
+        "localFiles": [
+          "web/src/ui/StudioProfile.tsx",
+          "web/src/ui/Studio.tsx"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/iuridepaula/portfolio",
+        "description": "Personal portfolio (2018)",
+        "defaultBranch": "master",
+        "isArchived": false,
+        "starsAtSearch": 579,
+        "searchLicenseDeclaration": {
+          "key": "mit",
+          "name": "MIT License",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "commitSha": "c28f47a685c047c657242753f6a6710a92ac5b58",
+        "commitDate": "2023-02-26T18:19:04Z",
+        "commitUrl": "https://github.com/iuridepaula/portfolio/commit/c28f47a685c047c657242753f6a6710a92ac5b58",
+        "snapshotRefReturnedByTreeApi": "c28f47a685c047c657242753f6a6710a92ac5b58"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "fec2e6f14bc81735d76058c2288ac412acbbaa74",
+          "upstreamSizeBytes": 1388,
+          "retrievedAt": "2026-09-15T05:56:40.194Z",
+          "httpAccess": "success",
+          "url": "https://github.com/iuridepaula/portfolio/blob/c28f47a685c047c657242753f6a6710a92ac5b58/README.md",
+          "blobApiUrl": "https://api.github.com/repos/iuridepaula/portfolio/git/blobs/fec2e6f14bc81735d76058c2288ac412acbbaa74",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "# iuri.is()"
+            },
+            {
+              "line": 3,
+              "text": "🧚 Listen!"
+            },
+            {
+              "line": 5,
+              "text": "Before you start, noticed that this website was built in 2018/2019 and made use of solutions available at the time that are no longer the best way of doing things today! Still, I encourage you to check this solution if you are looking for inspiration, but if you are looking for a \"better\" way of creating animated websites today, please check these references:"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE.md",
+          "upstreamBlobSha": "8aa26455d23acf904be3ed9dfb3a3efe3e49245a",
+          "upstreamSizeBytes": 1069,
+          "retrievedAt": "2026-09-15T05:56:40.194Z",
+          "httpAccess": "success",
+          "url": "https://github.com/iuridepaula/portfolio/blob/c28f47a685c047c657242753f6a6710a92ac5b58/LICENSE.md",
+          "blobApiUrl": "https://api.github.com/repos/iuridepaula/portfolio/git/blobs/8aa26455d23acf904be3ed9dfb3a3efe3e49245a",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "MIT License"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) [year] [fullname]"
+            },
+            {
+              "line": 5,
+              "text": "Permission is hereby granted, free of charge, to any person obtaining a copy"
+            },
+            {
+              "line": 7,
+              "text": "in the Software without restriction, including without limitation the rights"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/views/Home.vue",
+          "upstreamBlobSha": "c6df3e8ebd95c1e57ad7c6490cd506d7af82a948",
+          "upstreamSizeBytes": 22968,
+          "retrievedAt": "2026-09-15T05:57:54.790Z",
+          "httpAccess": "success",
+          "url": "https://github.com/iuridepaula/portfolio/blob/c28f47a685c047c657242753f6a6710a92ac5b58/src/views/Home.vue",
+          "blobApiUrl": "https://api.github.com/repos/iuridepaula/portfolio/git/blobs/c6df3e8ebd95c1e57ad7c6490cd506d7af82a948",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 3,
+              "text": "<IntroScene />"
+            },
+            {
+              "line": 12,
+              "text": "<BizScene :isPlaying=\"isPlaying.Biz\" />"
+            },
+            {
+              "line": 15,
+              "text": "<EarlyDaysScene :isPlaying=\"isPlaying.EarlyDays\" />"
+            },
+            {
+              "line": 84,
+              "text": "isPlaying: {"
+            },
+            {
+              "line": 126,
+              "text": "Object.values(this.timelines).forEach((timeLine) => timeLine.kill())"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/components/SceneSection.vue",
+          "upstreamBlobSha": "b0c90d572c28402f91bf7802aeaed582505e26ab",
+          "upstreamSizeBytes": 832,
+          "retrievedAt": "2026-09-15T05:57:54.790Z",
+          "httpAccess": "success",
+          "url": "https://github.com/iuridepaula/portfolio/blob/c28f47a685c047c657242753f6a6710a92ac5b58/src/components/SceneSection.vue",
+          "blobApiUrl": "https://api.github.com/repos/iuridepaula/portfolio/git/blobs/b0c90d572c28402f91bf7802aeaed582505e26ab",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 2,
+              "text": "<section class=\"scene\">"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "davidhckh/portfolio-2025",
+      "kind": "个人作品集",
+      "fact": "项目文案按 en/de 与 slug 组织，ProjectContent 用类型化媒体块保存 src/alt/caption；首页按 locale 加载预览。",
+      "mechanism": "摘要与详细内容来自同一身份；媒体说明紧贴媒体；语言版本保持 slug 一致。",
+      "proposal": "仅参考内容结构并独立实现，不复制其受限制源码。",
+      "license": "自定义：限个人/教育、需可见署名、商业复用需许可",
+      "limits": "不是 MIT，也不能笼统称为无条件开源；商业边界不确定时不复用代码。",
+      "adoptionStatus": "reference-only-restricted-source",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Compared bilingual content/media structure. No source copied, no ProjectContent schema or preview loader ported.",
+        "localFiles": [
+          "web/src/data/profile.ts",
+          "web/src/ui/CasePage.tsx"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/davidhckh/portfolio-2025",
+        "description": "Interactive developer portfolio built with Three.js, Vue and modern web technologies, focused on immersive user experiences, smooth animations and high-performance frontend architecture.",
+        "defaultBranch": "main",
+        "isArchived": false,
+        "starsAtSearch": 863,
+        "searchLicenseDeclaration": {
+          "key": "other",
+          "name": "Other",
+          "url": ""
+        },
+        "commitSha": "f331fe16f507d52b60348fee73d56ab7ec330e56",
+        "commitDate": "2026-08-11T13:07:45Z",
+        "commitUrl": "https://github.com/davidhckh/portfolio-2025/commit/f331fe16f507d52b60348fee73d56ab7ec330e56",
+        "snapshotRefReturnedByTreeApi": "f331fe16f507d52b60348fee73d56ab7ec330e56"
+      },
+      "licenseStatus": "custom-restricted",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "baa2e40cfffcb7d6e9337dc5ddad85c2d7b12656",
+          "upstreamSizeBytes": 1773,
+          "retrievedAt": "2026-09-15T05:56:40.194Z",
+          "httpAccess": "success",
+          "url": "https://github.com/davidhckh/portfolio-2025/blob/f331fe16f507d52b60348fee73d56ab7ec330e56/README.md",
+          "blobApiUrl": "https://api.github.com/repos/davidhckh/portfolio-2025/git/blobs/baa2e40cfffcb7d6e9337dc5ddad85c2d7b12656",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 3,
+              "text": "Personal portfolio site: project case studies, lightweight 3D and shader demos, bilingual copy (English and German)."
+            },
+            {
+              "line": 16,
+              "text": "## Content"
+            },
+            {
+              "line": 18,
+              "text": "- **Projects**: `src/content/projects/{en,de}/<slug>.ts` — copy, tags, media, links. Slugs must align with `projectIds` in `src/content/projects/index.ts`."
+            },
+            {
+              "line": 19,
+              "text": "- **Previews / listing**: `src/content/projects/previews/`."
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "license.md",
+          "upstreamBlobSha": "0d88a7cc5e053854e4d730670105ef58bb6f32c4",
+          "upstreamSizeBytes": 849,
+          "retrievedAt": "2026-09-15T05:56:40.194Z",
+          "httpAccess": "success",
+          "url": "https://github.com/davidhckh/portfolio-2025/blob/f331fe16f507d52b60348fee73d56ab7ec330e56/license.md",
+          "blobApiUrl": "https://api.github.com/repos/davidhckh/portfolio-2025/git/blobs/0d88a7cc5e053854e4d730670105ef58bb6f32c4",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "Copyright (c) 2026 David Heckhoff"
+            },
+            {
+              "line": 6,
+              "text": "Permission is hereby granted to use, copy, modify, and distribute this software for personal and educational purposes only, subject to the following conditions:"
+            },
+            {
+              "line": 8,
+              "text": "1. Attribution to the original author (David Heckhoff) and the original portfolio link (https://david-hckh.com) must be clearly visible in:"
+            },
+            {
+              "line": 13,
+              "text": "2. Existing credit notices and attribution comments in the source code may not be removed or altered."
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/content/projects/en/particles.ts",
+          "upstreamBlobSha": "b896f261ec66504ccee8ad80f69c9bd731b11050",
+          "upstreamSizeBytes": 1496,
+          "retrievedAt": "2026-09-15T05:57:54.790Z",
+          "httpAccess": "success",
+          "url": "https://github.com/davidhckh/portfolio-2025/blob/f331fe16f507d52b60348fee73d56ab7ec330e56/src/content/projects/en/particles.ts",
+          "blobApiUrl": "https://api.github.com/repos/davidhckh/portfolio-2025/git/blobs/b896f261ec66504ccee8ad80f69c9bd731b11050",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 19,
+              "text": "type: \"media\","
+            },
+            {
+              "line": 23,
+              "text": "caption: \"Animated Particle System\","
+            },
+            {
+              "line": 27,
+              "text": "type: \"media\","
+            },
+            {
+              "line": 32,
+              "text": "caption: \"Knot Shape\","
+            },
+            {
+              "line": 36,
+              "text": "type: \"media\","
+            },
+            {
+              "line": 41,
+              "text": "caption: \"Donut Shape\","
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/features/home/components/Projects.vue",
+          "upstreamBlobSha": "ea22ea6765b98d297bdbdca6d0985181d468fcd2",
+          "upstreamSizeBytes": 3886,
+          "retrievedAt": "2026-09-15T05:57:54.790Z",
+          "httpAccess": "success",
+          "url": "https://github.com/davidhckh/portfolio-2025/blob/f331fe16f507d52b60348fee73d56ab7ec330e56/src/features/home/components/Projects.vue",
+          "blobApiUrl": "https://api.github.com/repos/davidhckh/portfolio-2025/git/blobs/ea22ea6765b98d297bdbdca6d0985181d468fcd2",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 21,
+              "text": "const func = previews[locale.value as keyof typeof previews];"
+            },
+            {
+              "line": 28,
+              "text": "watch(locale, loadPreviews);"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "ITomPoland/portfolio-itom",
+      "kind": "个人作品集",
+      "fact": "GalleryRoom 有 CMS 数据与 FALLBACK_PROJECTS 回退；selectedCard 和 globalIsAnimating 管理单卡打开；hover 能力决定是否加载 painted 纹理。",
+      "mechanism": "一次只有一个被展开对象；触摸环境使用原始视图；加载失败仍能浏览。",
+      "proposal": "借鉴渐进增强与明确选择态；不引入完整三维走廊。",
+      "license": "MIT（代码）",
+      "limits": "README 排除个人纹理、图像和文案；其 zero lag/60 FPS 等性能主张未独立验证。",
+      "adoptionStatus": "independently-implemented-general-pattern",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "One current hero selection synchronizes image, title, number and case target; reduced/coarse pointer behavior. No room, painted texture or CMS system ported.",
+        "localFiles": [
+          "web/src/ui/Studio.tsx"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/ITomPoland/portfolio-itom",
+        "description": "An immersive, interactive 3D Web Developer portfolio built by Tomasz 'ITom' Szmajda using React Three Fiber, GSAP, and advanced WebGL rendering architecture.",
+        "defaultBranch": "main",
+        "isArchived": false,
+        "starsAtSearch": 396,
+        "searchLicenseDeclaration": {
+          "key": "mit",
+          "name": "MIT License",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "commitSha": "3e82d28097eba435a47ac46f9988334379a5ac79",
+        "commitDate": "2026-09-08T14:18:37Z",
+        "commitUrl": "https://github.com/ITomPoland/portfolio-itom/commit/3e82d28097eba435a47ac46f9988334379a5ac79",
+        "snapshotRefReturnedByTreeApi": "3e82d28097eba435a47ac46f9988334379a5ac79"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "b535481263f2b9f02a3f70f2c21b32db9b154d57",
+          "upstreamSizeBytes": 4455,
+          "retrievedAt": "2026-09-15T05:56:40.194Z",
+          "httpAccess": "success",
+          "url": "https://github.com/ITomPoland/portfolio-itom/blob/3e82d28097eba435a47ac46f9988334379a5ac79/README.md",
+          "blobApiUrl": "https://api.github.com/repos/ITomPoland/portfolio-itom/git/blobs/b535481263f2b9f02a3f70f2c21b32db9b154d57",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 13,
+              "text": "Welcome to the open-source repository of **Tomasz \"ITom\" Szmajda's** interactive 3D Web Developer portfolio. This project pushes the limits of modern web technologies by blending spatial WebGL computing, complex React ecosystems, and highly optimized frontend engineering."
+            },
+            {
+              "line": 22,
+              "text": "1. **Invisible Semantic SEO Fallback:** Bypasses WebGL canvas SEO limitations via strategic `sr-only-seo` indexing DOM injections, rendering fully visible semantic trees to native search-engine crawlers without mounting heavy bundles."
+            },
+            {
+              "line": 79,
+              "text": "All PRs improving the shader physics, 3D math logic, or component memoization runtimes are welcome. Please refer to our new `.github` Issue and Pull Request templates when submitting!"
+            },
+            {
+              "line": 85,
+              "text": "## License"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "b44295db8af832ee6216e81816990b58e3ffe665",
+          "upstreamSizeBytes": 1071,
+          "retrievedAt": "2026-09-15T05:56:40.194Z",
+          "httpAccess": "success",
+          "url": "https://github.com/ITomPoland/portfolio-itom/blob/3e82d28097eba435a47ac46f9988334379a5ac79/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/ITomPoland/portfolio-itom/git/blobs/b44295db8af832ee6216e81816990b58e3ffe665",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "MIT License"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2026 Tomasz Szmajda"
+            },
+            {
+              "line": 5,
+              "text": "Permission is hereby granted, free of charge, to any person obtaining a copy"
+            },
+            {
+              "line": 7,
+              "text": "in the Software without restriction, including without limitation the rights"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/components/canvas/rooms/Gallery/GalleryRoom.jsx",
+          "upstreamBlobSha": "2d30e6c268c7b4d66763e7ae5f9bef73061e3543",
+          "upstreamSizeBytes": 56679,
+          "retrievedAt": "2026-09-15T05:57:54.790Z",
+          "httpAccess": "success",
+          "url": "https://github.com/ITomPoland/portfolio-itom/blob/3e82d28097eba435a47ac46f9988334379a5ac79/src/components/canvas/rooms/Gallery/GalleryRoom.jsx",
+          "blobApiUrl": "https://api.github.com/repos/ITomPoland/portfolio-itom/git/blobs/2d30e6c268c7b4d66763e7ae5f9bef73061e3543",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 37,
+              "text": "const FALLBACK_PROJECTS = ["
+            },
+            {
+              "line": 105,
+              "text": "const [selectedCard, setSelectedCard] = useState(null);"
+            },
+            {
+              "line": 106,
+              "text": "const [globalIsAnimating, setGlobalIsAnimating] = useState(false);"
+            },
+            {
+              "line": 153,
+              "text": "if (globalIsAnimating || isTransitioning) return;"
+            },
+            {
+              "line": 158,
+              "text": "if (selectedCard === clickedIndex) {"
+            },
+            {
+              "line": 163,
+              "text": "} else if (selectedCard !== null) {"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "bizarro/bruno-arizio",
+      "kind": "个人作品集",
+      "fact": "Canvas/Home 维护 index、indexInfinite、current/target 位置；滑动后吸附，并对非当前项目统一 show/hide。",
+      "mechanism": "封面、序号与标题共享当前作品索引，形成连续展览感。",
+      "proposal": "借鉴当前项联动与轻微景深层次；以原生滚动实现有限序列。",
+      "license": "未发现独立代码许可证",
+      "limits": "README 的 open source 表述不能替代完整授权；不复制代码、文字纹理或作品素材。",
+      "adoptionStatus": "reference-only-no-explicit-license",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Current-item synchronization studied. Infinite scrolling, snapping system and source not adopted.",
+        "localFiles": [],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/bizarro/bruno-arizio",
+        "description": "Bruno Arizio's 2019 portfolio.",
+        "defaultBranch": "master",
+        "isArchived": false,
+        "starsAtSearch": 464,
+        "searchLicenseDeclaration": {
+          "key": "",
+          "name": "",
+          "url": ""
+        },
+        "commitSha": "2db7432ba3d19f54f36ce0cd06a69ee7cdc1d00f",
+        "commitDate": "2025-02-12T02:59:50Z",
+        "commitUrl": "https://github.com/bizarro/bruno-arizio/commit/2db7432ba3d19f54f36ce0cd06a69ee7cdc1d00f",
+        "snapshotRefReturnedByTreeApi": "2db7432ba3d19f54f36ce0cd06a69ee7cdc1d00f"
+      },
+      "licenseStatus": "no-explicit-license-found",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "d3d3bf593afffbef672af21bef539b9b2c45940a",
+          "upstreamSizeBytes": 4119,
+          "retrievedAt": "2026-09-15T05:56:45.568Z",
+          "httpAccess": "success",
+          "url": "https://github.com/bizarro/bruno-arizio/blob/2db7432ba3d19f54f36ce0cd06a69ee7cdc1d00f/README.md",
+          "blobApiUrl": "https://api.github.com/repos/bizarro/bruno-arizio/git/blobs/d3d3bf593afffbef672af21bef539b9b2c45940a",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 51,
+              "text": "I think this might be the trickiest part of running this project locally, you need to understand how Prismic works, then create your fields there and then finally populate the content. To make your life easier, I'm providing all JSON structures inside the `prismic` folder of this repository. Don't forget to match the names used in the JSON files with the ID of your Custom Type of Prismic."
+            },
+            {
+              "line": 53,
+              "text": "You'll also notice a `images` folder inside the `prismic` folder. By the time I've developed this portfolio, I wasn't aware of `three-bmfont-text` approach. You can see how it works in [this very nice article by Mario Carrillo available at Codrops](https://tympanus.net/codrops/2019/10/10/create-text-in-three-js-with-three-bmfont-text/). So I have used Canvas API to generate these images and then I was loading them as textures for the text of the website. (😂) So, when creating your project in Prismic, you'll have two fields for these images `Fill` and `Stroke`, you just need to include the respective ones from this folder."
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "app/components/Canvas/Home/index.js",
+          "upstreamBlobSha": "321774c082919963d4ac0a959dfaa7a28904e350",
+          "upstreamSizeBytes": 5118,
+          "retrievedAt": "2026-09-15T05:57:54.790Z",
+          "httpAccess": "success",
+          "url": "https://github.com/bizarro/bruno-arizio/blob/2db7432ba3d19f54f36ce0cd06a69ee7cdc1d00f/app/components/Canvas/Home/index.js",
+          "blobApiUrl": "https://api.github.com/repos/bizarro/bruno-arizio/git/blobs/321774c082919963d4ac0a959dfaa7a28904e350",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 76,
+              "text": "this.scroll.values.target = this.scroll.values.current + (this.scroll.y.start - this.scroll.y.end)"
+            },
+            {
+              "line": 82,
+              "text": "this.onCheck()"
+            },
+            {
+              "line": 87,
+              "text": "this.scroll.values.target += speed"
+            },
+            {
+              "line": 107,
+              "text": "onCheck() {"
+            },
+            {
+              "line": 108,
+              "text": "this.scroll.values.target = this.sizes.environment.height * 1.33 * this.indexInfinite"
+            },
+            {
+              "line": 154,
+              "text": "this.indexInfinite = value"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "bizarro/bizar.ro",
+      "kind": "个人作品集",
+      "fact": "Home 页面把 show/hide、resize、touch、wheel 和 update 统一交给 Scrolling 对象。",
+      "mechanism": "离开页面时停用交互源；一个滚动状态驱动当前列表。",
+      "proposal": "借鉴生命周期边界，避免路由离开后仍运行指针或滚动逻辑。",
+      "license": "未发现独立代码许可证",
+      "limits": "仅作实现研究；不照搬自定义滚动系统。",
+      "adoptionStatus": "reference-only-no-explicit-license",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Lifecycle boundaries studied. Custom Scrolling controller not adopted.",
+        "localFiles": [],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/bizarro/bizar.ro",
+        "description": "Luis Bizarro's Portfolio from 2020 to 2023.",
+        "defaultBranch": "master",
+        "isArchived": false,
+        "starsAtSearch": 218,
+        "searchLicenseDeclaration": {
+          "key": "",
+          "name": "",
+          "url": ""
+        },
+        "commitSha": "061cfc632d32feac29d90de4e82164b717defe56",
+        "commitDate": "2025-02-19T06:19:41Z",
+        "commitUrl": "https://github.com/bizarro/bizar.ro/commit/061cfc632d32feac29d90de4e82164b717defe56",
+        "snapshotRefReturnedByTreeApi": "061cfc632d32feac29d90de4e82164b717defe56"
+      },
+      "licenseStatus": "no-explicit-license-found",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "d00becb1c5632775cde06b6c77e8383c0ef679f4",
+          "upstreamSizeBytes": 1254,
+          "retrievedAt": "2026-09-15T05:56:45.568Z",
+          "httpAccess": "success",
+          "url": "https://github.com/bizarro/bizar.ro/blob/061cfc632d32feac29d90de4e82164b717defe56/README.md",
+          "blobApiUrl": "https://api.github.com/repos/bizarro/bizar.ro/git/blobs/d00becb1c5632775cde06b6c77e8383c0ef679f4",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 7,
+              "text": "This is the repository of [Bizarro](http://bizar.ro/) portfolio. The website was submitted to [Awwwards](https://www.awwwards.com/) in [December 14, 2020](https://www.awwwards.com/sites/bizarro) but unfortunately didn't made to score a Site of The Day."
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "app/pages/Home/index.js",
+          "upstreamBlobSha": "9c3501a2f62e7e6c732808d93c62f57611713d0a",
+          "upstreamSizeBytes": 1386,
+          "retrievedAt": "2026-09-15T05:57:59.445Z",
+          "httpAccess": "success",
+          "url": "https://github.com/bizarro/bizar.ro/blob/061cfc632d32feac29d90de4e82164b717defe56/app/pages/Home/index.js",
+          "blobApiUrl": "https://api.github.com/repos/bizarro/bizar.ro/git/blobs/9c3501a2f62e7e6c732808d93c62f57611713d0a",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 27,
+              "text": "this.list.enable()"
+            },
+            {
+              "line": 35,
+              "text": "this.list.disable()"
+            },
+            {
+              "line": 54,
+              "text": "this.list = new Scrolling({"
+            },
+            {
+              "line": 73,
+              "text": "this.list.onTouchDown(event)"
+            },
+            {
+              "line": 77,
+              "text": "this.list.onTouchMove(event)"
+            },
+            {
+              "line": 81,
+              "text": "this.list.onTouchUp(event)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "vaalentin/2015",
+      "kind": "个人作品集实验",
+      "fact": "appModule 区分 heads/tails 两种阅读状态；SectionClass 有独立 in/out/start/stop 与 playing 标志。",
+      "mechanism": "视觉体验和信息阅读有明确入口；每段动画可以停止。",
+      "proposal": "借鉴“作品优先、资料可达”的双路径，不移植旧 jQuery/Bower 工具链。",
+      "license": "未发现独立代码许可证",
+      "limits": "2015 实验源码；实际现代浏览器兼容性未运行验证。",
+      "adoptionStatus": "reference-only-no-explicit-license",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Reading vs visual experience and stopping states studied. No jQuery/Bower code adopted.",
+        "localFiles": [],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/vaalentin/2015",
+        "description": "WebGL portfolio experiment.",
+        "defaultBranch": "master",
+        "isArchived": false,
+        "starsAtSearch": 274,
+        "searchLicenseDeclaration": {
+          "key": "",
+          "name": "",
+          "url": ""
+        },
+        "commitSha": "80b24c10bd411b723a5188fbc94fa27ea368c92f",
+        "commitDate": "2016-08-09T10:46:17Z",
+        "commitUrl": "https://github.com/vaalentin/2015/commit/80b24c10bd411b723a5188fbc94fa27ea368c92f",
+        "snapshotRefReturnedByTreeApi": "80b24c10bd411b723a5188fbc94fa27ea368c92f"
+      },
+      "licenseStatus": "no-explicit-license-found",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "bea7c7118ab35693bb72239e99a068e7a754663f",
+          "upstreamSizeBytes": 630,
+          "retrievedAt": "2026-09-15T05:56:45.568Z",
+          "httpAccess": "success",
+          "url": "https://github.com/vaalentin/2015/blob/80b24c10bd411b723a5188fbc94fa27ea368c92f/README.md",
+          "blobApiUrl": "https://api.github.com/repos/vaalentin/2015/git/blobs/bea7c7118ab35693bb72239e99a068e7a754663f",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "# 2015, a WebGL experiment"
+            },
+            {
+              "line": 3,
+              "text": "## Instructions"
+            },
+            {
+              "line": 5,
+              "text": "### Out of the box"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "app/src/js/modules/appModule.js",
+          "upstreamBlobSha": "1a3e9e75f8fc875fc51ff491ecc9babebf070fb9",
+          "upstreamSizeBytes": 4970,
+          "retrievedAt": "2026-09-15T05:59:43.127Z",
+          "httpAccess": "success",
+          "url": "https://github.com/vaalentin/2015/blob/80b24c10bd411b723a5188fbc94fa27ea368c92f/app/src/js/modules/appModule.js",
+          "blobApiUrl": "https://api.github.com/repos/vaalentin/2015/git/blobs/1a3e9e75f8fc875fc51ff491ecc9babebf070fb9",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 11,
+              "text": "* @event [heads:visible] Heads is at least partially in the viewport"
+            },
+            {
+              "line": 60,
+              "text": "events.trigger('heads:visible');"
+            },
+            {
+              "line": 114,
+              "text": "events.trigger('heads:visible');"
+            },
+            {
+              "line": 131,
+              "text": "events.trigger('slideComplete', { to: to });"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "app/src/js/classes/SectionClass.js",
+          "upstreamBlobSha": "20a8a4c79ccdb4aa5287fa179c1782c3fe2ff680",
+          "upstreamSizeBytes": 1824,
+          "retrievedAt": "2026-09-15T05:59:43.127Z",
+          "httpAccess": "success",
+          "url": "https://github.com/vaalentin/2015/blob/80b24c10bd411b723a5188fbc94fa27ea368c92f/app/src/js/classes/SectionClass.js",
+          "blobApiUrl": "https://api.github.com/repos/vaalentin/2015/git/blobs/20a8a4c79ccdb4aa5287fa179c1782c3fe2ff680",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 15,
+              "text": "this.playing = false;"
+            },
+            {
+              "line": 66,
+              "text": "this._start();"
+            },
+            {
+              "line": 68,
+              "text": "this.playing = true;"
+            },
+            {
+              "line": 81,
+              "text": "this._stop();"
+            },
+            {
+              "line": 83,
+              "text": "this.playing = false;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "xdesro/true-terrors",
+      "kind": "个人作品集",
+      "fact": "案例模板有 abstract、Discipline、Tenure、theme.fill/theme.contrast，以及可选目录；正文与元数据分开。",
+      "mechanism": "案例首页先给项目概述、参与领域与时间；每个案例可以有受控强调色。",
+      "proposal": "借鉴事实卡与案例色彩规则；原数据继续使用本站 role/credits/status。",
+      "license": "未发现独立代码许可证",
+      "limits": "README 使用商业字体；不能复制字体、作者文案或品牌图形。",
+      "adoptionStatus": "reference-only-no-explicit-license",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Case abstract and metadata organization compared. Local reading navigation is independently written; no template, fonts or personal copy adopted.",
+        "localFiles": [
+          "web/src/ui/CasePage.tsx"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/xdesro/true-terrors",
+        "description": "SS2025 — ✨ Personal site & portfolio for creative developer Henry Desroches ",
+        "defaultBranch": "main",
+        "isArchived": false,
+        "starsAtSearch": 64,
+        "searchLicenseDeclaration": {
+          "key": "",
+          "name": "",
+          "url": ""
+        },
+        "commitSha": "e84aa9c1bd13b7845f8a1b996575be794227994a",
+        "commitDate": "2026-09-08T15:49:03Z",
+        "commitUrl": "https://github.com/xdesro/true-terrors/commit/e84aa9c1bd13b7845f8a1b996575be794227994a",
+        "snapshotRefReturnedByTreeApi": "e84aa9c1bd13b7845f8a1b996575be794227994a"
+      },
+      "licenseStatus": "no-explicit-license-found",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "7fafdfcf48588b0b8823601e29f708c3f8b4fe7f",
+          "upstreamSizeBytes": 2915,
+          "retrievedAt": "2026-09-15T05:56:45.568Z",
+          "httpAccess": "success",
+          "url": "https://github.com/xdesro/true-terrors/blob/e84aa9c1bd13b7845f8a1b996575be794227994a/README.md",
+          "blobApiUrl": "https://api.github.com/repos/xdesro/true-terrors/git/blobs/7fafdfcf48588b0b8823601e29f708c3f8b4fe7f",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 3,
+              "text": "# True Terrors | The Personal Site & Portfolio of Henry Desroches"
+            },
+            {
+              "line": 5,
+              "text": "The ~~best and brightest~~ worst and darkest portfolio/personal site for the Denver-based creative web developer Henry Desroches. Really quite something. [Looking for a resume](https://github.com/xdesro/resume)? [Looking for the previous iteration](https://github.com/xdesro/soon)? [Looking for the version before that](https://github.com/xdesro/vogue)?"
+            },
+            {
+              "line": 7,
+              "text": "## 📝 Colophon"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/_includes/layouts/_case.njk",
+          "upstreamBlobSha": "e9bd9cf3bea2e04682df8fe6867187b507b25cdb",
+          "upstreamSizeBytes": 1886,
+          "retrievedAt": "2026-09-15T05:57:59.445Z",
+          "httpAccess": "success",
+          "url": "https://github.com/xdesro/true-terrors/blob/e84aa9c1bd13b7845f8a1b996575be794227994a/src/_includes/layouts/_case.njk",
+          "blobApiUrl": "https://api.github.com/repos/xdesro/true-terrors/git/blobs/e9bd9cf3bea2e04682df8fe6867187b507b25cdb",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 9,
+              "text": "<header class=\"case-header{% if categories or tenure %} case-header--with-meta{% endif %}\" style=\"--brand-fill: {{ theme.fill }}; --brand-contrast: {{ theme.contrast }}\">"
+            },
+            {
+              "line": 18,
+              "text": "<p class=\"case-header__abstract\">{{ abstract }}</p>"
+            },
+            {
+              "line": 23,
+              "text": "<dt>Discipline</dt>"
+            },
+            {
+              "line": 35,
+              "text": "<dt>Tenure</dt>"
+            },
+            {
+              "line": 42,
+              "text": "{% if hasToc %}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "logotip4ik/portfolio",
+      "kind": "个人作品集",
+      "fact": "项目卡分别提供站内案例与可选 source 链接；有 reduced-motion 分支和 focus-within 高亮；项目正文用 Markdown。",
+      "mechanism": "阅读项目与打开源码分成不同操作；键盘焦点获得同等预览。",
+      "proposal": "目录预览同时支持 hover/focus；原始代码链接独立显示。",
+      "license": "代码 CC0-1.0；图像与项目内容 CC BY-NC-SA-4.0",
+      "limits": "分别核读 LICENSE 与 CC-BY-NC-SA-4.0，不能把 CC0 扩大到案例资产。",
+      "adoptionStatus": "independently-preserved-general-pattern",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Separate case/source affordances and reduced-motion access are retained in the existing portfolio. No Vue component or project content copied.",
+        "localFiles": [
+          "web/src/App.tsx",
+          "web/src/ui/CasePage.tsx"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/logotip4ik/portfolio",
+        "description": "My portfolio website build with Nuxt, Scss and GSAP",
+        "defaultBranch": "v5-nemo",
+        "isArchived": false,
+        "starsAtSearch": 228,
+        "searchLicenseDeclaration": {
+          "key": "cc0-1.0",
+          "name": "Creative Commons Zero v1.0 Universal",
+          "url": "https://api.github.com/licenses/cc0-1.0"
+        },
+        "commitSha": "f9ee705f83150a77ecddefc85859476f5d7d2dc5",
+        "commitDate": "2023-07-30T19:28:56Z",
+        "commitUrl": "https://github.com/logotip4ik/portfolio/commit/f9ee705f83150a77ecddefc85859476f5d7d2dc5",
+        "snapshotRefReturnedByTreeApi": "f9ee705f83150a77ecddefc85859476f5d7d2dc5"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "8f99b493a16ae72517246147ba08b641b1600137",
+          "upstreamSizeBytes": 1732,
+          "retrievedAt": "2026-09-15T05:56:45.568Z",
+          "httpAccess": "success",
+          "url": "https://github.com/logotip4ik/portfolio/blob/f9ee705f83150a77ecddefc85859476f5d7d2dc5/README.md",
+          "blobApiUrl": "https://api.github.com/repos/logotip4ik/portfolio/git/blobs/8f99b493a16ae72517246147ba08b641b1600137",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua/)"
+            },
+            {
+              "line": 13,
+              "text": "## License"
+            },
+            {
+              "line": 15,
+              "text": "- Code is under [CC0 1.0](./LICENSE)"
+            },
+            {
+              "line": 16,
+              "text": "- Images and projects contents are under [CC BY-NC-SA 4.0.](./CC-BY-NC-SA-4.0)"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "0e259d42c996742e9e3cba14c677129b2c1b6311",
+          "upstreamSizeBytes": 7048,
+          "retrievedAt": "2026-09-15T05:56:45.568Z",
+          "httpAccess": "success",
+          "url": "https://github.com/logotip4ik/portfolio/blob/f9ee705f83150a77ecddefc85859476f5d7d2dc5/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/logotip4ik/portfolio/git/blobs/0e259d42c996742e9e3cba14c677129b2c1b6311",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "Creative Commons Legal Code"
+            },
+            {
+              "line": 5,
+              "text": "CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE"
+            },
+            {
+              "line": 7,
+              "text": "ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS"
+            },
+            {
+              "line": 8,
+              "text": "INFORMATION ON AN \"AS-IS\" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "components/V-Projects-Item.vue",
+          "upstreamBlobSha": "d2201a75cd127e2acbdf5a5444c7ffc2f9fcdb22",
+          "upstreamSizeBytes": 4768,
+          "retrievedAt": "2026-09-15T05:57:59.445Z",
+          "httpAccess": "success",
+          "url": "https://github.com/logotip4ik/portfolio/blob/f9ee705f83150a77ecddefc85859476f5d7d2dc5/components/V-Projects-Item.vue",
+          "blobApiUrl": "https://api.github.com/repos/logotip4ik/portfolio/git/blobs/d2201a75cd127e2acbdf5a5444c7ffc2f9fcdb22",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 5,
+              "text": "const prefersReducedMotion = useReducedMotion();"
+            },
+            {
+              "line": 23,
+              "text": "if (!props.project.source) return;"
+            },
+            {
+              "line": 40,
+              "text": "if (!prefersReducedMotion.value)"
+            },
+            {
+              "line": 47,
+              "text": "if (prefersReducedMotion.value)"
+            },
+            {
+              "line": 97,
+              "text": "v-if=\"project.source\""
+            },
+            {
+              "line": 100,
+              "text": ":href=\"project.source\""
+            }
+          ]
+        },
+        {
+          "role": "asset-license",
+          "path": "CC-BY-NC-SA-4.0",
+          "upstreamBlobSha": "cbe5ad1670406e4402217edfb82d2c56af7e8631",
+          "upstreamSizeBytes": 20849,
+          "retrievedAt": "2026-09-15T06:00:03.682Z",
+          "httpAccess": "success",
+          "url": "https://github.com/logotip4ik/portfolio/blob/f9ee705f83150a77ecddefc85859476f5d7d2dc5/CC-BY-NC-SA-4.0",
+          "blobApiUrl": "https://api.github.com/repos/logotip4ik/portfolio/git/blobs/cbe5ad1670406e4402217edfb82d2c56af7e8631",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "Attribution-NonCommercial-ShareAlike 4.0 International"
+            },
+            {
+              "line": 5,
+              "text": "Creative Commons Corporation (\"Creative Commons\") is not a law firm and"
+            },
+            {
+              "line": 7,
+              "text": "Creative Commons public licenses does not create a lawyer-client or"
+            },
+            {
+              "line": 8,
+              "text": "other relationship. Creative Commons makes its licenses and related"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "content/project/portfolio.md",
+          "upstreamBlobSha": "8cdd218a31e4b814fcc186c71b2869b7925599fb",
+          "upstreamSizeBytes": 2338,
+          "retrievedAt": "2026-09-15T06:00:03.682Z",
+          "httpAccess": "success",
+          "url": "https://github.com/logotip4ik/portfolio/blob/f9ee705f83150a77ecddefc85859476f5d7d2dc5/content/project/portfolio.md",
+          "blobApiUrl": "https://api.github.com/repos/logotip4ik/portfolio/git/blobs/8cdd218a31e4b814fcc186c71b2869b7925599fb",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 3,
+              "text": "source: 'https://github.com/logotip4ik/portfolio'"
+            },
+            {
+              "line": 4,
+              "text": "live: 'https://bogdankostyuk.xyz'"
+            },
+            {
+              "line": 13,
+              "text": "previewImage: '/img/portfolio.webp'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "educlopez/Polaris",
+      "kind": "个人作品集模板",
+      "fact": "内容 schema 强制 challenge、solution、results、coverAlt、date 等字段；首页从 site.json 读取身份与经历。",
+      "mechanism": "约束案例数据完整性；将身份、经历、项目和联系数据集中维护。",
+      "proposal": "新增轻量 CaseGuide 关系表和静态校验；不迁移 Astro 或照抄示例结果。",
+      "license": "MIT",
+      "limits": "源码中的 hover 才显示经历不适合直接沿用；访客必须可通过点击或键盘阅读。",
+      "adoptionStatus": "independently-implemented-content-pattern",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Bilingual profile, capabilities and source-linked case relationships built around existing profile facts/WorkDoc. No Astro migration or challenge/solution/results schema copied.",
+        "localFiles": [
+          "web/src/data/profile.ts",
+          "web/src/data/caseRelations.ts",
+          "web/src/ui/StudioProfile.tsx"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/educlopez/Polaris",
+        "description": "Polaris is a sleek and modern portfolio template built with Astro, designed to help designers, developers, and creatives showcase their work with clarity and style. Inspired by the guiding North Star, Polaris puts your projects in the spotlight while keeping the layout clean, responsive, and performance-focused.",
+        "defaultBranch": "main",
+        "isArchived": false,
+        "starsAtSearch": 23,
+        "searchLicenseDeclaration": {
+          "key": "mit",
+          "name": "MIT License",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "commitSha": "c78407dd8e678d10697366a4f11d95030bf7d69f",
+        "commitDate": "2026-07-31T15:27:27Z",
+        "commitUrl": "https://github.com/educlopez/Polaris/commit/c78407dd8e678d10697366a4f11d95030bf7d69f",
+        "snapshotRefReturnedByTreeApi": "c78407dd8e678d10697366a4f11d95030bf7d69f"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "31935a2432b5395bf9e051ca9d736e6fddc243bc",
+          "upstreamSizeBytes": 6384,
+          "retrievedAt": "2026-09-15T05:56:45.568Z",
+          "httpAccess": "success",
+          "url": "https://github.com/educlopez/Polaris/blob/c78407dd8e678d10697366a4f11d95030bf7d69f/README.md",
+          "blobApiUrl": "https://api.github.com/repos/educlopez/Polaris/git/blobs/31935a2432b5395bf9e051ca9d736e6fddc243bc",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 6,
+              "text": "A modern, responsive personal portfolio template built with <a href=\"https://astro.build\">Astro 7</a>."
+            },
+            {
+              "line": 20,
+              "text": "Everything you need to build a stunning personal portfolio website. Polaris is an opinionated Astro template designed for designers and developers who want to showcase their work with a clean, modern aesthetic. Built with performance and user experience in mind, it provides a solid foundation that grows with your career."
+            },
+            {
+              "line": 29,
+              "text": "[MDX](https://mdxjs.com/) - Enhanced markdown for content<br>"
+            },
+            {
+              "line": 32,
+              "text": "[Radix UI](https://www.radix-ui.com/) - Accessible component primitives<br>"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE.md",
+          "upstreamBlobSha": "cf52e20c5fce4b1584d6cd2d791f67fc2316c891",
+          "upstreamSizeBytes": 1088,
+          "retrievedAt": "2026-09-15T05:56:45.568Z",
+          "httpAccess": "success",
+          "url": "https://github.com/educlopez/Polaris/blob/c78407dd8e678d10697366a4f11d95030bf7d69f/LICENSE.md",
+          "blobApiUrl": "https://api.github.com/repos/educlopez/Polaris/git/blobs/cf52e20c5fce4b1584d6cd2d791f67fc2316c891",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "The MIT License (MIT)"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2025 Eduardo Calvo López."
+            },
+            {
+              "line": 5,
+              "text": "Permission is hereby granted, free of charge, to any person obtaining a copy"
+            },
+            {
+              "line": 7,
+              "text": "in the Software without restriction, including without limitation the rights"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/content.config.ts",
+          "upstreamBlobSha": "594b1aa97ef3951737dfb9f8600d94776d39cc0d",
+          "upstreamSizeBytes": 949,
+          "retrievedAt": "2026-09-15T05:57:59.445Z",
+          "httpAccess": "success",
+          "url": "https://github.com/educlopez/Polaris/blob/c78407dd8e678d10697366a4f11d95030bf7d69f/src/content.config.ts",
+          "blobApiUrl": "https://api.github.com/repos/educlopez/Polaris/git/blobs/594b1aa97ef3951737dfb9f8600d94776d39cc0d",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 9,
+              "text": "challenge: z.string(),"
+            },
+            {
+              "line": 18,
+              "text": "results: z.array(z.string()),"
+            },
+            {
+              "line": 19,
+              "text": "solution: z.string(),"
+            },
+            {
+              "line": 22,
+              "text": "coverAlt: z.string(),"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/pages/index.astro",
+          "upstreamBlobSha": "fe10c0319f28b2243f1d98a0c02cdd6d762758be",
+          "upstreamSizeBytes": 3266,
+          "retrievedAt": "2026-09-15T06:03:59.793Z",
+          "httpAccess": "success",
+          "url": "https://github.com/educlopez/Polaris/blob/c78407dd8e678d10697366a4f11d95030bf7d69f/src/pages/index.astro",
+          "blobApiUrl": "https://api.github.com/repos/educlopez/Polaris/git/blobs/fe10c0319f28b2243f1d98a0c02cdd6d762758be",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 3,
+              "text": "import siteConfig from \"@/config/site.json\";"
+            },
+            {
+              "line": 6,
+              "text": "const { company, contact, experience } = siteConfig;"
+            },
+            {
+              "line": 67,
+              "text": "{experience.map((exp) => ("
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "rampatra/photography",
+      "kind": "摄影作品集",
+      "fact": "首页模板按 fulls 原图生成 thumb 链接，缩略图与原图目录分离；README 描述 EXIF 展示与批量缩略图流程。",
+      "mechanism": "浏览图与检查原图分别加载；真实照片元数据可增加内容信息。",
+      "proposal": "保留缩略图→大图流程；不为渲染图虚构 EXIF 或摄影属性。",
+      "license": "GPL-3.0",
+      "limits": "不引入整套 GPL 模板；其空 alt 和示例表单不作为无障碍参考。",
+      "adoptionStatus": "reference-only-existing-gallery-retained",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Compared original/thumbnail separation and provenance. Existing media viewer retained; no EXIF added or GPL template incorporated.",
+        "localFiles": [
+          "web/src/ui/MediaViewer.tsx"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/rampatra/photography",
+        "description": "A free online portfolio website to showcase your photos.",
+        "defaultBranch": "master",
+        "isArchived": false,
+        "starsAtSearch": 1192,
+        "searchLicenseDeclaration": {
+          "key": "gpl-3.0",
+          "name": "GNU General Public License v3.0",
+          "url": "https://api.github.com/licenses/gpl-3.0"
+        },
+        "commitSha": "f2c2d5e18debfbb947ce510d8e7f9ded0520d2f0",
+        "commitDate": "2025-10-28T15:29:45Z",
+        "commitUrl": "https://github.com/rampatra/photography/commit/f2c2d5e18debfbb947ce510d8e7f9ded0520d2f0",
+        "snapshotRefReturnedByTreeApi": "f2c2d5e18debfbb947ce510d8e7f9ded0520d2f0"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "de3ed29c59d53f6e5d2978db9e8166cf7c207c78",
+          "upstreamSizeBytes": 5291,
+          "retrievedAt": "2026-09-15T05:56:51.817Z",
+          "httpAccess": "success",
+          "url": "https://github.com/rampatra/photography/blob/f2c2d5e18debfbb947ce510d8e7f9ded0520d2f0/README.md",
+          "blobApiUrl": "https://api.github.com/repos/rampatra/photography/git/blobs/de3ed29c59d53f6e5d2978db9e8166cf7c207c78",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 20,
+              "text": "3. Upload your pictures to `images/fulls` and `images/thumbs` directory. _You can do that on github.com itself or you can clone and push the images to your repo._"
+            },
+            {
+              "line": 36,
+              "text": "3. `$ gulp` - minify css, js, resize images, etc."
+            },
+            {
+              "line": 38,
+              "text": "Note: You only need to build the website if you make changes such as replacing the images, modifying the css styles, etc."
+            },
+            {
+              "line": 42,
+              "text": "### Resize Images"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "9cecc1d4669ee8af2ca727a5d8cde10cd8b2d7cc",
+          "upstreamSizeBytes": 35141,
+          "retrievedAt": "2026-09-15T05:56:51.817Z",
+          "httpAccess": "success",
+          "url": "https://github.com/rampatra/photography/blob/f2c2d5e18debfbb947ce510d8e7f9ded0520d2f0/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/rampatra/photography/git/blobs/9cecc1d4669ee8af2ca727a5d8cde10cd8b2d7cc",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "GNU GENERAL PUBLIC LICENSE"
+            },
+            {
+              "line": 4,
+              "text": "Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>"
+            },
+            {
+              "line": 5,
+              "text": "Everyone is permitted to copy and distribute verbatim copies"
+            },
+            {
+              "line": 10,
+              "text": "The GNU General Public License is a free, copyleft license for"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "index.html",
+          "upstreamBlobSha": "48c7303840af959c7355d9a6bf45c3d3a42c7dd4",
+          "upstreamSizeBytes": 5831,
+          "retrievedAt": "2026-09-15T05:59:43.127Z",
+          "httpAccess": "success",
+          "url": "https://github.com/rampatra/photography/blob/f2c2d5e18debfbb947ce510d8e7f9ded0520d2f0/index.html",
+          "blobApiUrl": "https://api.github.com/repos/rampatra/photography/git/blobs/48c7303840af959c7355d9a6bf45c3d3a42c7dd4",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 19,
+              "text": "<div id=\"main\" data-exif='{{ site.exif }}'>"
+            },
+            {
+              "line": 21,
+              "text": "{% if image.path contains 'fulls' %}"
+            },
+            {
+              "line": 23,
+              "text": "<a href=\"{{ site.baseurl }}{{ site.image_fulls_loc }}/{{ image.name }}\" class=\"image\">"
+            },
+            {
+              "line": 24,
+              "text": "<img src=\"{{ site.baseurl }}{{ site.image_thumbs_loc }}/{{ image.name }}\" alt=\"\""
+            },
+            {
+              "line": 39,
+              "text": "<p>{{ site.footer.bio }}</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "JoaoFranco03/photography-portfolio",
+      "kind": "摄影作品集模板",
+      "fact": "首页以作品/关于/联系三入口组织，图片通过统一 data-fancybox 组成图集，并提供具体 alt。",
+      "mechanism": "清晰导航与统一图集入口；使用明确图像说明。",
+      "proposal": "仅参考导航与图片语义，不拷贝模板代码或 Unsplash 示例资产。",
+      "license": "许可冲突：LICENSE 为 MIT；README 写 GPL-3.0",
+      "limits": "两处声明不一致，未擅自选择更宽松许可；复用需作者澄清。",
+      "adoptionStatus": "not-adopted-license-conflict",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "No source, gallery library or assets incorporated because license statements conflict.",
+        "localFiles": [],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/JoaoFranco03/photography-portfolio",
+        "description": "📷 A Website created using Tailwind CSS, HTML, CSS and JavaScript that can be used as a Photographer Portfolio.",
+        "defaultBranch": "main",
+        "isArchived": false,
+        "starsAtSearch": 469,
+        "searchLicenseDeclaration": {
+          "key": "mit",
+          "name": "MIT License",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "commitSha": "9de2a6633f4bca2c2166ff788c132fc2cf2564d9",
+        "commitDate": "2024-12-28T22:47:05Z",
+        "commitUrl": "https://github.com/JoaoFranco03/photography-portfolio/commit/9de2a6633f4bca2c2166ff788c132fc2cf2564d9",
+        "snapshotRefReturnedByTreeApi": "9de2a6633f4bca2c2166ff788c132fc2cf2564d9"
+      },
+      "licenseStatus": "conflicting-statements",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "5a0dd3e2b38652b4fbffda9d0823b24cc278cbf4",
+          "upstreamSizeBytes": 7180,
+          "retrievedAt": "2026-09-15T05:56:51.817Z",
+          "httpAccess": "success",
+          "url": "https://github.com/JoaoFranco03/photography-portfolio/blob/9de2a6633f4bca2c2166ff788c132fc2cf2564d9/README.md",
+          "blobApiUrl": "https://api.github.com/repos/JoaoFranco03/photography-portfolio/git/blobs/5a0dd3e2b38652b4fbffda9d0823b24cc278cbf4",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 44,
+              "text": "<!-- TABLE OF CONTENTS -->"
+            },
+            {
+              "line": 46,
+              "text": "<summary>Table of Contents</summary>"
+            },
+            {
+              "line": 64,
+              "text": "<li><a href=\"#license\">License</a></li>"
+            },
+            {
+              "line": 134,
+              "text": "<!-- LICENSE -->"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "998dfdfb8c858660f81fefa295a6860444873602",
+          "upstreamSizeBytes": 1069,
+          "retrievedAt": "2026-09-15T05:56:51.817Z",
+          "httpAccess": "success",
+          "url": "https://github.com/JoaoFranco03/photography-portfolio/blob/9de2a6633f4bca2c2166ff788c132fc2cf2564d9/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/JoaoFranco03/photography-portfolio/git/blobs/998dfdfb8c858660f81fefa295a6860444873602",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "MIT License"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2023 João Franco"
+            },
+            {
+              "line": 5,
+              "text": "Permission is hereby granted, free of charge, to any person obtaining a copy"
+            },
+            {
+              "line": 7,
+              "text": "in the Software without restriction, including without limitation the rights"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "index.html",
+          "upstreamBlobSha": "a2cd9fe7c7393bdc61125f525d120c56e54e7dc0",
+          "upstreamSizeBytes": 26081,
+          "retrievedAt": "2026-09-15T05:59:43.127Z",
+          "httpAccess": "success",
+          "url": "https://github.com/JoaoFranco03/photography-portfolio/blob/9de2a6633f4bca2c2166ff788c132fc2cf2564d9/index.html",
+          "blobApiUrl": "https://api.github.com/repos/JoaoFranco03/photography-portfolio/git/blobs/a2cd9fe7c7393bdc61125f525d120c56e54e7dc0",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 79,
+              "text": "<a href=\"index.html\" class=\"font-signika text-2xl tap-highlight-transparent\">PORTFOLIO"
+            },
+            {
+              "line": 84,
+              "text": "<a href=\"dist/about_me.html\" class=\"font-signika text-2xl tap-highlight-transparent\">ABOUT ME"
+            },
+            {
+              "line": 90,
+              "text": "<a href=\"dist/contact.html\" class=\"font-signika text-2xl tap-highlight-transparent\">CONTACT"
+            },
+            {
+              "line": 102,
+              "text": "<h1 class=\"text-4xl pt-10 pb-8 font-bold\">PORTFOLIO</h1>"
+            },
+            {
+              "line": 110,
+              "text": "data-fancybox=\"gallery\">"
+            },
+            {
+              "line": 111,
+              "text": "<img alt=\"a person standing in front of a rock formation\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "andyzg/gallery",
+      "kind": "摄影与模型图集",
+      "fact": "Config 按 album 保存照片；Renderer 将数据与布局分开；VerticalRenderer 按当前最短列放图，压缩图与原图分别处理。",
+      "mechanism": "相册/项目是内容单位；图像比例决定排布而非每张统一裁切。",
+      "proposal": "案例按场景/细部/结构组织；保留原图比例，用 CSS Grid 独立实现。",
+      "license": "MIT",
+      "limits": "示例不保证图片权利与无障碍完整性；不移植 innerHTML 拼装与随机排序。",
+      "adoptionStatus": "reference-only-gallery-pattern",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Image ratios and grouped reading informed layout review; no image-processing/gallery configuration framework installed.",
+        "localFiles": [],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/andyzg/gallery",
+        "description": "Visual Portfolio Generator with no extra installation",
+        "defaultBranch": "gh-pages",
+        "isArchived": false,
+        "starsAtSearch": 378,
+        "searchLicenseDeclaration": {
+          "key": "mit",
+          "name": "MIT License",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "commitSha": "a2cde3140b27b3164ec1ceb4226c7707eda7aba6",
+        "commitDate": "2020-08-05T18:40:31Z",
+        "commitUrl": "https://github.com/andyzg/gallery/commit/a2cde3140b27b3164ec1ceb4226c7707eda7aba6",
+        "snapshotRefReturnedByTreeApi": "a2cde3140b27b3164ec1ceb4226c7707eda7aba6"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "1ed71edd776b20813c11ddf0bb92c36645a58065",
+          "upstreamSizeBytes": 4074,
+          "retrievedAt": "2026-09-15T05:56:51.817Z",
+          "httpAccess": "success",
+          "url": "https://github.com/andyzg/gallery/blob/a2cde3140b27b3164ec1ceb4226c7707eda7aba6/README.md",
+          "blobApiUrl": "https://api.github.com/repos/andyzg/gallery/git/blobs/1ed71edd776b20813c11ddf0bb92c36645a58065",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 16,
+              "text": "- Replace contents of `/photos` with all of your albums. For each of your albums, create a folder with the same name as your album name, and then put all of your photos in the folder."
+            },
+            {
+              "line": 29,
+              "text": "- Personalize the contents at the bottom of `_config.yml`."
+            },
+            {
+              "line": 30,
+              "text": "- Commit all of your changes and then push all of your changes to Github by running"
+            },
+            {
+              "line": 33,
+              "text": "$ git commit -am \"Create my first gallery\"  # This saves all of your changes"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "8f76643b8734b7ae6563c07fb8d131dca5a207c9",
+          "upstreamSizeBytes": 1067,
+          "retrievedAt": "2026-09-15T05:56:51.817Z",
+          "httpAccess": "success",
+          "url": "https://github.com/andyzg/gallery/blob/a2cde3140b27b3164ec1ceb4226c7707eda7aba6/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/andyzg/gallery/git/blobs/8f76643b8734b7ae6563c07fb8d131dca5a207c9",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "MIT License"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2017 Andy Zhang"
+            },
+            {
+              "line": 5,
+              "text": "Permission is hereby granted, free of charge, to any person obtaining a copy"
+            },
+            {
+              "line": 7,
+              "text": "in the Software without restriction, including without limitation the rights"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "js/gallery.js",
+          "upstreamBlobSha": "e710fd71e4d018f50b27746046b226d93049f9ad",
+          "upstreamSizeBytes": 10390,
+          "retrievedAt": "2026-09-15T05:59:43.127Z",
+          "httpAccess": "success",
+          "url": "https://github.com/andyzg/gallery/blob/a2cde3140b27b3164ec1ceb4226c7707eda7aba6/js/gallery.js",
+          "blobApiUrl": "https://api.github.com/repos/andyzg/gallery/git/blobs/e710fd71e4d018f50b27746046b226d93049f9ad",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 5,
+              "text": "class Config {"
+            },
+            {
+              "line": 14,
+              "text": "photos(album) {"
+            },
+            {
+              "line": 22,
+              "text": "class Renderer {"
+            },
+            {
+              "line": 65,
+              "text": "image.src = photo.placeholderSrc();"
+            },
+            {
+              "line": 79,
+              "text": "class VerticalRenderer extends Renderer {"
+            },
+            {
+              "line": 145,
+              "text": "var smallestIndex = 0;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "ECarry/photography-website",
+      "kind": "摄影作品集",
+      "fact": "SliderView 对第一张图 eager/high、其余 lazy；有空态；ProfileCard 从 siteConfig 获取身份与联系链接。",
+      "mechanism": "第一张主图优先；身份信息只有一个来源；加载与空状态明确。",
+      "proposal": "用于首页主图和联系区；不引入其账号、地图、数据库和照片后台。",
+      "license": "MIT",
+      "limits": "读取的是具体组件行为，不将 README 技术版本或性能营销语当作本站已验证事实。",
+      "adoptionStatus": "independently-implemented-loading-pattern",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Hero image eager, later project thumbnails lazy, identity facts read through profile data. No carousel or Next image module adopted.",
+        "localFiles": [
+          "web/src/ui/Studio.tsx",
+          "web/src/App.tsx",
+          "web/src/data/profile.ts"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/ECarry/photography-website",
+        "description": "A modern photography portfolio website built with Next.js 16 featuring interactive maps photo management and a comprehensive dashboard.",
+        "defaultBranch": "main",
+        "isArchived": false,
+        "starsAtSearch": 365,
+        "searchLicenseDeclaration": {
+          "key": "mit",
+          "name": "MIT License",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "commitSha": "1b987df6a66b3731dd15060f6abe28969793f553",
+        "commitDate": "2026-09-11T16:05:01Z",
+        "commitUrl": "https://github.com/ECarry/photography-website/commit/1b987df6a66b3731dd15060f6abe28969793f553",
+        "snapshotRefReturnedByTreeApi": "1b987df6a66b3731dd15060f6abe28969793f553"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "b2c058504bcdded0334c2b185ee4aaa8c9e2ef54",
+          "upstreamSizeBytes": 14935,
+          "retrievedAt": "2026-09-15T05:56:51.817Z",
+          "httpAccess": "success",
+          "url": "https://github.com/ECarry/photography-website/blob/1b987df6a66b3731dd15060f6abe28969793f553/README.md",
+          "blobApiUrl": "https://api.github.com/repos/ECarry/photography-website/git/blobs/b2c058504bcdded0334c2b185ee4aaa8c9e2ef54",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 38,
+              "text": "All personal branding is centralized in **one file**: `src/site.config.ts`. Edit it to make the site your own:"
+            },
+            {
+              "line": 51,
+              "text": "| `mapbox`      | Custom Mapbox style URLs for light/dark themes                          |"
+            },
+            {
+              "line": 395,
+              "text": "- Never commit `.env` files"
+            },
+            {
+              "line": 407,
+              "text": "- Set upload size limits"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "d4d0951578ab903f2227ec35a4926a8746ff7b82",
+          "upstreamSizeBytes": 1069,
+          "retrievedAt": "2026-09-15T05:56:51.817Z",
+          "httpAccess": "success",
+          "url": "https://github.com/ECarry/photography-website/blob/1b987df6a66b3731dd15060f6abe28969793f553/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/ECarry/photography-website/git/blobs/d4d0951578ab903f2227ec35a4926a8746ff7b82",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "MIT License"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2024-present Sera"
+            },
+            {
+              "line": 5,
+              "text": "Permission is hereby granted, free of charge, to any person obtaining a copy"
+            },
+            {
+              "line": 7,
+              "text": "in the Software without restriction, including without limitation the rights"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/modules/home/ui/views/slider-view.tsx",
+          "upstreamBlobSha": "526da45b478b4ef0fd27ff31b2260603b0126b9d",
+          "upstreamSizeBytes": 2086,
+          "retrievedAt": "2026-09-15T05:59:43.127Z",
+          "httpAccess": "success",
+          "url": "https://github.com/ECarry/photography-website/blob/1b987df6a66b3731dd15060f6abe28969793f553/src/modules/home/ui/views/slider-view.tsx",
+          "blobApiUrl": "https://api.github.com/repos/ECarry/photography-website/git/blobs/526da45b478b4ef0fd27ff31b2260603b0126b9d",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 21,
+              "text": "if (photos.length === 0) {"
+            },
+            {
+              "line": 43,
+              "text": "const isFirstSlide = index === 0;"
+            },
+            {
+              "line": 52,
+              "text": "loading={isFirstSlide ? \"eager\" : \"lazy\"}"
+            },
+            {
+              "line": 53,
+              "text": "fetchPriority={isFirstSlide ? \"high\" : undefined}"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/modules/home/ui/components/profile-card.tsx",
+          "upstreamBlobSha": "9d8cfb150d02c80db483943d8dcb05e1015f9d9d",
+          "upstreamSizeBytes": 2262,
+          "retrievedAt": "2026-09-15T05:59:47.990Z",
+          "httpAccess": "success",
+          "url": "https://github.com/ECarry/photography-website/blob/1b987df6a66b3731dd15060f6abe28969793f553/src/modules/home/ui/components/profile-card.tsx",
+          "blobApiUrl": "https://api.github.com/repos/ECarry/photography-website/git/blobs/9d8cfb150d02c80db483943d8dcb05e1015f9d9d",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 8,
+              "text": "import { siteConfig } from \"@/site.config\";"
+            },
+            {
+              "line": 21,
+              "text": "<AvatarImage src={siteConfig.avatar} alt=\"Avatar\" />"
+            },
+            {
+              "line": 22,
+              "text": "<AvatarFallback>{siteConfig.initials}</AvatarFallback>"
+            },
+            {
+              "line": 27,
+              "text": "<h1 className=\"text-lg\">{siteConfig.name}</h1>"
+            },
+            {
+              "line": 28,
+              "text": "<p className=\"text-sm text-text-muted\">{siteConfig.role}</p>"
+            },
+            {
+              "line": 33,
+              "text": "<p className=\"text-text-muted text-[15px]\">{siteConfig.bio}</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "LekoArts/gatsby-starter-portfolio-emilia",
+      "kind": "摄影作品集模板",
+      "fact": "gatsby-config 指向 Emilia 主题；README 的项目规范用 cover/date/title/areas/slug，并支持独立 about 文案。",
+      "mechanism": "封面、参与领域、日期和稳定链接成为最小项目身份。",
+      "proposal": "保留现有 Markdown，完善元数据校验和摘要入口。",
+      "license": "0BSD",
+      "limits": "核心渲染在外部 theme 包；本轮只核读 starter 配置与内容规范，未声称运行主题。",
+      "adoptionStatus": "reference-only-content-contract",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Slug, cover and areas reviewed at starter/config level. Existing Markdown and WorkDoc retained; external theme runtime not reviewed or installed.",
+        "localFiles": [],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/LekoArts/gatsby-starter-portfolio-emilia",
+        "description": "Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Includes Light/Dark mode.",
+        "defaultBranch": "master",
+        "isArchived": true,
+        "starsAtSearch": 357,
+        "searchLicenseDeclaration": {
+          "key": "0bsd",
+          "name": "BSD Zero Clause License",
+          "url": "https://api.github.com/licenses/0bsd"
+        },
+        "commitSha": "616037c5207da1b111eef0c22ef2d3bea9e9b7dd",
+        "commitDate": "2025-06-26T07:47:34Z",
+        "commitUrl": "https://github.com/LekoArts/gatsby-starter-portfolio-emilia/commit/616037c5207da1b111eef0c22ef2d3bea9e9b7dd",
+        "snapshotRefReturnedByTreeApi": "616037c5207da1b111eef0c22ef2d3bea9e9b7dd"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "facd5b816722cefa887125ebdaf98903119a02e2",
+          "upstreamSizeBytes": 6749,
+          "retrievedAt": "2026-09-15T05:56:56.850Z",
+          "httpAccess": "success",
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-emilia/blob/616037c5207da1b111eef0c22ef2d3bea9e9b7dd/README.md",
+          "blobApiUrl": "https://api.github.com/repos/LekoArts/gatsby-starter-portfolio-emilia/git/blobs/facd5b816722cefa887125ebdaf98903119a02e2",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 11,
+              "text": "<a href=\"https://github.com/LekoArts/gatsby-starter-portfolio-emilia/blob/master/LICENSE\">"
+            },
+            {
+              "line": 12,
+              "text": "<img src=\"https://img.shields.io/badge/license-0BSD-blue.svg\" alt=\"Gatsby Starter Portfolio: Emilia is released under the 0BSD license.\" />"
+            },
+            {
+              "line": 25,
+              "text": "Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Using the Gatsby Theme [`@lekoarts/gatsby-theme-emilia`](https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-emilia)."
+            },
+            {
+              "line": 29,
+              "text": "Also be sure to check out other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) and my [Personal Website](https://www.lekoarts.de?utm_source=emilia&utm_medium=Starter)."
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "533094f33c826688ee6e4e4bb8a2acb3e73f09a7",
+          "upstreamSizeBytes": 684,
+          "retrievedAt": "2026-09-15T05:56:56.850Z",
+          "httpAccess": "success",
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-emilia/blob/616037c5207da1b111eef0c22ef2d3bea9e9b7dd/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/LekoArts/gatsby-starter-portfolio-emilia/git/blobs/533094f33c826688ee6e4e4bb8a2acb3e73f09a7",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "The BSD Zero Clause License (0BSD)"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2023 LekoArts"
+            },
+            {
+              "line": 5,
+              "text": "Permission to use, copy, modify, and/or distribute this software for any"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "gatsby-config.ts",
+          "upstreamBlobSha": "c0735ac2b98fbb91e15ef2da888a182ddee8e89f",
+          "upstreamSizeBytes": 2408,
+          "retrievedAt": "2026-09-15T05:59:47.990Z",
+          "httpAccess": "success",
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-emilia/blob/616037c5207da1b111eef0c22ef2d3bea9e9b7dd/gatsby-config.ts",
+          "blobApiUrl": "https://api.github.com/repos/LekoArts/gatsby-starter-portfolio-emilia/git/blobs/c0735ac2b98fbb91e15ef2da888a182ddee8e89f",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 7,
+              "text": "siteMetadata: {"
+            },
+            {
+              "line": 10,
+              "text": "// See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-emilia-core/gatsby-config.mjs"
+            },
+            {
+              "line": 15,
+              "text": "siteDescription: `Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Includes Light/Dark mode.`,"
+            },
+            {
+              "line": 17,
+              "text": "siteLanguage: `en`,"
+            },
+            {
+              "line": 23,
+              "text": "resolve: `@lekoarts/gatsby-theme-emilia`,"
+            },
+            {
+              "line": 36,
+              "text": "name: `Emilia - @lekoarts/gatsby-theme-emilia`,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "LekoArts/gatsby-starter-portfolio-jodie",
+      "kind": "摄影作品集模板",
+      "fact": "MDX 包含 title/shortTitle/category/color/cover/date；modify-grid 接收带 slug、title、cover、类型的数组。",
+      "mechanism": "短标题供目录、长标题供案例；颜色与分类分开；展示顺序可策展。",
+      "proposal": "宽图窄图交错但 DOM 阅读顺序稳定；每个项目可选强调色。",
+      "license": "0BSD",
+      "limits": "README 的对比度主张未在本站实测；实际颜色仍需独立检查。",
+      "adoptionStatus": "reference-only-content-contract",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Curated order and image-scale contrast inform editorial choices; no modify-grid or theme package copied/installed.",
+        "localFiles": [
+          "web/src/ui/Studio.tsx",
+          "web/src/studio.css"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/LekoArts/gatsby-starter-portfolio-jodie",
+        "description": "Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.",
+        "defaultBranch": "master",
+        "isArchived": true,
+        "starsAtSearch": 348,
+        "searchLicenseDeclaration": {
+          "key": "0bsd",
+          "name": "BSD Zero Clause License",
+          "url": "https://api.github.com/licenses/0bsd"
+        },
+        "commitSha": "f023db23e3d4c157741c92d2e54d6027922dc830",
+        "commitDate": "2025-06-26T07:47:38Z",
+        "commitUrl": "https://github.com/LekoArts/gatsby-starter-portfolio-jodie/commit/f023db23e3d4c157741c92d2e54d6027922dc830",
+        "snapshotRefReturnedByTreeApi": "f023db23e3d4c157741c92d2e54d6027922dc830"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "863242cbf9f64d74e978467efd45ae227eea32bb",
+          "upstreamSizeBytes": 9955,
+          "retrievedAt": "2026-09-15T05:56:56.850Z",
+          "httpAccess": "success",
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-jodie/blob/f023db23e3d4c157741c92d2e54d6027922dc830/README.md",
+          "blobApiUrl": "https://api.github.com/repos/LekoArts/gatsby-starter-portfolio-jodie/git/blobs/863242cbf9f64d74e978467efd45ae227eea32bb",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 11,
+              "text": "<a href=\"https://github.com/LekoArts/gatsby-starter-portfolio-jodie/blob/master/LICENSE\">"
+            },
+            {
+              "line": 12,
+              "text": "<img src=\"https://img.shields.io/badge/license-0BSD-blue.svg\" alt=\"Gatsby Starter Portfolio: Jodie is released under the 0BSD license.\" />"
+            },
+            {
+              "line": 25,
+              "text": "Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects. Using the Gatsby Theme [`@lekoarts/gatsby-theme-jodie`](https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-jodie)."
+            },
+            {
+              "line": 29,
+              "text": "Also be sure to check out other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) and my [Personal Website](https://www.lekoarts.de?utm_source=jodie&utm_medium=Starter)."
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "382eae8b0224d345ab6fae8a8ab8f555b85fd408",
+          "upstreamSizeBytes": 672,
+          "retrievedAt": "2026-09-15T05:56:56.850Z",
+          "httpAccess": "success",
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-jodie/blob/f023db23e3d4c157741c92d2e54d6027922dc830/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/LekoArts/gatsby-starter-portfolio-jodie/git/blobs/382eae8b0224d345ab6fae8a8ab8f555b85fd408",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "The BSD Zero Clause License (0BSD)"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2023 LekoArts"
+            },
+            {
+              "line": 5,
+              "text": "Permission to use, copy, modify, and/or distribute this software for any"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/@lekoarts/gatsby-theme-jodie/utils/modify-grid.ts",
+          "upstreamBlobSha": "aad50c20fa401140f628644d3694ac0db68660a7",
+          "upstreamSizeBytes": 337,
+          "retrievedAt": "2026-09-15T05:59:47.990Z",
+          "httpAccess": "success",
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-jodie/blob/f023db23e3d4c157741c92d2e54d6027922dc830/src/%40lekoarts/gatsby-theme-jodie/utils/modify-grid.ts",
+          "blobApiUrl": "https://api.github.com/repos/LekoArts/gatsby-starter-portfolio-jodie/git/blobs/aad50c20fa401140f628644d3694ac0db68660a7",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 11,
+              "text": "__typename: \"MdxProject\" | \"MdxPage\""
+            },
+            {
+              "line": 14,
+              "text": "const modifyGrid = (data: Array<IGridItem>): Array<IGridItem> => data"
+            },
+            {
+              "line": 16,
+              "text": "export default modifyGrid"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "content/projects/neon/index.mdx",
+          "upstreamBlobSha": "510924def47061fb721866acb4436126c99224f2",
+          "upstreamSizeBytes": 658,
+          "retrievedAt": "2026-09-15T06:03:59.793Z",
+          "httpAccess": "success",
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-jodie/blob/f023db23e3d4c157741c92d2e54d6027922dc830/content/projects/neon/index.mdx",
+          "blobApiUrl": "https://api.github.com/repos/LekoArts/gatsby-starter-portfolio-jodie/git/blobs/510924def47061fb721866acb4436126c99224f2",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 3,
+              "text": "shortTitle: \"Extreme Neon\""
+            },
+            {
+              "line": 4,
+              "text": "category: \"Trend\""
+            },
+            {
+              "line": 5,
+              "text": "color: \"#90BDDF\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "LekoArts/gatsby-starter-portfolio-emma",
+      "kind": "摄影作品集模板",
+      "fact": "示例 MDX 将 client/title/cover/date/service/color 放在 frontmatter，正文独立；README 定义自动导航的附加页面。",
+      "mechanism": "职责/服务与客户字段分离；关于、联系与项目正文不混写。",
+      "proposal": "将 role/credits/status 放在案例事实区，并保留明确下载入口。",
+      "license": "0BSD",
+      "limits": "示例包含虚构人物和测试段落；只能参考结构，不能作为个人履历。",
+      "adoptionStatus": "reference-only-content-contract",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Separation of role, client and narrative compared; local role/credits/status facts retained. External theme not installed.",
+        "localFiles": [
+          "web/src/ui/CasePage.tsx"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/LekoArts/gatsby-starter-portfolio-emma",
+        "description": "Minimalistic portfolio with full-width grid, page transitions, support for additional MDX pages, and a focus on large images. Especially designers and/or photographers will love this theme! Built with MDX and Theme UI.",
+        "defaultBranch": "master",
+        "isArchived": true,
+        "starsAtSearch": 279,
+        "searchLicenseDeclaration": {
+          "key": "0bsd",
+          "name": "BSD Zero Clause License",
+          "url": "https://api.github.com/licenses/0bsd"
+        },
+        "commitSha": "6ac22235ef6a19e23a4c3027f18cf9bc7fce4111",
+        "commitDate": "2025-06-26T07:47:36Z",
+        "commitUrl": "https://github.com/LekoArts/gatsby-starter-portfolio-emma/commit/6ac22235ef6a19e23a4c3027f18cf9bc7fce4111",
+        "snapshotRefReturnedByTreeApi": "6ac22235ef6a19e23a4c3027f18cf9bc7fce4111"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "58d72fbf438f0793b07989ee6eb9fab0bfc57b81",
+          "upstreamSizeBytes": 6768,
+          "retrievedAt": "2026-09-15T05:56:56.850Z",
+          "httpAccess": "success",
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-emma/blob/6ac22235ef6a19e23a4c3027f18cf9bc7fce4111/README.md",
+          "blobApiUrl": "https://api.github.com/repos/LekoArts/gatsby-starter-portfolio-emma/git/blobs/58d72fbf438f0793b07989ee6eb9fab0bfc57b81",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 11,
+              "text": "<a href=\"https://github.com/LekoArts/gatsby-starter-portfolio-emma/blob/master/LICENSE\">"
+            },
+            {
+              "line": 12,
+              "text": "<img src=\"https://img.shields.io/badge/license-0BSD-blue.svg\" alt=\"Gatsby Starter Portfolio: Emma is released under the 0BSD license.\" />"
+            },
+            {
+              "line": 25,
+              "text": "Minimalistic portfolio with full-width grid, page transitions, support for additional MDX pages, and a focus on large images. Using the Gatsby Theme [`@lekoarts/gatsby-theme-emma`](https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-emma)."
+            },
+            {
+              "line": 29,
+              "text": "Also be sure to check out other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) and my [Personal Website](https://www.lekoarts.de?utm_source=emma&utm_medium=Starter)."
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "533094f33c826688ee6e4e4bb8a2acb3e73f09a7",
+          "upstreamSizeBytes": 684,
+          "retrievedAt": "2026-09-15T05:56:56.850Z",
+          "httpAccess": "success",
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-emma/blob/6ac22235ef6a19e23a4c3027f18cf9bc7fce4111/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/LekoArts/gatsby-starter-portfolio-emma/git/blobs/533094f33c826688ee6e4e4bb8a2acb3e73f09a7",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "The BSD Zero Clause License (0BSD)"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2023 LekoArts"
+            },
+            {
+              "line": 5,
+              "text": "Permission to use, copy, modify, and/or distribute this software for any"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "content/projects/emma/index.mdx",
+          "upstreamBlobSha": "0890e2d2f07e96cd5d0d595c84bb40c2fc0a0a54",
+          "upstreamSizeBytes": 2705,
+          "retrievedAt": "2026-09-15T06:03:59.793Z",
+          "httpAccess": "success",
+          "url": "https://github.com/LekoArts/gatsby-starter-portfolio-emma/blob/6ac22235ef6a19e23a4c3027f18cf9bc7fce4111/content/projects/emma/index.mdx",
+          "blobApiUrl": "https://api.github.com/repos/LekoArts/gatsby-starter-portfolio-emma/git/blobs/0890e2d2f07e96cd5d0d595c84bb40c2fc0a0a54",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 2,
+              "text": "client: \"Hogwarts\""
+            },
+            {
+              "line": 3,
+              "text": "title: \"Hermione Granger\""
+            },
+            {
+              "line": 4,
+              "text": "cover: \"./emma.jpg\""
+            },
+            {
+              "line": 5,
+              "text": "date: \"2019-06-10\""
+            },
+            {
+              "line": 6,
+              "text": "service: \"Witchcraft\""
+            },
+            {
+              "line": 7,
+              "text": "color: \"#8e9d31\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "codrops/OnScrollTypographyAnimations",
+      "kind": "动效源码",
+      "fact": "源码按 data-effect1 到 data-effect15 分组，对拆分文字施加不同滚动与旋转效果。",
+      "mechanism": "标题可以建立进入节奏；效果与具体节点明确绑定。",
+      "proposal": "只选择一个短标题揭示方案；中文正文不拆字滚动。",
+      "license": "MIT",
+      "limits": "示例图片来自 Unsplash；演示数量不等于应在作品集中全部使用。",
+      "adoptionStatus": "independently-implemented-limited-motion",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Large decorative type has scroll-linked displacement; no 15-effect collection or Chinese text splitting adopted.",
+        "localFiles": [
+          "web/src/ui/Studio.tsx"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/codrops/OnScrollTypographyAnimations",
+        "description": "Inspiration and ideas for on-scroll typography animations that add an extra layer of creativity to a website design.",
+        "defaultBranch": "main",
+        "isArchived": false,
+        "starsAtSearch": 343,
+        "searchLicenseDeclaration": {
+          "key": "mit",
+          "name": "MIT License",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "commitSha": "af28d61d1f8d3d117f5d1e9b09d5209e20a1a212",
+        "commitDate": "2024-01-18T20:25:19Z",
+        "commitUrl": "https://github.com/codrops/OnScrollTypographyAnimations/commit/af28d61d1f8d3d117f5d1e9b09d5209e20a1a212",
+        "snapshotRefReturnedByTreeApi": "af28d61d1f8d3d117f5d1e9b09d5209e20a1a212"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "484415e42626a956d9fdff38c7163ec97d3e9aa7",
+          "upstreamSizeBytes": 936,
+          "retrievedAt": "2026-09-15T05:56:56.850Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/OnScrollTypographyAnimations/blob/af28d61d1f8d3d117f5d1e9b09d5209e20a1a212/README.md",
+          "blobApiUrl": "https://api.github.com/repos/codrops/OnScrollTypographyAnimations/git/blobs/484415e42626a956d9fdff38c7163ec97d3e9aa7",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 5,
+              "text": "![Image Title](https://tympanus.net/codrops/wp-content/uploads/2023/01/OnScrollTypographyAnimations__feat.jpg)"
+            },
+            {
+              "line": 34,
+              "text": "- Images from [Unsplash](https://unsplash.com/)"
+            },
+            {
+              "line": 40,
+              "text": "## License"
+            },
+            {
+              "line": 41,
+              "text": "[MIT](LICENSE)"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "b045fc89c48fe9de1ea832f99577a4917aa43dd5",
+          "upstreamSizeBytes": 1103,
+          "retrievedAt": "2026-09-15T05:56:56.850Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/OnScrollTypographyAnimations/blob/af28d61d1f8d3d117f5d1e9b09d5209e20a1a212/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/codrops/OnScrollTypographyAnimations/git/blobs/b045fc89c48fe9de1ea832f99577a4917aa43dd5",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "MIT License"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2009 - 2022 [Codrops](https://tympanus.net/codrops)"
+            },
+            {
+              "line": 5,
+              "text": "Permission is hereby granted, free of charge, to any person obtaining a copy"
+            },
+            {
+              "line": 7,
+              "text": "in the Software without restriction, including without limitation the rights"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/js/index.js",
+          "upstreamBlobSha": "277b9ea0bce82739ac127341f994d8825170bf07",
+          "upstreamSizeBytes": 15115,
+          "retrievedAt": "2026-09-15T05:59:47.990Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/OnScrollTypographyAnimations/blob/af28d61d1f8d3d117f5d1e9b09d5209e20a1a212/src/js/index.js",
+          "blobApiUrl": "https://api.github.com/repos/codrops/OnScrollTypographyAnimations/git/blobs/277b9ea0bce82739ac127341f994d8825170bf07",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 21,
+              "text": "const fx1Titles = [...document.querySelectorAll('.content__title[data-splitting][data-effect1]')];"
+            },
+            {
+              "line": 22,
+              "text": "const fx2Titles = [...document.querySelectorAll('.content__title[data-splitting][data-effect2]')];"
+            },
+            {
+              "line": 23,
+              "text": "const fx3Titles = [...document.querySelectorAll('.content__title[data-splitting][data-effect3]')];"
+            },
+            {
+              "line": 24,
+              "text": "const fx4Titles = [...document.querySelectorAll('.content__title[data-splitting][data-effect4]')];"
+            },
+            {
+              "line": 25,
+              "text": "const fx5Titles = [...document.querySelectorAll('.content__title[data-splitting][data-effect5]')];"
+            },
+            {
+              "line": 82,
+              "text": "scrub: true"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "codrops/ImageExpansionTypography",
+      "kind": "动效源码",
+      "fact": "effect-1 先测量 type--open 状态，再以 Flip/ScrollTrigger 将文字内图像展开。",
+      "mechanism": "从标题中的小图进入作品主视觉，保持图像身份连续。",
+      "proposal": "作为首页唯一主转场，使用本站原图、Motion/CSS，减少依赖。",
+      "license": "MIT",
+      "limits": "README 明确演示图来自 Midjourney；不能把它们当真实摄影或自己的项目。",
+      "adoptionStatus": "composition-reference-only",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Large type and project image composition only. Type-inside-image expansion, Flip measurement and ScrollTrigger timeline not implemented.",
+        "localFiles": [
+          "web/src/ui/Studio.tsx"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/codrops/ImageExpansionTypography",
+        "description": "An expanding image animation inside of a typographic block.",
+        "defaultBranch": "main",
+        "isArchived": false,
+        "starsAtSearch": 47,
+        "searchLicenseDeclaration": {
+          "key": "mit",
+          "name": "MIT License",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "commitSha": "0d614791f94198bcab655762b26a3cb85da851f4",
+        "commitDate": "2024-04-02T11:56:00Z",
+        "commitUrl": "https://github.com/codrops/ImageExpansionTypography/commit/0d614791f94198bcab655762b26a3cb85da851f4",
+        "snapshotRefReturnedByTreeApi": "0d614791f94198bcab655762b26a3cb85da851f4"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "source",
+          "path": "js/index.js",
+          "upstreamBlobSha": "1457338e260dea43e2d137fcf5c5666ea2cc32b9",
+          "upstreamSizeBytes": 1954,
+          "retrievedAt": "2026-09-15T05:56:11.673Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/ImageExpansionTypography/blob/0d614791f94198bcab655762b26a3cb85da851f4/js/index.js",
+          "blobApiUrl": "https://api.github.com/repos/codrops/ImageExpansionTypography/git/blobs/1457338e260dea43e2d137fcf5c5666ea2cc32b9",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "// Importing utility function for preloading images"
+            },
+            {
+              "line": 2,
+              "text": "import { preloadImages } from './utils.js';"
+            },
+            {
+              "line": 3,
+              "text": "// Importing ExpandImageEffect classes from different effect files with renamed imports to avoid name conflicts"
+            }
+          ]
+        },
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "7004b5685ff81b051f64f49deaf72732c834b4a0",
+          "upstreamSizeBytes": 1030,
+          "retrievedAt": "2026-09-15T05:57:01.608Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/ImageExpansionTypography/blob/0d614791f94198bcab655762b26a3cb85da851f4/README.md",
+          "blobApiUrl": "https://api.github.com/repos/codrops/ImageExpansionTypography/git/blobs/7004b5685ff81b051f64f49deaf72732c834b4a0",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 5,
+              "text": "![Expanding Image](https://tympanus.net/codrops/wp-content/uploads/2024/04/expandimage_feat.jpg)"
+            },
+            {
+              "line": 17,
+              "text": "- Images generated with [Midjourney](https://midjourney.com)"
+            },
+            {
+              "line": 26,
+              "text": "## License"
+            },
+            {
+              "line": 27,
+              "text": "[MIT](LICENSE)"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "f05110672bb00a167e090738030738252bfc775b",
+          "upstreamSizeBytes": 1103,
+          "retrievedAt": "2026-09-15T05:57:01.608Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/ImageExpansionTypography/blob/0d614791f94198bcab655762b26a3cb85da851f4/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/codrops/ImageExpansionTypography/git/blobs/f05110672bb00a167e090738030738252bfc775b",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "MIT License"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2009 - 2024 [Codrops](https://tympanus.net/codrops)"
+            },
+            {
+              "line": 5,
+              "text": "Permission is hereby granted, free of charge, to any person obtaining a copy"
+            },
+            {
+              "line": 7,
+              "text": "in the Software without restriction, including without limitation the rights"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "js/effect-1/expandImageEffect.js",
+          "upstreamBlobSha": "4e77fcd926f961e48ecedd94be044c01d3924c50",
+          "upstreamSizeBytes": 1619,
+          "retrievedAt": "2026-09-15T05:57:59.445Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/ImageExpansionTypography/blob/0d614791f94198bcab655762b26a3cb85da851f4/js/effect-1/expandImageEffect.js",
+          "blobApiUrl": "https://api.github.com/repos/codrops/ImageExpansionTypography/git/blobs/4e77fcd926f961e48ecedd94be044c01d3924c50",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 9,
+              "text": "this.image = this.wrapElement.querySelector('.type__expand-img');"
+            },
+            {
+              "line": 26,
+              "text": "this.wrapElement.classList.add('type--open');"
+            },
+            {
+              "line": 27,
+              "text": "const flipstate = Flip.getState(["
+            },
+            {
+              "line": 28,
+              "text": "this.image,"
+            },
+            {
+              "line": 34,
+              "text": "this.wrapElement.classList.remove('type--open');"
+            },
+            {
+              "line": 37,
+              "text": "Flip.to(flipstate, {"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "codrops/TypographyMotion",
+      "kind": "动效源码",
+      "fact": "Home/About 切换通过暂停时间线 play/reverse 完成，文字、背景与图片在同一 switchtime 交接。",
+      "mechanism": "界面状态改变与动效方向一致，返回是同一状态的逆过程。",
+      "proposal": "用于简短导航/展开状态；不移植长段文字逐字延迟。",
+      "license": "MIT",
+      "limits": "示例是对 Thibaud Allie 动效的复现，文档保留原始设计出处。",
+      "adoptionStatus": "independently-implemented-general-pattern",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Hero selection is reversible through explicit buttons; no upstream play/reverse timeline or split-text navigation adopted.",
+        "localFiles": [
+          "web/src/ui/Studio.tsx"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/codrops/TypographyMotion",
+        "description": "Recreation of Thibaud Allie's letter stagger animation.",
+        "defaultBranch": "master",
+        "isArchived": false,
+        "starsAtSearch": 85,
+        "searchLicenseDeclaration": {
+          "key": "mit",
+          "name": "MIT License",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "commitSha": "800c4b530783565b69619b8a9033e0ca069207ec",
+        "commitDate": "2020-11-11T09:09:03Z",
+        "commitUrl": "https://github.com/codrops/TypographyMotion/commit/800c4b530783565b69619b8a9033e0ca069207ec",
+        "snapshotRefReturnedByTreeApi": "800c4b530783565b69619b8a9033e0ca069207ec"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "035bce589e6c980037edc13219596e6a0096b0f0",
+          "upstreamSizeBytes": 1228,
+          "retrievedAt": "2026-09-15T05:57:01.608Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/TypographyMotion/blob/800c4b530783565b69619b8a9033e0ca069207ec/README.md",
+          "blobApiUrl": "https://api.github.com/repos/codrops/TypographyMotion/git/blobs/035bce589e6c980037edc13219596e6a0096b0f0",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 5,
+              "text": "![Typography Motion](https://tympanus.net/codrops/wp-content/uploads/2020/06/TypographyMotion_featured.jpg)"
+            },
+            {
+              "line": 41,
+              "text": "## License"
+            },
+            {
+              "line": 42,
+              "text": "[MIT](LICENSE)"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "ec0612f544b4d7da380d3de7dbd9a3732584a0a5",
+          "upstreamSizeBytes": 1103,
+          "retrievedAt": "2026-09-15T05:57:01.608Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/TypographyMotion/blob/800c4b530783565b69619b8a9033e0ca069207ec/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/codrops/TypographyMotion/git/blobs/ec0612f544b4d7da380d3de7dbd9a3732584a0a5",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "MIT License"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2009 - 2020 [Codrops](https://tympanus.net/codrops)"
+            },
+            {
+              "line": 5,
+              "text": "Permission is hereby granted, free of charge, to any person obtaining a copy"
+            },
+            {
+              "line": 7,
+              "text": "in the Software without restriction, including without limitation the rights"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/js/index.js",
+          "upstreamBlobSha": "ce0fa0f2e7b51c564e7cc0e7c185860c64f5205a",
+          "upstreamSizeBytes": 3963,
+          "retrievedAt": "2026-09-15T05:59:53.407Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/TypographyMotion/blob/800c4b530783565b69619b8a9033e0ca069207ec/src/js/index.js",
+          "blobApiUrl": "https://api.github.com/repos/codrops/TypographyMotion/git/blobs/ce0fa0f2e7b51c564e7cc0e7c185860c64f5205a",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 50,
+              "text": "const timelineSettings = {"
+            },
+            {
+              "line": 57,
+              "text": ".staggerTo( DOM.content.home.chars, timelineSettings.charsDuration, {"
+            },
+            {
+              "line": 61,
+              "text": "}, timelineSettings.staggerValue, 'start')"
+            },
+            {
+              "line": 64,
+              "text": ".addLabel('switchtime')"
+            },
+            {
+              "line": 73,
+              "text": "backgroundColor: '#c3b996'"
+            },
+            {
+              "line": 74,
+              "text": "}, 'switchtime-=timelineSettings.charsDuration/4')"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "codrops/InlineMenuLayout",
+      "kind": "动效源码",
+      "fact": "menuItems 与 contentItems 按位置配对，保存 currentItemIndex；点击显示对应内容，返回恢复目录状态。",
+      "mechanism": "密集文字目录与大图预览形成强弱对比；选中项身份可保持。",
+      "proposal": "目录行预览、明确序号和案例入口；增加 focus/touch 等价路径。",
+      "license": "MIT",
+      "limits": "源码鼠标交互不能直接当完整可访问性实现；本轮需独立补齐键盘与焦点恢复。",
+      "adoptionStatus": "independently-implemented-catalog-pattern",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Grid/list catalog and stable project identity with always-visible summary; no menu/content Flip or floating hover preview ported.",
+        "localFiles": [
+          "web/src/App.tsx"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/codrops/InlineMenuLayout",
+        "description": "An inline menu layout with a playful hover animation and a gallery content preview panel.",
+        "defaultBranch": "main",
+        "isArchived": false,
+        "starsAtSearch": 67,
+        "searchLicenseDeclaration": {
+          "key": "mit",
+          "name": "MIT License",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "commitSha": "ccfb1d128002efe53c83703aaa5fbb438036259f",
+        "commitDate": "2020-11-11T14:53:03Z",
+        "commitUrl": "https://github.com/codrops/InlineMenuLayout/commit/ccfb1d128002efe53c83703aaa5fbb438036259f",
+        "snapshotRefReturnedByTreeApi": "ccfb1d128002efe53c83703aaa5fbb438036259f"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "14314a5664c06184c202c8bee71f5b37e9dae65e",
+          "upstreamSizeBytes": 887,
+          "retrievedAt": "2026-09-15T05:57:01.608Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/InlineMenuLayout/blob/ccfb1d128002efe53c83703aaa5fbb438036259f/README.md",
+          "blobApiUrl": "https://api.github.com/repos/codrops/InlineMenuLayout/git/blobs/14314a5664c06184c202c8bee71f5b37e9dae65e",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 3,
+              "text": "An inline menu layout with a playful hover animation and a gallery content preview panel."
+            },
+            {
+              "line": 5,
+              "text": "![Image](https://tympanus.net/codrops/wp-content/uploads/2020/11/InlineMenuLayout_featured.jpg)"
+            },
+            {
+              "line": 34,
+              "text": "- Images from [Unsplash](https://unsplash.com/)"
+            },
+            {
+              "line": 40,
+              "text": "## License"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "ec0612f544b4d7da380d3de7dbd9a3732584a0a5",
+          "upstreamSizeBytes": 1103,
+          "retrievedAt": "2026-09-15T05:57:01.608Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/InlineMenuLayout/blob/ccfb1d128002efe53c83703aaa5fbb438036259f/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/codrops/InlineMenuLayout/git/blobs/ec0612f544b4d7da380d3de7dbd9a3732584a0a5",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "MIT License"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2009 - 2020 [Codrops](https://tympanus.net/codrops)"
+            },
+            {
+              "line": 5,
+              "text": "Permission is hereby granted, free of charge, to any person obtaining a copy"
+            },
+            {
+              "line": 7,
+              "text": "in the Software without restriction, including without limitation the rights"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/js/menuController.js",
+          "upstreamBlobSha": "688ae0ad0a8e859aa6ac69878a692d62ea2b5c1b",
+          "upstreamSizeBytes": 8487,
+          "retrievedAt": "2026-09-15T05:58:02.912Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/InlineMenuLayout/blob/ccfb1d128002efe53c83703aaa5fbb438036259f/src/js/menuController.js",
+          "blobApiUrl": "https://api.github.com/repos/codrops/InlineMenuLayout/git/blobs/688ae0ad0a8e859aa6ac69878a692d62ea2b5c1b",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 40,
+              "text": "menuItemEl.addEventListener('click', () => this.onMenuItemClick(position));"
+            },
+            {
+              "line": 43,
+              "text": "this.DOM.backCtrl.addEventListener('click', () => this.onBackCtrlClick());"
+            },
+            {
+              "line": 48,
+              "text": "menuItem: this.menuItems[position],"
+            },
+            {
+              "line": 53,
+              "text": "contentItem: this.contentItems[position]"
+            },
+            {
+              "line": 56,
+              "text": "onMenuItemClick(position) {"
+            },
+            {
+              "line": 58,
+              "text": "this.currentItemIndex = position;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "codrops/ContentLayoutTransition",
+      "kind": "动效源码",
+      "fact": "Slideshow 以 Flip 在 stack 与 slides 容器之间转移图像；isOpen/isAnimating 避免重复操作。",
+      "mechanism": "缩略材料进入放大阅读时保持来源关系；明确展开/关闭状态。",
+      "proposal": "案例单个资料组可展开；使用已有大图查看器，不复制 wheel/touch 拦截关闭。",
+      "license": "MIT",
+      "limits": "源例会拦截滚动以关闭图集，与本站长文阅读冲突。",
+      "adoptionStatus": "reference-only-existing-viewer-retained",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Existing lightbox preserved. Flip stack-to-slides and wheel/touch closing interception not adopted.",
+        "localFiles": [
+          "web/src/ui/MediaViewer.tsx"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/codrops/ContentLayoutTransition",
+        "description": "An experimental layout transition where a stack of images animates to a gallery view, showing some more content.",
+        "defaultBranch": "main",
+        "isArchived": false,
+        "starsAtSearch": 61,
+        "searchLicenseDeclaration": {
+          "key": "mit",
+          "name": "MIT License",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "commitSha": "ef96cdc22f1d7b8b426f73283c6c70e163eb9b29",
+        "commitDate": "2022-08-27T10:46:01Z",
+        "commitUrl": "https://github.com/codrops/ContentLayoutTransition/commit/ef96cdc22f1d7b8b426f73283c6c70e163eb9b29",
+        "snapshotRefReturnedByTreeApi": "ef96cdc22f1d7b8b426f73283c6c70e163eb9b29"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "1d1162589a8312e798645b1dde20d9c87a20841f",
+          "upstreamSizeBytes": 914,
+          "retrievedAt": "2026-09-15T05:57:01.608Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/ContentLayoutTransition/blob/ef96cdc22f1d7b8b426f73283c6c70e163eb9b29/README.md",
+          "blobApiUrl": "https://api.github.com/repos/codrops/ContentLayoutTransition/git/blobs/1d1162589a8312e798645b1dde20d9c87a20841f",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "# Content Layout Transition"
+            },
+            {
+              "line": 3,
+              "text": "A layout that animates from an initial stack view to a content view with larger images that can be navigated."
+            },
+            {
+              "line": 5,
+              "text": "![Image Title](https://tympanus.net/codrops/wp-content/uploads/2022/05/StackLayoutTransition_featured.jpg)"
+            },
+            {
+              "line": 9,
+              "text": "[Demo](http://tympanus.net/Development/ContentLayoutTransition/)"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "e50a7c37aecf056cd37680fbfd7157b30b5afc10",
+          "upstreamSizeBytes": 1103,
+          "retrievedAt": "2026-09-15T05:57:01.608Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/ContentLayoutTransition/blob/ef96cdc22f1d7b8b426f73283c6c70e163eb9b29/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/codrops/ContentLayoutTransition/git/blobs/e50a7c37aecf056cd37680fbfd7157b30b5afc10",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "MIT License"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2009 - 2021 [Codrops](https://tympanus.net/codrops)"
+            },
+            {
+              "line": 5,
+              "text": "Permission is hereby granted, free of charge, to any person obtaining a copy"
+            },
+            {
+              "line": 7,
+              "text": "in the Software without restriction, including without limitation the rights"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/js/slideshow.js",
+          "upstreamBlobSha": "d711292d060496f7be474226e1f46fcafc0579d1",
+          "upstreamSizeBytes": 8140,
+          "retrievedAt": "2026-09-15T05:58:02.912Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/ContentLayoutTransition/blob/ef96cdc22f1d7b8b426f73283c6c70e163eb9b29/src/js/slideshow.js",
+          "blobApiUrl": "https://api.github.com/repos/codrops/ContentLayoutTransition/git/blobs/d711292d060496f7be474226e1f46fcafc0579d1",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 52,
+              "text": "isOpen = false;"
+            },
+            {
+              "line": 105,
+              "text": "type: 'wheel,touch,pointer',"
+            },
+            {
+              "line": 110,
+              "text": "preventDefault: true,"
+            },
+            {
+              "line": 121,
+              "text": "if ( this.isAnimating || this.isOpen ) {"
+            },
+            {
+              "line": 141,
+              "text": "const state = Flip.getState(this.DOM.items, {props: 'opacity'});"
+            },
+            {
+              "line": 142,
+              "text": "this.DOM.slides.appendChild(this.DOM.el);"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "codrops/TooltipTransition",
+      "kind": "动效源码",
+      "fact": "源码区分 hover 预览、click 图集、fullscreen 放大三种状态，沿同一图片做 Flip 过渡。",
+      "mechanism": "预览→阅读→检查细节是逐层加深，而不是三个无关页面。",
+      "proposal": "目录 hover/focus 只预览，点击进入案例，图片按钮进入大图检查。",
+      "license": "MIT",
+      "limits": "悬停信息不能是唯一内容入口；移动端需明显点击操作。",
+      "adoptionStatus": "reference-only-state-logic",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Progressive entry to case and local image inspection reviewed; no tooltip-to-gallery-to-fullscreen Flip copied.",
+        "localFiles": [
+          "web/src/ui/CasePage.tsx",
+          "web/src/ui/MediaViewer.tsx"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/codrops/TooltipTransition",
+        "description": "A concept for page transitions where a tooltip image animates to a gallery layout and fullscreen image.",
+        "defaultBranch": "main",
+        "isArchived": false,
+        "starsAtSearch": 26,
+        "searchLicenseDeclaration": {
+          "key": "mit",
+          "name": "MIT License",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "commitSha": "689dfac88af4c81f4ba11d62cacc25d268c5d789",
+        "commitDate": "2022-12-07T13:01:05Z",
+        "commitUrl": "https://github.com/codrops/TooltipTransition/commit/689dfac88af4c81f4ba11d62cacc25d268c5d789",
+        "snapshotRefReturnedByTreeApi": "689dfac88af4c81f4ba11d62cacc25d268c5d789"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "21852f4bcd05a8c3bdaeac9c40ec44583f1b26ef",
+          "upstreamSizeBytes": 886,
+          "retrievedAt": "2026-09-15T05:57:04.360Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/TooltipTransition/blob/689dfac88af4c81f4ba11d62cacc25d268c5d789/README.md",
+          "blobApiUrl": "https://api.github.com/repos/codrops/TooltipTransition/git/blobs/21852f4bcd05a8c3bdaeac9c40ec44583f1b26ef",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 5,
+              "text": "![Image Title](https://tympanus.net/codrops/wp-content/uploads/2022/12/Tooltip_feat.jpg)"
+            },
+            {
+              "line": 34,
+              "text": "- Images from [Unsplash](https://unsplash.com/)"
+            },
+            {
+              "line": 40,
+              "text": "## License"
+            },
+            {
+              "line": 41,
+              "text": "[MIT](LICENSE)"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "e50a7c37aecf056cd37680fbfd7157b30b5afc10",
+          "upstreamSizeBytes": 1103,
+          "retrievedAt": "2026-09-15T05:57:04.360Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/TooltipTransition/blob/689dfac88af4c81f4ba11d62cacc25d268c5d789/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/codrops/TooltipTransition/git/blobs/e50a7c37aecf056cd37680fbfd7157b30b5afc10",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "MIT License"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2009 - 2021 [Codrops](https://tympanus.net/codrops)"
+            },
+            {
+              "line": 5,
+              "text": "Permission is hereby granted, free of charge, to any person obtaining a copy"
+            },
+            {
+              "line": 7,
+              "text": "in the Software without restriction, including without limitation the rights"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/js/index.js",
+          "upstreamBlobSha": "70b7aa4cc470cc26918c99b9843a7c00a229cd98",
+          "upstreamSizeBytes": 13762,
+          "retrievedAt": "2026-09-15T05:59:53.407Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/TooltipTransition/blob/689dfac88af4c81f4ba11d62cacc25d268c5d789/src/js/index.js",
+          "blobApiUrl": "https://api.github.com/repos/codrops/TooltipTransition/git/blobs/70b7aa4cc470cc26918c99b9843a7c00a229cd98",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 49,
+              "text": "let isAnimating = false;"
+            },
+            {
+              "line": 56,
+              "text": "if ( isAnimating ) return;"
+            },
+            {
+              "line": 57,
+              "text": "isAnimating = true;"
+            },
+            {
+              "line": 59,
+              "text": "const flipstateNav = Flip.getState(navImages, {simple: true});"
+            },
+            {
+              "line": 60,
+              "text": "const flipstateGallery = Flip.getState(tooltip.DOM.images[tooltip.current], {simple: true});"
+            },
+            {
+              "line": 63,
+              "text": "gallery.classList.add('gallery--fullscreen');"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "codrops/FullscreenLayoutPageTransitions",
+      "kind": "动效源码",
+      "fact": "boxlayout 通过 data-panel 将作品和详情对应；section 放大、详情上移，带 next/close。",
+      "mechanism": "入口、详情、返回对象之间保持显式映射。",
+      "proposal": "仅借鉴可逆展开和目标映射，沿用现有路由历史与焦点。",
+      "license": "README 与源码头声明 MIT；缺独立完整许可证",
+      "limits": "不把源例 span 控件和 transitionend 依赖照搬到生产导航。",
+      "adoptionStatus": "reference-only-license-text-incomplete",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Target identity and reversible navigation studied. No span controls, boxlayout module or transitionend route dependency copied.",
+        "localFiles": [],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/codrops/FullscreenLayoutPageTransitions",
+        "description": "This responsive layout is based on an initial grid of four boxes. Once a box is clicked, it gets resized to fullscreen and the other boxes scale down and fade out. In the work section we experiment with another transition which is to show a panel by making it appear from the bottom while scaling the current one down. To see it in action, open the work section and click on one of the portfolio items and navigate through them.",
+        "defaultBranch": "master",
+        "isArchived": false,
+        "starsAtSearch": 726,
+        "searchLicenseDeclaration": {
+          "key": "",
+          "name": "",
+          "url": ""
+        },
+        "commitSha": "1dfb62faf91a9f548240438622161d407db6c05f",
+        "commitDate": "2013-04-23T21:06:38Z",
+        "commitUrl": "https://github.com/codrops/FullscreenLayoutPageTransitions/commit/1dfb62faf91a9f548240438622161d407db6c05f",
+        "snapshotRefReturnedByTreeApi": "1dfb62faf91a9f548240438622161d407db6c05f"
+      },
+      "licenseStatus": "mit-declared-no-full-text",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "1a838a03676b3ffec210773c22dc395d1392c3d9",
+          "upstreamSizeBytes": 647,
+          "retrievedAt": "2026-09-15T05:57:04.360Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/FullscreenLayoutPageTransitions/blob/1dfb62faf91a9f548240438622161d407db6c05f/README.md",
+          "blobApiUrl": "https://api.github.com/repos/codrops/FullscreenLayoutPageTransitions/git/blobs/1a838a03676b3ffec210773c22dc395d1392c3d9",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 11,
+              "text": "Licensed under the MIT License"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "js/boxlayout.js",
+          "upstreamBlobSha": "96ec0fb1bf492c79b2cf2f9a801d8518f8a2aeff",
+          "upstreamSizeBytes": 4075,
+          "retrievedAt": "2026-09-15T05:59:53.407Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/FullscreenLayoutPageTransitions/blob/1dfb62faf91a9f548240438622161d407db6c05f/js/boxlayout.js",
+          "blobApiUrl": "https://api.github.com/repos/codrops/FullscreenLayoutPageTransitions/git/blobs/96ec0fb1bf492c79b2cf2f9a801d8518f8a2aeff",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 5,
+              "text": "* Licensed under the MIT license."
+            },
+            {
+              "line": 26,
+              "text": "isAnimating = false,"
+            },
+            {
+              "line": 88,
+              "text": "var $panel = $workPanelsContainer.find(\"[data-panel='\" + $( this ).data( 'panel' ) + \"']\");"
+            },
+            {
+              "line": 89,
+              "text": "currentWorkPanel = $panel.index();"
+            },
+            {
+              "line": 99,
+              "text": "if( isAnimating ) {"
+            },
+            {
+              "line": 102,
+              "text": "isAnimating = true;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "codrops/Exhibition",
+      "kind": "动效源码",
+      "fact": "房间与说明由 currentRoom 统一索引；鼠标倾斜、导航、菜单与信息面板有独立状态。",
+      "mechanism": "每章像独立展室，图片和说明始终描述同一对象。",
+      "proposal": "借鉴章节层次与少量透视；不引入走房间式必经导航。",
+      "license": "许可冲突：源码头 MIT；README 自定义分发限制",
+      "limits": "仅研究机制；不将整个仓库统一写为 MIT，示例资产另有来源。",
+      "adoptionStatus": "not-adopted-license-conflict",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Room/index synchronization studied only; no exhibit rooms or source incorporated.",
+        "localFiles": [],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/codrops/Exhibition",
+        "description": "A highly experimental 3D room layout for a gallery that aims to show exhibition details in an interesting way.",
+        "defaultBranch": "master",
+        "isArchived": false,
+        "starsAtSearch": 119,
+        "searchLicenseDeclaration": {
+          "key": "",
+          "name": "",
+          "url": ""
+        },
+        "commitSha": "e10dca0ae1d32ca808e41fef0788e815b6539af7",
+        "commitDate": "2017-03-30T10:11:14Z",
+        "commitUrl": "https://github.com/codrops/Exhibition/commit/e10dca0ae1d32ca808e41fef0788e815b6539af7",
+        "snapshotRefReturnedByTreeApi": "e10dca0ae1d32ca808e41fef0788e815b6539af7"
+      },
+      "licenseStatus": "conflicting-statements",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "643cb12bf4ae82bc9e6df8d8ecb16078d51a8617",
+          "upstreamSizeBytes": 1351,
+          "retrievedAt": "2026-09-15T05:57:04.360Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/Exhibition/blob/e10dca0ae1d32ca808e41fef0788e815b6539af7/README.md",
+          "blobApiUrl": "https://api.github.com/repos/codrops/Exhibition/git/blobs/643cb12bf4ae82bc9e6df8d8ecb16078d51a8617",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 12,
+              "text": "- [imagesLoaded](http://imagesloaded.desandro.com/) by David DeSandro"
+            },
+            {
+              "line": 13,
+              "text": "- Images from [Unsplash.com](http://unsplash.com)"
+            },
+            {
+              "line": 16,
+              "text": "## License"
+            },
+            {
+              "line": 17,
+              "text": "This resource can be used freely if integrated or build upon in personal or commercial projects such as websites, web apps and web templates intended for sale. It is not allowed to take the resource \"as-is\" and sell it, redistribute, re-publish it, or sell \"pluginized\" versions of it. Free plugins built using this resource should have a visible mention and link to the original work. Always consider the licenses of all included libraries, scripts and images used."
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "js/main.js",
+          "upstreamBlobSha": "8df2d4f63ded6f8138c3c2435c117c6aff04e436",
+          "upstreamSizeBytes": 15943,
+          "retrievedAt": "2026-09-15T05:59:53.407Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/Exhibition/blob/e10dca0ae1d32ca808e41fef0788e815b6539af7/js/main.js",
+          "blobApiUrl": "https://api.github.com/repos/codrops/Exhibition/git/blobs/8df2d4f63ded6f8138c3c2435c117c6aff04e436",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 5,
+              "text": "* Licensed under the MIT license."
+            },
+            {
+              "line": 58,
+              "text": "DOM.rooms = [].slice.call(DOM.scroller.querySelectorAll('.room'));"
+            },
+            {
+              "line": 67,
+              "text": "DOM.slides = [].slice.call(DOM.content.querySelectorAll('.slides > .slide'));"
+            },
+            {
+              "line": 81,
+              "text": "var\tcurrentRoom = 0,"
+            },
+            {
+              "line": 83,
+              "text": "totalRooms = DOM.rooms.length,"
+            },
+            {
+              "line": 105,
+              "text": "tiltRotation = {"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "bruno-quintela/portfolio-webgpu",
+      "kind": "图形作品集草案",
+      "fact": "GalleryProvider 管理 galleryData，startNewGallery 回调同步当前图与选中图片；UI拆出标题、段落、计数器。",
+      "mechanism": "画布状态与 DOM 说明共享同一索引，视觉与文本保持一致。",
+      "proposal": "适合检验现有 3D/DOM 联动；不引入 WebGPU 或演示调试键。",
+      "license": "未发现独立代码许可证",
+      "limits": "仓库名称不证明运行时采用 WebGPU；已读组件名为 WebGLCanvas，底层兼容性未运行验证。",
+      "adoptionStatus": "reference-only-no-explicit-license",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Current index synchronization compared; no canvas provider, controls or WebGPU backend adopted.",
+        "localFiles": [],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/bruno-quintela/portfolio-webgpu",
+        "description": "new portfolio draft with webgpu gallery",
+        "defaultBranch": "main",
+        "isArchived": false,
+        "starsAtSearch": 0,
+        "searchLicenseDeclaration": {
+          "key": "",
+          "name": "",
+          "url": ""
+        },
+        "commitSha": "da71cc3ddb54a7a7b0878dc6aa647dd836163feb",
+        "commitDate": "2026-01-27T14:09:11Z",
+        "commitUrl": "https://github.com/bruno-quintela/portfolio-webgpu/commit/da71cc3ddb54a7a7b0878dc6aa647dd836163feb",
+        "snapshotRefReturnedByTreeApi": "da71cc3ddb54a7a7b0878dc6aa647dd836163feb"
+      },
+      "licenseStatus": "no-explicit-license-found",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "31818501c5091e20d286a9e58a5b8e0f1edebd8b",
+          "upstreamSizeBytes": 647,
+          "retrievedAt": "2026-09-15T05:57:04.360Z",
+          "httpAccess": "success",
+          "url": "https://github.com/bruno-quintela/portfolio-webgpu/blob/da71cc3ddb54a7a7b0878dc6aa647dd836163feb/README.md",
+          "blobApiUrl": "https://api.github.com/repos/bruno-quintela/portfolio-webgpu/git/blobs/31818501c5091e20d286a9e58a5b8e0f1edebd8b",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 5,
+              "text": "![Image Title](https://tympanus.net/codrops/wp-content/uploads/2025/03/scaneffect_featured.jpg)"
+            },
+            {
+              "line": 27,
+              "text": "## License"
+            },
+            {
+              "line": 29,
+              "text": "[MIT](LICENSE)"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "components/Gallery/Gallery.tsx",
+          "upstreamBlobSha": "da2310b02e23e92db587a401f9cebed32357b261",
+          "upstreamSizeBytes": 1551,
+          "retrievedAt": "2026-09-15T05:59:53.407Z",
+          "httpAccess": "success",
+          "url": "https://github.com/bruno-quintela/portfolio-webgpu/blob/da71cc3ddb54a7a7b0878dc6aa647dd836163feb/components/Gallery/Gallery.tsx",
+          "blobApiUrl": "https://api.github.com/repos/bruno-quintela/portfolio-webgpu/git/blobs/da2310b02e23e92db587a401f9cebed32357b261",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 6,
+              "text": "import { GalleryProvider } from \"./context/GalleryProvider\";"
+            },
+            {
+              "line": 9,
+              "text": "WebGLCanvas,"
+            },
+            {
+              "line": 12,
+              "text": "SlideCounter,"
+            },
+            {
+              "line": 13,
+              "text": "KeyboardShortcuts,"
+            },
+            {
+              "line": 29,
+              "text": "actions.syncCurrentIndex(index);"
+            },
+            {
+              "line": 32,
+              "text": "actions.selectGalleryImage(galleryIndex, imageIndex);"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "components/Gallery/components/KeyboardShortcuts.tsx",
+          "upstreamBlobSha": "8ab9ecdc834364d15408c40a22cbbc97e7d8152e",
+          "upstreamSizeBytes": 423,
+          "retrievedAt": "2026-09-15T05:59:53.407Z",
+          "httpAccess": "success",
+          "url": "https://github.com/bruno-quintela/portfolio-webgpu/blob/da71cc3ddb54a7a7b0878dc6aa647dd836163feb/components/Gallery/components/KeyboardShortcuts.tsx",
+          "blobApiUrl": "https://api.github.com/repos/bruno-quintela/portfolio-webgpu/git/blobs/8ab9ecdc834364d15408c40a22cbbc97e7d8152e",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 3,
+              "text": "export function KeyboardShortcuts() {"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "codrops/ScrollBlurTypography",
+      "kind": "动效源码",
+      "fact": "effect-1 对拆字内容从 blur(10px)/brightness(0%) 变为清晰，并在 resize 后重建。",
+      "mechanism": "可以比较文字进入方式，但不能牺牲读者当前可读性。",
+      "proposal": "本轮不采用模糊正文；短标题用位移/遮罩替代。",
+      "license": "MIT",
+      "limits": "滤镜与逐字 scrub 带来可读性及重绘负担；实际负担未做基准测量。",
+      "adoptionStatus": "not-adopted-readability",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Blurred/split body typography not implemented. Body reading remains stable.",
+        "localFiles": [],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/codrops/ScrollBlurTypography",
+        "description": "Animations for revealing blurry text on scroll.",
+        "defaultBranch": "main",
+        "isArchived": false,
+        "starsAtSearch": 148,
+        "searchLicenseDeclaration": {
+          "key": "mit",
+          "name": "MIT License",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "commitSha": "3e64d4bdae65b1f291e21a9a9c4b2ac6258c45c1",
+        "commitDate": "2024-04-23T13:12:16Z",
+        "commitUrl": "https://github.com/codrops/ScrollBlurTypography/commit/3e64d4bdae65b1f291e21a9a9c4b2ac6258c45c1",
+        "snapshotRefReturnedByTreeApi": "3e64d4bdae65b1f291e21a9a9c4b2ac6258c45c1"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "4fe2ca54a022dff9fe30f44032ff7522ed0ab12f",
+          "upstreamSizeBytes": 844,
+          "retrievedAt": "2026-09-15T06:03:54.952Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/ScrollBlurTypography/blob/3e64d4bdae65b1f291e21a9a9c4b2ac6258c45c1/README.md",
+          "blobApiUrl": "https://api.github.com/repos/codrops/ScrollBlurTypography/git/blobs/4fe2ca54a022dff9fe30f44032ff7522ed0ab12f",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 5,
+              "text": "![Blur Reveal](https://tympanus.net/codrops/wp-content/uploads/2024/04/blurrytext_featured.jpg?x32096)"
+            },
+            {
+              "line": 19,
+              "text": "## License"
+            },
+            {
+              "line": 20,
+              "text": "[MIT](LICENSE)"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "f05110672bb00a167e090738030738252bfc775b",
+          "upstreamSizeBytes": 1103,
+          "retrievedAt": "2026-09-15T06:03:54.952Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/ScrollBlurTypography/blob/3e64d4bdae65b1f291e21a9a9c4b2ac6258c45c1/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/codrops/ScrollBlurTypography/git/blobs/f05110672bb00a167e090738030738252bfc775b",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "MIT License"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2009 - 2024 [Codrops](https://tympanus.net/codrops)"
+            },
+            {
+              "line": 5,
+              "text": "Permission is hereby granted, free of charge, to any person obtaining a copy"
+            },
+            {
+              "line": 7,
+              "text": "in the Software without restriction, including without limitation the rights"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "js/effect-1/blurScrollEffect.js",
+          "upstreamBlobSha": "c07f01051ed82eb0a83e26995382a5f9c9cee9c3",
+          "upstreamSizeBytes": 1835,
+          "retrievedAt": "2026-09-15T06:03:54.952Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/ScrollBlurTypography/blob/3e64d4bdae65b1f291e21a9a9c4b2ac6258c45c1/js/effect-1/blurScrollEffect.js",
+          "blobApiUrl": "https://api.github.com/repos/codrops/ScrollBlurTypography/git/blobs/c07f01051ed82eb0a83e26995382a5f9c9cee9c3",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "// Import the TextSplitter class for handling text splitting."
+            },
+            {
+              "line": 2,
+              "text": "import { TextSplitter } from '../textSplitter.js';"
+            },
+            {
+              "line": 24,
+              "text": "this.splitter = new TextSplitter(this.textElement, {"
+            },
+            {
+              "line": 25,
+              "text": "resizeCallback: textResizeCallback,"
+            },
+            {
+              "line": 38,
+              "text": "filter: 'blur(10px) brightness(0%)',"
+            },
+            {
+              "line": 43,
+              "text": "stagger: 0.05, // Delay between starting animations for each character."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "codrops/RepetitiveTypography",
+      "kind": "动效源码",
+      "fact": "源码建立中心、重复中心、上下多个标题行，并将行对应内容条带和标题。",
+      "mechanism": "重复短词可表现分类系统与节奏，但需要语义主次。",
+      "proposal": "最多作为一处装饰章节标识，重复文本 aria-hidden，保留一个真实标题。",
+      "license": "MIT",
+      "limits": "不把重复文本用于核心导航或长正文；目前为候选，非必装依赖。",
+      "adoptionStatus": "independently-implemented-limited-motion",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Short decorative repeated words with aria-hidden and reduced-motion/global pause; no split-word scrolling timeline copied.",
+        "localFiles": [
+          "web/src/ui/Studio.tsx",
+          "web/src/studio.css"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/codrops/RepetitiveTypography",
+        "description": "An experimental typography animation based on a kinetic type design by Domagoj Štrok where words get duplicated several times.",
+        "defaultBranch": "main",
+        "isArchived": false,
+        "starsAtSearch": 43,
+        "searchLicenseDeclaration": {
+          "key": "mit",
+          "name": "MIT License",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "commitSha": "9bd910cadc638ac3a855690600eecf485504b6e1",
+        "commitDate": "2021-10-20T10:08:42Z",
+        "commitUrl": "https://github.com/codrops/RepetitiveTypography/commit/9bd910cadc638ac3a855690600eecf485504b6e1",
+        "snapshotRefReturnedByTreeApi": "9bd910cadc638ac3a855690600eecf485504b6e1"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "0c40273df044c3aee6094405737558322be41291",
+          "upstreamSizeBytes": 920,
+          "retrievedAt": "2026-09-15T06:03:54.952Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/RepetitiveTypography/blob/9bd910cadc638ac3a855690600eecf485504b6e1/README.md",
+          "blobApiUrl": "https://api.github.com/repos/codrops/RepetitiveTypography/git/blobs/0c40273df044c3aee6094405737558322be41291",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 5,
+              "text": "![Image Title](https://tympanus.net/codrops/wp-content/uploads/2021/10/RepetetiveTypography_feat.jpg)"
+            },
+            {
+              "line": 34,
+              "text": "- Images from [Unsplash](https://unsplash.com/)"
+            },
+            {
+              "line": 40,
+              "text": "## License"
+            },
+            {
+              "line": 41,
+              "text": "[MIT](LICENSE)"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "e50a7c37aecf056cd37680fbfd7157b30b5afc10",
+          "upstreamSizeBytes": 1103,
+          "retrievedAt": "2026-09-15T06:03:54.952Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/RepetitiveTypography/blob/9bd910cadc638ac3a855690600eecf485504b6e1/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/codrops/RepetitiveTypography/git/blobs/e50a7c37aecf056cd37680fbfd7157b30b5afc10",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "MIT License"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2009 - 2021 [Codrops](https://tympanus.net/codrops)"
+            },
+            {
+              "line": 5,
+              "text": "Permission is hereby granted, free of charge, to any person obtaining a copy"
+            },
+            {
+              "line": 7,
+              "text": "in the Software without restriction, including without limitation the rights"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "src/js/index.js",
+          "upstreamBlobSha": "3c4d6ca70e5ca1112d73d683ee19633f1e17a2e1",
+          "upstreamSizeBytes": 10718,
+          "retrievedAt": "2026-09-15T06:03:54.952Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/RepetitiveTypography/blob/9bd910cadc638ac3a855690600eecf485504b6e1/src/js/index.js",
+          "blobApiUrl": "https://api.github.com/repos/codrops/RepetitiveTypography/git/blobs/3c4d6ca70e5ca1112d73d683ee19633f1e17a2e1",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 12,
+              "text": "const initialTitle = document.querySelector('#center-title-initial')"
+            },
+            {
+              "line": 16,
+              "text": "const centerTitle = document.querySelector('#center-title');"
+            },
+            {
+              "line": 23,
+              "text": "const repeatedCenterTitle = document.querySelector('#center-title-repeated')"
+            },
+            {
+              "line": 24,
+              "text": "const repeatedCenterTitleChars = [...repeatedCenterTitle.querySelectorAll('span.char')];"
+            },
+            {
+              "line": 39,
+              "text": "const rows = {"
+            },
+            {
+              "line": 48,
+              "text": "const rowsTitles = {};"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repo": "codrops/Scroll3DGrid",
+      "kind": "动效源码",
+      "fact": "applyAnimation 按 grid 类型设置 perspective、rotation、z 和 scrub；源码还单独初始化 Lenis。",
+      "mechanism": "在图像组合中建立远近层次；可从平面目录过渡到精选图像。",
+      "proposal": "仅采纳低幅透视与版式节奏；保持原生滚动及低动态静态布局。",
+      "license": "MIT",
+      "limits": "README 演示图由 Midjourney 生成；不复制图像或持续随机大幅运动。",
+      "adoptionStatus": "composition-reference-only",
+      "confidence": "high-for-cited-source-behavior; not-a-live-site-performance-audit",
+      "implementationReview": {
+        "outcome": "Limited pointer perspective and varying editorial image scales; no 3D grid scene or Midjourney sample assets adopted.",
+        "localFiles": [
+          "web/src/ui/Studio.tsx",
+          "web/src/studio.css"
+        ],
+        "sourceCopied": false,
+        "assetsCopied": false
+      },
+      "metadata": {
+        "url": "https://github.com/codrops/Scroll3DGrid",
+        "description": "On-scroll animations for perspective image grids with different layouts.",
+        "defaultBranch": "main",
+        "isArchived": false,
+        "starsAtSearch": 181,
+        "searchLicenseDeclaration": {
+          "key": "mit",
+          "name": "MIT License",
+          "node_id": "MDc6TGljZW5zZTEz",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit"
+        },
+        "commitSha": "69718a2eff87b32ab19764b3a6d7b3773dab6af3",
+        "commitDate": "2023-08-03T08:52:15Z",
+        "commitUrl": "https://github.com/codrops/Scroll3DGrid/commit/69718a2eff87b32ab19764b3a6d7b3773dab6af3",
+        "snapshotRefReturnedByTreeApi": "69718a2eff87b32ab19764b3a6d7b3773dab6af3"
+      },
+      "licenseStatus": "standard-license-text-retrieved",
+      "inspections": [
+        {
+          "role": "readme",
+          "path": "README.md",
+          "upstreamBlobSha": "f8b5ef1bd2ef2023cd6c96def0b18bed9eeed0fd",
+          "upstreamSizeBytes": 864,
+          "retrievedAt": "2026-09-15T06:03:59.793Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/Scroll3DGrid/blob/69718a2eff87b32ab19764b3a6d7b3773dab6af3/README.md",
+          "blobApiUrl": "https://api.github.com/repos/codrops/Scroll3DGrid/git/blobs/f8b5ef1bd2ef2023cd6c96def0b18bed9eeed0fd",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 5,
+              "text": "![On-Scroll 3D Grid Animations](https://tympanus.net/codrops/wp-content/uploads/2023/08/onscroll3dgrid.jpg)"
+            },
+            {
+              "line": 17,
+              "text": "- Images generated with [Midjourney](https://midjourney.com)"
+            },
+            {
+              "line": 23,
+              "text": "## License"
+            },
+            {
+              "line": 24,
+              "text": "[MIT](LICENSE)"
+            }
+          ]
+        },
+        {
+          "role": "license",
+          "path": "LICENSE",
+          "upstreamBlobSha": "b045fc89c48fe9de1ea832f99577a4917aa43dd5",
+          "upstreamSizeBytes": 1103,
+          "retrievedAt": "2026-09-15T06:06:21.819Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/Scroll3DGrid/blob/69718a2eff87b32ab19764b3a6d7b3773dab6af3/LICENSE",
+          "blobApiUrl": "https://api.github.com/repos/codrops/Scroll3DGrid/git/blobs/b045fc89c48fe9de1ea832f99577a4917aa43dd5",
+          "reviewDepth": "License grant/scope or relevant README content sections reviewed; full text retrieved.",
+          "excerpts": [
+            {
+              "line": 1,
+              "text": "MIT License"
+            },
+            {
+              "line": 3,
+              "text": "Copyright (c) 2009 - 2022 [Codrops](https://tympanus.net/codrops)"
+            },
+            {
+              "line": 5,
+              "text": "Permission is hereby granted, free of charge, to any person obtaining a copy"
+            },
+            {
+              "line": 7,
+              "text": "in the Software without restriction, including without limitation the rights"
+            }
+          ]
+        },
+        {
+          "role": "source",
+          "path": "js/index.js",
+          "upstreamBlobSha": "d2da6df5ac1eacac2672bd27645867858c449d7d",
+          "upstreamSizeBytes": 6913,
+          "retrievedAt": "2026-09-15T06:03:59.793Z",
+          "httpAccess": "success",
+          "url": "https://github.com/codrops/Scroll3DGrid/blob/69718a2eff87b32ab19764b3a6d7b3773dab6af3/js/index.js",
+          "blobApiUrl": "https://api.github.com/repos/codrops/Scroll3DGrid/git/blobs/d2da6df5ac1eacac2672bd27645867858c449d7d",
+          "reviewDepth": "Selected key source ranges reviewed; source file retrieved in full.",
+          "excerpts": [
+            {
+              "line": 10,
+              "text": "lenis = new Lenis({"
+            },
+            {
+              "line": 31,
+              "text": "const applyAnimation = (grid, animationType) => {"
+            },
+            {
+              "line": 44,
+              "text": "scrub: true"
+            },
+            {
+              "line": 54,
+              "text": "grid.style.setProperty('--perspective', '1000px');"
+            },
+            {
+              "line": 59,
+              "text": "rotationY: 25"
+            },
+            {
+              "line": 81,
+              "text": "grid.style.setProperty('--perspective', '2000px');"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
