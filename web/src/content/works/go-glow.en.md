@@ -45,6 +45,32 @@ The final presentation combines care attachments with a consistent silhouette an
 
 ![GO GLOW product-family render](/works/documents/portfolio-51/036.webp)
 
+### Material, lighting and scene details
+
+![GO GLOW personal-care arrangement](/works/refinement-v2/rendering-pdf/002.webp)
+
+![Toothbrush and mirror module](/works/refinement-v2/rendering-pdf/004.webp)
+
+![Care modules and handle arrangement](/works/refinement-v2/rendering-pdf/006.webp)
+
+![Interchangeable care module](/works/refinement-v2/rendering-pdf/008.webp)
+
+![Product and base family](/works/refinement-v2/rendering-pdf/009.webp)
+
+![Desktop care scene](/works/refinement-v2/rendering-pdf/037.webp)
+
+![Care products and floral still life](/works/refinement-v2/rendering-pdf/038.webp)
+
+![Overhead care-module composition](/works/refinement-v2/rendering-pdf/039.webp)
+
+![Toothbrush and water scene](/works/refinement-v2/rendering-pdf/040.webp)
+
+![Care arrangement in a rock scene](/works/refinement-v2/rendering-pdf/041.webp)
+
+![Face-care module over water](/works/refinement-v2/rendering-pdf/042.webp)
+
+![Care modules and floral composition](/works/refinement-v2/rendering-pdf/044.webp)
+
 ## Outcome and stage
 
 The outcome is a product and interface concept proposal. Module connections, water resistance, cleaning performance and practical storage require prototypes and testing. An earlier version of the background presentation page follows.

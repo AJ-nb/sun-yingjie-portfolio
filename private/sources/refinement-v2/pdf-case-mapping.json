@@ -1,0 +1,414 @@
+{
+  "source": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+  "referenceCount": 44,
+  "uniqueImageCount": 43,
+  "published": [
+    {
+      "id": "pdf-001",
+      "recommendedCase": "plant-companion",
+      "captionZh": "植遇相伴模块组合",
+      "captionEn": "Plant Companion modular arrangement",
+      "publicPath": "/works/refinement-v2/rendering-pdf/001.webp",
+      "webDimensions": [
+        2560,
+        905
+      ]
+    },
+    {
+      "id": "pdf-002",
+      "recommendedCase": "go-glow",
+      "captionZh": "GO GLOW 个护产品组合",
+      "captionEn": "GO GLOW personal-care arrangement",
+      "publicPath": "/works/refinement-v2/rendering-pdf/002.webp",
+      "webDimensions": [
+        2560,
+        904
+      ]
+    },
+    {
+      "id": "pdf-004",
+      "recommendedCase": "go-glow",
+      "captionZh": "牙刷与镜面模块",
+      "captionEn": "Toothbrush and mirror module",
+      "publicPath": "/works/refinement-v2/rendering-pdf/004.webp",
+      "webDimensions": [
+        653,
+        1586
+      ]
+    },
+    {
+      "id": "pdf-006",
+      "recommendedCase": "go-glow",
+      "captionZh": "模块与握持手柄分解",
+      "captionEn": "Care modules and handle arrangement",
+      "publicPath": "/works/refinement-v2/rendering-pdf/006.webp",
+      "webDimensions": [
+        1695,
+        1811
+      ]
+    },
+    {
+      "id": "pdf-008",
+      "recommendedCase": "go-glow",
+      "captionZh": "可替换护理模块",
+      "captionEn": "Interchangeable care module",
+      "publicPath": "/works/refinement-v2/rendering-pdf/008.webp",
+      "webDimensions": [
+        1257,
+        1513
+      ]
+    },
+    {
+      "id": "pdf-009",
+      "recommendedCase": "go-glow",
+      "captionZh": "产品与底座系列",
+      "captionEn": "Product and base family",
+      "publicPath": "/works/refinement-v2/rendering-pdf/009.webp",
+      "webDimensions": [
+        1217,
+        1153
+      ]
+    },
+    {
+      "id": "pdf-011",
+      "recommendedCase": "lighting",
+      "captionZh": "线性吊灯渲染",
+      "captionEn": "Linear pendant light render",
+      "publicPath": "/works/refinement-v2/rendering-pdf/011.webp",
+      "webDimensions": [
+        1280,
+        960
+      ]
+    },
+    {
+      "id": "pdf-012",
+      "recommendedCase": "lighting",
+      "captionZh": "壁灯空间渲染",
+      "captionEn": "Wall-light interior render",
+      "publicPath": "/works/refinement-v2/rendering-pdf/012.webp",
+      "webDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "id": "pdf-013",
+      "recommendedCase": "lighting",
+      "captionZh": "壁灯发光细节",
+      "captionEn": "Wall-light illumination detail",
+      "publicPath": "/works/refinement-v2/rendering-pdf/013.webp",
+      "webDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "id": "pdf-014",
+      "recommendedCase": "ecological-harvest",
+      "captionZh": "生态丰收漫游者环境渲染",
+      "captionEn": "Ecological Harvester environment render",
+      "publicPath": "/works/refinement-v2/rendering-pdf/014.webp",
+      "webDimensions": [
+        2560,
+        905
+      ]
+    },
+    {
+      "id": "pdf-015",
+      "recommendedCase": "huhu-care",
+      "captionZh": "HUHU CARE 组合场景",
+      "captionEn": "HUHU CARE product arrangement",
+      "publicPath": "/works/refinement-v2/rendering-pdf/015.webp",
+      "webDimensions": [
+        2560,
+        904
+      ]
+    },
+    {
+      "id": "pdf-017",
+      "recommendedCase": "rendering-studies",
+      "captionZh": "手腕支撑产品视觉习作",
+      "captionEn": "Wrist-support product visualization study",
+      "publicPath": "/works/refinement-v2/rendering-pdf/017.webp",
+      "webDimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "id": "pdf-018",
+      "recommendedCase": "rendering-studies",
+      "captionZh": "手腕支撑产品材质对比",
+      "captionEn": "Wrist-support material comparison",
+      "publicPath": "/works/refinement-v2/rendering-pdf/018.webp",
+      "webDimensions": [
+        2103,
+        1182
+      ]
+    },
+    {
+      "id": "pdf-019",
+      "recommendedCase": "huhu-care",
+      "captionZh": "HUHU CARE 产品外观",
+      "captionEn": "HUHU CARE product form",
+      "publicPath": "/works/refinement-v2/rendering-pdf/019.webp",
+      "webDimensions": [
+        2111,
+        2307
+      ]
+    },
+    {
+      "id": "pdf-020",
+      "recommendedCase": "huhu-care",
+      "captionZh": "HUHU CARE 握持关系",
+      "captionEn": "HUHU CARE grip relationship",
+      "publicPath": "/works/refinement-v2/rendering-pdf/020.webp",
+      "webDimensions": [
+        926,
+        1498
+      ]
+    },
+    {
+      "id": "pdf-021",
+      "recommendedCase": "huhu-care",
+      "captionZh": "HUHU CARE 与底座",
+      "captionEn": "HUHU CARE and base",
+      "publicPath": "/works/refinement-v2/rendering-pdf/021.webp",
+      "webDimensions": [
+        1663,
+        2131
+      ]
+    },
+    {
+      "id": "pdf-022",
+      "recommendedCase": "huhu-care",
+      "captionZh": "HUHU CARE 圆环场景",
+      "captionEn": "HUHU CARE circular scene",
+      "publicPath": "/works/refinement-v2/rendering-pdf/022.webp",
+      "webDimensions": [
+        2560,
+        1919
+      ]
+    },
+    {
+      "id": "pdf-023",
+      "recommendedCase": "lighting",
+      "captionZh": "线性灯具室内场景",
+      "captionEn": "Linear-light interior scene",
+      "publicPath": "/works/refinement-v2/rendering-pdf/023.webp",
+      "webDimensions": [
+        1280,
+        1280
+      ]
+    },
+    {
+      "id": "pdf-024",
+      "recommendedCase": "plant-companion",
+      "captionZh": "植遇相伴模块与显示底座",
+      "captionEn": "Plant Companion modules and display base",
+      "publicPath": "/works/refinement-v2/rendering-pdf/024.webp",
+      "webDimensions": [
+        2560,
+        903
+      ]
+    },
+    {
+      "id": "pdf-025",
+      "recommendedCase": "lighting",
+      "captionZh": "灯具与型材分解",
+      "captionEn": "Light and extrusion study",
+      "publicPath": "/works/refinement-v2/rendering-pdf/025.webp",
+      "webDimensions": [
+        1280,
+        1810
+      ]
+    },
+    {
+      "id": "pdf-026",
+      "recommendedCase": "lighting",
+      "captionZh": "落地灯完整视图",
+      "captionEn": "Complete floor-light view",
+      "publicPath": "/works/refinement-v2/rendering-pdf/026.webp",
+      "webDimensions": [
+        898,
+        898
+      ]
+    },
+    {
+      "id": "pdf-027",
+      "recommendedCase": "hermes",
+      "captionZh": "夏季橱窗空间方案",
+      "captionEn": "Summer window spatial proposal",
+      "publicPath": "/works/refinement-v2/rendering-pdf/027.webp",
+      "webDimensions": [
+        2560,
+        1920
+      ]
+    },
+    {
+      "id": "pdf-028",
+      "recommendedCase": "hermes",
+      "captionZh": "季节橱窗空间方案",
+      "captionEn": "Seasonal window spatial proposal",
+      "publicPath": "/works/refinement-v2/rendering-pdf/028.webp",
+      "webDimensions": [
+        2560,
+        1440
+      ]
+    },
+    {
+      "id": "pdf-029",
+      "recommendedCase": "hermes",
+      "captionZh": "灯塔主题橱窗方案",
+      "captionEn": "Lighthouse-themed window proposal",
+      "publicPath": "/works/refinement-v2/rendering-pdf/029.webp",
+      "webDimensions": [
+        2368,
+        2160
+      ]
+    },
+    {
+      "id": "pdf-031",
+      "recommendedCase": "ecological-harvest",
+      "captionZh": "生态丰收漫游者正面场景",
+      "captionEn": "Ecological Harvester frontal scene",
+      "publicPath": "/works/refinement-v2/rendering-pdf/031.webp",
+      "webDimensions": [
+        2560,
+        905
+      ]
+    },
+    {
+      "id": "pdf-033",
+      "recommendedCase": "plumber",
+      "captionZh": "引渡者机器人动作场景",
+      "captionEn": "PLUMBER robot action scene",
+      "publicPath": "/works/refinement-v2/rendering-pdf/033.webp",
+      "webDimensions": [
+        2560,
+        882
+      ]
+    },
+    {
+      "id": "pdf-034",
+      "recommendedCase": "plumber",
+      "captionZh": "机器人地下基站空间",
+      "captionEn": "Robot underground station scene",
+      "publicPath": "/works/refinement-v2/rendering-pdf/034.webp",
+      "webDimensions": [
+        2560,
+        859
+      ]
+    },
+    {
+      "id": "pdf-035",
+      "recommendedCase": "plant-companion",
+      "captionZh": "植遇相伴低视角组合",
+      "captionEn": "Plant Companion low-angle arrangement",
+      "publicPath": "/works/refinement-v2/rendering-pdf/035.webp",
+      "webDimensions": [
+        2560,
+        904
+      ]
+    },
+    {
+      "id": "pdf-036",
+      "recommendedCase": "plumber",
+      "captionZh": "地下设施环境渲染",
+      "captionEn": "Underground facility render",
+      "publicPath": "/works/refinement-v2/rendering-pdf/036.webp",
+      "webDimensions": [
+        1280,
+        451
+      ]
+    },
+    {
+      "id": "pdf-037",
+      "recommendedCase": "go-glow",
+      "captionZh": "桌面个护场景",
+      "captionEn": "Desktop care scene",
+      "publicPath": "/works/refinement-v2/rendering-pdf/037.webp",
+      "webDimensions": [
+        2560,
+        905
+      ]
+    },
+    {
+      "id": "pdf-038",
+      "recommendedCase": "go-glow",
+      "captionZh": "个护产品与花卉静物",
+      "captionEn": "Care products and floral still life",
+      "publicPath": "/works/refinement-v2/rendering-pdf/038.webp",
+      "webDimensions": [
+        2560,
+        1920
+      ]
+    },
+    {
+      "id": "pdf-039",
+      "recommendedCase": "go-glow",
+      "captionZh": "模块组合俯视构图",
+      "captionEn": "Overhead care-module composition",
+      "publicPath": "/works/refinement-v2/rendering-pdf/039.webp",
+      "webDimensions": [
+        2560,
+        2560
+      ]
+    },
+    {
+      "id": "pdf-040",
+      "recommendedCase": "go-glow",
+      "captionZh": "牙刷与水面场景",
+      "captionEn": "Toothbrush and water scene",
+      "publicPath": "/works/refinement-v2/rendering-pdf/040.webp",
+      "webDimensions": [
+        2560,
+        905
+      ]
+    },
+    {
+      "id": "pdf-041",
+      "recommendedCase": "go-glow",
+      "captionZh": "岩石场景中的产品组合",
+      "captionEn": "Care arrangement in a rock scene",
+      "publicPath": "/works/refinement-v2/rendering-pdf/041.webp",
+      "webDimensions": [
+        2560,
+        2208
+      ]
+    },
+    {
+      "id": "pdf-042",
+      "recommendedCase": "go-glow",
+      "captionZh": "洁面模块水面近景",
+      "captionEn": "Face-care module over water",
+      "publicPath": "/works/refinement-v2/rendering-pdf/042.webp",
+      "webDimensions": [
+        1273,
+        448
+      ]
+    },
+    {
+      "id": "pdf-043",
+      "recommendedCase": "plumber",
+      "captionZh": "管道环境远景",
+      "captionEn": "Pipe-environment wide view",
+      "publicPath": "/works/refinement-v2/rendering-pdf/043.webp",
+      "webDimensions": [
+        1684,
+        595
+      ]
+    },
+    {
+      "id": "pdf-044",
+      "recommendedCase": "go-glow",
+      "captionZh": "护理模块与花卉构图",
+      "captionEn": "Care modules and floral composition",
+      "publicPath": "/works/refinement-v2/rendering-pdf/044.webp",
+      "webDimensions": [
+        2560,
+        905
+      ]
+    }
+  ]
+}

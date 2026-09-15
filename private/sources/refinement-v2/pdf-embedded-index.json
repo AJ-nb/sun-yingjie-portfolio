@@ -1,0 +1,1405 @@
+{
+  "source": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+  "sourceSha256": "579908cbaac6c9e7bcbbe92af9ad127fa2def005e87e8e0b2e75ee318855bcd4",
+  "pageCount": 1,
+  "imageCount": 44,
+  "images": [
+    {
+      "id": "pdf-001",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X25.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1190, '/SMask': IndirectObject(6, 0, 2354825256144), '/Width': 3368, '/ColorSpace': IndirectObject(3, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        3368,
+        1190
+      ],
+      "sourceImageSha256": "bdd60b92e87232e7904dacde6902cfecdebd1d1c5c0d7c2b18b9c7fd7e438427",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/001-X25.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/001.webp",
+      "webDimensions": [
+        2560,
+        905
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "plant-companion",
+      "captionZh": "植遇相伴模块组合",
+      "captionEn": "Plant Companion modular arrangement",
+      "alphaContentBounds": [
+        0,
+        0,
+        3368,
+        1190
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-002",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X1.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1059, '/SMask': IndirectObject(554, 0, 2354825256144), '/Width': 3000, '/ColorSpace': IndirectObject(558, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        3000,
+        1059
+      ],
+      "sourceImageSha256": "25c9f6e76fe380284a11f1fae6bfd1fbf1cc45483f21b5dffbedd992f9480c36",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/002-X1.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/002.webp",
+      "webDimensions": [
+        2560,
+        904
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "go-glow",
+      "captionZh": "GO GLOW 个护产品组合",
+      "captionEn": "GO GLOW personal-care arrangement",
+      "alphaContentBounds": [
+        0,
+        0,
+        3000,
+        1059
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-003",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X9.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 4096, '/SMask': IndirectObject(388, 0, 2354825256144), '/Width': 2673, '/ColorSpace': IndirectObject(387, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        2673,
+        4096
+      ],
+      "sourceImageSha256": "743789b31785f9107c087f7e5bbe0f772d172ba54547791d60a99150ee3688b4",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/003-X9.jp2",
+      "publicPath": null,
+      "webDimensions": [
+        1671,
+        2560
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "excluded-from-site",
+      "authorship": "Visual rendering portfolio supplied by Sun Yingjie; product and third-party asset authorship requires per-image classification.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "exclusionReason": "Portrait/product composite; person-image origin and authorization not established"
+    },
+    {
+      "id": "pdf-004",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X11.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 2000, '/SMask': IndirectObject(392, 0, 2354825256144), '/Width': 1333, '/ColorSpace': IndirectObject(387, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1333,
+        2000
+      ],
+      "sourceImageSha256": "cec740aace573bd4a29268792c556ef01b15558070b15f008c6fbfb61705a97d",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/004-X11.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/004.webp",
+      "webDimensions": [
+        653,
+        1586
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "go-glow",
+      "captionZh": "牙刷与镜面模块",
+      "captionEn": "Toothbrush and mirror module",
+      "alphaContentBounds": [
+        572,
+        414,
+        1225,
+        2000
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-005",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X8.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 4096, '/SMask': IndirectObject(396, 0, 2354825256144), '/Width': 2774, '/ColorSpace': IndirectObject(387, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        2774,
+        4096
+      ],
+      "sourceImageSha256": "30f14c5b7af12ef7bfccf2aaacd9239338d4cdcdbe5b6ce9854fad25e2d930e2",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/005-X8.jp2",
+      "publicPath": null,
+      "webDimensions": [
+        1734,
+        2560
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "excluded-from-site",
+      "authorship": "Visual rendering portfolio supplied by Sun Yingjie; product and third-party asset authorship requires per-image classification.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "exclusionReason": "Portrait/product composite; person-image origin and authorization not established"
+    },
+    {
+      "id": "pdf-006",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X7.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 2000, '/SMask': IndirectObject(400, 0, 2354825256144), '/Width': 3000, '/ColorSpace': IndirectObject(387, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        3000,
+        2000
+      ],
+      "sourceImageSha256": "9e5f434667faf32b1eb335ee714880267d881604378326453c1229521c6206c5",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/006-X7.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/006.webp",
+      "webDimensions": [
+        1695,
+        1811
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "go-glow",
+      "captionZh": "模块与握持手柄分解",
+      "captionEn": "Care modules and handle arrangement",
+      "alphaContentBounds": [
+        707,
+        130,
+        2402,
+        1941
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-007",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X5.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 853, '/SMask': IndirectObject(404, 0, 2354825256144), '/Width': 1280, '/ColorSpace': IndirectObject(387, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1280,
+        853
+      ],
+      "sourceImageSha256": "f32d30c8a4b906f80bc61a049a4b7d3caa962b1061f0708d59990ea2a17a4ae0",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/007-X5.jp2",
+      "publicPath": null,
+      "webDimensions": [
+        1280,
+        853
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "excluded-from-site",
+      "authorship": "Visual rendering portfolio supplied by Sun Yingjie; product and third-party asset authorship requires per-image classification.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "exclusionReason": "Portrait/product composite; person-image origin and authorization not established"
+    },
+    {
+      "id": "pdf-008",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X4.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 2000, '/SMask': IndirectObject(408, 0, 2354825256144), '/Width': 1333, '/ColorSpace': IndirectObject(387, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1333,
+        2000
+      ],
+      "sourceImageSha256": "9cbc3b9f22d81cc630f18f9ecaaef6c79bfa14040d225f05b5f8440134183845",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/008-X4.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/008.webp",
+      "webDimensions": [
+        1257,
+        1513
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "go-glow",
+      "captionZh": "可替换护理模块",
+      "captionEn": "Interchangeable care module",
+      "alphaContentBounds": [
+        40,
+        487,
+        1297,
+        2000
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-009",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X2.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 2000, '/SMask': IndirectObject(417, 0, 2354825256144), '/Width': 1333, '/ColorSpace': IndirectObject(387, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1333,
+        2000
+      ],
+      "sourceImageSha256": "8acab5d28e24df292208d695b322071d919fe4626210d5deccf0d8b211d1788b",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/009-X2.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/009.webp",
+      "webDimensions": [
+        1217,
+        1153
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "go-glow",
+      "captionZh": "产品与底座系列",
+      "captionEn": "Product and base family",
+      "alphaContentBounds": [
+        68,
+        560,
+        1285,
+        1713
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-010",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X1.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 768, '/SMask': IndirectObject(438, 0, 2354825256144), '/Width': 1280, '/ColorSpace': IndirectObject(387, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1280,
+        768
+      ],
+      "sourceImageSha256": "6630fc398a0171b88c2271ac080ea489fd3eb563133f32bb8a439885f09fb61b",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/010-X1.jp2",
+      "publicPath": null,
+      "webDimensions": [
+        1280,
+        768
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "excluded-from-site",
+      "authorship": "Visual rendering portfolio supplied by Sun Yingjie; product and third-party asset authorship requires per-image classification.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "exclusionReason": "Reference landscape image with visible watermark; not presented as authored rendering"
+    },
+    {
+      "id": "pdf-011",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X19.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 960, '/SMask': IndirectObject(458, 0, 2354825256144), '/Width': 1280, '/ColorSpace': IndirectObject(3, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1280,
+        960
+      ],
+      "sourceImageSha256": "7e8ef8341ded85b3f3c395190e3b5983498faf45263a0c41fd38c20f96204ee7",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/011-X19.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/011.webp",
+      "webDimensions": [
+        1280,
+        960
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "lighting",
+      "captionZh": "线性吊灯渲染",
+      "captionEn": "Linear pendant light render",
+      "alphaContentBounds": [
+        0,
+        0,
+        1280,
+        960
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-012",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X18.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1280, '/SMask': IndirectObject(462, 0, 2354825256144), '/Width': 1280, '/ColorSpace': IndirectObject(3, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1280,
+        1280
+      ],
+      "sourceImageSha256": "60bdc982c8c63f3eec8fbc08b901209472f4b527fc00d762ba19d020b0d0eb86",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/012-X18.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/012.webp",
+      "webDimensions": [
+        1280,
+        1280
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "lighting",
+      "captionZh": "壁灯空间渲染",
+      "captionEn": "Wall-light interior render",
+      "alphaContentBounds": [
+        0,
+        0,
+        1280,
+        1280
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-013",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X16.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1280, '/SMask': IndirectObject(504, 0, 2354825256144), '/Width': 1280, '/ColorSpace': IndirectObject(3, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1280,
+        1280
+      ],
+      "sourceImageSha256": "87cb1cfdb63da86c44c8e7c3f8cf2b72d67082438e48d410b6ab625bb1c058de",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/013-X16.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/013.webp",
+      "webDimensions": [
+        1280,
+        1280
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "lighting",
+      "captionZh": "壁灯发光细节",
+      "captionEn": "Wall-light illumination detail",
+      "alphaContentBounds": [
+        0,
+        0,
+        1280,
+        1280
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-014",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X23.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1357, '/SMask': IndirectObject(377, 0, 2354825256144), '/Width': 3840, '/ColorSpace': IndirectObject(3, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        3840,
+        1357
+      ],
+      "sourceImageSha256": "3a32f5d7e714e8afb4cd01ae5af4b11e2e253f1648931885521826e02d66bfc1",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/014-X23.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/014.webp",
+      "webDimensions": [
+        2560,
+        905
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "ecological-harvest",
+      "captionZh": "生态丰收漫游者环境渲染",
+      "captionEn": "Ecological Harvester environment render",
+      "alphaContentBounds": [
+        0,
+        0,
+        3840,
+        1357
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-015",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X2.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1059, '/SMask': IndirectObject(364, 0, 2354825256144), '/Width': 3000, '/ColorSpace': IndirectObject(368, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        3000,
+        1059
+      ],
+      "sourceImageSha256": "bd65ec5e20da0a1ecd5db1725a815581b6a91c958fe0dd394606eaf471bc07e8",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/015-X2.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/015.webp",
+      "webDimensions": [
+        2560,
+        904
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "huhu-care",
+      "captionZh": "HUHU CARE 组合场景",
+      "captionEn": "HUHU CARE product arrangement",
+      "alphaContentBounds": [
+        0,
+        0,
+        3000,
+        1059
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-016",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X1.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 2897, '/SMask': IndirectObject(371, 0, 2354825256144), '/Width': 4096, '/ColorSpace': IndirectObject(368, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        4096,
+        2897
+      ],
+      "sourceImageSha256": "612bffa81340bb3e132161e0baeb9a4f91f4b57d82c0fc58ed5574123c90f1b0",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/016-X1.jp2",
+      "publicPath": null,
+      "webDimensions": [
+        2560,
+        1811
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "excluded-from-site",
+      "authorship": "Visual rendering portfolio supplied by Sun Yingjie; product and third-party asset authorship requires per-image classification.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "exclusionReason": "Graphic symbol rather than a render; retained in source index"
+    },
+    {
+      "id": "pdf-017",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X2.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1080, '/SMask': IndirectObject(466, 0, 2354825256144), '/Width': 1920, '/ColorSpace': IndirectObject(470, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1920,
+        1080
+      ],
+      "sourceImageSha256": "decdcaca8fced771eb945c597e20f83a1bdb58f7a77f675dd1d07cd6169ceec9",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/017-X2.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/017.webp",
+      "webDimensions": [
+        1920,
+        1080
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "rendering-studies",
+      "captionZh": "手腕支撑产品视觉习作",
+      "captionEn": "Wrist-support product visualization study",
+      "alphaContentBounds": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-018",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X1.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1182, '/SMask': IndirectObject(473, 0, 2354825256144), '/Width': 2103, '/ColorSpace': IndirectObject(470, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        2103,
+        1182
+      ],
+      "sourceImageSha256": "8ed96a166cf335354f6c5228a786e4a6ad1561267ca5da754de28d17267e8f01",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/018-X1.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/018.webp",
+      "webDimensions": [
+        2103,
+        1182
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "rendering-studies",
+      "captionZh": "手腕支撑产品材质对比",
+      "captionEn": "Wrist-support material comparison",
+      "alphaContentBounds": [
+        0,
+        0,
+        2103,
+        1182
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-019",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X4.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 3000, '/SMask': IndirectObject(479, 0, 2354825256144), '/Width': 3000, '/ColorSpace': IndirectObject(483, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        3000,
+        3000
+      ],
+      "sourceImageSha256": "cdb8289d8c7efddedc466a56d62f96040f6b72cc57edd31763653e09ca67f02d",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/019-X4.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/019.webp",
+      "webDimensions": [
+        2111,
+        2307
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "huhu-care",
+      "captionZh": "HUHU CARE 产品外观",
+      "captionEn": "HUHU CARE product form",
+      "alphaContentBounds": [
+        269,
+        434,
+        2380,
+        2741
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-020",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X2.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1706, '/SMask': IndirectObject(486, 0, 2354825256144), '/Width': 1279, '/ColorSpace': IndirectObject(483, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1279,
+        1706
+      ],
+      "sourceImageSha256": "9b7bce91c524fce1eb10ab1b93aac74a7e37a68e996e9c1ba52929c2894fb474",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/020-X2.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/020.webp",
+      "webDimensions": [
+        926,
+        1498
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "huhu-care",
+      "captionZh": "HUHU CARE 握持关系",
+      "captionEn": "HUHU CARE grip relationship",
+      "alphaContentBounds": [
+        353,
+        208,
+        1279,
+        1706
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-021",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X3.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 3000, '/SMask': IndirectObject(490, 0, 2354825256144), '/Width': 3000, '/ColorSpace': IndirectObject(483, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        3000,
+        3000
+      ],
+      "sourceImageSha256": "df26766ea830bffda5dc39608ce3ed69d0c6a8806010cce2b69bc8974cbf9fb8",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/021-X3.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/021.webp",
+      "webDimensions": [
+        1663,
+        2131
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "huhu-care",
+      "captionZh": "HUHU CARE 与底座",
+      "captionEn": "HUHU CARE and base",
+      "alphaContentBounds": [
+        696,
+        756,
+        2359,
+        2887
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-022",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X1.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1919, '/SMask': IndirectObject(494, 0, 2354825256144), '/Width': 2560, '/ColorSpace': IndirectObject(483, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        2560,
+        1919
+      ],
+      "sourceImageSha256": "d4afd596ed79da5cd2d5fafba2763cdacd7d065927a75e1bb697014f16712acc",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/022-X1.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/022.webp",
+      "webDimensions": [
+        2560,
+        1919
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "huhu-care",
+      "captionZh": "HUHU CARE 圆环场景",
+      "captionEn": "HUHU CARE circular scene",
+      "alphaContentBounds": [
+        0,
+        0,
+        2560,
+        1919
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-023",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X17.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1280, '/SMask': IndirectObject(500, 0, 2354825256144), '/Width': 1280, '/ColorSpace': IndirectObject(3, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1280,
+        1280
+      ],
+      "sourceImageSha256": "235b1f3a0de6d616164377a66dd2a193945fc03ded16ed200465679a06d23670",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/023-X17.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/023.webp",
+      "webDimensions": [
+        1280,
+        1280
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "lighting",
+      "captionZh": "线性灯具室内场景",
+      "captionEn": "Linear-light interior scene",
+      "alphaContentBounds": [
+        0,
+        0,
+        1280,
+        1280
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-024",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X1.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 2480, '/SMask': IndirectObject(619, 0, 2354825256144), '/Width': 3508, '/ColorSpace': IndirectObject(623, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        3508,
+        2480
+      ],
+      "sourceImageSha256": "a8c74593fcdd67b4d7fa62ab3cec34e32388258b67270b7c2e3573ca66511922",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/024-X1.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/024.webp",
+      "webDimensions": [
+        2560,
+        903
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "plant-companion",
+      "captionZh": "植遇相伴模块与显示底座",
+      "captionEn": "Plant Companion modules and display base",
+      "alphaContentBounds": [
+        20,
+        396,
+        3480,
+        1617
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-025",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X15.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1810, '/SMask': IndirectObject(508, 0, 2354825256144), '/Width': 1280, '/ColorSpace': IndirectObject(3, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1280,
+        1810
+      ],
+      "sourceImageSha256": "f7699ac6c2991546f084a3462b4d9c7e8090b5fce310309e3146321b97e9dba9",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/025-X15.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/025.webp",
+      "webDimensions": [
+        1280,
+        1810
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "lighting",
+      "captionZh": "灯具与型材分解",
+      "captionEn": "Light and extrusion study",
+      "alphaContentBounds": [
+        0,
+        0,
+        1280,
+        1810
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-026",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X20.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 898, '/SMask': IndirectObject(512, 0, 2354825256144), '/Width': 898, '/ColorSpace': IndirectObject(3, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        898,
+        898
+      ],
+      "sourceImageSha256": "2b989be7ea3cf3cc210be0c4bc98e36fd4dc658c93053ecce07cb9604224b03f",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/026-X20.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/026.webp",
+      "webDimensions": [
+        898,
+        898
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "lighting",
+      "captionZh": "落地灯完整视图",
+      "captionEn": "Complete floor-light view",
+      "alphaContentBounds": [
+        0,
+        0,
+        898,
+        898
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-027",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X4.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1920, '/SMask': IndirectObject(516, 0, 2354825256144), '/Width': 2560, '/ColorSpace': IndirectObject(520, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        2560,
+        1920
+      ],
+      "sourceImageSha256": "502ccafb0645ea60de178783306c7c93b9a864caf3448dd2e69c638962e5ff78",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/027-X4.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/027.webp",
+      "webDimensions": [
+        2560,
+        1920
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "hermes",
+      "captionZh": "夏季橱窗空间方案",
+      "captionEn": "Summer window spatial proposal",
+      "alphaContentBounds": [
+        0,
+        0,
+        2560,
+        1920
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-028",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X2.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 2160, '/SMask': IndirectObject(523, 0, 2354825256144), '/Width': 3840, '/ColorSpace': IndirectObject(520, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        3840,
+        2160
+      ],
+      "sourceImageSha256": "3c28e47792e8d1de3a79dfc84a689a48c586dc18ad26ad8043df6bcd25e751b9",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/028-X2.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/028.webp",
+      "webDimensions": [
+        2560,
+        1440
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "hermes",
+      "captionZh": "季节橱窗空间方案",
+      "captionEn": "Seasonal window spatial proposal",
+      "alphaContentBounds": [
+        0,
+        0,
+        3840,
+        2160
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-029",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X3.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 2160, '/SMask': IndirectObject(527, 0, 2354825256144), '/Width': 2368, '/ColorSpace': IndirectObject(520, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        2368,
+        2160
+      ],
+      "sourceImageSha256": "cdcd4e78cb858c2e85dcbf5945e1dcb1a237b8df7830d5bd9f14a6465a06f09c",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/029-X3.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/029.webp",
+      "webDimensions": [
+        2368,
+        2160
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "hermes",
+      "captionZh": "灯塔主题橱窗方案",
+      "captionEn": "Lighthouse-themed window proposal",
+      "alphaContentBounds": [
+        0,
+        0,
+        2368,
+        2160
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-030",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X1.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1200, '/SMask': IndirectObject(531, 0, 2354825256144), '/Width': 1920, '/ColorSpace': IndirectObject(535, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1920,
+        1200
+      ],
+      "sourceImageSha256": "6ca5c72f2302ade5c8071af7885e57c08b8a62017f1b55a07d654c5c9ba40cb8",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/030-X1.jp2",
+      "publicPath": null,
+      "webDimensions": [
+        1920,
+        1200
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "excluded-from-site",
+      "authorship": "Visual rendering portfolio supplied by Sun Yingjie; product and third-party asset authorship requires per-image classification.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "exclusionReason": "Decorative material texture rather than final project image"
+    },
+    {
+      "id": "pdf-031",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X22.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1357, '/SMask': IndirectObject(540, 0, 2354825256144), '/Width': 3840, '/ColorSpace': IndirectObject(3, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        3840,
+        1357
+      ],
+      "sourceImageSha256": "1ad51055707e04731f257d7b3cb58f0c4eaa914ac726d3ff6eb252fd7ac9375c",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/031-X22.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/031.webp",
+      "webDimensions": [
+        2560,
+        905
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "ecological-harvest",
+      "captionZh": "生态丰收漫游者正面场景",
+      "captionEn": "Ecological Harvester frontal scene",
+      "alphaContentBounds": [
+        0,
+        0,
+        3840,
+        1357
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-032",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X2.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1200, '/SMask': IndirectObject(531, 0, 2354825256144), '/Width': 1920, '/ColorSpace': IndirectObject(535, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1920,
+        1200
+      ],
+      "sourceImageSha256": "6ca5c72f2302ade5c8071af7885e57c08b8a62017f1b55a07d654c5c9ba40cb8",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/032-X2.jp2",
+      "publicPath": null,
+      "webDimensions": [
+        1920,
+        1200
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "excluded-from-site",
+      "authorship": "Visual rendering portfolio supplied by Sun Yingjie; product and third-party asset authorship requires per-image classification.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "exclusionReason": "Duplicate of pdf-030 decorative texture"
+    },
+    {
+      "id": "pdf-033",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X1.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1059, '/SMask': IndirectObject(548, 0, 2354825256144), '/Width': 3075, '/ColorSpace': IndirectObject(535, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        3075,
+        1059
+      ],
+      "sourceImageSha256": "b9b799a661ac84e933944fd3ffcd4353e00dfe7d80acbabe9784eaad4958b919",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/033-X1.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/033.webp",
+      "webDimensions": [
+        2560,
+        882
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "plumber",
+      "captionZh": "引渡者机器人动作场景",
+      "captionEn": "PLUMBER robot action scene",
+      "alphaContentBounds": [
+        0,
+        0,
+        3075,
+        1059
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-034",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X11.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1352, '/SMask': IndirectObject(544, 0, 2354825256144), '/Width': 4096, '/ColorSpace': IndirectObject(3, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        4096,
+        1352
+      ],
+      "sourceImageSha256": "86d7fed4b108a63127ac8d2a4f3069db2fab042d406de76eafb2cef9ff44d343",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/034-X11.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/034.webp",
+      "webDimensions": [
+        2560,
+        859
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "plumber",
+      "captionZh": "机器人地下基站空间",
+      "captionEn": "Robot underground station scene",
+      "alphaContentBounds": [
+        0,
+        0,
+        4031,
+        1352
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-035",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X1.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 2480, '/SMask': IndirectObject(563, 0, 2354825256144), '/Width': 3508, '/ColorSpace': IndirectObject(567, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        3508,
+        2480
+      ],
+      "sourceImageSha256": "3e770453b9f887b533fc5d02a76181b35173665826cc27cc8c6a3e6e2a0dc5a7",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/035-X1.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/035.webp",
+      "webDimensions": [
+        2560,
+        904
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "plant-companion",
+      "captionZh": "植遇相伴低视角组合",
+      "captionEn": "Plant Companion low-angle arrangement",
+      "alphaContentBounds": [
+        19,
+        500,
+        3490,
+        1726
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-036",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X12.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 451, '/SMask': IndirectObject(572, 0, 2354825256144), '/Width': 1280, '/ColorSpace': IndirectObject(3, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1280,
+        451
+      ],
+      "sourceImageSha256": "fb884a9ea51fb8333d333a15f92f95bd52bf6449431a8f21fa9d92baea8b1ba4",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/036-X12.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/036.webp",
+      "webDimensions": [
+        1280,
+        451
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "plumber",
+      "captionZh": "地下设施环境渲染",
+      "captionEn": "Underground facility render",
+      "alphaContentBounds": [
+        0,
+        0,
+        1280,
+        451
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-037",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X1.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1000, '/SMask': IndirectObject(576, 0, 2354825256144), '/Width': 2830, '/ColorSpace': IndirectObject(580, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        2830,
+        1000
+      ],
+      "sourceImageSha256": "27391b3e12dc0f0888191ab8ad6354c8e989072c83129ce7ccec19bb0ae9e170",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/037-X1.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/037.webp",
+      "webDimensions": [
+        2560,
+        905
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "go-glow",
+      "captionZh": "桌面个护场景",
+      "captionEn": "Desktop care scene",
+      "alphaContentBounds": [
+        0,
+        0,
+        2830,
+        1000
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-038",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X2.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 3072, '/SMask': IndirectObject(585, 0, 2354825256144), '/Width': 4096, '/ColorSpace': IndirectObject(589, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        4096,
+        3072
+      ],
+      "sourceImageSha256": "1dfc81610a71b7229f3b60d4074882b7571e76f21867012099db440347c38744",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/038-X2.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/038.webp",
+      "webDimensions": [
+        2560,
+        1920
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "go-glow",
+      "captionZh": "个护产品与花卉静物",
+      "captionEn": "Care products and floral still life",
+      "alphaContentBounds": [
+        0,
+        0,
+        4096,
+        3072
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-039",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X1.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 4096, '/SMask': IndirectObject(592, 0, 2354825256144), '/Width': 4096, '/ColorSpace': IndirectObject(589, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        4096,
+        4096
+      ],
+      "sourceImageSha256": "eb7d2387ab5db254ff07e9d1b654b5b46601fe45d1b9d26500b216f213172b76",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/039-X1.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/039.webp",
+      "webDimensions": [
+        2560,
+        2560
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "go-glow",
+      "captionZh": "模块组合俯视构图",
+      "captionEn": "Overhead care-module composition",
+      "alphaContentBounds": [
+        0,
+        0,
+        4096,
+        4096
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-040",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X2.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1000, '/SMask': IndirectObject(598, 0, 2354825256144), '/Width': 2830, '/ColorSpace': IndirectObject(602, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        2830,
+        1000
+      ],
+      "sourceImageSha256": "5bd1c6b207657822a1d4ae0e400d92fb00bf2995a37074f98041adf593feb592",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/040-X2.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/040.webp",
+      "webDimensions": [
+        2560,
+        905
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "go-glow",
+      "captionZh": "牙刷与水面场景",
+      "captionEn": "Toothbrush and water scene",
+      "alphaContentBounds": [
+        0,
+        0,
+        2830,
+        1000
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-041",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X3.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 3532, '/SMask': IndirectObject(605, 0, 2354825256144), '/Width': 4096, '/ColorSpace': IndirectObject(602, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        4096,
+        3532
+      ],
+      "sourceImageSha256": "229ef284d2c9f53e99ee16c77d2edb076ac77d6c1e673183d3f0e790628234cc",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/041-X3.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/041.webp",
+      "webDimensions": [
+        2560,
+        2208
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "go-glow",
+      "captionZh": "岩石场景中的产品组合",
+      "captionEn": "Care arrangement in a rock scene",
+      "alphaContentBounds": [
+        0,
+        0,
+        4096,
+        3532
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-042",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X1.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 448, '/SMask': IndirectObject(609, 0, 2354825256144), '/Width': 1273, '/ColorSpace': IndirectObject(602, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1273,
+        448
+      ],
+      "sourceImageSha256": "c62a380a64acce7ef9e114fb75f3e9c4dc456cb68925194769e05fed4c66faae",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/042-X1.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/042.webp",
+      "webDimensions": [
+        1273,
+        448
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "go-glow",
+      "captionZh": "洁面模块水面近景",
+      "captionEn": "Face-care module over water",
+      "alphaContentBounds": [
+        0,
+        0,
+        1273,
+        448
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-043",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X1.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 595, '/SMask': IndirectObject(628, 0, 2354825256144), '/Width': 1684, '/ColorSpace': IndirectObject(632, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        1684,
+        595
+      ],
+      "sourceImageSha256": "a1ebdb4f1578c38bba598ba32f7d5f8f002dc0182da4b8cf8d4d46c947956aa0",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/043-X1.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/043.webp",
+      "webDimensions": [
+        1684,
+        595
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "plumber",
+      "captionZh": "管道环境远景",
+      "captionEn": "Pipe-environment wide view",
+      "alphaContentBounds": [
+        0,
+        0,
+        1684,
+        595
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    },
+    {
+      "id": "pdf-044",
+      "sourceFile": "D:\\OneDrive\\桌面\\文件\\作品集\\静态渲染师 孙英杰作品集.pdf",
+      "sourcePage": 1,
+      "embeddedName": "X6.jp2",
+      "indirectReference": "{'/Type': '/XObject', '/Subtype': '/Image', '/BitsPerComponent': 8, '/Height': 1000, '/SMask': IndirectObject(637, 0, 2354825256144), '/Width': 2830, '/ColorSpace': IndirectObject(3, 0, 2354825256144), '/Filter': ['/DCTDecode']}",
+      "originalDimensions": [
+        2830,
+        1000
+      ],
+      "sourceImageSha256": "49756225dd28bc0e4f8536a356bb84b83c7a0628f75dfc66e384cf7b8905cec2",
+      "rawPath": ".production-runtime/model-worksets/pdf-embedded-originals/044-X6.jp2",
+      "publicPath": "/works/refinement-v2/rendering-pdf/044.webp",
+      "webDimensions": [
+        2560,
+        905
+      ],
+      "mediaType": "portfolio-embedded-image",
+      "newRender": false,
+      "classification": "visual-review-matched",
+      "authorship": "Rendering/visual presentation from supplied portfolio. Collaborative project and original source-board credits remain applicable; third-party model/brand authorship is not claimed.",
+      "aiAssistance": "Not independently established from PDF; no AI image operation was performed in this extraction",
+      "recommendedCase": "go-glow",
+      "captionZh": "护理模块与花卉构图",
+      "captionEn": "Care modules and floral composition",
+      "alphaContentBounds": [
+        0,
+        0,
+        2830,
+        1000
+      ],
+      "processing": "Transparent border removed using original PDF alpha mask; composited on white; resized within 2560 px; no generative change"
+    }
+  ],
+  "uniqueImageCount": 43,
+  "duplicateGroups": [
+    [
+      "pdf-030",
+      "pdf-032"
+    ]
+  ],
+  "publishedImageCount": 37
+}

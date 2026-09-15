@@ -1,0 +1,8 @@
+----
+Enter the license method:
+  1) Maxon App
+  2) Maxon Account
+  3) Maxon License Server
+  4) RLM
+  Q) Quit
+Please select: 

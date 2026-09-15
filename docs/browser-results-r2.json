@@ -1,0 +1,344 @@
+{
+  "timestamp": "2026-09-15T02:37:16.068Z",
+  "base": "http://127.0.0.1:8947/",
+  "buildIndexSha256": "d2b30315b24b98a24ab988d99266a1f0111081ef5d4f5ac1997b67556e85456d",
+  "engine": "Chrome headless, isolated temporary profile; software WebGL permitted",
+  "checks": [
+    {
+      "name": "All catalog cards and every thumbnail decode",
+      "passed": true,
+      "milliseconds": 920,
+      "detail": {
+        "cards": 33,
+        "uniqueDecodedThumbnails": 33
+      }
+    },
+    {
+      "name": "All categories match source counts; normalized query; empty-state reset",
+      "passed": true,
+      "milliseconds": 406,
+      "detail": {
+        "commercial": 2,
+        "product": 17,
+        "brand": 3,
+        "digital": 8,
+        "experiments": 3
+      }
+    },
+    {
+      "name": "All deep routes load and every case image decodes",
+      "passed": true,
+      "milliseconds": 6152,
+      "detail": {
+        "routes": 33,
+        "decodedCaseReferences": 212,
+        "uniqueDecodedImages": 207
+      }
+    },
+    {
+      "name": "Malformed and missing case routes show the fallback and recover",
+      "passed": true,
+      "milliseconds": 170
+    },
+    {
+      "name": "Case next/back preserves filter, query and scroll; browser forward/back",
+      "passed": true,
+      "milliseconds": 352,
+      "detail": {
+        "scrollBefore": 7717,
+        "scrollAfter": 7717,
+        "nextRoute": "#/work/huhu-care"
+      }
+    },
+    {
+      "name": "Cross-page about/contact/top anchors reach their target",
+      "passed": true,
+      "milliseconds": 322,
+      "detail": {
+        "about": 95.84375,
+        "contact": 148.625,
+        "top": 0
+      }
+    },
+    {
+      "name": "Keyboard lightbox: next/previous, zoom, Escape and focus restoration",
+      "passed": true,
+      "milliseconds": 238,
+      "detail": {
+        "initial": "12 / 15",
+        "next": "13 / 15",
+        "focusRestored": true
+      }
+    },
+    {
+      "name": "Video metadata and muted playback advance",
+      "passed": true,
+      "milliseconds": 959,
+      "detail": {
+        "currentTime": 0.261151,
+        "duration": 27.916667,
+        "width": 960,
+        "height": 544,
+        "paused": false,
+        "readyState": 4,
+        "error": null
+      }
+    },
+    {
+      "name": "Language changes home/case copy and URL; both PDFs download",
+      "passed": true,
+      "milliseconds": 708,
+      "detail": [
+        {
+          "href": "./downloads/sun-yingjie-selected-portfolio.pdf",
+          "suggestedFilename": "sun-yingjie-selected-portfolio.pdf",
+          "bytes": 54192777
+        },
+        {
+          "href": "./downloads/sun-yingjie-resume.pdf",
+          "suggestedFilename": "sun-yingjie-resume.pdf",
+          "bytes": 240492
+        }
+      ]
+    },
+    {
+      "name": "320/390/1440 widths: home, index, case and English have no horizontal overflow",
+      "passed": true,
+      "milliseconds": 2069,
+      "detail": [
+        {
+          "width": 320,
+          "lang": "zh",
+          "surface": "home",
+          "viewport": 320,
+          "document": 320,
+          "body": 320
+        },
+        {
+          "width": 320,
+          "lang": "zh",
+          "surface": "index",
+          "viewport": 320,
+          "document": 320,
+          "body": 320
+        },
+        {
+          "width": 320,
+          "lang": "zh",
+          "surface": "case",
+          "viewport": 320,
+          "document": 320,
+          "body": 320
+        },
+        {
+          "width": 320,
+          "lang": "en",
+          "surface": "home",
+          "viewport": 320,
+          "document": 320,
+          "body": 320
+        },
+        {
+          "width": 320,
+          "lang": "en",
+          "surface": "index",
+          "viewport": 320,
+          "document": 320,
+          "body": 320
+        },
+        {
+          "width": 320,
+          "lang": "en",
+          "surface": "case",
+          "viewport": 320,
+          "document": 320,
+          "body": 320
+        },
+        {
+          "width": 390,
+          "lang": "zh",
+          "surface": "home",
+          "viewport": 390,
+          "document": 390,
+          "body": 390
+        },
+        {
+          "width": 390,
+          "lang": "zh",
+          "surface": "index",
+          "viewport": 390,
+          "document": 390,
+          "body": 390
+        },
+        {
+          "width": 390,
+          "lang": "zh",
+          "surface": "case",
+          "viewport": 390,
+          "document": 390,
+          "body": 390
+        },
+        {
+          "width": 390,
+          "lang": "en",
+          "surface": "home",
+          "viewport": 390,
+          "document": 390,
+          "body": 390
+        },
+        {
+          "width": 390,
+          "lang": "en",
+          "surface": "index",
+          "viewport": 390,
+          "document": 390,
+          "body": 390
+        },
+        {
+          "width": 390,
+          "lang": "en",
+          "surface": "case",
+          "viewport": 390,
+          "document": 390,
+          "body": 390
+        },
+        {
+          "width": 1440,
+          "lang": "zh",
+          "surface": "home",
+          "viewport": 1440,
+          "document": 1440,
+          "body": 1440
+        },
+        {
+          "width": 1440,
+          "lang": "zh",
+          "surface": "index",
+          "viewport": 1440,
+          "document": 1440,
+          "body": 1440
+        },
+        {
+          "width": 1440,
+          "lang": "zh",
+          "surface": "case",
+          "viewport": 1440,
+          "document": 1440,
+          "body": 1440
+        },
+        {
+          "width": 1440,
+          "lang": "en",
+          "surface": "home",
+          "viewport": 1440,
+          "document": 1440,
+          "body": 1440
+        },
+        {
+          "width": 1440,
+          "lang": "en",
+          "surface": "index",
+          "viewport": 1440,
+          "document": 1440,
+          "body": 1440
+        },
+        {
+          "width": 1440,
+          "lang": "en",
+          "surface": "case",
+          "viewport": 1440,
+          "document": 1440,
+          "body": 1440
+        }
+      ]
+    },
+    {
+      "name": "Reduced motion makes no Three or GLB request until explicit click",
+      "passed": true,
+      "milliseconds": 3634,
+      "detail": {
+        "initialThreeRequests": 0,
+        "requestedModelCount": 1,
+        "explicitSceneLive": true
+      }
+    },
+    {
+      "name": "Normal motion loads a live GLB scene; poster remains visible during delayed GLB",
+      "passed": true,
+      "milliseconds": 3085,
+      "detail": {
+        "rendered": {
+          "width": 1440,
+          "height": 1000
+        },
+        "delayedPosterVisible": true,
+        "errors": []
+      }
+    },
+    {
+      "name": "Failed model request restores the static portrait",
+      "passed": true,
+      "milliseconds": 2006,
+      "detail": {
+        "deliberatelyAbortedModel": true,
+        "staticRestored": true
+      }
+    },
+    {
+      "name": "sen gallery has six ordered chapters, accessible stops, mobile fallback and reverse scroll",
+      "passed": true,
+      "milliseconds": 5956,
+      "detail": {
+        "titles": [
+          "商业橱窗",
+          "铝型材灯具",
+          "产品设计与模型",
+          "三维渲染实践",
+          "品牌孵化",
+          "AI 与数字产品"
+        ],
+        "points": [
+          "focus-1",
+          "focus-2",
+          "focus-3",
+          "focus-4",
+          "focus-5"
+        ],
+        "forwardAndReverse": [
+          {
+            "index": 0,
+            "x": 0
+          },
+          {
+            "index": 2,
+            "x": 0
+          },
+          {
+            "index": 5,
+            "x": 0
+          },
+          {
+            "index": 1,
+            "x": 0
+          },
+          {
+            "index": 0,
+            "x": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "No unexpected console errors or uncaught page errors in functional checks",
+      "passed": true,
+      "milliseconds": 0,
+      "detail": {
+        "recordedErrors": 0
+      }
+    }
+  ],
+  "errors": [],
+  "measurements": {},
+  "browserVersion": "152.0.7977.83",
+  "finished": "2026-09-15T02:37:44.165Z"
+}

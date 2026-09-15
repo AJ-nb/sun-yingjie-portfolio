@@ -81,6 +81,14 @@ The 3D design and visual presentation addressed prop proportions, product placem
 
 *Winter project view: a large white horse head and mane anchor the composition; snowy planes connect skier silhouettes, a yellow bag and a small pink horse.*
 
+### Material, lighting and scene details
+
+![Summer window spatial proposal](/works/refinement-v2/rendering-pdf/027.webp)
+
+![Seasonal window spatial proposal](/works/refinement-v2/rendering-pdf/028.webp)
+
+![Lighthouse-themed window proposal](/works/refinement-v2/rendering-pdf/029.webp)
+
 ## Outcome and stage
 
 This page presents twelve views across the summer, autumn and winter commercial windows. Comic-style props, animals within architectural frames and layered snowy landscapes give the three groups distinct scene languages. They document my contribution to the team's 3D design and visual presentation.

@@ -1,0 +1,12 @@
+Observed terminal excerpts from native c4dpy 2026.0.0 attempts:
+
+Enter the license method:
+  1) Maxon App
+  2) Maxon Account
+  3) Maxon License Server
+  4) RLM
+  Q) Quit
+Please select: 1
+Please fix the license in the MaxonApp, press return to try again:
+
+The model-inspection script did not start. No scene save or render occurred.

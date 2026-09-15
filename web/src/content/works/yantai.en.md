@@ -36,3 +36,21 @@ The current interface starts with a product image and connects form analysis to 
 ## Outcome and stage
 
 The project reached v0.7.5 RC, focused on product form learning and archiving with human confirmation. OCR, the workbench, image editing, three-view generation and reconstruction from the earlier v0.6.3 have been removed from the current module. A single-image inference still cannot establish actual materials, hidden structures, the original author or manufacturing feasibility.
+
+<!-- refinement-v2 -->
+
+### A complete learning loop
+
+Capture first validates image decoding and dimensions, then produces form techniques, underlying form families, structural hypotheses and design exploration. Design language, structure and CMF can be requested separately and cached independently, making the question under review explicit.
+
+Before archiving, users confirm a primary style, target folders and the content to write. A stable capture identifier identifies duplicates; existing assets only receive missing folder memberships. Tags are read back after writing. This describes the source-defined recovery and deduplication mechanism. Live library integration requires environment-specific validation.
+
+### Evolution and focus
+
+luck-power, visual-lens and the AJNB Yantai module are one development line. August 2026 records show a narrowing from broad image functions to form study, retaining access to older data while removing OCR, image editing, three-view and reconstruction interfaces from the current module. The predecessor is preserved, while current results describe retained capabilities only.
+
+Style IDs and folder paths provide a vocabulary for archiving, not a replacement for judgment. Model statements about material, connections, style and manufacturing remain inferences. Human confirmation governs recording and archiving; it does not turn a single-image inference into a verified fact.
+
+### Sources
+
+visual-lens/visual-lens README, installation/upgrade documentation, v0.7.5 module records and the original study fixture. The current module is private; [luck-power](https://github.com/AJ-nb/luck-power) is the public predecessor. The development history remains visible; live library import requires environment-specific validation.

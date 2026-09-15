@@ -5,7 +5,7 @@ summary: "A pediatric breath-test design study using balloon interaction, a hand
 role: "Collaborative work"
 credits: "Collaborative project; original board information is preserved with the work"
 status: "Concept and design proposal"
-cover: "/works/documents/portfolio-51/028.webp"
+cover: "/works/refinement-v2/huhu/product-scene.webp"
 tags: ["Children’s experience", "Product concept", "Breath interaction", "Form models"]
 ---
 
@@ -42,6 +42,32 @@ Role analysis and an examination journey establish the touchpoints. Sketches, ha
 ![Mouthpiece, grip, lighting and base diagrams](/works/documents/portfolio-51/025.webp)
 
 ![Proposed breath interaction and feedback sequence](/works/documents/portfolio-51/026.webp)
+
+### Original project renders
+
+These views come from the original model worksets and document form, component relationships and scene visualization. Existing renders were selected and prepared for this edition; the collaborative credits and the proposal’s stated scope remain applicable.
+
+![Earlier form and color study](/works/refinement-v2/huhu/early-form.webp)
+
+![Mouthpiece and connection](/works/refinement-v2/huhu/mouthpiece.webp)
+
+![Mouthpiece rim detail](/works/refinement-v2/huhu/rim-detail.webp)
+
+![Textured grip area](/works/refinement-v2/huhu/grip.webp)
+
+![Neck joint and identity detail](/works/refinement-v2/huhu/neck-detail.webp)
+
+![Final-color three-quarter view](/works/refinement-v2/huhu/three-quarter.webp)
+
+![Reverse view and balloon connection](/works/refinement-v2/huhu/rear.webp)
+
+![Product and base arrangement](/works/refinement-v2/huhu/charging-base.webp)
+
+![Reverse view of product and base](/works/refinement-v2/huhu/base-reverse.webp)
+
+![Balloon, connection and mouthpiece detail](/works/refinement-v2/huhu/balloon-detail.webp)
+
+![Original pediatric breath-test concept scene render](/works/refinement-v2/huhu/product-scene.webp)
 
 ## Final work
 

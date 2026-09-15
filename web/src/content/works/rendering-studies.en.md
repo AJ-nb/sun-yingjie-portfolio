@@ -11,7 +11,7 @@ tags: ["3D visualization", "Materials and lighting", "Bicycle renders", "Motion 
 
 ## Background
 
-This selection explores materials, lighting, composition and scenes through bicycle stills, a long-format product-render collection and a sports-car motion study. Together they examine products as details, complete forms and objects within an environment.
+This selection explores materials, lighting, composition and scenes through bicycle stills, a selection of product renders and a sports-car motion study. Together they examine products as details, complete forms and objects within an environment.
 
 ## My role
 
@@ -27,7 +27,7 @@ The bicycle group compares a dark overall view, snow and mountain settings, and 
 
 ## Final work
 
-The work is presented in three groups: bicycle stills, the product-and-scene collection, and the sports-car motion study. The long collection includes GO GLOW, HUHU CARE, Plant Companion, PLUMBER and other visual themes. The car film runs for approximately 28 seconds; the Ferrari marks belong to the depicted vehicle.
+The work is presented in three groups: bicycle stills, the product-and-scene collection, and the sports-car motion study. The selected collection includes GO GLOW, HUHU CARE, Plant Companion, PLUMBER and other visual themes. The car film runs for approximately 28 seconds; the Ferrari marks belong to the depicted vehicle.
 
 **Bicycle stills**
 
@@ -45,7 +45,27 @@ The work is presented in three groups: bicycle stills, the product-and-scene col
 
 **Product and scene collection**
 
-![Complete render collection of personal care, fitness, lighting, equipment and science-fiction forms](/works/documents/rendering-sheet/001.webp)
+These individual views are extracted from high-resolution images embedded in the original rendering portfolio, organized around materials, lighting and scenes. Design responsibilities are documented in the corresponding project cases; unverified reference images and decorative textures are excluded from this selection.
+
+![GO GLOW materials, lighting and still-life arrangement](/works/refinement-v2/rendering-pdf/038.webp)
+
+![GO GLOW water-scene camera study](/works/refinement-v2/rendering-pdf/040.webp)
+
+![GO GLOW low-key product arrangement](/works/refinement-v2/rendering-pdf/041.webp)
+
+![HUHU CARE circular and spherical scene](/works/refinement-v2/rendering-pdf/022.webp)
+
+![Plant Companion products and display base](/works/refinement-v2/rendering-pdf/024.webp)
+
+![Ecological Harvester exterior scene](/works/refinement-v2/rendering-pdf/014.webp)
+
+![Wrist-support visualization study](/works/refinement-v2/rendering-pdf/017.webp)
+
+![PLUMBER underground-facility lighting](/works/refinement-v2/rendering-pdf/034.webp)
+
+![Robot underground-environment composition](/works/refinement-v2/rendering-pdf/036.webp)
+
+[View the original long-format collection archive](/works/documents/rendering-sheet/001.webp)
 
 **Sports-car motion study**
 

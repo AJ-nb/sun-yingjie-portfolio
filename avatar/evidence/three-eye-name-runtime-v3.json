@@ -1,0 +1,13 @@
+{
+  "library": "installed Three.js PropertyBinding and GLTFLoader",
+  "source_files": [
+    "web/node_modules/three/src/animation/PropertyBinding.js",
+    "web/node_modules/three/examples/jsm/loaders/GLTFLoader.js"
+  ],
+  "observed_sanitized_names": [
+    "eye_left_|_curved_sclera",
+    "eye_right_|_curved_sclera"
+  ],
+  "original_name_property": "object.userData.name",
+  "check": "Imported installed PropertyBinding implementation with Node and executed sanitizeNodeName on exact GLB roots"
+}

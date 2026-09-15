@@ -5,7 +5,7 @@ summary: "An accessible bathing concept exploring adjustable washing modules and
 role: "Collaborative work"
 credits: "Collaborative project; original board information is preserved with the work"
 status: "Concept and design proposal"
-cover: "/works/documents/portfolio-51/043.webp"
+cover: "/works/refinement-v2/psd-lingmu/usage.webp"
 tags: ["Accessibility", "Bathing experience", "Ergonomics", "Module layout"]
 ---
 
@@ -36,6 +36,28 @@ Early pages use personal scenarios and a journey to organize interaction barrier
 ![Washing-module construction and layout concept](/works/documents/portfolio-51/041.webp)
 
 ![Modules, controls and human-scale relationships](/works/documents/portfolio-51/042.webp)
+
+### PSD boards and product details
+
+These images were exported from the original layered files in Photoshop and converted to sRGB. Isolated layers reveal product details, while native boards retain sketches and layout development. The collaborative status and original credit information remain applicable.
+
+![LINGMU native opening board](/works/refinement-v2/psd-lingmu/opening.webp)
+
+![Original design context and persona board](/works/refinement-v2/psd-lingmu/background.webp)
+
+![Original user journey and storyboard](/works/refinement-v2/psd-lingmu/journey.webp)
+
+![Original bathing-equipment sketch board](/works/refinement-v2/psd-lingmu/sketches.webp)
+
+![Original CMF and rendering board](/works/refinement-v2/psd-lingmu/cmf.webp)
+
+![Original usage-scenario board](/works/refinement-v2/psd-lingmu/usage.webp)
+
+![Isolated head-cleaning module layer](/works/refinement-v2/psd-lingmu/head-module.webp)
+
+![Isolated body-cleaning module layer](/works/refinement-v2/psd-lingmu/body-module.webp)
+
+![Isolated front-view layer](/works/refinement-v2/psd-lingmu/front-view.webp)
 
 ## Final work
 

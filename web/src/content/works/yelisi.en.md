@@ -46,3 +46,17 @@ The brand study also extends to a snake-shaped mouth-held body and a magnetic bu
 ## Outcome and stage
 
 The work establishes a continuous evolution from the early name to the current identity, alongside a concept for the product connection. Mark proportions, typography and applications still require refinement. The body object remains a concept; mouth-contact materials, magnetic strength and ergonomics require physical testing.
+
+<!-- refinement-v2 -->
+
+### Brand objective and product applications
+
+The objective is a restrained, recognizable identity for intimate photography props and body objects. The Chinese name carries meaning, the near-square seal establishes a boundary, and the central negative space carries a bodily association. These roles keep the identity from relying on an S monogram alone.
+
+The May 2026 record preserves four stages: Songnasty exploration, problems with the earlier name and recognition hierarchy, a move toward Chinese seal semantics, and confirmation of the YELISI direction. Curves and the seal structure remain; English-first recognition and more explicit bodily associations become secondary. These are internal design judgments, without a consumer recognition study establishing an improvement.
+
+The product concept relates a snake-shaped support, magnetic connection and velvet-flower butterfly: structure provides support, while the accessory carries the narrative. Applications need to check small-area legibility, the Chinese wordmark and the balance between ritual expression and readable structure in product presentation. The material establishes concept and guideline research, not tested wearability, safety or manufacturing.
+
+### Sources
+
+AJ-nb/AJNB design knowledge base: YELISI brand overview, logo evolution timeline, logo and wordmark guidelines, and snake-shaped prop study, dated 14–15 May 2026. Real source artwork is retained. Songnasty remains a historical phase of this project rather than an additional project.

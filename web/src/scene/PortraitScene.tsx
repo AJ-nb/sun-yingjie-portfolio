@@ -65,7 +65,10 @@ function Character({ reduced, onReady, focus, onSlow }: { reduced: boolean; onRe
     const stats = performance.current
     if (!reduced && !stats.notified && dt < .5) {
       stats.count++; stats.elapsed += dt
-      if (stats.count === 150 && stats.elapsed > 10) { stats.notified = true; onSlow() }
+      if (stats.count >= 150) {
+        if (stats.elapsed > 10) { stats.notified = true; onSlow() }
+        stats.count = 0; stats.elapsed = 0
+      }
     }
     const smoothOff = THREE.MathUtils.smoothstep(desired.current, RESUME_END, RESUME_END + WORKS_ENTRANCE)
     const amount = THREE.MathUtils.lerp(1 - Math.pow(.1, Math.min(dt, .1)), 1, smoothOff)
@@ -111,7 +114,8 @@ export default function PortraitScene({ active, reduced, ready, onReady }: { act
   const mobile = window.matchMedia('(max-width: 640px)').matches
   const focus = useMemo(() => new THREE.Vector3(0, 2, 0), [])
   return <div className="canvas-shell" style={{ opacity: ready ? 1 : 0 }} aria-hidden="true"><Canvas dpr={mobile || lowPerformance ? 1 : [1, 1.5]} frameloop={active ? (reduced || lowPerformance ? 'demand' : 'always') : 'never'} camera={{ position: [0, 1.9, 6], fov: 36 }} gl={{ antialias: false, alpha: true, powerPreference: 'low-power', toneMapping: THREE.ACESFilmicToneMapping }}>
-    <hemisphereLight args={['#ffffff', '#404040', 1.15]} /><ambientLight intensity={.35} /><directionalLight position={[5, 8, 5]} intensity={2.35} color="#ffd9c6" /><directionalLight position={[-5, 4, -4]} intensity={2.25} color="#9fc6ff" />
+    <hemisphereLight args={['#ffffff', '#bfc5ca', 1.7]} /><ambientLight intensity={.6} />
+    <directionalLight position={[-3, 4, 6]} intensity={1.35} color="#ffffff" /><directionalLight position={[3, 2.4, 5]} intensity={.9} color="#f5f7ff" /><directionalLight position={[-4, 4, -3]} intensity={.45} color="#e8efff" />
     <Suspense fallback={null}><Character reduced={reduced || lowPerformance} onReady={onReady} focus={focus} onSlow={() => setLowPerformance(true)} />
       <FocusEffects focus={focus} mobile={mobile} enabled={!lowPerformance} />
     </Suspense>

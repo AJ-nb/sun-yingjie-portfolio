@@ -1,0 +1,20 @@
+{
+  "capturedOn": "2026-09-15",
+  "tool": "WeChat DevTools Stable 2.02.2608060",
+  "baseLibraryObserved": "3.16.2",
+  "mode": "Guest mode using touristappid in isolated copy",
+  "originalProjectModified": false,
+  "appUIImplementationModified": false,
+  "servicePortEnabled": false,
+  "nativeUIRendered": true,
+  "exercised": ["Three-step onboarding completed", "Live salary home", "Salary detail navigation", "Calendar navigation and empty state", "Appearance settings and Dark selection"],
+  "demoConfiguration": {"monthlySalaryCNY": 10000, "monthlyWorkdays": 22, "workingDays": "Monday-Friday", "start": "09:30", "end": "18:30", "lunchEnabled": false, "personalIncome": false},
+  "publicCaptures": ["onboarding-native.png", "home-native.png", "detail-native.png", "calendar-native.png", "appearance-native.png"],
+  "captureTreatment": "Direct native window captures, unretouched. DevTools title bar retained. Floating simulator's lower edge is bounded by the desktop viewport.",
+  "themeFinding": "Dark selection showed saved state, but appearance, calendar and home remained light after navigation. Home remained light after floating simulator closed and the embedded simulator reloaded. No dark runtime success is claimed.",
+  "consoleFinding": "Error badge reported 5 after embedded simulator reload (earlier cumulative session badge reached 12). Inspected console excerpt includes SDK appServiceSDKScriptError webapi_getwxaasyncsecinfo:fail, guest-mode wx.operateWXData limits and preload warnings. Not all cumulative errors were individually classified; clean runtime is not claimed.",
+  "consoleEvidence": ["xintiao-native-console.txt", "xintiao-native-console.png"],
+  "themeEvidence": "xintiao-theme-after-return.png",
+  "limits": ["Simulator verification only", "No real-device verification", "No WeChat release or approval", "No real payroll accuracy measurement", "No official account or subscription-message API verification"],
+  "cleanup": "Imported Xintiao project and floating simulator closed normally. Automatically restored unrelated weight-bmi-tracker project left untouched."
+}

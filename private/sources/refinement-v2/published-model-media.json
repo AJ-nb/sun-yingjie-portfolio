@@ -1,0 +1,508 @@
+[
+  {
+    "id": "plumber-005",
+    "caseSlug": "plumber",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/管道清淤机器人.zip",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/08V5simple.png",
+    "sourceSha256": "cf300bd20b0e1294eba4fa13a28905f49c8abfd33cde5b3023ddf0a19ff154d2",
+    "sourceDimensions": [
+      2560,
+      1440
+    ],
+    "publicPath": "/works/refinement-v2/plumber/three-quarter.webp",
+    "webDimensions": [
+      2560,
+      1440
+    ],
+    "captionZh": "机器人三分之四视角",
+    "captionEn": "Robot three-quarter view",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "plumber-006",
+    "caseSlug": "plumber",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/管道清淤机器人.zip",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/10.png",
+    "sourceSha256": "e4bdb56c6bb8c7c0fee393ceb1e89db9c9ea44aeda3c63a33eebe308a9803b37",
+    "sourceDimensions": [
+      2560,
+      1440
+    ],
+    "publicPath": "/works/refinement-v2/plumber/side.webp",
+    "webDimensions": [
+      2560,
+      1440
+    ],
+    "captionZh": "机器人侧视",
+    "captionEn": "Robot side view",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "plumber-007",
+    "caseSlug": "plumber",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/管道清淤机器人.zip",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/11.png",
+    "sourceSha256": "68ab9f58cb924cb5374d88141aace9febd5eac6d293f724fec71b5240aca7ee7",
+    "sourceDimensions": [
+      2560,
+      1440
+    ],
+    "publicPath": "/works/refinement-v2/plumber/front.webp",
+    "webDimensions": [
+      2560,
+      1440
+    ],
+    "captionZh": "机器人正视",
+    "captionEn": "Robot front view",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "plumber-021",
+    "caseSlug": "plumber",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/管道清淤机器人.zip",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/9.png",
+    "sourceSha256": "1764cb8b218e8c88cf6dab0b76f676e8d3a6f5bcf383c70c206b59d71966310d",
+    "sourceDimensions": [
+      2560,
+      1440
+    ],
+    "publicPath": "/works/refinement-v2/plumber/top.webp",
+    "webDimensions": [
+      2560,
+      1440
+    ],
+    "captionZh": "机器人俯视",
+    "captionEn": "Robot top view",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "plumber-003",
+    "caseSlug": "plumber",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/管道清淤机器人.zip",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/08.png",
+    "sourceSha256": "3b93be433d8faae4d012040108a99e0906d87491972a2f3ef0af478bb2e15776",
+    "sourceDimensions": [
+      2560,
+      1440
+    ],
+    "publicPath": "/works/refinement-v2/plumber/rear-detail.webp",
+    "webDimensions": [
+      2560,
+      1440
+    ],
+    "captionZh": "外壳与尾部细节",
+    "captionEn": "Shell and rear detail",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "plumber-018",
+    "caseSlug": "plumber",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/管道清淤机器人.zip",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/6.png",
+    "sourceSha256": "e4138685a1db86dbbbdc08e3266ad9352278887d980c378911a90ba7c6644b53",
+    "sourceDimensions": [
+      2560,
+      1440
+    ],
+    "publicPath": "/works/refinement-v2/plumber/cleaning-head.webp",
+    "webDimensions": [
+      2560,
+      1440
+    ],
+    "captionZh": "清理端结构细节",
+    "captionEn": "Cleaning-head detail",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "plumber-020",
+    "caseSlug": "plumber",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/管道清淤机器人.zip",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/77777png.png",
+    "sourceSha256": "912688fed71fc37e00e715817fc17fde2b8ebbe0ffdc98fb92c7cd4b45af3d0b",
+    "sourceDimensions": [
+      8000,
+      2826
+    ],
+    "publicPath": "/works/refinement-v2/plumber/exploded.webp",
+    "webDimensions": [
+      2560,
+      904
+    ],
+    "captionZh": "机器人部件分解",
+    "captionEn": "Robot exploded view",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "plumber-012",
+    "caseSlug": "plumber",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/管道清淤机器人.zip",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/22322.png",
+    "sourceSha256": "1419b242f479515e71963d147c36b6b72507932559264761d8a66369ca5f89df",
+    "sourceDimensions": [
+      3184,
+      1791
+    ],
+    "publicPath": "/works/refinement-v2/plumber/station.webp",
+    "webDimensions": [
+      2560,
+      1440
+    ],
+    "captionZh": "地下基站概念",
+    "captionEn": "Underground service-station concept",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "plumber-024",
+    "caseSlug": "plumber",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/管道清淤机器人.zip",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/ROBOT.png",
+    "sourceSha256": "0929dd741b5148823e03cf48bf2ecdc34ee5faa4ac9d097faa76c137523e865b",
+    "sourceDimensions": [
+      3000,
+      1059
+    ],
+    "publicPath": "/works/refinement-v2/plumber/underground-scene.webp",
+    "webDimensions": [
+      2560,
+      904
+    ],
+    "captionZh": "地下环境原始渲染",
+    "captionEn": "Original underground scene render",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "plumber-025",
+    "caseSlug": "plumber",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/管道清淤机器人.zip",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/ROBOT1.png",
+    "sourceSha256": "cf1ba9bc0a76a1fedeb614f5bfe215b33f78ac0bb75df0b7e8cf653efb09a636",
+    "sourceDimensions": [
+      3000,
+      1059
+    ],
+    "publicPath": "/works/refinement-v2/plumber/underground-close.webp",
+    "webDimensions": [
+      2560,
+      904
+    ],
+    "captionZh": "地下环境近景",
+    "captionEn": "Underground close-up",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "plumber-026",
+    "caseSlug": "plumber",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/管道清淤机器人.zip",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/ROBOT2.png",
+    "sourceSha256": "4f7acd765ab3a52048408a62deacb851bcd68b6c6a03b598344492b765e6ff9b",
+    "sourceDimensions": [
+      3000,
+      1059
+    ],
+    "publicPath": "/works/refinement-v2/plumber/underground-wide.webp",
+    "webDimensions": [
+      2560,
+      904
+    ],
+    "captionZh": "地下环境远景",
+    "captionEn": "Underground wide shot",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "huhu-005",
+    "caseSlug": "huhu-care",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/儿童幽门螺杆菌检测仪.zip",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/3.png",
+    "sourceSha256": "dab3313b5c3a27636a5f58c7b8d7fcaa7f3f9fb905d6d758eb03c788d0273638",
+    "sourceDimensions": [
+      3000,
+      3750
+    ],
+    "publicPath": "/works/refinement-v2/huhu/early-form.webp",
+    "webDimensions": [
+      2048,
+      2560
+    ],
+    "captionZh": "早期配色与形态方案",
+    "captionEn": "Earlier form and color study",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "huhu-023",
+    "caseSlug": "huhu-care",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/儿童幽门螺杆菌检测仪.zip",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/1-.png",
+    "sourceSha256": "08057fb28f2e99bf2b87a59d9cff3082ea3b9d8927d1b70922c5904f1d8fc012",
+    "sourceDimensions": [
+      3000,
+      3000
+    ],
+    "publicPath": "/works/refinement-v2/huhu/mouthpiece.webp",
+    "webDimensions": [
+      2560,
+      2560
+    ],
+    "captionZh": "吹嘴与连接位置",
+    "captionEn": "Mouthpiece and connection",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "huhu-027",
+    "caseSlug": "huhu-care",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/儿童幽门螺杆菌检测仪.zip",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/3.png",
+    "sourceSha256": "3ab47b4834084480efdaea9cbb9d7cd13db8bc732367f248f73a86a1a137e38f",
+    "sourceDimensions": [
+      3000,
+      3000
+    ],
+    "publicPath": "/works/refinement-v2/huhu/rim-detail.webp",
+    "webDimensions": [
+      2560,
+      2560
+    ],
+    "captionZh": "吹嘴外缘细节",
+    "captionEn": "Mouthpiece rim detail",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "huhu-028",
+    "caseSlug": "huhu-care",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/儿童幽门螺杆菌检测仪.zip",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/4.png",
+    "sourceSha256": "d368c02a32d10cd06faea956bc265b4acdb46282d26546b7f0a23d5ac797dd67",
+    "sourceDimensions": [
+      3000,
+      3000
+    ],
+    "publicPath": "/works/refinement-v2/huhu/grip.webp",
+    "webDimensions": [
+      2560,
+      2560
+    ],
+    "captionZh": "防滑握持区域",
+    "captionEn": "Textured grip area",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "huhu-034",
+    "caseSlug": "huhu-care",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/儿童幽门螺杆菌检测仪.zip",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/PRODUCT.png",
+    "sourceSha256": "42fcda317153e818c9bc4a7ed76e7acf3d8a404cd992a9c8e54c02a60afe9936",
+    "sourceDimensions": [
+      2830,
+      3000
+    ],
+    "publicPath": "/works/refinement-v2/huhu/neck-detail.webp",
+    "webDimensions": [
+      2415,
+      2560
+    ],
+    "captionZh": "颈部连接与标识",
+    "captionEn": "Neck joint and identity detail",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "huhu-037",
+    "caseSlug": "huhu-care",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/儿童幽门螺杆菌检测仪.zip",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/s3png.png",
+    "sourceSha256": "d1ffc58444714eec4788a2501cc1024ff4bd86f1c404c628f791cf4720123686",
+    "sourceDimensions": [
+      3000,
+      3000
+    ],
+    "publicPath": "/works/refinement-v2/huhu/three-quarter.webp",
+    "webDimensions": [
+      2560,
+      2560
+    ],
+    "captionZh": "最终配色三分之四视角",
+    "captionEn": "Final-color three-quarter view",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "huhu-036",
+    "caseSlug": "huhu-care",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/儿童幽门螺杆菌检测仪.zip",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/s2.png",
+    "sourceSha256": "b2f24c53a06ffbbc6c6200ef068f9a773569aae38c91f3e5d6461a1beafe4734",
+    "sourceDimensions": [
+      3000,
+      3000
+    ],
+    "publicPath": "/works/refinement-v2/huhu/rear.webp",
+    "webDimensions": [
+      2560,
+      2560
+    ],
+    "captionZh": "反向视角与气球连接",
+    "captionEn": "Reverse view and balloon connection",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "huhu-033",
+    "caseSlug": "huhu-care",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/儿童幽门螺杆菌检测仪.zip",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/9png.png",
+    "sourceSha256": "386aac0c5f29689c38a8e6f555d7bb6cf0337131e0ed8b4961f1cafb420c5b4c",
+    "sourceDimensions": [
+      3000,
+      3000
+    ],
+    "publicPath": "/works/refinement-v2/huhu/charging-base.webp",
+    "webDimensions": [
+      2560,
+      2560
+    ],
+    "captionZh": "产品与底座组合",
+    "captionEn": "Product and base arrangement",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "huhu-031",
+    "caseSlug": "huhu-care",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/儿童幽门螺杆菌检测仪.zip",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/6.png",
+    "sourceSha256": "17a30f35323b631d8b45fadf8e6d382e08f129155dc7400dddce983ed2049496",
+    "sourceDimensions": [
+      3000,
+      3000
+    ],
+    "publicPath": "/works/refinement-v2/huhu/base-reverse.webp",
+    "webDimensions": [
+      2560,
+      2560
+    ],
+    "captionZh": "底座组合反向视角",
+    "captionEn": "Reverse view of product and base",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "huhu-032",
+    "caseSlug": "huhu-care",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/儿童幽门螺杆菌检测仪.zip",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/88.png",
+    "sourceSha256": "b718f41b3fed12ddc9b8c8f4e98962135b96be5e71f26d4bf64854cb60236e50",
+    "sourceDimensions": [
+      3000,
+      3000
+    ],
+    "publicPath": "/works/refinement-v2/huhu/balloon-detail.webp",
+    "webDimensions": [
+      2560,
+      2560
+    ],
+    "captionZh": "气球、连接与吹嘴局部",
+    "captionEn": "Balloon, connection and mouthpiece detail",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Embedded source ICC converted to sRGB",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  },
+  {
+    "id": "huhu-040",
+    "caseSlug": "huhu-care",
+    "sourceArchive": "D:/OneDrive/桌面/文件/作品集/完成模型/儿童幽门螺杆菌检测仪.zip",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/精华p1.png",
+    "sourceSha256": "406a0a02484f4e64efcb62f4d7a53bc3080f325fe9dbc9ac227ad922cde8b1d0",
+    "sourceDimensions": [
+      3000,
+      1059
+    ],
+    "publicPath": "/works/refinement-v2/huhu/product-scene.webp",
+    "webDimensions": [
+      2560,
+      904
+    ],
+    "captionZh": "儿童呼气检测概念场景原始渲染",
+    "captionEn": "Original pediatric breath-test concept scene render",
+    "provenance": "Existing original render from supplied model archive",
+    "newRender": false,
+    "aiImageOperation": false,
+    "colorHandling": "Original RGB values; no embedded source ICC profile",
+    "credits": "Collaborative concept project; original source-board credits preserved. Third-party texture and component authorship is not claimed."
+  }
+]

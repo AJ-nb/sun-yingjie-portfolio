@@ -5,7 +5,7 @@ summary: "以玉米芯复合板材为材料设想，将收纳、移动与可调�
 role: "共同创作"
 credits: "合作项目；原始展板信息随作品保留"
 status: "概念方案与设计提案"
-cover: "/works/documents/portfolio-51/049.webp"
+cover: "/works/refinement-v2/psd-jimu/product-arrangement.webp"
 tags: ["家具概念", "材料应用", "小空间", "模块化"]
 ---
 
@@ -34,6 +34,26 @@ JiMu Studio 将农业副产物的材料再利用与有限居住空间中的收�
 ![模块化家具草图与组合探索](/works/documents/portfolio-51/047.webp)
 
 ![材料、结构与尺寸设想](/works/documents/portfolio-51/048.webp)
+
+### PSD 原生版块与产品细节
+
+以下素材由原始多图层文件在 Photoshop 中导出并转换为 sRGB。独立图层补充产品细节，原生版块保留草图和布局过程；原有合作项目属性与署名信息继续保留。
+
+![JiMu Studio 原生扉页](/works/refinement-v2/psd-jimu/opening.webp)
+
+![玉米芯材料研究与原始构思版块](/works/refinement-v2/psd-jimu/materials-research.webp)
+
+![原始画像与草图版块](/works/refinement-v2/psd-jimu/sketches.webp)
+
+![家具结构与效果图原生版块](/works/refinement-v2/psd-jimu/product-board.webp)
+
+![原始家具场景版块；室内背景不归为原创设计](/works/refinement-v2/psd-jimu/scene-board.webp)
+
+![材料与部件分解独立图层](/works/refinement-v2/psd-jimu/materials-exploded.webp)
+
+![家具组合独立图层](/works/refinement-v2/psd-jimu/product-arrangement.webp)
+
+![尺寸视图独立图层](/works/refinement-v2/psd-jimu/dimension-view.webp)
 
 ## 最终作品
 

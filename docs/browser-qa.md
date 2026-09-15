@@ -1,70 +1,32 @@
-# Production browser QA
+# 第二轮网站检查
 
-Result: **14/14 functional checks passed** on 2026-09-15 01:48 Asia/Shanghai. No unresolved Critical or Important functional issue was observed in this run.
+生产预览检查完成于 2026-09-15T02:37:44.165Z：15/15 通过，普通流程异常数 0。
+当前入口SHA256：`d2b30315b24b98a24ab988d99266a1f0111081ef5d4f5ac1997b67556e85456d`。构建选择246项素材，共111,631,869字节。
 
-## Environment and evidence
+| 检查 | 结果 |
+|---|---|
+| All catalog cards and every thumbnail decode | 通过 |
+| All categories match source counts; normalized query; empty-state reset | 通过 |
+| All deep routes load and every case image decodes | 通过 |
+| Malformed and missing case routes show the fallback and recover | 通过 |
+| Case next/back preserves filter, query and scroll; browser forward/back | 通过 |
+| Cross-page about/contact/top anchors reach their target | 通过 |
+| Keyboard lightbox: next/previous, zoom, Escape and focus restoration | 通过 |
+| Video metadata and muted playback advance | 通过 |
+| Language changes home/case copy and URL; both PDFs download | 通过 |
+| 320/390/1440 widths: home, index, case and English have no horizontal overflow | 通过 |
+| Reduced motion makes no Three or GLB request until explicit click | 通过 |
+| Normal motion loads a live GLB scene; poster remains visible during delayed GLB | 通过 |
+| Failed model request restores the static portrait | 通过 |
+| sen gallery has six ordered chapters, accessible stops, mobile fallback and reverse scroll | 通过 |
+| No unexpected console errors or uncaught page errors in functional checks | 通过 |
 
-- Production preview: `http://127.0.0.1:4173/`.
-- Initial verification used agent-browser 0.37.1, isolated session `syj-final-qa`. It confirmed meaningful content, 30 catalog cards, no framework error overlay, and an empty CLI error list. The host browser reported reduced-motion preference enabled. The session was closed afterward.
-- Automated assertions used Playwright Core with Chrome **152.0.7977.83**, a separate temporary profile, explicit reduced/no-preference contexts, and permission for software WebGL. Existing browser sessions were not used.
-- Tested build entry SHA-256: `6da534625d703526c0c374208db1f3e368ff6668fa3b65e80595ce70f47f6c22`.
-- Build assets: `index-CP_pINMR.js`, `PortraitScene-Cx9dcKFz.js`, `index-K-08r9Oa.css`.
-- Reproducible checks: [browser-qa.mjs](../scripts/qa/browser-qa.mjs). Full measured results: [browser-results.json](../design/qa/browser-results.json).
+独立普通动态专项复核 7/7 通过：详情离场保持原位置，下一案例重新入场，返回保留筛选与搜索；641/680/700像素中英文顶部导航和章节按钮可用。专项检查屏蔽GLB；实际模型加载、延迟和失败回退由上述整站检查覆盖。
 
-## Verified behavior
+独立审阅修复了详情缺少离场、性能检测仅采样一次、641–700像素底栏重叠，以及详情离场期间头部提前变更导致的101像素跳动。复看最终页面后还修正了静态人物手机裁切偏移，并调整网页中性填光。
 
-| Check | Result and evidence |
-| --- | --- |
-| Catalog and thumbnails | 30 cards and 30 unique thumbnails decoded successfully in Chrome. |
-| Categories | Source counts matched UI: commercial 2, product 17, brand 2, digital 7, experiments 2. |
-| Search and reset | Full-width uppercase `ＬＥＮＳＦＬＯＷ` with surrounding spaces found Lensflow; an unmatched query displayed the empty state; clearing restored all 30 cards. |
-| Independent case routes | All 30 Chinese case routes loaded, each with six sections; 129 unique case images decoded successfully. |
-| Invalid routes | Both `#/work/%` and a nonexistent slug displayed the case fallback; its return action recovered the work index. |
-| Case navigation and history | Product category and `管道` query survived case → next case → return. Scroll position was **4751 px before and after**. Browser forward returned to the latest case; browser back returned to the filtered catalog. |
-| Cross-page anchors | Case → about, contact, and top reached their intended targets. The contact check accounts for the document's maximum scroll position. |
-| Lightbox keyboard and focus | ArrowRight wrapped `12 / 12` to `1 / 12`; ArrowLeft restored the previous image. Zoom changed the view, Escape closed it, body scrolling resumed, and keyboard focus returned to the opening image button. |
-| Video | Muted playback advanced beyond 0.25 seconds without media error: **960 × 544**, duration **27.916667 seconds**, readyState 4. |
-| Language and downloads | Chinese/English home and case copy, document language, and language query parameter changed together. Both links triggered browser download events and served HTTP 200 with a PDF signature. Portfolio: **16,945,242 bytes**; résumé: **289,953 bytes**. |
-| Responsive width | At 320, 390, and 1440 px, Chinese and English home/index/representative case pages had document and body widths equal to viewport width. Screenshots were inspected for the 320 px Chinese home, 390 px English home and catalog, 320 px English case, and desktop live scene. |
-| Reduced motion | A fresh reduced-motion context made **zero** requests for the dynamic scene/Three bundle or GLB before an explicit click. Clicking loaded one GLB, revealed the live scene, and hid the poster. Switching to still view removed the canvas and restored the poster. |
-| Normal and delayed GLB | Normal preference automatically loaded the live scene. An intentionally held GLB request left the poster visible and canvas transparent until the model's first frame. Releasing it produced a 1440 × 1000 canvas and hid the poster. |
-| Model failure and runtime errors | Deliberately aborting the GLB request restored the static portrait. Ordinary functional checks recorded **zero console errors and zero uncaught page errors**. Expected errors from the deliberately aborted request were isolated from ordinary checks. |
+截图包括桌面实时首屏、手机静态首屏、六章和五个履历节点，已人工查看。完整测量记录保存在browser-results-r2.json、sen-route-review-r2.json；复现脚本为scripts/qa/browser-qa.mjs与scripts/qa/sen-route-review.mjs。
 
-## Fixes from this QA
+环境为隔离的桌面Chrome与模拟视口，未等同于实体手机、Safari、屏幕阅读器或真实移动GPU/电池测试。视频为静音播放检查；人物相似度需要用户决定。构建仍有两个超过500kB的JS模块提示，3D模块延迟加载，未把构建大小等同实测性能。
 
-The initial real-browser run exposed missing focus restoration when the lightbox was removed. `App.tsx` now records the opening focused element before showing the dialog and explicitly focuses it, if still connected, during cleanup. The final keyboard test confirms the correction.
-
-Chrome also requested a missing `/favicon.ico`. An inline sage/ivory SVG favicon in `web/index.html` removes that unnecessary 404. Final ordinary browser checks recorded no errors.
-
-Two initial test failures were corrected in the test harness: the contact anchor is constrained by maximum document scroll, and independent test fixtures must explicitly clear previously retained catalog filters. Neither required a product change.
-
-## Validation and limits
-
-`npm run build` (including TypeScript) and `npm run lint` passed after these fixes. The build staged 164 selected assets, reported as 52.8 MiB. Vite still reported its existing warning for minified chunks over 500 kB: the main bundle was 598.15 kB and the dynamic scene bundle 891.27 kB. This is a build-size observation, not a measured runtime performance finding.
-
-This run used desktop Chrome with simulated viewport widths. It did not test physical iOS/Android hardware, Safari/Firefox, screen-reader output, real mobile GPU/battery behavior, network performance, or audio playback. Video was muted. Case images were explicitly decoded to check the files, rather than requiring a visitor to scroll through every lazy image. All Chinese cases were checked; English functionality and representative layouts were checked, not every English translation sentence. PDF download delivery was verified; PDF editorial/layout review belongs to the separate document checks. Avatar likeness was outside this QA. A later replacement GLB needs its own loading/fallback/render verification.
-
-## Re-run
-
-From the project root, with the production preview running:
-
-```powershell
-node scripts/qa/browser-qa.mjs
-```
-
-The script accepts `SYJ_QA_URL`, `SYJ_QA_CHROME`, and `SYJ_QA_PLAYWRIGHT` environment overrides. Its default browser and Playwright paths reflect this Windows host. It writes evidence only under `design/qa/`, uses a temporary isolated browser profile, and closes its browser on completion.
-
-Representative screenshots:
-
-- [Chinese home, 320 px](../design/qa/home-zh-320.png)
-- [English home, 390 px](../design/qa/home-en-390.png)
-- [Catalog, 390 px](../design/qa/catalog-390.png)
-- [English case, 320 px](../design/qa/case-en-320.png)
-- [Lightbox, 390 px](../design/qa/lightbox-390.png)
-- [Live scene, 1440 px](../design/qa/normal-live-3d-1440.png)
-
-The 01:48 full rerun used final avatar GLB SHA256 `e2f130df044e950b0459e05e8467aaa3604a42bc6d4923bf53d6fa0aa3118be5` and the final 40-page PDF. All 14 checks passed again, including actual model loading, first-frame display, failure fallback and manual still view. Likeness remains a separate user review.
-
-## Final deployment URL correction
-
-Sites assigned `https://sun-yingjie-portfolio.ajhhq.chatgpt.site` at deployment. The share metadata and PDF/DOCX hyperlinks were changed to that address. The final checkout was installed and built again; all three runtime bundles are byte-identical to the browser-tested versions. All 164 selected media assets match the final source files. PDF pages were re-rendered and compared pixel-for-pixel after updating only link destinations; see `final-url-verification.json`. The earlier download sizes in the functional-run table describe that run; final portfolio size is 16,945,554 bytes and résumé size is 302,562 bytes. Final online transport checks are recorded in `remote-delivery-verification.json`.
+远端访问、下载与新检出的验证单独记录，不以本地成功推断公开访问。

@@ -53,6 +53,14 @@ The final proposal connects a plant-like desktop appearance with combinable equi
 
 ![Plant Companion product and app presentation](/works/documents/office-fitness/012.webp)
 
+### Material, lighting and scene details
+
+![Plant Companion modular arrangement](/works/refinement-v2/rendering-pdf/001.webp)
+
+![Plant Companion modules and display base](/works/refinement-v2/rendering-pdf/024.webp)
+
+![Plant Companion low-angle arrangement](/works/refinement-v2/rendering-pdf/035.webp)
+
 ## Outcome and stage
 
 The outcome is a complete product and app-interface concept proposal. Equipment connections and usability, activity recording, long-term participation and health effects require prototypes and user validation.

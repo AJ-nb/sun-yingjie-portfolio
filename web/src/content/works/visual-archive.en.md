@@ -1,12 +1,12 @@
 ---
 title: "Visual Archive"
 category: "digital"
-summary: "A browser extension prototype separating local image measurements, visual inferences and unknown information."
+summary: "A Chrome extension prototype separating local image measurements, visual inferences and unknown information."
 role: "Collaborative work"
 credits: "Collaborative extension-prototype and interaction work"
 status: "v0.1.0 prototype with local measurements and an ungenerated archive state"
 cover: "/works/digital/visual-archive/analysis-desktop.webp"
-tags: ["Browser extension", "Visual archive", "Evidence boundaries", "Prototype"]
+tags: ["Chrome extension", "Visual archive", "Evidence boundaries", "Prototype"]
 ---
 
 ## Background
@@ -40,3 +40,9 @@ The desktop layout connects the reference image, local measurements and archive 
 ## Outcome and stage
 
 The work includes a v0.1.0 extension prototype and layouts for two screen formats. This case shows the prototype flow without claiming validated model-analysis accuracy. A single image cannot establish hidden geometry, exact materials, source files or the original prompt; the archive cannot replace original production records.
+
+<!-- refinement-v2 -->
+
+### Source and stage check
+
+Evidence comes from the visual-archive-extension v0.1.0 README and saved desktop/mobile analysis pages. This is a Chrome extension prototype, not a custom browser. The original start date is unconfirmed. Pending-analysis states and missing source information remain visible instead of being replaced with invented completed analysis.

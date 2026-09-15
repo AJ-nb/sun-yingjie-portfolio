@@ -5,7 +5,7 @@ summary: "A compact furniture concept combining storage, mobility and an adjusta
 role: "Collaborative work"
 credits: "Collaborative project; original board information is preserved with the work"
 status: "Concept and design proposal"
-cover: "/works/documents/portfolio-51/049.webp"
+cover: "/works/refinement-v2/psd-jimu/product-arrangement.webp"
 tags: ["Furniture concept", "Material application", "Compact spaces", "Modularity"]
 ---
 
@@ -34,6 +34,26 @@ The proposal begins with plant-derived materials and furniture applications, the
 ![Modular-furniture sketches and combination studies](/works/documents/portfolio-51/047.webp)
 
 ![Proposed materials, structure and dimensions](/works/documents/portfolio-51/048.webp)
+
+### PSD boards and product details
+
+These images were exported from the original layered files in Photoshop and converted to sRGB. Isolated layers reveal product details, while native boards retain sketches and layout development. The collaborative status and original credit information remain applicable.
+
+![JiMu Studio native opening board](/works/refinement-v2/psd-jimu/opening.webp)
+
+![Original corn-cob material research and ideation board](/works/refinement-v2/psd-jimu/materials-research.webp)
+
+![Original persona and sketch board](/works/refinement-v2/psd-jimu/sketches.webp)
+
+![Native furniture structure and rendering board](/works/refinement-v2/psd-jimu/product-board.webp)
+
+![Original furniture scenario board; interior assets are not claimed as original design](/works/refinement-v2/psd-jimu/scene-board.webp)
+
+![Isolated material and component diagram](/works/refinement-v2/psd-jimu/materials-exploded.webp)
+
+![Isolated furniture arrangement layer](/works/refinement-v2/psd-jimu/product-arrangement.webp)
+
+![Isolated dimension-view layer](/works/refinement-v2/psd-jimu/dimension-view.webp)
 
 ## Final work
 

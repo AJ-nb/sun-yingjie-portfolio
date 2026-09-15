@@ -1,0 +1,9 @@
+{
+  "requestedAt": "2026-09-15T02:35:46.614256+00:00",
+  "status": "pending-user-decision",
+  "reviewImage": "web/public/images/avatar/multi-angle.png",
+  "sha256": "3ca642d45af82b27cd62e436df79611b005d585abbd877088f3e8eb49a45a15c",
+  "turntable": "web/public/images/avatar/turntable.mp4",
+  "authorizationBoundary": "User accepted plan requires one consolidated avatar review before public release. Ordinary public publication is already authorized.",
+  "decision": null
+}

@@ -77,6 +77,20 @@ tags: ["灯具设计", "铝型材", "产品系列", "BENWU"]
 
 *BENWU EDITION 联合展示空间：灯具与家具共同陈列，展示团队品牌语境中的空间关系。*
 
+### 材料、灯光与场景细节
+
+![线性吊灯渲染](/works/refinement-v2/rendering-pdf/011.webp)
+
+![壁灯空间渲染](/works/refinement-v2/rendering-pdf/012.webp)
+
+![壁灯发光细节](/works/refinement-v2/rendering-pdf/013.webp)
+
+![线性灯具室内场景](/works/refinement-v2/rendering-pdf/023.webp)
+
+![灯具与型材分解](/works/refinement-v2/rendering-pdf/025.webp)
+
+![落地灯完整视图](/works/refinement-v2/rendering-pdf/026.webp)
+
 ## 成果与阶段
 
-本页以十一张图呈现灯具系列、局部细节、室内场景与联合展示空间。作品通过重复截面与线性发光面连接不同类型，记录了本人参与产品三维设计和视觉呈现的内容。
+本页呈现灯具系列、局部细节、室内场景与联合展示空间。作品通过重复截面与线性发光面连接不同类型，记录了本人参与产品三维设计和视觉呈现的内容。

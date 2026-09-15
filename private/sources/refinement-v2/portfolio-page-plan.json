@@ -1,0 +1,878 @@
+{
+  "caseCount": 33,
+  "pageCountWithReadyAssets": 116,
+  "chapters": [
+    {
+      "id": "windows",
+      "title": "商业橱窗",
+      "english": "Commercial windows",
+      "note": "2025.04 起 · 空间、道具与商品",
+      "noteEnglish": "Since 2025.04 · Space, props & merchandise",
+      "slugs": [
+        "hermes",
+        "arcteryx"
+      ]
+    },
+    {
+      "id": "lighting",
+      "title": "铝型材灯具",
+      "english": "Aluminum lighting",
+      "note": "系列语言、结构与光",
+      "noteEnglish": "A family of forms, structures & light",
+      "slugs": [
+        "lighting"
+      ]
+    },
+    {
+      "id": "products",
+      "title": "产品设计与模型",
+      "english": "Products & models",
+      "note": "从使用情境到形态与结构",
+      "noteEnglish": "From use scenarios to form & structure",
+      "slugs": [
+        "plumber",
+        "huhu-care",
+        "lingmu",
+        "jimu-studio",
+        "plant-companion",
+        "go-glow",
+        "baobab-glow",
+        "cloudwing",
+        "bat-quad",
+        "little-orange",
+        "water-guardian",
+        "ecological-harvest",
+        "purewater-rolling-filter",
+        "polar-wing",
+        "construction-recycler",
+        "water-walking-bath"
+      ]
+    },
+    {
+      "id": "rendering",
+      "title": "三维渲染实践",
+      "english": "3D rendering practice",
+      "note": "材料、光线与构图",
+      "noteEnglish": "Material, light & composition",
+      "slugs": [
+        "rendering-studies"
+      ]
+    },
+    {
+      "id": "brands",
+      "title": "品牌孵化",
+      "english": "Brand incubation",
+      "note": "2026.03 至今 · 品牌与产品关系",
+      "noteEnglish": "Since 2026.03 · Brand & product relationships",
+      "slugs": [
+        "biyuan",
+        "yelisi",
+        "periastra"
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI 与数字产品",
+      "english": "AI & digital products",
+      "note": "把判断转化为可运行的流程",
+      "noteEnglish": "Design judgment in working tools",
+      "slugs": [
+        "lensflow",
+        "yantai",
+        "xintiao",
+        "formline",
+        "resume-formatter",
+        "visual-archive",
+        "aesthetic-atlas",
+        "image-2-5-xhs",
+        "xhs-methods",
+        "yuju"
+      ]
+    }
+  ],
+  "chapterPages": {
+    "windows": 4,
+    "lighting": 12,
+    "products": 18,
+    "rendering": 67,
+    "brands": 80,
+    "ai": 92
+  },
+  "casePages": {
+    "hermes": 5,
+    "arcteryx": 10,
+    "lighting": 13,
+    "plumber": 19,
+    "huhu-care": 32,
+    "lingmu": 39,
+    "jimu-studio": 47,
+    "plant-companion": 55,
+    "go-glow": 56,
+    "baobab-glow": 57,
+    "cloudwing": 58,
+    "bat-quad": 59,
+    "little-orange": 60,
+    "water-guardian": 61,
+    "ecological-harvest": 62,
+    "purewater-rolling-filter": 63,
+    "polar-wing": 64,
+    "construction-recycler": 65,
+    "water-walking-bath": 66,
+    "rendering-studies": 68,
+    "biyuan": 81,
+    "yelisi": 84,
+    "periastra": 87,
+    "lensflow": 93,
+    "yantai": 96,
+    "xintiao": 100,
+    "formline": 103,
+    "resume-formatter": 106,
+    "visual-archive": 110,
+    "aesthetic-atlas": 111,
+    "image-2-5-xhs": 112,
+    "xhs-methods": 114,
+    "yuju": 115
+  },
+  "details": {
+    "hermes": [
+      [
+        {
+          "alt": "夏季橱窗中的鱼竿、折叠椅、鱼形道具与文字气泡",
+          "src": "/works/legacy/hermes/40379d8484144b6a435498fcf8b9d857.webp",
+          "note": "夏季展示图：橙色与蓝绿色背景之间，大尺度鱼竿、白色手形和折叠椅串联包袋与鞋履。"
+        },
+        {
+          "alt": "夏季橱窗中的人台、饮品造型、橙片与 COOL 文字气泡",
+          "src": "/works/legacy/hermes/51a7ab3976cb48ff18f4591b5056409e.webp",
+          "note": "夏季展示图：人台置于海浪、云朵和饮品造型之间，文字气泡强化漫画式场景。"
+        },
+        {
+          "alt": "鱼竿与折叠椅主题夏季橱窗的另一视角",
+          "src": "/works/legacy/hermes/a8d210af1968eb83486446dc2f40027a.webp",
+          "note": "同组橱窗的另一视角，展示道具与完整窗框的比例关系。"
+        }
+      ],
+      [
+        {
+          "alt": "秋季橱窗中穿过门框的粉色鱼形道具与人台",
+          "src": "/works/legacy/hermes/043e019544984416521bf2009313a5fb.webp",
+          "note": "秋季展示图：放大的粉色鱼形穿过装饰门框，与云朵、人台和配饰形成错位尺度。"
+        },
+        {
+          "alt": "黄色蜗牛、开启的门与悬挂粉色包袋的秋季橱窗",
+          "src": "/works/legacy/hermes/34aa997644c1849af5a716bd5cdcf55b.webp",
+          "note": "秋季展示图：黄色蜗牛、棋盘格地面与开启的门构成场景，粉色包袋悬挂于上方。"
+        },
+        {
+          "alt": "金色马形、人台、云朵与蓝绿色窗景构成的秋季橱窗",
+          "src": "/works/legacy/hermes/b1d7e5fa28f89c792ee7a540882cf5ce.webp",
+          "note": "秋季展示图：暖色室内框景中，金色马形与蓝绿色窗景形成色彩对照。"
+        }
+      ],
+      [
+        {
+          "alt": "冬季橱窗中的层叠白马与山形、滑雪剪影和悬挂配饰",
+          "src": "/works/legacy/hermes/54f3c93240044222915bc785ca86bc40.webp",
+          "note": "冬季展示图：白色马形与山形层叠于蓝色背景前，滑雪剪影和悬挂配饰提供尺度参照。"
+        },
+        {
+          "alt": "蓝色背景前的白马层叠轮廓与悬挂配饰",
+          "src": "/works/legacy/hermes/776d28c61be0075bb8c93bffd65035ef.webp",
+          "note": "冬季展示图：竖向窗幅以白马轮廓为主体，下方小马造型与上方配饰形成层次。"
+        },
+        {
+          "alt": "窄幅冬季橱窗中的正面马头、粉色包袋与鞋履",
+          "src": "/works/legacy/hermes/8c4f37a6cb7ca715256d9a6f7dc9e210.webp",
+          "note": "冬季展示图：正面马头由雪地般的层叠面构成，包袋与鞋履分布在前景。"
+        }
+      ],
+      [
+        {
+          "alt": "蓝白树形、悬挂配饰、红色靴子与滑冰剪影的冬季橱窗",
+          "src": "/works/legacy/hermes/bfdc3c738e0adc5a35237a99374f7ac5.webp",
+          "note": "冬季展示图：树形道具与投影拉开空间层次，红色靴子成为蓝白画面中的色彩重点。"
+        },
+        {
+          "alt": "横向蓝色树林橱窗中的包袋、丝巾与滑冰人物剪影",
+          "src": "/works/legacy/hermes/e8d955a3898da97773e081384d4117e3.webp",
+          "note": "冬季展示图：重复树形在横向窗幅中形成节奏，商品与人物剪影分布其间。"
+        },
+        {
+          "alt": "冬季横向橱窗中的大型白马头、雪地层面、黄色包袋与粉色小马",
+          "src": "/works/legacy/hermes/f1455674fa1906fe49bd555bcad97e9c.webp",
+          "note": "冬季展示图：大型白马头与鬃毛占据主要画面，雪地层面连接滑雪剪影、黄色包袋与粉色小马。"
+        }
+      ]
+    ],
+    "arcteryx": [
+      [
+        {
+          "alt": "Arc’teryx Alpha Center 橱窗中的岩壁造型、层叠曲线与持杖人台",
+          "src": "/works/legacy/arcteryx/cb880134dd55b4ea48ac6a2c188bf65b.webp",
+          "note": "橱窗展示图：横向曲线叠加于岩壁背景前，持杖人台与绿色地面道具组成前景，上方与侧面保留品牌和 Alpha Center 标识。"
+        }
+      ]
+    ],
+    "lighting": [
+      [
+        {
+          "alt": "线性吊灯渲染",
+          "src": "/works/refinement-v2/rendering-pdf/011.webp",
+          "note": ""
+        },
+        {
+          "alt": "壁灯空间渲染",
+          "src": "/works/refinement-v2/rendering-pdf/012.webp",
+          "note": ""
+        },
+        {
+          "alt": "壁灯发光细节",
+          "src": "/works/refinement-v2/rendering-pdf/013.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "线性灯具室内场景",
+          "src": "/works/refinement-v2/rendering-pdf/023.webp",
+          "note": ""
+        },
+        {
+          "alt": "灯具与型材分解",
+          "src": "/works/refinement-v2/rendering-pdf/025.webp",
+          "note": ""
+        },
+        {
+          "alt": "落地灯完整视图",
+          "src": "/works/refinement-v2/rendering-pdf/026.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "金色灯体的线性发光条与圆形控制件细部",
+          "src": "/works/legacy/lighting/e9ab15f955279470fd53cb6e9e9a8c18.webp",
+          "note": "细部展示图：金色表面、纵向发光条与圆形控制件的组合。"
+        },
+        {
+          "alt": "餐桌与座椅上方的水平线性吊灯",
+          "src": "/works/legacy/lighting/450b32ccc90b8ca88b74c5bbf307c838.webp",
+          "note": "餐厅场景展示图：水平吊灯与长桌方向呼应，呈现系列进入室内空间后的尺度。"
+        },
+        {
+          "alt": "展示空间中的银色与金色吊灯、落地灯和台灯",
+          "src": "/works/legacy/lighting/1a933b09873b81c73f03877f8f9a61ea.webp",
+          "note": "展示空间视图：多种灯具类型共同出现，后方反光屏风与上方框架构成场景。"
+        }
+      ],
+      [
+        {
+          "alt": "红色 BENWU EDITION 展台中的灯具与家具陈列",
+          "src": "/works/legacy/lighting/9aa74a4014cf6e5ba9f80dae478ae31e.webp",
+          "note": "BENWU EDITION 联合展示空间：灯具与家具共同陈列，展示团队品牌语境中的空间关系。"
+        }
+      ]
+    ],
+    "plumber": [
+      [
+        {
+          "alt": "机器人三分之四视角",
+          "src": "/works/refinement-v2/plumber/three-quarter.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "机器人侧视",
+          "src": "/works/refinement-v2/plumber/side.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "机器人正视",
+          "src": "/works/refinement-v2/plumber/front.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "机器人俯视",
+          "src": "/works/refinement-v2/plumber/top.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "外壳与尾部细节",
+          "src": "/works/refinement-v2/plumber/rear-detail.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "清理端结构细节",
+          "src": "/works/refinement-v2/plumber/cleaning-head.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "机器人部件分解",
+          "src": "/works/refinement-v2/plumber/exploded.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "地下基站概念",
+          "src": "/works/refinement-v2/plumber/station.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "地下环境原始渲染",
+          "src": "/works/refinement-v2/plumber/underground-scene.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "地下环境近景",
+          "src": "/works/refinement-v2/plumber/underground-close.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "地下环境远景",
+          "src": "/works/refinement-v2/plumber/underground-wide.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "故事板与服务系统蓝图",
+          "src": "/works/documents/portfolio-51/006.webp",
+          "note": ""
+        }
+      ]
+    ],
+    "huhu-care": [
+      [
+        {
+          "alt": "早期配色与形态方案",
+          "src": "/works/refinement-v2/huhu/early-form.webp",
+          "note": ""
+        },
+        {
+          "alt": "吹嘴与连接位置",
+          "src": "/works/refinement-v2/huhu/mouthpiece.webp",
+          "note": ""
+        },
+        {
+          "alt": "吹嘴外缘细节",
+          "src": "/works/refinement-v2/huhu/rim-detail.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "防滑握持区域",
+          "src": "/works/refinement-v2/huhu/grip.webp",
+          "note": ""
+        },
+        {
+          "alt": "颈部连接与标识",
+          "src": "/works/refinement-v2/huhu/neck-detail.webp",
+          "note": ""
+        },
+        {
+          "alt": "最终配色三分之四视角",
+          "src": "/works/refinement-v2/huhu/three-quarter.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "反向视角与气球连接",
+          "src": "/works/refinement-v2/huhu/rear.webp",
+          "note": ""
+        },
+        {
+          "alt": "产品与底座组合",
+          "src": "/works/refinement-v2/huhu/charging-base.webp",
+          "note": ""
+        },
+        {
+          "alt": "底座组合反向视角",
+          "src": "/works/refinement-v2/huhu/base-reverse.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "气球、连接与吹嘴局部",
+          "src": "/works/refinement-v2/huhu/balloon-detail.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "儿童呼气检测概念场景原始渲染",
+          "src": "/works/refinement-v2/huhu/product-scene.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "草图、手工形态模型与 AIGC 探索",
+          "src": "/works/documents/portfolio-51/023.webp",
+          "note": ""
+        }
+      ]
+    ],
+    "lingmu": [
+      [
+        {
+          "alt": "LINGMU 原生扉页",
+          "src": "/works/refinement-v2/psd-lingmu/opening.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "原始设计背景与用户画像版块",
+          "src": "/works/refinement-v2/psd-lingmu/background.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "原始用户旅程与故事板",
+          "src": "/works/refinement-v2/psd-lingmu/journey.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "洗浴设备原始草图版块",
+          "src": "/works/refinement-v2/psd-lingmu/sketches.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "原始 CMF 与效果图版块",
+          "src": "/works/refinement-v2/psd-lingmu/cmf.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "原始使用场景版块",
+          "src": "/works/refinement-v2/psd-lingmu/usage.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "头部清洁模块独立图层",
+          "src": "/works/refinement-v2/psd-lingmu/head-module.webp",
+          "note": ""
+        },
+        {
+          "alt": "身体清洁模块独立图层",
+          "src": "/works/refinement-v2/psd-lingmu/body-module.webp",
+          "note": ""
+        },
+        {
+          "alt": "正视图独立图层",
+          "src": "/works/refinement-v2/psd-lingmu/front-view.webp",
+          "note": ""
+        }
+      ]
+    ],
+    "jimu-studio": [
+      [
+        {
+          "alt": "JiMu Studio 原生扉页",
+          "src": "/works/refinement-v2/psd-jimu/opening.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "玉米芯材料研究与原始构思版块",
+          "src": "/works/refinement-v2/psd-jimu/materials-research.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "原始画像与草图版块",
+          "src": "/works/refinement-v2/psd-jimu/sketches.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "家具结构与效果图原生版块",
+          "src": "/works/refinement-v2/psd-jimu/product-board.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "原始家具场景版块；室内背景不归为原创设计",
+          "src": "/works/refinement-v2/psd-jimu/scene-board.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "材料与部件分解独立图层",
+          "src": "/works/refinement-v2/psd-jimu/materials-exploded.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "家具组合独立图层",
+          "src": "/works/refinement-v2/psd-jimu/product-arrangement.webp",
+          "note": ""
+        },
+        {
+          "alt": "尺寸视图独立图层",
+          "src": "/works/refinement-v2/psd-jimu/dimension-view.webp",
+          "note": ""
+        }
+      ]
+    ],
+    "plant-companion": [],
+    "go-glow": [],
+    "baobab-glow": [],
+    "cloudwing": [],
+    "bat-quad": [],
+    "little-orange": [],
+    "water-guardian": [],
+    "ecological-harvest": [],
+    "purewater-rolling-filter": [],
+    "polar-wing": [],
+    "construction-recycler": [],
+    "water-walking-bath": [],
+    "rendering-studies": [
+      [
+        {
+          "alt": "GO GLOW 材质、灯光与静物组合",
+          "src": "/works/refinement-v2/rendering-pdf/038.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "GO GLOW 水面镜头",
+          "src": "/works/refinement-v2/rendering-pdf/040.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "GO GLOW 暗场产品组合",
+          "src": "/works/refinement-v2/rendering-pdf/041.webp",
+          "note": ""
+        },
+        {
+          "alt": "HUHU CARE 圆环与球体场景",
+          "src": "/works/refinement-v2/rendering-pdf/022.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "植遇相伴产品与显示底座",
+          "src": "/works/refinement-v2/rendering-pdf/024.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "生态丰收漫游者外景",
+          "src": "/works/refinement-v2/rendering-pdf/014.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "手腕支撑产品视觉习作",
+          "src": "/works/refinement-v2/rendering-pdf/017.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "引渡者地下设施灯光",
+          "src": "/works/refinement-v2/rendering-pdf/034.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "机器人地下环境构图",
+          "src": "/works/refinement-v2/rendering-pdf/036.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "暗色灯光下的整车渲染",
+          "src": "/works/legacy/rendering/22de046ff3e66598345084183a3aea6b.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "CLIMBER MINI24 雪地场景渲染",
+          "src": "/works/legacy/rendering/6b8d00417baa8b204447fd0857eb435a.webp",
+          "note": ""
+        }
+      ],
+      [
+        {
+          "alt": "山地自行车环境渲染",
+          "src": "/works/legacy/rendering/7ddd2cc1d08f22e83dbf11ca277471eb.webp",
+          "note": ""
+        }
+      ]
+    ],
+    "biyuan": [
+      [
+        {
+          "alt": "彼源官网桌面首页",
+          "src": "/works/refinement-brand/biyuan/home-desktop.png",
+          "note": "2026-09-15 公开官网真实截图。页面中的服务、价格与性能文案属于网站当时的表述，本案例不将其转换为独立性能测试结论。"
+        },
+        {
+          "alt": "彼源模型广场",
+          "src": "/works/refinement-brand/biyuan/models-desktop.png",
+          "note": "公开模型目录的桌面呈现，含用途、价格说明与操作入口。"
+        },
+        {
+          "alt": "彼源模型名称搜索结果",
+          "src": "/works/refinement-brand/biyuan/models-filtered.png",
+          "note": "实际搜索后的页面状态。目录中的可见模型名不等于已逐项完成真实接口调用。"
+        }
+      ],
+      [
+        {
+          "alt": "彼源官网移动端首页",
+          "src": "/works/refinement-brand/biyuan/home-mobile.png",
+          "note": "390 × 844 视口的真实网页截图。"
+        }
+      ]
+    ],
+    "yelisi": [
+      [
+        {
+          "alt": "Songnasty 早期标志",
+          "src": "/works/brand/yelisi/songnasty-historical-logo.webp",
+          "note": "历史探索阶段；不作为夜礼司的现行标志。"
+        },
+        {
+          "alt": "夜礼司现行标志",
+          "src": "/works/brand/yelisi/yelisi-logo.webp",
+          "note": "当前品牌方向；图形矢量精修与字标完善仍在后续工作范围内。"
+        }
+      ],
+      [
+        {
+          "alt": "蛇形部件概念与尺寸标注",
+          "src": "/works/brand/yelisi/snake-component-dimensions-concept.webp",
+          "note": "蛇形部件的概念研究稿，画面尺寸为设计标注，尚未经过实物验证。"
+        }
+      ]
+    ],
+    "periastra": [
+      [
+        {
+          "alt": "Periastra 标志的字母、外框与镜头结构拆解",
+          "src": "/works/brand/periastra/explainers/periastra-structure-breakdown-v01.svg",
+          "note": "结构说明：P 是主要入口，镜头与保护框架构成第二层联想。"
+        }
+      ],
+      [
+        {
+          "alt": "Periastra 线宽和负形优化方向",
+          "src": "/works/brand/periastra/explainers/periastra-lineweight-negative-space-v01.svg",
+          "note": "优化研究：区分外框与内部笔画重量，并扩大中央呼吸空间。"
+        }
+      ],
+      [
+        {
+          "alt": "Periastra 黑白标志与英文名称组合",
+          "src": "/works/brand/periastra/logo/periastra-logo-v01-20260422.webp",
+          "note": "当前标志方案。"
+        }
+      ],
+      [
+        {
+          "alt": "Periastra 小尺寸和工艺适配检查方向",
+          "src": "/works/brand/periastra/explainers/periastra-application-fit-v01.svg",
+          "note": "拟验证的应用条件，图示不代表已完成的实物工艺测试。"
+        }
+      ]
+    ],
+    "lensflow": [
+      [
+        {
+          "alt": "镜序首次使用引导与演示工作区",
+          "src": "/works/digital/lensflow/studio-guide.webp",
+          "note": "v0.3.0 演示界面；使用预计算内容，并非实时模型调用结果。"
+        }
+      ],
+      [
+        {
+          "alt": "镜序素材分析与结构化结果界面",
+          "src": "/works/digital/lensflow/studio-analysis.webp",
+          "note": "v0.3.0 保存的演示画面。灯具是界面演示素材，不作为本案例的独立工业设计成果。"
+        }
+      ]
+    ],
+    "yantai": [
+      [
+        {
+          "alt": "砚台 · 图像入口与学习工作区",
+          "src": "/works/digital/yantai/design-study-fixture.webp",
+          "note": "演示夹具“study”。灯具与界面数字用于说明交互，不代表本案例的产品设计成果或性能测量。",
+          "crop": [
+            0,
+            0,
+            760,
+            741
+          ]
+        }
+      ],
+      [
+        {
+          "alt": "砚台 · 可见依据、作用推断与迁移方法",
+          "src": "/works/digital/yantai/design-study-fixture.webp",
+          "note": "演示夹具“study”。灯具与界面数字用于说明交互，不代表本案例的产品设计成果或性能测量。",
+          "crop": [
+            0,
+            741,
+            760,
+            1470
+          ]
+        }
+      ],
+      [
+        {
+          "alt": "砚台 · 迁移练习与人工确认归档",
+          "src": "/works/digital/yantai/design-study-fixture.webp",
+          "note": "演示夹具“study”。灯具与界面数字用于说明交互，不代表本案例的产品设计成果或性能测量。",
+          "crop": [
+            0,
+            1470,
+            760,
+            1985
+          ]
+        }
+      ]
+    ],
+    "xintiao": [
+      [
+        {
+          "alt": "薪跳原生首页",
+          "src": "/works/refinement-digital/xintiao/home-native.png",
+          "note": "微信开发者工具真实运行截图。采用默认月薪 ¥10,000、每月 22 个工作日与 09:30–18:30 班次，仅用于演示，不代表个人实际收入。"
+        },
+        {
+          "alt": "薪跳三步引导的计薪配置",
+          "src": "/works/refinement-digital/xintiao/onboarding-native.png",
+          "note": "先选择月薪、日薪或时薪，再配置工作时间与午休；截图为三步流程中的第一步。"
+        },
+        {
+          "alt": "薪跳工资明细",
+          "src": "/works/refinement-digital/xintiao/detail-native.png",
+          "note": "明细将累计金额拆为正常工时、加班和计薪速度，展示估算依据。"
+        }
+      ],
+      [
+        {
+          "alt": "薪跳日历空记录状态",
+          "src": "/works/refinement-digital/xintiao/calendar-native.png",
+          "note": "新建演示配置的日历尚无已结算记录；页面如实呈现空状态。"
+        },
+        {
+          "alt": "薪跳外观与动画设置",
+          "src": "/works/refinement-digital/xintiao/appearance-native.png",
+          "note": "外观设置真实界面。此次模拟器中“深色”选项可保存，但返回页面后仍呈浅色，深色显示列为待修正项。"
+        }
+      ]
+    ],
+    "formline": [
+      [
+        {
+          "alt": "构线桌面几何编辑器",
+          "src": "/works/digital/formline/editor-desktop.webp",
+          "note": "桌面界面：图层、约束、几何画布与分项诊断。"
+        }
+      ],
+      [
+        {
+          "alt": "构线移动端 X-Ray 视图",
+          "src": "/works/digital/formline/editor-mobile.webp",
+          "note": "移动端界面：Aperture 01 示例与折叠诊断区域。"
+        }
+      ]
+    ],
+    "resume-formatter": [
+      [
+        {
+          "alt": "Resume Formatter 的 AI 改写差异确认",
+          "src": "/works/digital/resume-formatter/rewrite-diff.webp",
+          "note": "先审阅修改，再决定是否应用。画面使用虚构示例履历。"
+        }
+      ],
+      [
+        {
+          "alt": "简历母版、岗位版本与证据工作区",
+          "src": "/works/digital/resume-formatter/workspace.webp",
+          "note": "v2.4.0 工作区；人物、岗位与履历是虚构测试内容。"
+        }
+      ],
+      [
+        {
+          "alt": "Resume Formatter 模板与排版调整界面",
+          "src": "/works/digital/resume-formatter/layout-controls.webp",
+          "note": "模板预览与字号、行距、页边距等排版控制。"
+        }
+      ]
+    ],
+    "visual-archive": [],
+    "aesthetic-atlas": [],
+    "image-2-5-xhs": [
+      [
+        {
+          "alt": "虚构包装的参考与生成结果比较",
+          "src": "/works/digital/image-2-5-xhs/product-consistency.webp",
+          "note": "虚构包装的 AI 生成测试。对比展示不代表实物商品摄影或同视角测量。"
+        },
+        {
+          "alt": "图像生成与连续编辑研究封面",
+          "src": "/works/digital/image-2-5-xhs/evaluation-cover.webp",
+          "note": "研究图文封面。画面中的品牌、包装与生成效果为实验内容。"
+        },
+        {
+          "alt": "实验可用性判定与结论边界",
+          "src": "/works/digital/image-2-5-xhs/evaluation-boundaries.webp",
+          "note": "结论页同时呈现可用性判定与样本限制。"
+        }
+      ]
+    ],
+    "xhs-methods": [],
+    "yuju": []
+  },
+  "status": "Final media incorporated; page count is calculated from current shared case sources"
+}

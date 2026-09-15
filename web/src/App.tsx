@@ -1,7 +1,8 @@
-import { Component, Suspense, lazy, useEffect, useRef, useState, type MouseEvent, type ReactNode } from 'react'
+import { Component, Suspense, lazy, useEffect, useLayoutEffect, useRef, useState, type MouseEvent, type ReactNode } from 'react'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import rehypeRaw from 'rehype-raw'
+import { AnimatePresence, motion } from 'framer-motion'
 import { asset, CATEGORIES, getWorkDoc, getWorks, type Category, type Lang, type WorkDoc } from './data/workDocs'
 import { SenIntroduction, SenGallery } from './ui/SenExperience'
 import profile from './data/profile.json'
@@ -116,14 +117,14 @@ function Lightbox({ photos, index, onClose, onIndex, lang }: { photos: Photo[]; 
     <div className="lightbox-caption"><button onClick={() => move(-1)} aria-label={t.prev}>←</button><p>{photo.alt}</p><button onClick={() => move(1)} aria-label={t.nextImage}>→</button></div>
   </dialog>
 }
-function CasePage({ work, lang, openPhoto, back, visit }: { work: WorkDoc | null; lang: Lang; openPhoto: (photos: Photo[], index: number) => void; back: () => void; visit: (slug: string) => void }) {
+function CasePage({ work, lang, reduced, openPhoto, back, visit }: { work: WorkDoc | null; lang: Lang; reduced: boolean; openPhoto: (photos: Photo[], index: number) => void; back: () => void; visit: (slug: string) => void }) {
   const t = copy[lang], main = useRef<HTMLElement>(null)
   useEffect(() => { main.current?.focus({ preventScroll: true }) }, [work?.slug])
   if (!work) return <main className="not-found" ref={main} tabIndex={-1}><h1>{t.notFound}</h1><button className="primary" onClick={back}>{t.back}</button></main>
   const photos = [...work.body.matchAll(/!\[([^\]]*)\]\(([^\s)]+)(?:\s+[^)]*)?\)/g)].map(match => ({ alt: match[1], src: match[2] }))
   if (!photos.some(photo => photo.src === work.cover)) photos.unshift({ src: work.cover, alt: work.title })
   const candidates = getWorks(lang), next = candidates[(candidates.findIndex(item => item.slug === work.slug) + 1) % candidates.length]
-  return <main className="case-page" ref={main} tabIndex={-1}>
+  return <motion.main className="case-page" ref={main} tabIndex={-1} initial={reduced ? false : { opacity: 0, scale: .985, y: 8 }} animate={{ opacity: 1, scale: 1, y: 0 }} exit={{ opacity: 0, scale: .99, y: 6 }} transition={{ duration: reduced ? 0 : .42, ease: [.22, 1, .36, 1] }}>
     <div className="case-toolbar"><button onClick={back}>← {t.back}</button><span>{CATEGORIES[lang][work.category]}</span></div>
     <header className="case-header"><div className="case-kicker">{work.status}</div><h1>{work.title}</h1><p className="case-summary">{work.summary}</p><dl className="case-facts"><div><dt>{t.role}</dt><dd>{work.role}</dd></div><div><dt>{t.credits}</dt><dd>{work.credits}</dd></div><div><dt>{t.status}</dt><dd>{work.status}</dd></div></dl></header>
     <button className="case-cover media-button" onClick={() => openPhoto(photos, Math.max(0, photos.findIndex(photo => photo.src === work.cover)))} aria-label={`${t.enlarge}: ${work.title}`}><img src={asset(work.cover)} alt={work.title} /></button>
@@ -134,7 +135,7 @@ function CasePage({ work, lang, openPhoto, back, visit }: { work: WorkDoc | null
     }}>{work.body}</ReactMarkdown></article>
     {next && <aside className="next-case"><span>{t.next}</span><a href={`#/work/${next.slug}`} onClick={event => { event.preventDefault(); visit(next.slug) }}>{next.title}<span aria-hidden="true">↗</span></a></aside>}
     <button className="case-back-bottom" onClick={back}>← {t.back}</button>
-  </main>
+  </motion.main>
 }
 function caseSlug(hash: string): string | null {
   if (!hash.startsWith('#/work/')) return null
@@ -147,9 +148,22 @@ function readPageLocation() {
 function savePagePosition() {
   history.replaceState({ ...history.state, portfolioPosition: { hash: location.hash, top: window.scrollY } }, '', location.href)
 }
+function RestoreScroll({ page, onRouteMount }: { page: ReturnType<typeof readPageLocation>; onRouteMount: (isCase: boolean) => void }) {
+  useLayoutEffect(() => { onRouteMount(caseSlug(page.hash) !== null) }, [page.hash, onRouteMount])
+  useEffect(() => {
+    const frame = requestAnimationFrame(() => {
+      if (page.top !== null) window.scrollTo({ top: page.top, behavior: 'instant' })
+      else if (caseSlug(page.hash) !== null || !page.hash || page.hash === '#top') window.scrollTo({ top: 0, behavior: 'instant' })
+      else document.getElementById(page.hash.slice(1))?.scrollIntoView({ behavior: 'instant' })
+    })
+    return () => cancelAnimationFrame(frame)
+  }, [page])
+  return null
+}
 export default function App() {
   const [lang, setLang] = useState<Lang>(() => new URLSearchParams(location.search).get('lang') === 'en' ? 'en' : 'zh')
   const [page, setPage] = useState(readPageLocation), [category, setCategory] = useState<Category | 'all'>('all'), [query, setQuery] = useState('')
+  const [displayedIsCase, setDisplayedIsCase] = useState(() => caseSlug(location.hash) !== null)
   const [lightbox, setLightbox] = useState<{ photos: Photo[]; index: number } | null>(null)
   const reduced = useReducedMotion(), t = copy[lang], hash = page.hash
   const slug = caseSlug(hash), isCase = slug !== null
@@ -171,14 +185,6 @@ export default function App() {
     const work = getWorkDoc(slug ?? undefined, lang)
     document.title = `${work ? work.title + ' | ' : ''}${lang === 'zh' ? '孙英杰 — 设计作品集' : 'Yingjie Sun — Design portfolio'}`
   }, [lang, slug])
-  useEffect(() => {
-    const frame = requestAnimationFrame(() => {
-      if (page.top !== null) window.scrollTo({ top: page.top, behavior: 'instant' })
-      else if (isCase || !page.hash || page.hash === '#top') window.scrollTo({ top: 0, behavior: 'instant' })
-      else document.getElementById(page.hash.slice(1))?.scrollIntoView({ behavior: 'instant' })
-    })
-    return () => cancelAnimationFrame(frame)
-  }, [isCase, page])
   function visit(id: string) {
     const target = `#/work/${encodeURIComponent(id)}`
     if (isCase) history.replaceState({ ...history.state, portfolioPosition: null }, '', target)
@@ -209,16 +215,23 @@ export default function App() {
   </a>
   return <>
     <a className="skip-link" href={isCase ? '#case-start' : '#works'} onClick={isCase ? event => { event.preventDefault(); document.querySelector<HTMLElement>('.case-page')?.focus() } : homeAnchor}>{t.skip}</a>
-    <header className={`site-header ${isCase ? 'on-case' : ''}`}><a href="#top" onClick={homeAnchor} className="signature">Sun Yingjie<span>孙英杰</span></a><nav aria-label={lang === 'zh' ? '主导航' : 'Main navigation'}><a href="#works" onClick={homeAnchor}>{t.works}</a><a href="#about" onClick={homeAnchor}>{t.about}</a><a href="#contact" onClick={homeAnchor}>{t.contact}</a></nav><button className="language" onClick={toggleLanguage} aria-label="切换语言 / Switch language">{lang === 'zh' ? 'EN' : '中'}</button></header>
-    {isCase ? <CasePage work={getWorkDoc(slug!, lang)} lang={lang} back={back} visit={visit} openPhoto={(photos, index) => setLightbox({ photos, index })} /> : <main id="top">
+    <header className={`site-header ${displayedIsCase ? 'on-case' : ''}`}><a href="#top" onClick={homeAnchor} className="signature">Sun Yingjie<span>孙英杰</span></a><nav aria-label={lang === 'zh' ? '主导航' : 'Main navigation'}><a href="#works" onClick={homeAnchor}>{t.works}</a><a href="#about" onClick={homeAnchor}>{t.about}</a><a href="#contact" onClick={homeAnchor}>{t.contact}</a></nav><button className="language" onClick={toggleLanguage} aria-label="切换语言 / Switch language">{lang === 'zh' ? 'EN' : '中'}</button></header>
+    <AnimatePresence initial={false} mode="wait">
+    {isCase ? <motion.div key={hash} className="case-transition">
+      <motion.div className="case-backdrop" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} transition={{ duration: reduced ? 0 : .3 }} aria-hidden="true" />
+      <CasePage work={getWorkDoc(slug!, lang)} lang={lang} reduced={reduced} back={back} visit={visit} openPhoto={(photos, index) => setLightbox({ photos, index })} />
+      <RestoreScroll page={page} onRouteMount={setDisplayedIsCase} />
+    </motion.div> : <motion.main key="home" id="top" exit={{ opacity: 1 }} transition={{ duration: 0 }}>
+      <RestoreScroll page={page} onRouteMount={setDisplayedIsCase} />
       <SenIntroduction lang={lang} reduced={reduced} portrait={<Portrait lang={lang} reduced={reduced} />} anchor={homeAnchor} />
       <SenGallery works={works} lang={lang} reduced={reduced} visit={visit} catalogue={homeAnchor} />
       <section className="work-index" id="works" aria-labelledby="index-title"><div className="index-heading"><div><h2 id="index-title">{t.catalog}</h2><p>{t.catalogText}</p></div><span>{String(works.length).padStart(2, '0')} {t.count}</span></div><div className="filters"><div className="category-list" role="group" aria-label={lang === 'zh' ? '作品分类' : 'Work category'}>{Object.entries(CATEGORIES[lang]).map(([value, label]) => <button key={value} aria-pressed={category === value} onClick={() => setCategory(value as Category | 'all')}>{label}</button>)}</div><label className="search"><span aria-hidden="true">⌕</span><input type="search" value={query} onChange={event => setQuery(event.target.value)} placeholder={t.search} aria-label={t.search} /></label></div><p className="result-count" aria-live="polite">{shown.length} / {works.length} {t.count}</p>{shown.length ? <div className="catalog-grid">{shown.map(work => renderCard(work))}</div> : <div className="empty-state"><h3>{t.empty}</h3><p>{t.emptyText}</p><button className="primary" onClick={() => { setCategory('all'); setQuery('') }}>{t.clear}</button></div>}</section>
       <section className="about-section" id="about"><div className="about-heading"><span>{t.about}</span><h2>{t.aboutTitle}</h2></div><div className="about-body"><p>{profile.summary[lang]}</p><div className="skill-list">{['Rhino', 'KeyShot', 'Blender', 'Figma', 'CMF', 'AIGC'].map(skill => <span key={skill}>{skill}</span>)}</div><a className="download-link" href={asset('/downloads/sun-yingjie-selected-portfolio.pdf')} download><span>{t.resume}<small>{t.resumeNote}</small></span><span aria-hidden="true">↓</span></a><a className="download-link" href={asset('/downloads/sun-yingjie-resume.pdf')} download><span>{t.cv}<small>{t.cvNote}</small></span><span aria-hidden="true">↓</span></a></div></section>
-      <section className="contact-section" id="contact"><span>{t.contact}</span><h2>{t.contactTitle}</h2><p>{t.contactText}</p><a className="email-link" href="mailto:2950884508@qq.com">2950884508@qq.com<span aria-hidden="true">↗</span></a><div className="contact-actions"><a href="mailto:2950884508@qq.com">{t.email}</a><a href="tel:+8613515249897">{t.phone} · 135 1524 9897</a><a href="https://github.com/AJ-nb" target="_blank" rel="noreferrer">GitHub ↗</a></div></section>
-    </main>}
+      <section className="contact-section" id="contact"><span>{t.contact}</span><h2>{t.contactTitle}</h2><p>{t.contactText}</p><a className="email-link" href={`mailto:${profile.email}`}>{profile.email}<span aria-hidden="true">↗</span></a><div className="contact-actions"><a href={`mailto:${profile.email}`}>{t.email}</a><a href={`tel:+86${profile.phone}`}>{t.phone} · {profile.phone.replace(/(\d{3})(\d{4})(\d{4})/, '$1 $2 $3')}</a><a href="https://github.com/AJ-nb" target="_blank" rel="noreferrer">GitHub ↗</a></div></section>
+    </motion.main>}
+    </AnimatePresence>
     <footer><span>© 2026 孙英杰 / Yingjie Sun</span><span>{lang === 'zh' ? '用设计连接想法与现实。' : 'Connecting ideas and reality through design.'}</span><a href={isCase ? '#works' : '#top'} onClick={homeAnchor}>{isCase ? t.works : t.top} ↑</a></footer>
-    {!isCase && <nav className="mobile-nav" aria-label={lang === 'zh' ? '快捷导航' : 'Quick navigation'}><a href="#works" onClick={homeAnchor}>{t.works}</a><a href="#about" onClick={homeAnchor}>{t.about}</a><a href="#contact" onClick={homeAnchor}>{t.contact}</a></nav>}
+    {!displayedIsCase && <nav className="mobile-nav" aria-label={lang === 'zh' ? '快捷导航' : 'Quick navigation'}><a href="#works" onClick={homeAnchor}>{t.works}</a><a href="#about" onClick={homeAnchor}>{t.about}</a><a href="#contact" onClick={homeAnchor}>{t.contact}</a></nav>}
     {lightbox && <Lightbox {...lightbox} lang={lang} onClose={() => setLightbox(null)} onIndex={index => setLightbox({ ...lightbox, index })} />}
   </>
 }

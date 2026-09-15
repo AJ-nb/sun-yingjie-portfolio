@@ -77,6 +77,20 @@ The 3D design and visual presentation extended from individual forms to details 
 
 *BENWU EDITION collective display: lights and furniture share a setting, showing spatial relationships within the team's brand context.*
 
+### Material, lighting and scene details
+
+![Linear pendant light render](/works/refinement-v2/rendering-pdf/011.webp)
+
+![Wall-light interior render](/works/refinement-v2/rendering-pdf/012.webp)
+
+![Wall-light illumination detail](/works/refinement-v2/rendering-pdf/013.webp)
+
+![Linear-light interior scene](/works/refinement-v2/rendering-pdf/023.webp)
+
+![Light and extrusion study](/works/refinement-v2/rendering-pdf/025.webp)
+
+![Complete floor-light view](/works/refinement-v2/rendering-pdf/026.webp)
+
 ## Outcome and stage
 
 Eleven images present the lighting family, details, interior scenes and collective display space. Repeated profiles and linear luminous surfaces connect the different types, documenting the product work to which I contributed through 3D design and visual presentation.

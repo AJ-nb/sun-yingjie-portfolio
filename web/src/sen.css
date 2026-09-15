@@ -22,3 +22,8 @@ h1,h2{font-family:'Helvetica Neue','PingFang SC','Microsoft YaHei',sans-serif;fo
 
 html,body{position:relative}.portrait-fog{position:absolute;inset:0;pointer-events:none;background:#10151a;opacity:var(--works-fog,0)}
 
+/* Route mounting waits for the authored sen exit before scroll restoration. */
+.case-transition{position:relative;isolation:isolate}.case-backdrop{position:fixed;inset:0;background:#10151a;z-index:-1;pointer-events:none}.case-page{animation:none}
+@media(min-width:641px){.mobile-nav{display:none}.site-header nav{display:flex}.site-header .language{margin-left:0}}
+@media(max-width:640px){.portrait-stage.is-static .portrait-poster{object-position:center}}
+

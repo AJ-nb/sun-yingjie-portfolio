@@ -46,3 +46,17 @@ The desktop's three columns connect content navigation, the resume preview, and 
 Version 2.4.0 brings together master and job-specific versions, factual evidence, template layout, change review and export. Rule-based checks flag content and reading risks; they do not represent actual ATS acceptance rates or hiring outcomes. AI assistance remains optional.
 
 [Use Resume Formatter](https://aj-nb.github.io/resume-formatter/)
+
+<!-- refinement-v2 -->
+
+### Making content changes reviewable
+
+Import previews detected sections, warnings and unmapped text. Scanned PDFs explicitly report that OCR is unsupported. Job versions compare the creation baseline, current master and current job version; only fields not independently changed in the job version synchronize automatically. Users resolve conflicts individually.
+
+AI rewriting retains selection and difference review, with additional checks for changes to numbers and dates. Biyuan is one optional preset and can retrieve account-available models. This does not establish live compatibility with every model. Editing, rule checks and layout remain usable without AI.
+
+Twelve templates provide real single- and two-column structures, with precise control over type size, spacing and margins. Application PDF output checks blocking errors before printing. Workspace backups are separate from ordinary resume exports so internal evidence and job research do not become application content. The tool does not export DOCX or produce ATS pass-rate or recruiter-reading-time scores.
+
+### Sources
+
+Resume Formatter v2.4.0 README, privacy and third-party notices, and saved fictional-resume interface captures; local records begin on 21 August 2026. MIT Fork attribution follows the upstream and project notices. 

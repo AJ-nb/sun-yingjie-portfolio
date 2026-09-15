@@ -1,0 +1,19 @@
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 3005130539 bytes (2866 MiB)
+
+Extracting archive: D:\OneDrive\桌面\文件\作品集\完成模型\儿童幽门螺杆菌检测仪.zip
+--
+Path = D:\OneDrive\桌面\文件\作品集\完成模型\儿童幽门螺杆菌检测仪.zip
+Type = zip
+Physical Size = 3005130539
+64-bit = +
+Characteristics = Zip64
+
+Everything is Ok
+
+Files: 43
+Size:       402024422
+Compressed: 3005130539

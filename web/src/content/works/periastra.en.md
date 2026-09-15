@@ -48,3 +48,17 @@ The work includes an identity proposal, structural explanations and application 
 ![Proposed small-size and production checks for Periastra](/works/brand/periastra/explainers/periastra-application-fit-v01.svg)
 
 *Proposed application conditions, rather than completed physical production tests.*
+
+<!-- refinement-v2 -->
+
+### Brand objective and product relationship
+
+Periastra aims to express focus, organization and protection within photography equipment. The camera bag is the brand context. The evidenced contribution remains identity and application research; a logo does not establish authorship of the bag's structure.
+
+The logo artwork dated 22 April 2026 and the May analysis form a continuous record. Refinement establishes a reading order—P first, then lens and container—through a clear stem, sufficient central space, different weights for the frame and spiral, and intentional-looking openings.
+
+The application record proposes checks at 16 px for a digital icon, 8 mm for a metal mark, 20 mm for a woven label and 30 mm for a rubber patch, alongside zipper pulls, straps, dividers, packaging seals and dust bags. These are proposed verification conditions, not approved production specifications. The study tests how one identity might reveal congestion, weak visual weight or reversed-color legibility issues across different carriers.
+
+### Sources
+
+AJ-nb/AJNB design knowledge base: Periastra project overview, logo analysis and application/refinement record, plus the actual logo and explanatory artwork. Logo asset: 22 April 2026; application record: 11 May 2026. Physical samples, supplier process reports and market-use data have not been provided.

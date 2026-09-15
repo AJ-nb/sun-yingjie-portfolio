@@ -1,0 +1,515 @@
+[
+  {
+    "id": "huhu-001",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/1.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/001.jpg",
+    "originalDimensions": [
+      3000,
+      3750
+    ],
+    "originalMode": "RGBA",
+    "filename": "1.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-002",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/2.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/002.jpg",
+    "originalDimensions": [
+      3000,
+      3750
+    ],
+    "originalMode": "RGBA",
+    "filename": "2.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-003",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/2222.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/003.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "2222.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-004",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/2233313.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/004.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "2233313.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-005",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/3.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/005.jpg",
+    "originalDimensions": [
+      3000,
+      3750
+    ],
+    "originalMode": "RGBA",
+    "filename": "3.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/huhu/early-form.webp",
+    "captionZh": "早期配色与形态方案",
+    "captionEn": "Earlier form and color study"
+  },
+  {
+    "id": "huhu-006",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/322T.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/006.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "322T.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-007",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/33333.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/007.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "33333.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-008",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/3png.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/008.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "3png.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-009",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/4444.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/009.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "4444.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-010",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/CT.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/010.jpg",
+    "originalDimensions": [
+      5660,
+      2000
+    ],
+    "originalMode": "RGBA",
+    "filename": "CT.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-011",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/d1.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/011.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "d1.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-012",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/D2.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/012.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "D2.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-013",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/D3.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/013.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "D3.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-014",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/ODUCT.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/014.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "ODUCT.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-015",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/P.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/015.jpg",
+    "originalDimensions": [
+      3000,
+      3750
+    ],
+    "originalMode": "RGBA",
+    "filename": "P.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-016",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/P2.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/016.jpg",
+    "originalDimensions": [
+      3000,
+      1059
+    ],
+    "originalMode": "RGBA",
+    "filename": "P2.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-017",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/PRCT.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/017.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "PRCT.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-018",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/PRODT.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/018.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "PRODT.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-019",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/PRODUC222T.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/019.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "PRODUC222T.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-020",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/PRODUCT.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/020.jpg",
+    "originalDimensions": [
+      3000,
+      3750
+    ],
+    "originalMode": "RGBA",
+    "filename": "PRODUCT.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-021",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/PRUCT.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/021.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "PRUCT.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-022",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/UCT.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/022.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "UCT.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-023",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/1-.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/023.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "1-.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/huhu/mouthpiece.webp",
+    "captionZh": "吹嘴与连接位置",
+    "captionEn": "Mouthpiece and connection"
+  },
+  {
+    "id": "huhu-024",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/1a85e44a17687338bfd825eef2071b6e.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/024.jpg",
+    "originalDimensions": [
+      3000,
+      2000
+    ],
+    "originalMode": "RGBA",
+    "filename": "1a85e44a17687338bfd825eef2071b6e.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-025",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/1T.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/025.jpg",
+    "originalDimensions": [
+      2830,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "1T.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-026",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/2T.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/026.jpg",
+    "originalDimensions": [
+      4245,
+      1500
+    ],
+    "originalMode": "RGBA",
+    "filename": "2T.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-027",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/3.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/027.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "3.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/huhu/rim-detail.webp",
+    "captionZh": "吹嘴外缘细节",
+    "captionEn": "Mouthpiece rim detail"
+  },
+  {
+    "id": "huhu-028",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/4.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/028.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "4.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/huhu/grip.webp",
+    "captionZh": "防滑握持区域",
+    "captionEn": "Textured grip area"
+  },
+  {
+    "id": "huhu-029",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/44png.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/029.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "44png.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-030",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/5.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/030.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "5.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-031",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/6.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/031.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "6.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/huhu/base-reverse.webp",
+    "captionZh": "底座组合反向视角",
+    "captionEn": "Reverse view of product and base"
+  },
+  {
+    "id": "huhu-032",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/88.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/032.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "88.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/huhu/balloon-detail.webp",
+    "captionZh": "气球、连接与吹嘴局部",
+    "captionEn": "Balloon, connection and mouthpiece detail"
+  },
+  {
+    "id": "huhu-033",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/9png.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/033.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "9png.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/huhu/charging-base.webp",
+    "captionZh": "产品与底座组合",
+    "captionEn": "Product and base arrangement"
+  },
+  {
+    "id": "huhu-034",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/PRODUCT.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/034.jpg",
+    "originalDimensions": [
+      2830,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "PRODUCT.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/huhu/neck-detail.webp",
+    "captionZh": "颈部连接与标识",
+    "captionEn": "Neck joint and identity detail"
+  },
+  {
+    "id": "huhu-035",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/s1.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/035.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "s1.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-036",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/s2.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/036.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "s2.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/huhu/rear.webp",
+    "captionZh": "反向视角与气球连接",
+    "captionEn": "Reverse view and balloon connection"
+  },
+  {
+    "id": "huhu-037",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/s3png.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/037.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "s3png.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/huhu/three-quarter.webp",
+    "captionZh": "最终配色三分之四视角",
+    "captionEn": "Final-color three-quarter view"
+  },
+  {
+    "id": "huhu-038",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/上323.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/038.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "上323.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-039",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/精华3.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/039.jpg",
+    "originalDimensions": [
+      3000,
+      1059
+    ],
+    "originalMode": "RGB",
+    "filename": "精华3.png",
+    "selection": "pending"
+  },
+  {
+    "id": "huhu-040",
+    "sourcePath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/精华p1.png",
+    "previewPath": ".production-runtime/model-worksets/huhu-previews/040.jpg",
+    "originalDimensions": [
+      3000,
+      1059
+    ],
+    "originalMode": "RGBA",
+    "filename": "精华p1.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/huhu/product-scene.webp",
+    "captionZh": "儿童呼气检测概念场景原始渲染",
+    "captionEn": "Original pediatric breath-test concept scene render"
+  }
+]

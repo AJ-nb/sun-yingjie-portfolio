@@ -1,0 +1,858 @@
+[
+  {
+    "slug": "plumber",
+    "sourceArchive": "D:\\OneDrive\\桌面\\文件\\作品集\\完成模型\\管道清淤机器人.zip",
+    "returncode": 0,
+    "selectedBytes": 1149335608,
+    "files": [
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\00000.png",
+        "bytes": 5945501,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/00000.png",
+        "exists": true,
+        "actualBytes": 5945501,
+        "CRC": "24F86EC2"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\016.png",
+        "bytes": 1841632,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/016.png",
+        "exists": true,
+        "actualBytes": 1841632,
+        "CRC": "B3D6CB9B"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\08.png",
+        "bytes": 2039418,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/08.png",
+        "exists": true,
+        "actualBytes": 2039418,
+        "CRC": "F9D093BC"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\08V5sim.png",
+        "bytes": 2284914,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/08V5sim.png",
+        "exists": true,
+        "actualBytes": 2284914,
+        "CRC": "B1C21019"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\08V5simple.png",
+        "bytes": 2267915,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/08V5simple.png",
+        "exists": true,
+        "actualBytes": 2267915,
+        "CRC": "AA82D61F"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\10.png",
+        "bytes": 1524231,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/10.png",
+        "exists": true,
+        "actualBytes": 1524231,
+        "CRC": "87937108"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\11.png",
+        "bytes": 1635499,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/11.png",
+        "exists": true,
+        "actualBytes": 1635499,
+        "CRC": "905A00ED"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\12.png",
+        "bytes": 1231501,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/12.png",
+        "exists": true,
+        "actualBytes": 1231501,
+        "CRC": "A0E7AAD1"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\2.png",
+        "bytes": 1072162,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/2.png",
+        "exists": true,
+        "actualBytes": 1072162,
+        "CRC": "D60B3BCE"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\222.png",
+        "bytes": 2012220,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/222.png",
+        "exists": true,
+        "actualBytes": 2012220,
+        "CRC": "763E2DDE"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\222333.png",
+        "bytes": 1335846,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/222333.png",
+        "exists": true,
+        "actualBytes": 1335846,
+        "CRC": "23BB7082"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\22322.png",
+        "bytes": 2580987,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/22322.png",
+        "exists": true,
+        "actualBytes": 2580987,
+        "CRC": "708A167B"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\22T.png",
+        "bytes": 1665539,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/22T.png",
+        "exists": true,
+        "actualBytes": 1665539,
+        "CRC": "B3919DD3"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\231313.png",
+        "bytes": 1728068,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/231313.png",
+        "exists": true,
+        "actualBytes": 1728068,
+        "CRC": "A67A40AB"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\3333e.png",
+        "bytes": 1548663,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/3333e.png",
+        "exists": true,
+        "actualBytes": 1548663,
+        "CRC": "17AE621C"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\333png.png",
+        "bytes": 1652314,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/333png.png",
+        "exists": true,
+        "actualBytes": 1652314,
+        "CRC": "5A10ADF8"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\5.png",
+        "bytes": 1911506,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/5.png",
+        "exists": true,
+        "actualBytes": 1911506,
+        "CRC": "4F8FEA8D"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\6.png",
+        "bytes": 1311005,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/6.png",
+        "exists": true,
+        "actualBytes": 1311005,
+        "CRC": "05B52D25"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\66666.png",
+        "bytes": 951457,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/66666.png",
+        "exists": true,
+        "actualBytes": 951457,
+        "CRC": "56A5B22D"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\77777png.png",
+        "bytes": 7011325,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/77777png.png",
+        "exists": true,
+        "actualBytes": 7011325,
+        "CRC": "480A66F6"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\9.png",
+        "bytes": 2818754,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/9.png",
+        "exists": true,
+        "actualBytes": 2818754,
+        "CRC": "DA3917F8"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\boom.png",
+        "bytes": 6946339,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/boom.png",
+        "exists": true,
+        "actualBytes": 6946339,
+        "CRC": "21C006C6"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\lidar2 v1.png",
+        "bytes": 733064,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/lidar2 v1.png",
+        "exists": true,
+        "actualBytes": 733064,
+        "CRC": "80E4C83A"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\render.c4d",
+        "bytes": 695218046,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/render.c4d",
+        "exists": true,
+        "actualBytes": 695218046,
+        "CRC": "6A11A210"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\ROBOT.png",
+        "bytes": 4194156,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/ROBOT.png",
+        "exists": true,
+        "actualBytes": 4194156,
+        "CRC": "F51DDB55"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\ROBOT1.png",
+        "bytes": 2724405,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/ROBOT1.png",
+        "exists": true,
+        "actualBytes": 2724405,
+        "CRC": "A2A48595"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\ROBOT2.png",
+        "bytes": 3146001,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/ROBOT2.png",
+        "exists": true,
+        "actualBytes": 3146001,
+        "CRC": "DB0B1041"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\shuiguan.png",
+        "bytes": 414469,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/shuiguan.png",
+        "exists": true,
+        "actualBytes": 414469,
+        "CRC": "5B24B869"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\charcos.png",
+        "bytes": 15325980,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/charcos.png",
+        "exists": true,
+        "actualBytes": 15325980,
+        "CRC": "5488BB4C"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\descargar_(2).png",
+        "bytes": 15366591,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/descargar_(2).png",
+        "exists": true,
+        "actualBytes": 15366591,
+        "CRC": "334724B4"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\ew.png",
+        "bytes": 11675796,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/ew.png",
+        "exists": true,
+        "actualBytes": 11675796,
+        "CRC": "9F5A7138"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_MC027_A021_Plastic_normal.tif",
+        "bytes": 37964769,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_MC027_A021_Plastic_normal.tif",
+        "exists": true,
+        "actualBytes": 37964769,
+        "CRC": "4D8F252B"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_MC027_A021_Plastic_roughness.tif",
+        "bytes": 4517383,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_MC027_A021_Plastic_roughness.tif",
+        "exists": true,
+        "actualBytes": 4517383,
+        "CRC": "5C3BD065"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_MC027_A024_Plastic_normal.tif",
+        "bytes": 51304889,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_MC027_A024_Plastic_normal.tif",
+        "exists": true,
+        "actualBytes": 51304889,
+        "CRC": "F0083C9F"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_MC027_A024_Plastic_roughness.tif",
+        "bytes": 2384401,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_MC027_A024_Plastic_roughness.tif",
+        "exists": true,
+        "actualBytes": 2384401,
+        "CRC": "1D0D04F9"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_MC027_A036_Plastic_normal.tif",
+        "bytes": 48050923,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_MC027_A036_Plastic_normal.tif",
+        "exists": true,
+        "actualBytes": 48050923,
+        "CRC": "9D9C4D1D"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_MC027_A036_Plastic_roughness.tif",
+        "bytes": 4249187,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_MC027_A036_Plastic_roughness.tif",
+        "exists": true,
+        "actualBytes": 4249187,
+        "CRC": "8CE94717"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_TechProducts_Sandblasted_Aluminum_02_basecolor.jpg",
+        "bytes": 9160965,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_TechProducts_Sandblasted_Aluminum_02_basecolor.jpg",
+        "exists": true,
+        "actualBytes": 9160965,
+        "CRC": "B4B69A83"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_TechProducts_Sandblasted_Aluminum_02_metallic.jpg",
+        "bytes": 5498443,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_TechProducts_Sandblasted_Aluminum_02_metallic.jpg",
+        "exists": true,
+        "actualBytes": 5498443,
+        "CRC": "56195B2E"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_TechProducts_Sandblasted_Aluminum_02_normal.jpg",
+        "bytes": 17342232,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_TechProducts_Sandblasted_Aluminum_02_normal.jpg",
+        "exists": true,
+        "actualBytes": 17342232,
+        "CRC": "DAE25FF5"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_TechProducts_Sandblasted_Aluminum_02_roughness.jpg",
+        "bytes": 9878753,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_TechProducts_Sandblasted_Aluminum_02_roughness.jpg",
+        "exists": true,
+        "actualBytes": 9878753,
+        "CRC": "E8FD723E"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\hdr-light-studio_18.exr",
+        "bytes": 17984798,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/hdr-light-studio_18.exr",
+        "exists": true,
+        "actualBytes": 17984798,
+        "CRC": "979C71DC"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\Poliigon_PlasticMoldDryBlast_7495_AmbientOcclusion.jpg",
+        "bytes": 719526,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/Poliigon_PlasticMoldDryBlast_7495_AmbientOcclusion.jpg",
+        "exists": true,
+        "actualBytes": 719526,
+        "CRC": "F3B02D10"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\Poliigon_PlasticMoldDryBlast_7495_BaseColor.jpg",
+        "bytes": 1366423,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/Poliigon_PlasticMoldDryBlast_7495_BaseColor.jpg",
+        "exists": true,
+        "actualBytes": 1366423,
+        "CRC": "71C07459"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\Poliigon_PlasticMoldDryBlast_7495_Displacement.tiff",
+        "bytes": 5439939,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/Poliigon_PlasticMoldDryBlast_7495_Displacement.tiff",
+        "exists": true,
+        "actualBytes": 5439939,
+        "CRC": "CEBCB363"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\Poliigon_PlasticMoldDryBlast_7495_Normal.jpg",
+        "bytes": 4587438,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/Poliigon_PlasticMoldDryBlast_7495_Normal.jpg",
+        "exists": true,
+        "actualBytes": 4587438,
+        "CRC": "EB000DE7"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\Poliigon_PlasticMoldDryBlast_7495_Roughness.jpg",
+        "bytes": 3474022,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/Poliigon_PlasticMoldDryBlast_7495_Roughness.jpg",
+        "exists": true,
+        "actualBytes": 3474022,
+        "CRC": "B866FB57"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbqkokp_4K_Albedo.jpg",
+        "bytes": 3636442,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbqkokp_4K_Albedo.jpg",
+        "exists": true,
+        "actualBytes": 3636442,
+        "CRC": "6CD0A245"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbqkokp_4K_AO.jpg",
+        "bytes": 3235702,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbqkokp_4K_AO.jpg",
+        "exists": true,
+        "actualBytes": 3235702,
+        "CRC": "20FDF58C"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbqkokp_4K_Displacement.exr",
+        "bytes": 48736755,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbqkokp_4K_Displacement.exr",
+        "exists": true,
+        "actualBytes": 48736755,
+        "CRC": "38427F8A"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbqkokp_4K_Displacement.jpg",
+        "bytes": 690075,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbqkokp_4K_Displacement.jpg",
+        "exists": true,
+        "actualBytes": 690075,
+        "CRC": "8DB1E870"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbqkokp_4K_Normal.jpg",
+        "bytes": 7484594,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbqkokp_4K_Normal.jpg",
+        "exists": true,
+        "actualBytes": 7484594,
+        "CRC": "8CBEC05B"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbqkokp_4K_Roughness.jpg",
+        "bytes": 3024002,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbqkokp_4K_Roughness.jpg",
+        "exists": true,
+        "actualBytes": 3024002,
+        "CRC": "2855889F"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbzld3p_4K_Albedo.jpg",
+        "bytes": 5500004,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbzld3p_4K_Albedo.jpg",
+        "exists": true,
+        "actualBytes": 5500004,
+        "CRC": "8083BB23"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbzld3p_4K_AO.jpg",
+        "bytes": 5471641,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbzld3p_4K_AO.jpg",
+        "exists": true,
+        "actualBytes": 5471641,
+        "CRC": "0737CF73"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbzld3p_4K_Displacement.jpg",
+        "bytes": 1003764,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbzld3p_4K_Displacement.jpg",
+        "exists": true,
+        "actualBytes": 1003764,
+        "CRC": "EC949022"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbzld3p_4K_Normal.jpg",
+        "bytes": 11709894,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbzld3p_4K_Normal.jpg",
+        "exists": true,
+        "actualBytes": 11709894,
+        "CRC": "B70A3B00"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbzld3p_4K_Roughness.jpg",
+        "bytes": 4026612,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbzld3p_4K_Roughness.jpg",
+        "exists": true,
+        "actualBytes": 4026612,
+        "CRC": "1B96824B"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\XS550-XS110A.png",
+        "bytes": 2316916,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/XS550-XS110A.png",
+        "exists": true,
+        "actualBytes": 2316916,
+        "CRC": "D64358A5"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\XS550-XS110A2.png",
+        "bytes": 1563786,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/XS550-XS110A2.png",
+        "exists": true,
+        "actualBytes": 1563786,
+        "CRC": "807C516C"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\未标题 3.png",
+        "bytes": 2042950,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/未标题 3.png",
+        "exists": true,
+        "actualBytes": 2042950,
+        "CRC": "0E65DFEA"
+      },
+      {
+        "archivePath": "管道清淤机器人\\C4D\\render\\未标题 3.tif",
+        "bytes": 22853076,
+        "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/未标题 3.tif",
+        "exists": true,
+        "actualBytes": 22853076,
+        "CRC": "85F94478"
+      }
+    ]
+  },
+  {
+    "slug": "huhu",
+    "sourceArchive": "D:\\OneDrive\\桌面\\文件\\作品集\\完成模型\\儿童幽门螺杆菌检测仪.zip",
+    "returncode": 0,
+    "selectedBytes": 402024422,
+    "files": [
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\C4D\\PRODUCT\\PRODUCT.c4d",
+        "bytes": 119488147,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/C4D/PRODUCT/PRODUCT.c4d",
+        "exists": true,
+        "actualBytes": 119488147,
+        "CRC": "15B97BC6"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\model\\03rhino5.mtl",
+        "bytes": 618,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/model/03rhino5.mtl",
+        "exists": true,
+        "actualBytes": 618,
+        "CRC": "E1137E6C"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\model\\03rhino5.obj",
+        "bytes": 153824947,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/model/03rhino5.obj",
+        "exists": true,
+        "actualBytes": 153824947,
+        "CRC": "8C64456A"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\1.png",
+        "bytes": 6916382,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/1.png",
+        "exists": true,
+        "actualBytes": 6916382,
+        "CRC": "84A368BB"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\2.png",
+        "bytes": 9861772,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/2.png",
+        "exists": true,
+        "actualBytes": 9861772,
+        "CRC": "85C1AF8F"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\2222.png",
+        "bytes": 1117703,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/2222.png",
+        "exists": true,
+        "actualBytes": 1117703,
+        "CRC": "2D49CE2B"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\2233313.png",
+        "bytes": 3586543,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/2233313.png",
+        "exists": true,
+        "actualBytes": 3586543,
+        "CRC": "49D35799"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\3.png",
+        "bytes": 4354473,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/3.png",
+        "exists": true,
+        "actualBytes": 4354473,
+        "CRC": "92779B13"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\322T.png",
+        "bytes": 1723420,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/322T.png",
+        "exists": true,
+        "actualBytes": 1723420,
+        "CRC": "88159480"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\33333.png",
+        "bytes": 1268652,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/33333.png",
+        "exists": true,
+        "actualBytes": 1268652,
+        "CRC": "12F89ED0"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\3png.png",
+        "bytes": 1973756,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/3png.png",
+        "exists": true,
+        "actualBytes": 1973756,
+        "CRC": "E10DADEC"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\4444.png",
+        "bytes": 1419608,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/4444.png",
+        "exists": true,
+        "actualBytes": 1419608,
+        "CRC": "181B2308"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\CT.png",
+        "bytes": 3407010,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/CT.png",
+        "exists": true,
+        "actualBytes": 3407010,
+        "CRC": "710CBF6A"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\d1.png",
+        "bytes": 432828,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/d1.png",
+        "exists": true,
+        "actualBytes": 432828,
+        "CRC": "2774A9CC"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\D2.png",
+        "bytes": 3058078,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/D2.png",
+        "exists": true,
+        "actualBytes": 3058078,
+        "CRC": "D3F6F19B"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\D3.png",
+        "bytes": 1472300,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/D3.png",
+        "exists": true,
+        "actualBytes": 1472300,
+        "CRC": "E88C55B4"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\ODUCT.png",
+        "bytes": 2299575,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/ODUCT.png",
+        "exists": true,
+        "actualBytes": 2299575,
+        "CRC": "3F281C41"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\P.png",
+        "bytes": 3240746,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/P.png",
+        "exists": true,
+        "actualBytes": 3240746,
+        "CRC": "E50A15C8"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\P2.png",
+        "bytes": 670842,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/P2.png",
+        "exists": true,
+        "actualBytes": 670842,
+        "CRC": "1607E465"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\PRCT.png",
+        "bytes": 1265438,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/PRCT.png",
+        "exists": true,
+        "actualBytes": 1265438,
+        "CRC": "E033E319"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\PRODT.png",
+        "bytes": 2249365,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/PRODT.png",
+        "exists": true,
+        "actualBytes": 2249365,
+        "CRC": "61003BDF"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\PRODUC222T.png",
+        "bytes": 1130389,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/PRODUC222T.png",
+        "exists": true,
+        "actualBytes": 1130389,
+        "CRC": "CE9F25DB"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\PRODUCT.png",
+        "bytes": 4359737,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/PRODUCT.png",
+        "exists": true,
+        "actualBytes": 4359737,
+        "CRC": "EF2D13CB"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\PRUCT.png",
+        "bytes": 1364255,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/PRUCT.png",
+        "exists": true,
+        "actualBytes": 1364255,
+        "CRC": "7E3987F0"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render\\UCT.png",
+        "bytes": 1870288,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render/UCT.png",
+        "exists": true,
+        "actualBytes": 1870288,
+        "CRC": "022F98EA"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\1-.png",
+        "bytes": 7567785,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/1-.png",
+        "exists": true,
+        "actualBytes": 7567785,
+        "CRC": "1562185E"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\1a85e44a17687338bfd825eef2071b6e.png",
+        "bytes": 1321945,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/1a85e44a17687338bfd825eef2071b6e.png",
+        "exists": true,
+        "actualBytes": 1321945,
+        "CRC": "129CE82D"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\1T.png",
+        "bytes": 6139102,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/1T.png",
+        "exists": true,
+        "actualBytes": 6139102,
+        "CRC": "3BC8277C"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\2T.png",
+        "bytes": 3205551,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/2T.png",
+        "exists": true,
+        "actualBytes": 3205551,
+        "CRC": "3A153B14"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\3.png",
+        "bytes": 7965214,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/3.png",
+        "exists": true,
+        "actualBytes": 7965214,
+        "CRC": "B6C5F9A6"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\4.png",
+        "bytes": 4761465,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/4.png",
+        "exists": true,
+        "actualBytes": 4761465,
+        "CRC": "AACC9A60"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\44png.png",
+        "bytes": 3287708,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/44png.png",
+        "exists": true,
+        "actualBytes": 3287708,
+        "CRC": "36A32526"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\5.png",
+        "bytes": 3358869,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/5.png",
+        "exists": true,
+        "actualBytes": 3358869,
+        "CRC": "1DC17670"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\6.png",
+        "bytes": 3520594,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/6.png",
+        "exists": true,
+        "actualBytes": 3520594,
+        "CRC": "9D36FDA3"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\88.png",
+        "bytes": 2549756,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/88.png",
+        "exists": true,
+        "actualBytes": 2549756,
+        "CRC": "1EAF8BD2"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\9png.png",
+        "bytes": 2237362,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/9png.png",
+        "exists": true,
+        "actualBytes": 2237362,
+        "CRC": "8778990F"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\PRODUCT.png",
+        "bytes": 6087341,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/PRODUCT.png",
+        "exists": true,
+        "actualBytes": 6087341,
+        "CRC": "F0CBC148"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\s1.png",
+        "bytes": 2073184,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/s1.png",
+        "exists": true,
+        "actualBytes": 2073184,
+        "CRC": "441CE01B"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\s2.png",
+        "bytes": 2895003,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/s2.png",
+        "exists": true,
+        "actualBytes": 2895003,
+        "CRC": "5FDDB395"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\s3png.png",
+        "bytes": 2881051,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/s3png.png",
+        "exists": true,
+        "actualBytes": 2881051,
+        "CRC": "5DF2F8E5"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\上323.png",
+        "bytes": 2921132,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/上323.png",
+        "exists": true,
+        "actualBytes": 2921132,
+        "CRC": "5C206B89"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\精华3.png",
+        "bytes": 2220485,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/精华3.png",
+        "exists": true,
+        "actualBytes": 2220485,
+        "CRC": "A3105573"
+      },
+      {
+        "archivePath": "儿童幽门螺杆菌检测仪\\render2\\精华p1.png",
+        "bytes": 4674003,
+        "extractedPath": ".production-runtime/model-worksets/huhu/儿童幽门螺杆菌检测仪/render2/精华p1.png",
+        "exists": true,
+        "actualBytes": 4674003,
+        "CRC": "57822220"
+      }
+    ]
+  }
+]

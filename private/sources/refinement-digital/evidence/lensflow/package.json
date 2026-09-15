@@ -1,0 +1,38 @@
+{
+  "name": "lensflow",
+  "version": "0.3.3",
+  "private": true,
+  "type": "module",
+  "packageManager": "npm@11.11.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "integrations/eagle"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w @lensflow/site",
+    "dev:site": "npm run dev -w @lensflow/site",
+    "dev:extension": "npm run dev -w @lensflow/extension",
+    "build": "npm run typecheck && npm run build:extension && npm run build:site",
+    "build:extension": "npm run build -w @lensflow/extension",
+    "build:site": "npm run build -w @lensflow/site",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "zip": "npm run zip -w @lensflow/extension",
+    "release:artifacts": "node scripts/release-artifacts.mjs",
+    "prompt:eval": "npm run prompt:eval -w @lensflow/extension"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.0.0",
+    "fake-indexeddb": "^6.2.5",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.10"
+  },
+  "engines": {
+    "node": "24.14.1",
+    "npm": "11.11.0"
+  }
+}

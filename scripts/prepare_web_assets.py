@@ -23,12 +23,13 @@ for doc in sorted((ROOT / 'web/src/content/works').glob('*.zh.md')):
     image.save(output, 'WEBP', quality=87, method=6)
     manifest.append({'case': doc.name[:-6], 'cover': match[1].strip(), 'thumbnail': '/' + output.relative_to(PUBLIC).as_posix(), 'width': image.width, 'height': image.height, 'bytes': output.stat().st_size})
 
-portrait = ROOT / 'avatar/references/user-generated/landscape.png'
-if portrait.exists():
-    (PUBLIC / 'avatar').mkdir(exist_ok=True)
-    image = Image.open(portrait).convert('RGB')
-    image.thumbnail((1800, 1200), Image.Resampling.LANCZOS)
-    image.save(PUBLIC / 'avatar/portrait.webp', 'WEBP', quality=91, method=6)
+portrait = PUBLIC / 'images/avatar/home-camera-v3.png'
+if not portrait.exists():
+    raise FileNotFoundError('Export the current original model at CameraAction frame 0 before preparing display assets.')
+(PUBLIC / 'avatar').mkdir(exist_ok=True)
+image = Image.open(portrait).convert('RGBA')
+image.thumbnail((1800, 1200), Image.Resampling.LANCZOS)
+image.save(PUBLIC / 'avatar/portrait.webp', 'WEBP', quality=91, method=6)
 
 (ROOT / 'private/sources/thumbnail-manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding='utf-8')
 print(json.dumps({'thumbnails': len(manifest), 'thumbnailBytes': sum(item['bytes'] for item in manifest)}, ensure_ascii=False))

@@ -1,0 +1,40 @@
+{
+  "builtAt": "2026-09-15T01:28:57.911Z",
+  "pages": [
+    "pages/home/index",
+    "pages/calendar/index",
+    "pages/daily-capsule/index",
+    "pages/day-record-edit/index",
+    "pages/settings/index",
+    "pages/settings/overtime/index",
+    "pages/settings/reminders/index",
+    "pages/settings/appearance/index",
+    "pages/settings/data/index",
+    "pages/about/index",
+    "packages/salary/pages/onboarding/index",
+    "packages/salary/pages/salary-detail/index",
+    "packages/salary/pages/settings/index",
+    "packages/regret-coin/pages/index/index"
+  ],
+  "subpackages": [
+    "packages/regret-coin",
+    "packages/salary"
+  ],
+  "sharedComponents": [
+    "desk-monster",
+    "doodle-button",
+    "page-shell",
+    "rolling-amount",
+    "status-tag",
+    "system-state",
+    "tool-icon"
+  ],
+  "files": 150,
+  "mainSize": 512653,
+  "subpackageSizes": {
+    "packages/regret-coin": 43203,
+    "packages/salary": 41270
+  },
+  "failures": [],
+  "notes": []
+}

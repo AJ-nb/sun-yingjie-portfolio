@@ -1,0 +1,40 @@
+{
+  "name": "luck-power-yantai",
+  "version": "0.7.5",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wxt",
+    "build": "wxt build && node scripts/verify-manifest.mjs && node scripts/sync-chrome-output.mjs",
+    "preview": "vite preview --host 127.0.0.1 --port 4174 --strictPort --outDir .output/chrome-mv3",
+    "zip": "wxt zip && node scripts/sync-chrome-output.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "verify:eagle-live": "vite-node --script scripts/verify-eagle-multifolder-live.mjs",
+    "postinstall": "wxt prepare"
+  },
+  "dependencies": {
+    "@ajnb/aesthetic-atlas": "0.1.0",
+    "colorthief": "^3.5.0",
+    "culori": "^4.0.2",
+    "dexie": "^4.4.4",
+    "exifr": "^7.1.3",
+    "lucide-react": "^1.31.0",
+    "openai": "^7.4.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^16.3.2",
+    "@testing-library/user-event": "^14.6.5",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@wxt-dev/module-react": "^1.2.2",
+    "fake-indexeddb": "^6.2.5",
+    "jsdom": "^29.1.1",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.10",
+    "wxt": "^0.21.3"
+  }
+}

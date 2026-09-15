@@ -53,6 +53,14 @@ tags: ["桌面健身", "仿生设计", "模块化", "虚拟养植"]
 
 ![植遇相伴产品与应用展示](/works/documents/office-fitness/012.webp)
 
+### 材料、灯光与场景细节
+
+![植遇相伴模块组合](/works/refinement-v2/rendering-pdf/001.webp)
+
+![植遇相伴模块与显示底座](/works/refinement-v2/rendering-pdf/024.webp)
+
+![植遇相伴低视角组合](/works/refinement-v2/rendering-pdf/035.webp)
+
 ## 成果与阶段
 
 已形成产品与应用界面的完整概念提案。器材连接与使用体验、运动记录方式、长期参与及健康效果仍需样机和用户验证。

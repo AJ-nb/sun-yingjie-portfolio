@@ -32,6 +32,14 @@
     "bytes": 143212
   },
   {
+    "case": "biyuan",
+    "cover": "/works/refinement-brand/biyuan/home-desktop.png",
+    "thumbnail": "/thumbnails/biyuan.webp",
+    "width": 1100,
+    "height": 764,
+    "bytes": 25158
+  },
+  {
     "case": "cloudwing",
     "cover": "/works/documents/embedded-boards/x3.webp",
     "thumbnail": "/thumbnails/cloudwing.webp",
@@ -81,11 +89,11 @@
   },
   {
     "case": "huhu-care",
-    "cover": "/works/documents/portfolio-51/028.webp",
+    "cover": "/works/refinement-v2/huhu/product-scene.webp",
     "thumbnail": "/thumbnails/huhu-care.webp",
     "width": 1100,
-    "height": 389,
-    "bytes": 28368
+    "height": 388,
+    "bytes": 24466
   },
   {
     "case": "image-2-5-xhs",
@@ -97,11 +105,11 @@
   },
   {
     "case": "jimu-studio",
-    "cover": "/works/documents/portfolio-51/049.webp",
+    "cover": "/works/refinement-v2/psd-jimu/product-arrangement.webp",
     "thumbnail": "/thumbnails/jimu-studio.webp",
     "width": 1100,
-    "height": 389,
-    "bytes": 61474
+    "height": 746,
+    "bytes": 201714
   },
   {
     "case": "lensflow",
@@ -121,11 +129,11 @@
   },
   {
     "case": "lingmu",
-    "cover": "/works/documents/portfolio-51/043.webp",
+    "cover": "/works/refinement-v2/psd-lingmu/usage.webp",
     "thumbnail": "/thumbnails/lingmu.webp",
     "width": 1100,
-    "height": 389,
-    "bytes": 45866
+    "height": 413,
+    "bytes": 51020
   },
   {
     "case": "little-orange",
@@ -153,11 +161,11 @@
   },
   {
     "case": "plumber",
-    "cover": "/works/documents/portfolio-51/016.webp",
+    "cover": "/works/refinement-v2/plumber/underground-scene.webp",
     "thumbnail": "/thumbnails/plumber.webp",
     "width": 1100,
-    "height": 389,
-    "bytes": 74460
+    "height": 388,
+    "bytes": 50706
   },
   {
     "case": "polar-wing",
@@ -214,6 +222,22 @@
     "width": 777,
     "height": 1100,
     "bytes": 115860
+  },
+  {
+    "case": "xhs-methods",
+    "cover": "/works/refinement-digital/xhs-methods/workflow.png",
+    "thumbnail": "/thumbnails/xhs-methods.webp",
+    "width": 1100,
+    "height": 733,
+    "bytes": 38976
+  },
+  {
+    "case": "xintiao",
+    "cover": "/works/refinement-digital/xintiao/home-native.png",
+    "thumbnail": "/thumbnails/xintiao.webp",
+    "width": 394,
+    "height": 864,
+    "bytes": 20228
   },
   {
     "case": "yantai",

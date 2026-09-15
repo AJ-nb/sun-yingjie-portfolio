@@ -1,0 +1,51 @@
+{
+  "verifiedAt": "2026-09-15T02:38:01.525950+00:00",
+  "file": "deliverables/portfolio/sun-yingjie-portfolio.pdf",
+  "publicPath": "/downloads/sun-yingjie-selected-portfolio.pdf",
+  "bytes": 54192777,
+  "sha256": "2758f8e26b7065432a06c359c3c6b3fff7110885831611b1cc346747e8a3a5bb",
+  "pageCount": 116,
+  "pageSizePoints": [
+    960.0,
+    600.0
+  ],
+  "pdfMetadata": {
+    "/Author": "孙英杰及各项目署名协作者",
+    "/CreationDate": "D:20260915103336+08'00'",
+    "/Creator": "anonymous",
+    "/Keywords": "",
+    "/ModDate": "D:20260915103336+08'00'",
+    "/Producer": "ReportLab PDF Library - (opensource)",
+    "/Subject": "商业橱窗 铝型材灯具 产品设计与模型 三维渲染实践 品牌孵化 AI与数字产品",
+    "/Title": "孙英杰 | 品牌与产品设计＋AI | 完整作品集 2026",
+    "/Trapped": "/False"
+  },
+  "outlineEntries": 39,
+  "pageKinds": {
+    "cover": 1,
+    "index": 1,
+    "profile": 1,
+    "chapter": 6,
+    "project": 33,
+    "details": 73,
+    "contact": 1
+  },
+  "caseCount": 33,
+  "linkKinds": {
+    "/URI": 109,
+    "internal": 147
+  },
+  "allPagesRendered": 116,
+  "visualReviewStatus": "passed",
+  "caseFieldsVerified": [
+    "title",
+    "summary",
+    "role",
+    "status",
+    "credits"
+  ],
+  "profileSource": "web/src/data/profile.json",
+  "chapterSource": "web/src/data/chapters.ts",
+  "manifest": "private/sources/download-manifest.json",
+  "qaReport": "private/sources/refinement-v2/portfolio-qa.json"
+}

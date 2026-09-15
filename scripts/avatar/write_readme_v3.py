@@ -1,0 +1,59 @@
+from pathlib import Path
+import json
+root=Path(__file__).resolve().parents[2]
+v=json.loads((root/'avatar/evidence/glb-validation-v3.json').read_text())
+assert v['passed']
+text=f'''# 孙英杰原创三维人物 — 第三版审阅稿
+
+状态：**技术验证完成；人物相似度等待用户集中审阅，未标记为定稿。**
+
+当前可编辑工程为 `sun-yingjie-avatar-draft-v3.blend`。第二版 `sun-yingjie-avatar-draft-v2.blend` 和第一版均保留，第二版实渲图及说明保留在 `review-v2/`。
+
+## 依据和建模边界
+
+原始照片：`D:/OneDrive/桌面/文件/作品集/照片1.jpg`。五张用户提供的正面、三分之四、侧面、背面及横幅方向图保留在 `references/user-generated/`；原始位置、SHA256和来源分类见 `manifest.json`。
+
+所有空间几何均为本项目原创参数曲面：连续头脸、下颌及颈部，具有深度的躯干，弧形眼白和封闭眼球体，独立虹膜和瞳孔、耳部软骨、发帽及细发束、翻折领、拉链和针织细节。没有借用sen人物，没有照片平面或抠图代替人体。参考照片和生成方向图仅提供纹理及视觉依据。
+
+第三版调整了下颌到喉部的过渡、颈基宽度、眼裂开度、头肩比例和耳部深度；宽厚发片改成错落的细几何发束，缩短耳后和后颈轮廓，增加不对称冠部起伏；领口改为较宽的翻折与弧面过渡。头发新增从限定发区采样的多视角颜色纹理，未使用旧版含皮肤污染的试验发图。眼部颜色按新的几何开度重新对齐，增加弧形眼白与眼窝的间隙；下巴纹理的局部烘入阴影有所减弱，原始第二版纹理保留。
+
+生成参考并非解剖扫描。耳后、侧颌、后脑及肩臂结构仍是估计；照片与生成参考包含原有光照，纹理不属于实测无光照反射率。当前结果仍有风格化特征，不能以技术校验通过推断相似度通过。未提供眨眼、表情绑定、手部或下半身。
+
+## 交付
+
+- `sun-yingjie-avatar-draft-v3.blend`：可编辑部件、内嵌纹理、四盏棚灯、相机及语义锚点。
+- `../web/public/models/avatar.glb`：{v['file_bytes']:,} 字节 / {v['file_mib']} MiB；{v['mesh_count']} 个mesh、{v['material_count']} 个材质、{v['exported_vertex_count']:,} 个导出顶点、{v['triangle_count']:,} 个三角形；{v['embedded_reference_textures']}张颜色纹理全部内嵌。
+- `../web/public/images/avatar/front.png`、`three-quarter.png`、`side.png`、`back.png`：实际Blender渲染，1080×1080，透明背景。
+- `multi-angle.png`：2160×2220四视图；`before-after-v3.png`：第二、三版实际正面渲染对比。仅排版、尺寸适配与背景合成，未用参考图替换渲染像素。
+- `home-camera-v3.png`：1280×720透明横版海报。来自 `CameraAction` 第0帧实际720×720渲染，保持相同垂直视角，在两侧补透明区域；模型像素未拉伸，可供前端静态回退转换。
+- `turntable.mp4`：720×720，6秒，24fps；包含72个实际渲染角度，每5°一个，每个角度显示两帧。不是144个独立渲染视角。
+
+## 前端接口
+
+GLB为Y-up，人物正面朝+Z，比例为艺术尺度。
+
+相机动作精确命名 `CameraAction`，时间为 `{v['animations'][0]['duration_seconds']:.6f}` 秒，即350/24；作者时间范围0–350，24fps。
+
+| 锚点 | 内容 | 对应时间轴帧 |
+|---|---|---:|
+| focus-start | 首页 | 0 |
+| focus-1 | 教育 | 50 |
+| focus-2 | 欧音 | 100 |
+| focus-3 | BENWU | 150 |
+| focus-4 | 理灵 | 200 |
+| focus-5 | AI实践 | 250 |
+| focus-works | 作品入场与尾段 | 250–350 |
+
+每个叙事节点占50帧。250–300为作品入场，300–350继续侧移和拉远；前端以 `frame/24` 擦除动作，并由滚动逻辑提供节点驻留。
+
+GLB原始眼根名为 `eye_left | curved sclera` 和 `eye_right | curved sclera`。当前Three GLTFLoader运行时会将空格变为下划线：`eye_left_|_curved_sclera` / `eye_right_|_curved_sclera`，并在 `object.userData.name` 保留原名；应按原名或精确转义名匹配两根对象。虹膜、瞳孔及封闭眼球体都是它们的子节点，不应再次独立旋转；眼睑仍附着于头部。只适合克制的视线变化，未验证大幅转眼。
+
+## 验证与复现
+
+使用Blender 5.0.1；API来源及逐行绑定在 `evidence/plan-v3.json`，实际运行材质插槽在 `evidence/texture-runtime-v3.json`。入口为 `../scripts/avatar/build_avatar_v3.py`，通过安装的blender-cli证据执行器运行；`--preview`输出540px预览，`--turntable`同时输出72角度转台。新改代码需重新绑定和封存证据计划。
+
+`evidence/glb-validation-v3.json`独立验证容器边界、全部顶点属性有限数、索引、材质有限数、真实三轴深度、精确眼根、封闭眼球表面的边配对、七个锚点、相机通道与时长及{v['embedded_reference_textures']}张内嵌纹理。`evidence/reopen-report-v3.json`记录新进程重开工程并评估八个相机姿态。`evidence/delivery-v3.json`记录交付文件哈希、图像尺寸和视频元数据。
+
+这些检查证明结构、持久化及实际渲染的存在，不证明扫描精度、用户相似度或移动设备帧率。首页按需加载GLB，避免同时加载全部审阅静帧；模型不可见或被作品层覆盖后应停止渲染。
+'''
+(root/'avatar/README.md').write_text(text,encoding='utf8')

@@ -31,6 +31,12 @@ tags: ["城市清洁", "落叶回收", "装备概念", "物料流程"]
 
 ![生态丰收漫游者 · 落叶回收转换清洁车完整概念展板](/works/documents/embedded-boards/x7.webp)
 
+### 材料、灯光与场景细节
+
+![生态丰收漫游者环境渲染](/works/refinement-v2/rendering-pdf/014.webp)
+
+![生态丰收漫游者正面场景](/works/refinement-v2/rendering-pdf/031.webp)
+
 ## 成果与阶段
 
 成果为城市清洁装备概念。落叶转化工艺、清扫能力、无人驾驶与环境收益仍需设备和流程验证。

@@ -45,6 +45,32 @@ GO GLOW 以旅行中的个护用品携带、收纳和充电为切入点。原提
 
 ![GO GLOW 产品系列渲染](/works/documents/portfolio-51/036.webp)
 
+### 材料、灯光与场景细节
+
+![GO GLOW 个护产品组合](/works/refinement-v2/rendering-pdf/002.webp)
+
+![牙刷与镜面模块](/works/refinement-v2/rendering-pdf/004.webp)
+
+![模块与握持手柄分解](/works/refinement-v2/rendering-pdf/006.webp)
+
+![可替换护理模块](/works/refinement-v2/rendering-pdf/008.webp)
+
+![产品与底座系列](/works/refinement-v2/rendering-pdf/009.webp)
+
+![桌面个护场景](/works/refinement-v2/rendering-pdf/037.webp)
+
+![个护产品与花卉静物](/works/refinement-v2/rendering-pdf/038.webp)
+
+![模块组合俯视构图](/works/refinement-v2/rendering-pdf/039.webp)
+
+![牙刷与水面场景](/works/refinement-v2/rendering-pdf/040.webp)
+
+![岩石场景中的产品组合](/works/refinement-v2/rendering-pdf/041.webp)
+
+![洁面模块水面近景](/works/refinement-v2/rendering-pdf/042.webp)
+
+![护理模块与花卉构图](/works/refinement-v2/rendering-pdf/044.webp)
+
 ## 成果与阶段
 
 已形成产品与界面概念提案。模块连接、防水、清洁效果和实际收纳表现仍需样机与测试验证。以下保留早期演示版本中的背景页面。

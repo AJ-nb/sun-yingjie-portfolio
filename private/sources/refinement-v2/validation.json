@@ -1,0 +1,1220 @@
+{
+  "imageCount": 76,
+  "totalPublicBytes": 15703944,
+  "referenceCount": 104,
+  "failures": [],
+  "images": [
+    {
+      "path": "web/public/works/refinement-v2/huhu/balloon-detail.webp",
+      "dimensions": [
+        2560,
+        2560
+      ],
+      "mode": "RGB",
+      "bytes": 71444
+    },
+    {
+      "path": "web/public/works/refinement-v2/huhu/base-reverse.webp",
+      "dimensions": [
+        2560,
+        2560
+      ],
+      "mode": "RGB",
+      "bytes": 113224
+    },
+    {
+      "path": "web/public/works/refinement-v2/huhu/charging-base.webp",
+      "dimensions": [
+        2560,
+        2560
+      ],
+      "mode": "RGB",
+      "bytes": 79902
+    },
+    {
+      "path": "web/public/works/refinement-v2/huhu/early-form.webp",
+      "dimensions": [
+        2048,
+        2560
+      ],
+      "mode": "RGB",
+      "bytes": 67126
+    },
+    {
+      "path": "web/public/works/refinement-v2/huhu/grip.webp",
+      "dimensions": [
+        2560,
+        2560
+      ],
+      "mode": "RGB",
+      "bytes": 158408
+    },
+    {
+      "path": "web/public/works/refinement-v2/huhu/mouthpiece.webp",
+      "dimensions": [
+        2560,
+        2560
+      ],
+      "mode": "RGB",
+      "bytes": 312980
+    },
+    {
+      "path": "web/public/works/refinement-v2/huhu/neck-detail.webp",
+      "dimensions": [
+        2415,
+        2560
+      ],
+      "mode": "RGB",
+      "bytes": 234748
+    },
+    {
+      "path": "web/public/works/refinement-v2/huhu/product-scene.webp",
+      "dimensions": [
+        2560,
+        904
+      ],
+      "mode": "RGB",
+      "bytes": 121316
+    },
+    {
+      "path": "web/public/works/refinement-v2/huhu/rear.webp",
+      "dimensions": [
+        2560,
+        2560
+      ],
+      "mode": "RGB",
+      "bytes": 85714
+    },
+    {
+      "path": "web/public/works/refinement-v2/huhu/rim-detail.webp",
+      "dimensions": [
+        2560,
+        2560
+      ],
+      "mode": "RGB",
+      "bytes": 377546
+    },
+    {
+      "path": "web/public/works/refinement-v2/huhu/three-quarter.webp",
+      "dimensions": [
+        2560,
+        2560
+      ],
+      "mode": "RGB",
+      "bytes": 88674
+    },
+    {
+      "path": "web/public/works/refinement-v2/plumber/cleaning-head.webp",
+      "dimensions": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "bytes": 120848
+    },
+    {
+      "path": "web/public/works/refinement-v2/plumber/exploded.webp",
+      "dimensions": [
+        2560,
+        904
+      ],
+      "mode": "RGB",
+      "bytes": 113996
+    },
+    {
+      "path": "web/public/works/refinement-v2/plumber/front.webp",
+      "dimensions": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "bytes": 118674
+    },
+    {
+      "path": "web/public/works/refinement-v2/plumber/rear-detail.webp",
+      "dimensions": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "bytes": 173326
+    },
+    {
+      "path": "web/public/works/refinement-v2/plumber/side.webp",
+      "dimensions": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "bytes": 124412
+    },
+    {
+      "path": "web/public/works/refinement-v2/plumber/station.webp",
+      "dimensions": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "bytes": 140928
+    },
+    {
+      "path": "web/public/works/refinement-v2/plumber/three-quarter.webp",
+      "dimensions": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "bytes": 187480
+    },
+    {
+      "path": "web/public/works/refinement-v2/plumber/top.webp",
+      "dimensions": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "bytes": 214996
+    },
+    {
+      "path": "web/public/works/refinement-v2/plumber/underground-close.webp",
+      "dimensions": [
+        2560,
+        904
+      ],
+      "mode": "RGB",
+      "bytes": 164740
+    },
+    {
+      "path": "web/public/works/refinement-v2/plumber/underground-scene.webp",
+      "dimensions": [
+        2560,
+        904
+      ],
+      "mode": "RGB",
+      "bytes": 276012
+    },
+    {
+      "path": "web/public/works/refinement-v2/plumber/underground-wide.webp",
+      "dimensions": [
+        2560,
+        904
+      ],
+      "mode": "RGB",
+      "bytes": 149968
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-jimu/dimension-view.webp",
+      "dimensions": [
+        1213,
+        1114
+      ],
+      "mode": "RGB",
+      "bytes": 46948
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-jimu/materials-exploded.webp",
+      "dimensions": [
+        2227,
+        1325
+      ],
+      "mode": "RGB",
+      "bytes": 50044
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-jimu/materials-research.webp",
+      "dimensions": [
+        2560,
+        960
+      ],
+      "mode": "RGB",
+      "bytes": 270652
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-jimu/opening.webp",
+      "dimensions": [
+        2560,
+        960
+      ],
+      "mode": "RGB",
+      "bytes": 180206
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-jimu/product-arrangement.webp",
+      "dimensions": [
+        2560,
+        1736
+      ],
+      "mode": "RGB",
+      "bytes": 845524
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-jimu/product-board.webp",
+      "dimensions": [
+        2560,
+        960
+      ],
+      "mode": "RGB",
+      "bytes": 494134
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-jimu/scene-board.webp",
+      "dimensions": [
+        2560,
+        960
+      ],
+      "mode": "RGB",
+      "bytes": 470522
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-jimu/sketches.webp",
+      "dimensions": [
+        2560,
+        960
+      ],
+      "mode": "RGB",
+      "bytes": 345554
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-lingmu/background.webp",
+      "dimensions": [
+        2560,
+        960
+      ],
+      "mode": "RGB",
+      "bytes": 273512
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-lingmu/body-module.webp",
+      "dimensions": [
+        1204,
+        1561
+      ],
+      "mode": "RGB",
+      "bytes": 158552
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-lingmu/cmf.webp",
+      "dimensions": [
+        2560,
+        960
+      ],
+      "mode": "RGB",
+      "bytes": 250968
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-lingmu/front-view.webp",
+      "dimensions": [
+        950,
+        838
+      ],
+      "mode": "RGB",
+      "bytes": 19514
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-lingmu/head-module.webp",
+      "dimensions": [
+        1127,
+        1548
+      ],
+      "mode": "RGB",
+      "bytes": 154768
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-lingmu/journey.webp",
+      "dimensions": [
+        2560,
+        960
+      ],
+      "mode": "RGB",
+      "bytes": 259448
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-lingmu/opening.webp",
+      "dimensions": [
+        2560,
+        960
+      ],
+      "mode": "RGB",
+      "bytes": 166350
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-lingmu/sketches.webp",
+      "dimensions": [
+        2560,
+        960
+      ],
+      "mode": "RGB",
+      "bytes": 383240
+    },
+    {
+      "path": "web/public/works/refinement-v2/psd-lingmu/usage.webp",
+      "dimensions": [
+        2560,
+        960
+      ],
+      "mode": "RGB",
+      "bytes": 269814
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/001.webp",
+      "dimensions": [
+        2560,
+        905
+      ],
+      "mode": "RGB",
+      "bytes": 91124
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/002.webp",
+      "dimensions": [
+        2560,
+        904
+      ],
+      "mode": "RGB",
+      "bytes": 369444
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/004.webp",
+      "dimensions": [
+        653,
+        1586
+      ],
+      "mode": "RGB",
+      "bytes": 34106
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/006.webp",
+      "dimensions": [
+        1695,
+        1811
+      ],
+      "mode": "RGB",
+      "bytes": 94030
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/008.webp",
+      "dimensions": [
+        1257,
+        1513
+      ],
+      "mode": "RGB",
+      "bytes": 46030
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/009.webp",
+      "dimensions": [
+        1217,
+        1153
+      ],
+      "mode": "RGB",
+      "bytes": 61472
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/011.webp",
+      "dimensions": [
+        1280,
+        960
+      ],
+      "mode": "RGB",
+      "bytes": 13134
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/012.webp",
+      "dimensions": [
+        1280,
+        1280
+      ],
+      "mode": "RGB",
+      "bytes": 14450
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/013.webp",
+      "dimensions": [
+        1280,
+        1280
+      ],
+      "mode": "RGB",
+      "bytes": 61314
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/014.webp",
+      "dimensions": [
+        2560,
+        905
+      ],
+      "mode": "RGB",
+      "bytes": 298930
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/015.webp",
+      "dimensions": [
+        2560,
+        904
+      ],
+      "mode": "RGB",
+      "bytes": 125692
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/017.webp",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "mode": "RGB",
+      "bytes": 74432
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/018.webp",
+      "dimensions": [
+        2103,
+        1182
+      ],
+      "mode": "RGB",
+      "bytes": 126538
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/019.webp",
+      "dimensions": [
+        2111,
+        2307
+      ],
+      "mode": "RGB",
+      "bytes": 122148
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/020.webp",
+      "dimensions": [
+        926,
+        1498
+      ],
+      "mode": "RGB",
+      "bytes": 58026
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/021.webp",
+      "dimensions": [
+        1663,
+        2131
+      ],
+      "mode": "RGB",
+      "bytes": 103770
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/022.webp",
+      "dimensions": [
+        2560,
+        1919
+      ],
+      "mode": "RGB",
+      "bytes": 234938
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/023.webp",
+      "dimensions": [
+        1280,
+        1280
+      ],
+      "mode": "RGB",
+      "bytes": 15584
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/024.webp",
+      "dimensions": [
+        2560,
+        903
+      ],
+      "mode": "RGB",
+      "bytes": 91252
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/025.webp",
+      "dimensions": [
+        1280,
+        1810
+      ],
+      "mode": "RGB",
+      "bytes": 68890
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/026.webp",
+      "dimensions": [
+        898,
+        898
+      ],
+      "mode": "RGB",
+      "bytes": 6026
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/027.webp",
+      "dimensions": [
+        2560,
+        1920
+      ],
+      "mode": "RGB",
+      "bytes": 740558
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/028.webp",
+      "dimensions": [
+        2560,
+        1440
+      ],
+      "mode": "RGB",
+      "bytes": 346568
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/029.webp",
+      "dimensions": [
+        2368,
+        2160
+      ],
+      "mode": "RGB",
+      "bytes": 555008
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/031.webp",
+      "dimensions": [
+        2560,
+        905
+      ],
+      "mode": "RGB",
+      "bytes": 299056
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/033.webp",
+      "dimensions": [
+        2560,
+        882
+      ],
+      "mode": "RGB",
+      "bytes": 529062
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/034.webp",
+      "dimensions": [
+        2560,
+        859
+      ],
+      "mode": "RGB",
+      "bytes": 350208
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/035.webp",
+      "dimensions": [
+        2560,
+        904
+      ],
+      "mode": "RGB",
+      "bytes": 111642
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/036.webp",
+      "dimensions": [
+        1280,
+        451
+      ],
+      "mode": "RGB",
+      "bytes": 143206
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/037.webp",
+      "dimensions": [
+        2560,
+        905
+      ],
+      "mode": "RGB",
+      "bytes": 251982
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/038.webp",
+      "dimensions": [
+        2560,
+        1920
+      ],
+      "mode": "RGB",
+      "bytes": 181316
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/039.webp",
+      "dimensions": [
+        2560,
+        2560
+      ],
+      "mode": "RGB",
+      "bytes": 624166
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/040.webp",
+      "dimensions": [
+        2560,
+        905
+      ],
+      "mode": "RGB",
+      "bytes": 647754
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/041.webp",
+      "dimensions": [
+        2560,
+        2208
+      ],
+      "mode": "RGB",
+      "bytes": 234634
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/042.webp",
+      "dimensions": [
+        1273,
+        448
+      ],
+      "mode": "RGB",
+      "bytes": 263232
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/043.webp",
+      "dimensions": [
+        1684,
+        595
+      ],
+      "mode": "RGB",
+      "bytes": 66020
+    },
+    {
+      "path": "web/public/works/refinement-v2/rendering-pdf/044.webp",
+      "dimensions": [
+        2560,
+        905
+      ],
+      "mode": "RGB",
+      "bytes": 111990
+    }
+  ],
+  "references": [
+    {
+      "case": "plumber.zh.md",
+      "path": "/works/refinement-v2/plumber/underground-scene.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.zh.md",
+      "path": "/works/refinement-v2/plumber/three-quarter.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.zh.md",
+      "path": "/works/refinement-v2/plumber/side.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.zh.md",
+      "path": "/works/refinement-v2/plumber/front.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.zh.md",
+      "path": "/works/refinement-v2/plumber/top.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.zh.md",
+      "path": "/works/refinement-v2/plumber/rear-detail.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.zh.md",
+      "path": "/works/refinement-v2/plumber/cleaning-head.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.zh.md",
+      "path": "/works/refinement-v2/plumber/exploded.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.zh.md",
+      "path": "/works/refinement-v2/plumber/station.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.zh.md",
+      "path": "/works/refinement-v2/plumber/underground-scene.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.zh.md",
+      "path": "/works/refinement-v2/plumber/underground-close.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.zh.md",
+      "path": "/works/refinement-v2/plumber/underground-wide.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.en.md",
+      "path": "/works/refinement-v2/plumber/underground-scene.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.en.md",
+      "path": "/works/refinement-v2/plumber/three-quarter.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.en.md",
+      "path": "/works/refinement-v2/plumber/side.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.en.md",
+      "path": "/works/refinement-v2/plumber/front.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.en.md",
+      "path": "/works/refinement-v2/plumber/top.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.en.md",
+      "path": "/works/refinement-v2/plumber/rear-detail.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.en.md",
+      "path": "/works/refinement-v2/plumber/cleaning-head.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.en.md",
+      "path": "/works/refinement-v2/plumber/exploded.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.en.md",
+      "path": "/works/refinement-v2/plumber/station.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.en.md",
+      "path": "/works/refinement-v2/plumber/underground-scene.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.en.md",
+      "path": "/works/refinement-v2/plumber/underground-close.webp",
+      "exists": true
+    },
+    {
+      "case": "plumber.en.md",
+      "path": "/works/refinement-v2/plumber/underground-wide.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.zh.md",
+      "path": "/works/refinement-v2/huhu/product-scene.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.zh.md",
+      "path": "/works/refinement-v2/huhu/early-form.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.zh.md",
+      "path": "/works/refinement-v2/huhu/mouthpiece.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.zh.md",
+      "path": "/works/refinement-v2/huhu/rim-detail.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.zh.md",
+      "path": "/works/refinement-v2/huhu/grip.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.zh.md",
+      "path": "/works/refinement-v2/huhu/neck-detail.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.zh.md",
+      "path": "/works/refinement-v2/huhu/three-quarter.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.zh.md",
+      "path": "/works/refinement-v2/huhu/rear.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.zh.md",
+      "path": "/works/refinement-v2/huhu/charging-base.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.zh.md",
+      "path": "/works/refinement-v2/huhu/base-reverse.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.zh.md",
+      "path": "/works/refinement-v2/huhu/balloon-detail.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.zh.md",
+      "path": "/works/refinement-v2/huhu/product-scene.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.en.md",
+      "path": "/works/refinement-v2/huhu/product-scene.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.en.md",
+      "path": "/works/refinement-v2/huhu/early-form.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.en.md",
+      "path": "/works/refinement-v2/huhu/mouthpiece.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.en.md",
+      "path": "/works/refinement-v2/huhu/rim-detail.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.en.md",
+      "path": "/works/refinement-v2/huhu/grip.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.en.md",
+      "path": "/works/refinement-v2/huhu/neck-detail.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.en.md",
+      "path": "/works/refinement-v2/huhu/three-quarter.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.en.md",
+      "path": "/works/refinement-v2/huhu/rear.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.en.md",
+      "path": "/works/refinement-v2/huhu/charging-base.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.en.md",
+      "path": "/works/refinement-v2/huhu/base-reverse.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.en.md",
+      "path": "/works/refinement-v2/huhu/balloon-detail.webp",
+      "exists": true
+    },
+    {
+      "case": "huhu-care.en.md",
+      "path": "/works/refinement-v2/huhu/product-scene.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.zh.md",
+      "path": "/works/refinement-v2/rendering-pdf/038.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.zh.md",
+      "path": "/works/refinement-v2/rendering-pdf/040.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.zh.md",
+      "path": "/works/refinement-v2/rendering-pdf/041.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.zh.md",
+      "path": "/works/refinement-v2/rendering-pdf/022.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.zh.md",
+      "path": "/works/refinement-v2/rendering-pdf/024.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.zh.md",
+      "path": "/works/refinement-v2/rendering-pdf/014.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.zh.md",
+      "path": "/works/refinement-v2/rendering-pdf/017.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.zh.md",
+      "path": "/works/refinement-v2/rendering-pdf/034.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.zh.md",
+      "path": "/works/refinement-v2/rendering-pdf/036.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.en.md",
+      "path": "/works/refinement-v2/rendering-pdf/038.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.en.md",
+      "path": "/works/refinement-v2/rendering-pdf/040.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.en.md",
+      "path": "/works/refinement-v2/rendering-pdf/041.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.en.md",
+      "path": "/works/refinement-v2/rendering-pdf/022.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.en.md",
+      "path": "/works/refinement-v2/rendering-pdf/024.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.en.md",
+      "path": "/works/refinement-v2/rendering-pdf/014.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.en.md",
+      "path": "/works/refinement-v2/rendering-pdf/017.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.en.md",
+      "path": "/works/refinement-v2/rendering-pdf/034.webp",
+      "exists": true
+    },
+    {
+      "case": "rendering-studies.en.md",
+      "path": "/works/refinement-v2/rendering-pdf/036.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.zh.md",
+      "path": "/works/refinement-v2/psd-lingmu/opening.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.zh.md",
+      "path": "/works/refinement-v2/psd-lingmu/opening.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.zh.md",
+      "path": "/works/refinement-v2/psd-lingmu/background.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.zh.md",
+      "path": "/works/refinement-v2/psd-lingmu/journey.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.zh.md",
+      "path": "/works/refinement-v2/psd-lingmu/sketches.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.zh.md",
+      "path": "/works/refinement-v2/psd-lingmu/cmf.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.zh.md",
+      "path": "/works/refinement-v2/psd-lingmu/usage.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.zh.md",
+      "path": "/works/refinement-v2/psd-lingmu/head-module.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.zh.md",
+      "path": "/works/refinement-v2/psd-lingmu/body-module.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.zh.md",
+      "path": "/works/refinement-v2/psd-lingmu/front-view.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.en.md",
+      "path": "/works/refinement-v2/psd-lingmu/opening.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.en.md",
+      "path": "/works/refinement-v2/psd-lingmu/opening.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.en.md",
+      "path": "/works/refinement-v2/psd-lingmu/background.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.en.md",
+      "path": "/works/refinement-v2/psd-lingmu/journey.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.en.md",
+      "path": "/works/refinement-v2/psd-lingmu/sketches.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.en.md",
+      "path": "/works/refinement-v2/psd-lingmu/cmf.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.en.md",
+      "path": "/works/refinement-v2/psd-lingmu/usage.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.en.md",
+      "path": "/works/refinement-v2/psd-lingmu/head-module.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.en.md",
+      "path": "/works/refinement-v2/psd-lingmu/body-module.webp",
+      "exists": true
+    },
+    {
+      "case": "lingmu.en.md",
+      "path": "/works/refinement-v2/psd-lingmu/front-view.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.zh.md",
+      "path": "/works/refinement-v2/psd-jimu/opening.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.zh.md",
+      "path": "/works/refinement-v2/psd-jimu/opening.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.zh.md",
+      "path": "/works/refinement-v2/psd-jimu/materials-research.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.zh.md",
+      "path": "/works/refinement-v2/psd-jimu/sketches.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.zh.md",
+      "path": "/works/refinement-v2/psd-jimu/product-board.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.zh.md",
+      "path": "/works/refinement-v2/psd-jimu/scene-board.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.zh.md",
+      "path": "/works/refinement-v2/psd-jimu/materials-exploded.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.zh.md",
+      "path": "/works/refinement-v2/psd-jimu/product-arrangement.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.zh.md",
+      "path": "/works/refinement-v2/psd-jimu/dimension-view.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.en.md",
+      "path": "/works/refinement-v2/psd-jimu/opening.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.en.md",
+      "path": "/works/refinement-v2/psd-jimu/opening.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.en.md",
+      "path": "/works/refinement-v2/psd-jimu/materials-research.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.en.md",
+      "path": "/works/refinement-v2/psd-jimu/sketches.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.en.md",
+      "path": "/works/refinement-v2/psd-jimu/product-board.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.en.md",
+      "path": "/works/refinement-v2/psd-jimu/scene-board.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.en.md",
+      "path": "/works/refinement-v2/psd-jimu/materials-exploded.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.en.md",
+      "path": "/works/refinement-v2/psd-jimu/product-arrangement.webp",
+      "exists": true
+    },
+    {
+      "case": "jimu-studio.en.md",
+      "path": "/works/refinement-v2/psd-jimu/dimension-view.webp",
+      "exists": true
+    }
+  ],
+  "visualReview": [
+    "selected-model-media.jpg",
+    "pdf-published-contact-sheet.jpg",
+    "psd-selected-contact-sheet.jpg"
+  ],
+  "verification": "Full decode of all published image files; all modified-case media links resolve; extracted model-workset bytes match archive listing."
+}

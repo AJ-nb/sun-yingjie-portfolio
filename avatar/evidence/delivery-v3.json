@@ -1,0 +1,430 @@
+{
+  "revision": 3,
+  "status": "Technical and visual review draft; personal likeness awaits user review",
+  "actual_rendered_turntable_angles": 72,
+  "video": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 720,
+        "height": 720,
+        "r_frame_rate": "24/1",
+        "nb_frames": "144"
+      }
+    ],
+    "format": {
+      "duration": "6.000000"
+    }
+  },
+  "files": [
+    {
+      "path": "avatar/sun-yingjie-avatar-draft-v3.blend",
+      "bytes": 6968381,
+      "sha256": "9db5927c4642cb6e145b56abdc1b43d671fbfd6d3e2698c8e21971716cc65c23"
+    },
+    {
+      "path": "web/public/models/avatar.glb",
+      "bytes": 10213692,
+      "sha256": "2dce53741e218913b21a309e629ac03d0433cf3e81090471831c0eec4096bf88"
+    },
+    {
+      "path": "web/public/images/avatar/front.png",
+      "bytes": 1062288,
+      "sha256": "348aa2d37b2ba49d41d34fbb9a0883f2c0ed6c064885ef143c2979b0ad432809",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "content_bounds": [
+        178,
+        101,
+        902,
+        1035
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/three-quarter.png",
+      "bytes": 994182,
+      "sha256": "c80225718b410d567b9afd07766e9a7401ad393012700267900983ab88a2bd48",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "content_bounds": [
+        249,
+        101,
+        859,
+        1036
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/side.png",
+      "bytes": 736615,
+      "sha256": "78a66e43d52305d0b11f2b462f641b6e6748a98919465396ea4505a92c512710",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "content_bounds": [
+        377,
+        101,
+        717,
+        1038
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/back.png",
+      "bytes": 1048829,
+      "sha256": "f09efa1a0a62d0fd2ae2b692c7514a78f52cd20be557eb0b39df8a6e228ce9b9",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "content_bounds": [
+        178,
+        101,
+        902,
+        1035
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/multi-angle.png",
+      "bytes": 2449927,
+      "sha256": "3ca642d45af82b27cd62e436df79611b005d585abbd877088f3e8eb49a45a15c",
+      "dimensions": [
+        2160,
+        2220
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/before-after-v3.png",
+      "bytes": 1287116,
+      "sha256": "3c9d95b8041bf7f2aa3c0c73769283e2bba962a192c04f0811330e954da00ada",
+      "dimensions": [
+        2160,
+        1140
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/home-camera-v3.png",
+      "bytes": 375575,
+      "sha256": "291f056756ad2ff1c428afd2d27a60b66191e36af8b6e632ae90e383932a5275",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "content_bounds": [
+        427,
+        121,
+        845,
+        682
+      ]
+    },
+    {
+      "path": "web/public/images/avatar/turntable.mp4",
+      "bytes": 809398,
+      "sha256": "27120fe6d193b61003e0e4e96ab461dfd19574c9eaec343fb809d80b222bbb1d"
+    }
+  ],
+  "local_intermediates": {
+    "publication": "Excluded; retained locally for reproducibility",
+    "paths": [
+      "avatar/render-cache-v3/turntable-00.png",
+      "avatar/render-cache-v3/turntable-01.png",
+      "avatar/render-cache-v3/turntable-02.png",
+      "avatar/render-cache-v3/turntable-03.png",
+      "avatar/render-cache-v3/turntable-04.png",
+      "avatar/render-cache-v3/turntable-05.png",
+      "avatar/render-cache-v3/turntable-06.png",
+      "avatar/render-cache-v3/turntable-07.png",
+      "avatar/render-cache-v3/turntable-08.png",
+      "avatar/render-cache-v3/turntable-09.png",
+      "avatar/render-cache-v3/turntable-10.png",
+      "avatar/render-cache-v3/turntable-11.png",
+      "avatar/render-cache-v3/turntable-12.png",
+      "avatar/render-cache-v3/turntable-13.png",
+      "avatar/render-cache-v3/turntable-14.png",
+      "avatar/render-cache-v3/turntable-15.png",
+      "avatar/render-cache-v3/turntable-16.png",
+      "avatar/render-cache-v3/turntable-17.png",
+      "avatar/render-cache-v3/turntable-18.png",
+      "avatar/render-cache-v3/turntable-19.png",
+      "avatar/render-cache-v3/turntable-20.png",
+      "avatar/render-cache-v3/turntable-21.png",
+      "avatar/render-cache-v3/turntable-22.png",
+      "avatar/render-cache-v3/turntable-23.png",
+      "avatar/render-cache-v3/turntable-24.png",
+      "avatar/render-cache-v3/turntable-25.png",
+      "avatar/render-cache-v3/turntable-26.png",
+      "avatar/render-cache-v3/turntable-27.png",
+      "avatar/render-cache-v3/turntable-28.png",
+      "avatar/render-cache-v3/turntable-29.png",
+      "avatar/render-cache-v3/turntable-30.png",
+      "avatar/render-cache-v3/turntable-31.png",
+      "avatar/render-cache-v3/turntable-32.png",
+      "avatar/render-cache-v3/turntable-33.png",
+      "avatar/render-cache-v3/turntable-34.png",
+      "avatar/render-cache-v3/turntable-35.png",
+      "avatar/render-cache-v3/turntable-36.png",
+      "avatar/render-cache-v3/turntable-37.png",
+      "avatar/render-cache-v3/turntable-38.png",
+      "avatar/render-cache-v3/turntable-39.png",
+      "avatar/render-cache-v3/turntable-40.png",
+      "avatar/render-cache-v3/turntable-41.png",
+      "avatar/render-cache-v3/turntable-42.png",
+      "avatar/render-cache-v3/turntable-43.png",
+      "avatar/render-cache-v3/turntable-44.png",
+      "avatar/render-cache-v3/turntable-45.png",
+      "avatar/render-cache-v3/turntable-46.png",
+      "avatar/render-cache-v3/turntable-47.png",
+      "avatar/render-cache-v3/turntable-48.png",
+      "avatar/render-cache-v3/turntable-49.png",
+      "avatar/render-cache-v3/turntable-50.png",
+      "avatar/render-cache-v3/turntable-51.png",
+      "avatar/render-cache-v3/turntable-52.png",
+      "avatar/render-cache-v3/turntable-53.png",
+      "avatar/render-cache-v3/turntable-54.png",
+      "avatar/render-cache-v3/turntable-55.png",
+      "avatar/render-cache-v3/turntable-56.png",
+      "avatar/render-cache-v3/turntable-57.png",
+      "avatar/render-cache-v3/turntable-58.png",
+      "avatar/render-cache-v3/turntable-59.png",
+      "avatar/render-cache-v3/turntable-60.png",
+      "avatar/render-cache-v3/turntable-61.png",
+      "avatar/render-cache-v3/turntable-62.png",
+      "avatar/render-cache-v3/turntable-63.png",
+      "avatar/render-cache-v3/turntable-64.png",
+      "avatar/render-cache-v3/turntable-65.png",
+      "avatar/render-cache-v3/turntable-66.png",
+      "avatar/render-cache-v3/turntable-67.png",
+      "avatar/render-cache-v3/turntable-68.png",
+      "avatar/render-cache-v3/turntable-69.png",
+      "avatar/render-cache-v3/turntable-70.png",
+      "avatar/render-cache-v3/turntable-71.png",
+      "avatar/render-cache-v3/home-camera-v3-square.png"
+    ]
+  },
+  "glb_validation": {
+    "passed": true,
+    "file_bytes": 10213692,
+    "file_mib": 9.741,
+    "mesh_count": 25,
+    "material_count": 19,
+    "node_count": 34,
+    "exported_vertex_count": 189946,
+    "triangle_count": 367860,
+    "embedded_reference_textures": 5,
+    "textured_primitives": 22,
+    "independent_eye_nodes": [
+      "eye iris -1",
+      "eye iris inner -1",
+      "eye ocular volume -1",
+      "eye pupil -1",
+      "eye_left | curved sclera",
+      "eye iris 1",
+      "eye iris inner 1",
+      "eye ocular volume 1",
+      "eye pupil 1",
+      "eye_right | curved sclera"
+    ],
+    "animations": [
+      {
+        "name": "CameraAction",
+        "duration_seconds": 14.583333015441895,
+        "channel_count": 2
+      }
+    ],
+    "max_mesh_axis_spans": [
+      2.2738196849823,
+      1.7699999809265137,
+      1.0057733654975891
+    ],
+    "checks": [
+      "GLB header and binary bounds",
+      "Finite mesh and UV coordinates",
+      "Triangle indices in range",
+      "Non-flat three-axis geometry",
+      "Exact eye roots with parented iris, pupil and closed ocular volume",
+      "Semantic anchors",
+      "Animation times and outputs",
+      "Embedded source-derived surface textures",
+      "Below 12 MiB"
+    ],
+    "sha256": "2dce53741e218913b21a309e629ac03d0433cf3e81090471831c0eec4096bf88",
+    "closed_ocular_volumes": [
+      {
+        "root": "eye_left | curved sclera",
+        "volume_node": "eye ocular volume -1",
+        "closed_surface": true
+      },
+      {
+        "root": "eye_right | curved sclera",
+        "volume_node": "eye ocular volume 1",
+        "closed_surface": true
+      }
+    ],
+    "narrative_anchors": {
+      "focus-1": "Education",
+      "focus-2": "Ouyin",
+      "focus-3": "BENWU",
+      "focus-4": "Liling",
+      "focus-5": "AI practice"
+    },
+    "timeline": {
+      "fps": 24,
+      "total_frame_intervals": 350,
+      "narrative_node_frames": [
+        50,
+        100,
+        150,
+        200,
+        250
+      ],
+      "works_entrance": [
+        250,
+        300
+      ],
+      "works_tail": [
+        300,
+        350
+      ]
+    }
+  },
+  "reopen_validation": {
+    "passed": true,
+    "check": "Fresh Blender process reopened original saved .blend",
+    "object_count": 2096,
+    "required_objects": [
+      "Camera",
+      "eye_left | curved sclera",
+      "eye_right | curved sclera",
+      "focus-start",
+      "focus-1",
+      "focus-2",
+      "focus-3",
+      "focus-4",
+      "focus-5",
+      "focus-works"
+    ],
+    "camera_action": "CameraAction",
+    "camera_poses": [
+      {
+        "frame": 0,
+        "position": [
+          -0.592659056186676,
+          -6.7741241455078125,
+          1.7699999809265137
+        ],
+        "rotation": [
+          1.5531511306762695,
+          0.0,
+          -0.0872664600610733
+        ]
+      },
+      {
+        "frame": 50,
+        "position": [
+          -0.9855371117591858,
+          -6.222436428070068,
+          1.9700000286102295
+        ],
+        "rotation": [
+          1.5517510175704956,
+          0.0,
+          -0.15707963705062866
+        ]
+      },
+      {
+        "frame": 100,
+        "position": [
+          1.0505714416503906,
+          -5.958086967468262,
+          1.9500000476837158
+        ],
+        "rotation": [
+          1.5509642362594604,
+          0.0,
+          0.1745329201221466
+        ]
+      },
+      {
+        "frame": 150,
+        "position": [
+          2.051079273223877,
+          -5.9567670822143555,
+          1.8200000524520874
+        ],
+        "rotation": [
+          1.5517510175704956,
+          0.0,
+          0.33161255717277527
+        ]
+      },
+      {
+        "frame": 200,
+        "position": [
+          -1.462181806564331,
+          -6.333405494689941,
+          1.809999942779541
+        ],
+        "rotation": [
+          1.5523369312286377,
+          0.0,
+          -0.22689279913902283
+        ]
+      },
+      {
+        "frame": 250,
+        "position": [
+          -2.291534900665283,
+          -6.295940399169922,
+          1.7300000190734863
+        ],
+        "rotation": [
+          1.5528877973556519,
+          0.0,
+          -0.3490658402442932
+        ]
+      },
+      {
+        "frame": 300,
+        "position": [
+          -3.291431188583374,
+          -6.459797382354736,
+          1.600000023841858
+        ],
+        "rotation": [
+          1.5542460680007935,
+          0.0,
+          -0.471238911151886
+        ]
+      },
+      {
+        "frame": 350,
+        "position": [
+          -4.501502990722656,
+          -6.673752307891846,
+          1.4900000095367432
+        ],
+        "rotation": [
+          1.5558905601501465,
+          0.0,
+          -0.593411922454834
+        ]
+      }
+    ],
+    "frame_start": 0,
+    "frame_end": 350,
+    "fps": 24,
+    "packed_texture_count": 5,
+    "packed_textures": [
+      "cloth-projection.jpg",
+      "collar-knit.jpg",
+      "eye-front.jpg",
+      "hair-v3-projection.jpg",
+      "skin-v3-projection.jpg"
+    ]
+  }
+}

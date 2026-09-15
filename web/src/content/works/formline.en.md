@@ -40,3 +40,13 @@ The desktop interface accommodates the canvas, inspector and diagnostics togethe
 ## Outcome and stage
 
 The editor includes geometric constraints, non-destructive Boolean operations, undo and redo, local saving, and SVG, PNG and project-file export. The first version does not include wordmarks, collaboration, cloud sync or arbitrary SVG round-trip editing. Diagnostics support review; the designer retains the final aesthetic judgment.
+
+<!-- refinement-v2 -->
+
+### Editability and capability boundary
+
+Formline's value lies in editable geometric relationships, optical corrections and explicit exports. No verified feature reads an arbitrary bitmap with AI and automatically fits a logo. The geometric solver is not presented as an image-recognition model. Diagnostics guide individual checks; they do not prove suitability for every size and manufacturing process.
+
+### Sources
+
+logo-geometry-studio README, third-party notices and original desktop/mobile captures; local records begin on 14 August 2026. PlaneGCS and Paper.js contributions and licenses remain acknowledged. 

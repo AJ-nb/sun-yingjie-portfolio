@@ -5,7 +5,7 @@ summary: "面向上肢缺失或活动受限的洗浴场景，以可调节清洗�
 role: "共同创作"
 credits: "合作项目；原始展板信息随作品保留"
 status: "概念方案与设计提案"
-cover: "/works/documents/portfolio-51/043.webp"
+cover: "/works/refinement-v2/psd-lingmu/usage.webp"
 tags: ["无障碍", "洗浴体验", "人机关系", "模块布局"]
 ---
 
@@ -36,6 +36,28 @@ LINGMU 面向无臂人士及上肢活动受限的洗浴情境，关注洗头、�
 ![洗浴模块的构造与布局设想](/works/documents/portfolio-51/041.webp)
 
 ![模块、控制与人机位置关系](/works/documents/portfolio-51/042.webp)
+
+### PSD 原生版块与产品细节
+
+以下素材由原始多图层文件在 Photoshop 中导出并转换为 sRGB。独立图层补充产品细节，原生版块保留草图和布局过程；原有合作项目属性与署名信息继续保留。
+
+![LINGMU 原生扉页](/works/refinement-v2/psd-lingmu/opening.webp)
+
+![原始设计背景与用户画像版块](/works/refinement-v2/psd-lingmu/background.webp)
+
+![原始用户旅程与故事板](/works/refinement-v2/psd-lingmu/journey.webp)
+
+![洗浴设备原始草图版块](/works/refinement-v2/psd-lingmu/sketches.webp)
+
+![原始 CMF 与效果图版块](/works/refinement-v2/psd-lingmu/cmf.webp)
+
+![原始使用场景版块](/works/refinement-v2/psd-lingmu/usage.webp)
+
+![头部清洁模块独立图层](/works/refinement-v2/psd-lingmu/head-module.webp)
+
+![身体清洁模块独立图层](/works/refinement-v2/psd-lingmu/body-module.webp)
+
+![正视图独立图层](/works/refinement-v2/psd-lingmu/front-view.webp)
 
 ## 最终作品
 

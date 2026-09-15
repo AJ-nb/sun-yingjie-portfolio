@@ -1,0 +1,568 @@
+[
+  {
+    "caseSlug": "lingmu",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/无臂人士便捷洗浴用品.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "index": 0,
+      "name": "扉页",
+      "file": "lingmu-group-00.jpg"
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/lingmu-group-00.jpg",
+    "nativeExportSha256": "908492abfbdfcb27a5a3aa0955cf94ff6e60223fffb919aff8f3eb05b81d021b",
+    "nativeDimensions": [
+      6614,
+      2480
+    ],
+    "publicPath": "/works/refinement-v2/psd-lingmu/opening.webp",
+    "webDimensions": [
+      2560,
+      960
+    ],
+    "captionZh": "LINGMU 原生扉页",
+    "captionEn": "LINGMU native opening board",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  },
+  {
+    "caseSlug": "lingmu",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/无臂人士便捷洗浴用品.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "index": 1,
+      "name": "设计背景+用户画像",
+      "file": "lingmu-group-01.jpg"
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/lingmu-group-01.jpg",
+    "nativeExportSha256": "cc5b60ed43d3ae88dbf4006605f9c608279133e9820f0edf0b6f0715c8c65f8f",
+    "nativeDimensions": [
+      6614,
+      2480
+    ],
+    "publicPath": "/works/refinement-v2/psd-lingmu/background.webp",
+    "webDimensions": [
+      2560,
+      960
+    ],
+    "captionZh": "原始设计背景与用户画像版块",
+    "captionEn": "Original design context and persona board",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  },
+  {
+    "caseSlug": "lingmu",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/无臂人士便捷洗浴用品.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "index": 2,
+      "name": "用户旅程图+故事板",
+      "file": "lingmu-group-02.jpg"
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/lingmu-group-02.jpg",
+    "nativeExportSha256": "3bea904ebfcf75671b692b81542241fb9177d4e0e71a8328dfb2cef8c85a2e36",
+    "nativeDimensions": [
+      6614,
+      2480
+    ],
+    "publicPath": "/works/refinement-v2/psd-lingmu/journey.webp",
+    "webDimensions": [
+      2560,
+      960
+    ],
+    "captionZh": "原始用户旅程与故事板",
+    "captionEn": "Original user journey and storyboard",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  },
+  {
+    "caseSlug": "lingmu",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/无臂人士便捷洗浴用品.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "index": 4,
+      "name": "草图",
+      "file": "lingmu-group-04.jpg"
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/lingmu-group-04.jpg",
+    "nativeExportSha256": "55967480114de07c736d92e2752e9acea6cd7ae8bc6efbb9514446e8a7b0cf8d",
+    "nativeDimensions": [
+      6614,
+      2480
+    ],
+    "publicPath": "/works/refinement-v2/psd-lingmu/sketches.webp",
+    "webDimensions": [
+      2560,
+      960
+    ],
+    "captionZh": "洗浴设备原始草图版块",
+    "captionEn": "Original bathing-equipment sketch board",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  },
+  {
+    "caseSlug": "lingmu",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/无臂人士便捷洗浴用品.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "index": 5,
+      "name": "cmf加效果图",
+      "file": "lingmu-group-05.jpg"
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/lingmu-group-05.jpg",
+    "nativeExportSha256": "7cd3d6c46796c3139398fbdc30bbbbaa016d5b32b38dbc7ce5767b6281a06b4d",
+    "nativeDimensions": [
+      6614,
+      2480
+    ],
+    "publicPath": "/works/refinement-v2/psd-lingmu/cmf.webp",
+    "webDimensions": [
+      2560,
+      960
+    ],
+    "captionZh": "原始 CMF 与效果图版块",
+    "captionEn": "Original CMF and rendering board",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  },
+  {
+    "caseSlug": "lingmu",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/无臂人士便捷洗浴用品.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "index": 6,
+      "name": "使用场景",
+      "file": "lingmu-group-06.jpg"
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/lingmu-group-06.jpg",
+    "nativeExportSha256": "9947adbef90a2c96ed4d8b2ed603c46ecdc12be9e094f073a5aa42ef032d0d03",
+    "nativeDimensions": [
+      6614,
+      2480
+    ],
+    "publicPath": "/works/refinement-v2/psd-lingmu/usage.webp",
+    "webDimensions": [
+      2560,
+      960
+    ],
+    "captionZh": "原始使用场景版块",
+    "captionEn": "Original usage-scenario board",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  },
+  {
+    "caseSlug": "lingmu",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/无臂人士便捷洗浴用品.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "path": [
+        6,
+        8
+      ],
+      "name": "花花05.11",
+      "file": "lingmu-head-module.jpg",
+      "crop": [
+        2006,
+        89,
+        3133,
+        1637
+      ]
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/lingmu-head-module.jpg",
+    "nativeExportSha256": "08285be55244c9b6c1ee392c88193d325c11b25fa889f7232ea2da90449df9be",
+    "nativeDimensions": [
+      1127,
+      1548
+    ],
+    "publicPath": "/works/refinement-v2/psd-lingmu/head-module.webp",
+    "webDimensions": [
+      1127,
+      1548
+    ],
+    "captionZh": "头部清洁模块独立图层",
+    "captionEn": "Isolated head-cleaning module layer",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  },
+  {
+    "caseSlug": "lingmu",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/无臂人士便捷洗浴用品.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "path": [
+        6,
+        44
+      ],
+      "name": "xijie.15",
+      "file": "lingmu-body-module.jpg",
+      "crop": [
+        4731,
+        83,
+        5935,
+        1644
+      ]
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/lingmu-body-module.jpg",
+    "nativeExportSha256": "e9ec26dfdb3780fe55674ce3091778debcd9f97d1f45c03330afbd5eb6ab9966",
+    "nativeDimensions": [
+      1204,
+      1561
+    ],
+    "publicPath": "/works/refinement-v2/psd-lingmu/body-module.webp",
+    "webDimensions": [
+      1204,
+      1561
+    ],
+    "captionZh": "身体清洁模块独立图层",
+    "captionEn": "Isolated body-cleaning module layer",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  },
+  {
+    "caseSlug": "lingmu",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/无臂人士便捷洗浴用品.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "path": [
+        5,
+        2,
+        0,
+        47
+      ],
+      "name": "正视图.12",
+      "file": "lingmu-front-view.jpg",
+      "crop": [
+        5393,
+        857,
+        6343,
+        1695
+      ]
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/lingmu-front-view.jpg",
+    "nativeExportSha256": "4c8f55a8ba930af3a60c28e036ed7bfd59e74a7b3fd5d0dcc0d6940146c009c4",
+    "nativeDimensions": [
+      950,
+      838
+    ],
+    "publicPath": "/works/refinement-v2/psd-lingmu/front-view.webp",
+    "webDimensions": [
+      950,
+      838
+    ],
+    "captionZh": "正视图独立图层",
+    "captionEn": "Isolated front-view layer",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  },
+  {
+    "caseSlug": "jimu-studio",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/玉米芯板材模块化家具.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "index": 0,
+      "name": "扉页",
+      "file": "jimu-group-00.jpg"
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/jimu-group-00.jpg",
+    "nativeExportSha256": "034252dcd7ba9bf6a991cf7537432da1aec1f76da1f95aa78f9a67c2e4001edc",
+    "nativeDimensions": [
+      6614,
+      2480
+    ],
+    "publicPath": "/works/refinement-v2/psd-jimu/opening.webp",
+    "webDimensions": [
+      2560,
+      960
+    ],
+    "captionZh": "JiMu Studio 原生扉页",
+    "captionEn": "JiMu Studio native opening board",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  },
+  {
+    "caseSlug": "jimu-studio",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/玉米芯板材模块化家具.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "index": 1,
+      "name": "头脑背景材料",
+      "file": "jimu-group-01.jpg"
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/jimu-group-01.jpg",
+    "nativeExportSha256": "5dfe7f7cec5ade212ceb7327520b7153e907b23c6aa7ccb5c840326f7d605f71",
+    "nativeDimensions": [
+      6614,
+      2480
+    ],
+    "publicPath": "/works/refinement-v2/psd-jimu/materials-research.webp",
+    "webDimensions": [
+      2560,
+      960
+    ],
+    "captionZh": "玉米芯材料研究与原始构思版块",
+    "captionEn": "Original corn-cob material research and ideation board",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  },
+  {
+    "caseSlug": "jimu-studio",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/玉米芯板材模块化家具.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "index": 3,
+      "name": "画像草图",
+      "file": "jimu-group-03.jpg"
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/jimu-group-03.jpg",
+    "nativeExportSha256": "208c672f08f9b1cf0d1e5a6f8cf4fe0f282b62465ad7ad55a5fba53fc0bd8937",
+    "nativeDimensions": [
+      6614,
+      2480
+    ],
+    "publicPath": "/works/refinement-v2/psd-jimu/sketches.webp",
+    "webDimensions": [
+      2560,
+      960
+    ],
+    "captionZh": "原始画像与草图版块",
+    "captionEn": "Original persona and sketch board",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  },
+  {
+    "caseSlug": "jimu-studio",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/玉米芯板材模块化家具.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "index": 4,
+      "name": "效果图",
+      "file": "jimu-group-04.jpg"
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/jimu-group-04.jpg",
+    "nativeExportSha256": "9ac7ef485383210ffb913d01eca68074c12e9ccaed2dbf8e07853478640befad",
+    "nativeDimensions": [
+      6614,
+      2480
+    ],
+    "publicPath": "/works/refinement-v2/psd-jimu/product-board.webp",
+    "webDimensions": [
+      2560,
+      960
+    ],
+    "captionZh": "家具结构与效果图原生版块",
+    "captionEn": "Native furniture structure and rendering board",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  },
+  {
+    "caseSlug": "jimu-studio",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/玉米芯板材模块化家具.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "index": 5,
+      "name": "场景图",
+      "file": "jimu-group-05.jpg"
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/jimu-group-05.jpg",
+    "nativeExportSha256": "9692875db75b48daf589dc2823d0533fa2b7bb154d7237bdd181a5b6f12ac916",
+    "nativeDimensions": [
+      6614,
+      2480
+    ],
+    "publicPath": "/works/refinement-v2/psd-jimu/scene-board.webp",
+    "webDimensions": [
+      2560,
+      960
+    ],
+    "captionZh": "原始家具场景版块；室内背景不归为原创设计",
+    "captionEn": "Original furniture scenario board; interior assets are not claimed as original design",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  },
+  {
+    "caseSlug": "jimu-studio",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/玉米芯板材模块化家具.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "path": [
+        4,
+        21
+      ],
+      "name": "untitled.245",
+      "file": "jimu-materials-exploded.jpg",
+      "crop": [
+        1115,
+        191,
+        3342,
+        1516
+      ]
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/jimu-materials-exploded.jpg",
+    "nativeExportSha256": "1e21afbf28bb3943bdd2ded15a762191466b87ee58e9f57d514df3249f98bf09",
+    "nativeDimensions": [
+      2227,
+      1325
+    ],
+    "publicPath": "/works/refinement-v2/psd-jimu/materials-exploded.webp",
+    "webDimensions": [
+      2227,
+      1325
+    ],
+    "captionZh": "材料与部件分解独立图层",
+    "captionEn": "Isolated material and component diagram",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  },
+  {
+    "caseSlug": "jimu-studio",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/玉米芯板材模块化家具.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "path": [
+        4,
+        25
+      ],
+      "name": "5.1002",
+      "file": "jimu-product-arrangement.jpg",
+      "crop": [
+        3033,
+        0,
+        6614,
+        2429
+      ]
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/jimu-product-arrangement.jpg",
+    "nativeExportSha256": "c344d084b7c296ff9bc423daaec46cf6f3cc2809e3984089fd6ecab6097c9ddf",
+    "nativeDimensions": [
+      3581,
+      2429
+    ],
+    "publicPath": "/works/refinement-v2/psd-jimu/product-arrangement.webp",
+    "webDimensions": [
+      2560,
+      1736
+    ],
+    "captionZh": "家具组合独立图层",
+    "captionEn": "Isolated furniture arrangement layer",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  },
+  {
+    "caseSlug": "jimu-studio",
+    "sourceFile": "D:/OneDrive/桌面/文件/作品集/发/发/玉米芯板材模块化家具.psd",
+    "sourceMode": "DocumentMode.CMYK",
+    "sourceProfile": "Japan Color 2001 Coated",
+    "nativeEngine": "Adobe Photoshop 26.9.0",
+    "outputProfile": "sRGB IEC61966-2.1",
+    "sourceLayer": {
+      "path": [
+        4,
+        26
+      ],
+      "name": "12345",
+      "file": "jimu-dimension-view.jpg",
+      "crop": [
+        1712,
+        1248,
+        2925,
+        2362
+      ]
+    },
+    "nativeExportPath": ".production-runtime/model-worksets/psd-native/jimu-dimension-view.jpg",
+    "nativeExportSha256": "c113496a9558e61482f48d07668aefce904cbeaf895c33fed8835432143bcf90",
+    "nativeDimensions": [
+      1213,
+      1114
+    ],
+    "publicPath": "/works/refinement-v2/psd-jimu/dimension-view.webp",
+    "webDimensions": [
+      1213,
+      1114
+    ],
+    "captionZh": "尺寸视图独立图层",
+    "captionEn": "Isolated dimension-view layer",
+    "provenance": "Native Photoshop layer/group export from supplied PSD",
+    "newRender": false,
+    "aiImageOperation": false,
+    "credits": "Collaborative concept project; existing original boards and credits remain. Reference interiors and background assets are not claimed as original design."
+  }
+]

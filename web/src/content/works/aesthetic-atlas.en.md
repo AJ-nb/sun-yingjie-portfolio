@@ -40,3 +40,9 @@ The Bauhaus product pair illustrates the card system. Its geometric diagrams are
 ## Outcome and stage
 
 The existing package contains 144 bilingual styles, 2500 source bookmarks and 288 study cards, together with an Eagle import manifest. These figures describe the package size, not individual scholarly review or user numbers. A prepared manifest also does not establish that the library import has been completed.
+
+<!-- refinement-v2 -->
+
+### Sources and import boundary
+
+Evidence comes from eagle-aesthetic-atlas records dated 19 August 2026, card files and manifest summaries. The 144 styles, 2,500 bookmarks and 288 cards describe files and records in the existing package. The Eagle stage has a dry-run manifest rather than proof of a completed library import. Classification and transfer advice should be read separately from institutional facts about original works.

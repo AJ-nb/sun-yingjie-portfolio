@@ -1,0 +1,407 @@
+[
+  {
+    "id": "plumber-001",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/00000.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/001.jpg",
+    "originalDimensions": [
+      5000,
+      1766
+    ],
+    "originalMode": "RGBA",
+    "filename": "00000.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-002",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/016.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/002.jpg",
+    "originalDimensions": [
+      2560,
+      1920
+    ],
+    "originalMode": "RGBA",
+    "filename": "016.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-003",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/08.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/003.jpg",
+    "originalDimensions": [
+      2560,
+      1440
+    ],
+    "originalMode": "RGBA",
+    "filename": "08.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/plumber/rear-detail.webp",
+    "captionZh": "外壳与尾部细节",
+    "captionEn": "Shell and rear detail"
+  },
+  {
+    "id": "plumber-004",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/08V5sim.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/004.jpg",
+    "originalDimensions": [
+      2560,
+      1440
+    ],
+    "originalMode": "RGBA",
+    "filename": "08V5sim.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-005",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/08V5simple.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/005.jpg",
+    "originalDimensions": [
+      2560,
+      1440
+    ],
+    "originalMode": "RGBA",
+    "filename": "08V5simple.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/plumber/three-quarter.webp",
+    "captionZh": "机器人三分之四视角",
+    "captionEn": "Robot three-quarter view"
+  },
+  {
+    "id": "plumber-006",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/10.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/006.jpg",
+    "originalDimensions": [
+      2560,
+      1440
+    ],
+    "originalMode": "RGBA",
+    "filename": "10.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/plumber/side.webp",
+    "captionZh": "机器人侧视",
+    "captionEn": "Robot side view"
+  },
+  {
+    "id": "plumber-007",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/11.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/007.jpg",
+    "originalDimensions": [
+      2560,
+      1440
+    ],
+    "originalMode": "RGBA",
+    "filename": "11.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/plumber/front.webp",
+    "captionZh": "机器人正视",
+    "captionEn": "Robot front view"
+  },
+  {
+    "id": "plumber-008",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/12.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/008.jpg",
+    "originalDimensions": [
+      2560,
+      1440
+    ],
+    "originalMode": "RGBA",
+    "filename": "12.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-009",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/2.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/009.jpg",
+    "originalDimensions": [
+      2560,
+      1440
+    ],
+    "originalMode": "RGBA",
+    "filename": "2.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-010",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/222.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/010.jpg",
+    "originalDimensions": [
+      4000,
+      1413
+    ],
+    "originalMode": "RGBA",
+    "filename": "222.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-011",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/222333.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/011.jpg",
+    "originalDimensions": [
+      3000,
+      1059
+    ],
+    "originalMode": "RGBA",
+    "filename": "222333.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-012",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/22322.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/012.jpg",
+    "originalDimensions": [
+      3184,
+      1791
+    ],
+    "originalMode": "RGBA",
+    "filename": "22322.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/plumber/station.webp",
+    "captionZh": "地下基站概念",
+    "captionEn": "Underground service-station concept"
+  },
+  {
+    "id": "plumber-013",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/22T.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/013.jpg",
+    "originalDimensions": [
+      3000,
+      1059
+    ],
+    "originalMode": "RGBA",
+    "filename": "22T.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-014",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/231313.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/014.jpg",
+    "originalDimensions": [
+      3000,
+      1059
+    ],
+    "originalMode": "RGBA",
+    "filename": "231313.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-015",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/3333e.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/015.jpg",
+    "originalDimensions": [
+      2560,
+      1440
+    ],
+    "originalMode": "RGBA",
+    "filename": "3333e.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-016",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/333png.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/016.jpg",
+    "originalDimensions": [
+      4000,
+      1413
+    ],
+    "originalMode": "RGBA",
+    "filename": "333png.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-017",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/5.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/017.jpg",
+    "originalDimensions": [
+      2560,
+      1440
+    ],
+    "originalMode": "RGBA",
+    "filename": "5.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-018",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/6.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/018.jpg",
+    "originalDimensions": [
+      2560,
+      1440
+    ],
+    "originalMode": "RGBA",
+    "filename": "6.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/plumber/cleaning-head.webp",
+    "captionZh": "清理端结构细节",
+    "captionEn": "Cleaning-head detail"
+  },
+  {
+    "id": "plumber-019",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/66666.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/019.jpg",
+    "originalDimensions": [
+      3000,
+      2826
+    ],
+    "originalMode": "RGBA",
+    "filename": "66666.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-020",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/77777png.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/020.jpg",
+    "originalDimensions": [
+      8000,
+      2826
+    ],
+    "originalMode": "RGBA",
+    "filename": "77777png.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/plumber/exploded.webp",
+    "captionZh": "机器人部件分解",
+    "captionEn": "Robot exploded view"
+  },
+  {
+    "id": "plumber-021",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/9.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/021.jpg",
+    "originalDimensions": [
+      2560,
+      1440
+    ],
+    "originalMode": "RGBA",
+    "filename": "9.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/plumber/top.webp",
+    "captionZh": "机器人俯视",
+    "captionEn": "Robot top view"
+  },
+  {
+    "id": "plumber-022",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/boom.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/022.jpg",
+    "originalDimensions": [
+      8000,
+      2826
+    ],
+    "originalMode": "RGBA",
+    "filename": "boom.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-023",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/lidar2 v1.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/023.jpg",
+    "originalDimensions": [
+      3000,
+      1687
+    ],
+    "originalMode": "RGB",
+    "filename": "lidar2 v1.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-024",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/ROBOT.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/024.jpg",
+    "originalDimensions": [
+      3000,
+      1059
+    ],
+    "originalMode": "RGBA",
+    "filename": "ROBOT.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/plumber/underground-scene.webp",
+    "captionZh": "地下环境原始渲染",
+    "captionEn": "Original underground scene render"
+  },
+  {
+    "id": "plumber-025",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/ROBOT1.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/025.jpg",
+    "originalDimensions": [
+      3000,
+      1059
+    ],
+    "originalMode": "RGB",
+    "filename": "ROBOT1.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/plumber/underground-close.webp",
+    "captionZh": "地下环境近景",
+    "captionEn": "Underground close-up"
+  },
+  {
+    "id": "plumber-026",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/ROBOT2.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/026.jpg",
+    "originalDimensions": [
+      3000,
+      1059
+    ],
+    "originalMode": "RGBA",
+    "filename": "ROBOT2.png",
+    "selection": "published",
+    "publicPath": "/works/refinement-v2/plumber/underground-wide.webp",
+    "captionZh": "地下环境远景",
+    "captionEn": "Underground wide shot"
+  },
+  {
+    "id": "plumber-027",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/shuiguan.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/027.jpg",
+    "originalDimensions": [
+      3000,
+      1687
+    ],
+    "originalMode": "RGBA",
+    "filename": "shuiguan.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-028",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/XS550-XS110A.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/028.jpg",
+    "originalDimensions": [
+      3000,
+      3000
+    ],
+    "originalMode": "RGBA",
+    "filename": "XS550-XS110A.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-029",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/XS550-XS110A2.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/029.jpg",
+    "originalDimensions": [
+      3000,
+      1687
+    ],
+    "originalMode": "RGBA",
+    "filename": "XS550-XS110A2.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-030",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/未标题 3.png",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/030.jpg",
+    "originalDimensions": [
+      3184,
+      1791
+    ],
+    "originalMode": "RGBA",
+    "filename": "未标题 3.png",
+    "selection": "pending"
+  },
+  {
+    "id": "plumber-031",
+    "sourcePath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/未标题 3.tif",
+    "previewPath": ".production-runtime/model-worksets/plumber-previews/031.jpg",
+    "originalDimensions": [
+      3184,
+      1791
+    ],
+    "originalMode": "RGBA",
+    "filename": "未标题 3.tif",
+    "selection": "pending"
+  }
+]

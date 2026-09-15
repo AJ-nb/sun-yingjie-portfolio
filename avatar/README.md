@@ -1,53 +1,52 @@
-# Sun Yingjie — original 3D avatar, revision 2
+# 孙英杰原创三维人物 — 第三版审阅稿
 
-Status: **Technical delivery verified. Personal likeness remains subject to user review.**
+状态：**技术验证完成；人物相似度等待用户集中审阅，未标记为定稿。**
 
-The current model is `sun-yingjie-avatar-draft-v2.blend`. The first version remains at `sun-yingjie-avatar-draft.blend`; its renders are preserved in `review-v1/`.
+当前可编辑工程为 `sun-yingjie-avatar-draft-v3.blend`。第二版 `sun-yingjie-avatar-draft-v2.blend` 和第一版均保留，第二版实渲图及说明保留在 `review-v2/`。
 
-## Source and construction
+## 依据和建模边界
 
-The original photograph is `D:/OneDrive/桌面/文件/作品集/照片1.jpg`. The user then provided five generated visual references: front, three-quarter, side, back and landscape. Their unmodified files, original paths and SHA256 hashes are archived in `references/user-generated/manifest.json`.
+原始照片：`D:/OneDrive/桌面/文件/作品集/照片1.jpg`。五张用户提供的正面、三分之四、侧面、背面及横幅方向图保留在 `references/user-generated/`；原始位置、SHA256和来源分类见 `manifest.json`。
 
-All spatial geometry is original: a continuous head, jaw and neck surface, independent curved eyes with anatomical pivots, ear cartilage, layered dark hair, a substantial torso, folded quarter-zip collar, zipper and knit details. The model is not a photographic plane, a cutout portrait, or a borrowed human mesh. No sen personal character asset is included.
+所有空间几何均为本项目原创参数曲面：连续头脸、下颌及颈部，具有深度的躯干，弧形眼白和封闭眼球体，独立虹膜和瞳孔、耳部软骨、发帽及细发束、翻折领、拉链和针织细节。没有借用sen人物，没有照片平面或抠图代替人体。参考照片和生成方向图仅提供纹理及视觉依据。
 
-The face, eyes and clothing use UV textures prepared from the user's supplied references. Front facial features blend into sampled side-skin detail; clothing combines front, side and back projections. A separate knit sample covers the folded collar. These are color textures on actual three-dimensional surfaces. Hair uses clean dark materials and authored clumps; the experimental hair projection image in `textures/` is **not used by the delivered model**.
+第三版调整了下颌到喉部的过渡、颈基宽度、眼裂开度、头肩比例和耳部深度；宽厚发片改成错落的细几何发束，缩短耳后和后颈轮廓，增加不对称冠部起伏；领口改为较宽的翻折与弧面过渡。头发新增从限定发区采样的多视角颜色纹理，未使用旧版含皮肤污染的试验发图。眼部颜色按新的几何开度重新对齐，增加弧形眼白与眼窝的间隙；下巴纹理的局部烘入阴影有所减弱，原始第二版纹理保留。
 
-The source views are generated artistic references, not anatomical scans. Their pixels already contain lighting. The resulting textures are not measured albedo, and the side/back geometry is an approximation guided by those references.
+生成参考并非解剖扫描。耳后、侧颌、后脑及肩臂结构仍是估计；照片与生成参考包含原有光照，纹理不属于实测无光照反射率。当前结果仍有风格化特征，不能以技术校验通过推断相似度通过。未提供眨眼、表情绑定、手部或下半身。
 
-## Files
+## 交付
 
-- `sun-yingjie-avatar-draft-v2.blend`: editable parts, embedded textures, four studio lights, semantic anchors and `CameraAction`.
-- `../web/public/models/avatar.glb`: **6,803,224 bytes / 6.488 MiB**, 23 mesh nodes, 19 materials, 123,504 exported vertices and 241,898 triangles. Four color textures are embedded; the file has no external texture dependency.
-- `../web/public/images/avatar/front.png`, `three-quarter.png`, `side.png`, `back.png`: actual Blender renders, 1200 × 1200, transparent backgrounds.
-- `../web/public/images/avatar/multi-angle.png`: 2400 × 2400 neutral-background sheet; front, three-quarter, side and back in reading order.
-- `../web/public/images/avatar/before-after-v2.png`: first version on the left, second version on the right, assembled from unmodified front renders.
-- `../web/public/images/avatar/turntable.mp4`: 1200 × 1200 H.264 video, 4 seconds, presenting 12 actual rendered angles held for one third of a second each and encoded at 30 fps. It does not contain 120 distinct rendered views.
-- `../scripts/avatar/`: original generator, source-evidence bindings, texture preparation and independent validation.
+- `sun-yingjie-avatar-draft-v3.blend`：可编辑部件、内嵌纹理、四盏棚灯、相机及语义锚点。
+- `../web/public/models/avatar.glb`：10,213,692 字节 / 9.741 MiB；25 个mesh、19 个材质、189,946 个导出顶点、367,860 个三角形；5张颜色纹理全部内嵌。
+- `../web/public/images/avatar/front.png`、`three-quarter.png`、`side.png`、`back.png`：实际Blender渲染，1080×1080，透明背景。
+- `multi-angle.png`：2160×2220四视图；`before-after-v3.png`：第二、三版实际正面渲染对比。仅排版、尺寸适配与背景合成，未用参考图替换渲染像素。
+- `home-camera-v3.png`：1280×720透明横版海报。来自 `CameraAction` 第0帧实际720×720渲染，保持相同垂直视角，在两侧补透明区域；模型像素未拉伸，可供前端静态回退转换。
+- `turntable.mp4`：720×720，6秒，24fps；包含72个实际渲染角度，每5°一个，每个角度显示两帧。不是144个独立渲染视角。
 
-## Revision 2 review
+## 前端接口
 
-Compared with the first render, the visible neck was shortened, cheeks/jaw widened, eye relief reduced, and the eye opening and mouth rest shape revised. Repetitive fringe locks were replaced with asymmetric overlapping layers. The narrow shirt points became a broad folded knit collar. User-reference skin and fabric detail replaced uniform color on the primary surfaces.
+GLB为Y-up，人物正面朝+Z，比例为艺术尺度。
 
-Actual front/three-quarter/side/back renders exposed projection artifacts during work. The final version removes duplicate geometric lips/brows, side-face photographic ear patches, contaminated hair pixels and circular flyaway strands. Head and neck are now one continuous surface, without the earlier disconnected intersection at the back of the jaw. Rear UV seams were corrected per face corner.
+相机动作精确命名 `CameraAction`，时间为 `14.583333` 秒，即350/24；作者时间范围0–350，24fps。
 
-**The front result is materially closer to the chosen reference than version 1, but it is not a photo-level reconstruction or an approved personal likeness.** The silhouette, hair and proportions remain stylized approximations. Ear depth, side jaw anatomy, rear head shape, head-to-neck transitions and shoulder/arm definition remain inferred. Compared with the original photograph, the supplied generated side/back views do not constitute independent evidence of real anatomy. Some source lighting and soft color variation remain in the projected skin and knit textures. There is no facial-expression rig, blinking rig, hand geometry or lower body.
+| 锚点 | 内容 | 对应时间轴帧 |
+|---|---|---:|
+| focus-start | 首页 | 0 |
+| focus-1 | 教育 | 50 |
+| focus-2 | 欧音 | 100 |
+| focus-3 | BENWU | 150 |
+| focus-4 | 理灵 | 200 |
+| focus-5 | AI实践 | 250 |
+| focus-works | 作品入场与尾段 | 250–350 |
 
-## Integration
+每个叙事节点占50帧。250–300为作品入场，300–350继续侧移和拉远；前端以 `frame/24` 擦除动作，并由滚动逻辑提供节点驻留。
 
-GLB uses Y-up and faces positive Z. Authoring scale is artistic, not measured human stature. The head was lowered by 0.15 authoring units relative to version 1.
+GLB原始眼根名为 `eye_left | curved sclera` 和 `eye_right | curved sclera`。当前Three GLTFLoader运行时会将空格变为下划线：`eye_left_|_curved_sclera` / `eye_right_|_curved_sclera`，并在 `object.userData.name` 保留原名；应按原名或精确转义名匹配两根对象。虹膜、瞳孔及封闭眼球体都是它们的子节点，不应再次独立旋转；眼睑仍附着于头部。只适合克制的视线变化，未验证大幅转眼。
 
-Animation: `CameraAction`, verified 8 seconds with translation and rotation on `Camera`. The private scene uses frames 1–240 at 30 fps.
+## 验证与复现
 
-Anchors: `focus-start`, `focus-1`, `focus-2`, `focus-3`, `focus-works`.
+使用Blender 5.0.1；API来源及逐行绑定在 `evidence/plan-v3.json`，实际运行材质插槽在 `evidence/texture-runtime-v3.json`。入口为 `../scripts/avatar/build_avatar_v3.py`，通过安装的blender-cli证据执行器运行；`--preview`输出540px预览，`--turntable`同时输出72角度转台。新改代码需重新绑定和封存证据计划。
 
-Eye roots: `eye_left | curved sclera`, `eye_right | curved sclera`. Iris/pupil meshes are children. Rotate these two roots only for restrained gaze; eyelids stay attached to the head. Large eye rotations need additional rigging.
+`evidence/glb-validation-v3.json`独立验证容器边界、全部顶点属性有限数、索引、材质有限数、真实三轴深度、精确眼根、封闭眼球表面的边配对、七个锚点、相机通道与时长及5张内嵌纹理。`evidence/reopen-report-v3.json`记录新进程重开工程并评估八个相机姿态。`evidence/delivery-v3.json`记录交付文件哈希、图像尺寸和视频元数据。
 
-The web export batches geometry by material. It is heavier than version 1 because it contains surface textures and more knit/hair detail. Real-device frame rate and thermal behavior have not been measured. Load the GLB on demand, cap pixel ratio and suspend rendering when off screen; review PNG/MP4 assets should not all be downloaded by the homepage.
-
-## Verification
-
-Runtime: Blender **5.0.1** at `D:/blender-5.0.1-windows-x64/blender.exe`. The installed skill's API snapshot is 5.2; actual material/image node sockets and runtime behavior were checked on the selected executable.
-
-`evidence/plan.json` contains source reads and line bindings. `evidence/texture-runtime.json` records observed UV/image node sockets. All generated meshes passed Blender's mesh validation. `evidence/glb-validation.json` independently verifies binary bounds, finite geometry/UVs, valid triangle indices, three-axis depth, independent eyes, anchors, embedded textures and camera animation. `evidence/reopen-report.json` records a fresh process reopening the saved revision 2 file and evaluating five camera poses. `evidence/delivery-v2.json` records final file hashes and image/video properties.
-
-These checks establish artifact structure and persistence. They do not certify personal likeness, scan accuracy or mobile performance.
+这些检查证明结构、持久化及实际渲染的存在，不证明扫描精度、用户相似度或移动设备帧率。首页按需加载GLB，避免同时加载全部审阅静帧；模型不可见或被作品层覆盖后应停止渲染。

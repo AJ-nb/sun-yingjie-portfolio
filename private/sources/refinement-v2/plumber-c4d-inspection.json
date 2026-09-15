@@ -1,0 +1,271 @@
+{
+  "recordedAt": "2026-09-15T02:34:56.126197+00:00",
+  "status": "blocked-before-script-execution",
+  "application": "D:/c4d/c4dpy.exe",
+  "fileProductVersion": "2026.0.0",
+  "source": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/render.c4d",
+  "sourceBytes": 695218046,
+  "script": "scripts/source-r2/c4d_inspect_plumber.py",
+  "interface": "Installed official Cinema 4D Python interpreter; local API documentation consulted for LoadDocument, GetAllAssetsNew and KillDocument",
+  "attempts": [
+    {
+      "method": "noninteractive process",
+      "result": "Interpreter showed license-method menu before executing script; input stream was closed; own idle process stopped without opening a document"
+    },
+    {
+      "method": "interactive terminal process, option 1 Maxon App",
+      "observedOutput": "Please fix the license in the MaxonApp, press return to try again:",
+      "result": "Existing local license method did not permit execution. Script never reached its starting-native-load marker. Own process stopped without opening a document"
+    }
+  ],
+  "nativeOpenVerified": false,
+  "geometryInspectionPerformed": false,
+  "textureResolutionVerified": false,
+  "sourceSaved": false,
+  "newRender": false,
+  "extractedTextureFiles": [
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\charcos.png",
+      "bytes": 15325980,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/charcos.png",
+      "exists": true,
+      "actualBytes": 15325980,
+      "CRC": "5488BB4C"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\descargar_(2).png",
+      "bytes": 15366591,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/descargar_(2).png",
+      "exists": true,
+      "actualBytes": 15366591,
+      "CRC": "334724B4"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\ew.png",
+      "bytes": 11675796,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/ew.png",
+      "exists": true,
+      "actualBytes": 11675796,
+      "CRC": "9F5A7138"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_MC027_A021_Plastic_normal.tif",
+      "bytes": 37964769,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_MC027_A021_Plastic_normal.tif",
+      "exists": true,
+      "actualBytes": 37964769,
+      "CRC": "4D8F252B"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_MC027_A021_Plastic_roughness.tif",
+      "bytes": 4517383,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_MC027_A021_Plastic_roughness.tif",
+      "exists": true,
+      "actualBytes": 4517383,
+      "CRC": "5C3BD065"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_MC027_A024_Plastic_normal.tif",
+      "bytes": 51304889,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_MC027_A024_Plastic_normal.tif",
+      "exists": true,
+      "actualBytes": 51304889,
+      "CRC": "F0083C9F"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_MC027_A024_Plastic_roughness.tif",
+      "bytes": 2384401,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_MC027_A024_Plastic_roughness.tif",
+      "exists": true,
+      "actualBytes": 2384401,
+      "CRC": "1D0D04F9"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_MC027_A036_Plastic_normal.tif",
+      "bytes": 48050923,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_MC027_A036_Plastic_normal.tif",
+      "exists": true,
+      "actualBytes": 48050923,
+      "CRC": "9D9C4D1D"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_MC027_A036_Plastic_roughness.tif",
+      "bytes": 4249187,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_MC027_A036_Plastic_roughness.tif",
+      "exists": true,
+      "actualBytes": 4249187,
+      "CRC": "8CE94717"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_TechProducts_Sandblasted_Aluminum_02_basecolor.jpg",
+      "bytes": 9160965,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_TechProducts_Sandblasted_Aluminum_02_basecolor.jpg",
+      "exists": true,
+      "actualBytes": 9160965,
+      "CRC": "B4B69A83"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_TechProducts_Sandblasted_Aluminum_02_metallic.jpg",
+      "bytes": 5498443,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_TechProducts_Sandblasted_Aluminum_02_metallic.jpg",
+      "exists": true,
+      "actualBytes": 5498443,
+      "CRC": "56195B2E"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_TechProducts_Sandblasted_Aluminum_02_normal.jpg",
+      "bytes": 17342232,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_TechProducts_Sandblasted_Aluminum_02_normal.jpg",
+      "exists": true,
+      "actualBytes": 17342232,
+      "CRC": "DAE25FF5"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\GSG_TechProducts_Sandblasted_Aluminum_02_roughness.jpg",
+      "bytes": 9878753,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/GSG_TechProducts_Sandblasted_Aluminum_02_roughness.jpg",
+      "exists": true,
+      "actualBytes": 9878753,
+      "CRC": "E8FD723E"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\hdr-light-studio_18.exr",
+      "bytes": 17984798,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/hdr-light-studio_18.exr",
+      "exists": true,
+      "actualBytes": 17984798,
+      "CRC": "979C71DC"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\Poliigon_PlasticMoldDryBlast_7495_AmbientOcclusion.jpg",
+      "bytes": 719526,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/Poliigon_PlasticMoldDryBlast_7495_AmbientOcclusion.jpg",
+      "exists": true,
+      "actualBytes": 719526,
+      "CRC": "F3B02D10"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\Poliigon_PlasticMoldDryBlast_7495_BaseColor.jpg",
+      "bytes": 1366423,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/Poliigon_PlasticMoldDryBlast_7495_BaseColor.jpg",
+      "exists": true,
+      "actualBytes": 1366423,
+      "CRC": "71C07459"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\Poliigon_PlasticMoldDryBlast_7495_Displacement.tiff",
+      "bytes": 5439939,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/Poliigon_PlasticMoldDryBlast_7495_Displacement.tiff",
+      "exists": true,
+      "actualBytes": 5439939,
+      "CRC": "CEBCB363"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\Poliigon_PlasticMoldDryBlast_7495_Normal.jpg",
+      "bytes": 4587438,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/Poliigon_PlasticMoldDryBlast_7495_Normal.jpg",
+      "exists": true,
+      "actualBytes": 4587438,
+      "CRC": "EB000DE7"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\Poliigon_PlasticMoldDryBlast_7495_Roughness.jpg",
+      "bytes": 3474022,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/Poliigon_PlasticMoldDryBlast_7495_Roughness.jpg",
+      "exists": true,
+      "actualBytes": 3474022,
+      "CRC": "B866FB57"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbqkokp_4K_Albedo.jpg",
+      "bytes": 3636442,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbqkokp_4K_Albedo.jpg",
+      "exists": true,
+      "actualBytes": 3636442,
+      "CRC": "6CD0A245"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbqkokp_4K_AO.jpg",
+      "bytes": 3235702,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbqkokp_4K_AO.jpg",
+      "exists": true,
+      "actualBytes": 3235702,
+      "CRC": "20FDF58C"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbqkokp_4K_Displacement.exr",
+      "bytes": 48736755,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbqkokp_4K_Displacement.exr",
+      "exists": true,
+      "actualBytes": 48736755,
+      "CRC": "38427F8A"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbqkokp_4K_Displacement.jpg",
+      "bytes": 690075,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbqkokp_4K_Displacement.jpg",
+      "exists": true,
+      "actualBytes": 690075,
+      "CRC": "8DB1E870"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbqkokp_4K_Normal.jpg",
+      "bytes": 7484594,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbqkokp_4K_Normal.jpg",
+      "exists": true,
+      "actualBytes": 7484594,
+      "CRC": "8CBEC05B"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbqkokp_4K_Roughness.jpg",
+      "bytes": 3024002,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbqkokp_4K_Roughness.jpg",
+      "exists": true,
+      "actualBytes": 3024002,
+      "CRC": "2855889F"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbzld3p_4K_Albedo.jpg",
+      "bytes": 5500004,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbzld3p_4K_Albedo.jpg",
+      "exists": true,
+      "actualBytes": 5500004,
+      "CRC": "8083BB23"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbzld3p_4K_AO.jpg",
+      "bytes": 5471641,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbzld3p_4K_AO.jpg",
+      "exists": true,
+      "actualBytes": 5471641,
+      "CRC": "0737CF73"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbzld3p_4K_Displacement.jpg",
+      "bytes": 1003764,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbzld3p_4K_Displacement.jpg",
+      "exists": true,
+      "actualBytes": 1003764,
+      "CRC": "EC949022"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbzld3p_4K_Normal.jpg",
+      "bytes": 11709894,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbzld3p_4K_Normal.jpg",
+      "exists": true,
+      "actualBytes": 11709894,
+      "CRC": "B70A3B00"
+    },
+    {
+      "archivePath": "管道清淤机器人\\C4D\\render\\tex\\sbzld3p_4K_Roughness.jpg",
+      "bytes": 4026612,
+      "extractedPath": ".production-runtime/model-worksets/plumber/管道清淤机器人/C4D/render/tex/sbzld3p_4K_Roughness.jpg",
+      "exists": true,
+      "actualBytes": 4026612,
+      "CRC": "1B96824B"
+    }
+  ],
+  "textureFileInventoryOnly": "Files were selectively extracted and size-checked. Presence is not proof that the renderer resolves dependencies or that the scene loads.",
+  "requiredNextStep": "Repair or configure a valid Cinema 4D license in Maxon App, then rerun the prepared read-only inspection script.",
+  "limitations": "This failure does not establish that the scene itself is broken, nor that the workstation has no license. It establishes that this official c4dpy invocation could not proceed with the selected Maxon App method. Existing project renders are not evidence of a native-open check."
+}

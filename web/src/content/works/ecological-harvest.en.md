@@ -31,6 +31,12 @@ The final board presents exterior form, internal functional zones and material f
 
 ![Ecological Harvest Rambler · Leaf-Recycling Sweeper complete concept board](/works/documents/embedded-boards/x7.webp)
 
+### Material, lighting and scene details
+
+![Ecological Harvester environment render](/works/refinement-v2/rendering-pdf/014.webp)
+
+![Ecological Harvester frontal scene](/works/refinement-v2/rendering-pdf/031.webp)
+
 ## Outcome and stage
 
 The outcome is an urban-cleaning equipment concept. Leaf-conversion processes, sweeping capacity, autonomous driving and environmental benefits require equipment and process validation.

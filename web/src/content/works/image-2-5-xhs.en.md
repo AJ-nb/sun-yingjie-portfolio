@@ -44,3 +44,17 @@ The 18 formal outputs and individual assessments were organised into 9 research 
 ## Outcome and stage
 
 The research cards and asset package are complete and have not been published on Xiaohongshu. All 9/9 requested editing rounds were completed, but this does not mean that 9/9 images were directly usable. The findings come from one evaluator, one fictional brand and a small sample, without an earlier-version, competitor or human baseline. They cannot establish a general success rate or savings in rework or working time.
+
+<!-- refinement-v2 -->
+
+### Input → instruction → output → failure judgment
+
+The product task used a self-made fictional Qingxu packaging reference, specifying the cream body, dark green lid, blue vertical label, single orange dot and exact text. Continuous edits changed the background, bottom headline and dot color in sequence while requiring other content to remain unchanged. Original images, complete prompts and every output were preserved without repairing errors before grading.
+
+Review checks both the requested change and unintended changes. P2 made the brand name larger than the event title, violating hierarchy. S3 added foliage-like shadows to an area required to remain clear. The second and third edit rounds changed the requested headline or dot, but accumulated changes to lid and label textures. Nine completed edit instructions therefore do not mean nine directly usable images.
+
+The assessment dated 9 September 2026 classified 18 formal outputs as 10 directly usable, 8 requiring revision and 0 failing the primary task. These grades apply to this fictional brief and a single visual reviewer. They do not establish pixel identity, engineering geometry or a general success rate. The interface name was recorded as Images 2.5; the API subtype remains unknown.
+
+### Sources
+
+image-2-5-xhs protocol.json (tasks and complete prompts), evaluation.json (per-image judgments) and original research cards. No competitor, previous-version or human baseline was included, and the material was not published to Xiaohongshu.

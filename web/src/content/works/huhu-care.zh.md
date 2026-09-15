@@ -5,7 +5,7 @@ summary: "以吹气球、握持造型和灯光反馈重新组织儿童呼气检�
 role: "共同创作"
 credits: "合作项目；原始展板信息随作品保留"
 status: "概念方案与设计提案"
-cover: "/works/documents/portfolio-51/028.webp"
+cover: "/works/refinement-v2/huhu/product-scene.webp"
 tags: ["儿童体验", "产品概念", "呼气交互", "形态模型"]
 ---
 
@@ -42,6 +42,32 @@ HUHU CARE 关注儿童面对检查器械时的紧张感，以及理解和配合�
 ![吹嘴、握持、灯光与底座的部件示意](/works/documents/portfolio-51/025.webp)
 
 ![呼气与反馈的交互流程设想](/works/documents/portfolio-51/026.webp)
+
+### 原始项目渲染
+
+以下视角来自原始模型工作集，记录产品形态、部件关系与场景表达。本轮对既有渲染进行选片和网页适配；团队署名与原提案中的成果边界继续保留。
+
+![早期配色与形态方案](/works/refinement-v2/huhu/early-form.webp)
+
+![吹嘴与连接位置](/works/refinement-v2/huhu/mouthpiece.webp)
+
+![吹嘴外缘细节](/works/refinement-v2/huhu/rim-detail.webp)
+
+![防滑握持区域](/works/refinement-v2/huhu/grip.webp)
+
+![颈部连接与标识](/works/refinement-v2/huhu/neck-detail.webp)
+
+![最终配色三分之四视角](/works/refinement-v2/huhu/three-quarter.webp)
+
+![反向视角与气球连接](/works/refinement-v2/huhu/rear.webp)
+
+![产品与底座组合](/works/refinement-v2/huhu/charging-base.webp)
+
+![底座组合反向视角](/works/refinement-v2/huhu/base-reverse.webp)
+
+![气球、连接与吹嘴局部](/works/refinement-v2/huhu/balloon-detail.webp)
+
+![儿童呼气检测概念场景原始渲染](/works/refinement-v2/huhu/product-scene.webp)
 
 ## 最终作品
 

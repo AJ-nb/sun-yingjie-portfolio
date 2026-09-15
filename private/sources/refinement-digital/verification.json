@@ -1,0 +1,628 @@
+{
+  "verifiedAt": "2026-09-15T02:07:45.729Z",
+  "scope": "12 brand/digital/experiment cases in two languages; product/rendering cases untouched",
+  "cases": [
+    {
+      "slug": "biyuan",
+      "languages": [
+        {
+          "lang": "zh",
+          "category": "brand",
+          "media": [
+            "/works/refinement-brand/biyuan/home-desktop.png",
+            "/works/refinement-brand/biyuan/models-desktop.png",
+            "/works/refinement-brand/biyuan/models-filtered.png",
+            "/works/refinement-brand/biyuan/home-mobile.png"
+          ],
+          "characters": 1551
+        },
+        {
+          "lang": "en",
+          "category": "brand",
+          "media": [
+            "/works/refinement-brand/biyuan/home-desktop.png",
+            "/works/refinement-brand/biyuan/models-desktop.png",
+            "/works/refinement-brand/biyuan/models-filtered.png",
+            "/works/refinement-brand/biyuan/home-mobile.png"
+          ],
+          "characters": 3697
+        }
+      ]
+    },
+    {
+      "slug": "yelisi",
+      "languages": [
+        {
+          "lang": "zh",
+          "category": "brand",
+          "media": [
+            "/works/brand/yelisi/yelisi-logo.webp",
+            "/works/brand/yelisi/songnasty-historical-logo.webp",
+            "/works/brand/yelisi/snake-component-dimensions-concept.webp"
+          ],
+          "characters": 1631
+        },
+        {
+          "lang": "en",
+          "category": "brand",
+          "media": [
+            "/works/brand/yelisi/yelisi-logo.webp",
+            "/works/brand/yelisi/songnasty-historical-logo.webp",
+            "/works/brand/yelisi/snake-component-dimensions-concept.webp"
+          ],
+          "characters": 4438
+        }
+      ]
+    },
+    {
+      "slug": "periastra",
+      "languages": [
+        {
+          "lang": "zh",
+          "category": "brand",
+          "media": [
+            "/works/brand/periastra/logo/periastra-logo-v01-20260422.webp",
+            "/works/brand/periastra/explainers/periastra-structure-breakdown-v01.svg",
+            "/works/brand/periastra/explainers/periastra-lineweight-negative-space-v01.svg",
+            "/works/brand/periastra/explainers/periastra-application-fit-v01.svg"
+          ],
+          "characters": 1714
+        },
+        {
+          "lang": "en",
+          "category": "brand",
+          "media": [
+            "/works/brand/periastra/logo/periastra-logo-v01-20260422.webp",
+            "/works/brand/periastra/explainers/periastra-structure-breakdown-v01.svg",
+            "/works/brand/periastra/explainers/periastra-lineweight-negative-space-v01.svg",
+            "/works/brand/periastra/explainers/periastra-application-fit-v01.svg"
+          ],
+          "characters": 4165
+        }
+      ]
+    },
+    {
+      "slug": "lensflow",
+      "languages": [
+        {
+          "lang": "zh",
+          "category": "digital",
+          "media": [
+            "/works/digital/lensflow/studio-analysis.webp",
+            "/works/digital/lensflow/studio-guide.webp"
+          ],
+          "characters": 1716
+        },
+        {
+          "lang": "en",
+          "category": "digital",
+          "media": [
+            "/works/digital/lensflow/studio-analysis.webp",
+            "/works/digital/lensflow/studio-guide.webp"
+          ],
+          "characters": 4458
+        }
+      ]
+    },
+    {
+      "slug": "yantai",
+      "languages": [
+        {
+          "lang": "zh",
+          "category": "digital",
+          "media": [
+            "/works/digital/yantai/design-study-fixture.webp"
+          ],
+          "characters": 1569
+        },
+        {
+          "lang": "en",
+          "category": "digital",
+          "media": [
+            "/works/digital/yantai/design-study-fixture.webp"
+          ],
+          "characters": 4315
+        }
+      ]
+    },
+    {
+      "slug": "formline",
+      "languages": [
+        {
+          "lang": "zh",
+          "category": "digital",
+          "media": [
+            "/works/digital/formline/editor-desktop.webp",
+            "/works/digital/formline/editor-mobile.webp"
+          ],
+          "characters": 1259
+        },
+        {
+          "lang": "en",
+          "category": "digital",
+          "media": [
+            "/works/digital/formline/editor-desktop.webp",
+            "/works/digital/formline/editor-mobile.webp"
+          ],
+          "characters": 3211
+        }
+      ]
+    },
+    {
+      "slug": "resume-formatter",
+      "languages": [
+        {
+          "lang": "zh",
+          "category": "digital",
+          "media": [
+            "/works/digital/resume-formatter/workspace.webp",
+            "/works/digital/resume-formatter/rewrite-diff.webp",
+            "/works/digital/resume-formatter/layout-controls.webp"
+          ],
+          "characters": 1828
+        },
+        {
+          "lang": "en",
+          "category": "digital",
+          "media": [
+            "/works/digital/resume-formatter/workspace.webp",
+            "/works/digital/resume-formatter/rewrite-diff.webp",
+            "/works/digital/resume-formatter/layout-controls.webp"
+          ],
+          "characters": 4419
+        }
+      ]
+    },
+    {
+      "slug": "visual-archive",
+      "languages": [
+        {
+          "lang": "zh",
+          "category": "digital",
+          "media": [
+            "/works/digital/visual-archive/analysis-desktop.webp",
+            "/works/digital/visual-archive/analysis-mobile.webp"
+          ],
+          "characters": 1128
+        },
+        {
+          "lang": "en",
+          "category": "digital",
+          "media": [
+            "/works/digital/visual-archive/analysis-desktop.webp",
+            "/works/digital/visual-archive/analysis-mobile.webp"
+          ],
+          "characters": 3054
+        }
+      ]
+    },
+    {
+      "slug": "aesthetic-atlas",
+      "languages": [
+        {
+          "lang": "zh",
+          "category": "digital",
+          "media": [
+            "/works/digital/aesthetic-atlas/bauhaus-product-dna.webp",
+            "/works/digital/aesthetic-atlas/bauhaus-product-transfer.webp"
+          ],
+          "characters": 1291
+        },
+        {
+          "lang": "en",
+          "category": "digital",
+          "media": [
+            "/works/digital/aesthetic-atlas/bauhaus-product-dna.webp",
+            "/works/digital/aesthetic-atlas/bauhaus-product-transfer.webp"
+          ],
+          "characters": 3228
+        }
+      ]
+    },
+    {
+      "slug": "image-2-5-xhs",
+      "languages": [
+        {
+          "lang": "zh",
+          "category": "experiments",
+          "media": [
+            "/works/digital/image-2-5-xhs/evaluation-cover.webp",
+            "/works/digital/image-2-5-xhs/product-consistency.webp",
+            "/works/digital/image-2-5-xhs/evaluation-boundaries.webp"
+          ],
+          "characters": 1732
+        },
+        {
+          "lang": "en",
+          "category": "experiments",
+          "media": [
+            "/works/digital/image-2-5-xhs/evaluation-cover.webp",
+            "/works/digital/image-2-5-xhs/product-consistency.webp",
+            "/works/digital/image-2-5-xhs/evaluation-boundaries.webp"
+          ],
+          "characters": 4812
+        }
+      ]
+    },
+    {
+      "slug": "xintiao",
+      "languages": [
+        {
+          "lang": "zh",
+          "category": "digital",
+          "media": [
+            "/works/refinement-digital/xintiao/home-native.png",
+            "/works/refinement-digital/xintiao/onboarding-native.png",
+            "/works/refinement-digital/xintiao/detail-native.png",
+            "/works/refinement-digital/xintiao/calendar-native.png",
+            "/works/refinement-digital/xintiao/appearance-native.png"
+          ],
+          "characters": 1926
+        },
+        {
+          "lang": "en",
+          "category": "digital",
+          "media": [
+            "/works/refinement-digital/xintiao/home-native.png",
+            "/works/refinement-digital/xintiao/onboarding-native.png",
+            "/works/refinement-digital/xintiao/detail-native.png",
+            "/works/refinement-digital/xintiao/calendar-native.png",
+            "/works/refinement-digital/xintiao/appearance-native.png"
+          ],
+          "characters": 4695
+        }
+      ]
+    },
+    {
+      "slug": "xhs-methods",
+      "languages": [
+        {
+          "lang": "zh",
+          "category": "experiments",
+          "media": [
+            "/works/refinement-digital/xhs-methods/workflow.png"
+          ],
+          "characters": 1176
+        },
+        {
+          "lang": "en",
+          "category": "experiments",
+          "media": [
+            "/works/refinement-digital/xhs-methods/workflow.png"
+          ],
+          "characters": 3078
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\README.md",
+      "privatePath": "private/sources/refinement-digital/evidence/lensflow/README.md",
+      "sha256": "e48a6de64d4816c552bd3309e0199704b1561e3ef115eb2fd5085f09a4fc9af6",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\docs\\project-status.md",
+      "privatePath": "private/sources/refinement-digital/evidence/lensflow/docs/project-status.md",
+      "sha256": "128a495f0effe163975c9439fd6e4070be9c5db3a4daead8c14957b2db4e0f58",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\lensflow\\package.json",
+      "privatePath": "private/sources/refinement-digital/evidence/lensflow/package.json",
+      "sha256": "82d6780ff32d2ea93b1fa35178633403a4fe59d6bf00ea6aa978e66b71c4963a",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-lens\\visual-lens\\README.md",
+      "privatePath": "private/sources/refinement-digital/evidence/visual-lens_visual-lens/README.md",
+      "sha256": "6345606c71bc785e79e93bc78d6f4137ed29c5fbf20f435e349fbbd73b4e1998",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-lens\\visual-lens\\package.json",
+      "privatePath": "private/sources/refinement-digital/evidence/visual-lens_visual-lens/package.json",
+      "sha256": "d949a99e8c63ef325e44ba46b262f1c8e84d0b2edb5ea827b1ec1ed5256cca80",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\logo-geometry-studio\\README.md",
+      "privatePath": "private/sources/refinement-digital/evidence/logo-geometry-studio/README.md",
+      "sha256": "86cc3f0e02b4aeca50befc70c79833e85030814dd4934ac33131c0516ec46c7a",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\logo-geometry-studio\\THIRD_PARTY_NOTICES.md",
+      "privatePath": "private/sources/refinement-digital/evidence/logo-geometry-studio/THIRD_PARTY_NOTICES.md",
+      "sha256": "afe4ff4a81f4c9d7bd1e2f1c9d160a6286b22e4bcfb306798352af466bd7b381",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\resume-formatter\\README.md",
+      "privatePath": "private/sources/refinement-digital/evidence/resume-formatter/README.md",
+      "sha256": "66e8142e4cfda326719a452dff2f7a0b8207f9a019647b40416615ea3936f68c",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\resume-formatter\\THIRD_PARTY_NOTICES.md",
+      "privatePath": "private/sources/refinement-digital/evidence/resume-formatter/THIRD_PARTY_NOTICES.md",
+      "sha256": "b8ea16d6257be7d88aeea296465bc7de6e8e08311a1ceb5a6c6990169e4b18a1",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\visual-archive-extension\\README.md",
+      "privatePath": "private/sources/refinement-digital/evidence/visual-archive-extension/README.md",
+      "sha256": "432eda2e06a1fc56ee98141f9641df2918bb5a7548e85b872332f63138859a86",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\eagle-aesthetic-atlas\\README.md",
+      "privatePath": "private/sources/refinement-digital/evidence/eagle-aesthetic-atlas/README.md",
+      "sha256": "58c5c43b401aee3ce8e1518bec687613eb5e6425bb189f2981d3484eeae1e694",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\xhs-operations-os\\README.md",
+      "privatePath": "private/sources/refinement-digital/evidence/xhs-operations-os/README.md",
+      "sha256": "dab4bdb128621d2f34d23cd17da6a23f2d29f72e838de4a9c5ed7c832231f35d",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\xhs-operations-os\\docs\\MASTER_PRD.md",
+      "privatePath": "private/sources/refinement-digital/evidence/xhs-operations-os/docs/MASTER_PRD.md",
+      "sha256": "dcfde4187a3a78980dc4d8c718a791be63abace306db4ddbde1b7e906e361a7f",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\xhs-operations-os\\docs\\ROADMAP.md",
+      "privatePath": "private/sources/refinement-digital/evidence/xhs-operations-os/docs/ROADMAP.md",
+      "sha256": "fa8c246e31fbff718e25194f3c7a93dc26c2a40a771c43a86c318a37724b1cf6",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\tests\\protocol.json",
+      "privatePath": "private/sources/refinement-digital/evidence/image-2-5-xhs/tests/protocol.json",
+      "sha256": "b5ae56b489e4155bf3e2cd6f828aa8d5b4976639701d7114108bd72ea9dd5d08",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\image-2-5-xhs\\tests\\evaluation.json",
+      "privatePath": "private/sources/refinement-digital/evidence/image-2-5-xhs/tests/evaluation.json",
+      "sha256": "936ab45f6c997af10dd77a810027707d4ce1654af961d12f4ce18f80b57ff11a",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\WB\\学习\\today-salary-miniapp\\README.md",
+      "privatePath": "private/sources/refinement-digital/evidence/WB_学习_today-salary-miniapp/README.md",
+      "sha256": "6c6efb19a6f171d279261e2b3da0a1d48225ef134120f5000bc8c2153aaa039c",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\WB\\学习\\today-salary-miniapp\\NOTICE.md",
+      "privatePath": "private/sources/refinement-digital/evidence/WB_学习_today-salary-miniapp/NOTICE.md",
+      "sha256": "2692a930769d22d6f887d00d3e67e4660ae595e724093c415141e7555655a546",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\WB\\学习\\today-salary-miniapp\\miniprogram\\core\\salary\\config.ts",
+      "privatePath": "private/sources/refinement-digital/evidence/WB_学习_today-salary-miniapp/miniprogram/core/salary/config.ts",
+      "sha256": "3b0d0ec94d109dff14552daf7cc6201dc1627bc55455423d7bb5ed564d6ee027",
+      "copiedWithoutModification": true
+    },
+    {
+      "sourcePath": "D:\\OneDrive\\桌面\\文件\\项目\\WB\\学习\\today-salary-miniapp\\miniprogram\\core\\state\\persisted.ts",
+      "privatePath": "private/sources/refinement-digital/evidence/WB_学习_today-salary-miniapp/miniprogram/core/state/persisted.ts",
+      "sha256": "eb4d493836ba8168181b2514558bdb9fd7478d1f59736cdfcb6e0c155f6e9ea7",
+      "copiedWithoutModification": true
+    }
+  ],
+  "assets": [
+    {
+      "publicPath": "/works/refinement-brand/biyuan/home-desktop.png",
+      "bytes": 306703,
+      "sha256": "b0e57ff88733fe5eee305ea9d9b1ab9b132bc25d79c72ad483463f0adc175172",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "origin": "https://biyuan.ai/ or https://biyuan.ai/models",
+      "operations": "No content retouching; original file or direct capture"
+    },
+    {
+      "publicPath": "/works/refinement-brand/biyuan/home-mobile.png",
+      "bytes": 119451,
+      "sha256": "91456a57479cee34df97e808304b0ddf140cef53b56f5406e8f57881b06fa7e9",
+      "dimensions": [
+        390,
+        844
+      ],
+      "origin": "https://biyuan.ai/ or https://biyuan.ai/models",
+      "operations": "No content retouching; original file or direct capture"
+    },
+    {
+      "publicPath": "/works/refinement-brand/biyuan/models-desktop.png",
+      "bytes": 165728,
+      "sha256": "15af1371b1ac29ddbddd8dc3622d41ed0334e1c20f12b59f896679cb82a4d5b3",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "origin": "https://biyuan.ai/ or https://biyuan.ai/models",
+      "operations": "No content retouching; original file or direct capture"
+    },
+    {
+      "publicPath": "/works/refinement-brand/biyuan/models-filtered.png",
+      "bytes": 117302,
+      "sha256": "6dd108150f6a06c4215ff155c7bd89c20d831f2f94af5f1d3cf8c1ca2ede45c4",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "origin": "https://biyuan.ai/ or https://biyuan.ai/models",
+      "operations": "No content retouching; original file or direct capture"
+    },
+    {
+      "publicPath": "/works/refinement-digital/xhs-methods/workflow.png",
+      "bytes": 121535,
+      "sha256": "ae0474841fba26306d356bfe690c4896e5ad16a36c121a151a810d71b702f210",
+      "dimensions": [
+        1440,
+        960
+      ],
+      "origin": "Original method diagram derived from XHS requirements; not a runtime screenshot",
+      "operations": "No content retouching; original file or direct capture"
+    },
+    {
+      "publicPath": "/works/refinement-digital/xhs-methods/workflow.svg",
+      "bytes": 2399,
+      "sha256": "53605403e529ddaaf4874b7a59acdbafde6940b8189d76e766f15d37a96c606e",
+      "origin": "Original method diagram derived from XHS requirements; not a runtime screenshot",
+      "operations": "No content retouching; original file or direct capture"
+    },
+    {
+      "publicPath": "/works/refinement-digital/xintiao/appearance-native.png",
+      "bytes": 23916,
+      "sha256": "65e5c0f81ddbb846cc0496b676756f6d5fa204ae8f850bd781695c5fcbb7827b",
+      "dimensions": [
+        7864320,
+        4292542531
+      ],
+      "origin": "WeChat DevTools runtime capture (see runtime log)",
+      "operations": "No content retouching; original file or direct capture"
+    },
+    {
+      "publicPath": "/works/refinement-digital/xintiao/calendar-native.png",
+      "bytes": 24500,
+      "sha256": "b43f58f087a750b637fb7a56405fb2c26cd9619d7b72356fa9b99934cfb84596",
+      "dimensions": [
+        7864320,
+        4292542531
+      ],
+      "origin": "WeChat DevTools runtime capture (see runtime log)",
+      "operations": "No content retouching; original file or direct capture"
+    },
+    {
+      "publicPath": "/works/refinement-digital/xintiao/detail-native.png",
+      "bytes": 27313,
+      "sha256": "ebd8d34bb0cc150ea8baf40f54489298fc6cb028bc98731d3035ec479ac2e1f3",
+      "dimensions": [
+        7864320,
+        4292542531
+      ],
+      "origin": "WeChat DevTools runtime capture (see runtime log)",
+      "operations": "No content retouching; original file or direct capture"
+    },
+    {
+      "publicPath": "/works/refinement-digital/xintiao/home-native.png",
+      "bytes": 31331,
+      "sha256": "238a1fdc9cc27a803c41f233fade72008b106ac2a218238d53045aa266c75b93",
+      "dimensions": [
+        7864320,
+        4292542531
+      ],
+      "origin": "WeChat DevTools runtime capture (see runtime log)",
+      "operations": "No content retouching; original file or direct capture"
+    },
+    {
+      "publicPath": "/works/refinement-digital/xintiao/monster-hello.png",
+      "bytes": 18015,
+      "sha256": "19d3d53f811af960725f6129ec38fc9a346f3bd88008f347526d5b610452f82a",
+      "dimensions": [
+        320,
+        320
+      ],
+      "origin": "Original Xintiao application artwork",
+      "operations": "No content retouching; original file or direct capture"
+    },
+    {
+      "publicPath": "/works/refinement-digital/xintiao/onboarding-native.png",
+      "bytes": 35178,
+      "sha256": "a2b8c4968feafd8fe6c6fe9f04a78e10a5d9ea97e49e9af0a6b4ca606a5894c3",
+      "dimensions": [
+        7864320,
+        4292542531
+      ],
+      "origin": "WeChat DevTools runtime capture (see runtime log)",
+      "operations": "No content retouching; original file or direct capture"
+    }
+  ],
+  "xintiao": {
+    "originalReadOnly": true,
+    "isolatedRoot": "private/sources/refinement-digital/xintiao-isolated (ignored)",
+    "isolationAdjustments": [
+      "Project name changed; touristappid used for capture instead of original AppID",
+      "Added root tsconfig.json extending existing miniprogram/tsconfig.json; source directory has no root tsconfig",
+      "Copied non-secret project.private.config.json after first suite load failed because it was missing from the copy"
+    ],
+    "tests": {
+      "success": true,
+      "total": 338,
+      "passed": 338,
+      "failed": 0,
+      "files": 19
+    },
+    "build": {
+      "builtAt": "2026-09-15T01:28:57.911Z",
+      "pages": 14,
+      "sharedComponents": 7,
+      "failures": []
+    },
+    "nativeRuntime": {
+      "capturedOn": "2026-09-15",
+      "tool": "WeChat DevTools Stable 2.02.2608060",
+      "baseLibraryObserved": "3.16.2",
+      "mode": "Guest mode using touristappid in isolated copy",
+      "originalProjectModified": false,
+      "appUIImplementationModified": false,
+      "servicePortEnabled": false,
+      "nativeUIRendered": true,
+      "exercised": [
+        "Three-step onboarding completed",
+        "Live salary home",
+        "Salary detail navigation",
+        "Calendar navigation and empty state",
+        "Appearance settings and Dark selection"
+      ],
+      "demoConfiguration": {
+        "monthlySalaryCNY": 10000,
+        "monthlyWorkdays": 22,
+        "workingDays": "Monday-Friday",
+        "start": "09:30",
+        "end": "18:30",
+        "lunchEnabled": false,
+        "personalIncome": false
+      },
+      "publicCaptures": [
+        "onboarding-native.png",
+        "home-native.png",
+        "detail-native.png",
+        "calendar-native.png",
+        "appearance-native.png"
+      ],
+      "captureTreatment": "Direct native window captures, unretouched. DevTools title bar retained. Floating simulator's lower edge is bounded by the desktop viewport.",
+      "themeFinding": "Dark selection showed saved state, but appearance, calendar and home remained light after navigation. Home remained light after floating simulator closed and the embedded simulator reloaded. No dark runtime success is claimed.",
+      "consoleFinding": "Error badge reported 5 after embedded simulator reload (earlier cumulative session badge reached 12). Inspected console excerpt includes SDK appServiceSDKScriptError webapi_getwxaasyncsecinfo:fail, guest-mode wx.operateWXData limits and preload warnings. Not all cumulative errors were individually classified; clean runtime is not claimed.",
+      "consoleEvidence": [
+        "xintiao-native-console.txt",
+        "xintiao-native-console.png"
+      ],
+      "themeEvidence": "xintiao-theme-after-return.png",
+      "limits": [
+        "Simulator verification only",
+        "No real-device verification",
+        "No WeChat release or approval",
+        "No real payroll accuracy measurement",
+        "No official account or subscription-message API verification"
+      ],
+      "cleanup": "Imported Xintiao project and floating simulator closed normally. Automatically restored unrelated weight-bmi-tracker project left untouched."
+    }
+  },
+  "verification": {
+    "frontmatter": true,
+    "pairedLanguages": true,
+    "publicMediaExists": true,
+    "sourceNotes": true,
+    "errors": []
+  }
+}

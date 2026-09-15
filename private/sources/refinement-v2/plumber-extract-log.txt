@@ -1,0 +1,24 @@
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 951185498 bytes (908 MiB)
+
+Extracting archive: D:\OneDrive\桌面\文件\作品集\完成模型\管道清淤机器人.zip
+--
+Path = D:\OneDrive\桌面\文件\作品集\完成模型\管道清淤机器人.zip
+Type = zip
+Physical Size = 951185498
+Embedded Stub Size = 4
+64-bit = +
+Characteristics = Zip64
+Total Physical Size = 20278538330
+Multivolume = +
+Volume Index = 9
+Volumes = 10
+
+Everything is Ok
+
+Files: 62
+Size:       1149335608
+Compressed: 20278538330

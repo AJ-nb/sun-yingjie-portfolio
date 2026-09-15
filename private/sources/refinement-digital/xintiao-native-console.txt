@@ -1,0 +1,14 @@
+top         Default levels          Tue Sep 15 2026 10:02:43 GMT+0800 (中国标准时间) 游客模式       WAServiceMainContext…t=wechat&v=3.16.2:1 请注意游客模式下，调用 wx.operateWXData 是受限的, API 的返回是工具的模拟返回      WAServiceMainContext…t=wechat&v=3.16.2:1 <Error: SystemError (appServiceSDKScriptError)
+{"errMsg":"webapi_getwxaasyncsecinfo:fail "}>
+Error: SystemError (appServiceSDKScriptError)
+{"errMsg":"webapi_getwxaasyncsecinfo:fail "}
+    at errorReport (http://127.0.0.1:46205/__dev__/WAServiceMainContext.js?t=wechat&v=3.16.2:1:207233)
+    at Object.<anonymous> (http://127.0.0.1:46205/__dev__/WAServiceMainContext.js?t=wechat&v=3.16.2:1:210381)
+    at Object.cb (http://127.0.0.1:46205/__dev__/WAServiceMainContext.js?t=wechat&v=3.16.2:1:2974616)
+    at re._privEmit (http://127.0.0.1:46205/__dev__/WAServiceMainContext.js?t=wechat&v=3.16.2:1:102472)
+    at re.emit (http://127.0.0.1:46205/__dev__/WAServiceMainContext.js?t=wechat&v=3.16.2:1:102765)
+    at http://127.0.0.1:46205/__dev__/WAServiceMainContext.js?t=wechat&v=3.16.2:1:103547
+    at i (http://127.0.0.1:46205/__dev__/WAServiceMainContext.js?t=wechat&v=3.16.2:1:110941)
+    at Qe (http://127.0.0.1:46205/__dev__/WAServiceMainContext.js?t=wechat&v=3.16.2:1:111017)
+    at Object.tt (http://127.0.0.1:46205/__dev__/WAServiceMainContext.js?t=wechat&v=3.16.2:1:111885)
+    at ue (http://127.0.0.1:46205/__dev__/WAServiceMainContext.js?t=wechat&v=3.16.2:1:103527)   Tue Sep 15 2026 10:02:43 GMT+0800 (中国标准时间) 游客模式       WAServiceMainContext…t=wechat&v=3.16.2:1 请注意游客模式下，调用 wx.operateWXData 是受限的, API 的返回是工具的模拟返回   Tue Sep 15 2026 10:02:44 GMT+0800 (中国标准时间) 游客模式       WAServiceMainContext…t=wechat&v=3.16.2:1 请注意游客模式下，调用 wx.operateWXData 是受限的, API 的返回是工具的模拟返回    The resource http://127.0.0.1:46205/__dev__/WAServiceMainContext.js?t=wechat&v=3.16.2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.   The resource http://127.0.0.1:46205/__dev__/WAAutoService.js?t=wechat&v=3.16.2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.  Tue Sep 15 2026 10:02:51 GMT+0800 (中国标准时间) 游客模式       WAServiceMainContext…t=wechat&v=3.16.2:1 请注意游客模式下，调用 wx.operateWXData 是受限的, API 的返回是工具的模拟返回   Tue Sep 15 2026 10:03:09 GMT+0800 (中国标准时间) 游客模式       WAServiceMainContext…t=wechat&v=3.16.2:1 请注意游客模式下，调用 wx.operateWXData 是受限的, API 的返回是工具的模拟返回              ​

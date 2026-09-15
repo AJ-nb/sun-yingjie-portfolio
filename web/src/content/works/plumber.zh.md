@@ -5,7 +5,7 @@ summary: "将排水管道清淤机器人、地下基站与游戏化控制界面�
 role: "共同创作"
 credits: "合作项目；原始展板信息随作品保留"
 status: "概念方案与设计提案"
-cover: "/works/documents/portfolio-51/016.webp"
+cover: "/works/refinement-v2/plumber/underground-scene.webp"
 tags: ["产品系统", "市政维护", "服务设计", "游戏化界面"]
 ---
 
@@ -48,6 +48,32 @@ tags: ["产品系统", "市政维护", "服务设计", "游戏化界面"]
 ![操作、监控与积分界面](/works/documents/portfolio-51/013.webp)
 
 ![机器人与基站的分解及三视图](/works/documents/portfolio-51/014.webp)
+
+### 原始项目渲染
+
+以下视角来自原始模型工作集，记录产品形态、部件关系与场景表达。本轮对既有渲染进行选片和网页适配；团队署名与原提案中的成果边界继续保留。
+
+![机器人三分之四视角](/works/refinement-v2/plumber/three-quarter.webp)
+
+![机器人侧视](/works/refinement-v2/plumber/side.webp)
+
+![机器人正视](/works/refinement-v2/plumber/front.webp)
+
+![机器人俯视](/works/refinement-v2/plumber/top.webp)
+
+![外壳与尾部细节](/works/refinement-v2/plumber/rear-detail.webp)
+
+![清理端结构细节](/works/refinement-v2/plumber/cleaning-head.webp)
+
+![机器人部件分解](/works/refinement-v2/plumber/exploded.webp)
+
+![地下基站概念](/works/refinement-v2/plumber/station.webp)
+
+![地下环境原始渲染](/works/refinement-v2/plumber/underground-scene.webp)
+
+![地下环境近景](/works/refinement-v2/plumber/underground-close.webp)
+
+![地下环境远景](/works/refinement-v2/plumber/underground-wide.webp)
 
 ## 最终作品
 

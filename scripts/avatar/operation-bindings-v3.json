@@ -1,0 +1,599 @@
+[
+  [
+    [
+      22,
+      611
+    ],
+    [
+      "bpy.types.BlendData.html#bpy.types.BlendData.objects",
+      "bpy.types.bpy_prop_collection.html",
+      "bpy.types.Object.html#bpy.types.Object.select_set"
+    ],
+    "Iterate the current object collection and inspect or change documented selection state."
+  ],
+  [
+    [
+      23,
+      607
+    ],
+    [
+      "bpy.types.BlendData.html#bpy.types.BlendData.objects",
+      "bpy.types.BlendDataObjects.html#bpy.types.BlendDataObjects.remove"
+    ],
+    "Remove only the factory startup objects from this freshly launched process, unlinking their uses."
+  ],
+  [
+    [
+      24
+    ],
+    [
+      "bpy.context.html",
+      "bpy.types.Context.html#bpy.types.Context.scene"
+    ],
+    "Access active scene from context, runtime probe confirms background object mode."
+  ],
+  [
+    [
+      32
+    ],
+    [
+      "bpy.types.BlendData.html#bpy.types.BlendData.objects",
+      "bpy.types.BlendDataObjects.html#bpy.types.BlendDataObjects.new"
+    ],
+    "Create object using authored mesh/camera/light data or None for semantic empty anchors."
+  ],
+  [
+    [
+      33
+    ],
+    [
+      "bpy.types.Scene.html#bpy.types.Scene.collection",
+      "bpy.types.Collection.html#bpy.types.Collection.objects",
+      "bpy.types.CollectionObjects.html#bpy.types.CollectionObjects.link"
+    ],
+    "Link created objects to the active scene collection."
+  ],
+  [
+    [
+      39
+    ],
+    [
+      "bpy.types.BlendData.html#bpy.types.BlendData.materials",
+      "bpy.types.BlendDataMaterials.html#bpy.types.BlendDataMaterials.new"
+    ],
+    "Create original surface materials."
+  ],
+  [
+    [
+      40
+    ],
+    [
+      "bpy.types.Material.html#bpy.types.Material.use_nodes"
+    ],
+    "Assign documented material property using requested artistic value. Shader-node creation has been observed on runtime 5.0.1."
+  ],
+  [
+    [
+      41
+    ],
+    [
+      "bpy.types.Material.html#bpy.types.Material.diffuse_color"
+    ],
+    "Assign documented material property using requested artistic value. Shader-node creation has been observed on runtime 5.0.1."
+  ],
+  [
+    [
+      42
+    ],
+    [
+      "bpy.types.Material.html#bpy.types.Material.roughness"
+    ],
+    "Assign documented material property using requested artistic value. Shader-node creation has been observed on runtime 5.0.1."
+  ],
+  [
+    [
+      43
+    ],
+    [
+      "bpy.types.Material.html#bpy.types.Material.metallic"
+    ],
+    "Assign documented material property using requested artistic value. Shader-node creation has been observed on runtime 5.0.1."
+  ],
+  [
+    [
+      44
+    ],
+    [
+      "bpy.types.Material.html#bpy.types.Material.node_tree",
+      "bpy.types.NodeTree.html#bpy.types.NodeTree.nodes",
+      "bpy.types.Nodes.html",
+      "bpy.types.Node.html#bpy.types.Node.bl_idname",
+      "bpy.types.bpy_prop_collection.html"
+    ],
+    "Select actually observed Principled shader; material-runtime.json records node identity and inputs on Blender 5.0.1."
+  ],
+  [
+    [
+      45,
+      92
+    ],
+    [
+      "bpy.types.Node.html#bpy.types.Node.inputs",
+      "bpy.types.NodeSocketColor.html#bpy.types.NodeSocketColor.default_value",
+      "bpy.types.bpy_prop_collection.html"
+    ],
+    "Set four color values on runtime-observed Base Color socket; source establishes color socket default contract."
+  ],
+  [
+    [
+      46,
+      47,
+      48
+    ],
+    [
+      "bpy.types.Node.html#bpy.types.Node.inputs",
+      "bpy.types.NodeSocketFloat.html#bpy.types.NodeSocketFloat.default_value",
+      "bpy.types.bpy_prop_collection.html"
+    ],
+    "Set scalar values on Roughness/Metallic/Specular sockets actually recorded in material-runtime.json."
+  ],
+  [
+    [
+      132
+    ],
+    [
+      "bpy.types.BlendData.html#bpy.types.BlendData.meshes",
+      "bpy.types.BlendDataMeshes.html#bpy.types.BlendDataMeshes.new"
+    ],
+    "Create mesh data-blocks for original explicit coordinates and topology."
+  ],
+  [
+    [
+      133
+    ],
+    [
+      "bpy.types.Mesh.html#bpy.types.Mesh.from_pydata"
+    ],
+    "Build surfaces from explicit vertex and face arrays with inferred edges and smooth shading, followed by validation."
+  ],
+  [
+    [
+      134
+    ],
+    [
+      "bpy.types.Mesh.html#bpy.types.Mesh.validate"
+    ],
+    "Check generated geometry and stop if Blender corrected invalid data."
+  ],
+  [
+    [
+      137
+    ],
+    [
+      "bpy.types.Mesh.html#bpy.types.Mesh.materials",
+      "bpy.types.IDMaterials.html#bpy.types.IDMaterials.append"
+    ],
+    "Assign original material to each mesh data-block."
+  ],
+  [
+    [
+      301,
+      315,
+      316,
+      317,
+      547,
+      548,
+      610
+    ],
+    [
+      "bpy.types.Object.html#bpy.types.Object.parent"
+    ],
+    "Set object hierarchy. Eye-child vertices are already authored relative to the eye root pivot; the avatar root is identity."
+  ],
+  [
+    [
+      299,
+      551,
+      555,
+      581
+    ],
+    [
+      "bpy.types.Object.html#bpy.types.Object.location"
+    ],
+    "Set object location from authored coordinates; this also supports camera and anchor helpers and positions eye pivot centers correctly."
+  ],
+  [
+    [
+      556,
+      582
+    ],
+    [
+      "bpy.types.Object.html#bpy.types.Object.rotation_euler"
+    ],
+    "Assign geometric Euler orientation chosen by analytic orbit convention, verified by actual renders."
+  ],
+  [
+    [
+      558,
+      620
+    ],
+    [
+      "bpy.types.BlendData.html#bpy.types.BlendData.cameras",
+      "bpy.types.BlendDataCameras.html#bpy.types.BlendDataCameras.new"
+    ],
+    "Create photographic and orthographic review camera data."
+  ],
+  [
+    [
+      559
+    ],
+    [
+      "bpy.types.Camera.html#bpy.types.Camera.lens"
+    ],
+    "Assign perspective focal length in millimeters."
+  ],
+  [
+    [
+      561,
+      624,
+      636
+    ],
+    [
+      "bpy.types.Scene.html#bpy.types.Scene.camera"
+    ],
+    "Select active rendering camera."
+  ],
+  [
+    [
+      562
+    ],
+    [
+      "bpy.types.Scene.html#bpy.types.Scene.frame_start"
+    ],
+    "Set playback range for an 350-frame portrait transition at 24 fps."
+  ],
+  [
+    [
+      563
+    ],
+    [
+      "bpy.types.Scene.html#bpy.types.Scene.frame_end"
+    ],
+    "Set playback range for an 350-frame portrait transition at 24 fps."
+  ],
+  [
+    [
+      567,
+      568
+    ],
+    [
+      "bpy.types.bpy_struct.html#bpy.types.bpy_struct.keyframe_insert",
+      "bpy.types.Object.html#bpy.types.Object.location",
+      "bpy.types.Object.html#bpy.types.Object.rotation_euler"
+    ],
+    "Insert location and rotation values at frames; source creates F-Curves and animation data automatically."
+  ],
+  [
+    [
+      569
+    ],
+    [
+      "bpy.types.Object.html#bpy.types.Object.animation_data",
+      "bpy.types.AnimData.html#bpy.types.AnimData.action",
+      "bpy.types.ID.html#bpy.types.ID.name"
+    ],
+    "Name automatically created active action CameraAction."
+  ],
+  [
+    [
+      570,
+      615
+    ],
+    [
+      "bpy.types.Scene.html#bpy.types.Scene.frame_set"
+    ],
+    "Evaluate all objects at the selected frame."
+  ],
+  [
+    [
+      574
+    ],
+    [
+      "bpy.types.BlendData.html#bpy.types.BlendData.lights",
+      "bpy.types.BlendDataLights.html#bpy.types.BlendDataLights.new",
+      "bpy_types_enum_items/light_type_items.html"
+    ],
+    "Create documented directional area sources for the private studio scene."
+  ],
+  [
+    [
+      575
+    ],
+    [
+      "bpy.types.AreaLight.html#bpy.types.AreaLight.energy"
+    ],
+    "Assign artistic radiant power in watts; final illumination checked in render."
+  ],
+  [
+    [
+      576
+    ],
+    [
+      "bpy.types.AreaLight.html#bpy.types.AreaLight.size"
+    ],
+    "Assign area emitter dimensions; final appearance requires render verification."
+  ],
+  [
+    [
+      577
+    ],
+    [
+      "bpy.types.Light.html#bpy.types.Light.color"
+    ],
+    "Assign studio source color."
+  ],
+  [
+    [
+      564
+    ],
+    [
+      "bpy.types.Scene.html#bpy.types.Scene.render",
+      "bpy.types.RenderSettings.html#bpy.types.RenderSettings.fps"
+    ],
+    "Assign documented scene rendering property. BLENDER_EEVEE confirmed by actual runtime probe; dimensions chosen for user review."
+  ],
+  [
+    [
+      584
+    ],
+    [
+      "bpy.types.Scene.html#bpy.types.Scene.render",
+      "bpy.types.RenderSettings.html#bpy.types.RenderSettings.engine"
+    ],
+    "Assign documented scene rendering property. BLENDER_EEVEE confirmed by actual runtime probe; dimensions chosen for user review."
+  ],
+  [
+    [
+      585,
+      616,
+      631
+    ],
+    [
+      "bpy.types.Scene.html#bpy.types.Scene.render",
+      "bpy.types.RenderSettings.html#bpy.types.RenderSettings.resolution_x"
+    ],
+    "Assign documented scene rendering property. BLENDER_EEVEE confirmed by actual runtime probe; dimensions chosen for user review."
+  ],
+  [
+    [
+      586,
+      617,
+      632
+    ],
+    [
+      "bpy.types.Scene.html#bpy.types.Scene.render",
+      "bpy.types.RenderSettings.html#bpy.types.RenderSettings.resolution_y"
+    ],
+    "Assign documented scene rendering property. BLENDER_EEVEE confirmed by actual runtime probe; dimensions chosen for user review."
+  ],
+  [
+    [
+      587
+    ],
+    [
+      "bpy.types.Scene.html#bpy.types.Scene.render",
+      "bpy.types.RenderSettings.html#bpy.types.RenderSettings.resolution_percentage"
+    ],
+    "Assign documented scene rendering property. BLENDER_EEVEE confirmed by actual runtime probe; dimensions chosen for user review."
+  ],
+  [
+    [
+      590
+    ],
+    [
+      "bpy.types.Scene.html#bpy.types.Scene.render",
+      "bpy.types.RenderSettings.html#bpy.types.RenderSettings.film_transparent"
+    ],
+    "Assign documented scene rendering property. BLENDER_EEVEE confirmed by actual runtime probe; dimensions chosen for user review."
+  ],
+  [
+    [
+      618,
+      634
+    ],
+    [
+      "bpy.types.Scene.html#bpy.types.Scene.render",
+      "bpy.types.RenderSettings.html#bpy.types.RenderSettings.filepath"
+    ],
+    "Assign documented scene rendering property. BLENDER_EEVEE confirmed by actual runtime probe; dimensions chosen for user review."
+  ],
+  [
+    [
+      588
+    ],
+    [
+      "bpy.types.Scene.html#bpy.types.Scene.render",
+      "bpy.types.RenderSettings.html#bpy.types.RenderSettings.image_settings",
+      "bpy.types.ImageFormatSettings.html#bpy.types.ImageFormatSettings.file_format"
+    ],
+    "Set documented PNG image format and RGBA channels for transparent review renders."
+  ],
+  [
+    [
+      589
+    ],
+    [
+      "bpy.types.Scene.html#bpy.types.Scene.render",
+      "bpy.types.RenderSettings.html#bpy.types.RenderSettings.image_settings",
+      "bpy.types.ImageFormatSettings.html#bpy.types.ImageFormatSettings.color_mode"
+    ],
+    "Set documented PNG image format and RGBA channels for transparent review renders."
+  ],
+  [
+    [
+      594
+    ],
+    [
+      "bpy.ops.wm.html#bpy.ops.wm.save_as_mainfile"
+    ],
+    "Save original private .blend with compression at the assigned task output path."
+  ],
+  [
+    [
+      612
+    ],
+    [
+      "bpy.types.Object.html#bpy.types.Object.select_set"
+    ],
+    "Select authored avatar, eyes, semantic anchors and camera for export while omitting studio lights."
+  ],
+  [
+    [
+      613
+    ],
+    [
+      "bpy.ops.export_scene.html#bpy.ops.export_scene.gltf"
+    ],
+    "Export requested GLB binary using documented format string contract, selected objects, cameras and active actions. Runtime enum is dynamic and empty in RNA; GLB output acceptance must be established by operator result and file validation."
+  ],
+  [
+    [
+      621
+    ],
+    [
+      "bpy.types.Camera.html#bpy.types.Camera.type"
+    ],
+    "Set documented orthographic review optics for proportion comparisons."
+  ],
+  [
+    [
+      622
+    ],
+    [
+      "bpy.types.Camera.html#bpy.types.Camera.ortho_scale"
+    ],
+    "Set documented orthographic review optics for proportion comparisons."
+  ],
+  [
+    [
+      619,
+      635
+    ],
+    [
+      "bpy.ops.render.html#bpy.ops.render.render"
+    ],
+    "Render selected front/three-quarter/side/back camera views and write to specified output path."
+  ],
+  [
+    [
+      78
+    ],
+    [
+      "bpy.types.BlendData.html#bpy.types.BlendData.images",
+      "bpy.types.BlendDataImages.html#bpy.types.BlendDataImages.load"
+    ],
+    "Load the actual user-reference projection texture image from the local authored texture directory."
+  ],
+  [
+    [
+      79
+    ],
+    [
+      "bpy.types.Image.html#bpy.types.Image.pack"
+    ],
+    "Embed source texture pixels in the editable blend file."
+  ],
+  [
+    [
+      82
+    ],
+    [
+      "bpy.types.Material.html#bpy.types.Material.node_tree",
+      "bpy.types.NodeTree.html#bpy.types.NodeTree.nodes",
+      "bpy.types.Node.html#bpy.types.Node.bl_idname",
+      "bpy.types.bpy_prop_collection.html"
+    ],
+    "Select the actually observed Principled material node."
+  ],
+  [
+    [
+      83,
+      86
+    ],
+    [
+      "bpy.types.Nodes.html",
+      "bpy.types.Material.html#bpy.types.Material.node_tree",
+      "bpy.types.NodeTree.html#bpy.types.NodeTree.nodes",
+      "bpy.types.ShaderNodeTexImage.html#bpy.types.ShaderNodeTexImage",
+      "bpy.types.ShaderNodeUVMap.html#bpy.types.ShaderNodeUVMap"
+    ],
+    "Create source-described image texture sampling and explicit UV-map retrieval nodes."
+  ],
+  [
+    [
+      84,
+      85
+    ],
+    [
+      "bpy.types.ShaderNodeTexImage.html#bpy.types.ShaderNodeTexImage.image",
+      "bpy.types.ShaderNodeTexImage.html#bpy.types.ShaderNodeTexImage.extension"
+    ],
+    "Assign the loaded image and source-described EXTEND sampling behavior."
+  ],
+  [
+    [
+      87
+    ],
+    [
+      "bpy.types.ShaderNodeUVMap.html#bpy.types.ShaderNodeUVMap.uv_map"
+    ],
+    "Request the explicitly authored ReferenceProjection UV layer."
+  ],
+  [
+    [
+      88
+    ],
+    [
+      "bpy.types.Node.html#bpy.types.Node.inputs",
+      "bpy.types.Node.html#bpy.types.Node.outputs",
+      "bpy.types.NodeSocket.html#bpy.types.NodeSocket.name",
+      "bpy.types.bpy_prop_collection.html"
+    ],
+    "Inspect and record the actual runtime socket names before connecting them."
+  ],
+  [
+    [
+      91,
+      92
+    ],
+    [
+      "bpy.types.Material.html#bpy.types.Material.node_tree",
+      "bpy.types.NodeTree.html#bpy.types.NodeTree.links",
+      "bpy.types.NodeLinks.html",
+      "bpy.types.Node.html#bpy.types.Node.inputs",
+      "bpy.types.Node.html#bpy.types.Node.outputs"
+    ],
+    "Link runtime-checked UV output into texture vector, and runtime-checked texture color into previously probed Principled Base Color input."
+  ],
+  [
+    [
+      140
+    ],
+    [
+      "bpy.types.Mesh.html#bpy.types.Mesh.uv_layers",
+      "bpy.types.UVLoopLayers.html#bpy.types.UVLoopLayers.new"
+    ],
+    "Create the named explicit face-corner UV map."
+  ],
+  [
+    [
+      147
+    ],
+    [
+      "bpy.types.MeshUVLoopLayer.html#bpy.types.MeshUVLoopLayer.uv",
+      "bpy.types.Float2AttributeValue.html#bpy.types.Float2AttributeValue.vector",
+      "bpy.types.MeshLoop.html#bpy.types.MeshLoop.vertex_index"
+    ],
+    "Assign two-dimensional coordinates to each face corner using its referenced explicit vertex, preserving real geometry."
+  ]
+]

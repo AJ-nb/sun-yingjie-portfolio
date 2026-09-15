@@ -1,0 +1,86 @@
+{
+  "passed": true,
+  "file_bytes": 10213692,
+  "file_mib": 9.741,
+  "mesh_count": 25,
+  "material_count": 19,
+  "node_count": 34,
+  "exported_vertex_count": 189946,
+  "triangle_count": 367860,
+  "embedded_reference_textures": 5,
+  "textured_primitives": 22,
+  "independent_eye_nodes": [
+    "eye iris -1",
+    "eye iris inner -1",
+    "eye ocular volume -1",
+    "eye pupil -1",
+    "eye_left | curved sclera",
+    "eye iris 1",
+    "eye iris inner 1",
+    "eye ocular volume 1",
+    "eye pupil 1",
+    "eye_right | curved sclera"
+  ],
+  "animations": [
+    {
+      "name": "CameraAction",
+      "duration_seconds": 14.583333015441895,
+      "channel_count": 2
+    }
+  ],
+  "max_mesh_axis_spans": [
+    2.2738196849823,
+    1.7699999809265137,
+    1.0057733654975891
+  ],
+  "checks": [
+    "GLB header and binary bounds",
+    "Finite mesh and UV coordinates",
+    "Triangle indices in range",
+    "Non-flat three-axis geometry",
+    "Exact eye roots with parented iris, pupil and closed ocular volume",
+    "Semantic anchors",
+    "Animation times and outputs",
+    "Embedded source-derived surface textures",
+    "Below 12 MiB"
+  ],
+  "sha256": "2dce53741e218913b21a309e629ac03d0433cf3e81090471831c0eec4096bf88",
+  "closed_ocular_volumes": [
+    {
+      "root": "eye_left | curved sclera",
+      "volume_node": "eye ocular volume -1",
+      "closed_surface": true
+    },
+    {
+      "root": "eye_right | curved sclera",
+      "volume_node": "eye ocular volume 1",
+      "closed_surface": true
+    }
+  ],
+  "narrative_anchors": {
+    "focus-1": "Education",
+    "focus-2": "Ouyin",
+    "focus-3": "BENWU",
+    "focus-4": "Liling",
+    "focus-5": "AI practice"
+  },
+  "timeline": {
+    "fps": 24,
+    "total_frame_intervals": 350,
+    "narrative_node_frames": [
+      50,
+      100,
+      150,
+      200,
+      250
+    ],
+    "works_entrance": [
+      250,
+      300
+    ],
+    "works_tail": [
+      300,
+      350
+    ]
+  }
+}

@@ -5,7 +5,7 @@ summary: "A municipal maintenance concept combining a pipe-cleaning robot, an un
 role: "Collaborative work"
 credits: "Collaborative project; original board information is preserved with the work"
 status: "Concept and design proposal"
-cover: "/works/documents/portfolio-51/016.webp"
+cover: "/works/refinement-v2/plumber/underground-scene.webp"
 tags: ["Product systems", "Municipal maintenance", "Service design", "Gamified interfaces"]
 ---
 
@@ -48,6 +48,32 @@ Storyboards, a service-system blueprint and user journeys connect the different 
 ![Operation, monitoring and points screens](/works/documents/portfolio-51/013.webp)
 
 ![Robot and station exploded and orthographic views](/works/documents/portfolio-51/014.webp)
+
+### Original project renders
+
+These views come from the original model worksets and document form, component relationships and scene visualization. Existing renders were selected and prepared for this edition; the collaborative credits and the proposal’s stated scope remain applicable.
+
+![Robot three-quarter view](/works/refinement-v2/plumber/three-quarter.webp)
+
+![Robot side view](/works/refinement-v2/plumber/side.webp)
+
+![Robot front view](/works/refinement-v2/plumber/front.webp)
+
+![Robot top view](/works/refinement-v2/plumber/top.webp)
+
+![Shell and rear detail](/works/refinement-v2/plumber/rear-detail.webp)
+
+![Cleaning-head detail](/works/refinement-v2/plumber/cleaning-head.webp)
+
+![Robot exploded view](/works/refinement-v2/plumber/exploded.webp)
+
+![Underground service-station concept](/works/refinement-v2/plumber/station.webp)
+
+![Original underground scene render](/works/refinement-v2/plumber/underground-scene.webp)
+
+![Underground close-up](/works/refinement-v2/plumber/underground-close.webp)
+
+![Underground wide shot](/works/refinement-v2/plumber/underground-wide.webp)
 
 ## Final work
 
