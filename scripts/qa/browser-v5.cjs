@@ -151,7 +151,8 @@ async function main() {
     assert.equal(await page.locator('.studio-contact > .footer-wordmark').count(), 1)
     assert.equal(await page.locator('.original-video-footer').evaluate(element => getComputedStyle(element).position), 'absolute')
     assert.equal(await page.locator('.original-video-footer video').evaluate(video => video.paused), true)
-    assert.equal(await page.locator('.footer-reference').getAttribute('href'), '/OPEN_SOURCE_REFERENCES.md')
+    const referenceHref = await page.locator('.footer-reference').getAttribute('href')
+    assert.equal(new URL(referenceHref, page.url()).pathname, '/OPEN_SOURCE_REFERENCES.md')
     return { forward, reverse }
   }, page)
   await page.screenshot({ path: path.join(output, 'footer-1440.png'), fullPage: false })
