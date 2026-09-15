@@ -19,11 +19,13 @@ This is a collaborative project. The material covers naming, an umbrella-shaped 
 
 ## Key question
 
-The sharing service needs to communicate where users can collect and return umbrellas, how to check account status and where to find help. The interface structure develops around these basic tasks.
+Borrowing, returning and getting help need understandable entry points, with credit and account information serving those tasks. The available material consists mainly of screens and relationships, so interface organization must be distinguished from physical stations and service rules.
 
 ## Design process
 
-The name combines ideas of rain and gathering, while the mark uses an umbrella silhouette. Navigation, accounts, credit, a help center and settings establish the screen organization, supported by green as the primary color, icons and mockups.
+The name connects rain and gathering, with an umbrella mark and green palette maintaining identity. Navigation, location lookup, accounts, credit, help and settings form the screen structure, connected by the prototype relationship map.
+
+This retrospective checks the route from lookup toward borrowing and returning, and the route to help when something goes wrong. Complete screens do not establish umbrella availability, successful returns or a running service.
 
 ## Final work
 

@@ -7,11 +7,11 @@
 - 排版作品集：`deliverables/portfolio/sun-yingjie-portfolio.pdf`
 - 简历 PDF 与可编辑 Word：`deliverables/resume/`
 
-当前状态：第二轮网站已部署，高清作品集、网页优化版和简历已完成验证，三维人物相似度等待用户集中审阅。依照已确认方案，审阅后才开放公众访问。实际交付和验证记录见 `docs/DELIVERY.md`。
+第三轮「设计如何形成」：编辑式展览、33 个双语案例、八个固定样本交互实验、独立精选/完整作品集与一页简历。实现说明见 `docs/design-v3.md`，本轮交付状态见 `docs/DELIVERY-v3.md`。上方受限站点的历史发布状态见 `docs/DELIVERY.md`，不把 GitHub 提交等同于站点已经更新。
 
 ## 本地运行
 
-使用 Node.js 20 或更新的受支持版本，并安装 Git LFS。首次检出时执行 `git lfs pull`，确保 PDF 和 Blender 工程为实际文件。
+使用 Node.js 24 LTS 或更新的受支持版本，并安装 Git LFS。首次检出时执行 `git lfs pull`，确保 PDF 和 Blender 工程为实际文件。
 
 Windows 下建议使用较短的检出路径；本轮在仓库内设置 `git config core.longpaths true`，解决深层品牌资料的长路径限制。若首次检出提示路径过长，先设置该选项，再仅在新建、没有个人改动的验证副本中恢复 HEAD 文件。
 
@@ -28,17 +28,18 @@ cd web
 npm run check:content
 npm run typecheck
 npm run lint
+npm run check:invariants
 npm run build
 npm run preview
 ```
 
-构建只选择案例引用的媒体、缩略图、人物模型、静帧和两个下载件。`web/public` 不会被整体复制到发布目录。最终资源清单位于 `web/dist/media-index.json`。
+构建只选择案例引用的媒体、缩略图、人物模型、静帧、四个下载件和许可文本。`web/public` 不会被整体复制到发布目录。最终资源清单位于 `web/dist/media-index.json`。
 
 ## 内容维护
 
 案例位于 `web/src/content/works/<slug>.zh.md` 和 `.en.md`。保持两种语言的分类、署名和媒体一致。每个案例包含背景、本人职责、关键问题、设计过程、最终作品、成果与阶段。`web/src/data/chapters.ts` 控制六章顺序、精选项目及有依据的日期精度；`web/src/data/profile.json` 统一姓名、联系信息、教育与工作经历，供网站和文档共用。
 
-修改封面后运行 `python scripts/prepare_web_assets.py`，生成缩略图和人物静帧。新版设计作品集使用 `python scripts/build_portfolio.py`，依赖 ReportLab、Pillow、pypdf 和 Windows 微软雅黑字体；同时保留高清原版并生成小于20MiB的网页优化版。网页优化仅压缩内嵌图片，文字、矢量、目录、书签和链接保留；独立验证见 `docs/portfolio-web-qa.md`。简历内容和再生成方法见 `deliverables/resume/resume-content.json` 与 `docs/resume-notes.md`。
+修改封面后运行 `python scripts/prepare_web_assets.py`，生成缩略图和人物静帧。精选作品集使用 `python scripts/build_selected_portfolio.py`（28页）；完整33案例档案使用 `python scripts/build_portfolio.py`（116页），依赖 ReportLab、Pillow、pypdf 和 Windows 微软雅黑字体；同时保留高清原版并生成小于20MiB的网页优化版。网页优化仅压缩内嵌图片，文字、矢量、目录、书签和链接保留；独立验证见 `docs/portfolio-web-qa.md`。简历内容和再生成方法见 `deliverables/resume/resume-content.json` 与 `docs/resume-notes.md`。
 
 网站三维模块延迟加载，低动态模式仅在主动请求后加载。镜头按五个履历节点停靠，GLB 中的 `CameraAction` 为350帧、24fps，末段进入作品。`scrollTimeline.ts` 统一节点与镜头映射，`verify-scroll-timeline.mjs` 检查驻留、反向滚动与视口变化。只旋转两个独立眼球根节点，触屏不启用光标跟随。制作方法与参考来源见 `avatar/README.md`。
 
@@ -50,7 +51,7 @@ npm run preview
 
 合作项目保留已知署名；无法证明的个人主导、量产、效果或业绩不写成事实。数字工具保留衍生开发、上游许可与 AI 辅助实现说明，薪跳注明 PayDance 工资核心的 AGPL 来源。Chrome 扩展不称为自研浏览器，XHS Operations OS 按方法研究说明实现与规划的边界。用户提交的五张人物生成图作为本次设计参考，不是历史项目照片或真实扫描，未验证其生成模型名称。
 
-页面参考 sen-3d-resume 的人物主导结构，保留 MIT 代码说明于 `LICENSE.sen` 和 `NOTICE.sen`；原作者人物、姓名与个人素材未用于成品。技能与参考版本见 `docs/skills-lock.json`，实际设计取舍见 `DESIGN.md`。
+页面参考 sen-3d-resume 的人物主导结构，保留 MIT 代码说明于 `LICENSE.sen` 和 `NOTICE.sen`；原作者人物、姓名与个人素材未用于成品。历史技能与参考版本见 `docs/skills-lock.json`；本轮采用与排除的开源机制见 `docs/open-source-research-v3.md` 和 `THIRD_PARTY_NOTICES.md`。当前设计取舍见 `docs/design-v3.md`，第二轮基线仍保存在 `DESIGN.md`。
 
 第二轮来源记录位于 `private/sources/refinement-v2` 和 `private/sources/refinement-digital`；历史159条原件校验快照保存在 `private/sources/history/refinement-r1`。模型工作副本仅做定向提取，PSD经过Photoshop原生分层审阅，渲染长卷拆为独立高清图。完整模型原件不随网页发布；既有渲染、模型新视角与AI表现分开记来源。
 
@@ -65,3 +66,7 @@ npm run preview
 发布时使用干净检出的构建目录。`scripts/prepare_site_release.py --build <构建目录> --release <.sites-runtime下的新目录>` 会创建独立静态发布包，拒绝覆盖既有目录。页面输出通过后，才运行 Sites 的打包和发布流程。
 
 构建与发布器均严格核对实际文件与选入清单，不能跳过额外文件错误。本轮旧输出曾发现已撤选的薪跳角色图；全新 GitHub 检出构建已排除它，采用后者发布。当前依赖审计和开发服务维护边界见 `docs/dependency-maintenance.md`。
+
+浏览器回归：先运行 `npm run preview -- --port 4173`，另一终端在 web 目录运行 `npm run test:browser`。脚本读取 `PORTFOLIO_QA_URL`；可用 `npx playwright install chromium` 安装匹配的测试浏览器。GitHub Actions 对内容、类型、样例恢复逻辑、模型锚点、构建与浏览器回归持续验证。
+
+Windows 同步目录可能在构建时注入临时文件。可设置 `PORTFOLIO_BUILD_DIR` 指向同步范围以外的新构建目录，构建和预览均使用该变量；测试报告可用 `PORTFOLIO_QA_OUTPUT` 指向独立目录。不要跳过额外文件检查。

@@ -11,19 +11,29 @@ tags: ["Open-source fork", "Resume tool", "Version management", "Local-first"]
 
 ## Background
 
-This project extends an open-source resume formatter to address how resume content changes for different roles. Content remains structured, with editing, template selection and PDF printing handled in the browser. A standalone HTML version is also supported.
+One career history may support several applications, but every rewrite should not become a new document disconnected from its source. This project extends an open-source formatter with master resumes, job-specific versions and factual evidence. Structured editing, template selection and PDF printing run in the browser, with standalone HTML use also supported.
 
 ## My role
 
-This case presents collaborative design and development of an open-source fork. The upstream project is [gracexygu/resume-formatter](https://github.com/gracexygu/resume-formatter). Both upstream and this fork use the MIT License. The work shown covers the extended workspace, version management and reviewable changes; the whole project is not claimed as an original creation from scratch.
+This case presents collaborative design and development of an open-source fork of [gracexygu/resume-formatter](https://github.com/gracexygu/resume-formatter). Upstream and this fork use the MIT License. The contribution shown is the extended workspace, version management and reviewable changes, not sole authorship of the entire project from scratch.
 
 ## Key question
 
-One professional history may serve several applications, but a master update should not overwrite changes already made for a particular job. AI rewriting must expose its edits so that polishing language does not introduce unconfirmed facts. Content and formatting need to remain connected and reversible.
+A master update should reach job versions without overwriting deliberate adjustments. AI may change wording but should not quietly change a person's history. Formatting also needs to be judged in the actual preview rather than from a template thumbnail.
 
 ## Design process
 
-The workspace connects the master resume, job information and factual evidence. A job-specific version uses its original master baseline when handling later differences, retaining a choice for fields edited independently. AI rewrites show a diff before they can be applied or discarded. Formatting controls sit beside the actual resume preview.
+### Protect job-specific edits through differences
+
+Job versions compare their creation baseline, the current master and the current job version. Only fields not independently changed synchronize automatically; users resolve conflicts individually. Import previews detected sections, warnings and unmapped text. Scanned PDFs explicitly report that OCR is unsupported.
+
+### Stop rewriting at the review boundary
+
+AI rewriting retains the selection and shows a diff for acceptance or rejection, with additional checks for numbers and dates. Biyuan is one optional preset that retrieves account models, not proof of compatibility with every model. Editing, rule checks and formatting remain usable without AI.
+
+### Separate working material from application output
+
+Twelve templates offer single- and two-column structures with precise type, spacing and margin controls. PDF output checks blocking errors before printing. Workspace backups are separate from ordinary resume exports, keeping internal evidence and job research out of applications. This edition's fictional demo explains review and undo; its history is not the author's resume.
 
 ![Reviewing an AI rewrite diff in Resume Formatter](/works/digital/resume-formatter/rewrite-diff.webp)
 
@@ -31,7 +41,7 @@ The workspace connects the master resume, job information and factual evidence. 
 
 ## Final work
 
-The desktop's three columns connect content navigation, the resume preview, and a job or layout inspector. Template selection and precise adjustments stay within the editing flow, supporting repeated checks of content and reading order.
+The desktop's three columns connect content navigation, an actual resume preview and a job or layout inspector. Content choices and layout adjustments stay in one workspace, allowing reading order to be checked after each change instead of switching between disconnected files.
 
 ![Master resume, job version and evidence workspace](/works/digital/resume-formatter/workspace.webp)
 
@@ -43,20 +53,10 @@ The desktop's three columns connect content navigation, the resume preview, and 
 
 ## Outcome and stage
 
-Version 2.4.0 brings together master and job-specific versions, factual evidence, template layout, change review and export. Rule-based checks flag content and reading risks; they do not represent actual ATS acceptance rates or hiring outcomes. AI assistance remains optional.
+Version 2.4.0 combines master and job versions, evidence, templates, review and export. Rule checks flag content and reading risks; they do not provide actual ATS acceptance rates, recruiter reading times or hiring probabilities. AI remains optional. The tool does not export DOCX; the Word resume delivered separately with this portfolio does not imply that capability was added to the tool.
 
 [Use Resume Formatter](https://aj-nb.github.io/resume-formatter/)
 
-<!-- refinement-v2 -->
-
-### Making content changes reviewable
-
-Import previews detected sections, warnings and unmapped text. Scanned PDFs explicitly report that OCR is unsupported. Job versions compare the creation baseline, current master and current job version; only fields not independently changed in the job version synchronize automatically. Users resolve conflicts individually.
-
-AI rewriting retains selection and difference review, with additional checks for changes to numbers and dates. Biyuan is one optional preset and can retrieve account-available models. This does not establish live compatibility with every model. Editing, rule checks and layout remain usable without AI.
-
-Twelve templates provide real single- and two-column structures, with precise control over type size, spacing and margins. Application PDF output checks blocking errors before printing. Workspace backups are separate from ordinary resume exports so internal evidence and job research do not become application content. The tool does not export DOCX or produce ATS pass-rate or recruiter-reading-time scores.
-
 ### Sources
 
-Resume Formatter v2.4.0 README, privacy and third-party notices, and saved fictional-resume interface captures; local records begin on 21 August 2026. MIT Fork attribution follows the upstream and project notices. 
+Resume Formatter v2.4.0 README, privacy and third-party notices, and saved fictional-resume interface captures; local records begin on 21 August 2026. MIT Fork attribution follows the upstream and project notices.

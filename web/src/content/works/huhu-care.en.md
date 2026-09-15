@@ -11,7 +11,10 @@ tags: ["Children’s experience", "Product concept", "Breath interaction", "Form
 
 ## Background
 
-HUHU CARE explores children’s anxiety around examination equipment and the difficulty of understanding and cooperating with a breath-sampling task. Blowing up a balloon provides a familiar starting point for a guided experience involving children, parents and clinical staff.
+HUHU CARE places guidance before appearance: how does a child understand the breath task, how can a parent help, and how does clinical staff confirm the sequence? The concept uses the familiar action of blowing a balloon to explore the relationship between a handheld device and an examination workflow.
+
+<details>
+<summary>Source boards · background and proposal</summary>
 
 ![HUHU CARE project opening](/works/documents/portfolio-51/018.webp)
 
@@ -19,33 +22,56 @@ HUHU CARE explores children’s anxiety around examination equipment and the dif
 
 ![Background research for the breath-test experience](/works/documents/portfolio-51/020.webp)
 
+</details>
+
 ## My role
 
-This is a collaborative project. The presentation covers the examination journey, form exploration, handmade form models, component diagrams and scene renders.
+This is collaborative work with the original proposal's credits retained. The material includes examination journeys, form studies, handmade models, component diagrams and scenes. The record does not establish individual ownership of every activity.
 
 ## Key question
 
-The design considers children’s grip and attention, parents’ understanding of the process, and staff needs around replaceable consumables and status feedback. Connecting a playful interaction with a rigorous examination workflow remains an important question for further development.
+Children need a graspable object and understandable action, parents need to know when to guide, and staff need clear consumable replacement and state feedback. Playfulness, physical fit and examination rigor are distinct goals. A balloon and lights do not by themselves establish that all three have been met.
+
+<details>
+<summary>Source boards · roles and service relationships</summary>
 
 ![Needs of children, parents and clinical staff](/works/documents/portfolio-51/021.webp)
 
 ![Role journeys and design objectives](/works/documents/portfolio-51/022.webp)
 
+</details>
+
 ## Design process
 
-Role analysis and an examination journey establish the touchpoints. Sketches, handmade form models and AIGC images compare visual directions. Component studies include a replaceable mouthpiece, textured grip, balloon connection and charging base; a process diagram explores the sequence and light cues. Some storyboard images were generated with Midjourney.
+### Organize guidance around a familiar action
+
+The proposal links a breath task to blowing a balloon and uses role journeys to arrange prompts and feedback. Familiarity helping comprehension is a design hypothesis. Reduced anxiety and breath quality require validation with actual users.
+
+### Give each contact area a distinct job
+
+A replaceable mouthpiece, textured grip, balloon connection and charging base correspond to oral contact, handling, visible feedback and placement. Diagrams explain their positions; they do not establish hygiene, connection reliability or diagnostic technology.
+
+### Use models for form questions
+
+Sketches, handmade models and AIGC images record different visual directions. The models support discussion of volume and handling, not diagnostic operation. Some storyboards were generated with Midjourney. This edition's role and step explanations reorganize the existing proposal without inventing clinical research or participant feedback.
 
 ![Sketches, handmade form models and AIGC exploration](/works/documents/portfolio-51/023.webp)
 
-![Product appearance, proposed materials and orthographic views](/works/documents/portfolio-51/024.webp)
-
 ![Mouthpiece, grip, lighting and base diagrams](/works/documents/portfolio-51/025.webp)
+
+<details>
+<summary>Source boards and supplementary material · research, sketches and interface</summary>
+
+![Product appearance, proposed materials and orthographic views](/works/documents/portfolio-51/024.webp)
 
 ![Proposed breath interaction and feedback sequence](/works/documents/portfolio-51/026.webp)
 
-### Original project renders
+</details>
 
-These views come from the original model worksets and document form, component relationships and scene visualization. Existing renders were selected and prepared for this edition; the collaborative credits and the proposal’s stated scope remain applicable.
+<details>
+<summary>Original project renders · retained views</summary>
+
+These renders come from the original model worksets and preserve the existing form and views. They are not photographs or operational tests.
 
 ![Earlier form and color study](/works/refinement-v2/huhu/early-form.webp)
 
@@ -69,9 +95,11 @@ These views come from the original model worksets and document form, component r
 
 ![Original pediatric breath-test concept scene render](/works/refinement-v2/huhu/product-scene.webp)
 
+</details>
+
 ## Final work
 
-The final proposal uses a rounded handheld form, grouping the balloon, grip and base into a product family. Product images and scenes with children communicate form, color and interaction ideas. The handmade-model photographs document form exploration.
+A rounded handheld form connects the mouthpiece, grip, balloon and base through one product language. Product and child scenes communicate color, posture and intended use. Photographs of handmade models remain records of form exploration.
 
 ![HUHU CARE product scene render](/works/documents/portfolio-51/027.webp)
 
@@ -79,8 +107,17 @@ The final proposal uses a rounded handheld form, grouping the balloon, grip and 
 
 ## Outcome and stage
 
-The outcome is an appearance and experience concept for pediatric breath testing, with storyboards, form-model photographs, component diagrams and renders. The diagnostic approach, reagent format and clinical suitability have not been validated; the form model is not a functioning diagnostic prototype. Earlier presentation versions follow.
+The result is an appearance and experience concept with storyboards, form models, component diagrams and renders. The diagnostic approach, reagents, clinical suitability and actual pediatric use remain unvalidated. Website interactions explain roles and steps without generating or simulating diagnostic results.
+
+### The next judgment to validate
+
+Use a non-diagnostic interaction model to examine picking up, holding, guidance and replacement. Establish whether the actions are understood before developing a fuller examination process.
+
+<details>
+<summary>Source boards and supplementary material · earlier presentation</summary>
 
 ![Earlier presentation version: Role journeys and design objectives](/works/documents/legacy-full-portfolio/022.webp)
 
 ![Earlier presentation version: Sketches, handmade form models and AIGC exploration](/works/documents/legacy-full-portfolio/023.webp)
+
+</details>

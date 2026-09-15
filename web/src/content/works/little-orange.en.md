@@ -19,11 +19,13 @@ This is a collaborative project. The material covers sketches, a pedal mechanism
 
 ## Key question
 
-The design needs to coordinate foot clearance, seated viewing and everyday carrying, while making speed levels, time and controls easy to recognize.
+Seated foot movement, readable feedback and carrying occur at different visual and physical ranges. The orange-inspired form must accommodate these tasks, with level lights working alongside controls and the display to explain state.
 
 ## Design process
 
-The proposal arranges the shell and pedals around an orange-inspired form. An exploded diagram organizes transmission, motor, display and housing. Lighting, display screens and remote storage express the intended feedback and tidying process.
+The proposal arranges the shell and twin pedals around the orange reference. Exploded views organize transmission, motor, display and housing. A handle and remote storage bring tidying into the form, while lights and screens explain intended feedback.
+
+This retrospective considers foot clearance first, then the sightline and carrying points. The images do not establish the movement path, noise or ergonomic fit, and do not support rehabilitation claims.
 
 ## Final work
 

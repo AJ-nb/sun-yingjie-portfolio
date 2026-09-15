@@ -19,11 +19,13 @@ Contributed to 3D design and visual presentation in collaboration with the BENWU
 
 ## Key question
 
-The terrain imagery needs sufficient visual mass while leaving a clear silhouette for the mannequin and equipment. The composition depends on overlap and contrast between the rock forms, curved layers and foreground subject.
+Rocks and layered curves need to convey terrain volume while keeping the mannequin and equipment legible. The composition therefore depends on occlusion: which layer establishes the environment, which provides scale, and which carries the merchandise?
 
 ## Design process
 
-The 3D design and visual presentation addressed terrain volumes, line layers and mannequin placement. The retained project view shows their combination: a dark outer frame contains the scene, rocks and curves organise the background, and the mannequin provides a foreground scale reference.
+A dark perimeter contains the scene, rocks supply mass and horizontal curves connect the middle ground. The trekking mannequin and green ground props remain in the foreground. The 3D and visual contribution concerns these volumes, lines and subject positions.
+
+This retrospective uses the retained complete view to examine the frame, curves and mannequin. The single view does not document alternatives, an on-site walking route or viewing tests; composition analysis is not presented as historical validation.
 
 ## Final work
 

@@ -25,7 +25,7 @@ This is a team project. The material covers needs, plant-inspired forms, equipme
 
 ## Key question
 
-The project needs to coordinate two states: a desk object that fits quietly into work surroundings, and exercise equipment whose use is understandable when removed. Module recognition, storage order and activity feedback are shared product and interface questions.
+The object needs to sit quietly on a desk when stored and reveal recognizable equipment when unpacked. Virtual planting can provide feedback, but its relationship to actual activity records, sustained participation and health benefits still needs validation.
 
 ![Competitor observations, brainstorming and needs](/works/documents/office-fitness/004.webp)
 
@@ -35,7 +35,9 @@ The project needs to coordinate two states: a desk object that fits quietly into
 
 ## Design process
 
-Office scenarios, competitor observations and needs inform a storable equipment combination inspired by plants. The developed proposal shows dumbbell, skipping-rope, massage-ball and resistance-band uses, then links pixel plants, cards, growth records and check-ins into an app flow.
+Office scenarios, competitor observations and needs lead to plant-inspired equipment combinations. Sketches compare how modules fit the desk object, and use views separately explain the dumbbell, rope, massage ball and band.
+
+Pixel plants, cards, growth records and check-ins connect the intended activity feedback. Readers can compare modules, activity names and cards for consistency. This is a concept flow, not evidence of automatic exercise recognition or sustained engagement.
 
 ![Plant forms and equipment-storage sketches](/works/documents/office-fitness/007.webp)
 
@@ -53,13 +55,16 @@ The final proposal connects a plant-like desktop appearance with combinable equi
 
 ![Plant Companion product and app presentation](/works/documents/office-fitness/012.webp)
 
-### Material, lighting and scene details
+<details>
+<summary>Source boards and supplementary material · lighting and scenes</summary>
 
 ![Plant Companion modular arrangement](/works/refinement-v2/rendering-pdf/001.webp)
 
 ![Plant Companion modules and display base](/works/refinement-v2/rendering-pdf/024.webp)
 
 ![Plant Companion low-angle arrangement](/works/refinement-v2/rendering-pdf/035.webp)
+
+</details>
 
 ## Outcome and stage
 

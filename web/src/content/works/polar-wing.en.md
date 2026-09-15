@@ -19,11 +19,13 @@ This is a collaborative project. The material includes scenario references, sket
 
 ## Key question
 
-The design needs to incorporate seating for several passengers, a transparent cabin and external propulsion units into a coherent body while keeping their locations understandable.
+A multi-person cabin and distributed propulsion occupy different spatial scales, yet need to read as a coherent whole. A transparent canopy reveals the interior without establishing visibility, access or structural protection.
 
 ## Design process
 
-Scenarios and sketches compare body and propulsion layouts. The proposal then shows cabin, seat and canopy relationships through component views. Multiple scenes and dimension illustrations supplement the overall proportions.
+Scenarios and sketches compare body and propulsion layouts; exploded views then explain the cabin, seats and canopy. Dimension illustrations and multiple renders make external components comparable with occupant space.
+
+Polar Wing and Cloudwing remain two form directions, compared through cabin and component organization. Propulsion efficiency, autonomous control and flight safety are not inferred from these views.
 
 ## Final work
 

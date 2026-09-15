@@ -19,11 +19,13 @@ This is a collaborative project. The material includes sketches, body proportion
 
 ## Key question
 
-The design needs to connect continuous surfaces, canopy opening and passenger accommodation into a consistent whole, while showing how the body relates to its supports in stationary and flight scenarios.
+The continuous body surface must make sense beyond its closed state. Canopy opening, passenger access and deployed supports need clear relationships. A complete silhouette and legible use states are parallel form-design questions.
 
 ## Design process
 
-Sketches develop body and cabin proportions. Multiple views then explore the canopy, interior and support structures. Color and scenario images further investigate the visual character of a future vehicle.
+Sketches first compare body and cabin proportions. Multiple views then explain the canopy, interior and landing supports. Color and scenarios explore visual character, while open-state views add information unavailable in the closed silhouette.
+
+This retrospective concerns access and cabin representation, without inferring aerodynamics from smooth surfaces. Propulsion architecture, balance and practical access need separate engineering evidence.
 
 ## Final work
 

@@ -23,21 +23,22 @@ This is a collaborative project. The presentation covers material directions, us
 
 ## Key question
 
-The storage cabinet, work surface and stool need a clear relationship within a compact footprint. The design also explores how the visual character of the material connects with furniture structure and how the arrangement moves between stored and open states.
+Storage, a work surface and a stool need distinct roles within a small footprint, both stowed and in use. Corncob board introduces a material narrative, but visible texture and structural capacity are different questions; rendered grain does not establish strength.
 
 ![Compact-space scenarios and needs](/works/documents/portfolio-51/046.webp)
 
 ## Design process
 
-The proposal begins with plant-derived materials and furniture applications, then uses a persona and sketches to organize functions. Later pages show the board concept, cabinet and desktop combinations, module breakdowns and dimensions. Domestic scenes place the furniture in context to explore overall proportions.
+The proposal starts with plant-derived material and furniture directions, then uses scenarios and sketches to organize the cabinet, surface and stool. Exploded and dimension views explain combinations; domestic scenes show occupied space and proportions when deployed.
+
+This retrospective compares storage and work states, considering access and dependencies between modules. The sRGB exports from original layered files retain material research, sketches and layout. Interior backgrounds set the furniture in context and are not claimed as original spatial design.
 
 ![Modular-furniture sketches and combination studies](/works/documents/portfolio-51/047.webp)
 
 ![Proposed materials, structure and dimensions](/works/documents/portfolio-51/048.webp)
 
-### PSD boards and product details
-
-These images were exported from the original layered files in Photoshop and converted to sRGB. Isolated layers reveal product details, while native boards retain sketches and layout development. The collaborative status and original credit information remain applicable.
+<details>
+<summary>Source boards and supplementary material · PSD exports and details</summary>
 
 ![JiMu Studio native opening board](/works/refinement-v2/psd-jimu/opening.webp)
 
@@ -54,6 +55,8 @@ These images were exported from the original layered files in Photoshop and conv
 ![Isolated furniture arrangement layer](/works/refinement-v2/psd-jimu/product-arrangement.webp)
 
 ![Isolated dimension-view layer](/works/refinement-v2/psd-jimu/dimension-view.webp)
+
+</details>
 
 ## Final work
 

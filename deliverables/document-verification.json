@@ -1,0 +1,185 @@
+{
+  "passed": true,
+  "checkCount": 37,
+  "checks": [
+    {
+      "check": "selected page count",
+      "passed": true
+    },
+    {
+      "check": "selected case count",
+      "passed": true
+    },
+    {
+      "check": "selected public hash",
+      "passed": true
+    },
+    {
+      "check": "selected below 20 MiB",
+      "passed": true
+    },
+    {
+      "check": "selected searchable Chinese",
+      "passed": true
+    },
+    {
+      "check": "selected every page has text",
+      "passed": true
+    },
+    {
+      "check": "selected no replacement glyphs",
+      "passed": true
+    },
+    {
+      "check": "selected no leaked Markdown",
+      "passed": true
+    },
+    {
+      "check": "selected source snapshot matches",
+      "passed": true
+    },
+    {
+      "check": "selected original media matches",
+      "passed": true
+    },
+    {
+      "check": "selected clickable navigation",
+      "passed": true
+    },
+    {
+      "check": "selected compression retains text and navigation",
+      "passed": true
+    },
+    {
+      "check": "full page count",
+      "passed": true
+    },
+    {
+      "check": "full case count",
+      "passed": true
+    },
+    {
+      "check": "full public hash",
+      "passed": true
+    },
+    {
+      "check": "full below 20 MiB",
+      "passed": true
+    },
+    {
+      "check": "full searchable Chinese",
+      "passed": true
+    },
+    {
+      "check": "full every page has text",
+      "passed": true
+    },
+    {
+      "check": "full no replacement glyphs",
+      "passed": true
+    },
+    {
+      "check": "full no leaked Markdown",
+      "passed": true
+    },
+    {
+      "check": "full source snapshot matches",
+      "passed": true
+    },
+    {
+      "check": "full original media matches",
+      "passed": true
+    },
+    {
+      "check": "full clickable navigation",
+      "passed": true
+    },
+    {
+      "check": "full compression retains text and navigation",
+      "passed": true
+    },
+    {
+      "check": "resume is one page",
+      "passed": true
+    },
+    {
+      "check": "resume is A4",
+      "passed": true
+    },
+    {
+      "check": "resume editable paragraphs",
+      "passed": true
+    },
+    {
+      "check": "resume semantic title",
+      "passed": true
+    },
+    {
+      "check": "resume shared name",
+      "passed": true
+    },
+    {
+      "check": "resume shared phone",
+      "passed": true
+    },
+    {
+      "check": "resume shared email",
+      "passed": true
+    },
+    {
+      "check": "resume canonical period education",
+      "passed": true
+    },
+    {
+      "check": "resume canonical period ouyin",
+      "passed": true
+    },
+    {
+      "check": "resume canonical period benwu",
+      "passed": true
+    },
+    {
+      "check": "resume canonical period liling",
+      "passed": true
+    },
+    {
+      "check": "resume public docx matches",
+      "passed": true
+    },
+    {
+      "check": "resume public pdf matches",
+      "passed": true
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "web/public/downloads/sun-yingjie-selected-portfolio.pdf",
+      "pages": 28,
+      "cases": 8,
+      "links": 44,
+      "bytes": 4877914,
+      "sha256": "a8d95a7e82a095ff57dcae787e4d026df4627d7a923ffabeb93a008e73213e66"
+    },
+    {
+      "path": "web/public/downloads/sun-yingjie-full-portfolio.pdf",
+      "pages": 116,
+      "cases": 33,
+      "links": 256,
+      "bytes": 20397286,
+      "sha256": "a2628f82b3dfa01322fd2ecb780b6e35fcf70b10941d5e1f7c64eb1be4fe0778"
+    },
+    {
+      "path": "web/public/downloads/sun-yingjie-resume.docx",
+      "pages": 1,
+      "bytes": 38759,
+      "sha256": "a15261671ebcb6f69be32ca798c9ba77eccfe05e90c438e176dcd9fb3c6be337"
+    },
+    {
+      "path": "web/public/downloads/sun-yingjie-resume.pdf",
+      "pages": 1,
+      "bytes": 215491,
+      "sha256": "f00b5ccb53b8508809fc8dcdf6e72fda0cfb1a7d34bda08ff8e8dbfe63d480e9"
+    }
+  ],
+  "visualReview": "Recorded separately in docs/document-refinement-v3.md; text checks do not substitute for visual inspection."
+}

@@ -1,7 +1,7 @@
 import { Suspense, useEffect, useMemo, useRef, useState } from 'react'
 import { Canvas, useFrame, useThree } from '@react-three/fiber'
 import { useGLTF } from '@react-three/drei'
-import { Bloom, DepthOfField, EffectComposer, SMAA } from '@react-three/postprocessing'
+import { DepthOfField, EffectComposer, SMAA } from '@react-three/postprocessing'
 import { DepthOfFieldEffect } from 'postprocessing'
 import * as THREE from 'three'
 import { asset } from '../data/workDocs'
@@ -105,19 +105,25 @@ function FocusEffects({ focus, mobile, enabled }: { focus: THREE.Vector3; mobile
   const dof = useRef<DepthOfFieldEffect>(null)
   useFrame(() => { dof.current?.target?.copy(focus) })
   return <EffectComposer multisampling={0} enabled={enabled}>
-    <DepthOfField ref={dof} target={[0, 2, 0]} worldFocusRange={1.1} bokehScale={mobile ? .5 : 1.1} height={mobile ? 360 : 540} />
-    <Bloom intensity={.35} luminanceThreshold={.82} luminanceSmoothing={.3} mipmapBlur /><SMAA />
+    <DepthOfField ref={dof} target={[0, 2, 0]} worldFocusRange={1.6} bokehScale={mobile ? .15 : .4} height={mobile ? 360 : 540} />
+    <SMAA />
   </EffectComposer>
 }
 export default function PortraitScene({ active, reduced, ready, onReady }: { active: boolean; reduced: boolean; ready: boolean; onReady: (ready: boolean) => void }) {
   const [lowPerformance, setLowPerformance] = useState(false)
-  const mobile = window.matchMedia('(max-width: 640px)').matches
+  const [mobile, setMobile] = useState(() => window.matchMedia('(max-width: 640px)').matches)
+  useEffect(() => {
+    const query = window.matchMedia('(max-width: 640px)')
+    const change = () => setMobile(query.matches)
+    query.addEventListener('change', change)
+    return () => query.removeEventListener('change', change)
+  }, [])
   const focus = useMemo(() => new THREE.Vector3(0, 2, 0), [])
   return <div className="canvas-shell" style={{ opacity: ready ? 1 : 0 }} aria-hidden="true"><Canvas dpr={mobile || lowPerformance ? 1 : [1, 1.5]} frameloop={active ? (reduced || lowPerformance ? 'demand' : 'always') : 'never'} camera={{ position: [0, 1.9, 6], fov: 36 }} gl={{ antialias: false, alpha: true, powerPreference: 'low-power', toneMapping: THREE.ACESFilmicToneMapping }}>
-    <hemisphereLight args={['#ffffff', '#bfc5ca', 1.7]} /><ambientLight intensity={.6} />
-    <directionalLight position={[-3, 4, 6]} intensity={1.35} color="#ffffff" /><directionalLight position={[3, 2.4, 5]} intensity={.9} color="#f5f7ff" /><directionalLight position={[-4, 4, -3]} intensity={.45} color="#e8efff" />
+    <hemisphereLight args={['#fff5e5', '#526855', .95]} /><ambientLight intensity={.2} />
+    <directionalLight position={[-3, 4, 6]} intensity={2} color="#fff3df" /><directionalLight position={[3, 2.4, 5]} intensity={.55} color="#e5edff" /><directionalLight position={[-4, 4, -3]} intensity={.8} color="#eff5e6" />
     <Suspense fallback={null}><Character reduced={reduced || lowPerformance} onReady={onReady} focus={focus} onSlow={() => setLowPerformance(true)} />
-      <FocusEffects focus={focus} mobile={mobile} enabled={!lowPerformance} />
+      <FocusEffects focus={focus} mobile={mobile} enabled={!lowPerformance && !reduced} />
     </Suspense>
   </Canvas></div>
 }

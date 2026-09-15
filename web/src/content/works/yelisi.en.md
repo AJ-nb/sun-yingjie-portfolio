@@ -19,11 +19,15 @@ The brand and product concepts are collaborative work. This case presents the ev
 
 ## Key question
 
-The early S curve created a strong bodily association, but the English name and curve dominated the identity. The later direction needed to give Chinese meaning and the stable structure of a personal seal priority, while retaining a subtler bodily quality.
+The earlier S curve suggests the body but makes the English working name the center of recognition. Moving to a Chinese name requires a new hierarchy between meaning, seal and negative space, rather than simply replacing a wordmark. Internal preference must remain distinct from demonstrated recognition improvement.
 
 ## Design process
 
-The Songnasty phase explored the combination of a curve and a seal. In YELISI, the meanings of night, ritual and authority guide the structure: a near-square seal establishes a boundary, seal-script-inspired strokes organise the interior, and the bodily curve moves into the central negative space.
+The May 2026 record preserves four stages: Songnasty exploration, concerns about the earlier name and recognition center, a Chinese-seal direction, and confirmation of YELISI. Curves and the seal character remain, while English-first recognition and explicit bodily associations become secondary.
+
+Night establishes a private setting, ritual suggests order and authority suggests agency. The near-square seal creates a boundary, seal-inspired strokes organize the interior and the bodily curve enters the negative space. This is the project's design interpretation, without consumer testing establishing the degree of improvement.
+
+Application studies connect a snake-shaped body, magnetic joint and velvet-flower butterfly with support, connection and narrative. The presentation needs to explain structure alongside ritual expression rather than obscure the wearing relationship with atmosphere.
 
 ![The earlier Songnasty identity](/works/brand/yelisi/songnasty-historical-logo.webp)
 
@@ -45,17 +49,9 @@ The brand study also extends to a snake-shaped mouth-held body and a magnetic bu
 
 ## Outcome and stage
 
-The work establishes a continuous evolution from the early name to the current identity, alongside a concept for the product connection. Mark proportions, typography and applications still require refinement. The body object remains a concept; mouth-contact materials, magnetic strength and ergonomics require physical testing.
+The work establishes a continuous evolution of name and identity, with concept studies of the snake-shaped body and butterfly accessory. Mark proportions, the Chinese wordmark, small-area recognition and applications still need refinement. Songnasty remains a historical phase rather than an additional project.
 
-<!-- refinement-v2 -->
-
-### Brand objective and product applications
-
-The objective is a restrained, recognizable identity for intimate photography props and body objects. The Chinese name carries meaning, the near-square seal establishes a boundary, and the central negative space carries a bodily association. These roles keep the identity from relying on an S monogram alone.
-
-The May 2026 record preserves four stages: Songnasty exploration, problems with the earlier name and recognition hierarchy, a move toward Chinese seal semantics, and confirmation of the YELISI direction. Curves and the seal structure remain; English-first recognition and more explicit bodily associations become secondary. These are internal design judgments, without a consumer recognition study establishing an improvement.
-
-The product concept relates a snake-shaped support, magnetic connection and velvet-flower butterfly: structure provides support, while the accessory carries the narrative. Applications need to check small-area legibility, the Chinese wordmark and the balance between ritual expression and readable structure in product presentation. The material establishes concept and guideline research, not tested wearability, safety or manufacturing.
+The body object remains a concept. Oral-contact materials, magnetic strength, support, release and ergonomics have not been physically validated. Dimensions shown are design annotations, not evidence of wearability, safety or completed production.
 
 ### Sources
 

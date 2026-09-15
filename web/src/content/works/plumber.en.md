@@ -11,7 +11,10 @@ tags: ["Product systems", "Municipal maintenance", "Service design", "Gamified i
 
 ## Background
 
-PLUMBER starts with sediment buildup and underground maintenance, bringing a cleaning robot, an underground service station and a public-participation interface into one service proposal. It explores deployment, the presentation of task information, and relationships between municipal workers, residents and administrators.
+Equipment, task state and participants are often considered separately in underground maintenance. PLUMBER starts with sediment buildup and brings a cleaning robot, an underground service station and a public-participation interface into one municipal service proposal.
+
+<details>
+<summary>Source boards · background and proposal</summary>
 
 ![PLUMBER project opening](/works/documents/portfolio-51/003.webp)
 
@@ -19,27 +22,49 @@ PLUMBER starts with sediment buildup and underground maintenance, bringing a cle
 
 ![Concept framework for gamification and public participation](/works/documents/portfolio-51/005.webp)
 
+</details>
+
 ## My role
 
-This is a collaborative project. The material presents the team’s service mapping, form exploration, component organization, interfaces and scene visualization.
+This is collaborative work, with the original boards' credits retained. The team material covers service mapping, product form, component organization, interfaces and visualization. The existing record does not assign every activity to an individual, so these activities are not all claimed as personally led.
 
 ## Key question
 
-The central question is how to translate underground work into understandable actions and feedback. The proposal uses a gamified interface to connect public participation with equipment status. Control permissions, professional supervision and task boundaries remain system questions for further development.
+The central tension is that making underground work understandable does not mean giving every participant direct control. The original proposal links public participation and equipment state through a gamified interface. Control permissions, professional supervision and exception handling remain incompletely defined.
+
+<details>
+<summary>Source boards · roles and service relationships</summary>
 
 ![Storyboard and service-system blueprint](/works/documents/portfolio-51/006.webp)
 
 ![Roles and user journey](/works/documents/portfolio-51/007.webp)
 
+</details>
+
 ## Design process
 
-Storyboards, a service-system blueprint and user journeys connect the different roles. Sketches and AIGC explorations then develop the robot’s form. Later pages organize scanning, cleaning, cruising and returning to the station into a proposed workflow, followed by visual direction, interface screens and exploded views of the robot and station.
+### Connect the roles before arranging the equipment
+
+Storyboards, service blueprints and journeys place workers, residents and administrators in a shared service relationship. The robot and station can then be read as parts of a continuing operation rather than isolated forms.
+
+### Explain the product through work stages
+
+The proposal sequences scanning, cleaning, cruising and return to the station, supported by imaging diagrams and component views. Sketches and AIGC studies document form exploration; they do not validate cleaning mechanisms, imaging or locomotion.
+
+### Review participation and operational authority separately
+
+Operation, monitoring and points screens give different information visible entry points. The retrospective recommendation is to use game elements first for explaining state and participation feedback. Granting equipment control needs separate professional operating rules. This is a next-step judgment, not an implemented permissions system in the original proposal.
+
+![Proposed scanning, cleaning and return-to-station workflow](/works/documents/portfolio-51/010.webp)
+
+![Robot and station exploded and orthographic views](/works/documents/portfolio-51/014.webp)
+
+<details>
+<summary>Source boards and supplementary material · research, sketches and interface</summary>
 
 ![Robot sketches and AIGC form exploration](/works/documents/portfolio-51/008.webp)
 
 ![Product visualization, colors and material ideas](/works/documents/portfolio-51/009.webp)
-
-![Proposed scanning, cleaning and return-to-station workflow](/works/documents/portfolio-51/010.webp)
 
 ![Proposed recognition and imaging sequence](/works/documents/portfolio-51/011.webp)
 
@@ -47,11 +72,12 @@ Storyboards, a service-system blueprint and user journeys connect the different 
 
 ![Operation, monitoring and points screens](/works/documents/portfolio-51/013.webp)
 
-![Robot and station exploded and orthographic views](/works/documents/portfolio-51/014.webp)
+</details>
 
-### Original project renders
+<details>
+<summary>Original project renders · retained views</summary>
 
-These views come from the original model worksets and document form, component relationships and scene visualization. Existing renders were selected and prepared for this edition; the collaborative credits and the proposal’s stated scope remain applicable.
+These renders come from the original model worksets and preserve the existing form and views. They are not photographs or operational tests.
 
 ![Robot three-quarter view](/works/refinement-v2/plumber/three-quarter.webp)
 
@@ -75,9 +101,11 @@ These views come from the original model worksets and document form, component r
 
 ![Underground wide shot](/works/refinement-v2/plumber/underground-wide.webp)
 
+</details>
+
 ## Final work
 
-The final visual proposal combines the robot, service station and underground environment with control, monitoring, settlement and points screens. Warm identification areas contrast with darker mechanical parts; scene renders communicate spatial relationships between the products.
+The visual proposal combines the robot, station and underground environment with control, monitoring, settlement and points pages. Warm identification areas contrast with darker mechanical parts. Scenes explain placement and are not records of underground operation.
 
 ![Underground cleaning-robot scene render](/works/documents/portfolio-51/015.webp)
 
@@ -87,10 +115,19 @@ The final visual proposal combines the robot, service station and underground en
 
 ## Outcome and stage
 
-The outcome is a concept proposal spanning service, product, interface and scene design. It remains a design presentation; equipment operation, cleaning performance and the effects of gamified participation have not been validated. Corresponding pages from an earlier presentation version follow.
+The outcome is a concept spanning service, product, interface and scene design. Equipment operation, cleaning performance, underground communication, exception recovery and public-participation effects lack operational validation. The website's step sequence explains the proposal and does not control real equipment.
+
+### The next judgment to validate
+
+Walk through tasks to establish what professionals and public participants can each see and do before connecting the interface to equipment. Additional game feedback alone cannot resolve that question. Earlier boards remain available for comparison.
+
+<details>
+<summary>Source boards and supplementary material · earlier presentation</summary>
 
 ![Earlier presentation version: Proposed scanning, cleaning and return-to-station workflow](/works/documents/legacy-full-portfolio/010.webp)
 
 ![Earlier presentation version: Operation, monitoring and points screens](/works/documents/legacy-full-portfolio/013.webp)
 
 ![Earlier presentation version: PLUMBER visual presentation](/works/documents/legacy-full-portfolio/017.webp)
+
+</details>

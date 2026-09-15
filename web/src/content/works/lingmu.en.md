@@ -23,13 +23,15 @@ This is a collaborative project. The material covers use scenarios, a user journ
 
 ## Key question
 
-The key question is how to place washing areas and controls within a user’s reach while accommodating different physical conditions. Module height, movement range and approach to the head and body guide the layout exploration.
+Reach depends on a person's body, posture and a wet environment; it cannot be established from a scale figure alone. Head and body modules need to be considered with approach direction, adjustment range and control location before independent bathing can be assessed.
 
 ![Bathing roles, journey and interaction scenarios](/works/documents/portfolio-51/039.webp)
 
 ## Design process
 
-Early pages use personal scenarios and a journey to organize interaction barriers. Sketches explore both the overall shower layout and local cleaning modules. The developed proposal shows a vertical arrangement, adjustable washing parts, control locations and material ideas, with human figures communicating the relationship to the body.
+The proposal uses scenarios, a journey and hair-washing storyboards to organize barriers, then develops a vertical device and local cleaning modules through sketches. Exploded and use views explain controls, movement and their relationship to the body.
+
+This retrospective follows the continuous approach, operation and exit sequence. Exports from the original PSD files retain sketches, CMF and scenes. Illustrated postures communicate layout but do not replace wet-area trials with different users.
 
 ![Bathing-equipment sketches and form directions](/works/documents/portfolio-51/040.webp)
 
@@ -37,9 +39,8 @@ Early pages use personal scenarios and a journey to organize interaction barrier
 
 ![Modules, controls and human-scale relationships](/works/documents/portfolio-51/042.webp)
 
-### PSD boards and product details
-
-These images were exported from the original layered files in Photoshop and converted to sRGB. Isolated layers reveal product details, while native boards retain sketches and layout development. The collaborative status and original credit information remain applicable.
+<details>
+<summary>Source boards and supplementary material · PSD exports and details</summary>
 
 ![LINGMU native opening board](/works/refinement-v2/psd-lingmu/opening.webp)
 
@@ -58,6 +59,8 @@ These images were exported from the original layered files in Photoshop and conv
 ![Isolated body-cleaning module layer](/works/refinement-v2/psd-lingmu/body-module.webp)
 
 ![Isolated front-view layer](/works/refinement-v2/psd-lingmu/front-view.webp)
+
+</details>
 
 ## Final work
 

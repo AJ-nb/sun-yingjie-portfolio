@@ -16,5 +16,6 @@ tmp/
 deliverables/**/qa/
 deliverables/**/preview/
 design/qa-r2/
+design/qa-v3/
 docs/qa-r2-*.png
 deliverables/resume/resume-review.png

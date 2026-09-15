@@ -25,13 +25,15 @@ This is a collaborative project. The material covers use scenarios, module combi
 
 ## Key question
 
-When several care functions share one body, module identification, replacement actions and storage relationships need to remain clear. The design explores understandable combinations while allowing different contact areas to retain their own form requirements.
+A common handle can unify carrying and storage, but brushing, facial cleansing and scalp care involve different contact areas. Attachments need clear identities and replacement, cleaning and storage sequences. Similar shapes do not imply identical hygiene or drive requirements.
 
 ![Packing, use and maintenance journey](/works/documents/portfolio-51/032.webp)
 
 ## Design process
 
-The user journey extends from packing through use and maintenance. Sketches then explore the relationship between the handle and care attachments. Product pages show how the modules are held and used, while low- and high-fidelity app screens express modes and information organization.
+The original journey moves from packing to use and maintenance, with sketches exploring the handle and attachment proportions. Different ends identify the care functions, while shared contours and colors hold the family together.
+
+Low- and high-fidelity app screens add mode and information organization. The material supports comparison of physical modules with interface naming; connections, water resistance and cleaning performance still need prototypes and cannot be inferred from screen completeness.
 
 ![Modular personal-care sketches](/works/documents/portfolio-51/033.webp)
 
@@ -45,7 +47,8 @@ The final presentation combines care attachments with a consistent silhouette an
 
 ![GO GLOW product-family render](/works/documents/portfolio-51/036.webp)
 
-### Material, lighting and scene details
+<details>
+<summary>Source boards and supplementary material · lighting and scenes</summary>
 
 ![GO GLOW personal-care arrangement](/works/refinement-v2/rendering-pdf/002.webp)
 
@@ -71,8 +74,15 @@ The final presentation combines care attachments with a consistent silhouette an
 
 ![Care modules and floral composition](/works/refinement-v2/rendering-pdf/044.webp)
 
+</details>
+
 ## Outcome and stage
 
 The outcome is a product and interface concept proposal. Module connections, water resistance, cleaning performance and practical storage require prototypes and testing. An earlier version of the background presentation page follows.
 
+<details>
+<summary>Source boards and supplementary material · earlier presentation</summary>
+
 ![Earlier presentation version: Travel-care background and original proposal research charts](/works/documents/legacy-full-portfolio/030.webp)
+
+</details>

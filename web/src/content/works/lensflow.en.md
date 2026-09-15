@@ -11,19 +11,29 @@ tags: ["AI workflow", "Chrome extension", "Local-first", "Interaction design"]
 
 ## Background
 
-Lensflow focuses on the path from a reference image to reusable creative assets. Capture, analysis, prompts, reference relationships and generated results share one workspace so that the creative process can be organised and reused.
+After capture, analysis and generation, a reference image can easily leave only a final output behind. Lensflow keeps sources, local measurements, analysis, editable briefs, reference relationships and results together so the next creative task can understand and reuse earlier inputs.
 
 ## My role
 
-Product and interaction work is collaborative, with AI-assisted implementation and open-source components. This case focuses on workspace organisation, the first-use path and continuity across generation tasks.
+Product and interaction work is collaborative, with AI-assisted implementation and open-source components. This case focuses on workspace organization, first use and task continuity; dependency licenses are retained. The demonstration lamp explains the interface and is not counted as a new industrial design outcome.
 
 ## Key question
 
-How does an analysis inform the next creation? How can completed results survive a partly failed generation batch? How does a new user understand the sequence? These questions shape the workspace structure.
+A model analysis should not become an uneditable generation command. One failed item in a batch should not erase completed results. The workspace needs to preserve the user's opportunity to change inputs and make the location of a partial failure clear.
 
 ## Design process
 
-The flow starts with capture and local measurements, moves into structured analysis and an editable brief, then organises generation inputs through prompts, composition, colour, form and reference relationships. Persistent tasks keep completed results and let users manually fill failed slots. Onboarding and a local demo explain the sequence before a service is configured.
+### Measure first, then build an editable interpretation
+
+Web images, local images or selected text enter the workspace. Local tools obtain dimensions, aspect ratio, hashes and palettes before a model adds structured analysis and prompt variants. Users edit the brief and organize references along style, subject, composition, color and dynamics, reviewing the current inputs before submission.
+
+### Recover a batch at the individual result position
+
+Each generation position is persisted separately. Successful results survive a partial failure; failed positions await manual refill rather than an automatic whole-batch rerun. Captures, analyses, prompts, references, jobs and assets remain separate records, preserving input traceability after download or collection.
+
+### Let understanding precede service configuration
+
+The first-use guide contains read-only, precomputed content with generation disabled. Demo and live workspaces are separate, so the sequence can be understood before a provider is configured. This edition's interactive explanation also uses fixed examples to demonstrate editing and recovery, not live model calls.
 
 ![Lensflow onboarding and demo workspace](/works/digital/lensflow/studio-guide.webp)
 
@@ -31,7 +41,7 @@ The flow starts with capture and local measurements, moves into structured analy
 
 ## Final work
 
-The product includes a Chrome extension, the Studio workspace and a public product site. Collections, the current task and service settings sit alongside each other. Analysis keeps the image, palette and written information connected.
+The Chrome extension brings capture into browsing; Studio connects collections, current tasks and service settings; the public site provides an entry point. Images, palettes and written analysis remain associated, letting users return from a result to its inputs without reconstructing a one-off conversation.
 
 ![Lensflow image analysis and structured results](/works/digital/lensflow/studio-analysis.webp)
 
@@ -39,23 +49,11 @@ The product includes a Chrome extension, the Studio workspace and a public produ
 
 ## Outcome and stage
 
-The work includes an accessible product site and an extension workflow. The screenshots show v0.3.0; development later reached v0.3.3. Compatibility with external models and integrations still depends on the particular service. Full mobile editing, accounts and cloud sync are outside the current delivery scope.
+The independent project line began on 29 August 2026 and reached v0.3.3 on 1 September. The retained captures show the v0.3.0 demo and are not relabeled as later screens. Biyuan, OpenAI-compatible and ComfyUI adapters exist, but universal live compatibility is unestablished; model availability depends on the configured account.
+
+This is a Chrome extension and product website. Earlier Yantai work and related working copies remain development context rather than additional projects. Full mobile editing, accounts and cloud synchronization are outside this case's delivery scope.
 
 [Explore Lensflow](https://aj-nb.github.io/lensflow/)
-
-<!-- refinement-v2 -->
-
-### From input to a traceable result
-
-Inputs come from webpage images, local images or selected text. Local tools first obtain dimensions, aspect ratio, hashes and palettes; a model then provides structured analysis and prompt variants. Users edit the brief and organize references along five axes: style, subject, composition, color and dynamics. Preflight checks the current input before submission.
-
-Each position in a generation batch has its own record. When a batch partly fails, successful results remain and failed positions wait for manual refill. Automatic resubmission of the entire batch is not the default recovery path. Results can be downloaded, added to a collection or actively exported. Captures, analyses, prompts, references, jobs and assets are separate records, keeping the next creative task connected to its inputs.
-
-### Human judgment and version boundaries
-
-The real workspace and demonstration are separate. The guide shown here uses read-only, precomputed content with generation disabled; it is not evidence of a live model call. Model choices are retrieved after users configure their service. Biyuan, OpenAI-compatible and ComfyUI adapters exist, while universal live compatibility remains unestablished. Available models depend on the service and account response.
-
-An independent project line began on 29 August 2026 and reached v0.3.3 by 1 September; the retained screenshots show v0.3.0. This is a Chrome extension and product website, not a custom browser. Earlier Yantai experiments and related working copies remain development context and are not counted as separate projects.
 
 ### Sources
 

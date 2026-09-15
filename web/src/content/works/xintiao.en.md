@@ -19,13 +19,21 @@ Participation covers product structure, interaction, visual design and adaptatio
 
 ## Key question
 
-Income must follow work-span rules rather than animation, including overnight shifts and lunch breaks. Initial setup needs to be understandable without interrupting everyday review.
+Real-time income should follow work rules; animation provides feedback rather than calculation. Overnight work and lunch breaks make configuration especially important. First use needs clear inputs, while everyday review should require little interruption.
 
 ## Design process
 
-Three onboarding steps establish salary type, work hours and lunch breaks, validating the relevant inputs at each step. Completion returns to Today. The amount is recomputed from real time; the heartbeat controls refresh frequency rather than accumulating income in the background. Overnight shifts follow the reused salary core's work-span logic.
+### Establish rules before showing live amounts
 
-The primary navigation is Today / Days. Days connects a calendar and monthly summaries to daily income estimates, hours, overtime, mood and a short note. Settings have a separate entry. Appearance settings collect theme, currency symbol and reduced motion options while preserving the amount and state hierarchy.
+Three onboarding steps configure salary type, work times and lunch, validating each input group. Completion returns to Today, with income recomputed from real time. Refresh timing sets the frequency rather than accumulating money in the background. Overnight work follows the reused core's work-span rules.
+
+### Separate today from history
+
+The main navigation is Today / Days. Today prioritizes the amount, explained by status, countdown and progress; the calendar and monthly summaries lead to daily estimates, hours, overtime, mood and notes. Settings have a separate entrance.
+
+### Keep character and appearance behind information
+
+The toaster character, theme, currency and reduced-motion options offer expression while income and state retain priority. A shared component controls ten PNG poses; native pages, subpackages and local storage support the platform implementation. Saving a theme choice does not prove correct rendering, so the recorded simulator issue remains in the stage boundary.
 
 ## Final work
 

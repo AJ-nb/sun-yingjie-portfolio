@@ -1,0 +1,1767 @@
+{
+  "createdAt": "2026-09-15T04:53:26.068026+00:00",
+  "input": "E:\\文件\\项目\\portfolio\\deliverables\\portfolio\\sun-yingjie-portfolio.pdf",
+  "output": "E:\\文件\\项目\\portfolio\\deliverables\\portfolio\\sun-yingjie-portfolio-web.pdf",
+  "sourceSha256": "16406ea8e3f3280a5d349db7be9f1e1f62746016b5e0b552221dfcc048ed16ea",
+  "sourceBytes": 54326388,
+  "outputSha256": "a2628f82b3dfa01322fd2ecb780b6e35fcf70b10941d5e1f7c64eb1be4fe0778",
+  "outputBytes": 20397286,
+  "maxBytesExclusive": 20971520,
+  "sourceUnchanged": true,
+  "pageCount": 116,
+  "outlineCount": 39,
+  "linkCount": 256,
+  "attempts": [
+    {
+      "maxImageEdge": 1800,
+      "jpegQuality": 80,
+      "subsampling": "4:4:4",
+      "optimizeHuffman": true,
+      "imageCount": 123,
+      "bytes": 20397286,
+      "underLimit": true
+    }
+  ],
+  "checks": {
+    "pageCount": true,
+    "pageSizes": true,
+    "pageText": true,
+    "pageContentHashes": true,
+    "outlines": true,
+    "links": true
+  },
+  "images": [
+    {
+      "objectId": 49,
+      "firstPage": 1,
+      "sourceDimensions": [
+        1280,
+        1810
+      ],
+      "webDimensions": [
+        1273,
+        1800
+      ],
+      "sourceEncodedBytes": 172122,
+      "webEncodedBytes": 99282
+    },
+    {
+      "objectId": 50,
+      "firstPage": 1,
+      "sourceDimensions": [
+        1553,
+        1080
+      ],
+      "webDimensions": [
+        1553,
+        1080
+      ],
+      "sourceEncodedBytes": 377859,
+      "webEncodedBytes": 222686
+    },
+    {
+      "objectId": 51,
+      "firstPage": 1,
+      "sourceDimensions": [
+        2400,
+        848
+      ],
+      "webDimensions": [
+        1800,
+        636
+      ],
+      "sourceEncodedBytes": 460789,
+      "webEncodedBytes": 150341
+    },
+    {
+      "objectId": 59,
+      "firstPage": 6,
+      "sourceDimensions": [
+        1280,
+        1737
+      ],
+      "webDimensions": [
+        1280,
+        1737
+      ],
+      "sourceEncodedBytes": 692940,
+      "webEncodedBytes": 398469
+    },
+    {
+      "objectId": 60,
+      "firstPage": 6,
+      "sourceDimensions": [
+        1080,
+        1154
+      ],
+      "webDimensions": [
+        1080,
+        1154
+      ],
+      "sourceEncodedBytes": 396999,
+      "webEncodedBytes": 236005
+    },
+    {
+      "objectId": 61,
+      "firstPage": 6,
+      "sourceDimensions": [
+        1115,
+        1553
+      ],
+      "webDimensions": [
+        1115,
+        1553
+      ],
+      "sourceEncodedBytes": 542788,
+      "webEncodedBytes": 323140
+    },
+    {
+      "objectId": 66,
+      "firstPage": 7,
+      "sourceDimensions": [
+        1280,
+        1920
+      ],
+      "webDimensions": [
+        1200,
+        1800
+      ],
+      "sourceEncodedBytes": 488598,
+      "webEncodedBytes": 250404
+    },
+    {
+      "objectId": 67,
+      "firstPage": 7,
+      "sourceDimensions": [
+        1280,
+        1707
+      ],
+      "webDimensions": [
+        1280,
+        1707
+      ],
+      "sourceEncodedBytes": 423227,
+      "webEncodedBytes": 240104
+    },
+    {
+      "objectId": 68,
+      "firstPage": 7,
+      "sourceDimensions": [
+        1280,
+        1707
+      ],
+      "webDimensions": [
+        1280,
+        1707
+      ],
+      "sourceEncodedBytes": 452668,
+      "webEncodedBytes": 267671
+    },
+    {
+      "objectId": 73,
+      "firstPage": 8,
+      "sourceDimensions": [
+        1080,
+        1239
+      ],
+      "webDimensions": [
+        1080,
+        1239
+      ],
+      "sourceEncodedBytes": 281584,
+      "webEncodedBytes": 160683
+    },
+    {
+      "objectId": 74,
+      "firstPage": 8,
+      "sourceDimensions": [
+        1080,
+        1440
+      ],
+      "webDimensions": [
+        1080,
+        1440
+      ],
+      "sourceEncodedBytes": 318343,
+      "webEncodedBytes": 187503
+    },
+    {
+      "objectId": 75,
+      "firstPage": 8,
+      "sourceDimensions": [
+        1083,
+        1080
+      ],
+      "webDimensions": [
+        1083,
+        1080
+      ],
+      "sourceEncodedBytes": 290499,
+      "webEncodedBytes": 170233
+    },
+    {
+      "objectId": 80,
+      "firstPage": 9,
+      "sourceDimensions": [
+        1440,
+        1080
+      ],
+      "webDimensions": [
+        1440,
+        1080
+      ],
+      "sourceEncodedBytes": 408333,
+      "webEncodedBytes": 242838
+    },
+    {
+      "objectId": 81,
+      "firstPage": 9,
+      "sourceDimensions": [
+        1080,
+        1398
+      ],
+      "webDimensions": [
+        1080,
+        1398
+      ],
+      "sourceEncodedBytes": 363275,
+      "webEncodedBytes": 213929
+    },
+    {
+      "objectId": 86,
+      "firstPage": 10,
+      "sourceDimensions": [
+        1280,
+        1707
+      ],
+      "webDimensions": [
+        1280,
+        1707
+      ],
+      "sourceEncodedBytes": 402462,
+      "webEncodedBytes": 238101
+    },
+    {
+      "objectId": 102,
+      "firstPage": 14,
+      "sourceDimensions": [
+        1280,
+        960
+      ],
+      "webDimensions": [
+        1280,
+        960
+      ],
+      "sourceEncodedBytes": 78281,
+      "webEncodedBytes": 36279
+    },
+    {
+      "objectId": 103,
+      "firstPage": 14,
+      "sourceDimensions": [
+        1280,
+        1280
+      ],
+      "webDimensions": [
+        1280,
+        1280
+      ],
+      "sourceEncodedBytes": 181566,
+      "webEncodedBytes": 95449
+    },
+    {
+      "objectId": 104,
+      "firstPage": 14,
+      "sourceDimensions": [
+        1280,
+        1280
+      ],
+      "webDimensions": [
+        1280,
+        1280
+      ],
+      "sourceEncodedBytes": 83296,
+      "webEncodedBytes": 38918
+    },
+    {
+      "objectId": 109,
+      "firstPage": 15,
+      "sourceDimensions": [
+        1280,
+        1810
+      ],
+      "webDimensions": [
+        1273,
+        1800
+      ],
+      "sourceEncodedBytes": 167333,
+      "webEncodedBytes": 102464
+    },
+    {
+      "objectId": 110,
+      "firstPage": 15,
+      "sourceDimensions": [
+        1280,
+        1280
+      ],
+      "webDimensions": [
+        1280,
+        1280
+      ],
+      "sourceEncodedBytes": 82509,
+      "webEncodedBytes": 40668
+    },
+    {
+      "objectId": 111,
+      "firstPage": 15,
+      "sourceDimensions": [
+        898,
+        898
+      ],
+      "webDimensions": [
+        898,
+        898
+      ],
+      "sourceEncodedBytes": 34577,
+      "webEncodedBytes": 16969
+    },
+    {
+      "objectId": 116,
+      "firstPage": 16,
+      "sourceDimensions": [
+        1280,
+        1280
+      ],
+      "webDimensions": [
+        1280,
+        1280
+      ],
+      "sourceEncodedBytes": 215954,
+      "webEncodedBytes": 103973
+    },
+    {
+      "objectId": 117,
+      "firstPage": 16,
+      "sourceDimensions": [
+        1125,
+        2000
+      ],
+      "webDimensions": [
+        1012,
+        1800
+      ],
+      "sourceEncodedBytes": 710021,
+      "webEncodedBytes": 331299
+    },
+    {
+      "objectId": 118,
+      "firstPage": 16,
+      "sourceDimensions": [
+        959,
+        720
+      ],
+      "webDimensions": [
+        959,
+        720
+      ],
+      "sourceEncodedBytes": 94192,
+      "webEncodedBytes": 50589
+    },
+    {
+      "objectId": 123,
+      "firstPage": 17,
+      "sourceDimensions": [
+        1280,
+        560
+      ],
+      "webDimensions": [
+        1280,
+        560
+      ],
+      "sourceEncodedBytes": 252700,
+      "webEncodedBytes": 155330
+    },
+    {
+      "objectId": 135,
+      "firstPage": 20,
+      "sourceDimensions": [
+        2400,
+        1350
+      ],
+      "webDimensions": [
+        1800,
+        1013
+      ],
+      "sourceEncodedBytes": 374219,
+      "webEncodedBytes": 129602
+    },
+    {
+      "objectId": 140,
+      "firstPage": 21,
+      "sourceDimensions": [
+        2400,
+        1350
+      ],
+      "webDimensions": [
+        1800,
+        1013
+      ],
+      "sourceEncodedBytes": 292125,
+      "webEncodedBytes": 100283
+    },
+    {
+      "objectId": 145,
+      "firstPage": 22,
+      "sourceDimensions": [
+        2400,
+        1350
+      ],
+      "webDimensions": [
+        1800,
+        1013
+      ],
+      "sourceEncodedBytes": 300321,
+      "webEncodedBytes": 103628
+    },
+    {
+      "objectId": 150,
+      "firstPage": 23,
+      "sourceDimensions": [
+        2400,
+        1350
+      ],
+      "webDimensions": [
+        1800,
+        1013
+      ],
+      "sourceEncodedBytes": 443513,
+      "webEncodedBytes": 148365
+    },
+    {
+      "objectId": 155,
+      "firstPage": 24,
+      "sourceDimensions": [
+        2400,
+        1350
+      ],
+      "webDimensions": [
+        1800,
+        1013
+      ],
+      "sourceEncodedBytes": 328272,
+      "webEncodedBytes": 103817
+    },
+    {
+      "objectId": 160,
+      "firstPage": 25,
+      "sourceDimensions": [
+        2400,
+        1350
+      ],
+      "webDimensions": [
+        1800,
+        1013
+      ],
+      "sourceEncodedBytes": 268386,
+      "webEncodedBytes": 91322
+    },
+    {
+      "objectId": 165,
+      "firstPage": 26,
+      "sourceDimensions": [
+        2400,
+        848
+      ],
+      "webDimensions": [
+        1800,
+        636
+      ],
+      "sourceEncodedBytes": 227298,
+      "webEncodedBytes": 87338
+    },
+    {
+      "objectId": 170,
+      "firstPage": 27,
+      "sourceDimensions": [
+        2400,
+        1350
+      ],
+      "webDimensions": [
+        1800,
+        1013
+      ],
+      "sourceEncodedBytes": 309932,
+      "webEncodedBytes": 111497
+    },
+    {
+      "objectId": 179,
+      "firstPage": 29,
+      "sourceDimensions": [
+        2400,
+        848
+      ],
+      "webDimensions": [
+        1800,
+        636
+      ],
+      "sourceEncodedBytes": 301424,
+      "webEncodedBytes": 105085
+    },
+    {
+      "objectId": 184,
+      "firstPage": 30,
+      "sourceDimensions": [
+        2400,
+        848
+      ],
+      "webDimensions": [
+        1800,
+        636
+      ],
+      "sourceEncodedBytes": 304250,
+      "webEncodedBytes": 88918
+    },
+    {
+      "objectId": 189,
+      "firstPage": 31,
+      "sourceDimensions": [
+        1700,
+        601
+      ],
+      "webDimensions": [
+        1700,
+        601
+      ],
+      "sourceEncodedBytes": 382404,
+      "webEncodedBytes": 231421
+    },
+    {
+      "objectId": 194,
+      "firstPage": 32,
+      "sourceDimensions": [
+        2400,
+        848
+      ],
+      "webDimensions": [
+        1800,
+        636
+      ],
+      "sourceEncodedBytes": 303059,
+      "webEncodedBytes": 102887
+    },
+    {
+      "objectId": 199,
+      "firstPage": 33,
+      "sourceDimensions": [
+        1600,
+        2000
+      ],
+      "webDimensions": [
+        1440,
+        1800
+      ],
+      "sourceEncodedBytes": 191245,
+      "webEncodedBytes": 75608
+    },
+    {
+      "objectId": 200,
+      "firstPage": 33,
+      "sourceDimensions": [
+        2000,
+        2000
+      ],
+      "webDimensions": [
+        1800,
+        1800
+      ],
+      "sourceEncodedBytes": 588025,
+      "webEncodedBytes": 234786
+    },
+    {
+      "objectId": 201,
+      "firstPage": 33,
+      "sourceDimensions": [
+        2000,
+        2000
+      ],
+      "webDimensions": [
+        1800,
+        1800
+      ],
+      "sourceEncodedBytes": 466705,
+      "webEncodedBytes": 176894
+    },
+    {
+      "objectId": 206,
+      "firstPage": 34,
+      "sourceDimensions": [
+        1887,
+        2000
+      ],
+      "webDimensions": [
+        1698,
+        1800
+      ],
+      "sourceEncodedBytes": 381537,
+      "webEncodedBytes": 141822
+    },
+    {
+      "objectId": 207,
+      "firstPage": 34,
+      "sourceDimensions": [
+        2000,
+        2000
+      ],
+      "webDimensions": [
+        1800,
+        1800
+      ],
+      "sourceEncodedBytes": 306339,
+      "webEncodedBytes": 120481
+    },
+    {
+      "objectId": 208,
+      "firstPage": 34,
+      "sourceDimensions": [
+        2000,
+        2000
+      ],
+      "webDimensions": [
+        1800,
+        1800
+      ],
+      "sourceEncodedBytes": 222093,
+      "webEncodedBytes": 88476
+    },
+    {
+      "objectId": 213,
+      "firstPage": 35,
+      "sourceDimensions": [
+        2000,
+        2000
+      ],
+      "webDimensions": [
+        1800,
+        1800
+      ],
+      "sourceEncodedBytes": 260518,
+      "webEncodedBytes": 104276
+    },
+    {
+      "objectId": 214,
+      "firstPage": 35,
+      "sourceDimensions": [
+        2000,
+        2000
+      ],
+      "webDimensions": [
+        1800,
+        1800
+      ],
+      "sourceEncodedBytes": 217955,
+      "webEncodedBytes": 85934
+    },
+    {
+      "objectId": 215,
+      "firstPage": 35,
+      "sourceDimensions": [
+        2000,
+        2000
+      ],
+      "webDimensions": [
+        1800,
+        1800
+      ],
+      "sourceEncodedBytes": 210145,
+      "webEncodedBytes": 84408
+    },
+    {
+      "objectId": 220,
+      "firstPage": 36,
+      "sourceDimensions": [
+        2000,
+        2000
+      ],
+      "webDimensions": [
+        1800,
+        1800
+      ],
+      "sourceEncodedBytes": 205600,
+      "webEncodedBytes": 79688
+    },
+    {
+      "objectId": 229,
+      "firstPage": 38,
+      "sourceDimensions": [
+        1700,
+        601
+      ],
+      "webDimensions": [
+        1700,
+        601
+      ],
+      "sourceEncodedBytes": 330500,
+      "webEncodedBytes": 196814
+    },
+    {
+      "objectId": 234,
+      "firstPage": 39,
+      "sourceDimensions": [
+        2400,
+        900
+      ],
+      "webDimensions": [
+        1800,
+        675
+      ],
+      "sourceEncodedBytes": 471664,
+      "webEncodedBytes": 165760
+    },
+    {
+      "objectId": 239,
+      "firstPage": 40,
+      "sourceDimensions": [
+        2400,
+        900
+      ],
+      "webDimensions": [
+        1800,
+        675
+      ],
+      "sourceEncodedBytes": 370940,
+      "webEncodedBytes": 131534
+    },
+    {
+      "objectId": 244,
+      "firstPage": 41,
+      "sourceDimensions": [
+        2400,
+        900
+      ],
+      "webDimensions": [
+        1800,
+        675
+      ],
+      "sourceEncodedBytes": 487242,
+      "webEncodedBytes": 188526
+    },
+    {
+      "objectId": 249,
+      "firstPage": 42,
+      "sourceDimensions": [
+        2400,
+        900
+      ],
+      "webDimensions": [
+        1800,
+        675
+      ],
+      "sourceEncodedBytes": 449266,
+      "webEncodedBytes": 174918
+    },
+    {
+      "objectId": 254,
+      "firstPage": 43,
+      "sourceDimensions": [
+        2400,
+        900
+      ],
+      "webDimensions": [
+        1800,
+        675
+      ],
+      "sourceEncodedBytes": 607010,
+      "webEncodedBytes": 241992
+    },
+    {
+      "objectId": 259,
+      "firstPage": 44,
+      "sourceDimensions": [
+        2400,
+        900
+      ],
+      "webDimensions": [
+        1800,
+        675
+      ],
+      "sourceEncodedBytes": 425017,
+      "webEncodedBytes": 146177
+    },
+    {
+      "objectId": 268,
+      "firstPage": 46,
+      "sourceDimensions": [
+        1127,
+        1548
+      ],
+      "webDimensions": [
+        1127,
+        1548
+      ],
+      "sourceEncodedBytes": 289231,
+      "webEncodedBytes": 165652
+    },
+    {
+      "objectId": 269,
+      "firstPage": 46,
+      "sourceDimensions": [
+        950,
+        838
+      ],
+      "webDimensions": [
+        950,
+        838
+      ],
+      "sourceEncodedBytes": 55476,
+      "webEncodedBytes": 30293
+    },
+    {
+      "objectId": 270,
+      "firstPage": 46,
+      "sourceDimensions": [
+        1204,
+        1561
+      ],
+      "webDimensions": [
+        1204,
+        1561
+      ],
+      "sourceEncodedBytes": 305292,
+      "webEncodedBytes": 175117
+    },
+    {
+      "objectId": 275,
+      "firstPage": 47,
+      "sourceDimensions": [
+        2400,
+        1628
+      ],
+      "webDimensions": [
+        1800,
+        1221
+      ],
+      "sourceEncodedBytes": 1195059,
+      "webEncodedBytes": 442968
+    },
+    {
+      "objectId": 280,
+      "firstPage": 48,
+      "sourceDimensions": [
+        2400,
+        900
+      ],
+      "webDimensions": [
+        1800,
+        675
+      ],
+      "sourceEncodedBytes": 365481,
+      "webEncodedBytes": 142167
+    },
+    {
+      "objectId": 285,
+      "firstPage": 49,
+      "sourceDimensions": [
+        2400,
+        900
+      ],
+      "webDimensions": [
+        1800,
+        675
+      ],
+      "sourceEncodedBytes": 441293,
+      "webEncodedBytes": 166756
+    },
+    {
+      "objectId": 290,
+      "firstPage": 50,
+      "sourceDimensions": [
+        2400,
+        900
+      ],
+      "webDimensions": [
+        1800,
+        675
+      ],
+      "sourceEncodedBytes": 583540,
+      "webEncodedBytes": 229768
+    },
+    {
+      "objectId": 295,
+      "firstPage": 51,
+      "sourceDimensions": [
+        2400,
+        900
+      ],
+      "webDimensions": [
+        1800,
+        675
+      ],
+      "sourceEncodedBytes": 636074,
+      "webEncodedBytes": 229232
+    },
+    {
+      "objectId": 300,
+      "firstPage": 52,
+      "sourceDimensions": [
+        2400,
+        900
+      ],
+      "webDimensions": [
+        1800,
+        675
+      ],
+      "sourceEncodedBytes": 613002,
+      "webEncodedBytes": 208486
+    },
+    {
+      "objectId": 305,
+      "firstPage": 53,
+      "sourceDimensions": [
+        2227,
+        1325
+      ],
+      "webDimensions": [
+        1800,
+        1071
+      ],
+      "sourceEncodedBytes": 172045,
+      "webEncodedBytes": 65584
+    },
+    {
+      "objectId": 310,
+      "firstPage": 54,
+      "sourceDimensions": [
+        1213,
+        1114
+      ],
+      "webDimensions": [
+        1213,
+        1114
+      ],
+      "sourceEncodedBytes": 167680,
+      "webEncodedBytes": 98995
+    },
+    {
+      "objectId": 315,
+      "firstPage": 55,
+      "sourceDimensions": [
+        1700,
+        601
+      ],
+      "webDimensions": [
+        1700,
+        601
+      ],
+      "sourceEncodedBytes": 121393,
+      "webEncodedBytes": 64647
+    },
+    {
+      "objectId": 320,
+      "firstPage": 56,
+      "sourceDimensions": [
+        1700,
+        601
+      ],
+      "webDimensions": [
+        1700,
+        601
+      ],
+      "sourceEncodedBytes": 363107,
+      "webEncodedBytes": 208792
+    },
+    {
+      "objectId": 325,
+      "firstPage": 57,
+      "sourceDimensions": [
+        2400,
+        1695
+      ],
+      "webDimensions": [
+        1800,
+        1271
+      ],
+      "sourceEncodedBytes": 716091,
+      "webEncodedBytes": 275699
+    },
+    {
+      "objectId": 330,
+      "firstPage": 58,
+      "sourceDimensions": [
+        1414,
+        2000
+      ],
+      "webDimensions": [
+        1273,
+        1800
+      ],
+      "sourceEncodedBytes": 643264,
+      "webEncodedBytes": 321382
+    },
+    {
+      "objectId": 335,
+      "firstPage": 59,
+      "sourceDimensions": [
+        1414,
+        2000
+      ],
+      "webDimensions": [
+        1273,
+        1800
+      ],
+      "sourceEncodedBytes": 827223,
+      "webEncodedBytes": 419001
+    },
+    {
+      "objectId": 340,
+      "firstPage": 60,
+      "sourceDimensions": [
+        1414,
+        2000
+      ],
+      "webDimensions": [
+        1273,
+        1800
+      ],
+      "sourceEncodedBytes": 842342,
+      "webEncodedBytes": 427028
+    },
+    {
+      "objectId": 345,
+      "firstPage": 61,
+      "sourceDimensions": [
+        1554,
+        2000
+      ],
+      "webDimensions": [
+        1399,
+        1800
+      ],
+      "sourceEncodedBytes": 920337,
+      "webEncodedBytes": 452889
+    },
+    {
+      "objectId": 350,
+      "firstPage": 62,
+      "sourceDimensions": [
+        1414,
+        2000
+      ],
+      "webDimensions": [
+        1273,
+        1800
+      ],
+      "sourceEncodedBytes": 1068360,
+      "webEncodedBytes": 531761
+    },
+    {
+      "objectId": 355,
+      "firstPage": 63,
+      "sourceDimensions": [
+        2400,
+        1695
+      ],
+      "webDimensions": [
+        1800,
+        1271
+      ],
+      "sourceEncodedBytes": 990288,
+      "webEncodedBytes": 375751
+    },
+    {
+      "objectId": 360,
+      "firstPage": 64,
+      "sourceDimensions": [
+        1414,
+        2000
+      ],
+      "webDimensions": [
+        1273,
+        1800
+      ],
+      "sourceEncodedBytes": 750874,
+      "webEncodedBytes": 373009
+    },
+    {
+      "objectId": 365,
+      "firstPage": 65,
+      "sourceDimensions": [
+        2000,
+        1023
+      ],
+      "webDimensions": [
+        1800,
+        921
+      ],
+      "sourceEncodedBytes": 748136,
+      "webEncodedBytes": 384749
+    },
+    {
+      "objectId": 370,
+      "firstPage": 66,
+      "sourceDimensions": [
+        1413,
+        2000
+      ],
+      "webDimensions": [
+        1272,
+        1800
+      ],
+      "sourceEncodedBytes": 741399,
+      "webEncodedBytes": 363464
+    },
+    {
+      "objectId": 378,
+      "firstPage": 68,
+      "sourceDimensions": [
+        2000,
+        816
+      ],
+      "webDimensions": [
+        1800,
+        734
+      ],
+      "sourceEncodedBytes": 590709,
+      "webEncodedBytes": 295207
+    },
+    {
+      "objectId": 383,
+      "firstPage": 69,
+      "sourceDimensions": [
+        2400,
+        1800
+      ],
+      "webDimensions": [
+        1800,
+        1350
+      ],
+      "sourceEncodedBytes": 475377,
+      "webEncodedBytes": 159160
+    },
+    {
+      "objectId": 388,
+      "firstPage": 70,
+      "sourceDimensions": [
+        2400,
+        848
+      ],
+      "webDimensions": [
+        1800,
+        636
+      ],
+      "sourceEncodedBytes": 841278,
+      "webEncodedBytes": 291635
+    },
+    {
+      "objectId": 393,
+      "firstPage": 71,
+      "sourceDimensions": [
+        2319,
+        2000
+      ],
+      "webDimensions": [
+        1800,
+        1552
+      ],
+      "sourceEncodedBytes": 515403,
+      "webEncodedBytes": 166798
+    },
+    {
+      "objectId": 394,
+      "firstPage": 71,
+      "sourceDimensions": [
+        2400,
+        1799
+      ],
+      "webDimensions": [
+        1800,
+        1349
+      ],
+      "sourceEncodedBytes": 586153,
+      "webEncodedBytes": 180422
+    },
+    {
+      "objectId": 399,
+      "firstPage": 72,
+      "sourceDimensions": [
+        2400,
+        847
+      ],
+      "webDimensions": [
+        1800,
+        635
+      ],
+      "sourceEncodedBytes": 223195,
+      "webEncodedBytes": 71618
+    },
+    {
+      "objectId": 404,
+      "firstPage": 73,
+      "sourceDimensions": [
+        2400,
+        848
+      ],
+      "webDimensions": [
+        1800,
+        636
+      ],
+      "sourceEncodedBytes": 525036,
+      "webEncodedBytes": 181153
+    },
+    {
+      "objectId": 409,
+      "firstPage": 74,
+      "sourceDimensions": [
+        1920,
+        1080
+      ],
+      "webDimensions": [
+        1800,
+        1013
+      ],
+      "sourceEncodedBytes": 174262,
+      "webEncodedBytes": 98093
+    },
+    {
+      "objectId": 414,
+      "firstPage": 75,
+      "sourceDimensions": [
+        2400,
+        805
+      ],
+      "webDimensions": [
+        1800,
+        604
+      ],
+      "sourceEncodedBytes": 549891,
+      "webEncodedBytes": 200757
+    },
+    {
+      "objectId": 419,
+      "firstPage": 76,
+      "sourceDimensions": [
+        1280,
+        451
+      ],
+      "webDimensions": [
+        1280,
+        451
+      ],
+      "sourceEncodedBytes": 190267,
+      "webEncodedBytes": 116986
+    },
+    {
+      "objectId": 424,
+      "firstPage": 77,
+      "sourceDimensions": [
+        2000,
+        1302
+      ],
+      "webDimensions": [
+        1800,
+        1172
+      ],
+      "sourceEncodedBytes": 183377,
+      "webEncodedBytes": 86280
+    },
+    {
+      "objectId": 433,
+      "firstPage": 79,
+      "sourceDimensions": [
+        1531,
+        2000
+      ],
+      "webDimensions": [
+        1378,
+        1800
+      ],
+      "sourceEncodedBytes": 881847,
+      "webEncodedBytes": 417880
+    },
+    {
+      "objectId": 441,
+      "firstPage": 81,
+      "sourceDimensions": [
+        1440,
+        1000
+      ],
+      "webDimensions": [
+        1440,
+        1000
+      ],
+      "sourceEncodedBytes": 133052,
+      "webEncodedBytes": 71980
+    },
+    {
+      "objectId": 446,
+      "firstPage": 82,
+      "sourceDimensions": [
+        1440,
+        1000
+      ],
+      "webDimensions": [
+        1440,
+        1000
+      ],
+      "sourceEncodedBytes": 269513,
+      "webEncodedBytes": 146876
+    },
+    {
+      "objectId": 447,
+      "firstPage": 82,
+      "sourceDimensions": [
+        1440,
+        1000
+      ],
+      "webDimensions": [
+        1440,
+        1000
+      ],
+      "sourceEncodedBytes": 189550,
+      "webEncodedBytes": 102197
+    },
+    {
+      "objectId": 452,
+      "firstPage": 83,
+      "sourceDimensions": [
+        390,
+        844
+      ],
+      "webDimensions": [
+        390,
+        844
+      ],
+      "sourceEncodedBytes": 65583,
+      "webEncodedBytes": 37846
+    },
+    {
+      "objectId": 457,
+      "firstPage": 84,
+      "sourceDimensions": [
+        1122,
+        1662
+      ],
+      "webDimensions": [
+        1122,
+        1662
+      ],
+      "sourceEncodedBytes": 145349,
+      "webEncodedBytes": 83626
+    },
+    {
+      "objectId": 462,
+      "firstPage": 85,
+      "sourceDimensions": [
+        420,
+        410
+      ],
+      "webDimensions": [
+        420,
+        410
+      ],
+      "sourceEncodedBytes": 37064,
+      "webEncodedBytes": 22786
+    },
+    {
+      "objectId": 467,
+      "firstPage": 86,
+      "sourceDimensions": [
+        1968,
+        1026
+      ],
+      "webDimensions": [
+        1800,
+        938
+      ],
+      "sourceEncodedBytes": 186540,
+      "webEncodedBytes": 79972
+    },
+    {
+      "objectId": 472,
+      "firstPage": 87,
+      "sourceDimensions": [
+        2000,
+        997
+      ],
+      "webDimensions": [
+        1800,
+        897
+      ],
+      "sourceEncodedBytes": 140569,
+      "webEncodedBytes": 71890
+    },
+    {
+      "objectId": 477,
+      "firstPage": 88,
+      "sourceDimensions": [
+        2400,
+        1520
+      ],
+      "webDimensions": [
+        1800,
+        1140
+      ],
+      "sourceEncodedBytes": 232812,
+      "webEncodedBytes": 88101
+    },
+    {
+      "objectId": 482,
+      "firstPage": 89,
+      "sourceDimensions": [
+        2400,
+        1520
+      ],
+      "webDimensions": [
+        1800,
+        1140
+      ],
+      "sourceEncodedBytes": 268685,
+      "webEncodedBytes": 94305
+    },
+    {
+      "objectId": 491,
+      "firstPage": 91,
+      "sourceDimensions": [
+        2400,
+        1520
+      ],
+      "webDimensions": [
+        1800,
+        1140
+      ],
+      "sourceEncodedBytes": 261213,
+      "webEncodedBytes": 98703
+    },
+    {
+      "objectId": 499,
+      "firstPage": 93,
+      "sourceDimensions": [
+        1440,
+        1040
+      ],
+      "webDimensions": [
+        1440,
+        1040
+      ],
+      "sourceEncodedBytes": 255524,
+      "webEncodedBytes": 152394
+    },
+    {
+      "objectId": 504,
+      "firstPage": 94,
+      "sourceDimensions": [
+        1440,
+        1044
+      ],
+      "webDimensions": [
+        1440,
+        1044
+      ],
+      "sourceEncodedBytes": 176529,
+      "webEncodedBytes": 102475
+    },
+    {
+      "objectId": 513,
+      "firstPage": 96,
+      "sourceDimensions": [
+        760,
+        625
+      ],
+      "webDimensions": [
+        760,
+        625
+      ],
+      "sourceEncodedBytes": 58410,
+      "webEncodedBytes": 33369
+    },
+    {
+      "objectId": 518,
+      "firstPage": 97,
+      "sourceDimensions": [
+        760,
+        741
+      ],
+      "webDimensions": [
+        760,
+        741
+      ],
+      "sourceEncodedBytes": 70883,
+      "webEncodedBytes": 40504
+    },
+    {
+      "objectId": 523,
+      "firstPage": 98,
+      "sourceDimensions": [
+        760,
+        729
+      ],
+      "webDimensions": [
+        760,
+        729
+      ],
+      "sourceEncodedBytes": 113761,
+      "webEncodedBytes": 66982
+    },
+    {
+      "objectId": 528,
+      "firstPage": 99,
+      "sourceDimensions": [
+        760,
+        515
+      ],
+      "webDimensions": [
+        760,
+        515
+      ],
+      "sourceEncodedBytes": 72307,
+      "webEncodedBytes": 42423
+    },
+    {
+      "objectId": 533,
+      "firstPage": 100,
+      "sourceDimensions": [
+        394,
+        864
+      ],
+      "webDimensions": [
+        394,
+        864
+      ],
+      "sourceEncodedBytes": 50467,
+      "webEncodedBytes": 31858
+    },
+    {
+      "objectId": 538,
+      "firstPage": 101,
+      "sourceDimensions": [
+        394,
+        864
+      ],
+      "webDimensions": [
+        394,
+        864
+      ],
+      "sourceEncodedBytes": 43759,
+      "webEncodedBytes": 27055
+    },
+    {
+      "objectId": 539,
+      "firstPage": 101,
+      "sourceDimensions": [
+        394,
+        864
+      ],
+      "webDimensions": [
+        394,
+        864
+      ],
+      "sourceEncodedBytes": 59099,
+      "webEncodedBytes": 35839
+    },
+    {
+      "objectId": 544,
+      "firstPage": 102,
+      "sourceDimensions": [
+        394,
+        864
+      ],
+      "webDimensions": [
+        394,
+        864
+      ],
+      "sourceEncodedBytes": 38379,
+      "webEncodedBytes": 23453
+    },
+    {
+      "objectId": 545,
+      "firstPage": 102,
+      "sourceDimensions": [
+        394,
+        864
+      ],
+      "webDimensions": [
+        394,
+        864
+      ],
+      "sourceEncodedBytes": 39635,
+      "webEncodedBytes": 24515
+    },
+    {
+      "objectId": 550,
+      "firstPage": 103,
+      "sourceDimensions": [
+        1440,
+        900
+      ],
+      "webDimensions": [
+        1440,
+        900
+      ],
+      "sourceEncodedBytes": 189464,
+      "webEncodedBytes": 107450
+    },
+    {
+      "objectId": 559,
+      "firstPage": 105,
+      "sourceDimensions": [
+        390,
+        844
+      ],
+      "webDimensions": [
+        390,
+        844
+      ],
+      "sourceEncodedBytes": 57694,
+      "webEncodedBytes": 32145
+    },
+    {
+      "objectId": 564,
+      "firstPage": 106,
+      "sourceDimensions": [
+        1440,
+        1024
+      ],
+      "webDimensions": [
+        1440,
+        1024
+      ],
+      "sourceEncodedBytes": 191020,
+      "webEncodedBytes": 117360
+    },
+    {
+      "objectId": 569,
+      "firstPage": 107,
+      "sourceDimensions": [
+        1440,
+        1024
+      ],
+      "webDimensions": [
+        1440,
+        1024
+      ],
+      "sourceEncodedBytes": 124181,
+      "webEncodedBytes": 66625
+    },
+    {
+      "objectId": 578,
+      "firstPage": 109,
+      "sourceDimensions": [
+        1440,
+        1024
+      ],
+      "webDimensions": [
+        1440,
+        1024
+      ],
+      "sourceEncodedBytes": 218622,
+      "webEncodedBytes": 131787
+    },
+    {
+      "objectId": 583,
+      "firstPage": 110,
+      "sourceDimensions": [
+        1426,
+        1355
+      ],
+      "webDimensions": [
+        1426,
+        1355
+      ],
+      "sourceEncodedBytes": 233116,
+      "webEncodedBytes": 131487
+    },
+    {
+      "objectId": 588,
+      "firstPage": 111,
+      "sourceDimensions": [
+        1600,
+        2000
+      ],
+      "webDimensions": [
+        1440,
+        1800
+      ],
+      "sourceEncodedBytes": 248164,
+      "webEncodedBytes": 121695
+    },
+    {
+      "objectId": 593,
+      "firstPage": 112,
+      "sourceDimensions": [
+        1080,
+        1440
+      ],
+      "webDimensions": [
+        1080,
+        1440
+      ],
+      "sourceEncodedBytes": 220329,
+      "webEncodedBytes": 130165
+    },
+    {
+      "objectId": 598,
+      "firstPage": 113,
+      "sourceDimensions": [
+        1080,
+        1440
+      ],
+      "webDimensions": [
+        1080,
+        1440
+      ],
+      "sourceEncodedBytes": 237949,
+      "webEncodedBytes": 140761
+    },
+    {
+      "objectId": 599,
+      "firstPage": 113,
+      "sourceDimensions": [
+        1080,
+        1440
+      ],
+      "webDimensions": [
+        1080,
+        1440
+      ],
+      "sourceEncodedBytes": 256379,
+      "webEncodedBytes": 156163
+    },
+    {
+      "objectId": 604,
+      "firstPage": 114,
+      "sourceDimensions": [
+        1440,
+        960
+      ],
+      "webDimensions": [
+        1440,
+        960
+      ],
+      "sourceEncodedBytes": 157117,
+      "webEncodedBytes": 92014
+    },
+    {
+      "objectId": 609,
+      "firstPage": 115,
+      "sourceDimensions": [
+        1414,
+        2000
+      ],
+      "webDimensions": [
+        1273,
+        1800
+      ],
+      "sourceEncodedBytes": 520947,
+      "webEncodedBytes": 258205
+    }
+  ],
+  "selected": {
+    "maxImageEdge": 1800,
+    "jpegQuality": 80,
+    "subsampling": "4:4:4",
+    "optimizeHuffman": true,
+    "imageCount": 123,
+    "bytes": 20397286,
+    "underLimit": true
+  },
+  "method": "pypdf document clone; Pillow JPEG 4:4:4 resampling of raster XObjects only. Page content streams, extracted text, page geometry, outline destinations and link actions/rectangles remain identical. No page rasterization."
+}

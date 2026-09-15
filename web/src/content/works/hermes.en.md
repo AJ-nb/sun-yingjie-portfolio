@@ -11,21 +11,35 @@ tags: ["Window display", "Spatial narrative", "3D design", "BENWU"]
 
 ## Background
 
-A window places products within a scene that can be read at a glance. This case presents three groups of Hermès windows: summer uses vivid colour blocks and comic-style props; autumn brings animals into imagined doorways and interiors; winter centres on blue and white, horses and snow.
+A window must attract attention during a brief encounter and keep the merchandise on the viewer's reading path. This case brings together three Hermès seasonal groups: vivid colors and comic-style props for summer, animals within doors and interior frames for autumn, and blue-and-white horses and snow for winter.
 
 ## My role
 
-Contributed to 3D design and visual presentation in collaboration with the BENWU team. The work shown is a collective team contribution. Hermès branding, trademarks and related brand content belong to their respective rights holders.
+I contributed to 3D design and visual presentation with the BENWU team. The material presents a collective project; my stated contribution is to its 3D and visual work, rather than sole authorship of the overall brand concept. Hermès branding, trademarks and related content belong to their respective rights holders.
 
 ## Key question
 
-How can a limited window depth accommodate foreground, middle ground and background while keeping products visible among oversized props? Changes in colour, silhouette and suspension position give each seasonal group its own viewing rhythm.
+Oversized props attract attention, while merchandise still needs a legible position, silhouette and contrast. Limited depth and different window proportions mean that a seasonal composition cannot simply be scaled: vertical windows need a sequence of heights, while wide windows need a lateral rhythm.
+
+This retrospective asks two questions that can be checked in the images: is merchandise overwhelmed by the main prop, and do overlaps explain the spatial layers? These are composition judgments, not measurements of footfall or sales.
 
 ## Design process
 
-The 3D design and visual presentation addressed prop proportions, product placement and scene depth. Summer compositions connect products through clouds, fishing rods and speech bubbles. Autumn places fish, a snail and a horse within doors, windows and interior frames. Winter organises the space with layered contours, trees and human silhouettes. The views below show these relationships by season.
+### Use merchandise placement to examine prop scale
+
+The 3D and visual work addressed prop proportions, product placement and scene depth. In summer, fishing rods, hands and a folding chair locate bags and footwear across the composition. Props participate in the viewing path as well as providing a setting.
+
+### Build depth through frames and contours
+
+Autumn uses doors and windows to place fish, a snail and a horse at different apparent depths. Winter uses repeated trees, layered horse forms and human silhouettes. Both approaches create spatial volume without giving every element the same density of detail.
+
+### Keep a different rhythm for each season
+
+Summer color blocks, autumn's displaced scale and winter's restrained layers carry distinct seasonal expressions. These observations are a retrospective reading of retained images. Unrecorded concept-selection steps are not reconstructed as project history.
 
 ## Final work
+
+Read the complete window first, then the relationship between merchandise and props. Retained views preserve the original branding, frames and setting. Images alone do not establish whether each view was photographed on site, rendered or produced through another process.
 
 **Summer: colour blocks, comics and leisure props**
 
@@ -81,7 +95,8 @@ The 3D design and visual presentation addressed prop proportions, product placem
 
 *Winter project view: a large white horse head and mane anchor the composition; snowy planes connect skier silhouettes, a yellow bag and a small pink horse.*
 
-### Material, lighting and scene details
+<details>
+<summary>Source boards and supplementary material · lighting and scenes</summary>
 
 ![Summer window spatial proposal](/works/refinement-v2/rendering-pdf/027.webp)
 
@@ -89,6 +104,8 @@ The 3D design and visual presentation addressed prop proportions, product placem
 
 ![Lighthouse-themed window proposal](/works/refinement-v2/rendering-pdf/029.webp)
 
+</details>
+
 ## Outcome and stage
 
-This page presents twelve views across the summer, autumn and winter commercial windows. Comic-style props, animals within architectural frames and layered snowy landscapes give the three groups distinct scene languages. They document my contribution to the team's 3D design and visual presentation.
+The retained work documents three seasonal languages and my contribution to the team's 3D and visual presentation. It supports discussion of composition, proportion and spatial hierarchy. No footfall, merchandise-attention or sales-change data is supplied, so commercial impact is not inferred.
