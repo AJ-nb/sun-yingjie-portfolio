@@ -75,6 +75,15 @@ async function check(name, operation) {
 }
 const url = (lang = 'zh', hash = '#top') => `${base}${lang === 'en' ? '?lang=en' : ''}${hash}`
 async function paint(target = page) { await target.evaluate(() => new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve)))) }
+async function visibleCanvasClip(target, canvas) {
+  const box = await canvas.boundingBox()
+  const viewport = target.viewportSize()
+  assert.ok(box && viewport && box.width >= 50 && box.height >= 50 && box.x >= 0 && box.y >= 0 && box.x + box.width <= viewport.width && box.y + box.height <= viewport.height, `Portrait canvas must be fully visible before sampling: ${JSON.stringify({ box, viewport })}`)
+  const x = Math.ceil(box.x), y = Math.ceil(box.y)
+  const clip = { x, y, width: Math.floor(box.x + box.width) - x, height: Math.floor(box.y + box.height) - y }
+  assert.ok(clip.width >= 50 && clip.height >= 50, `Portrait sample is too small: ${JSON.stringify(clip)}`)
+  return clip
+}
 async function home(lang = 'zh', hash = '#top', target = page) {
   await target.goto(url(lang, hash))
   await target.locator('.studio-hero h1').waitFor()
@@ -433,10 +442,13 @@ try {
       assert.ok(box && box.width >= 50 && box.height >= 50)
       await desktop.mouse.move(box.x + box.width * .5, box.y + box.height * .5)
       await desktop.waitForTimeout(220)
-      const beforePointer = await canvas.screenshot()
+      // A live transformed canvas need not pass element-screenshot stability checks.
+      // Sample the same visible viewport region for both pointer positions.
+      const pointerScreenshotClip = await visibleCanvasClip(desktop, canvas)
+      const beforePointer = await desktop.screenshot({ clip: pointerScreenshotClip })
       await desktop.mouse.move(box.x + box.width * .88, box.y + box.height * .28)
       await desktop.waitForTimeout(300)
-      const afterPointer = await canvas.screenshot({ path: path.join(output, 'portrait-desktop-live.png') })
+      const afterPointer = await desktop.screenshot({ clip: pointerScreenshotClip, path: path.join(output, 'portrait-desktop-live.png') })
       assert.ok(!beforePointer.equals(afterPointer), 'Moving the pointer within the portrait did not change its rendered image')
       const activeDraws = await desktop.evaluate(() => window.__portraitDrawCalls)
       assert.ok(activeDraws > 0, 'No WebGL drawing was observed')
@@ -451,7 +463,7 @@ try {
       await desktop.waitForTimeout(1200)
       await expect(desktop.locator('.portrait-stage canvas')).toHaveCount(0)
       await expect(desktop.locator('.portrait-poster')).toBeVisible()
-      desktopEvidence = { modelRequests: desktopRequests.length, pointerChangedPixels: true, activeDraws, stoppedBefore, stoppedAfter, staticFallback: true }
+      desktopEvidence = { modelRequests: desktopRequests.length, pointerChangedPixels: true, pointerScreenshotClip, activeDraws, stoppedBefore, stoppedAfter, staticFallback: true }
     } finally { await desktopContext.close() }
 
     const mobileContext = await browser.newContext({ viewport: { width: 390, height: 844 }, reducedMotion: 'no-preference', isMobile: true, hasTouch: true })
@@ -467,11 +479,12 @@ try {
       await mobile.locator('.scene-toggle').tap()
       await expect(mobile.locator('.portrait-stage')).toHaveClass(/is-live/, { timeout: 30000 })
       assert.equal(mobileRequests, 1)
-      await mobile.locator('.portrait-stage canvas').screenshot({ path: path.join(output, 'portrait-mobile-live.png') })
+      const screenshotClip = await visibleCanvasClip(mobile, mobile.locator('.portrait-stage canvas'))
+      await mobile.screenshot({ clip: screenshotClip, path: path.join(output, 'portrait-mobile-live.png') })
       await mobile.locator('.scene-toggle').tap()
       await expect(mobile.locator('.portrait-stage canvas')).toHaveCount(0)
       await expect(mobile.locator('.portrait-poster')).toBeVisible()
-      return { desktop: desktopEvidence, mobile: { modelRequests: mobileRequests, deliberateTap: true, staticFallback: true } }
+      return { desktop: desktopEvidence, mobile: { modelRequests: mobileRequests, deliberateTap: true, screenshotClip, staticFallback: true } }
     } finally { await mobileContext.close() }
   })
 

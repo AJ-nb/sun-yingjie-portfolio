@@ -1,5 +1,5 @@
 {
-  "started": "2026-09-15T07:09:39.578Z",
+  "started": "2026-09-15T07:21:56.576Z",
   "base": "http://127.0.0.1:4178/",
   "buildIndexSha256": "d208240ccd848d1f16b44714c6c96b993e5742dc640b105948b38d6fa97170dc",
   "scope": "Production v4 interaction extension; run alongside the complete v3 regression suite. Local isolated Chromium evidence, not field performance data or a complete accessibility certification.",
@@ -8,7 +8,7 @@
     {
       "name": "v4 preview is the exact local production build and all source profiles are preserved",
       "passed": true,
-      "milliseconds": 6,
+      "milliseconds": 7,
       "detail": {
         "cases": 33,
         "languages": 2,
@@ -18,7 +18,7 @@
     {
       "name": "Four hero perspectives match original thumbnails and case links in both languages",
       "passed": true,
-      "milliseconds": 1057,
+      "milliseconds": 1055,
       "detail": [
         {
           "lang": "zh",
@@ -75,7 +75,7 @@
     {
       "name": "Homepage skip link moves keyboard focus to the catalogue and the next tab reaches its controls",
       "passed": true,
-      "milliseconds": 283,
+      "milliseconds": 266,
       "detail": {
         "languages": 2,
         "targetFocused": true,
@@ -85,7 +85,7 @@
     {
       "name": "Selected works expose three original projects, explanations and operable case links",
       "passed": true,
-      "milliseconds": 540,
+      "milliseconds": 445,
       "detail": {
         "projects": [
           "lighting",
@@ -98,7 +98,7 @@
     {
       "name": "Personal profile contains five source experiences, six expandable capabilities and four downloads",
       "passed": true,
-      "milliseconds": 510,
+      "milliseconds": 477,
       "detail": [
         {
           "lang": "zh",
@@ -127,7 +127,7 @@
     {
       "name": "Five design methods change their explanation and project evidence with keyboard operation",
       "passed": true,
-      "milliseconds": 580,
+      "milliseconds": 607,
       "detail": [
         {
           "lang": "zh",
@@ -230,7 +230,7 @@
     {
       "name": "Gallery and list views retain search, selections and focus through section navigation, reload and case return",
       "passed": true,
-      "milliseconds": 936,
+      "milliseconds": 891,
       "detail": {
         "focusKey": "catalog:plumber",
         "sourceCount": 33,
@@ -248,7 +248,7 @@
     {
       "name": "Returning from a non-default hero perspective restores the selected project and initiating focus",
       "passed": true,
-      "milliseconds": 324,
+      "milliseconds": 362,
       "detail": {
         "focusKey": "hero:biyuan",
         "restoredSelection": 2
@@ -257,7 +257,7 @@
     {
       "name": "Returning from a non-default design method restores its explanation and initiating focus",
       "passed": true,
-      "milliseconds": 423,
+      "milliseconds": 419,
       "detail": {
         "focusKey": "method:handover:formline",
         "method": "handover"
@@ -266,7 +266,7 @@
     {
       "name": "Returning from an expanded capability reopens the initiating evidence link",
       "passed": true,
-      "milliseconds": 263,
+      "milliseconds": 266,
       "detail": {
         "focusKey": "capability:ai-workflows:lensflow",
         "expanded": true
@@ -275,7 +275,7 @@
     {
       "name": "Still browsing persists, respects the system preference and preserves content and reading anchors",
       "passed": true,
-      "milliseconds": 1128,
+      "milliseconds": 1090,
       "detail": {
         "persists": true,
         "before": {
@@ -302,7 +302,7 @@
     {
       "name": "Bilingual hero, profile, method and list layouts fit desktop, short screens and mobile touch targets",
       "passed": true,
-      "milliseconds": 4774,
+      "milliseconds": 4827,
       "detail": [
         {
           "size": {
@@ -459,7 +459,7 @@
     {
       "name": "Touch input operates the featured work selector, methods and expandable capabilities",
       "passed": true,
-      "milliseconds": 989,
+      "milliseconds": 988,
       "detail": {
         "width": 390,
         "touch": true,
@@ -471,19 +471,31 @@
     {
       "name": "Portrait loads near the desktop viewport, responds to local pointer movement, stops offscreen and requires a mobile tap",
       "passed": true,
-      "milliseconds": 23307,
+      "milliseconds": 19246,
       "detail": {
         "desktop": {
           "modelRequests": 1,
           "pointerChangedPixels": true,
-          "activeDraws": 2160,
-          "stoppedBefore": 2440,
-          "stoppedAfter": 2440,
+          "pointerScreenshotClip": {
+            "x": 704,
+            "y": 493,
+            "width": 101,
+            "height": 102
+          },
+          "activeDraws": 1360,
+          "stoppedBefore": 1640,
+          "stoppedAfter": 1640,
           "staticFallback": true
         },
         "mobile": {
           "modelRequests": 1,
           "deliberateTap": true,
+          "screenshotClip": {
+            "x": 21,
+            "y": 433,
+            "width": 73,
+            "height": 73
+          },
           "staticFallback": true
         }
       }
@@ -491,7 +503,7 @@
     {
       "name": "Case guide and sticky outline remain hittable and reveal unobscured headings after scrolling",
       "passed": true,
-      "milliseconds": 3949,
+      "milliseconds": 3920,
       "detail": [
         {
           "viewport": {
@@ -930,7 +942,7 @@
     {
       "name": "New hero, expanded profile, design methods, list and contact pass automated accessibility checks",
       "passed": true,
-      "milliseconds": 25960,
+      "milliseconds": 25710,
       "detail": [
         {
           "label": "hero-zh-390",
@@ -1329,7 +1341,7 @@
     "cropped": [],
     "overflowErrors": []
   },
-  "finished": "2026-09-15T07:10:46.226Z",
+  "finished": "2026-09-15T07:22:58.761Z",
   "summary": {
     "passed": 18,
     "failed": 0,
