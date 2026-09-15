@@ -5,7 +5,7 @@
 | 项目 | 核对结果 |
 | --- | --- |
 | 交付文件 | `deliverables/portfolio/sun-yingjie-portfolio.pdf` |
-| 公开下载副本 | `web/public/downloads/sun-yingjie-selected-portfolio.pdf`，与交付文件哈希相同 |
+| 网页下载版本 | 采用独立优化文件 `deliverables/portfolio/sun-yingjie-portfolio-web.pdf`；高清交付文件保留，大小及独立哈希见 [网页版 QA](portfolio-web-qa.md) |
 | SHA-256 | `2758f8e26b7065432a06c359c3c6b3fff7110885831611b1cc346747e8a3a5bb` |
 | 字节数 | 54,192,777 |
 | 页面 | 116 页，960 × 600 pt 横版 |

@@ -1,95 +1,144 @@
 {
-  "verifiedAt": "2026-09-14T18:18:45.986Z",
+  "verifiedAt": "2026-09-15T03:24:19.513930+00:00",
   "url": "https://sun-yingjie-portfolio.ajhhq.chatgpt.site",
-  "accessMode": "owner-only",
-  "siteVersion": 2,
-  "siteCommit": "58c52886ba302a79aca884aa5f250a03a3083384",
+  "siteVersion": 3,
+  "siteCommit": "aac753cda74d950ee8c7d55bb88156963ba9f031",
   "checks": [
     {
-      "path": "/models/avatar.glb",
+      "path": "/",
       "status": 200,
-      "code": 0,
-      "bytes": 6803224,
-      "sha256": "e2f130df044e950b0459e05e8467aaa3604a42bc6d4923bf53d6fa0aa3118be5",
+      "bytes": 2928,
+      "sha256": "6906c6661a23a38cfcdc51024e94d0ad2b899963b187112f216e5d9c4c6a822c",
+      "byteEquality": false,
       "matchesLocal": true,
-      "error": ""
-    },
-    {
-      "path": "/downloads/sun-yingjie-selected-portfolio.pdf",
-      "status": 200,
-      "code": 0,
-      "bytes": 16945554,
-      "sha256": "8eea4aaad110aba12b88d87deb8ac82d4e0db3aac4124d0865bedea097ad7428",
-      "matchesLocal": true,
-      "error": ""
-    },
-    {
-      "path": "/downloads/sun-yingjie-resume.pdf",
-      "status": 200,
-      "code": 0,
-      "bytes": 302562,
-      "sha256": "24a0493a665b6909e3cc67eeb37f0bc20f940ccf38ecb14537c30803c215d15b",
-      "matchesLocal": true,
-      "error": ""
-    },
-    {
-      "path": "/avatar/portrait.webp",
-      "status": 200,
-      "code": 0,
-      "bytes": 151208,
-      "sha256": "b76f10e66356688869489f3c784492d9d4c1c92889e8095c9f7c1c7d5dc5e63b",
-      "matchesLocal": true,
-      "error": ""
-    },
-    {
-      "path": "/assets/index-CP_pINMR.js",
-      "status": 200,
-      "code": 0,
-      "bytes": 646531,
-      "sha256": "409864b467acd900571e275067c588857d99de4e82a523c705c11dff03288bb3",
-      "matchesLocal": true,
-      "error": ""
-    },
-    {
-      "path": "/assets/index-K-08r9Oa.css",
-      "status": 200,
-      "code": 0,
-      "bytes": 21623,
-      "sha256": "282e29155e0fb11f4161a49de644bf64aaa364a253151766bcb32a69e9599cf0",
-      "matchesLocal": true,
-      "error": ""
-    },
-    {
-      "path": "/assets/PortraitScene-Cx9dcKFz.js",
-      "status": 200,
-      "code": 0,
-      "bytes": 891268,
-      "sha256": "ca5b685e90db768c1b7406b97d66d13bd50a7e5a49f524d8269952114e7dcc81",
-      "matchesLocal": true,
-      "error": ""
+      "observedCdnChallengeScripts": 1,
+      "htmlEquivalentExcludingCdnChallenge": true,
+      "comparison": "HTML whitespace normalization after removing only the observed Cloudflare challenge script; all other resources require exact bytes."
     },
     {
       "path": "/media-index.json",
       "status": 200,
-      "code": 0,
-      "bytes": 11288,
-      "sha256": "237c9187249366e85e7c3f95d30150970d14284c5eeeff49703aa555a958e7f0",
-      "matchesLocal": true,
-      "error": ""
+      "bytes": 17079,
+      "sha256": "7f11492d753ebb8348d4b7d69232081c192288fb8de2cb8efc7f8336946a1bd6",
+      "byteEquality": true,
+      "matchesLocal": true
     },
     {
-      "path": "/",
+      "path": "/models/avatar.glb",
       "status": 200,
-      "code": 0,
-      "bytes": 2744,
-      "sha256": "8762b89303f1e27b1227a09267ad0c88e8ee9f5e9f61f90b6779f2d07e4e1dc4",
-      "matchesLocal": true,
-      "error": ""
+      "bytes": 10213692,
+      "sha256": "2dce53741e218913b21a309e629ac03d0433cf3e81090471831c0eec4096bf88",
+      "byteEquality": true,
+      "matchesLocal": true
+    },
+    {
+      "path": "/avatar/portrait.webp",
+      "status": 200,
+      "bytes": 41796,
+      "sha256": "b0f3e7f5817bba4858dde2bc98381e6dd178010230268d7259cf354352068b22",
+      "byteEquality": true,
+      "matchesLocal": true
+    },
+    {
+      "path": "/downloads/sun-yingjie-selected-portfolio.pdf",
+      "status": 200,
+      "bytes": 20387294,
+      "sha256": "aef1cfe4c5e653a781d13be92b6b6f09b4211e3b0c7ce66180d93d617793295a",
+      "byteEquality": true,
+      "matchesLocal": true
+    },
+    {
+      "path": "/downloads/sun-yingjie-resume.pdf",
+      "status": 200,
+      "bytes": 240492,
+      "sha256": "c1eb4422bc946147f744ab77a8bdb1968987e6e51ddb6ba38d246e782d90aaa1",
+      "byteEquality": true,
+      "matchesLocal": true
+    },
+    {
+      "path": "/assets/index-B6ORgzb_.js",
+      "status": 200,
+      "bytes": 835262,
+      "sha256": "b8ead64f2a62def0b6f4fff0a9d4402211a1f15e5d76a43b655d4aa531cc0dcd",
+      "byteEquality": true,
+      "matchesLocal": true
+    },
+    {
+      "path": "/assets/index-CIWO1cvw.css",
+      "status": 200,
+      "bytes": 32116,
+      "sha256": "a03dc31430814f8a1ad5da396796256db48dc9a6ee6d3dc76fb749694e10fccf",
+      "byteEquality": true,
+      "matchesLocal": true
+    },
+    {
+      "path": "/assets/PortraitScene-DHgg_PPu.js",
+      "status": 200,
+      "bytes": 1066679,
+      "sha256": "b22b6f5d521f1b4ed22678c7878782b50387d6b40a024978c85c9d9f7291d72e",
+      "byteEquality": true,
+      "matchesLocal": true
+    },
+    {
+      "path": "/works/refinement-digital/xintiao/home-native.png",
+      "status": 200,
+      "bytes": 31331,
+      "sha256": "238a1fdc9cc27a803c41f233fade72008b106ac2a218238d53045aa266c75b93",
+      "byteEquality": true,
+      "matchesLocal": true
+    },
+    {
+      "path": "/works/refinement-v2/plumber/three-quarter.webp",
+      "status": 200,
+      "bytes": 187480,
+      "sha256": "9802190870212e528e3f77e3c50b95cef6cb2ff239fd2550621654159a23dc09",
+      "byteEquality": true,
+      "matchesLocal": true
     }
   ],
-  "anonymousRequest": {
-    "status": 401,
-    "code": 0
+  "anonymousRequests": [
+    {
+      "path": "/",
+      "status": 403,
+      "bytes": 0
+    },
+    {
+      "path": "/downloads/sun-yingjie-selected-portfolio.pdf",
+      "status": 403,
+      "bytes": 0
+    },
+    {
+      "path": "/downloads/sun-yingjie-resume.pdf",
+      "status": 403,
+      "bytes": 0
+    }
+  ],
+  "allAuthorizedChecksPassed": true,
+  "allAnonymousRequestsPassed": false,
+  "browserVerification": "Not performed for this remote release: Computer Use stopped by automatic safety review. Existing local browser QA is separate.",
+  "accessMode": "owner-only",
+  "accessPolicyVerified": {
+    "mode": "custom",
+    "allowedAccountCount": 1,
+    "externalVisitorCount": 0,
+    "groupCount": 0,
+    "revision": 1
   },
-  "allAuthorizedChecksPassed": true
+  "deployment": {
+    "id": "appgdep_6aa8b921fc64819193296297d8954100",
+    "versionId": "appgprj_6aa82b00fe388191a76a7ec630628660~appgver_18256f73c8f08191b959df5e3479c522",
+    "status": "succeeded",
+    "completedAt": "2026-09-15T03:19:26.421123+00:00"
+  },
+  "avatarDecision": "pending-user-decision",
+  "publicReleaseAuthorization": "Already granted, subject to the single avatar review in the accepted plan. No additional ordinary publishing confirmation is required.",
+  "limitsObserved": {
+    "initialSourcePushFailure": "artifacts_git_receive_pack_object_too_large; largest object was a 54,192,777-byte PDF; server did not state the threshold.",
+    "successfulPublicPdfBytes": 20387294,
+    "archiveFileCount": 252,
+    "archiveUploadedBytes": 73879008,
+    "applicationVisitCountLimit": null,
+    "applicationExpiry": null,
+    "hostingUnlimitedTrafficGuarantee": false
+  }
 }

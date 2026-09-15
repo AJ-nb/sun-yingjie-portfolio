@@ -38,6 +38,12 @@
 
 ## 第二版作品集 PDF
 
-`scripts/build_portfolio.py` 从共享 profile、chapters 和 33 份案例生成完整 116 页作品集。交付 PDF 与公开下载副本字节相同，详情来源、哈希和图片裁切区域记录在 `private/sources/download-manifest.json`。PNG 栅格化副本只用于呈现 SVG 内嵌 WebP，原 SVG 保留；砚台的长截图按真实来源像素分成三段，没有重绘。
+`scripts/build_portfolio.py` 从共享 profile、chapters 和 33 份案例生成完整 116 页作品集。高清交付 PDF 保留；网页下载改用下述独立优化版本。详情来源、哈希和图片裁切区域记录在 `private/sources/download-manifest.json`。PNG 栅格化副本只用于呈现 SVG 内嵌 WebP，原 SVG 保留；砚台的长截图按真实来源像素分成三段，没有重绘。
 
 最终分页见 `portfolio-page-plan.json`，全部 116 页完成 Poppler 渲染和视觉复核，33 个目录目标及案例元数据均通过。`portfolio-qa.json`、`portfolio-metadata.json` 和 `docs/portfolio-qa.md` 是当前版记录；旧版报告放入历史目录。预览位于忽略路径 `deliverables/portfolio/qa/refinement-v2/`。
+
+## 网页优化作品集 PDF
+
+`scripts/compress_portfolio_pdf.py` 从高清版生成独立的 `deliverables/portfolio/sun-yingjie-portfolio-web.pdf`。最终采用位图最长边 1800 px、JPEG 质量 80、4:4:4，20,387,294 字节（19.443 MiB），SHA-256 为 `aef1cfe4c5e653a781d13be92b6b6f09b4211e3b0c7ce66180d93d617793295a`。高清原版仍为 54,192,777 字节，SHA-256 为 `2758f8e26b7065432a06c359c3c6b3fff7110885831611b1cc346747e8a3a5bb`。
+
+116 页、39 个书签、256 个链接及每页文字、页面内容流均与高清版一致。116 页完整渲染、29 张联系表和 12 个重点同区域对照已通过两名代理视觉复核；仅预期纹理轻微软化，未发现压缩新增的实质可读性问题。原图内的极小文字仍需放大，高清版继续用于大倍率阅读与印刷。参数试验、逐图处理记录和最终验收分别见 `portfolio-web-compression-trials.json`、`portfolio-web-compression.json`、`portfolio-web-qa.json`，说明见 `docs/portfolio-web-qa.md`。公开下载同步和发布由根任务统一处理。

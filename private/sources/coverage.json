@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-15T03:09:02.215199+00:00",
+  "generatedAt": "2026-09-15T03:19:32.396448+00:00",
   "scope": "Second-round selected website, bilingual cases and deliverables. Historical originals retain their earlier verification date; no claim to have reread all large archives.",
   "historicalSourceSnapshot": {
     "path": "private/sources/history/refinement-r1/coverage.json",
@@ -4720,8 +4720,8 @@
     },
     {
       "path": "private/sources/refinement-v2/portfolio-web-qa.json",
-      "bytes": 22106,
-      "sha256": "ca9a41795a46c2827f0eb8a9ec7bc83ba143436d129d6560a3adb926e32f5fae"
+      "bytes": 26764,
+      "sha256": "801c9cc5f1f521113c6b3a9225dfb77312f98335e546234182a01ec567560428"
     },
     {
       "path": "private/sources/refinement-v2/psd-source-hashes.json",

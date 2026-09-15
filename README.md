@@ -7,7 +7,7 @@
 - 排版作品集：`deliverables/portfolio/sun-yingjie-portfolio.pdf`
 - 简历 PDF 与可编辑 Word：`deliverables/resume/`
 
-当前状态：网站与文档已完成验证，三维人物相似度等待用户集中审阅。依照已确认方案，审阅后才开放公众访问。实际交付和验证记录见 `docs/DELIVERY.md`。
+当前状态：第二轮网站已部署，高清作品集、网页优化版和简历已完成验证，三维人物相似度等待用户集中审阅。依照已确认方案，审阅后才开放公众访问。实际交付和验证记录见 `docs/DELIVERY.md`。
 
 ## 本地运行
 

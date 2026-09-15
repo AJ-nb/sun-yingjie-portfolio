@@ -1,6 +1,6 @@
 {
-  "verifiedAt": "2026-09-15T02:54:25.843822+00:00",
-  "sourceCommit": "1c3472c10a71d5e29d59110c38cfce8ba56aa206",
+  "verifiedAt": "2026-09-15T03:12:09.477451+00:00",
+  "sourceCommit": "bbf7cf881fb6abd0113e659c366ea4989ab8deda",
   "sourceRepository": "https://github.com/AJ-nb/sun-yingjie-portfolio",
   "sourceBranch": "portfolio-refinement-v2",
   "checks": {
@@ -14,13 +14,15 @@
     "runtimeBundlesByteEquality": true,
     "htmlEquivalentAfterBlankLineNormalization": true,
     "exactDistAllowlistEquality": true,
-    "cleanCheckoutAfterBuild": true
+    "cleanCheckoutAfterBuild": true,
+    "finalBuild": true,
+    "finalGitLfsFsck": true
   },
   "htmlDifference": "Fresh build contains one additional blank line before closing body; all nonblank lines identical. Fresh artifact is used for release.",
   "selectedMediaCount": 246,
-  "selectedMediaBytes": 111631869,
+  "selectedMediaBytes": 77826386,
   "staticFiles": 251,
-  "staticBytes": 113584995,
+  "staticBytes": 79779512,
   "bundles": [
     {
       "name": "index-B6ORgzb_.js",
@@ -40,5 +42,9 @@
   ],
   "privateArtifactsInRelease": 0,
   "windowsLongPaths": "Set repository-local core.longpaths=true and restored checkout; all tracked files and Git LFS objects verified.",
-  "priorBuildExclusion": "Old dist contained unselected monster-hello.png; strict packaging rejected it. Fresh build has no extra files. Exact earlier writer is unverified."
+  "priorBuildExclusion": "Old dist contained unselected monster-hello.png; strict packaging rejected it. Fresh build has no extra files. Exact earlier writer is unverified.",
+  "publicPortfolioBytes": 20387294,
+  "publicPortfolioSha256": "aef1cfe4c5e653a781d13be92b6b6f09b4211e3b0c7ce66180d93d617793295a",
+  "lockfileUnchangedSinceNpmCi": true,
+  "assetGuardRegression": "Known stale monster-hello.png rejected during staging. It was moved to an ignored quarantine; full build and clean GitHub build both passed after that."
 }

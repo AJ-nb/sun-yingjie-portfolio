@@ -5,6 +5,7 @@ from concurrent.futures import ThreadPoolExecutor
 import argparse
 import hashlib
 import json
+import re
 import sys
 import urllib.error
 import urllib.request
@@ -43,8 +44,18 @@ def check(path):
         status, data = fetch(path, True)
         local = args.build / (path.lstrip('/') or 'index.html')
         digest = hashlib.sha256(data).hexdigest()
-        return {'path': path, 'status': status, 'bytes': len(data), 'sha256': digest,
-                'matchesLocal': status == 200 and digest == hashlib.sha256(local.read_bytes()).hexdigest()}
+        byte_equal = status == 200 and digest == hashlib.sha256(local.read_bytes()).hexdigest()
+        result = {'path': path, 'status': status, 'bytes': len(data), 'sha256': digest,
+                  'byteEquality': byte_equal, 'matchesLocal': byte_equal}
+        if path == '/' and status == 200 and not byte_equal:
+            # Sites' CDN may inject this observed challenge script into otherwise identical HTML.
+            # Preserve its presence in the report; exclude only this exact script family for comparison.
+            remote_html, count = re.subn(r"<script>[^<]*?/cdn-cgi/challenge-platform/scripts/jsd/main\.js[^<]*?</script>", '', data.decode('utf-8'))
+            normalize = lambda text: re.sub(r'>\s+<', '><', text.replace('\r\n', '\n')).strip()
+            equivalent = count == 1 and normalize(remote_html) == normalize(local.read_text(encoding='utf-8'))
+            result.update({'observedCdnChallengeScripts': count, 'htmlEquivalentExcludingCdnChallenge': equivalent,
+                           'matchesLocal': equivalent, 'comparison': 'HTML whitespace normalization after removing only the observed Cloudflare challenge script; all other resources require exact bytes.'})
+        return result
     except Exception as error:
         return {'path': path, 'status': None, 'matchesLocal': False, 'error': str(error).replace(secret, '[REDACTED]') if secret else str(error)}
 
