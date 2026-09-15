@@ -19,11 +19,13 @@ The work covers collaborative method development, requirements, information stru
 
 ## Key question
 
-The central question is consistency across stages: how facts enter a brief, how derivatives retain provenance, and how revisions preserve the same constraints.
+As content moves through source records, briefs, images and copy, product facts can be rewritten repeatedly. The method needs to retain the same input constraints and the reasons for generation and rejection. A complete diagram does not establish implemented capabilities.
 
 ## Design process
 
-Product facts and unknowns enter a source record, with original images kept separately. A brief defines the audience, angle, language and appearance constraints. Generated candidates retain versions and undergo fact, product-consistency and applicable-rule review before a human decides whether they belong in a publication package.
+Facts and unknowns first enter a source record, with original images kept separate. A brief then defines audience, angle, language and appearance constraints. Versioned candidates undergo fact, consistency and applicable-rule review before a person decides what enters a publication package.
+
+The continuous-editing study provides a concrete reason: backgrounds, titles or dots can be correctly changed while packaging texture drifts. The method therefore records requested-task completion separately from overall usability and retains inputs, full instructions, raw outputs and rejection reasons. This turns observations into requirements, not a claim of implemented automatic evaluation.
 
 ![XHS method workflow](/works/refinement-digital/xhs-methods/workflow.png)
 
@@ -31,7 +33,7 @@ Product facts and unknowns enter a source record, with original images kept sepa
 
 ## Final work
 
-The existing continuous-edit study exposes a concrete problem: an edit can correctly change the background, headline or dot while packaging texture still drifts. The proposed workflow therefore records requested-change completion separately from overall usability, retaining each input, complete prompt, original output and rejection reason. These findings inform requirements; they do not establish an implemented automatic evaluator.
+The current delivery brings product facts, assets, briefs, candidates and human review into one requirements structure. The diagram explains those relationships and the foundation page identifies the development stage. They provide a method and an implementation starting point rather than a running end-to-end operations system.
 
 ## Outcome and stage
 

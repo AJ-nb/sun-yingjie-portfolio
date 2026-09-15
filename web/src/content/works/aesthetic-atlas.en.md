@@ -19,11 +19,13 @@ The research system and study cards are collaborative work. This case focuses on
 
 ## Key question
 
-Style classification involves interpretation. A curatorial choice should not become a claim to the only historical answer. The system needs to keep institutional facts, classification inferences and transfer suggestions distinguishable while preserving authorship of reference works.
+Style names aid lookup but can conceal differences between works. Readers need to distinguish institutional facts, curatorial classifications and transfer suggestions while retaining authors and sources, so a study card does not become a context-free style template.
 
 ## Design process
 
-Each style is developed through two cards: a DNA card outlining visual characteristics and a transfer card suggesting ways to bring those relationships into a new exercise. A shared grid, bilingual titles, colour and geometric diagrams support comparison. Source records provide further detail, while an Eagle manifest connects folders and reference entries.
+Each style uses two cards: the DNA card examines features; the transfer card turns relationships into possible design exercises. A shared grid, bilingual titles, color and geometric diagrams support comparison, with detailed facts in source records.
+
+Cards provide a reading entrance, while the Eagle manifest connects folders and entries. Classification and exercises are research expressions, not a transfer of authorship over institutional works.
 
 ## Final work
 
@@ -39,10 +41,8 @@ The Bauhaus product pair illustrates the card system. Its geometric diagrams are
 
 ## Outcome and stage
 
-The existing package contains 144 bilingual styles, 2500 source bookmarks and 288 study cards, together with an Eagle import manifest. These figures describe the package size, not individual scholarly review or user numbers. A prepared manifest also does not establish that the library import has been completed.
+The package contains 144 bilingual styles, 2,500 source bookmarks and 288 cards, with an Eagle dry-run import manifest. These are file and record counts, not individual scholarly reviews or user numbers. A manifest does not establish completed library writes.
 
-<!-- refinement-v2 -->
+### Sources
 
-### Sources and import boundary
-
-Evidence comes from eagle-aesthetic-atlas records dated 19 August 2026, card files and manifest summaries. The 144 styles, 2,500 bookmarks and 288 cards describe files and records in the existing package. The Eagle stage has a dry-run manifest rather than proof of a completed library import. Classification and transfer advice should be read separately from institutional facts about original works.
+The eagle-aesthetic-atlas project records dated 19 August 2026, card files and manifest summaries. learnui and aesthetic-frontend-skills served only as early vocabulary seeds; institutional works and author rights retain their original attribution.

@@ -19,11 +19,13 @@ This is a collaborative project. The original board credits Deng Zhicheng (é‚“å¿
 
 ## Key question
 
-The design needs to coordinate access space, seated rest and a water-walking area without making the arrangement difficult to understand. Control locations and the sequence of support points are also central to the layout.
+Side access, handrail support, sitting and walking in water are different actions. The combined layout needs to explain movement between them and support at each position. Scale figures provide only an initial spatial representation.
 
 ## Design process
 
-The proposal first arranges the entrance, handrails, seat and display. An exploded diagram then presents proposed internal parts, including a treadmill and water-flow device. Orthographic views and human figures add spatial context.
+The proposal first locates the entrance, rails, seat and display, then uses an exploded drawing to describe proposed treadmill and water-flow components. Orthographic views and figures return those parts to the overall space.
+
+This retrospective follows access and support, retaining the original credits for Deng Zhicheng and tutor Tao Yufang. Sealing, wet conditions and emergency exit remain physically unvalidated; an age-friendly brief does not establish safety or rehabilitation outcomes.
 
 ## Final work
 

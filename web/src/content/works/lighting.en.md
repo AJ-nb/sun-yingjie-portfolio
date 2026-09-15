@@ -11,19 +11,29 @@ tags: ["Lighting design", "Aluminum profiles", "Product family", "BENWU"]
 
 ## Background
 
-The Aluminum Lighting System uses elongated profiles and linear luminous surfaces as a common language across table, floor, wall and pendant lights. Individual product views, interior scenes and a BENWU EDITION display space show the relationship between the lighting family and its spatial settings.
+How can one profile move from a desktop to a wall and then above a room? The Aluminum Lighting System uses elongated profiles and linear luminous surfaces across table, floor, wall and pendant lights. Individual objects, details and a BENWU EDITION display connect the family to interior scale.
 
 ## My role
 
-Contributed to 3D design and visual presentation in collaboration with the BENWU team. The lighting project is a collective contribution; BENWU EDITION branding and trademarks belong to their respective rights holders. Other furniture in the collective display appears as part of the setting.
+I contributed to 3D design and visual presentation with the BENWU team. The family is a collective project, and the stated personal role remains within the existing record. BENWU EDITION branding belongs to its rights holders; other furniture in the shared display forms part of the setting.
 
 ## Key question
 
-How can the lights retain a family identity as their length, orientation and support change? This case focuses on the relationship between the repeated profile, longitudinal light strips and metallic surfaces, and on their changing proportions in different spaces.
+What remains recognizable when length, orientation and support change? A roughly four-lobed end profile, longitudinal light strips and metal channels offer visible points of comparison. A second constraint comes from the setting: each light must relate to a table, wall or room as well as work in an isolated product view.
 
 ## Design process
 
-The 3D design and visual presentation extended from individual forms to details and settings. A roughly four-lobed end profile and linear light strips establish common features across upright, wall-mounted and horizontally suspended variants. Silver and gold surfaces provide two visual expressions, while scene views show the scale of the lights in relation to tables, walls and display spaces.
+### Let the profile carry identity and the support carry variation
+
+Table, floor, wall and pendant versions use different orientations and supports while retaining related end contours and light strips. Full-object comparisons reveal the common language and the changes in placement. Similar appearance does not establish actual component interchangeability.
+
+### Explain metal and light through details
+
+Silver and gold surfaces offer two visual expressions. Close views retain channels, light strips and a circular control so reflections and functional areas can be read separately. Render brightness is not a measurement of luminous flux or illuminance.
+
+### Use settings to establish scale
+
+A wall recess emphasizes a vertical body, while a pendant follows the length of a dining table. This is a retrospective reading of the retained object and scene views, explaining the family without inventing undocumented engineering selections.
 
 ![Four lengths of vertical pendant lights against a black background](/works/legacy/lighting/211a2e25f8d767e880624789a3a63594.webp)
 
@@ -34,6 +44,8 @@ The 3D design and visual presentation extended from individual forms to details 
 *Detail view: gold surfaces, longitudinal light strips and a circular control detail.*
 
 ## Final work
+
+The work moves from individual forms and details to interior scenes and the collective display. Compare the contour and support first, then how that language changes with spatial scale.
 
 **Individual forms and details**
 
@@ -77,7 +89,8 @@ The 3D design and visual presentation extended from individual forms to details 
 
 *BENWU EDITION collective display: lights and furniture share a setting, showing spatial relationships within the team's brand context.*
 
-### Material, lighting and scene details
+<details>
+<summary>Source boards and supplementary material · lighting and scenes</summary>
 
 ![Linear pendant light render](/works/refinement-v2/rendering-pdf/011.webp)
 
@@ -91,6 +104,8 @@ The 3D design and visual presentation extended from individual forms to details 
 
 ![Complete floor-light view](/works/refinement-v2/rendering-pdf/026.webp)
 
+</details>
+
 ## Outcome and stage
 
-Eleven images present the lighting family, details, interior scenes and collective display space. Repeated profiles and linear luminous surfaces connect the different types, documenting the product work to which I contributed through 3D design and visual presentation.
+The material presents a lighting family, details and spatial relationships, documenting my contribution to its 3D and visual work. Component interchangeability, thermal performance, optics, electrical safety and production specifications are not established by this presentation.

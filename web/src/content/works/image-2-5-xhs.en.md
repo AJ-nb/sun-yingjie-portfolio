@@ -19,11 +19,19 @@ Test design and the research editorial are collaborative work. The work includes
 
 ## Key question
 
-Completing a requested edit and producing a directly usable image are different judgments. A result can satisfy one change while altering materials, details or product consistency. The experiment records these outcomes separately and makes the basis of assessment visible.
+Completing the requested change and producing an image ready for use must be assessed separately. Continuous editing especially requires checking unintended changes: background or text edits may succeed while packaging texture, identity or form drifts.
 
 ## Design process
 
-Prompts, inputs, original images and edit order were retained, followed by an assessment of each task. The cards show references beside outputs, successive edits and local details. Packaging comparisons use near-silhouette crops and equal display height to aid reading, but the viewpoints differ, so they do not support precise geometric measurement.
+### Fix the reference and retain every original result
+
+The product task uses self-made fictional Qingxu packaging as its sole appearance reference, specifying a cream body, dark green lid, blue vertical label, one orange dot and exact text. Edits change the background, bottom headline and dot color in sequence while keeping other content fixed. Inputs, complete prompts and all raw outputs were retained without repairing errors before grading.
+
+### Check both requested and unintended changes
+
+P2 makes the brand larger than the event title, violating the hierarchy; S3 adds foliage-like shadows where clear space was required. Later edits correctly change the headline or dot while accumulating lid and label texture drift. These failures explain why a completed edit is not necessarily a directly usable image.
+
+Packaging comparisons use silhouette crops and equal display height, but different viewpoints prevent precise geometric measurement. Cards retain the test interface's Images 2.5 label; the corresponding API subtype is unknown.
 
 ![Reference and generated versions of the fictional packaging](/works/digital/image-2-5-xhs/product-consistency.webp)
 
@@ -43,17 +51,9 @@ The 18 formal outputs and individual assessments were organised into 9 research 
 
 ## Outcome and stage
 
-The research cards and asset package are complete and have not been published on Xiaohongshu. All 9/9 requested editing rounds were completed, but this does not mean that 9/9 images were directly usable. The findings come from one evaluator, one fictional brand and a small sample, without an earlier-version, competitor or human baseline. They cannot establish a general success rate or savings in rework or working time.
+The single-reviewer record dated 9 September 2026 classifies 18 formal outputs as 10 directly usable, 8 requiring revision and 0 failing the main task; all 9/9 requested edit rounds were completed. Those denominators answer different questions and do not mean every image was directly usable.
 
-<!-- refinement-v2 -->
-
-### Input → instruction → output → failure judgment
-
-The product task used a self-made fictional Qingxu packaging reference, specifying the cream body, dark green lid, blue vertical label, single orange dot and exact text. Continuous edits changed the background, bottom headline and dot color in sequence while requiring other content to remain unchanged. Original images, complete prompts and every output were preserved without repairing errors before grading.
-
-Review checks both the requested change and unintended changes. P2 made the brand name larger than the event title, violating hierarchy. S3 added foliage-like shadows to an area required to remain clear. The second and third edit rounds changed the requested headline or dot, but accumulated changes to lid and label textures. Nine completed edit instructions therefore do not mean nine directly usable images.
-
-The assessment dated 9 September 2026 classified 18 formal outputs as 10 directly usable, 8 requiring revision and 0 failing the primary task. These grades apply to this fictional brief and a single visual reviewer. They do not establish pixel identity, engineering geometry or a general success rate. The interface name was recorded as Images 2.5; the API subtype remains unknown.
+Nine research cards and the asset package are complete and unpublished on Xiaohongshu. Findings apply to one fictional brand and brief without an earlier-version, competitor or human baseline. They do not establish universal success, pixel identity, engineering accuracy or time saved.
 
 ### Sources
 

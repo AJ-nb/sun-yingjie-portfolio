@@ -19,11 +19,13 @@ This is a collaborative project. The material includes sketches, overall form, c
 
 ## Key question
 
-The focus is on connecting the bat-inspired character with the seat, frame, wheels and control area in coherent proportions while maintaining a clear direction and identity.
+The bat reference needs to become a front and shell proportion while the seat, frame, tires and controls still read as a vehicle. The relationship between the theme and occupant space matters more than adding animal details.
 
 ## Design process
 
-Sketches develop the front and side silhouette from the bat reference. Exploded views organize the frame, seat, lighting and display. Orthographic views and human-scale illustrations supplement the proportions, while color renders compare visual treatments.
+Sketches translate the bat into the front, side silhouette and shell facets. Orthographic and human-scale views communicate proportions; exploded drawings separate the frame, seat, lighting and display, while color studies compare visual weight.
+
+The retained material supports discussion of form and component organization. A human-scale illustration does not validate sustained riding posture, and an exploded view is not an assembly- or strength-tested mechanism.
 
 ## Final work
 

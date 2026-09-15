@@ -19,11 +19,13 @@ The original board credits Sun Yingjie (孙英杰). This case is presented as a 
 
 ## Key question
 
-The design needs to make the transition between transport and stationary use understandable, while organizing how the container, handle and filter layers connect and separate.
+During transport the container rolls; at rest it becomes a water-storage and filtering arrangement. The pull handle, fixings, layer joints and outlet need clear roles in both states. The transition must be understandable beyond the board's labels.
 
 ## Design process
 
-The proposal explores rolling transport as a way to reduce direct lifting, with filtering layers arranged in a vertical stack. An exploded view presents the pull handle, fastening structure, outlet and layer relationships. Human figures and orthographic views illustrate the two configurations.
+The original board places rolling and vertical stacking side by side, using human figures and orthographic views to show posture changes. An exploded view locates the handle, fasteners, outlet and filter layers, retaining Sun Yingjie's original credit.
+
+This retrospective examines the disassembly and assembly needed between rolling and stacking. Reduced lifting is a design intention; actual transport effort and water safety require testing. The number of filter layers does not establish filtration performance.
 
 ## Final work
 

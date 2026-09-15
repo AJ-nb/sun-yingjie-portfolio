@@ -6,6 +6,7 @@ export default defineConfig(({ command }) => ({
   base: './',
   plugins: [react()],
   publicDir: command === 'serve' ? 'public' : false,
-  build: { emptyOutDir: true },
+  // Keep reproducible builds outside desktop sync folders when needed.
+  build: { emptyOutDir: true, outDir: process.env.PORTFOLIO_BUILD_DIR || 'dist' },
   server: { host: '127.0.0.1', port: 5173, fs: { strict: true } },
 }))

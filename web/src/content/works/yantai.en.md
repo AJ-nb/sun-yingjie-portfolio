@@ -19,11 +19,19 @@ Product and interaction work is collaborative. This case presents the learning s
 
 ## Key question
 
-A style label can stand in for actual analysis. The tool needs to direct attention to specific forms and connections, explain the basis of an interpretation, and make the limits of a single image visible.
+A style label does not explain how a form works. The tool must connect judgments to image locations and distinguish visible evidence, inferred effects and possible transfer exercises. Confirming an archive entry does not turn an inference into fact.
 
 ## Design process
 
-The workspace follows observation, analysis, transfer and archiving. Design methods connect to positions in the image. Each entry distinguishes visible evidence, an interpretation of its effect and a transfer method. Human confirmation precedes classification and archiving so that model inferences are not automatically treated as established product facts.
+### Connect analysis to image locations
+
+Capture first checks decoding and dimensions, then organizes form techniques, underlying form families, structural hypotheses and design exploration. Language, structure and CMF can be examined and cached separately, making each review question explicit.
+
+### Preserve a human choice before archiving
+
+Users confirm the primary style, folders and content to write. A stable identifier detects duplicates; existing assets receive only missing folder memberships, and tags are read back after writing. This describes source-defined behavior; actual library writes need environment-specific validation.
+
+Style IDs supply an archive vocabulary rather than judgment. Model explanations of materials, connections and manufacturing remain inferences; confirmation governs the act of saving.
 
 ## Final work
 
@@ -35,21 +43,9 @@ The current interface starts with a product image and connects form analysis to 
 
 ## Outcome and stage
 
-The project reached v0.7.5 RC, focused on product form learning and archiving with human confirmation. OCR, the workbench, image editing, three-view generation and reconstruction from the earlier v0.6.3 have been removed from the current module. A single-image inference still cannot establish actual materials, hidden structures, the original author or manufacturing feasibility.
+The project reached v0.7.5 RC, focused on form learning and human-confirmed archiving. luck-power, visual-lens and the AJNB Yantai module form one development line, not separate projects per working copy. The August 2026 narrowing retains older data access while removing earlier v0.6.3 OCR, workbench, image-editing, three-view and reconstruction entries from the current module.
 
-<!-- refinement-v2 -->
-
-### A complete learning loop
-
-Capture first validates image decoding and dimensions, then produces form techniques, underlying form families, structural hypotheses and design exploration. Design language, structure and CMF can be requested separately and cached independently, making the question under review explicit.
-
-Before archiving, users confirm a primary style, target folders and the content to write. A stable capture identifier identifies duplicates; existing assets only receive missing folder memberships. Tags are read back after writing. This describes the source-defined recovery and deduplication mechanism. Live library integration requires environment-specific validation.
-
-### Evolution and focus
-
-luck-power, visual-lens and the AJNB Yantai module are one development line. August 2026 records show a narrowing from broad image functions to form study, retaining access to older data while removing OCR, image editing, three-view and reconstruction interfaces from the current module. The predecessor is preserved, while current results describe retained capabilities only.
-
-Style IDs and folder paths provide a vocabulary for archiving, not a replacement for judgment. Model statements about material, connections, style and manufacturing remain inferences. Human confirmation governs recording and archiving; it does not turn a single-image inference into a verified fact.
+The study fixture uses a lamp and interface numbers to explain interaction, not as separate design outcomes or measurements. Single images still cannot establish materials, hidden structure, authorship or manufacturing feasibility. Actual Eagle writes need environment-specific validation.
 
 ### Sources
 

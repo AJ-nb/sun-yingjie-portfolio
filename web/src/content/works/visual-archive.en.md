@@ -19,11 +19,13 @@ The extension prototype and interaction work is collaborative. This case focuses
 
 ## Key question
 
-Measurable pixel information and interpretations of an image can easily become mixed. The design needs to distinguish them and clearly show whether an archive has been generated, so that an empty state is not mistaken for completed analysis.
+Pixel dimensions are locally measured; material descriptions are interpretations; hidden structure may be unknowable. The interface needs to separate them and show whether a model archive exists. A complete layout should not make an empty state appear conclusive.
 
 ## Design process
 
-The page presents the reference image and additional prompt first, followed by local measurements. The archive is organised into visible observations, visual inferences, unknowns and a reconstruction plan. When a service is not configured or generation has not occurred, the page states this directly while keeping the available local results.
+The page first presents the reference, additional prompt and local measurements, then reserves distinct areas for observations, inferences, unknowns and a reconstruction plan. When a service is unconfigured or generation has not occurred, available dimensions, ratio and palette remain visible alongside the pending state.
+
+Desktop places image and archive together; mobile follows the same evidence order vertically. This state design shows what is known and what remains unfinished without filling the gap with invented model findings.
 
 ## Final work
 
@@ -39,10 +41,8 @@ The desktop layout connects the reference image, local measurements and archive 
 
 ## Outcome and stage
 
-The work includes a v0.1.0 extension prototype and layouts for two screen formats. This case shows the prototype flow without claiming validated model-analysis accuracy. A single image cannot establish hidden geometry, exact materials, source files or the original prompt; the archive cannot replace original production records.
+Version 0.1.0 provides a Chrome extension prototype and desktop/mobile layouts. The captures establish local measurement and pending-archive organization, not model accuracy or a completed live analysis. One image cannot establish hidden geometry, exact material, source files or the original prompt.
 
-<!-- refinement-v2 -->
+### Sources
 
-### Source and stage check
-
-Evidence comes from the visual-archive-extension v0.1.0 README and saved desktop/mobile analysis pages. This is a Chrome extension prototype, not a custom browser. The original start date is unconfirmed. Pending-analysis states and missing source information remain visible instead of being replaced with invented completed analysis.
+The visual-archive-extension v0.1.0 README and retained analysis pages. The original start date is unconfirmed; pending states and missing source information remain explicit.

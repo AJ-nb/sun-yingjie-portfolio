@@ -1,0 +1,1035 @@
+{
+  "checked_at_utc": "2026-09-15T04:48:36.669002+00:00",
+  "method": "GitHub REST repository metadata plus license-file endpoint; authenticated read-only access; no source code or demo assets copied.",
+  "repositories": [
+    {
+      "requested_repository": "motiondivision/motion",
+      "full_name": "motiondivision/motion",
+      "html_url": "https://github.com/motiondivision/motion",
+      "description": "A modern animation library for React and JavaScript",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-09-14T14:58:08Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE.md",
+        "sha": "81110442c72270dd317667cc52181522647401f2",
+        "html_url": "https://github.com/motiondivision/motion/blob/main/LICENSE.md",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "1bf0dc3f7727723e5a032ed12164a47cf92c05204cb1a3485f123c24e2833ed1"
+      },
+      "license_excerpt": "The MIT License (MIT)\n\nCopyright (c) 2024 [Motion](https://motion.dev) B.V.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIN"
+    },
+    {
+      "requested_repository": "mrdoob/three.js",
+      "full_name": "mrdoob/three.js",
+      "html_url": "https://github.com/mrdoob/three.js",
+      "description": "JavaScript 3D Library.",
+      "default_branch": "dev",
+      "archived": false,
+      "pushed_at": "2026-09-14T15:39:59Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "8ada2a5f982916b0ba4b7a0aa7de347587e745d7",
+        "html_url": "https://github.com/mrdoob/three.js/blob/dev/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc"
+      },
+      "license_excerpt": "The MIT License\n\nCopyright © 2010-2026 three.js authors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIE"
+    },
+    {
+      "requested_repository": "pmndrs/react-three-fiber",
+      "full_name": "pmndrs/react-three-fiber",
+      "html_url": "https://github.com/pmndrs/react-three-fiber",
+      "description": "🇨🇭 A React renderer for Three.js",
+      "default_branch": "master",
+      "archived": false,
+      "pushed_at": "2026-09-13T13:32:18Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "493cfb3c8335c31bea327e0e27a8cb22004111d7",
+        "html_url": "https://github.com/pmndrs/react-three-fiber/blob/master/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "9c35b5de7b7493a707fffe4eb23bd2f7f449153c1911f7c6eefb4e591fd5349a"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2019-2025 Poimandres\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLU"
+    },
+    {
+      "requested_repository": "pmndrs/drei",
+      "full_name": "pmndrs/drei",
+      "html_url": "https://github.com/pmndrs/drei",
+      "description": "🥉 useful helpers for react-three-fiber",
+      "default_branch": "master",
+      "archived": false,
+      "pushed_at": "2026-09-07T19:27:38Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "55e1bd7f9a4bcd86361e735f17d740ee35757c7b",
+        "html_url": "https://github.com/pmndrs/drei/blob/master/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "2e36b208b403882158daf95cae207087bbb830db4d434a79ebafffca177244c8"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2020 react-spring\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDIN"
+    },
+    {
+      "requested_repository": "pmndrs/react-postprocessing",
+      "full_name": "pmndrs/react-postprocessing",
+      "html_url": "https://github.com/pmndrs/react-postprocessing",
+      "description": "📬  Postprocessing for react-three-fiber",
+      "default_branch": "master",
+      "archived": false,
+      "pushed_at": "2026-09-02T19:14:56Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "55e1bd7f9a4bcd86361e735f17d740ee35757c7b",
+        "html_url": "https://github.com/pmndrs/react-postprocessing/blob/master/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "2e36b208b403882158daf95cae207087bbb830db4d434a79ebafffca177244c8"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2020 react-spring\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDIN"
+    },
+    {
+      "requested_repository": "pmndrs/zustand",
+      "full_name": "pmndrs/zustand",
+      "html_url": "https://github.com/pmndrs/zustand",
+      "description": "🐻 Bear necessities for state management in React",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-09-14T22:44:24Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "a2c2649deec2aabf248294a60a6e2e63a58f4a2b",
+        "html_url": "https://github.com/pmndrs/zustand/blob/main/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "c1e6e266563517467b1bf874817d23e426f3149252bd7d42758cd697514b8417"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2019 Paul Henschel\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDI"
+    },
+    {
+      "requested_repository": "igordanchenko/yet-another-react-lightbox",
+      "full_name": "igordanchenko/yet-another-react-lightbox",
+      "html_url": "https://github.com/igordanchenko/yet-another-react-lightbox",
+      "description": "Modern React lightbox component",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-09-14T11:38:03Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "b5db436ef236ed3dd8c0610dd5fd917ea3ffcb9b",
+        "html_url": "https://github.com/igordanchenko/yet-another-react-lightbox/blob/main/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "edde2a52c6ac1a1dcce70a4f3dd739e27f160ebc0615587e2ee2aa609f13facb"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2022 Igor Danchenko\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of\nthe Software, and to permit persons to whom the Software is furnished to do so,\nsubject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUD"
+    },
+    {
+      "requested_repository": "sneas/img-comparison-slider",
+      "full_name": "sneas/img-comparison-slider",
+      "html_url": "https://github.com/sneas/img-comparison-slider",
+      "description": "Image comparison slider. Compare images before and after. Supports React, Vue, Angular.",
+      "default_branch": "master",
+      "archived": false,
+      "pushed_at": "2026-09-03T00:38:20Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "8bffb2812d6511dd15c7937a6197a5d75923725e",
+        "html_url": "https://github.com/sneas/img-comparison-slider/blob/master/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "7ea86ea7d6b3bf7d1368064512d24bdbe8a5c7c66dd7e0e55f608ec3c39cc2b3"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2019 Dmytro Snisarenko\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INC"
+    },
+    {
+      "requested_repository": "lucide-icons/lucide",
+      "full_name": "lucide-icons/lucide",
+      "html_url": "https://github.com/lucide-icons/lucide",
+      "description": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-09-14T19:04:52Z",
+      "license_metadata": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "718bb3f0e44153809972abed31839375804bf652",
+        "html_url": "https://github.com/lucide-icons/lucide/blob/main/LICENSE",
+        "license": {
+          "key": "other",
+          "name": "Other",
+          "spdx_id": "NOASSERTION",
+          "url": null,
+          "node_id": "MDc6TGljZW5zZTA="
+        },
+        "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+      },
+      "license_excerpt": "ISC License\n\nCopyright (c) 2026 Lucide Icons and Contributors\n\nPermission to use, copy, modify, and/or distribute this software for any\npurpose with or without fee is hereby granted, provided that the above\ncopyright notice and this permission notice appear in all copies.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES\nWITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF\nMERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR\nANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES\nWHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN\nACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF\nOR "
+    },
+    {
+      "requested_repository": "microsoft/playwright",
+      "full_name": "microsoft/playwright",
+      "html_url": "https://github.com/microsoft/playwright",
+      "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-09-14T19:20:54Z",
+      "license_metadata": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "df112373eb2e23e459bf93ec412be1764dc5a38b",
+        "html_url": "https://github.com/microsoft/playwright/blob/main/LICENSE",
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+        },
+        "sha256": "45873d00a0dd243596deb4aa23b2493b3d1f0671921bf2538ea431d7380220eb"
+      },
+      "license_excerpt": "                                 Apache License\r\n                           Version 2.0, January 2004\r\n                        http://www.apache.org/licenses/\r\n\r\n   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\r\n\r\n   1. Definitions.\r\n\r\n      \"License\" shall mean the terms and conditions for use, reproduction,\r\n      and distribution as defined by Sections 1 through 9 of this document.\r\n\r\n      \"Licensor\" shall mean the copyright owner or entity authorized by\r\n      the copyright owner that is granting the License.\r\n\r\n      \"Legal Entity\" shall mean the union of the acting entity and all\r\n      other entities that control, are controlled by, or are under common\r\n      control w"
+    },
+    {
+      "requested_repository": "dequelabs/axe-core",
+      "full_name": "dequelabs/axe-core",
+      "html_url": "https://github.com/dequelabs/axe-core",
+      "description": "Accessibility engine for automated Web UI testing",
+      "default_branch": "develop",
+      "archived": false,
+      "pushed_at": "2026-09-14T22:44:43Z",
+      "license_metadata": {
+        "key": "mpl-2.0",
+        "name": "Mozilla Public License 2.0",
+        "spdx_id": "MPL-2.0",
+        "url": "https://api.github.com/licenses/mpl-2.0",
+        "node_id": "MDc6TGljZW5zZTE0"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "be2cc4dfb609fb6c38f6365ec345bded3350dd63",
+        "html_url": "https://github.com/dequelabs/axe-core/blob/develop/LICENSE",
+        "license": {
+          "key": "mpl-2.0",
+          "name": "Mozilla Public License 2.0",
+          "spdx_id": "MPL-2.0",
+          "url": "https://api.github.com/licenses/mpl-2.0",
+          "node_id": "MDc6TGljZW5zZTE0"
+        },
+        "sha256": "af175b9d96ee93c21a036152e1b905b0b95304d4ae8c2c921c7609100ba8df7e"
+      },
+      "license_excerpt": "Mozilla Public License, version 2.0\n\n1. Definitions\n\n1.1. \"Contributor\"\n\n     means each individual or legal entity that creates, contributes to the\n     creation of, or owns Covered Software.\n\n1.2. \"Contributor Version\"\n\n     means the combination of the Contributions of others (if any) used by a\n     Contributor and that particular Contributor's Contribution.\n\n1.3. \"Contribution\"\n\n     means Covered Software of a particular Contributor.\n\n1.4. \"Covered Software\"\n\n     means Source Code Form to which the initial Contributor has attached the\n     notice in Exhibit A, the Executable Form of such Source Code Form, and\n     Modifications of such Source Code Form, in each case including portions\n"
+    },
+    {
+      "requested_repository": "dequelabs/axe-core-npm",
+      "full_name": "dequelabs/axe-core-npm",
+      "html_url": "https://github.com/dequelabs/axe-core-npm",
+      "description": null,
+      "default_branch": "develop",
+      "archived": false,
+      "pushed_at": "2026-09-02T12:05:31Z",
+      "license_metadata": {
+        "key": "mpl-2.0",
+        "name": "Mozilla Public License 2.0",
+        "spdx_id": "MPL-2.0",
+        "url": "https://api.github.com/licenses/mpl-2.0",
+        "node_id": "MDc6TGljZW5zZTE0"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "f0e5c79e18115b526774c3bc272e4a5ffd5c285d",
+        "html_url": "https://github.com/dequelabs/axe-core-npm/blob/develop/LICENSE",
+        "license": {
+          "key": "mpl-2.0",
+          "name": "Mozilla Public License 2.0",
+          "spdx_id": "MPL-2.0",
+          "url": "https://api.github.com/licenses/mpl-2.0",
+          "node_id": "MDc6TGljZW5zZTE0"
+        },
+        "sha256": "812e9d96e900a093ae4d1d3f22c5f82f568a0a0461c3007a99d00573d41c5461"
+      },
+      "license_excerpt": "Mozilla Public License, version 2.0\n\n1. Definitions\n\n1.1. \"Contributor\"\n\n     means each individual or legal entity that creates, contributes to the\n     creation of, or owns Covered Software.\n\n1.2. \"Contributor Version\"\n\n     means the combination of the Contributions of others (if any) used by a\n     Contributor and that particular Contributor's Contribution.\n\n1.3. \"Contribution\"\n\n     means Covered Software of a particular Contributor.\n\n1.4. \"Covered Software\"\n\n     means Source Code Form to which the initial Contributor has attached the\n     notice in Exhibit A, the Executable Form of such Source Code Form, and\n     Modifications of such Source Code Form, in each case including portions\n"
+    },
+    {
+      "requested_repository": "donmccurdy/glTF-Transform",
+      "full_name": "donmccurdy/glTF-Transform",
+      "html_url": "https://github.com/donmccurdy/glTF-Transform",
+      "description": "glTF 2.0 SDK for JavaScript and TypeScript, on Web and Node.js.",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-09-14T21:53:26Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE.md",
+        "sha": "066192ec0b90d3f593a83fcb0a694c2055269087",
+        "html_url": "https://github.com/donmccurdy/glTF-Transform/blob/main/LICENSE.md",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "2c4f111d00dbf22b10d31a14813c5f5de6a828640f7311f26b9dda89b3fce165"
+      },
+      "license_excerpt": "The MIT License (MIT)\n\nCopyright (c) 2024 Don McCurdy\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED,"
+    },
+    {
+      "requested_repository": "KhronosGroup/glTF-Validator",
+      "full_name": "KhronosGroup/glTF-Validator",
+      "html_url": "https://github.com/KhronosGroup/glTF-Validator",
+      "description": "Tool to validate glTF assets.",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2025-12-30T10:44:16Z",
+      "license_metadata": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+        "html_url": "https://github.com/KhronosGroup/glTF-Validator/blob/main/LICENSE",
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+        },
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+      },
+      "license_excerpt": "\n                                 Apache License\n                           Version 2.0, January 2004\n                        http://www.apache.org/licenses/\n\n   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n   1. Definitions.\n\n      \"License\" shall mean the terms and conditions for use, reproduction,\n      and distribution as defined by Sections 1 through 9 of this document.\n\n      \"Licensor\" shall mean the copyright owner or entity authorized by\n      the copyright owner that is granting the License.\n\n      \"Legal Entity\" shall mean the union of the acting entity and all\n      other entities that control, are controlled by, or are under common\n      control with that entity"
+    },
+    {
+      "requested_repository": "fontsource/fontsource",
+      "full_name": "fontsource/fontsource",
+      "html_url": "https://github.com/fontsource/fontsource",
+      "description": "Self-host Open Source fonts in neatly bundled NPM packages.",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-09-13T13:55:25Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "a30a0844aabbfec84e8e1aaa7ea539e01feff2ca",
+        "html_url": "https://github.com/fontsource/fontsource/blob/main/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "994fcaceb7745a4d20a9034362c9f807cca5a5e89c9ee9d4e2195a2a98e28186"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2024 Ayuhito\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT"
+    },
+    {
+      "requested_repository": "fontsource/font-files",
+      "full_name": "fontsource/font-files",
+      "html_url": "https://github.com/fontsource/font-files",
+      "description": "2000+ open-source fonts bundled into neat packages.",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-09-13T02:48:09Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "4021dd7361261cb4a2d79554d21bad19cde3daff",
+        "html_url": "https://github.com/fontsource/font-files/blob/main/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "7ae2199ed05313ed7281603f721cc246b9279fb8c48c31bcdbaf6b942e54f4f7"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2023 fontsource\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING "
+    },
+    {
+      "requested_repository": "notofonts/noto-cjk",
+      "full_name": "notofonts/noto-cjk",
+      "html_url": "https://github.com/notofonts/noto-cjk",
+      "description": "Noto CJK fonts",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2025-12-16T05:18:51Z",
+      "license_metadata": null,
+      "license_file_error": "gh: Not Found (HTTP 404)"
+    },
+    {
+      "requested_repository": "google/fonts",
+      "full_name": "google/fonts",
+      "html_url": "https://github.com/google/fonts",
+      "description": "Font files available from Google Fonts, and a public issue tracker for all things Google Fonts",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-09-14T13:38:32Z",
+      "license_metadata": null,
+      "license_file_error": "gh: Not Found (HTTP 404)"
+    },
+    {
+      "requested_repository": "indestructible-type/Bodoni",
+      "full_name": "indestructible-type/Bodoni",
+      "html_url": "https://github.com/indestructible-type/Bodoni",
+      "description": "Bodoni* by indestructible type*",
+      "default_branch": "master",
+      "archived": false,
+      "pushed_at": "2024-02-18T16:27:19Z",
+      "license_metadata": {
+        "key": "ofl-1.1",
+        "name": "SIL Open Font License 1.1",
+        "spdx_id": "OFL-1.1",
+        "url": "https://api.github.com/licenses/ofl-1.1",
+        "node_id": "MDc6TGljZW5zZTE3"
+      },
+      "license_file": {
+        "path": "OFL.txt",
+        "sha": "75fc862b7ab6823ab707278a90cf8b2c3560b79d",
+        "html_url": "https://github.com/indestructible-type/Bodoni/blob/master/OFL.txt",
+        "license": {
+          "key": "ofl-1.1",
+          "name": "SIL Open Font License 1.1",
+          "spdx_id": "OFL-1.1",
+          "url": "https://api.github.com/licenses/ofl-1.1",
+          "node_id": "MDc6TGljZW5zZTE3"
+        },
+        "sha256": "86279342767d5f3e6b07b49dd591f196dcb0ec9ec8b9ea339c09221e61863d46"
+      },
+      "license_excerpt": "Copyright 2020 The Bodoni Moda Project Authors (https://github.com/indestructible-type/Bodoni)\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttps://scripts.sil.org/OFL\n\n\n-----------------------------------------------------------\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n-----------------------------------------------------------\n\nPREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font creation\nefforts of academic and linguistic communities, and to provide a free and\nopen framework in which fonts ma"
+    },
+    {
+      "requested_repository": "dayinji/sen-3d-resume",
+      "full_name": "dayinji/sen-3d-resume",
+      "html_url": "https://github.com/dayinji/sen-3d-resume",
+      "description": null,
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-08-08T06:24:59Z",
+      "license_metadata": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "aceafd1cc02457c49102d146d69fed6a488093aa",
+        "html_url": "https://github.com/dayinji/sen-3d-resume/blob/main/LICENSE",
+        "license": {
+          "key": "other",
+          "name": "Other",
+          "spdx_id": "NOASSERTION",
+          "url": null,
+          "node_id": "MDc6TGljZW5zZTA="
+        },
+        "sha256": "7971398d71fd7a2874509a7ff3651f7b26c8628851746b67e9944de8a7d06a10"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2026 Sen Zheng (SEN)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLU"
+    },
+    {
+      "requested_repository": "codrops/ScrollBasedLayoutAnimations",
+      "full_name": "codrops/ScrollBasedLayoutAnimations",
+      "html_url": "https://github.com/codrops/ScrollBasedLayoutAnimations",
+      "description": "An exploration of different scroll based layout switch animations using GSAP's ScrollTrigger and Flip.",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2023-07-20T09:38:06Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "b045fc89c48fe9de1ea832f99577a4917aa43dd5",
+        "html_url": "https://github.com/codrops/ScrollBasedLayoutAnimations/blob/main/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "85131f2bb7714dc895ff5d7d68db65acc5ad0e5dfd72162869fc8d63dec06056"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2009 - 2022 [Codrops](https://tympanus.net/codrops)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY "
+    },
+    {
+      "requested_repository": "codrops/LinesToLayout",
+      "full_name": "codrops/LinesToLayout",
+      "html_url": "https://github.com/codrops/LinesToLayout",
+      "description": "A simple layout switch example where we go from a typography row view with inline images to a large image preview with more content.",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2022-04-05T09:46:57Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "e50a7c37aecf056cd37680fbfd7157b30b5afc10",
+        "html_url": "https://github.com/codrops/LinesToLayout/blob/main/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "1f6db3d0b162eaa534ff5585db684f00c41f776325f7fd11ebf9373650099ce1"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2009 - 2021 [Codrops](https://tympanus.net/codrops)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY "
+    },
+    {
+      "requested_repository": "codrops/OnScrollTypographyAnimations",
+      "full_name": "codrops/OnScrollTypographyAnimations",
+      "html_url": "https://github.com/codrops/OnScrollTypographyAnimations",
+      "description": "Inspiration and ideas for on-scroll typography animations that add an extra layer of creativity to a website design.",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2023-12-05T12:32:33Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "b045fc89c48fe9de1ea832f99577a4917aa43dd5",
+        "html_url": "https://github.com/codrops/OnScrollTypographyAnimations/blob/main/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "85131f2bb7714dc895ff5d7d68db65acc5ad0e5dfd72162869fc8d63dec06056"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2009 - 2022 [Codrops](https://tympanus.net/codrops)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY "
+    },
+    {
+      "requested_repository": "codrops/Scroll3DGrid",
+      "full_name": "codrops/Scroll3DGrid",
+      "html_url": "https://github.com/codrops/Scroll3DGrid",
+      "description": "On-scroll animations for perspective image grids with different layouts.",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2023-08-03T10:20:03Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "b045fc89c48fe9de1ea832f99577a4917aa43dd5",
+        "html_url": "https://github.com/codrops/Scroll3DGrid/blob/main/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "85131f2bb7714dc895ff5d7d68db65acc5ad0e5dfd72162869fc8d63dec06056"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2009 - 2022 [Codrops](https://tympanus.net/codrops)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY "
+    },
+    {
+      "requested_repository": "russellsamora/scrollama",
+      "full_name": "russellsamora/scrollama",
+      "html_url": "https://github.com/russellsamora/scrollama",
+      "description": "Scrollytelling with IntersectionObserver.",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2025-11-13T14:13:24Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "91fba417bc98e2dd011018374b3767c51ad2b023",
+        "html_url": "https://github.com/russellsamora/scrollama/blob/main/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "1a01e906c644ac04b95e098af3e113f65c276b7645df782a26c85f619054007d"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2022 Russell Samora\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUD"
+    },
+    {
+      "requested_repository": "code-hike/codehike",
+      "full_name": "code-hike/codehike",
+      "html_url": "https://github.com/code-hike/codehike",
+      "description": "Build rich content websites with Markdown and React",
+      "default_branch": "next",
+      "archived": false,
+      "pushed_at": "2026-03-17T09:09:59Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "license",
+        "sha": "fd40a6dd9db66439fd6b44fdf54c7920545bc7e2",
+        "html_url": "https://github.com/code-hike/codehike/blob/next/license",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "0445ef9f08857fe91084a92af672d51028fffd181630d3056beb6c0c9984c07f"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2020 Code Hike\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING B"
+    },
+    {
+      "requested_repository": "xyflow/xyflow",
+      "full_name": "xyflow/xyflow",
+      "html_url": "https://github.com/xyflow/xyflow",
+      "description": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-09-14T13:10:06Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "072ff46d7c23dd8e18ccba11aa6563f14e524312",
+        "html_url": "https://github.com/xyflow/xyflow/blob/main/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "023119ac20fb1c8c9930abe0bcd196989a1960388529a96fc43cebf96f07c9ff"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2019-2025 webkid GmbH\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCL"
+    },
+    {
+      "requested_repository": "davidjerleke/embla-carousel",
+      "full_name": "davidjerleke/embla-carousel",
+      "html_url": "https://github.com/davidjerleke/embla-carousel",
+      "description": "A lightweight carousel library with fluid motion and great swipe precision.",
+      "default_branch": "master",
+      "archived": false,
+      "pushed_at": "2026-09-13T07:23:38Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "2376624f527f4f1e53887552e42b004ab4056898",
+        "html_url": "https://github.com/davidjerleke/embla-carousel/blob/master/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "992490064b90ec94c302fe5f29dcc14cb44145857064e46f9ffe6c8f511c1093"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) David Jerleke.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING B"
+    },
+    {
+      "requested_repository": "darkroomengineering/lenis",
+      "full_name": "darkroomengineering/lenis",
+      "html_url": "https://github.com/darkroomengineering/lenis",
+      "description": "Smooth scroll as it should be",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-09-09T14:10:28Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "4960877b2aad0e450491cb902d66e825d19acf80",
+        "html_url": "https://github.com/darkroomengineering/lenis/blob/main/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "7d1896b31f2eed9f286b05faca067c4e35b2f109ae7c4ed5105220e2d2820228"
+      },
+      "license_excerpt": "The MIT License\n\nCopyright (c) 2024 darkroom.engineering\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI"
+    },
+    {
+      "requested_repository": "pmndrs/react-spring",
+      "full_name": "pmndrs/react-spring",
+      "html_url": "https://github.com/pmndrs/react-spring",
+      "description": "✌️ A spring physics based React animation library",
+      "default_branch": "next",
+      "archived": false,
+      "pushed_at": "2026-09-14T16:59:14Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "a926771a85a09870f8799e988d8f191ef00ae44a",
+        "html_url": "https://github.com/pmndrs/react-spring/blob/next/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "51863a051d919d260e725327cb58df68d04289919d90fa64283beb9c646a2b02"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2018-present Paul Henschel, react-spring, all contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY "
+    },
+    {
+      "requested_repository": "theatre-js/theatre",
+      "full_name": "theatre-js/theatre",
+      "html_url": "https://github.com/theatre-js/theatre",
+      "description": "Motion design editor for the web",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2024-08-14T13:20:18Z",
+      "license_metadata": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "5cdf25efd64842fdfde11ad49db04cd4a3efbd63",
+        "html_url": "https://github.com/theatre-js/theatre/blob/main/LICENSE",
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+        },
+        "sha256": "32a36fa187169c24228aaf6889371e7ffb4273d327ef37e340994e7ca157879b"
+      },
+      "license_excerpt": "                                 Apache License\n                           Version 2.0, January 2004\n                        http://www.apache.org/licenses/\n\n   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n   1. Definitions.\n\n      \"License\" shall mean the terms and conditions for use, reproduction,\n      and distribution as defined by Sections 1 through 9 of this document.\n\n      \"Licensor\" shall mean the copyright owner or entity authorized by\n      the copyright owner that is granting the License.\n\n      \"Legal Entity\" shall mean the union of the acting entity and all\n      other entities that control, are controlled by, or are under common\n      control with that entity."
+    },
+    {
+      "requested_repository": "GoogleChrome/lighthouse",
+      "full_name": "GoogleChrome/lighthouse",
+      "html_url": "https://github.com/GoogleChrome/lighthouse",
+      "description": "Automated auditing, performance metrics, and best practices for the web.",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-09-10T23:05:49Z",
+      "license_metadata": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+        "html_url": "https://github.com/GoogleChrome/lighthouse/blob/main/LICENSE",
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdx_id": "Apache-2.0",
+          "url": "https://api.github.com/licenses/apache-2.0",
+          "node_id": "MDc6TGljZW5zZTI="
+        },
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+      },
+      "license_excerpt": "\n                                 Apache License\n                           Version 2.0, January 2004\n                        http://www.apache.org/licenses/\n\n   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n   1. Definitions.\n\n      \"License\" shall mean the terms and conditions for use, reproduction,\n      and distribution as defined by Sections 1 through 9 of this document.\n\n      \"Licensor\" shall mean the copyright owner or entity authorized by\n      the copyright owner that is granting the License.\n\n      \"Legal Entity\" shall mean the union of the acting entity and all\n      other entities that control, are controlled by, or are under common\n      control with that entity"
+    },
+    {
+      "requested_repository": "vercel/satori",
+      "full_name": "vercel/satori",
+      "html_url": "https://github.com/vercel/satori",
+      "description": "Enlightened library to convert HTML and CSS to SVG",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2026-09-10T17:22:48Z",
+      "license_metadata": {
+        "key": "mpl-2.0",
+        "name": "Mozilla Public License 2.0",
+        "spdx_id": "MPL-2.0",
+        "url": "https://api.github.com/licenses/mpl-2.0",
+        "node_id": "MDc6TGljZW5zZTE0"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "a612ad9813b006ce81d1ee438dd784da99a54007",
+        "html_url": "https://github.com/vercel/satori/blob/main/LICENSE",
+        "license": {
+          "key": "mpl-2.0",
+          "name": "Mozilla Public License 2.0",
+          "spdx_id": "MPL-2.0",
+          "url": "https://api.github.com/licenses/mpl-2.0",
+          "node_id": "MDc6TGljZW5zZTE0"
+        },
+        "sha256": "1f256ecad192880510e84ad60474eab7589218784b9a50bc7ceee34c2b91f1d5"
+      },
+      "license_excerpt": "Mozilla Public License Version 2.0\n==================================\n\n1. Definitions\n--------------\n\n1.1. \"Contributor\"\n    means each individual or legal entity that creates, contributes to\n    the creation of, or owns Covered Software.\n\n1.2. \"Contributor Version\"\n    means the combination of the Contributions of others (if any) used\n    by a Contributor and that particular Contributor's Contribution.\n\n1.3. \"Contribution\"\n    means Covered Software of a particular Contributor.\n\n1.4. \"Covered Software\"\n    means Source Code Form to which the initial Contributor has attached\n    the notice in Exhibit A, the Executable Form of such Source Code\n    Form, and Modifications of such Source Code F"
+    },
+    {
+      "requested_repository": "pmndrs/gltfjsx",
+      "full_name": "pmndrs/gltfjsx",
+      "html_url": "https://github.com/pmndrs/gltfjsx",
+      "description": "🎮 Turns GLTFs into JSX components",
+      "default_branch": "master",
+      "archived": false,
+      "pushed_at": "2024-11-04T16:51:26Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "8268b7a4ebff68143b9a14a98b5a38d6ae961774",
+        "html_url": "https://github.com/pmndrs/gltfjsx/blob/master/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "ebd6a29bec64bdfcf8795388f2eceaf1479c14d343c0846de347ab8609d66139"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2020 Paul Henschel\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDI"
+    },
+    {
+      "requested_repository": "pmndrs/leva",
+      "full_name": "pmndrs/leva",
+      "html_url": "https://github.com/pmndrs/leva",
+      "description": "🌋 React-first components GUI",
+      "default_branch": "main",
+      "archived": false,
+      "pushed_at": "2025-11-09T00:28:35Z",
+      "license_metadata": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "license_file": {
+        "path": "LICENSE",
+        "sha": "0b29cb8999576d9464def11f1d6c7a12050cce26",
+        "html_url": "https://github.com/pmndrs/leva/blob/main/LICENSE",
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdx_id": "MIT",
+          "url": "https://api.github.com/licenses/mit",
+          "node_id": "MDc6TGljZW5zZTEz"
+        },
+        "sha256": "40be7e7f17ab0f656286c9938f9f0e2601129d0d1aed2b16758b7a3b479726e9"
+      },
+      "license_excerpt": "MIT License\n\nCopyright (c) 2021 Poimandres\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING "
+    }
+  ],
+  "individual_font_license_checks": [
+    {
+      "font": "Bodoni Moda",
+      "source": "https://github.com/google/fonts/blob/main/ofl/bodonimoda/OFL.txt",
+      "git_blob_sha": "973cec73f0874f3b7821a44ff43e4a4c88e44844",
+      "sha256": "931dfe2e0cd3c9443295f5c1d754b8a8403bf060df50c1d5900267ade83d0046",
+      "path": "font-sources/Bodoni-Moda/OFL.txt"
+    },
+    {
+      "font": "Noto Sans SC",
+      "source": "https://github.com/google/fonts/blob/main/ofl/notosanssc/OFL.txt",
+      "git_blob_sha": "1c9f43281b8f216c5461fe9ac729afbade7724e4",
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+      "path": "font-sources/Noto-Sans-SC/OFL.txt"
+    }
+  ],
+  "package_notice_inventory": "../web/public/licenses/inventory.json"
+}

@@ -19,11 +19,13 @@ The tool and interaction work is collaborative. The material covers the canvas, 
 
 ## Key question
 
-A valid geometric relationship does not guarantee balanced visual weight. The editor needs to allow optical adjustment while preserving the original construction. Diagnostics should identify particular issues instead of replacing design judgment with a single score.
+Mathematical validity does not guarantee balanced visual weight. Designers need to see the difference between construction and optical correction and reset a correction independently. Diagnostics should identify concrete issues instead of replacing judgment with one score.
 
 ## Design process
 
-Geometry, Final and X-Ray views make construction and correction directly comparable. Objects retain independent optical adjustments that can be reset. Layers and constraints surround the canvas, while diagnostics separately address open paths, negative space, visual weight and export visibility.
+Geometry, Final and X-Ray show construction, corrected appearance and their relationship. Independent, resettable optical adjustments avoid destroying the underlying geometry. Layers and constraints surround the canvas, keeping the object being edited visible.
+
+Diagnostics separate open paths, negative space, visual weight and export visibility so the current review question stays clear. Desktop shows the inspector alongside the canvas; mobile collapses supporting areas without merging construction and correction.
 
 ## Final work
 
@@ -39,14 +41,10 @@ The desktop interface accommodates the canvas, inspector and diagnostics togethe
 
 ## Outcome and stage
 
-The editor includes geometric constraints, non-destructive Boolean operations, undo and redo, local saving, and SVG, PNG and project-file export. The first version does not include wordmarks, collaboration, cloud sync or arbitrary SVG round-trip editing. Diagnostics support review; the designer retains the final aesthetic judgment.
+The editor includes geometric constraints, non-destructive Boolean operations, undo and redo, local saving, and SVG, PNG and project export. The first version excludes wordmarks, collaboration, cloud sync and arbitrary SVG round-trip editing.
 
-<!-- refinement-v2 -->
-
-### Editability and capability boundary
-
-Formline's value lies in editable geometric relationships, optical corrections and explicit exports. No verified feature reads an arbitrary bitmap with AI and automatically fits a logo. The geometric solver is not presented as an image-recognition model. Diagnostics guide individual checks; they do not prove suitability for every size and manufacturing process.
+PlaneGCS solves geometric constraints and Paper.js supports drawing; they do not establish verified automatic logo fitting from an arbitrary bitmap. Individual diagnostics guide review without proving suitability for every scale or manufacturing process.
 
 ### Sources
 
-logo-geometry-studio README, third-party notices and original desktop/mobile captures; local records begin on 14 August 2026. PlaneGCS and Paper.js contributions and licenses remain acknowledged. 
+logo-geometry-studio README, third-party notices and original desktop/mobile captures; local records begin on 14 August 2026. PlaneGCS and Paper.js contributions and licenses remain acknowledged.

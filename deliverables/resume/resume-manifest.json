@@ -1,0 +1,10 @@
+{
+  "edition": "resume-v3",
+  "profileSource": "web/src/data/profile.json",
+  "contentSource": "deliverables/resume/resume-content.json",
+  "pageCount": 1,
+  "renderer": "Microsoft Word native fixed-format export",
+  "docxSha256": "a15261671ebcb6f69be32ca798c9ba77eccfe05e90c438e176dcd9fb3c6be337",
+  "pdfSha256": "f00b5ccb53b8508809fc8dcdf6e72fda0cfb1a7d34bda08ff8e8dbfe63d480e9",
+  "pdfBytes": 215491
+}

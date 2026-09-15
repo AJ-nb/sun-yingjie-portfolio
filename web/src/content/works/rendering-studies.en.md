@@ -19,11 +19,13 @@ The presentation focuses on 3D rendering and scene visualization through bicycle
 
 ## Key question
 
-The central question is how camera distance, environmental lighting and material contrast direct attention. Overall views establish silhouette, close-ups describe surfaces and connections, and scenes and moving shots add atmosphere and rhythm.
+Material credibility depends on light, surface and scale together; stronger reflections or emission alone do not make an object convincing. Full views establish silhouette, close-ups explain surfaces and joints, and moving shots need spatial continuity.
 
 ## Design process
 
-The bicycle group compares a dark overall view, snow and mountain settings, and close-ups of the frame, bottle, handlebar and drivetrain. The product collection uses colors, arrangements and environmental light across personal care, fitness, lighting and equipment. The motion study alternates aurora and desert settings to show the car body and movement.
+The bicycle series uses a dark full view for the silhouette, snow and mountain settings for environmental relationships, and frame, bottle, handlebar and drivetrain details for surfaces. Product selections examine personal-care, fitness, lighting and equipment compositions; the car study alternates aurora and desert settings to explore bodywork and camera movement.
+
+This retrospective reads the retained images as whole, detail and environment, without treating different viewpoints as precise before-and-after comparisons. Product-design roles belong to the corresponding cases; third-party vehicles and brands are not claimed as personal designs.
 
 ## Final work
 

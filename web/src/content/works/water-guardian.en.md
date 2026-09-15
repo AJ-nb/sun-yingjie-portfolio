@@ -19,11 +19,13 @@ This is a collaborative project. The source credits include Deng Zhicheng (é‚“å¿
 
 ## Key question
 
-The focus is on organizing water-level openings, flotation volume and the upper equipment layer so that collection positions and maintenance parts have understandable relationships.
+Surface intake, floating body and upper equipment need a clear vertical relationship and identifiable maintenance locations. A visually stable shape does not establish flotation stability, and an intake opening does not demonstrate algae-removal capacity.
 
 ## Design process
 
-Sketches explore a rounded floating silhouette. Exploded and orthographic views then arrange the filtering openings, internal modules and upper parts. Details and water scenes communicate the appearance and intended operating position.
+Sketches develop a rounded floating silhouette. Exploded and orthographic views locate the intake, internal modules and upper parts; water scenes show the proposed operating position.
+
+This edition reads the layout through entry, treatment and maintenance, retaining the collaborative credits for Deng Zhicheng and Zhang Chengcheng. Actual buoyancy, filtration flow and ecological effects require operational and water-body evidence.
 
 ## Final work
 

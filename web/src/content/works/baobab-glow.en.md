@@ -19,11 +19,13 @@ This is a collaborative project. The original board credits Deng Zhicheng (é‚“å¿
 
 ## Key question
 
-The light needs understandable modes for carrying and placement. Form exploration addresses the grip, standing position, light direction and a proposed solar-power approach.
+The same light needs to be graspable while walking, stable on a table and directed toward reading material. The tree reference should serve those postures without obscuring the switch, light opening or support.
 
 ## Design process
 
-Tree forms establish the product reference. An exploded view shows relationships between the body, lens, battery and switch. Storyboards connect classrooms, walking and reading at home to explore how one light is used in different situations.
+The board connects classroom, walking and home-reading scenarios, using a storyboard to show transitions between carrying and standing. The baobab reference informs the silhouette, while the exploded diagram separately locates the body, lens, battery and switch.
+
+Compare carrying and desktop states before examining parts. Solar power remains a proposed supply method; the images do not resolve trade-offs between local charging conditions, weight and runtime.
 
 ## Final work
 

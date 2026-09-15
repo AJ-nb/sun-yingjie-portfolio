@@ -19,11 +19,13 @@ This is a collaborative project. The material includes vehicle form, internal pa
 
 ## Key question
 
-The project focuses on the path from leaf intake to storage and processing, and on how internal stages relate to external openings and maintenance access.
+The external intake, internal storage and processing, and maintenance access should be understood along one material path. Combining them inside a vehicle needs to leave room for cleaning and service, as well as a coherent silhouette.
 
 ## Design process
 
-Sweeping brushes, a suction opening, storage and processing passages are arranged within the vehicle. Internal views, orthographic drawings and human figures express spatial relationships. An external display and scene renders place the equipment visually in a street setting.
+The proposal arranges brushes, suction intake, storage and processing passages. Internal and orthographic views with human figures explain space, while the display and street scenes establish the equipment's visual presence.
+
+This retrospective follows the intake-to-storage sequence and the relationship between functional areas and access openings. Leaf conversion and environmental benefits remain proposal directions; internal renders do not establish an operating process.
 
 ## Final work
 
@@ -31,11 +33,14 @@ The final board presents exterior form, internal functional zones and material f
 
 ![Ecological Harvest Rambler · Leaf-Recycling Sweeper complete concept board](/works/documents/embedded-boards/x7.webp)
 
-### Material, lighting and scene details
+<details>
+<summary>Source boards and supplementary material · lighting and scenes</summary>
 
 ![Ecological Harvester environment render](/works/refinement-v2/rendering-pdf/014.webp)
 
 ![Ecological Harvester frontal scene](/works/refinement-v2/rendering-pdf/031.webp)
+
+</details>
 
 ## Outcome and stage
 

@@ -11,19 +11,29 @@ tags: ["Brand identity", "Logo design", "Photography equipment", "Negative space
 
 ## Background
 
-Periastra addresses camera bags and photography equipment storage. Its initial P provides the entry point to an identity that also suggests optical focus and protection. This case covers the mark and its application studies.
+Periastra addresses camera bags and photography equipment storage. Its mark refers to the initial P, optical focus and a protective container, but those ideas cannot all hold equal visual priority. This case explores the reading order through the stem, negative space and outer frame.
 
 ## My role
 
-This is collaborative work. The material presented covers the visual motifs, mark structure, line weight and negative space analysis, and directions for checking small applications.
+This is collaborative identity and application research. The material covers motifs, mark structure, line weight, negative space and small-size checks. Camera bags provide the application context; identity work does not establish authorship of the bag's structure.
 
 ## Key question
 
-The three motifs need a clear reading order: P first, followed by lens movement and a protective boundary. A dense central spiral can weaken the letter; equally heavy inner and outer strokes can close the gaps when the mark is reduced.
+What should be read first, and what must survive reduction? A dense spiral may weaken the P, while equally heavy inner and outer strokes may close the gaps. These are design judgments that can be examined visually; they have not been confirmed by a recognition study.
 
 ## Design process
 
-The structure develops from a vertical stem, a curved bowl and an outer frame, connecting the letter with optical and container associations. Refinement focuses on stroke hierarchy, central negative space and the rhythm of the openings, keeping complexity subordinate to recognition.
+### Make the letter the first reading
+
+The artwork dated 22 April 2026 and the May analysis retain explanations of the stem, curved bowl and outer frame. P acts as the entrance, with lens and protective-container associations following, so accumulated symbols do not overwhelm the identity.
+
+### Manage complexity through negative space
+
+The line-weight study differentiates the frame from the inner spiral and examines central space and the rhythm of openings. These are refinement directions; explanatory diagrams are not completed production artwork.
+
+### Work back from the carrier
+
+The application record proposes checks at 16 px for an icon, 8 mm for a metal mark, 20 mm for a woven label and 30 mm for a rubber patch, extending to pulls, straps, dividers, seals and dust bags. The comparisons concern congestion, weak visual weight and reversed-color recognition. These sizes are proposed checks, not approved manufacturing specifications.
 
 ![The letter, frame and lens structure within the Periastra mark](/works/brand/periastra/explainers/periastra-structure-breakdown-v01.svg)
 
@@ -35,7 +45,7 @@ The structure develops from a vertical stem, a curved bowl and an outer frame, c
 
 ## Final work
 
-The current proposal combines a monochrome symbol with the English name. The rounded frame gives it a stable silhouette, while the inner spiral retains a sense of focus and movement.
+The current proposal combines a monochrome symbol with the English name. The rounded frame anchors the silhouette and the inner spiral adds focus and movement. Layer and scale views in this edition explain that relationship. Screen reduction cannot replace woven, debossed or metal samples.
 
 ![The Periastra monochrome symbol and name](/works/brand/periastra/logo/periastra-logo-v01-20260422.webp)
 
@@ -43,21 +53,11 @@ The current proposal combines a monochrome symbol with the English name. The rou
 
 ## Outcome and stage
 
-The work includes an identity proposal, structural explanations and application checks. Digital icons, metal tags, woven labels and debossing still need separate validation. The material shows design studies; physical production and manufacturing outcomes have not been established.
+The work includes artwork, structural explanations and application studies. Reading order, stroke weight and negative space still need checks at actual sizes and in material samples. Physical samples, supplier reports and market-use data have not been provided. Compare openings across carriers before deciding whether a simplified mark is needed.
 
 ![Proposed small-size and production checks for Periastra](/works/brand/periastra/explainers/periastra-application-fit-v01.svg)
 
 *Proposed application conditions, rather than completed physical production tests.*
-
-<!-- refinement-v2 -->
-
-### Brand objective and product relationship
-
-Periastra aims to express focus, organization and protection within photography equipment. The camera bag is the brand context. The evidenced contribution remains identity and application research; a logo does not establish authorship of the bag's structure.
-
-The logo artwork dated 22 April 2026 and the May analysis form a continuous record. Refinement establishes a reading order—P first, then lens and container—through a clear stem, sufficient central space, different weights for the frame and spiral, and intentional-looking openings.
-
-The application record proposes checks at 16 px for a digital icon, 8 mm for a metal mark, 20 mm for a woven label and 30 mm for a rubber patch, alongside zipper pulls, straps, dividers, packaging seals and dust bags. These are proposed verification conditions, not approved production specifications. The study tests how one identity might reveal congestion, weak visual weight or reversed-color legibility issues across different carriers.
 
 ### Sources
 

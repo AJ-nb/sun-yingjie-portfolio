@@ -10,6 +10,7 @@ from reportlab.lib.colors import HexColor
 from reportlab.lib.utils import ImageReader
 from reportlab.platypus import Paragraph
 from reportlab.lib.styles import ParagraphStyle
+from build_selected_portfolio import register_fonts, rasterize_svg, first_paragraph
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.stdout.reconfigure(encoding='utf-8')
@@ -18,8 +19,7 @@ OUT = ROOT / 'deliverables/portfolio'
 OUT.mkdir(parents=True, exist_ok=True)
 PROFILE = json.loads((ROOT/'web/src/data/profile.json').read_text(encoding='utf-8'))
 URL = PROFILE['url']
-pdfmetrics.registerFont(TTFont('CN', 'C:/Windows/Fonts/msyh.ttc'))
-pdfmetrics.registerFont(TTFont('CNB', 'C:/Windows/Fonts/msyhbd.ttc'))
+register_fonts()
 W,H = 960,600
 INK, PAPER, SAGE, MUTED = '#18251f','#f4f1ea','#728776','#617066'
 chapter_source=(ROOT/'web/src/data/chapters.ts').read_text(encoding='utf-8')
@@ -42,7 +42,7 @@ for path in (ROOT/'web/src/content/works').glob('*.zh.md'):
     cases.append(data)
 ordered_slugs=[s for ch in CHAPTERS for s in ch['slugs']]
 cases.sort(key=lambda d:ordered_slugs.index(d['slug']))
-assert len(cases)==33,'The second edition must introduce all 33 cases'
+assert len(cases)==33,'The complete edition must introduce all 33 cases'
 for d in cases:d['chapter']=next(ch for ch in CHAPTERS if d['slug'] in ch['slugs'])
 
 def chosen_gallery(d):
@@ -93,7 +93,7 @@ for ch in CHAPTERS:
     for d in [d for d in cases if d['chapter']['id']==ch['id']]:
         case_pages[d['slug']]=planned_page;planned_page+=1+len(d['detailGroups'])
 if '--plan' in sys.argv:
-    (ROOT/'private/sources/refinement-v2/portfolio-page-plan.json').write_text(json.dumps({'caseCount':len(cases),'pageCountWithReadyAssets':planned_page,'chapters':CHAPTERS,'chapterPages':chapter_pages,'casePages':case_pages,'details':{d['slug']:d['detailGroups'] for d in cases},'status':'Final media incorporated; page count is calculated from current shared case sources'},ensure_ascii=False,indent=2),encoding='utf-8')
+    (OUT/'portfolio-page-plan.json').write_text(json.dumps({'caseCount':len(cases),'pageCountWithReadyAssets':planned_page,'chapters':CHAPTERS,'chapterPages':chapter_pages,'casePages':case_pages,'details':{d['slug']:d['detailGroups'] for d in cases},'status':'Page count is calculated from current shared case sources'},ensure_ascii=False,indent=2),encoding='utf-8')
     print(json.dumps({'cases':len(cases),'pagesWithReadyAssets':planned_page,'status':'All final media incorporated'}));raise SystemExit()
 output=OUT/'sun-yingjie-portfolio.pdf'
 c=canvas.Canvas(str(output),pagesize=(W,H),pageCompression=1)
@@ -127,9 +127,7 @@ def contain(src,x,y,w,h,bg='#e8e7e0',crop=None):
     rect(x,y,w,h,bg)
     original=Path(src)
     if original.suffix.lower()=='.svg':
-        cache=ROOT/'.production-runtime/model-worksets/portfolio-cache';cache.mkdir(exist_ok=True)
-        src=cache/(hashlib.sha256(original.read_bytes()+(ROOT/'scripts/source-r2/rasterize_svg.cjs').read_bytes()).hexdigest()[:20]+'.png')
-        if not src.exists():subprocess.run(['C:/Users/LENOVO/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node.exe',str(ROOT/'scripts/source-r2/rasterize_svg.cjs'),str(original),str(src)],check=True,capture_output=True)
+        src=rasterize_svg(original)
     with Image.open(src) as source:
         rgba=(source.crop(crop) if crop else source).convert('RGBA');bgim=Image.new('RGBA',rgba.size,'white');bgim.alpha_composite(rgba);im=bgim.convert('RGB')
     scale=min(w/im.width,h/im.height)
@@ -215,6 +213,7 @@ for index,d in enumerate(cases):
     text(f'{index+1:02d}',48,509,39,SAGE,'Helvetica')
     title=d['title']
     if d['slug']=='periastra': title='Periastra\n相机包品牌标志'
+    if d['slug']=='resume-formatter': title='Resume Formatter\n简历编辑器'
     if ' · ' in title and pdfmetrics.stringWidth(title,'CNB',23)>267:
         title=title.replace(' · ','\n',1)
     y=para(title,48,470,267,21,29,INK,True)
@@ -227,7 +226,6 @@ for index,d in enumerate(cases):
     outcome_match=re.search(r'^## 成果与阶段\s+([^#]+)',d['body'],re.M)
     outcome=outcome_match[1].split('\n\n')[0].strip() if outcome_match else d['summary']
     outcome=re.sub(r'\[([^\]]+)\]\([^)]*\)',r'\1',outcome)
-    if d['slug']=='image-2-5-xhs':outcome=re.search(r'^2026-09-09[^\n]+',d['body'],re.M)[0]
     if len(outcome)>260:
         short=outcome[:260];cut=short.rfind('。');outcome=short[:cut+1] if cut>120 else short+'…'
     text('成果与边界',342,143,8.5,MUTED);para(outcome,342,130,565,9.3,15.3)
@@ -250,11 +248,10 @@ for index,d in enumerate(cases):
                 source_note=p['note'] if p['note'].startswith('微信开发者工具真实运行截图') else source_label+'。'+p['note']
                 para(source_note,x,caption_end-10,width,8.5,13.5,MUTED)
             else:para(source_label,x,116,width,8,13,MUTED)
-        m=re.search(r'## 设计过程\s+([^#]+)',d['body'])
-        process=(m[1].split('\n\n')[0].strip() if m else d['summary']) if detail_index==0 else outcome
+        m=re.search(r'^## 设计过程\n(.*?)(?=^## |\Z)',d['body'],re.M|re.S)
+        process=(first_paragraph(m[1]) if m else d['summary']) if detail_index==0 else outcome
         process=re.sub(r'[*_`]', '', process)
         process=re.sub(r'\[([^\]]+)\]\([^)]*\)',r'\1',process)
-        if d['slug']=='image-2-5-xhs':process=re.search(r'^失败判断[^\n]+',d['body'],re.M)[0]
         if len(process)>220:
             short=process[:220];cut=short.rfind('。');process=short[:cut+1] if cut>110 else short+'…'
         if d['slug'] not in ('xintiao','yantai','periastra'):para(process,48,86,718,8.8,14)
@@ -271,14 +268,16 @@ text('浏览在线作品集',48,97,12,PAPER);c.linkURL(URL,(43,82,250,119),relat
 text('SUN YINGJIE',699,90,18,SAGE,'Times-Italic')
 end('contact')
 c.save()
-public_pdf=PUBLIC/'downloads/sun-yingjie-selected-portfolio.pdf'
+public_pdf=PUBLIC/'downloads/sun-yingjie-full-portfolio.pdf'
 web_output=OUT/'sun-yingjie-portfolio-web.pdf'
-subprocess.run([sys.executable,str(ROOT/'scripts/compress_portfolio_pdf.py'),'--input',str(output),'--output',str(web_output),'--max-edge','1800','--quality','80','--report',str(ROOT/'private/sources/refinement-v2/portfolio-web-compression.json')],check=True)
+subprocess.run([sys.executable,str(ROOT/'scripts/compress_portfolio_pdf.py'),'--input',str(output),'--output',str(web_output),'--max-edge','1800','--quality','80','--report',str(OUT/'full-compression.json')],check=True)
 shutil.copyfile(web_output,public_pdf)
-(ROOT/'private/sources/download-manifest.json').write_text(json.dumps({'publicPath':'/downloads/sun-yingjie-selected-portfolio.pdf','document':str(output.relative_to(ROOT)),'pages':records,'caseCount':len(cases),'pageCount':page,'chapters':CHAPTERS,'profileSource':'web/src/data/profile.json','chapterSource':'web/src/data/chapters.ts','media':list(used_media.values()),'bytes':output.stat().st_size,'sha256':hashlib.sha256(output.read_bytes()).hexdigest(),'note':'Second edition: all 33 case introductions in six shared chapters, high-resolution native/source detail pages, preserved collaboration credits, clickable index and stable full-case web links. Original sources retained unchanged.'},ensure_ascii=False,indent=2),encoding='utf-8')
-(ROOT/'private/sources/refinement-v2/portfolio-text-bounds.json').write_text(json.dumps(text_bounds,ensure_ascii=False,indent=2),encoding='utf-8')
-download_manifest=ROOT/'private/sources/download-manifest.json'
+(OUT/'full-manifest.json').write_text(json.dumps({'publicPath':'/downloads/sun-yingjie-full-portfolio.pdf','document':str(output.relative_to(ROOT)),'pages':records,'caseCount':len(cases),'pageCount':page,'chapters':CHAPTERS,'profileSource':'web/src/data/profile.json','chapterSource':'web/src/data/chapters.ts','media':list(used_media.values()),'bytes':output.stat().st_size,'sha256':hashlib.sha256(output.read_bytes()).hexdigest(),'note':'Third edition: all 33 cases in six shared chapters, updated narrative and retained original gallery selections, preserved collaboration credits, clickable index and stable full-case web links.'},ensure_ascii=False,indent=2),encoding='utf-8')
+(OUT/'qa').mkdir(exist_ok=True)
+(OUT/'qa/full-text-bounds.json').write_text(json.dumps(text_bounds,ensure_ascii=False,indent=2),encoding='utf-8')
+download_manifest=OUT/'full-manifest.json'
 download_data=json.loads(download_manifest.read_text(encoding='utf-8'))
-download_data.update({'publicDocument':web_output.relative_to(ROOT).as_posix(),'publicBytes':web_output.stat().st_size,'publicSha256':hashlib.sha256(web_output.read_bytes()).hexdigest(),'publicOptimization':'Raster images only, up to 1800px, JPEG80 4:4:4; strict size below 20MiB. All text, page content streams, outlines and links preserved; detailed evidence in refinement-v2/portfolio-web-compression.json.'})
+download_data['sourceHashes']={str(path.relative_to(ROOT)).replace('\\','/'):hashlib.sha256(path.read_bytes()).hexdigest() for path in [ROOT/'web/src/data/profile.json',ROOT/'web/src/data/chapters.ts',*(ROOT/f'web/src/content/works/{d["slug"]}.zh.md' for d in cases)]}
+download_data.update({'publicDocument':web_output.relative_to(ROOT).as_posix(),'publicBytes':web_output.stat().st_size,'publicSha256':hashlib.sha256(web_output.read_bytes()).hexdigest(),'publicOptimization':'Raster images only, up to 1800px, JPEG80 4:4:4; strict size below 20MiB. All text, page content streams, outlines and links preserved; evidence in deliverables/portfolio/full-compression.json.'})
 download_manifest.write_text(json.dumps(download_data,ensure_ascii=False,indent=2),encoding='utf-8')
 print(json.dumps({'pages':page,'cases':len(cases),'bytes':output.stat().st_size,'output':str(output)},ensure_ascii=False))

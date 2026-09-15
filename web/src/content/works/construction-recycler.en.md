@@ -19,11 +19,13 @@ This is a collaborative project. The material covers process flow, module layout
 
 ## Key question
 
-The key question is how to divide a continuous material-processing sequence into independently transported units while keeping feeding, processing and output relationships understandable when assembled.
+Once a continuous process is divided into transport modules, material still needs to pass between them. Both transport and the assembled material path must remain legible. Separable housings alone do not establish the value of modularity.
 
 ## Design process
 
-The proposal separates feeding, crushing and sorting, pulverizing, and mixing and forming. Vehicle-mounted layouts and combinations are then explored. Cutaways and detail views communicate internal passages and the spatial relationships between parts.
+The proposal divides feeding, crushing and sorting, pulverizing, and mixing and forming, then explores vehicle layouts and combined states. Cutaways explain passages and details locate the module relationships.
+
+This edition reads transport states against material flow. Interface sealing, blockage handling and assembled processing capacity lack validation and cannot be established from layout drawings.
 
 ## Final work
 

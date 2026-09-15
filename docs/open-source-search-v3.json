@@ -1,0 +1,900 @@
+{
+  "checked_at_utc": "2026-09-15T04:53:16.619467+00:00",
+  "searches": [
+    {
+      "query": "react portfolio animation",
+      "sort": "stars",
+      "per_page": 10,
+      "total_count": 5388,
+      "items": [
+        {
+          "full_name": "albinotonnina/albinotonnina.com",
+          "html_url": "https://github.com/albinotonnina/albinotonnina.com",
+          "description": "Personal portfolio website with interactive animations and visual storytelling. Built with React, featuring modular scene management, comprehensive testing, and smooth cross-device performance.",
+          "archived": false,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "LekoArts/gatsby-starter-portfolio-cara",
+          "html_url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara",
+          "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Especially designers and/or photographers will love this theme! Built with MDX and Theme UI.",
+          "archived": true,
+          "license": {
+            "key": "0bsd",
+            "name": "BSD Zero Clause License",
+            "spdx_id": "0BSD",
+            "url": "https://api.github.com/licenses/0bsd",
+            "node_id": "MDc6TGljZW5zZTM1"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "Naresh-Khatri/3d-portfolio",
+          "html_url": "https://github.com/Naresh-Khatri/3d-portfolio",
+          "description": "Interactive 3D developer portfolio with a keyboard where every keycap is a skill. Built with Next.js, React, TypeScript, GSAP & Motion. Free to use!",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "sanidhyy/space-portfolio",
+          "html_url": "https://github.com/sanidhyy/space-portfolio",
+          "description": "Welcome to my full stack Next.js 14 space portfolio.",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "codebucks27/react-portfolio-final",
+          "html_url": "https://github.com/codebucks27/react-portfolio-final",
+          "description": "Build a Stunning portfolio with React JS and framer-motion. This portfolio is created using framer-motion for cool transitions and animation. If you want to learn how to create this portfolio then you can follow below tutorial link in the ReadMe",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "BraydenTW/braydentw.io",
+          "html_url": "https://github.com/BraydenTW/braydentw.io",
+          "description": "🔷 My lovely portfolio built with React, NextJS, and TailwindCSS",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "Abhiz2411/3D-interactive-portfolio",
+          "html_url": "https://github.com/Abhiz2411/3D-interactive-portfolio",
+          "description": "A visually stunning personal portfolio website showcasing my skills, projects, and personality with 3D animations, smooth interactions, and a cosmic theme. Built using Next.js, Tailwind CSS, GSAP, and more!",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "sanidhyy/modern-portfolio",
+          "html_url": "https://github.com/sanidhyy/modern-portfolio",
+          "description": "Modern Portfolio using Next.js and Framer Motion.",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "codebucks27/wibe-studio",
+          "html_url": "https://github.com/codebucks27/wibe-studio",
+          "description": "Build a stunning Fashion Studio Website Landing page with React JS. This website is created using locomotive-scroll for smooth scrolling. Also, GSAP and Framer-Motion for some custom animations and effects. You can learn to make this website by visiting the tutorial link from the description. ",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "itsfaqih/fama",
+          "html_url": "https://github.com/itsfaqih/fama",
+          "description": "TailwindCSS based personal branding template. Built with react and motion",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        }
+      ]
+    },
+    {
+      "query": "scrollytelling javascript",
+      "sort": "stars",
+      "per_page": 10,
+      "total_count": 69,
+      "items": [
+        {
+          "full_name": "code-hike/codehike",
+          "html_url": "https://github.com/code-hike/codehike",
+          "description": "Build rich content websites with Markdown and React",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "WSJ/two-step",
+          "html_url": "https://github.com/WSJ/two-step",
+          "description": "A JavaScript library for best-practice scrollytelling",
+          "archived": true,
+          "license": {
+            "key": "isc",
+            "name": "ISC License",
+            "spdx_id": "ISC",
+            "url": "https://api.github.com/licenses/isc",
+            "node_id": "MDc6TGljZW5zZTEw"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "ihmeuw/ScrollyTeller",
+          "html_url": "https://github.com/ihmeuw/ScrollyTeller",
+          "description": "A JavaScript library to build scrollytelling visualizations from tabular data",
+          "archived": false,
+          "license": {
+            "key": "bsd-3-clause",
+            "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+            "spdx_id": "BSD-3-Clause",
+            "url": "https://api.github.com/licenses/bsd-3-clause",
+            "node_id": "MDc6TGljZW5zZTU="
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "rdmurphy/scroll-scene-element",
+          "html_url": "https://github.com/rdmurphy/scroll-scene-element",
+          "description": "📜 A tiny custom element for all your scrollytelling needs!",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "vizzuhq/vizzu-ext-js-scrollytelling",
+          "html_url": "https://github.com/vizzuhq/vizzu-ext-js-scrollytelling",
+          "description": "A scrollytelling extension for the Vizzu charting library to create animated, scroll-driven data stories with ease.",
+          "archived": true,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "albinotonnina/scrollytelling",
+          "html_url": "https://github.com/albinotonnina/scrollytelling",
+          "description": "Experimental layout",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "etienneburdet/ods-scrollytelling-boilerplate",
+          "html_url": "https://github.com/etienneburdet/ods-scrollytelling-boilerplate",
+          "description": null,
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "RoXsaita/suheilai-cinematic-website",
+          "html_url": "https://github.com/RoXsaita/suheilai-cinematic-website",
+          "description": "Cinematic scroll-driven website for SUHEILAI",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "scrollytelling/export",
+          "html_url": "https://github.com/scrollytelling/export",
+          "description": "Download an entire scrollytelling to a folder, with all media included",
+          "archived": true,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "KaiChieh-Kenneth-Huang/Satellite-InfoVis",
+          "html_url": "https://github.com/KaiChieh-Kenneth-Huang/Satellite-InfoVis",
+          "description": " A web-based interactive information visualization for 2000+ pieces of satellite data. Built with vanilla JavaScript, CSS, HTML, and D3. #scrolly-telling #svg-animations #canvas-animations",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        }
+      ]
+    },
+    {
+      "query": "image comparison slider react",
+      "sort": "stars",
+      "per_page": 10,
+      "total_count": 35,
+      "items": [
+        {
+          "full_name": "sneas/img-comparison-slider",
+          "html_url": "https://github.com/sneas/img-comparison-slider",
+          "description": "Image comparison slider. Compare images before and after. Supports React, Vue, Angular.",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "nerdyman/react-compare-slider",
+          "html_url": "https://github.com/nerdyman/react-compare-slider",
+          "description": "A slider component to compare any two React components in landscape or portrait orientation. It supports custom images, videos... and everything else.",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "transitive-bullshit/react-before-after-slider",
+          "html_url": "https://github.com/transitive-bullshit/react-before-after-slider",
+          "description": "A sexy image comparison slider for React.",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "OnurErtugral/react-image-comparison-slider",
+          "html_url": "https://github.com/OnurErtugral/react-image-comparison-slider",
+          "description": "A React component to compare images with a slider.",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "andrey-kudinov/image-comparison-slider",
+          "html_url": "https://github.com/andrey-kudinov/image-comparison-slider",
+          "description": "Image Comparison Slider is a slider that can be controlled, can be pulled by the customer to show less of the before image and a more noteworthy measure of the after image, and the a different way.",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "codemers/react-native-comparison-slider",
+          "html_url": "https://github.com/codemers/react-native-comparison-slider",
+          "description": "Comparison slider for 2 images for React-Native.",
+          "archived": true,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "mattrothenberg/react-comparison-slider",
+          "html_url": "https://github.com/mattrothenberg/react-comparison-slider",
+          "description": "A keyboard accessible \"before & after\" component for React ⬅️➡️",
+          "archived": false,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "mahdidavoodi7/expo-image-compare",
+          "html_url": "https://github.com/mahdidavoodi7/expo-image-compare",
+          "description": "A customizable before-after image comparison slider for React Native & Expo using Reanimated v3.",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "malik-aliyev-94/react-native-before-after-slider",
+          "html_url": "https://github.com/malik-aliyev-94/react-native-before-after-slider",
+          "description": "This is a comparison slider component to compare two images, components and etc.",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "MahfujulSagor/native-image-comparison-slider",
+          "html_url": "https://github.com/MahfujulSagor/native-image-comparison-slider",
+          "description": "An image compare slider for React Native",
+          "archived": false,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+          },
+          "description_truncated": false
+        }
+      ]
+    },
+    {
+      "query": "react lightbox accessibility",
+      "sort": "stars",
+      "per_page": 10,
+      "total_count": 20,
+      "items": [
+        {
+          "full_name": "yifaneye/react-gallery-carousel",
+          "html_url": "https://github.com/yifaneye/react-gallery-carousel",
+          "description": "Carousel component 🎠🎠🎠 supporting touch, mouse, keyboard, thumbnails, fullscreen, lazy loading, SSR and customisations. 👉 Live editor: https://yifanai.com/rgcd1",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "pedropalau/react-bnb-gallery",
+          "html_url": "https://github.com/pedropalau/react-bnb-gallery",
+          "description": "Accessible React lightbox and photo gallery component inspired by Airbnb’s image gallery.",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "productdevbook/pencere",
+          "html_url": "https://github.com/productdevbook/pencere",
+          "description": "Zero-dependency lightbox for images, video, iframes & custom renderers. Native View Transitions morph, WCAG 2.2 AA, hooks + plugins, controlled mode. Pure TypeScript, works everywhere.",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "faceless-ui/modal",
+          "html_url": "https://github.com/faceless-ui/modal",
+          "description": "America's next top modal",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "MiladJoodi/Pixora",
+          "html_url": "https://github.com/MiladJoodi/Pixora",
+          "description": "Modern bilingual (FA/EN) image gallery with lightbox, masonry layout, and accessible UI - built with Next.js 16.2",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "laststance/react-lightbox",
+          "html_url": "https://github.com/laststance/react-lightbox",
+          "description": "A responsive lightbox component for React with keyboard navigation and accessibility support. Distributed via shadcn/ui registry.",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "najibullahjafari/BG",
+          "html_url": "https://github.com/najibullahjafari/BG",
+          "description": "A high‑performance, dark mystical portfolio featuring interactive 3D tech spheres, animated aurora layers, project carousel + lightbox, data‑driven sections (experience, websites, education, mentoring), accessibility & reduced‑motion support, and seamless GitHub Pages deployment.",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "WSL043/dsh-image-viewer",
+          "html_url": "https://github.com/WSL043/dsh-image-viewer",
+          "description": "DeepSeek Harness (DSH) image viewer / 图片查看器: zoom, gallery, original downloads and clear region annotations.",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "mate2/react-lightslide",
+          "html_url": "https://github.com/mate2/react-lightslide",
+          "description": "A draggable, accessible image lightbox & gallery for React — a modern rebuild of the Highslide lightbox I loved.",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "Rohit22014/react-photo-details-lightbox",
+          "html_url": "https://github.com/Rohit22014/react-photo-details-lightbox",
+          "description": "A photography-first metadata inspector for Yet Another React Lightbox, built for React and Next.js.",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        }
+      ]
+    },
+    {
+      "query": "gltf optimize validate",
+      "sort": "stars",
+      "per_page": 10,
+      "total_count": 1,
+      "items": [
+        {
+          "full_name": "SSobol77/blender-3d-plugin",
+          "html_url": "https://github.com/SSobol77/blender-3d-plugin",
+          "description": "Production-grade Blender extension and cross-platform asset pipeline for validating, optimizing and exporting mobile-ready 3D assets to Godot, Unity, Unreal Engine, Flutter and Android.",
+          "archived": false,
+          "license": {
+            "key": "gpl-2.0",
+            "name": "GNU General Public License v2.0",
+            "spdx_id": "GPL-2.0",
+            "url": "https://api.github.com/licenses/gpl-2.0",
+            "node_id": "MDc6TGljZW5zZTg="
+          },
+          "description_truncated": false
+        }
+      ]
+    },
+    {
+      "query": "scroll typography animation",
+      "sort": "stars",
+      "per_page": 10,
+      "total_count": 128,
+      "items": [
+        {
+          "full_name": "codrops/OnScrollTypographyAnimations",
+          "html_url": "https://github.com/codrops/OnScrollTypographyAnimations",
+          "description": "Inspiration and ideas for on-scroll typography animations that add an extra layer of creativity to a website design.",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "codrops/ScrollingLettersAnimation",
+          "html_url": "https://github.com/codrops/ScrollingLettersAnimation",
+          "description": "A switching title effect where a fixed element changes depending on the scroll position. ",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "jettbrains/-L-",
+          "html_url": "https://github.com/jettbrains/-L-",
+          "description": "W3C Strategic Highlights  September 2019  This report was prepared for the September 2019 W3C Advisory Committee Meeting (W3C Member link). See the accompanying W3C Fact Sheet — September 2019. For the previous edition, see the April 2019 W3C Strategic Highlights. For future editions of this report, please consult the latest version.  A Chinese translation is available.  ☰ Contents  Introduction F",
+          "archived": false,
+          "license": {
+            "key": "gpl-3.0",
+            "name": "GNU General Public License v3.0",
+            "spdx_id": "GPL-3.0",
+            "url": "https://api.github.com/licenses/gpl-3.0",
+            "node_id": "MDc6TGljZW5zZTk="
+          },
+          "description_truncated": true
+        },
+        {
+          "full_name": "codrops/ScrollBlurTypography",
+          "html_url": "https://github.com/codrops/ScrollBlurTypography",
+          "description": "Animations for revealing blurry text on scroll.",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "swati1024/torrents",
+          "html_url": "https://github.com/swati1024/torrents",
+          "description": "Skip to content   Search… All gists Back to GitHub Sign in Sign up Instantly share code, notes, and snippets.  @giansalex giansalex/torrent-courses-download-list.md forked from M-Younus/torrent courses download-list Last active 2 days ago 15188  Code Revisions 15 Stars 151 Forks 88 <script src=\"https://gist.github.com/giansalex/4cd3631e94433bbbd71bf07aedb33a7b.js\"></script>     torrent-courses-dow",
+          "archived": false,
+          "license": null,
+          "description_truncated": true
+        },
+        {
+          "full_name": "gosfem/Codeigniter-admin-and-user-role-tempate",
+          "html_url": "https://github.com/gosfem/Codeigniter-admin-and-user-role-tempate",
+          "description": "  Codeigniter Admin Template is a Ultimate Codeigniter Material + Bootstrap 4 integrated admin template. We have also added User & Role management with unlimited user permissions with ajax authentication. It comes with most common features with lot of premium material and boostrap 4 forms, tables, email, ui elements, reports, charts and many more options. It will help you to build Admin panel, CMS",
+          "archived": false,
+          "license": null,
+          "description_truncated": true
+        },
+        {
+          "full_name": "Mausam5055/Priyanka-Interactive",
+          "html_url": "https://github.com/Mausam5055/Priyanka-Interactive",
+          "description": "Magazine-style interactive portfolio for Priyanka featuring stunning GSAP animations, horizontal scrolling layouts, parallax effects, creative typography, immersive storytelling, and editorial design principles for engaging user experience.",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "suryakant1811/Shery-UI",
+          "html_url": "https://github.com/suryakant1811/Shery-UI",
+          "description": " A visually stunning web template using Locomotive Scroll and GSAP for smooth animations and captivating transitions. The project features a preloader with dynamic elements, video background, and elegant typography for a creative professional theme. Fully responsive and customizable design.",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "eynort/portfolio",
+          "html_url": "https://github.com/eynort/portfolio",
+          "description": "This is my personal portfolio website. It presents who I am, what I’ve built, and the work I’ve done — in a simple, transparent, and developer-focused way.  The design is intentionally minimal. No animations, no noise, no scroll traps. Just clear structure, strong typography, and content that speaks for itself.",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "TSR0705/k72-website",
+          "html_url": "https://github.com/TSR0705/k72-website",
+          "description": "A creative frontend clone of the award-winning k72.ca  website, built with React, TailwindCSS, and Framer Motion to practice advanced animations, typography, and smooth scrolling effects.",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        }
+      ]
+    },
+    {
+      "query": "self host font npm",
+      "sort": "stars",
+      "per_page": 10,
+      "total_count": 9,
+      "items": [
+        {
+          "full_name": "fontsource/fontsource",
+          "html_url": "https://github.com/fontsource/fontsource",
+          "description": "Self-host Open Source fonts in neatly bundled NPM packages.",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "zszszszsz/.config",
+          "html_url": "https://github.com/zszszszsz/.config",
+          "description": "# # Automatically generated file; DO NOT EDIT. # OpenWrt Configuration # CONFIG_MODULES=y CONFIG_HAVE_DOT_CONFIG=y # CONFIG_TARGET_sunxi is not set # CONFIG_TARGET_apm821xx is not set # CONFIG_TARGET_ath25 is not set CONFIG_TARGET_ar71xx=y # CONFIG_TARGET_ath79 is not set # CONFIG_TARGET_bcm27xx is not set # CONFIG_TARGET_bcm53xx is not set # CONFIG_TARGET_brcm47xx is not set # CONFIG_TARGET_brcm6",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": true
+        },
+        {
+          "full_name": "zemd-archive/typeface-cisco-sans-tt",
+          "html_url": "https://github.com/zemd-archive/typeface-cisco-sans-tt",
+          "description": "Self-host the Cisco Sans TT fonts in a neatly bundled NPM package.",
+          "archived": true,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "stacknide/fonts",
+          "html_url": "https://github.com/stacknide/fonts",
+          "description": "Self-host fonts in a neatly bundled NPM package.",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "itssantos/fontsource",
+          "html_url": "https://github.com/itssantos/fontsource",
+          "description": "Self-host Open Source fonts in neatly bundled NPM packages.",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "zemd-archive/typeface-open-sauce-fonts",
+          "html_url": "https://github.com/zemd-archive/typeface-open-sauce-fonts",
+          "description": "Self-host the Open Sauce fonts in a neatly bundled NPM package.",
+          "archived": true,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "piducancore/orgdot-webfonts",
+          "html_url": "https://github.com/piducancore/orgdot-webfonts",
+          "description": "NPM packages to easily self-host Orgdot web fonts.",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "ulyssesrr/rawline-webfont",
+          "html_url": "https://github.com/ulyssesrr/rawline-webfont",
+          "description": "Self-host the Rawline font in a neatly bundled NPM package.",
+          "archived": false,
+          "license": {
+            "key": "ofl-1.1",
+            "name": "SIL Open Font License 1.1",
+            "spdx_id": "OFL-1.1",
+            "url": "https://api.github.com/licenses/ofl-1.1",
+            "node_id": "MDc6TGljZW5zZTE3"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "msradam/lokta-marp",
+          "html_url": "https://github.com/msradam/lokta-marp",
+          "description": "Marp theme from the Lokta design system: editorial slides, self-hosted fonts embedded at render, per-slide Mermaid theming. npm install github:msradam/lokta-marp.",
+          "archived": false,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+          },
+          "description_truncated": false
+        }
+      ]
+    },
+    {
+      "query": "webgl portfolio interactive",
+      "sort": "stars",
+      "per_page": 10,
+      "total_count": 480,
+      "items": [
+        {
+          "full_name": "davidhckh/portfolio-2025",
+          "html_url": "https://github.com/davidhckh/portfolio-2025",
+          "description": "Interactive developer portfolio built with Three.js, Vue and modern web technologies, focused on immersive user experiences, smooth animations and high-performance frontend architecture.",
+          "archived": false,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "ITomPoland/portfolio-itom",
+          "html_url": "https://github.com/ITomPoland/portfolio-itom",
+          "description": "An immersive, interactive 3D Web Developer portfolio built by Tomasz 'ITom' Szmajda using React Three Fiber, GSAP, and advanced WebGL rendering architecture.",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "red1-for-hek/portfolio-website",
+          "html_url": "https://github.com/red1-for-hek/portfolio-website",
+          "description": "Interactive & Responsive 3D developer portfolio built with React, TypeScript, Three.js, GSAP, WebGL have AI chat & chessbot",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "Snokke/my-interactive-workspace",
+          "html_url": "https://github.com/Snokke/my-interactive-workspace",
+          "description": "My Interactive Workspace",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "MengTo/sublevel-studio",
+          "html_url": "https://github.com/MengTo/sublevel-studio",
+          "description": "A single-file Three.js studio concept with an interactive Kyoto lobby, arcade, portfolio CRTs, and editorial case studies.",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "Shm-Rsuf/personal-portfolio",
+          "html_url": "https://github.com/Shm-Rsuf/personal-portfolio",
+          "description": "This GitHub repository contains code for a personal portfolio website using React, TailwindCSS, React-Router,  Gsap-Animation, WebGL, Three.js, and Emailjs. It likely showcases the developer's work and skills in an interactive way.",
+          "archived": false,
+          "license": null,
+          "description_truncated": false
+        },
+        {
+          "full_name": "codedalex/Fizzi-3D-Website",
+          "html_url": "https://github.com/codedalex/Fizzi-3D-Website",
+          "description": "Creative 3D personal portfolio built with Next.js, Prismic CMS, Three.js, Tailwind CSS, and GSAP, featuring interactive elements and custom animations.",
+          "archived": false,
+          "license": {
+            "key": "apache-2.0",
+            "name": "Apache License 2.0",
+            "spdx_id": "Apache-2.0",
+            "url": "https://api.github.com/licenses/apache-2.0",
+            "node_id": "MDc6TGljZW5zZTI="
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "AirHua-byte/AirHua-byte.github.io",
+          "html_url": "https://github.com/AirHua-byte/AirHua-byte.github.io",
+          "description": "Open-source Three.js/WebGL personal website template for interactive 3D portfolios on GitHub Pages.",
+          "archived": false,
+          "license": {
+            "key": "isc",
+            "name": "ISC License",
+            "spdx_id": "ISC",
+            "url": "https://api.github.com/licenses/isc",
+            "node_id": "MDc6TGljZW5zZTEw"
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "sunnypatell/react-threejs-portfolio",
+          "html_url": "https://github.com/sunnypatell/react-threejs-portfolio",
+          "description": "3D Portfolio is a modern and interactive web application built with React.js and Three.js, hosted on Vercel with Next.js. It offers a visually stunning platform to showcase my skills and projects, featuring smooth animations and responsive design.",
+          "archived": false,
+          "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+          },
+          "description_truncated": false
+        },
+        {
+          "full_name": "enabled404/prism-liquid-glass",
+          "html_url": "https://github.com/enabled404/prism-liquid-glass",
+          "description": "PRISM... WebGL Liquid Glass Interactive Showcase built with Three.js, GSAP, and Next.js",
+          "archived": false,
+          "license": {
+            "key": "mit",
+            "name": "MIT License",
+            "spdx_id": "MIT",
+            "url": "https://api.github.com/licenses/mit",
+            "node_id": "MDc6TGljZW5zZTEz"
+          },
+          "description_truncated": false
+        }
+      ]
+    }
+  ],
+  "description_policy": "Descriptions retained up to 400 characters to keep discovery output concise; repository identity and URL are unmodified."
+}
