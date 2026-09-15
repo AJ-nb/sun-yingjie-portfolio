@@ -24,7 +24,7 @@ export function SenGallery({ works, lang, reduced, visit, catalogue }: { works: 
     const top = gallery.current.getBoundingClientRect().top + scrollY + next * viewport.width
     window.scrollTo({ top, behavior: reduced ? 'instant' : 'smooth' })
   }
-  return <section ref={gallery} id="selected" className={`wk-gallery ${vertical ? 'wk-vertical' : ''}`} style={vertical ? undefined : { height: viewport.height + distance }} aria-label={lang === 'zh' ? '按章节浏览作品' : 'Browse work by chapter'}>
+  return <section ref={gallery} id="chapters" className={`wk-gallery ${vertical ? 'wk-vertical' : ''}`} style={vertical ? undefined : { height: viewport.height + distance }} aria-label={lang === 'zh' ? '按章节浏览作品' : 'Browse work by chapter'}>
     <div className="wk-sticky">
       <motion.div className="wk-track" style={vertical ? undefined : { x }}>
         {CHAPTERS.map((chapter, index) => {
