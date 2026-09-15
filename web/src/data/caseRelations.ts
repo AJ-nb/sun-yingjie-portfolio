@@ -18,7 +18,6 @@ export const CASE_CONNECTIONS: { slugs: [string, string]; reason: BilingualReaso
   { slugs: ['hermes', 'lighting'], reason: { zh: '从橱窗到灯具场景，继续比较物件尺度与周围空间的关系。', en: 'From windows to lighting scenes, compare the scale of an object with its surroundings.' } },
   { slugs: ['lighting', 'rendering-studies'], reason: { zh: '继续观察材料如何被光线与镜头解释，以及单体如何进入场景。', en: 'Continue examining how light and a camera describe materials and place an object in a scene.' } },
   { slugs: ['plumber', 'huhu-care'], reason: { zh: '两个合作概念都先梳理不同角色，再组织设备、动作与反馈。', en: 'Both collaborative concepts map different roles before organizing equipment, actions and feedback.' } },
-  { slugs: ['plumber', 'water-guardian'], reason: { zh: '从管道清淤到水面清藻，比较维护任务如何影响装备模块与形态。', en: 'Compare how pipe cleaning and surface algae collection shape equipment modules and form.' } },
   { slugs: ['huhu-care', 'lingmu'], reason: { zh: '从呼气引导到自主洗浴，关注身体条件、接触位置和操作理解。', en: 'From breathing guidance to independent bathing, examine body conditions, contact points and understandable actions.' } },
   { slugs: ['biyuan', 'periastra'], reason: { zh: '比较品牌规则如何从图形识别进入产品语境与具体应用。', en: 'Compare how identity rules move from a graphic into product context and applications.' } },
   { slugs: ['biyuan', 'lensflow'], reason: { zh: '从平台的模型入口进入创作工作台，了解接入信息怎样连接实际任务。', en: 'Move from a platform’s model entry points to a creative workspace and see how access information connects to tasks.' } },
@@ -30,7 +29,6 @@ export const CASE_CONNECTIONS: { slugs: [string, string]; reason: BilingualReaso
   { slugs: ['go-glow', 'jimu-studio'], reason: { zh: '从个护模块到家具组合，比较可调整部件怎样组织日常使用。', en: 'From personal-care modules to furniture combinations, compare how adjustable parts organize everyday use.' } },
   { slugs: ['cloudwing', 'polar-wing'], reason: { zh: '并列阅读两种载人飞行器外观概念，比较机身、座舱与部件布局。', en: 'Read two passenger-aircraft concepts together and compare body, cabin and component layouts.' } },
   { slugs: ['construction-recycler', 'ecological-harvest'], reason: { zh: '从建筑废料到城市落叶，比较收集、处理与储存模块的组织方式。', en: 'From construction waste to urban leaves, compare the organization of collection, processing and storage modules.' } },
-  { slugs: ['xintiao', 'yuju'], reason: { zh: '从薪资查看到雨伞借还，比较首页任务入口与辅助设置如何组织。', en: 'From salary viewing to umbrella borrowing, compare how primary tasks and supporting settings are organized.' } },
   { slugs: ['yantai', 'aesthetic-atlas'], reason: { zh: '把单张参考的造型学习连接到风格词汇、来源资料与 Eagle 归档。', en: 'Connect form study of one reference to style vocabulary, source material and Eagle archiving.' } },
   { slugs: ['image-2-5-xhs', 'xhs-methods'], reason: { zh: '把生成与连续编辑的观察，接到保留产品事实和人工复核的内容流程。', en: 'Connect observations of generation and iterative editing to content workflows that retain product facts and human review.' } },
 ]

@@ -1,0 +1,16 @@
+{
+  "edition": "v5",
+  "asOf": "2026.09",
+  "selected": [
+    {"slug":"biyuan","pages":6,"focus":"从品牌承诺到服务入口"},
+    {"slug":"periastra","pages":5,"focus":"从符号探索到字体识别"},
+    {"slug":"yelisi","pages":5,"focus":"从品牌语义到应用秩序"},
+    {"slug":"lighting","pages":4,"focus":"从共同截面到系列关系"},
+    {"slug":"hermes","pages":4,"focus":"从观看层次到商品呈现"},
+    {"slug":"lensflow","pages":4,"focus":"从参考输入到任务恢复"}
+  ],
+  "frontMatterPages":4,
+  "selectedPageCount":32,
+  "excludedSlugs":["baobab-glow","water-guardian","yuju"],
+  "exclusionReason":"原始署名与孙英杰个人参与范围尚未核实，保留私有资料，暂不进入公开展示。"
+}

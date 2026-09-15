@@ -1,6 +1,7 @@
 import type { Lang } from './workDocs'
+import publication from './publication.json'
 
-export const DEEP_CASES = ['hermes', 'lighting', 'plumber', 'huhu-care', 'biyuan', 'periastra', 'lensflow', 'resume-formatter']
+export const DEEP_CASES = publication.selected.map(item => item.slug)
 export const chapterIdeas: Record<string, Record<Lang, { word: string; question: string; detail: string }>> = {
   windows: { zh: { word: '空间的秩序', question: '让商品，成为故事的主角。', detail: '在道具、色彩与观看距离之间，组织前景、中景和背景。' }, en: { word: 'Space', question: 'Give the object a place in the story.', detail: 'Props, color and viewing distance establish the foreground, middle ground and background.' } },
   lighting: { zh: { word: '光的形态', question: '一种截面，怎样长成一个系列？', detail: '从型材与发光面出发，观察支撑、方向与空间的变化。' }, en: { word: 'Light', question: 'How does one profile become a family?', detail: 'Follow an extrusion and its luminous surface through changes in support, direction and setting.' } },

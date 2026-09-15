@@ -82,13 +82,13 @@ export const profileCopy: Record<Lang, ProfileCopy> = {
     eyebrow: '关于我 / 工作与方法',
     title: '从物的形态，到人的体验。',
     lead: canonicalProfile.summary.zh,
-    statement: '让外观有理由，让操作有回应，让结果可被核对。',
+    statement: '让形态有依据，让体验有回应，让设计走向交付。',
     asOf: `职业档案截至 ${PROFILE_AS_OF}`,
     narrative: [
       '我是孙英杰，产品设计本科毕业。我的工作从产品造型、三维与商业空间表达，延伸到品牌孵化和数字工具。这些领域的媒介不同，却共享一个问题：怎样把需求、形态和使用过程连接起来，让一个方案既能被看见，也能被理解和继续完善。',
       '产品设计训练让我习惯从角色与动作进入问题。引渡者将市政工人、市民和管理方放在同一服务关系中，再讨论机器人、基站与界面；HUHU CARE 从儿童、家长和医护人员的引导过程出发，组织吹嘴、握持区、气球与底座。它们是合作概念项目，展板、形态模型和部件图帮助说明提案，也提醒我把造型讨论与实际使用验证分开。',
       '在 BENWU 参与商业橱窗和灯具视觉工作时，设计对象进入了更大的空间。Hermès 与 Arc’teryx 橱窗需要同时考虑道具尺度、商品位置和观看层次；铝型材灯具则需要从一个截面理解台灯、落地灯、壁灯与吊灯的系列关系。三维表达因此不仅是制作一张完成图，也是讨论比例、材料与光线如何共同起作用的方法。',
-      '在杭州理灵参与的工作把这种关系意识延伸到品牌。彼源 AI 连接品牌表达、官网信息组织与产品入口；夜礼司、Periastra 则涉及品牌研究、图形演化与应用。对我而言，标志、页面和载体需要彼此解释：图形在小尺寸下怎样被识别，网站如何让人找到下一步，品牌规则又怎样进入具体的使用场景。',
+      '在杭州理灵，我负责彼源 AI 整体视觉设计并辅助上线，同时推进 Periastra 与夜礼司品牌设计。我的重点是让定位、标志和应用形成系统：用方案对照明确方向，用信息层级组织入口，用版本与交付管理推动设计继续向前。',
       'AI 与数字产品是持续实践的一条线。镜序把参考采集、分析、可编辑简报和生成任务留在同一工作区；砚台把看图延伸为造型学习，再由人确认归档；Resume Formatter 在开源基础上组织简历母版、岗位版本与改写审阅。这些项目让我把设计判断写进界面状态、确认步骤和恢复路径，而不只停留在一张界面效果图。',
       '我希望持续参与能够连接品牌、产品与数字体验的工作：把问题整理清楚，把抽象方向变成可以讨论的图形、模型或界面，再通过对照和反馈继续调整。本作品集保留项目来源、合作署名与阶段信息；读者可以从个人叙述进入具体案例，也可以从案例返回能力和工作经历，了解这些判断从哪里来。',
     ],
@@ -100,9 +100,9 @@ export const profileCopy: Record<Lang, ProfileCopy> = {
     ],
     experience: [
       timelineEntry('liling', 'zh', [
-        '参与彼源 AI 的品牌、官网视觉、交互与开发，把品牌表达连接到认识平台、查找模型和进入工具的页面路径。案例以实际页面记录说明信息层级与操作入口。',
-        '参与夜礼司和 Periastra 的品牌研究与应用表达。Periastra 围绕 P、镜头与保护框架展开识别关系，进一步比较线宽、负形和小尺寸呈现。',
-        '这段工作以品牌孵化与设计为内容标签，重点是连接定位、视觉规则、应用载体与数字体验。',
+        '负责彼源 AI 整体视觉设计并辅助上线，梳理品牌识别、官网层级与模型入口，让了解服务、选择模型和开始使用形成连贯路径。',
+        '推进夜礼司与 Periastra 的品牌设计。Periastra 从 P 图形探索转向已采用的字体标志；夜礼司以中文私印与身体负形建立识别，持续整理应用规则。',
+        '承担设计方向整理、方案比较、版本管理与交付协调，把品牌判断落实到页面和应用载体。',
       ], ['biyuan', 'yelisi', 'periastra']),
       timelineEntry('benwu', 'zh', [
         '作为 3D 设计师，参与 Hermès 季节橱窗与 Arc’teryx Alpha Center 橱窗的三维设计和视觉呈现，围绕道具比例、商品位置、空间层次及材质灯光开展团队协作。',
@@ -136,7 +136,7 @@ export const profileCopy: Record<Lang, ProfileCopy> = {
       },
       {
         id: 'brand-systems', title: '品牌图形与应用规则',
-        body: '从定位与图形母题出发，比较轮廓、线宽、负形和载体中的识别顺序。Periastra 将字母、镜头与保护框架建立联系；彼源把品牌语言延伸至网站中的信息组织与操作入口。',
+        body: '从定位与图形母题出发，比较轮廓、线宽、负形和载体中的识别顺序。Periastra 从符号探索收束到字体标志；彼源把品牌语言延伸至网站的信息组织与操作入口。',
         tools: ['图形研究', '应用系统', 'Figma'], caseSlugs: ['periastra', 'yelisi', 'biyuan'],
       },
       {
@@ -210,7 +210,7 @@ export const profileCopy: Record<Lang, ProfileCopy> = {
       'I am Yingjie Sun, a product design graduate. My work extends from product form, 3D visualization and commercial spaces to brand incubation and digital tools. Across these media, I return to one question: how can needs, form and use connect so that a proposal can be seen, understood and developed further?',
       'Product design training taught me to begin with people and actions. Plumber connects municipal workers, residents and operators before considering the robot, station and interface. HUHU CARE organizes the mouthpiece, grip, balloon and base around guidance between children, parents and clinical staff. These collaborative concepts use boards, form models and component drawings to communicate proposals while keeping form exploration separate from validation in use.',
       'At BENWU, window displays and lighting placed the object within a larger space. Work for Hermès and Arc’teryx involved prop scale, merchandise placement and viewing layers. Aluminum lighting explored a shared profile across table, floor, wall and pendant formats. Visualization became a way to discuss proportion, materials and light as well as produce a finished image.',
-      'My work at Hangzhou Liling extends this attention to relationships into branding. Biyuan AI connects identity, website information and product entry points; Yelisi and Periastra involve brand research, graphic development and applications. A mark, a page and a physical application should help explain each other: how an identity reads at a small scale, how a website reveals the next action and how rules carry into use.',
+      'At Hangzhou Liling, I was responsible for Biyuan AI’s overall visual design and supported its launch, while advancing Periastra and Yelisi branding. I connect positioning, identity and applications through direction comparisons, clear information hierarchy, version control and delivery coordination.',
       'AI and digital products form an ongoing practice. Lensflow keeps reference collection, analysis, editable briefs and generation tasks in one workspace. Yantai turns image collection into form study before a person confirms archiving. Built on an open-source project, Resume Formatter connects a master résumé, job-specific versions and rewrite review. These projects put design decisions into interface states, confirmation steps and recovery paths.',
       'I want to continue working where brand, product and digital experience meet: clarify a problem, turn a direction into a graphic, model or interface that can be discussed, then revise it through comparison and feedback. This portfolio retains sources, collaborators and project stages. Readers can follow the narrative into individual cases, or return from a case to the capabilities and experience behind it.',
     ],
@@ -222,9 +222,9 @@ export const profileCopy: Record<Lang, ProfileCopy> = {
     ],
     experience: [
       timelineEntry('liling', 'en', [
-        'Participating in Biyuan AI’s branding, website visuals, interaction and development, connecting the identity to paths for understanding the platform, finding models and entering tools. The case uses actual page records to explain hierarchy and actions.',
-        'Participating in brand research and applications for Yelisi and Periastra. Periastra explores the relationship between P, a lens and a protective frame, then compares stroke weight, negative space and small-scale presentation.',
-        'Brand incubation and design describes the work content: connecting positioning, visual rules, applications and digital experience.',
+        'Responsible for Biyuan AI’s overall visual design and launch support, connecting identity, website hierarchy and model entry points into a coherent path from understanding to use.',
+        'Advanced Yelisi and Periastra brand design. Periastra moved from P-symbol explorations to its adopted wordmark; Yelisi connects a Chinese seal and bodily negative space with application rules.',
+        'Organized design directions, compared alternatives, managed versions and coordinated delivery across website and brand applications.',
       ], ['biyuan', 'yelisi', 'periastra']),
       timelineEntry('benwu', 'en', [
         'As a 3D designer, contributed to Hermès seasonal windows and Arc’teryx Alpha Center windows through 3D design and visualization, working with the team on props, merchandise placement, spatial layers, materials and light.',
@@ -258,7 +258,7 @@ export const profileCopy: Record<Lang, ProfileCopy> = {
       },
       {
         id: 'brand-systems', title: 'Identity and application rules',
-        body: 'Start with positioning and a graphic motif, then compare contour, stroke, negative space and reading order across applications. Periastra connects a letter, lens and protective frame; Biyuan extends its identity into website information and actions.',
+        body: 'Start with positioning and a graphic motif, then compare contour, stroke, negative space and reading order across applications. Periastra evolves from symbol exploration to a distinctive wordmark; Biyuan extends its identity into website information and actions.',
         tools: ['Graphic research', 'Application systems', 'Figma'], caseSlugs: ['periastra', 'yelisi', 'biyuan'],
       },
       {

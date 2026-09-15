@@ -64,13 +64,23 @@ export const experiments: Record<string, Experiment> = {
     ],
   },
   periastra: {
-    slug: 'periastra', number: '06', title: b('让复杂度服从识别', 'Let complexity serve recognition'),
-    intro: b('从现有标志到结构与负形研究，再检查缩小和反转后的阅读。', 'Move from the existing mark to structure and negative space, then inspect size and inversion.'),
-    boundary: b('标志与应用研究 · 屏幕检查不代表16px图标或实体工艺已通过验证。', 'Identity and application study · On-screen inspection does not validate a 16px icon or physical production.'),
+    slug: 'periastra', number: '06', title: b('从符号到名字，改变识别重心', 'From symbol to name'),
+    intro: b('比较已采用的字体标志与两项探索，再检查缩放和反转。', 'Compare the adopted wordmark with two explorations, then inspect scale and inversion.'),
+    boundary: b('字体标志已采用；屏幕缩放用于视觉检查，实体工艺仍需样片验证。', 'Wordmark adopted; screen scaling is a visual check, while production requires physical samples.'),
     views: [
-      { id: 'mark', label: b('当前标志', 'Current mark'), title: b('先读 P，再读镜头与容器', 'Read P, then lens and enclosure'), body: b('字母为第一识别入口，回旋笔画与外部轮廓提供第二层联想。此处使用原始标志图，不重绘或替换其几何。', 'The letter is the first point of recognition; internal turns and enclosure add associations. This uses the original mark without redrawing its geometry.'), image: periastra + 'logo/periastra-logo-v01-20260422.webp', caption: b('2026-04-22 原始标志方案，含字标。', 'Original identity proposal dated 22 Apr 2026, including wordmark.') },
-      { id: 'structure', label: b('结构阅读', 'Structure'), title: b('分开观察三个图形母题', 'Read the three motifs separately'), body: b('结构说明将主干、圆弧腹部与外部框架连成阅读顺序。分析图用于解释现有关系，不是对历史设计过程的重演。', 'The structure study connects the stem, curved bowl and outer frame in a reading order. It explains relationships rather than reenacting an undocumented process.'), image: periastra + 'explainers/periastra-structure-breakdown-v01.svg', caption: b('原有结构说明图：字母、镜头与保护框架。', 'Existing structure diagram: letter, lens and protective frame.') },
-      { id: 'space', label: b('负形与线宽', 'Negative space'), title: b('把留白当成结构的一部分', 'Treat empty space as structure'), body: b('比较外框与内笔画的重量、中央留白和断口节奏。优化方向是需要进一步验证的研究，并非已经替换当前标志的定稿。', 'Compare outer and inner stroke weight, central space and breaks. These are research directions to validate, not a finished replacement for the current mark.'), image: periastra + 'explainers/periastra-lineweight-negative-space-v01.svg', caption: b('原有线宽与负形优化研究。', 'Existing study of line weight and negative space.') },
+      { id: 'mark', label: b('正式字体标志', 'Adopted wordmark'), title: b('让品牌名称成为图形', 'Make the name the graphic'), body: b('PERIASTRA 字母在紧凑轮廓中连续组织。圆角、开口和转折构成节奏，完整名称成为主要识别资产。', 'PERIASTRA is organized within a compact silhouette. Rounded strokes, openings and turns establish rhythm, making the name the primary identity asset.'), image: periastra + 'final-wordmark.png', caption: b('2026-06-09 正式采用版本；保留原稿。', 'Adopted 9 June 2026 version; original artwork preserved.') },
+      { id: 'structure', label: b('P 图形探索', 'P exploration'), title: b('聚焦与保护的直接联想', 'Direct associations of focus and protection'), body: b('P、镜头与外框建立多层含义。比较时关注内部复杂度和品牌名称是否被弱化，这一方向保留为历史探索。', 'P, lens and enclosure create multiple associations. Comparison focuses on complexity and whether the name becomes secondary. This remains a historical exploration.'), image: periastra + 'logo/periastra-logo-v01-20260422.webp', caption: b('早期 P 标志，非现行主标。', 'Earlier P mark, not the current primary identity.') },
+      { id: 'space', label: b('回旋图形探索', 'Rotational exploration'), title: b('比较轮廓与阅读顺序', 'Compare contour and reading order'), body: b('用同一显示区域对照回旋图形与字体标志，判断识别来自符号联想还是品牌名称。', 'Compare the rotational symbol and wordmark at the same display scale to examine recognition through association versus the name.'), image: periastra + 'exploration-orbit.png', caption: b('原始备选方案。', 'Original alternative direction.') },
+    ],
+  },
+  yelisi: {
+    slug: 'yelisi', number: '09', title: b('让边界与流动共同建立识别', 'Identity through boundary and movement'),
+    intro: b('切换历史方向、现行标志与应用原则，理解品牌重心如何变化。', 'Switch between the historical direction, current mark and application principles.'),
+    boundary: b('品牌系统研究；应用原则不等于完成实体打样。', 'Identity system study; application principles do not establish physical production.'),
+    views: [
+      { id: 'identity', label: b('现行识别', 'Current identity'), title: b('中文私印与身体负形', 'Chinese seal and bodily negative space'), body: b('近方形轮廓提供边界，内部曲线保留身体联想。中文品牌名称与印面共同承担识别。', 'A near-square contour establishes a boundary while internal curves retain bodily associations. The Chinese name and seal share recognition.'), image: '/works/brand/yelisi/yelisi-logo.webp', caption: b('夜礼司已确定的品牌方向。', 'Established Yelisi identity direction.') },
+      { id: 'history', label: b('历史方向', 'Historical direction'), title: b('从 S 曲线到中文中心', 'From an S curve to a Chinese identity'), body: b('早期 Songnasty 强调流动曲线。方向调整保留曲线的气质，把品牌名称与秩序放到更清楚的位置。', 'Songnasty emphasized flowing curves. The change retains that character while giving the name and visual order a clearer role.'), image: '/works/brand/yelisi/songnasty-historical-logo.webp', caption: b('Songnasty 为历史工作名。', 'Songnasty was the historical working name.') },
+      { id: 'application', label: b('应用原则', 'Applications'), title: b('标志稳定，信息分层', 'Stable mark, clear hierarchy'), body: b('包装与标签先呈现主标，再组织产品名称和说明。留白保护识别，必要信息保持可读；下一步用实物尺寸复核。', 'Packaging and labels prioritize the identity, then product names and information. Clear space protects recognition; actual-size samples are the next check.'), image: '/works/brand/yelisi/yelisi-logo.webp', caption: b('基于原始标志的应用规则讲解。', 'Application principles explained through the original mark.') },
     ],
   },
   lensflow: {

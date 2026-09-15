@@ -16,15 +16,17 @@ def digest(path):
 
 def run():
     profile = json.loads((ROOT/'web/src/data/profile.json').read_text(encoding='utf-8'))
+    publication = json.loads((ROOT/'web/src/data/publication.json').read_text(encoding='utf-8'))
     checks = []
     artifacts = []
 
     def check(name, condition):
         checks.append({'check': name, 'passed': bool(condition)})
 
-    for edition, expected_pages, expected_cases in [('selected', 28, 8), ('full', None, 33)]:
+    public_cases=len(list((ROOT/'web/src/content/works').glob('*.zh.md')))
+    for edition, expected_pages, expected_cases in [('selected', publication['selectedPageCount'], len(publication['selected'])), ('full', None, public_cases)]:
         manifest = json.loads((ROOT/f'deliverables/portfolio/{edition}-manifest.json').read_text(encoding='utf-8'))
-        pdf = ROOT/'web/public'/manifest['publicPath'].lstrip('/')
+        pdf = ROOT/'web/public'/manifest.get('publicPath','/downloads/sun-yingjie-selected-portfolio.pdf').lstrip('/')
         reader = PdfReader(pdf)
         page_text = [p.extract_text() or '' for p in reader.pages]
         check(edition+' page count',len(reader.pages)==manifest['pageCount'] and (expected_pages is None or len(reader.pages)==expected_pages))
@@ -45,12 +47,15 @@ def run():
 
     docx=ROOT/'deliverables/resume/sun-yingjie-resume.docx'
     pdf=ROOT/'deliverables/resume/sun-yingjie-resume.pdf'
-    doc=Document(docx);doc_text='\n'.join(p.text for p in doc.paragraphs)
+    doc=Document(docx)
+    paragraphs=list(doc.paragraphs)+[p for table in doc.tables for row in table.rows for cell in row.cells for p in cell.paragraphs]
+    doc_text='\n'.join(p.text for p in paragraphs)
     reader=PdfReader(pdf);pdf_text='\n'.join(p.extract_text() or '' for p in reader.pages)
     check('resume is one page',len(reader.pages)==1)
     check('resume is A4',abs(float(reader.pages[0].mediabox.width)-595.28)<1 and abs(float(reader.pages[0].mediabox.height)-841.89)<1)
     check('resume editable paragraphs',len(doc.paragraphs)>20)
-    check('resume semantic title',doc.paragraphs[0].style.name=='Title')
+    check('resume semantic title',any(p.style.name=='Title' and profile['name']['zh'] in p.text for p in paragraphs))
+    check('resume has photo and QR',len(doc.inline_shapes)==2)
     check('resume shared name',profile['name']['zh'] in doc_text and profile['name']['zh'] in pdf_text)
     for key in ['phone','email']:
         check('resume shared '+key,profile[key] in doc_text and profile[key] in pdf_text)
@@ -64,7 +69,7 @@ def run():
         check('resume public '+ext+' matches',digest(source)==digest(public))
         artifacts.append({'path':str(public.relative_to(ROOT)).replace('\\','/'),'pages':1,'bytes':source.stat().st_size,'sha256':digest(source)})
 
-    result={'passed':all(c['passed'] for c in checks),'checkCount':len(checks),'checks':checks,'artifacts':artifacts,'visualReview':'Recorded separately in docs/document-refinement-v3.md; text checks do not substitute for visual inspection.'}
+    result={'passed':all(c['passed'] for c in checks),'checkCount':len(checks),'checks':checks,'artifacts':artifacts,'visualReview':'Recorded separately in docs/DELIVERY-v5.md; text checks do not substitute for visual inspection.'}
     target=ROOT/'deliverables/document-verification.json'
     target.write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
     print(json.dumps({'passed':result['passed'],'checks':len(checks),'report':str(target),'failures':[c['check'] for c in checks if not c['passed']]},ensure_ascii=False))

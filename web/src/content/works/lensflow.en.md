@@ -49,6 +49,8 @@ The Chrome extension brings capture into browsing; Studio connects collections, 
 
 ## Outcome and stage
 
+The delivery connects a Chrome capture extension, local workspace and product site. Reference sources, editable analysis and task results form one continuous workflow, with explicit input review, preserved successful results and recovery at the failed task position.
+
 The independent project line began on 29 August 2026 and reached v0.3.3 on 1 September. The retained captures show the v0.3.0 demo and are not relabeled as later screens. Biyuan, OpenAI-compatible and ComfyUI adapters exist, but universal live compatibility is unestablished; model availability depends on the configured account.
 
 This is a Chrome extension and product website. Earlier Yantai work and related working copies remain development context rather than additional projects. Full mobile editing, accounts and cloud synchronization are outside this case's delivery scope.

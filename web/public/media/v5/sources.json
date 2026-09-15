@@ -1,0 +1,56 @@
+{
+  "edition": "v5",
+  "usage": "User-selected reference presentation videos; not personal project achievements. No blanket redistribution license established.",
+  "videos": [
+    {
+      "sourceUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260530_042513_df96a13b-6155-4f6e-8b93-c9dee66fba08.mp4",
+      "original": "hero-original.mp4",
+      "derivative": "hero-scrub.mp4",
+      "derivativeMethod": "H264 all-intra, CRF20, original dimensions/frame rate/duration, faststart; footage unchanged",
+      "files": [
+        {
+          "name": "hero-original.mp4",
+          "bytes": 4588424,
+          "sha256": "a8a035f82baaf5e07d90e451f8cee4416c68d03781dba6dc8143e4b41974c25b"
+        },
+        {
+          "name": "hero-scrub.mp4",
+          "bytes": 20643065,
+          "sha256": "ef77c2dc701d191df9d2bb06aa364450c6770a5fd0c898058ab30405bfce98f2"
+        },
+        {
+          "name": "hero-poster.webp",
+          "bytes": 164242,
+          "sha256": "3a4bfcee354e2e35ff4ff0182c5d5e34bfa24273cac38ae91ba9d4ba74978948"
+        }
+      ]
+    },
+    {
+      "sourceUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260908_073327_03643c0a-db33-417a-ae8f-4a39259c7f9c.mp4",
+      "original": "footer-original.mp4",
+      "derivative": "footer-scrub.mp4",
+      "derivativeMethod": "H264 all-intra, CRF20, original dimensions/frame rate/duration, faststart; footage unchanged",
+      "files": [
+        {
+          "name": "footer-original.mp4",
+          "bytes": 1643441,
+          "sha256": "343cb9b82eb060add821a49b0b11f8b819f71900bdbe678d340db748beb67293"
+        },
+        {
+          "name": "footer-scrub.mp4",
+          "bytes": 13393973,
+          "sha256": "8046015b732eab3cd8c0a6bdc471264fa7a21f281f4b74f55ec3a416e183e1f6"
+        },
+        {
+          "name": "footer-poster.webp",
+          "bytes": 120436,
+          "sha256": "b80774ddd811efd2c7c74dea3bc8ea9d04c212c1f3f8970d3245b7efe4343b07"
+        }
+      ]
+    }
+  ],
+  "portrait": {
+    "file": "portrait.png",
+    "state": "Original user-supplied photo; requested clothing edit pending image tool authorization"
+  }
+}

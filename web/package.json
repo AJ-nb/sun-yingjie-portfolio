@@ -1,7 +1,7 @@
 {
   "name": "sun-yingjie-portfolio",
   "private": true,
-  "version": "0.4.0",
+  "version": "0.5.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,8 +10,8 @@
     "preview": "vite preview",
     "typecheck": "tsc -b",
     "lint": "eslint .",
-    "check:invariants": "node ../scripts/verify-experiments.mjs && node ../scripts/verify-scroll-timeline.mjs && node ../scripts/verify-model.mjs && node ../scripts/verify-case-relations.mjs",
-    "test:browser": "node ../scripts/qa/browser-v3.mjs && node ../scripts/qa/browser-v4.mjs",
+    "check:invariants": "node ../scripts/verify-experiments.mjs && node ../scripts/verify-scroll-timeline.mjs && node ../scripts/verify-case-relations.mjs && npm run test:video",
+    "test:browser": "node ../scripts/qa/browser-v5.cjs",
     "test:video": "node --test src/ui/videoSeek.test.mjs"
   },
   "dependencies": {

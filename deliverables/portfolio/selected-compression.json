@@ -1,24 +1,24 @@
 {
-  "createdAt": "2026-09-15T04:46:27.383460+00:00",
-  "input": "E:\\文件\\项目\\portfolio\\deliverables\\portfolio\\sun-yingjie-selected-portfolio.pdf",
-  "output": "E:\\文件\\项目\\portfolio\\deliverables\\portfolio\\sun-yingjie-selected-portfolio-web.pdf",
-  "sourceSha256": "bfc708be36a16d83155dc0c830f1d078b98a7daa3b22097055312dc994c207d1",
-  "sourceBytes": 8775300,
-  "outputSha256": "a8d95a7e82a095ff57dcae787e4d026df4627d7a923ffabeb93a008e73213e66",
-  "outputBytes": 4877914,
+  "createdAt": "2026-09-15T17:19:48.425079+00:00",
+  "input": "D:\\codex-workspaces\\sun-yingjie-portfolio-v5\\deliverables\\portfolio\\sun-yingjie-selected-portfolio.pdf",
+  "output": "D:\\codex-workspaces\\sun-yingjie-portfolio-v5\\deliverables\\portfolio\\sun-yingjie-selected-portfolio-web.pdf",
+  "sourceSha256": "18ed851d36227ddb0c52e4a5b0d912b1b315863e7f824b8aece746ea1246337e",
+  "sourceBytes": 5185516,
+  "outputSha256": "d16ca5b44f5e0f653663571d86536cf3e3f55924d5cb0518aad81368136e7550",
+  "outputBytes": 3455210,
   "maxBytesExclusive": 20971520,
   "sourceUnchanged": true,
-  "pageCount": 28,
-  "outlineCount": 8,
+  "pageCount": 32,
+  "outlineCount": 6,
   "linkCount": 44,
   "attempts": [
     {
       "maxImageEdge": 1800,
-      "jpegQuality": 84,
+      "jpegQuality": 87,
       "subsampling": "4:4:4",
       "optimizeHuffman": true,
-      "imageCount": 28,
-      "bytes": 4877914,
+      "imageCount": 17,
+      "bytes": 3455210,
       "underLimit": true
     }
   ],
@@ -32,35 +32,7 @@
   },
   "images": [
     {
-      "objectId": 50,
-      "firstPage": 1,
-      "sourceDimensions": [
-        2400,
-        848
-      ],
-      "webDimensions": [
-        1800,
-        636
-      ],
-      "sourceEncodedBytes": 262709,
-      "webEncodedBytes": 118512
-    },
-    {
       "objectId": 51,
-      "firstPage": 1,
-      "sourceDimensions": [
-        1553,
-        1080
-      ],
-      "webDimensions": [
-        1553,
-        1080
-      ],
-      "sourceEncodedBytes": 336856,
-      "webEncodedBytes": 265509
-    },
-    {
-      "objectId": 52,
       "firstPage": 1,
       "sourceDimensions": [
         1280,
@@ -71,193 +43,25 @@
         1800
       ],
       "sourceEncodedBytes": 156733,
-      "webEncodedBytes": 111222
+      "webEncodedBytes": 124155
     },
     {
-      "objectId": 59,
-      "firstPage": 5,
+      "objectId": 52,
+      "firstPage": 1,
       "sourceDimensions": [
-        1280,
-        1920
+        1254,
+        1254
       ],
       "webDimensions": [
-        1200,
-        1800
+        1254,
+        1254
       ],
-      "sourceEncodedBytes": 429832,
-      "webEncodedBytes": 290856
+      "sourceEncodedBytes": 157282,
+      "webEncodedBytes": 122433
     },
     {
-      "objectId": 60,
-      "firstPage": 5,
-      "sourceDimensions": [
-        1280,
-        1737
-      ],
-      "webDimensions": [
-        1280,
-        1737
-      ],
-      "sourceEncodedBytes": 615822,
-      "webEncodedBytes": 510651
-    },
-    {
-      "objectId": 65,
-      "firstPage": 6,
-      "sourceDimensions": [
-        1083,
-        1080
-      ],
-      "webDimensions": [
-        1083,
-        1080
-      ],
-      "sourceEncodedBytes": 258856,
-      "webEncodedBytes": 205891
-    },
-    {
-      "objectId": 69,
-      "firstPage": 8,
-      "sourceDimensions": [
-        1280,
-        960
-      ],
-      "webDimensions": [
-        1280,
-        960
-      ],
-      "sourceEncodedBytes": 69521,
-      "webEncodedBytes": 39629
-    },
-    {
-      "objectId": 70,
-      "firstPage": 8,
-      "sourceDimensions": [
-        1280,
-        1280
-      ],
-      "webDimensions": [
-        1280,
-        1280
-      ],
-      "sourceEncodedBytes": 187136,
-      "webEncodedBytes": 145074
-    },
-    {
-      "objectId": 75,
-      "firstPage": 9,
-      "sourceDimensions": [
-        959,
-        720
-      ],
-      "webDimensions": [
-        959,
-        720
-      ],
-      "sourceEncodedBytes": 83368,
-      "webEncodedBytes": 63775
-    },
-    {
-      "objectId": 79,
-      "firstPage": 10,
-      "sourceDimensions": [
-        2400,
-        848
-      ],
-      "webDimensions": [
-        1800,
-        636
-      ],
-      "sourceEncodedBytes": 399854,
-      "webEncodedBytes": 177057
-    },
-    {
-      "objectId": 83,
-      "firstPage": 11,
-      "sourceDimensions": [
-        1700,
-        601
-      ],
-      "webDimensions": [
-        1700,
-        601
-      ],
-      "sourceEncodedBytes": 344610,
-      "webEncodedBytes": 286273
-    },
-    {
-      "objectId": 84,
-      "firstPage": 11,
-      "sourceDimensions": [
-        2400,
-        848
-      ],
-      "webDimensions": [
-        1800,
-        636
-      ],
-      "sourceEncodedBytes": 207082,
-      "webEncodedBytes": 96585
-    },
-    {
-      "objectId": 89,
-      "firstPage": 12,
-      "sourceDimensions": [
-        2400,
-        848
-      ],
-      "webDimensions": [
-        1800,
-        636
-      ],
-      "sourceEncodedBytes": 265074,
-      "webEncodedBytes": 120703
-    },
-    {
-      "objectId": 96,
-      "firstPage": 14,
-      "sourceDimensions": [
-        1700,
-        601
-      ],
-      "webDimensions": [
-        1700,
-        601
-      ],
-      "sourceEncodedBytes": 296293,
-      "webEncodedBytes": 245856
-    },
-    {
-      "objectId": 97,
-      "firstPage": 14,
-      "sourceDimensions": [
-        2000,
-        2000
-      ],
-      "webDimensions": [
-        1800,
-        1800
-      ],
-      "sourceEncodedBytes": 202474,
-      "webEncodedBytes": 99315
-    },
-    {
-      "objectId": 102,
-      "firstPage": 15,
-      "sourceDimensions": [
-        2000,
-        2000
-      ],
-      "webDimensions": [
-        1800,
-        1800
-      ],
-      "sourceEncodedBytes": 193511,
-      "webEncodedBytes": 93761
-    },
-    {
-      "objectId": 106,
-      "firstPage": 16,
+      "objectId": 53,
+      "firstPage": 1,
       "sourceDimensions": [
         1440,
         1000
@@ -267,11 +71,25 @@
         1000
       ],
       "sourceEncodedBytes": 117422,
-      "webEncodedBytes": 86380
+      "webEncodedBytes": 90821
     },
     {
-      "objectId": 110,
-      "firstPage": 17,
+      "objectId": 57,
+      "firstPage": 3,
+      "sourceDimensions": [
+        1254,
+        1254
+      ],
+      "webDimensions": [
+        1254,
+        1254
+      ],
+      "sourceEncodedBytes": 348673,
+      "webEncodedBytes": 304667
+    },
+    {
+      "objectId": 61,
+      "firstPage": 5,
       "sourceDimensions": [
         1440,
         1000
@@ -281,81 +99,133 @@
         1000
       ],
       "sourceEncodedBytes": 242110,
-      "webEncodedBytes": 189928
+      "webEncodedBytes": 202132
     },
     {
-      "objectId": 115,
-      "firstPage": 18,
+      "objectId": 71,
+      "firstPage": 8,
       "sourceDimensions": [
-        1440,
-        1000
+        390,
+        844
       ],
       "webDimensions": [
-        1440,
-        1000
+        390,
+        844
       ],
-      "sourceEncodedBytes": 171925,
-      "webEncodedBytes": 130001
+      "sourceEncodedBytes": 58454,
+      "webEncodedBytes": 49360
     },
     {
-      "objectId": 119,
-      "firstPage": 19,
-      "sourceDimensions": [
-        2000,
-        997
-      ],
-      "webDimensions": [
-        1800,
-        897
-      ],
-      "sourceEncodedBytes": 132577,
-      "webEncodedBytes": 77128
+      "objectId": 79,
+      "firstPage": 11,
+      "preservedTransparency": true
     },
     {
-      "objectId": 123,
-      "firstPage": 20,
+      "objectId": 84,
+      "firstPage": 12,
       "sourceDimensions": [
-        2400,
-        1520
+        1254,
+        1254
       ],
       "webDimensions": [
-        1800,
-        1140
+        1254,
+        1254
       ],
-      "sourceEncodedBytes": 252248,
-      "webEncodedBytes": 101899
+      "sourceEncodedBytes": 124767,
+      "webEncodedBytes": 89859
     },
     {
-      "objectId": 124,
-      "firstPage": 20,
+      "objectId": 95,
+      "firstPage": 15,
       "sourceDimensions": [
-        2400,
-        1520
+        1122,
+        1662
       ],
       "webDimensions": [
-        1800,
-        1140
+        1122,
+        1662
       ],
-      "sourceEncodedBytes": 219991,
-      "webEncodedBytes": 94957
+      "sourceEncodedBytes": 138704,
+      "webEncodedBytes": 95022
+    },
+    {
+      "objectId": 99,
+      "firstPage": 16,
+      "preservedTransparency": true
+    },
+    {
+      "objectId": 117,
+      "firstPage": 21,
+      "sourceDimensions": [
+        1280,
+        960
+      ],
+      "webDimensions": [
+        1280,
+        960
+      ],
+      "sourceEncodedBytes": 66387,
+      "webEncodedBytes": 39944
+    },
+    {
+      "objectId": 121,
+      "firstPage": 22,
+      "sourceDimensions": [
+        959,
+        720
+      ],
+      "webDimensions": [
+        959,
+        720
+      ],
+      "sourceEncodedBytes": 83368,
+      "webEncodedBytes": 69194
     },
     {
       "objectId": 129,
-      "firstPage": 21,
+      "firstPage": 24,
       "sourceDimensions": [
-        2400,
-        1520
+        1553,
+        1080
       ],
       "webDimensions": [
-        1800,
-        1140
+        1553,
+        1080
       ],
-      "sourceEncodedBytes": 244804,
-      "webEncodedBytes": 106286
+      "sourceEncodedBytes": 336856,
+      "webEncodedBytes": 285502
     },
     {
       "objectId": 133,
-      "firstPage": 22,
+      "firstPage": 25,
+      "sourceDimensions": [
+        1280,
+        1737
+      ],
+      "webDimensions": [
+        1280,
+        1737
+      ],
+      "sourceEncodedBytes": 615822,
+      "webEncodedBytes": 543584
+    },
+    {
+      "objectId": 141,
+      "firstPage": 27,
+      "sourceDimensions": [
+        2193,
+        2000
+      ],
+      "webDimensions": [
+        1800,
+        1642
+      ],
+      "sourceEncodedBytes": 776182,
+      "webEncodedBytes": 455360
+    },
+    {
+      "objectId": 145,
+      "firstPage": 28,
       "sourceDimensions": [
         1440,
         1040
@@ -365,11 +235,11 @@
         1040
       ],
       "sourceEncodedBytes": 233418,
-      "webEncodedBytes": 181183
+      "webEncodedBytes": 190716
     },
     {
-      "objectId": 137,
-      "firstPage": 23,
+      "objectId": 149,
+      "firstPage": 29,
       "sourceDimensions": [
         1440,
         1044
@@ -379,58 +249,16 @@
         1044
       ],
       "sourceEncodedBytes": 163171,
-      "webEncodedBytes": 121198
-    },
-    {
-      "objectId": 145,
-      "firstPage": 25,
-      "sourceDimensions": [
-        1440,
-        1024
-      ],
-      "webDimensions": [
-        1440,
-        1024
-      ],
-      "sourceEncodedBytes": 176135,
-      "webEncodedBytes": 132912
-    },
-    {
-      "objectId": 149,
-      "firstPage": 26,
-      "sourceDimensions": [
-        1440,
-        1024
-      ],
-      "webDimensions": [
-        1440,
-        1024
-      ],
-      "sourceEncodedBytes": 111461,
-      "webEncodedBytes": 78665
-    },
-    {
-      "objectId": 150,
-      "firstPage": 26,
-      "sourceDimensions": [
-        1440,
-        1024
-      ],
-      "webDimensions": [
-        1440,
-        1024
-      ],
-      "sourceEncodedBytes": 201006,
-      "webEncodedBytes": 150873
+      "webEncodedBytes": 126822
     }
   ],
   "selected": {
     "maxImageEdge": 1800,
-    "jpegQuality": 84,
+    "jpegQuality": 87,
     "subsampling": "4:4:4",
     "optimizeHuffman": true,
-    "imageCount": 28,
-    "bytes": 4877914,
+    "imageCount": 17,
+    "bytes": 3455210,
     "underLimit": true
   },
   "method": "pypdf document clone; Pillow JPEG 4:4:4 resampling of raster XObjects only. Page content streams, extracted text, page geometry, outline destinations and link actions/rectangles remain identical. No page rasterization."

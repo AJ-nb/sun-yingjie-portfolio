@@ -4,8 +4,8 @@ export const CHAPTERS = [
   { id: 'windows', title: { zh: '商业橱窗', en: 'Commercial windows' }, note: { zh: '2025.04 起 · 空间、道具与商品', en: 'Since 2025.04 · Space, props & merchandise' }, featured: ['hermes', 'arcteryx'] },
   { id: 'lighting', title: { zh: '铝型材灯具', en: 'Aluminum lighting' }, note: { zh: '系列语言、结构与光', en: 'A family of forms, structures & light' }, featured: ['lighting'] },
   { id: 'products', title: { zh: '产品设计与模型', en: 'Products & models' }, note: { zh: '从使用情境到形态与结构', en: 'From use scenarios to form & structure' }, featured: ['plumber', 'huhu-care', 'lingmu', 'jimu-studio', 'plant-companion'] },
-  { id: 'rendering', title: { zh: '三维渲染实践', en: '3D rendering practice' }, note: { zh: '材料、光线与构图', en: 'Material, light & composition' }, featured: ['rendering-studies', 'go-glow', 'baobab-glow'] },
-  { id: 'brands', title: { zh: '品牌孵化', en: 'Brand incubation' }, note: { zh: '2026.03 至今 · 品牌与产品关系', en: 'Since 2026.03 · Brand & product relationships' }, featured: ['biyuan', 'yelisi', 'periastra'] },
+  { id: 'rendering', title: { zh: '三维渲染实践', en: '3D rendering practice' }, note: { zh: '材料、光线与构图', en: 'Material, light & composition' }, featured: ['rendering-studies', 'go-glow', 'lighting'] },
+  { id: 'brands', title: { zh: '品牌孵化', en: 'Brand incubation' }, note: { zh: '2026.02—2026.09 · 品牌与产品关系', en: '2026.02–2026.09 · Brand & product relationships' }, featured: ['biyuan', 'yelisi', 'periastra'] },
   { id: 'ai', title: { zh: 'AI 与数字产品', en: 'AI & digital products' }, note: { zh: '把判断转化为可运行的流程', en: 'Design judgment in working tools' }, featured: ['lensflow', 'yantai', 'xintiao', 'formline', 'resume-formatter', 'xhs-methods'] },
 ] as const
 

@@ -108,4 +108,6 @@ Read the complete window first, then the relationship between merchandise and pr
 
 ## Outcome and stage
 
+I contributed to the 3D and visual work for summer, autumn and winter windows. Variations in window format, prop scale and depth present each seasonal language and help the team compare the relationship between merchandise and setting.
+
 The retained work documents three seasonal languages and my contribution to the team's 3D and visual presentation. It supports discussion of composition, proportion and spatial hierarchy. No footfall, merchandise-attention or sales-change data is supplied, so commercial impact is not inferred.

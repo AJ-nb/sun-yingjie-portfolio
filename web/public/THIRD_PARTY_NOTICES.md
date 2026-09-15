@@ -14,11 +14,9 @@ Versions are read from installed package metadata associated with this edition's
 
 | Package | Installed version | Declared license | Retained text |
 | --- | --- | --- | --- |
-| `@fontsource/bodoni-moda` | 5.3.0 | OFL-1.1 | [LICENSE](licenses/packages/fontsource-bodoni-moda-5.3.0/LICENSE) |
+| `@fontsource/epilogue` | 5.3.0 | OFL-1.1 | [LICENSE](licenses/packages/fontsource-epilogue-5.3.0/LICENSE) |
+| `@fontsource/dm-sans` | 5.3.0 | OFL-1.1 | [LICENSE](licenses/packages/fontsource-dm-sans-5.3.0/LICENSE) |
 | `@fontsource/noto-sans-sc` | 5.3.0 | OFL-1.1 | [LICENSE](licenses/packages/fontsource-noto-sans-sc-5.3.0/LICENSE) |
-| `@react-three/drei` | 9.122.0 | MIT | [LICENSE](licenses/packages/react-three-drei-9.122.0/LICENSE) |
-| `@react-three/fiber` | 8.18.0 | MIT | [LICENSE.upstream](licenses/packages/react-three-fiber-8.18.0/LICENSE.upstream) |
-| `@react-three/postprocessing` | 2.19.1 | MIT | [LICENSE](licenses/packages/react-three-postprocessing-2.19.1/LICENSE) |
 | `framer-motion` | 11.18.2 | MIT | [LICENSE.md](licenses/packages/framer-motion-11.18.2/LICENSE.md) |
 | `img-comparison-slider` | 8.0.7 | MIT | [LICENSE.upstream](licenses/packages/img-comparison-slider-8.0.7/LICENSE.upstream) |
 | `lucide-react` | 1.46.0 | ISC | [LICENSE](licenses/packages/lucide-react-1.46.0/LICENSE) |
@@ -27,7 +25,6 @@ Versions are read from installed package metadata associated with this edition's
 | `react-markdown` | 10.1.0 | MIT | [license](licenses/packages/react-markdown-10.1.0/license) |
 | `rehype-raw` | 7.0.0 | MIT | [license](licenses/packages/rehype-raw-7.0.0/license) |
 | `remark-gfm` | 4.0.1 | MIT | [license](licenses/packages/remark-gfm-4.0.1/license) |
-| `three` | 0.169.0 | MIT | [LICENSE](licenses/packages/three-0.169.0/LICENSE) |
 | `yet-another-react-lightbox` | 3.32.2 | MIT | [LICENSE](licenses/packages/yet-another-react-lightbox-3.32.2/LICENSE) |
 | `zustand` | 4.5.7 | MIT | [LICENSE](licenses/packages/zustand-4.5.7/LICENSE) |
 
@@ -35,11 +32,11 @@ Lucide's retained LICENSE includes both the ISC terms for Lucide and the MIT ter
 
 ## Fonts
 
-Bodoni Moda and Noto Sans SC are supplied through Fontsource 5.3.0 packages under the SIL Open Font License 1.1. Their installed package licenses are linked above. Canonical source texts were also checked and retained: [Bodoni Moda OFL](licenses/font-sources/Bodoni-Moda/OFL.txt) and [Noto Sans SC OFL](licenses/font-sources/Noto-Sans-SC/OFL.txt). Fontsource's software/tooling license does not replace the individual font licenses. The fonts have not been relicensed as this portfolio's proprietary artwork.
+Epilogue, DM Sans and Noto Sans SC are supplied through Fontsource 5.3.0 under the SIL Open Font License 1.1. Source licenses are retained: [Epilogue OFL](licenses/font-sources/Epilogue/OFL.txt), [DM Sans OFL](licenses/font-sources/DM-Sans/OFL.txt), [Noto Sans SC OFL](licenses/font-sources/Noto-Sans-SC/OFL.txt). The PDF export converts the installed Latin WOFF files to TTF without changing their outlines, then embeds subsets. Document Chinese text uses the available Microsoft YaHei font. Fontsource's tooling license does not replace individual font licenses.
 
 ## Build and verification tools
 
-These packages support development, model processing or verification. They are not advertised as visitor-facing features. Test execution and outcomes are documented separately from the fact that a tool is installed.
+These records cover current verification tools and historical model-processing tools. The latter remain as archival attribution; v5 removes the personal 3D module and its Three.js dependencies. Test outcomes are recorded separately from package availability.
 
 | Package | Installed version | Declared license | Retained text |
 | --- | --- | --- | --- |
@@ -54,7 +51,7 @@ These packages support development, model processing or verification. They are n
 
 ## Indirect dependencies and source records
 
-The [inventory](licenses/inventory.json) records 216 packages, including 208 runtime dependency records and eight selected development-tool packages. It links 224 retained notice or declaration files and records SHA-256 values and their provenance. Most texts are exact copies from the installed packages. Where root license files were omitted, recorded upstream blobs supply the text; the inventory distinguishes matching release tags from current upstream license snapshots.
+The [inventory](licenses/inventory.json) retains current and historical package records, notice files, SHA-256 values and provenance. Removed v4 packages remain in this archive; the runtime table above describes v5. Most texts are exact installed-package copies; recorded upstream blobs supply missing root licenses, with release tags distinguished from upstream snapshots.
 
 For the indirect `stats-gl` 2.4.2 dependency, the installed README and package metadata declare MIT, but no full standalone license text was present in the package or live upstream license endpoint at the check date. Its [declaration and source limitation](licenses/packages/stats-gl-2.4.2/LICENSE-DECLARATION.txt) are retained rather than an invented upstream copyright notice. This portfolio does not directly import the StatsGl overlay.
 
@@ -64,7 +61,13 @@ Codrops [ScrollBasedLayoutAnimations](https://github.com/codrops/ScrollBasedLayo
 
 Case-specific project authorship, team credits, upstream forks, image sources and completion stages remain in each bilingual case. Existing commercial trademarks and collaborative design materials retain their respective rights holders. Newly explained open-source mechanisms are tools and references, not additional personal project achievements.
 
-Verification date: 2026-09-15. Retained source hashes and exact package versions are recorded in the inventory.
+Verification date: 2026-09-16. Retained source hashes and package versions are recorded in the inventory.
+
+## v5 presentation media and open-source decisions
+
+The two original presentation videos were supplied by reference URL and explicitly selected by the portfolio author. Their original files, seek-friendly derivatives, frame mapping and source hashes are documented in [media sources](media/v5/sources.json). They are presentation references, not original case-study achievements. No general redistribution license for this footage has been established by this project.
+
+The [v5 open-source research record](OPEN_SOURCE_REFERENCES.md) links Motion, Lenis, React Bits, Resume Formatter and the historical code foundation, distinguishing actual reuse from research only. New imagery, when generated, is labeled as a visual proposal rather than a manufactured sample or real product interface.
 
 ## v4 design and content research
 

@@ -285,61 +285,61 @@
     {
       "page": 57,
       "kind": "project",
-      "case": "baobab-glow"
+      "case": "cloudwing"
     },
     {
       "page": 58,
       "kind": "project",
-      "case": "cloudwing"
+      "case": "bat-quad"
     },
     {
       "page": 59,
       "kind": "project",
-      "case": "bat-quad"
+      "case": "little-orange"
     },
     {
       "page": 60,
       "kind": "project",
-      "case": "little-orange"
+      "case": "ecological-harvest"
     },
     {
       "page": 61,
       "kind": "project",
-      "case": "water-guardian"
+      "case": "purewater-rolling-filter"
     },
     {
       "page": 62,
       "kind": "project",
-      "case": "ecological-harvest"
+      "case": "polar-wing"
     },
     {
       "page": 63,
       "kind": "project",
-      "case": "purewater-rolling-filter"
+      "case": "construction-recycler"
     },
     {
       "page": 64,
       "kind": "project",
-      "case": "polar-wing"
-    },
-    {
-      "page": 65,
-      "kind": "project",
-      "case": "construction-recycler"
-    },
-    {
-      "page": 66,
-      "kind": "project",
       "case": "water-walking-bath"
     },
     {
-      "page": 67,
+      "page": 65,
       "kind": "chapter",
       "case": "rendering"
     },
     {
-      "page": 68,
+      "page": 66,
       "kind": "project",
+      "case": "rendering-studies"
+    },
+    {
+      "page": 67,
+      "kind": "details",
+      "case": "rendering-studies"
+    },
+    {
+      "page": 68,
+      "kind": "details",
       "case": "rendering-studies"
     },
     {
@@ -389,52 +389,52 @@
     },
     {
       "page": 78,
-      "kind": "details",
-      "case": "rendering-studies"
-    },
-    {
-      "page": 79,
-      "kind": "details",
-      "case": "rendering-studies"
-    },
-    {
-      "page": 80,
       "kind": "chapter",
       "case": "brands"
     },
     {
-      "page": 81,
+      "page": 79,
       "kind": "project",
+      "case": "biyuan"
+    },
+    {
+      "page": 80,
+      "kind": "details",
+      "case": "biyuan"
+    },
+    {
+      "page": 81,
+      "kind": "details",
       "case": "biyuan"
     },
     {
       "page": 82,
-      "kind": "details",
-      "case": "biyuan"
+      "kind": "project",
+      "case": "yelisi"
     },
     {
       "page": 83,
       "kind": "details",
-      "case": "biyuan"
+      "case": "yelisi"
     },
     {
       "page": 84,
-      "kind": "project",
+      "kind": "details",
       "case": "yelisi"
     },
     {
       "page": 85,
-      "kind": "details",
-      "case": "yelisi"
+      "kind": "project",
+      "case": "periastra"
     },
     {
       "page": 86,
       "kind": "details",
-      "case": "yelisi"
+      "case": "periastra"
     },
     {
       "page": 87,
-      "kind": "project",
+      "kind": "details",
       "case": "periastra"
     },
     {
@@ -444,147 +444,127 @@
     },
     {
       "page": 89,
-      "kind": "details",
-      "case": "periastra"
-    },
-    {
-      "page": 90,
-      "kind": "details",
-      "case": "periastra"
-    },
-    {
-      "page": 91,
-      "kind": "details",
-      "case": "periastra"
-    },
-    {
-      "page": 92,
       "kind": "chapter",
       "case": "ai"
     },
     {
-      "page": 93,
+      "page": 90,
       "kind": "project",
       "case": "lensflow"
+    },
+    {
+      "page": 91,
+      "kind": "details",
+      "case": "lensflow"
+    },
+    {
+      "page": 92,
+      "kind": "details",
+      "case": "lensflow"
+    },
+    {
+      "page": 93,
+      "kind": "project",
+      "case": "yantai"
     },
     {
       "page": 94,
       "kind": "details",
-      "case": "lensflow"
+      "case": "yantai"
     },
     {
       "page": 95,
       "kind": "details",
-      "case": "lensflow"
+      "case": "yantai"
     },
     {
       "page": 96,
-      "kind": "project",
+      "kind": "details",
       "case": "yantai"
     },
     {
       "page": 97,
-      "kind": "details",
-      "case": "yantai"
+      "kind": "project",
+      "case": "xintiao"
     },
     {
       "page": 98,
       "kind": "details",
-      "case": "yantai"
+      "case": "xintiao"
     },
     {
       "page": 99,
       "kind": "details",
-      "case": "yantai"
+      "case": "xintiao"
     },
     {
       "page": 100,
       "kind": "project",
-      "case": "xintiao"
+      "case": "formline"
     },
     {
       "page": 101,
       "kind": "details",
-      "case": "xintiao"
+      "case": "formline"
     },
     {
       "page": 102,
       "kind": "details",
-      "case": "xintiao"
+      "case": "formline"
     },
     {
       "page": 103,
       "kind": "project",
-      "case": "formline"
+      "case": "resume-formatter"
     },
     {
       "page": 104,
       "kind": "details",
-      "case": "formline"
+      "case": "resume-formatter"
     },
     {
       "page": 105,
       "kind": "details",
-      "case": "formline"
+      "case": "resume-formatter"
     },
     {
       "page": 106,
-      "kind": "project",
+      "kind": "details",
       "case": "resume-formatter"
     },
     {
       "page": 107,
-      "kind": "details",
-      "case": "resume-formatter"
-    },
-    {
-      "page": 108,
-      "kind": "details",
-      "case": "resume-formatter"
-    },
-    {
-      "page": 109,
-      "kind": "details",
-      "case": "resume-formatter"
-    },
-    {
-      "page": 110,
       "kind": "project",
       "case": "visual-archive"
     },
     {
-      "page": 111,
+      "page": 108,
       "kind": "project",
       "case": "aesthetic-atlas"
     },
     {
-      "page": 112,
+      "page": 109,
       "kind": "project",
       "case": "image-2-5-xhs"
     },
     {
-      "page": 113,
+      "page": 110,
       "kind": "details",
       "case": "image-2-5-xhs"
     },
     {
-      "page": 114,
+      "page": 111,
       "kind": "project",
       "case": "xhs-methods"
     },
     {
-      "page": 115,
-      "kind": "project",
-      "case": "yuju"
-    },
-    {
-      "page": 116,
+      "page": 112,
       "kind": "contact",
       "case": null
     }
   ],
-  "caseCount": 33,
-  "pageCount": 116,
+  "caseCount": 30,
+  "pageCount": 112,
   "chapters": [
     {
       "id": "windows",
@@ -646,8 +626,8 @@
       "id": "brands",
       "title": "品牌孵化",
       "english": "Brand incubation",
-      "note": "2026.03 至今 · 品牌与产品关系",
-      "noteEnglish": "Since 2026.03 · Brand & product relationships",
+      "note": "2026.02—2026.09 · 品牌与产品关系",
+      "noteEnglish": "2026.02–2026.09 · Brand & product relationships",
       "slugs": [
         "biyuan",
         "yelisi",
@@ -1156,267 +1136,246 @@
       ]
     },
     {
-      "publicPath": "/works/documents/embedded-boards/x1.webp",
-      "sha256": "581863a50f4d32814e294d2af1fb44c45ea5e3064957ddc158c0fde6635405f3",
-      "pages": [
-        57
-      ]
-    },
-    {
       "publicPath": "/works/documents/embedded-boards/x3.webp",
       "sha256": "42b56aeba91fbd57a14e16482244657350d082e4e7102a132eafe991b6e80d76",
       "pages": [
-        58
+        57
       ]
     },
     {
       "publicPath": "/works/documents/embedded-boards/x2.webp",
       "sha256": "8a0b6b67b59fe3dbfbd54c945c9e39e24e4b99beb582b43fb0edef6a79b4bf9f",
       "pages": [
-        59
+        58
       ]
     },
     {
       "publicPath": "/works/documents/embedded-boards/x4.webp",
       "sha256": "9f18fff9473af522ecf883845c39978e6478e63ed1bcc3a783a87f74f5f2f773",
       "pages": [
-        60
-      ]
-    },
-    {
-      "publicPath": "/works/documents/embedded-boards/x5.webp",
-      "sha256": "99e162c05e90bc6d0dae7aa6ff7673bf3b728b1e0cfb5c19923877a038ccf4e4",
-      "pages": [
-        61
+        59
       ]
     },
     {
       "publicPath": "/works/documents/embedded-boards/x7.webp",
       "sha256": "6d1ad7263acd0d57809af5703259091517924779b46058f2d7de4c4c6ed565e4",
       "pages": [
-        62
+        60
       ]
     },
     {
       "publicPath": "/works/documents/embedded-boards/x8.webp",
       "sha256": "9c67f748a658430f02aa82ad6768c92fcaa1b9df7b3942d0f0f3a20c2c45641a",
       "pages": [
-        63
+        61
       ]
     },
     {
       "publicPath": "/works/documents/embedded-boards/x9.webp",
       "sha256": "1c36da68ef5067032501ec459d3e09fb3aabb442e3c80a2aa46d72e36bbb515a",
       "pages": [
-        64
+        62
       ]
     },
     {
       "publicPath": "/works/local/local-05.webp",
       "sha256": "8a65be8758534a0c43cbd46cee3268e5bd8e2494905f194320b517cadbdbcdf6",
       "pages": [
-        65
+        63
       ]
     },
     {
       "publicPath": "/works/local/local-03.webp",
       "sha256": "750e28c26cc3e20ac22cb7b83f6a21698a18ffa9eae9ffe94007c94aeee2ccab",
       "pages": [
-        66
+        64
       ]
     },
     {
       "publicPath": "/works/legacy/rendering/6b8d00417baa8b204447fd0857eb435a.webp",
       "sha256": "045eefb585008f74ecfb38de62c4684690cb724b3a30869d15dde6bb85a05dd3",
       "pages": [
-        68,
-        78
+        66,
+        76
       ]
     },
     {
       "publicPath": "/works/refinement-v2/rendering-pdf/038.webp",
       "sha256": "02e28da60df2678abdcc558bffe415dd02ccc00821bec74ae9e0fcc012c8901d",
       "pages": [
-        69
+        67
       ]
     },
     {
       "publicPath": "/works/refinement-v2/rendering-pdf/040.webp",
       "sha256": "26a9707a70742728e35e1ea7c7c9ab29a34e07be03562425c404adbcf305ce93",
       "pages": [
-        70
+        68
       ]
     },
     {
       "publicPath": "/works/refinement-v2/rendering-pdf/041.webp",
       "sha256": "d59db52917e20419b13c05c7b394865003bc9f390a962d52969e014965cd2f64",
       "pages": [
-        71
+        69
       ]
     },
     {
       "publicPath": "/works/refinement-v2/rendering-pdf/022.webp",
       "sha256": "e48ec352c2790a7eea0aa2d3e1e48bdf604d7ef2382fa94dbe3b20fb754ddad7",
       "pages": [
-        71
+        69
       ]
     },
     {
       "publicPath": "/works/refinement-v2/rendering-pdf/024.webp",
       "sha256": "9d5c693401c1cf87cfbc90a6f027760b721c35f520f579ad4692caed995aab4e",
       "pages": [
-        72
+        70
       ]
     },
     {
       "publicPath": "/works/refinement-v2/rendering-pdf/014.webp",
       "sha256": "09737a863561a1b300da01a75119392689054e1a5e1b216734711935e6c7d81d",
       "pages": [
-        73
+        71
       ]
     },
     {
       "publicPath": "/works/refinement-v2/rendering-pdf/017.webp",
       "sha256": "634a69b5eecdc238b29f657f5c1ca71914b2910c92bc7dbbcc3c47b22c90bc97",
       "pages": [
-        74
+        72
       ]
     },
     {
       "publicPath": "/works/refinement-v2/rendering-pdf/034.webp",
       "sha256": "9273e9beb3e46d9ec68eb43e6ef43ee35f1ea363c2e87a9a21c968a37ffa19ba",
       "pages": [
-        75
+        73
       ]
     },
     {
       "publicPath": "/works/refinement-v2/rendering-pdf/036.webp",
       "sha256": "f14de97325ce5f6a08f422697d0cc0c85441edf072fa9cef12398934c1e60ea9",
       "pages": [
-        76
+        74
       ]
     },
     {
       "publicPath": "/works/legacy/rendering/22de046ff3e66598345084183a3aea6b.webp",
       "sha256": "9aaecc1961a291961d29185daf09765e5c8079e5144699c4637ed8962015878c",
       "pages": [
-        77
+        75
       ]
     },
     {
       "publicPath": "/works/legacy/rendering/7ddd2cc1d08f22e83dbf11ca277471eb.webp",
       "sha256": "022d2408532e81e56e72551996a69b42bb11d22f18425f33924676af39931ad2",
       "pages": [
-        79
+        77
       ]
     },
     {
       "publicPath": "/works/refinement-brand/biyuan/home-desktop.png",
       "sha256": "b0e57ff88733fe5eee305ea9d9b1ab9b132bc25d79c72ad483463f0adc175172",
       "pages": [
-        81,
-        82
+        79,
+        80
       ]
     },
     {
       "publicPath": "/works/refinement-brand/biyuan/models-desktop.png",
       "sha256": "15af1371b1ac29ddbddd8dc3622d41ed0334e1c20f12b59f896679cb82a4d5b3",
       "pages": [
-        82
+        80
       ]
     },
     {
       "publicPath": "/works/refinement-brand/biyuan/models-filtered.png",
       "sha256": "6dd108150f6a06c4215ff155c7bd89c20d831f2f94af5f1d3cf8c1ca2ede45c4",
       "pages": [
-        82
+        80
       ]
     },
     {
       "publicPath": "/works/refinement-brand/biyuan/home-mobile.png",
       "sha256": "91456a57479cee34df97e808304b0ddf140cef53b56f5406e8f57881b06fa7e9",
       "pages": [
-        83
+        81
       ]
     },
     {
       "publicPath": "/works/brand/yelisi/yelisi-logo.webp",
       "sha256": "529657e9b73686384822f7ac063c2faff6a419d5e90900ccd4c56701f8318961",
       "pages": [
-        84,
-        85
+        82,
+        83
       ]
     },
     {
       "publicPath": "/works/brand/yelisi/songnasty-historical-logo.webp",
       "sha256": "81e13b35fee3ee6e5852d734494aae0cb9ee4963c6b58b65e045ff28191b47dc",
       "pages": [
-        85
+        83
       ]
     },
     {
       "publicPath": "/works/brand/yelisi/snake-component-dimensions-concept.webp",
       "sha256": "e7db66964c17129b13ae4c686959bf73bce8c5766f99cb95d293a036b4f61844",
       "pages": [
-        86
+        84
+      ]
+    },
+    {
+      "publicPath": "/works/brand/periastra/final-wordmark.png",
+      "sha256": "92b7c176b3e083da1a5a240ca90f270860064616902e56e0e9d5921c595ad395",
+      "pages": [
+        85,
+        88
       ]
     },
     {
       "publicPath": "/works/brand/periastra/logo/periastra-logo-v01-20260422.webp",
       "sha256": "2637767939f8aba533262f6090ef30e01ba1831bdc3390b37d116f553c722824",
       "pages": [
-        87,
-        90
+        86
       ]
     },
     {
-      "publicPath": "/works/brand/periastra/explainers/periastra-structure-breakdown-v01.svg",
-      "sha256": "d717dfd2970cd6fe935170ed79f783cdadee87f5bd8242bac3db77a872f83a0e",
+      "publicPath": "/works/brand/periastra/exploration-orbit.png",
+      "sha256": "61b2f04987eeeeae3d6f4ea6b2c546179570c7950bda5ad2044640458cf28ba4",
       "pages": [
-        88
-      ]
-    },
-    {
-      "publicPath": "/works/brand/periastra/explainers/periastra-lineweight-negative-space-v01.svg",
-      "sha256": "c1570cac57286f7be621a1730ffee00ff16655e5f061b2b953b4e3563c4a0e42",
-      "pages": [
-        89
-      ]
-    },
-    {
-      "publicPath": "/works/brand/periastra/explainers/periastra-application-fit-v01.svg",
-      "sha256": "4f0e75bb2faa71ed509f31a2dcf92fed9acd55f95cbd188799f11dd197b179e6",
-      "pages": [
-        91
+        87
       ]
     },
     {
       "publicPath": "/works/digital/lensflow/studio-analysis.webp",
       "sha256": "ea7ef2af8a00de389be498e10ac8194168b7dd89986e568bd9f58da2613706c8",
       "pages": [
-        93,
-        95
+        90,
+        92
       ]
     },
     {
       "publicPath": "/works/digital/lensflow/studio-guide.webp",
       "sha256": "329f6863f0ed922d18f5ff2f37d905477107e8e9eff44c4f669c45d13f54116d",
       "pages": [
-        94
+        91
       ]
     },
     {
       "publicPath": "/works/digital/yantai/design-study-fixture.webp",
       "sha256": "e76e3424c5ca778a00afc303a45c06762fb3f0a01163be08d1f59fd3737ab86b",
       "pages": [
-        96,
-        97,
-        98,
-        99
+        93,
+        94,
+        95,
+        96
       ],
       "displayCrops": [
         {
-          "page": 96,
+          "page": 93,
           "sourcePixelBounds": [
             0,
             0,
@@ -1425,7 +1384,7 @@
           ]
         },
         {
-          "page": 97,
+          "page": 94,
           "sourcePixelBounds": [
             0,
             0,
@@ -1434,7 +1393,7 @@
           ]
         },
         {
-          "page": 98,
+          "page": 95,
           "sourcePixelBounds": [
             0,
             741,
@@ -1443,7 +1402,7 @@
           ]
         },
         {
-          "page": 99,
+          "page": 96,
           "sourcePixelBounds": [
             0,
             1470,
@@ -1457,168 +1416,158 @@
       "publicPath": "/works/refinement-digital/xintiao/home-native.png",
       "sha256": "238a1fdc9cc27a803c41f233fade72008b106ac2a218238d53045aa266c75b93",
       "pages": [
-        100,
-        101
+        97,
+        98
       ]
     },
     {
       "publicPath": "/works/refinement-digital/xintiao/onboarding-native.png",
       "sha256": "a2b8c4968feafd8fe6c6fe9f04a78e10a5d9ea97e49e9af0a6b4ca606a5894c3",
       "pages": [
-        101
+        98
       ]
     },
     {
       "publicPath": "/works/refinement-digital/xintiao/detail-native.png",
       "sha256": "ebd8d34bb0cc150ea8baf40f54489298fc6cb028bc98731d3035ec479ac2e1f3",
       "pages": [
-        101
+        98
       ]
     },
     {
       "publicPath": "/works/refinement-digital/xintiao/calendar-native.png",
       "sha256": "b43f58f087a750b637fb7a56405fb2c26cd9619d7b72356fa9b99934cfb84596",
       "pages": [
-        102
+        99
       ]
     },
     {
       "publicPath": "/works/refinement-digital/xintiao/appearance-native.png",
       "sha256": "65e5c0f81ddbb846cc0496b676756f6d5fa204ae8f850bd781695c5fcbb7827b",
       "pages": [
-        102
+        99
       ]
     },
     {
       "publicPath": "/works/digital/formline/editor-desktop.webp",
       "sha256": "a7f26c8e69d06e3e7f2e3cb57cd436990636477675c6747a7c261f186ed96073",
       "pages": [
-        103,
-        104
+        100,
+        101
       ]
     },
     {
       "publicPath": "/works/digital/formline/editor-mobile.webp",
       "sha256": "037144988c4a936dad18573e623633c46a79d99d4ecc7a098d183b560f3992ec",
       "pages": [
-        105
+        102
       ]
     },
     {
       "publicPath": "/works/digital/resume-formatter/workspace.webp",
       "sha256": "cd5f4b4cbc804c2a13cec893804aea0931bcefe02479b3d64f84f811fe555f23",
       "pages": [
-        106,
-        108
+        103,
+        105
       ]
     },
     {
       "publicPath": "/works/digital/resume-formatter/rewrite-diff.webp",
       "sha256": "93e5c67e35fb50be30cc595a7ed4e876d4d78ec9b86870de3e629e78d15c201c",
       "pages": [
-        107
+        104
       ]
     },
     {
       "publicPath": "/works/digital/resume-formatter/layout-controls.webp",
       "sha256": "8ba037f244f288b4a2576d7ca46587bb1aea151f7481589a545cdd86868f32d6",
       "pages": [
-        109
+        106
       ]
     },
     {
       "publicPath": "/works/digital/visual-archive/analysis-desktop.webp",
       "sha256": "0417244895f9b5a91b04743c3146c5845d0f3082aa486d1361f7bc5c93039616",
       "pages": [
-        110
+        107
       ]
     },
     {
       "publicPath": "/works/digital/aesthetic-atlas/bauhaus-product-dna.webp",
       "sha256": "08cb98185e9d807ec70c5d3d89fb5c0ab165e70070cb68953b24cf146b2223ce",
       "pages": [
-        111
+        108
       ]
     },
     {
       "publicPath": "/works/digital/image-2-5-xhs/evaluation-cover.webp",
       "sha256": "f4d1884e545ff600abdf329e0d5069dafba9ae20386f9071a8b0ffdc5fe746c1",
       "pages": [
-        112,
-        113
+        109,
+        110
       ]
     },
     {
       "publicPath": "/works/digital/image-2-5-xhs/product-consistency.webp",
       "sha256": "a375060a52fe13632f66a29594963674d1df7e30b7aff022e477bb8d00a96b0b",
       "pages": [
-        113
+        110
       ]
     },
     {
       "publicPath": "/works/digital/image-2-5-xhs/evaluation-boundaries.webp",
       "sha256": "83b4bb7dbb770e669db56ee12b842710d8c70d4674238749b42a1411f7a47c5d",
       "pages": [
-        113
+        110
       ]
     },
     {
       "publicPath": "/works/refinement-digital/xhs-methods/workflow.png",
       "sha256": "ae0474841fba26306d356bfe690c4896e5ad16a36c121a151a810d71b702f210",
       "pages": [
-        114
-      ]
-    },
-    {
-      "publicPath": "/works/documents/embedded-boards/x6.webp",
-      "sha256": "299e12659689836810a512d046183b64aec7b3f2c9cbb1437eb795281ec2cf95",
-      "pages": [
-        115
+        111
       ]
     }
   ],
-  "bytes": 54326388,
-  "sha256": "16406ea8e3f3280a5d349db7be9f1e1f62746016b5e0b552221dfcc048ed16ea",
-  "note": "Third edition: all 33 cases in six shared chapters, updated narrative and retained original gallery selections, preserved collaboration credits, clickable index and stable full-case web links.",
+  "bytes": 51002243,
+  "sha256": "b86079bcfe1e06ec571080b2b2fcc542903086382cb09d4eed725b521117df33",
+  "note": "Fifth edition: cleared cases in six shared chapters, updated narrative and retained original gallery selections, preserved collaboration credits, clickable index and stable full-case web links.",
   "sourceHashes": {
-    "web/src/data/profile.json": "bf5ac2e47828cd8d1567ab47ace805b7f2702c32f7a5ff23994542b040a6a723",
-    "web/src/data/chapters.ts": "a49412bd77598f7ea44e675b065fc29c848bd73fa495d8e04e1b8739b0ac06c6",
-    "web/src/content/works/hermes.zh.md": "dbe8fa8017ea2a6bb8c8f6a3d0f14bc5ad820a8a227bde7dbdbd5d3e0667dac9",
+    "web/src/data/profile.json": "77f55e2e68bff0d2569d6ff1fcb2cd13ecb49a9d115b03498e7c4d98420fbfd1",
+    "web/src/data/chapters.ts": "11403e8f47d7eaf6f32d2e0cc744c925a5c4fae8da333330f72d93933283cb13",
+    "web/src/content/works/hermes.zh.md": "e8ad94e9687eb7225b9d44a6b4553e63ae4c071c7335060a6cdef9c31f690308",
     "web/src/content/works/arcteryx.zh.md": "e4ca949e502cecd9e820f57f274bf90895d88766c0a7a1b30d9cf14d7ae344ab",
-    "web/src/content/works/lighting.zh.md": "694da3f4757acc272ee6611ee0953aae54f3e1c5f30ab09f6b7c2e68acf2ea66",
+    "web/src/content/works/lighting.zh.md": "6549986b5d6346fef7c35ae79bd4c7a92063325d9938f184470cab517e5d81ce",
     "web/src/content/works/plumber.zh.md": "69221b97aafccb31ac2ff3d4ea98bb0ff95333f02a4f8841d407879c13bc112b",
     "web/src/content/works/huhu-care.zh.md": "b725735b3ae2402f75718fe32300f021af13554049576c4442cd56562dc021dc",
     "web/src/content/works/lingmu.zh.md": "87e9c5009d88b58fbd087f55997faab8565c259f9b85107a9bda4d0b40ce9751",
     "web/src/content/works/jimu-studio.zh.md": "3a6e15b1e74069804422389afb372df95d5546f55e54218808a1719a27dd9ca2",
     "web/src/content/works/plant-companion.zh.md": "a11ac8508e5b18023b74a40065fcd8fe1798ed4fa9457f906e552cb363ae7c64",
     "web/src/content/works/go-glow.zh.md": "9dea331990cfbc45f1a6c380cfba121b7954db69ea817ad874febadc0fe14e5e",
-    "web/src/content/works/baobab-glow.zh.md": "d2ed26bf69e2d90b34c0e901f8f6502db3b3fea6238c854e2553af0da776fbe7",
     "web/src/content/works/cloudwing.zh.md": "9e800d564ac3e2adb7f1160e1da96e7c6112ab4b7c8930b87c4fcbe5c22c6400",
     "web/src/content/works/bat-quad.zh.md": "e2f03cc27a1fe07996d7cdca69e0e080b7484952258dd184bc47ac9a31c993c2",
     "web/src/content/works/little-orange.zh.md": "0874e2513ca3f624e8b5d990983c2c3a006ea874cc1bcc7e5348245937119704",
-    "web/src/content/works/water-guardian.zh.md": "b2efa5eb94815a519ea297dc81ecd85fd449fc7665073abe5e7570a41b25110b",
     "web/src/content/works/ecological-harvest.zh.md": "3b3f7927962e88191a2a52a041e6623f270665f444ef3d6e5b594b8cf2c22f70",
     "web/src/content/works/purewater-rolling-filter.zh.md": "d1ce33e79a7442129318346495e066c628501ea064b7ce61fae20ba54c8d5a7c",
     "web/src/content/works/polar-wing.zh.md": "ad547f81965b4737d286da143235c9501ce4d932cb566b372653faa27c2751b2",
     "web/src/content/works/construction-recycler.zh.md": "d650690c4d18abb5b69d585db818edd082e7e66afb8a04d13994df54f09c8f60",
     "web/src/content/works/water-walking-bath.zh.md": "c492a63a4ebe3565a6afbb74a1167d08dd58013a98b99c988d9411fa9e6bea54",
     "web/src/content/works/rendering-studies.zh.md": "b88290263ede4a53bd357d8f9cfacd0781aa7ad9c9d4f26e8c012f3af1d8f30b",
-    "web/src/content/works/biyuan.zh.md": "56a9979ce8e493ea7ff4bfaf41fbfd1219ac94868bf2db6dd6474bcf1cc9add2",
-    "web/src/content/works/yelisi.zh.md": "6363aa85a972eb1ded8d3e7ec55e5d2169dfb0c490191e641002a0b602d230f0",
-    "web/src/content/works/periastra.zh.md": "4e988ea5d7bb34c94930c6f2201e67ec501b0f72fe3b1b2ab3f8e943a4179849",
-    "web/src/content/works/lensflow.zh.md": "363f57455c978d9b0caa6856ea3fbd2cf14a9b3436b2d868bf3de63ec999c22b",
-    "web/src/content/works/yantai.zh.md": "b5947dbfec87fce1833d0587f8315ee4353587f3d58597e94bdd54943ad6d7d7",
+    "web/src/content/works/biyuan.zh.md": "77748642a0e76ca9b809f5c4b86cedfe1ba0643052f5f70f90ee241c2d360572",
+    "web/src/content/works/yelisi.zh.md": "3cfc0460f2d86235737d42d0db48f3de7697be5d016f91b8ce935a569193da23",
+    "web/src/content/works/periastra.zh.md": "3e177a38b32e88fbb904c7cc17b568b10d314e64accb03312b91f99de38a7f9e",
+    "web/src/content/works/lensflow.zh.md": "eb90a26011989c5dfda877ef9cac39f188f2ccfd56bd4f05c3338de9ef452ddc",
+    "web/src/content/works/yantai.zh.md": "937c2c27b4819854c3d095aaafc7d282c6b47fcad5b44b988d2025c639d46437",
     "web/src/content/works/xintiao.zh.md": "0c5ea2b1978674570681642ed542cc644d596ceb9454742b4a539f6326f8a325",
-    "web/src/content/works/formline.zh.md": "6124ade6896363a134875cc669d52979cb0e43a3af0f6e36e27eb08eaab05bf0",
+    "web/src/content/works/formline.zh.md": "7702d3cf33697a80605942d49372b5cad4b31cd55e20dc987e5dfe1286c9488f",
     "web/src/content/works/resume-formatter.zh.md": "e95726aeb9e320674b8ea24f665d392e7bbbf5e7231d07e8c06070b5769009bc",
     "web/src/content/works/visual-archive.zh.md": "b3fb16dc1f3ea4fcd39c67e02d55e1897906d2c327a06c6f2ea19e8d20c6be22",
     "web/src/content/works/aesthetic-atlas.zh.md": "02e8e0353d4f9f4c70ed5e8151d3d1dc4a43f9179aba88f9e80eb37c6d894bb9",
     "web/src/content/works/image-2-5-xhs.zh.md": "6bf76ab29cb14e34185c74104747762c01f791a3639e7724d1d1f9fe78bd5651",
-    "web/src/content/works/xhs-methods.zh.md": "97902a02f8c5c37be62c96d48896e1451cf0116a44ea8542b6e5db65a46a7f12",
-    "web/src/content/works/yuju.zh.md": "d591961a0f1508482d3f449f3e177fef0c69dba55fc33c8003e7ff71a0e235a2"
+    "web/src/content/works/xhs-methods.zh.md": "97902a02f8c5c37be62c96d48896e1451cf0116a44ea8542b6e5db65a46a7f12"
   },
   "publicDocument": "deliverables/portfolio/sun-yingjie-portfolio-web.pdf",
-  "publicBytes": 20397286,
-  "publicSha256": "a2628f82b3dfa01322fd2ecb780b6e35fcf70b10941d5e1f7c64eb1be4fe0778",
+  "publicBytes": 19317084,
+  "publicSha256": "8cbadb34e3f008a30ae09ddc4ba9f03b9943a6a8f65df46d3ed475bbedc7b76e",
   "publicOptimization": "Raster images only, up to 1800px, JPEG80 4:4:4; strict size below 20MiB. All text, page content streams, outlines and links preserved; evidence in deliverables/portfolio/full-compression.json."
 }

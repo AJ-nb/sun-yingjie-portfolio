@@ -9,12 +9,15 @@ const publicRoot = path.join(root, 'web/public')
 const dist = path.resolve(process.env.PORTFOLIO_BUILD_DIR || path.join(root, 'web/dist'))
 const contentRoot = path.join(root, 'web/src/content/works')
 const allow = new Set([
-  '/models/avatar.glb', '/avatar/portrait.webp',
+  '/media/v5/hero-original.mp4', '/media/v5/hero-scrub.mp4', '/media/v5/hero-poster.webp',
+  '/media/v5/footer-original.mp4', '/media/v5/footer-scrub.mp4', '/media/v5/footer-poster.webp',
+  '/media/v5/footer-gaze.json', '/media/v5/portrait.png', '/media/v5/sources.json',
   '/downloads/sun-yingjie-selected-portfolio.pdf', '/downloads/sun-yingjie-full-portfolio.pdf',
   '/downloads/sun-yingjie-resume.pdf', '/downloads/sun-yingjie-resume.docx',
   '/THIRD_PARTY_NOTICES.md',
+  '/OPEN_SOURCE_REFERENCES.md',
   '/licenses/inventory.json',
-  '/licenses/font-sources/Bodoni-Moda/OFL.txt', '/licenses/font-sources/Noto-Sans-SC/OFL.txt',
+  '/licenses/font-sources/Epilogue/OFL.txt', '/licenses/font-sources/DM-Sans/OFL.txt', '/licenses/font-sources/Noto-Sans-SC/OFL.txt',
   '/licenses/sen/LICENSE.sen', '/licenses/sen/NOTICE.sen',
 ])
 for (const experiment of Object.values(experiments)) {

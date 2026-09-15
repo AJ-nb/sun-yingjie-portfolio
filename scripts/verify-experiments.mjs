@@ -32,7 +32,7 @@ assert.deepEqual(pending, initialReview(), 'Review transitions must not mutate p
 assert.equal(resumeSamples.length, pending.choices.length)
 
 // All published experiment references must resolve to existing local project assets.
-const slugs = ['hermes', 'lighting', 'plumber', 'huhu-care', 'biyuan', 'periastra', 'lensflow', 'resume-formatter']
+const slugs = ['hermes', 'lighting', 'plumber', 'huhu-care', 'biyuan', 'periastra', 'lensflow', 'resume-formatter', 'yelisi']
 assert.deepEqual(Object.keys(experiments).sort(), slugs.sort())
 let assetReferences = 0
 for (const [slug, experiment] of Object.entries(experiments)) {

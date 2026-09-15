@@ -1,58 +1,68 @@
 ---
-title: "YELISI — Identity & Body Object Study"
+title: "Yelisi · Identity and Ritual Expression"
 category: "brand"
-summary: "An evolution from Songnasty's S-curve studies to an identity built around Chinese meaning, seal structure and bodily negative space."
-role: "Collaborative work"
-credits: "Collaborative brand-identity and product-concept work"
-status: "Brand direction established; product concept in development"
+summary: "A private-lifestyle identity shaped by a Chinese seal, bodily negative space and restrained monochrome order."
+role: "Brand research, visual design & project coordination"
+credits: "Yingjie Sun contributed to brand design and progression with the project team"
+status: "Brand direction established; lettering and application rules in development"
 cover: "/works/brand/yelisi/yelisi-logo.webp"
-tags: ["Brand identity", "Letterform and negative space", "Product concept", "Design evolution"]
+tags: ["Brand system","Chinese identity","Negative space","Application rules"]
 ---
 
 ## Background
 
-YELISI explores intimate photography props and body objects through ritual, boundaries and bodily agency. Songnasty was the early working name. The current Chinese name is 夜礼司, supported by YELISI and Night Ritual Atelier in English.
+Yelisi explores intimate living, photographic props and bodily expression. Its identity needs intimacy, ritual and personal boundaries without letting literal category symbols define its character. Exploration under the early working name Songnasty evolved into an identity centered on the Chinese name.
 
 ## My role
 
-The brand and product concepts are collaborative work. This case presents the evolution of the name and visual direction, together with a connection study for a snake-shaped body and butterfly accessory.
+At Hangzhou Liling, I contributed to brand research, visual design and project coordination. I organized naming, identity directions and application relationships, using version comparisons to clarify what to retain and refine.
 
-## Key question
+## Key challenge
 
-The earlier S curve suggests the body but makes the English working name the center of recognition. Moving to a Chinese name requires a new hierarchy between meaning, seal and negative space, rather than simply replacing a wordmark. Internal preference must remain distinct from demonstrated recognition improvement.
+The brand must be recognizable while leaving room for personal expression. How can bodily associations remain present while the identity feels restrained, ordered and respectful? The hierarchy between the Chinese name, seal boundary and negative space is central.
 
 ## Design process
 
-The May 2026 record preserves four stages: Songnasty exploration, concerns about the earlier name and recognition center, a Chinese-seal direction, and confirmation of YELISI. Curves and the seal character remain, while English-first recognition and explicit bodily associations become secondary.
+### Move from an English curve to a Chinese brand asset
 
-Night establishes a private setting, ritual suggests order and authority suggests agency. The near-square seal creates a boundary, seal-inspired strokes organize the interior and the bodily curve enters the negative space. This is the project's design interpretation, without consumer testing establishing the degree of improvement.
+Songnasty’s S curve suggested movement and the body, but made the English working name the center of recognition. Yelisi reorganizes name and symbol, retaining continuity while prioritizing the Chinese identity and seal structure.
 
-Application studies connect a snake-shaped body, magnetic joint and velvet-flower butterfly with support, connection and narrative. The presentation needs to explain structure alongside ritual expression rather than obscure the wearing relationship with atmosphere.
+![Historical Songnasty identity exploration](/works/brand/yelisi/songnasty-historical-logo.webp)
 
-![The earlier Songnasty identity](/works/brand/yelisi/songnasty-historical-logo.webp)
+*Earlier direction, retained to explain the change in identity.*
 
-*An earlier exploration, not the current YELISI mark.*
+### Contain internal movement within a stable boundary
+
+The name connects night, ritual and personal authority. A near-square silhouette supplies a stable boundary; seal-inspired strokes organize the interior, with bodily curves appearing in negative space. Order and movement create the visual tension.
+
+### Maintain a consistent tone across applications
+
+The system develops through the mark, lettering, clear space and information hierarchy. Packaging, labels and communication should distinguish identity, product information and supporting narrative. Decoration must leave essential information readable. These are application directions; physical samples remain to be checked.
 
 ## Final work
 
-The current identity combines a monochrome seal with the Chinese name. The bodily curve sits between solid strokes, connecting the ordered exterior with a more fluid interior.
+The current identity centers on a monochrome seal and Chinese lettering, with bodily associations as a second reading. The name and silhouette share the work of recognition, supporting future packaging, labels and communication.
 
-![The current YELISI identity](/works/brand/yelisi/yelisi-logo.webp)
+![Current Yelisi brand identity](/works/brand/yelisi/yelisi-logo.webp)
 
-*Current brand direction; vector refinement and further wordmark development remain ahead.*
-
-The brand study also extends to a snake-shaped mouth-held body and a magnetic butterfly accessory. The concept connects mouth support, the snake's body and a butterfly positioned in front of the lips into one wearing arrangement.
-
-![Snake-shaped component concept with dimension annotations](/works/brand/yelisi/snake-component-dimensions-concept.webp)
-
-*A component concept study. The annotated dimensions have not been validated with a physical prototype.*
+*Established brand direction; precise proportions and lettering remain in refinement.*
 
 ## Outcome and stage
 
-The work establishes a continuous evolution of name and identity, with concept studies of the snake-shaped body and butterfly accessory. Mark proportions, the Chinese wordmark, small-area recognition and applications still need refinement. Songnasty remains a historical phase rather than an additional project.
+The work connects a transition in naming with identity and application principles. Design coordination focuses on consistent versions and a shared logic for future applications. Consumer testing and sales outcomes are not established.
 
-The body object remains a concept. Oral-contact materials, magnetic strength, support, release and ergonomics have not been physically validated. Dimensions shown are design annotations, not evidence of wearability, safety or completed production.
+### Extended archive: body-device concept
+
+<details><summary>Explore the product concept and validation boundary</summary>
+
+A snake-shaped body and butterfly attachment explore support, connection and narrative as a brand extension. Contact materials, magnetic force, release and ergonomics have not been physically validated; the concept does not establish wearability or production readiness.
+
+![Snake component concept and dimensional study](/works/brand/yelisi/snake-component-dimensions-concept.webp)
+
+*Concept annotations, not manufacturing parameters. The selected edition focuses on the identity; the expanded archive retains this study.*
+
+</details>
 
 ### Sources
 
-AJ-nb/AJNB design knowledge base: YELISI brand overview, logo evolution timeline, logo and wordmark guidelines, and snake-shaped prop study, dated 14–15 May 2026. Real source artwork is retained. Songnasty remains a historical phase of this project rather than an additional project.
+Yelisi brand design, identity evolution and lettering documentation in the [design knowledge base](https://github.com/AJ-nb/AJNB/tree/main/Design-Knowledge-Base), together with original identity and product concept files.

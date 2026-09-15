@@ -108,4 +108,6 @@ The work moves from individual forms and details to interior scenes and the coll
 
 ## Outcome and stage
 
+The visual presentation connects table, floor, wall and pendant lights through individual views, details and spatial scenes. My contribution to 3D design and presentation gave the team a basis for comparing proportion, material expression and display relationships.
+
 The material presents a lighting family, details and spatial relationships, documenting my contribution to its 3D and visual work. Component interchangeability, thermal performance, optics, electrical safety and production specifications are not established by this presentation.

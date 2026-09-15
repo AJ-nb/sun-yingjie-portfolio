@@ -8,17 +8,19 @@ $word.Visible = $false
 $word.DisplayAlerts = 0
 try {
     $document = $word.Documents.Open($resumeDoc, $false, $true)
-    $document.Repaginate()
-    $pageCount = $document.ComputeStatistics(2)
-    if ($pageCount -ne 1) { throw "Resume must remain one page; Word reports $pageCount pages" }
+    $word.Options.Pagination = $false
     $document.ExportAsFixedFormat($resumePdf, 17)
+
     $document.Close(0)
 } finally { $word.Quit() }
+$resumePython = Join-Path $env:USERPROFILE '.cache/codex-runtimes/codex-primary-runtime/dependencies/python/python.exe'
+$pageCount = & $resumePython -c "import sys;from pypdf import PdfReader;print(len(PdfReader(sys.argv[1]).pages))" $resumePdf
+if ($LASTEXITCODE -ne 0 -or [int]$pageCount -ne 1) { throw "Resume must be one page; export reports $pageCount" }
 New-Item -ItemType Directory -Path $resumeDownload -Force | Out-Null
 Copy-Item -LiteralPath $resumePdf -Destination (Join-Path $resumeDownload 'sun-yingjie-resume.pdf') -Force
 Copy-Item -LiteralPath $resumeDoc -Destination (Join-Path $resumeDownload 'sun-yingjie-resume.docx') -Force
 $manifest = [ordered]@{
-    edition = 'resume-v3'
+    edition = 'resume-v5'
     profileSource = 'web/src/data/profile.json'
     contentSource = 'deliverables/resume/resume-content.json'
     pageCount = $pageCount

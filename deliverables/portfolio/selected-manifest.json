@@ -1,21 +1,15 @@
 {
-  "edition": "selected-v3",
-  "pageCount": 28,
-  "caseCount": 8,
+  "edition": "selected-v5",
+  "pageCount": 32,
+  "caseCount": 6,
   "caseSlugs": [
-    "hermes",
-    "lighting",
-    "plumber",
-    "huhu-care",
     "biyuan",
     "periastra",
-    "lensflow",
-    "resume-formatter"
+    "yelisi",
+    "lighting",
+    "hermes",
+    "lensflow"
   ],
-  "document": "deliverables/portfolio/sun-yingjie-selected-portfolio.pdf",
-  "publicPath": "/downloads/sun-yingjie-selected-portfolio.pdf",
-  "profileSource": "web/src/data/profile.json",
-  "contentSource": "web/src/content/works/*.zh.md",
   "pages": [
     {
       "page": 1,
@@ -35,136 +29,168 @@
     {
       "page": 4,
       "kind": "project",
-      "case": "hermes"
+      "case": "biyuan"
     },
     {
       "page": 5,
       "kind": "decisions",
-      "case": "hermes"
+      "case": "biyuan"
     },
     {
       "page": 6,
-      "kind": "outcome",
-      "case": "hermes"
+      "kind": "application",
+      "case": "biyuan"
     },
     {
       "page": 7,
-      "kind": "project",
-      "case": "lighting"
+      "kind": "application",
+      "case": "biyuan"
     },
     {
       "page": 8,
-      "kind": "decisions",
-      "case": "lighting"
+      "kind": "application",
+      "case": "biyuan"
     },
     {
       "page": 9,
       "kind": "outcome",
-      "case": "lighting"
+      "case": "biyuan"
     },
     {
       "page": 10,
       "kind": "project",
-      "case": "plumber"
+      "case": "periastra"
     },
     {
       "page": 11,
       "kind": "decisions",
-      "case": "plumber"
+      "case": "periastra"
     },
     {
       "page": 12,
-      "kind": "outcome",
-      "case": "plumber"
+      "kind": "application",
+      "case": "periastra"
     },
     {
       "page": 13,
-      "kind": "project",
-      "case": "huhu-care"
+      "kind": "application",
+      "case": "periastra"
     },
     {
       "page": 14,
-      "kind": "decisions",
-      "case": "huhu-care"
+      "kind": "outcome",
+      "case": "periastra"
     },
     {
       "page": 15,
-      "kind": "outcome",
-      "case": "huhu-care"
+      "kind": "project",
+      "case": "yelisi"
     },
     {
       "page": 16,
-      "kind": "project",
-      "case": "biyuan"
+      "kind": "decisions",
+      "case": "yelisi"
     },
     {
       "page": 17,
-      "kind": "decisions",
-      "case": "biyuan"
+      "kind": "application",
+      "case": "yelisi"
     },
     {
       "page": 18,
-      "kind": "outcome",
-      "case": "biyuan"
+      "kind": "application",
+      "case": "yelisi"
     },
     {
       "page": 19,
-      "kind": "project",
-      "case": "periastra"
+      "kind": "outcome",
+      "case": "yelisi"
     },
     {
       "page": 20,
-      "kind": "decisions",
-      "case": "periastra"
+      "kind": "project",
+      "case": "lighting"
     },
     {
       "page": 21,
-      "kind": "outcome",
-      "case": "periastra"
+      "kind": "decisions",
+      "case": "lighting"
     },
     {
       "page": 22,
-      "kind": "project",
-      "case": "lensflow"
+      "kind": "application",
+      "case": "lighting"
     },
     {
       "page": 23,
-      "kind": "decisions",
-      "case": "lensflow"
+      "kind": "outcome",
+      "case": "lighting"
     },
     {
       "page": 24,
-      "kind": "outcome",
-      "case": "lensflow"
+      "kind": "project",
+      "case": "hermes"
     },
     {
       "page": 25,
-      "kind": "project",
-      "case": "resume-formatter"
+      "kind": "decisions",
+      "case": "hermes"
     },
     {
       "page": 26,
-      "kind": "decisions",
-      "case": "resume-formatter"
+      "kind": "application",
+      "case": "hermes"
     },
     {
       "page": 27,
       "kind": "outcome",
-      "case": "resume-formatter"
+      "case": "hermes"
     },
     {
       "page": 28,
+      "kind": "project",
+      "case": "lensflow"
+    },
+    {
+      "page": 29,
+      "kind": "decisions",
+      "case": "lensflow"
+    },
+    {
+      "page": 30,
+      "kind": "application",
+      "case": "lensflow"
+    },
+    {
+      "page": 31,
+      "kind": "outcome",
+      "case": "lensflow"
+    },
+    {
+      "page": 32,
       "kind": "contact",
       "case": null
     }
   ],
   "media": [
     {
-      "publicPath": "/works/legacy/hermes/f1455674fa1906fe49bd555bcad97e9c.webp",
-      "sha256": "785c5284d696ad3e4ae65d61052cda1a3046775da3d7c2386dfcad14c002de41",
+      "publicPath": "/works/refinement-brand/biyuan/home-desktop.png",
+      "sha256": "b0e57ff88733fe5eee305ea9d9b1ab9b132bc25d79c72ad483463f0adc175172",
       "pages": [
         1,
-        4
+        4,
+        6,
+        9
+      ]
+    },
+    {
+      "publicPath": "/works/brand/periastra/final-wordmark.png",
+      "sha256": "92b7c176b3e083da1a5a240ca90f270860064616902e56e0e9d5921c595ad395",
+      "pages": [
+        1,
+        10,
+        13,
+        14
       ]
     },
     {
@@ -172,208 +198,129 @@
       "sha256": "8ac8a806d97a235229a0c39244bdffb4d8d533ef0962b5856b1dc23af9ce85f7",
       "pages": [
         1,
-        7
+        20,
+        23
       ]
     },
     {
-      "publicPath": "/works/refinement-v2/huhu/product-scene.webp",
-      "sha256": "0eb3fc5f3dce7462e86bde8a40e48e254a4d5064dd739c63c01839bc2060e3fd",
+      "publicPath": "/media/v5/portrait.png",
+      "sha256": "740c6108f98ddc0b93dab2459b9fa8cb55faa15478f88defd1fff1cf3dc45555",
       "pages": [
-        1,
-        13
-      ]
-    },
-    {
-      "publicPath": "/works/legacy/hermes/40379d8484144b6a435498fcf8b9d857.webp",
-      "sha256": "2b94e696fb262da319080edf244c47bc7f33dbc3cccbc61a84cd37cd3a8e3ff1",
-      "pages": [
-        5
-      ]
-    },
-    {
-      "publicPath": "/works/legacy/hermes/043e019544984416521bf2009313a5fb.webp",
-      "sha256": "c131e5bd173ecec7e476b98676684bff78305b39ace67ad1d673125ffb289bf2",
-      "pages": [
-        5
-      ]
-    },
-    {
-      "publicPath": "/works/legacy/hermes/54f3c93240044222915bc785ca86bc40.webp",
-      "sha256": "18a7d9fcbe883d170caf0e8066ee838164dde3e20e78aba36f905b1fec1eea2c",
-      "pages": [
-        6
-      ]
-    },
-    {
-      "publicPath": "/works/legacy/lighting/e9ab15f955279470fd53cb6e9e9a8c18.webp",
-      "sha256": "b1a906ec441a91bb4ca84e164239b160b8c72c5176634564557af7ecfa580456",
-      "pages": [
-        8
-      ]
-    },
-    {
-      "publicPath": "/works/legacy/lighting/a56bfb9a22490e6fa6dc7073ce8b6f87.webp",
-      "sha256": "e0725b4d7f5321ac44cacc47244e97efc8f22cf0a6ea02065cd334aa1cb85371",
-      "pages": [
-        8
-      ]
-    },
-    {
-      "publicPath": "/works/legacy/lighting/450b32ccc90b8ca88b74c5bbf307c838.webp",
-      "sha256": "7014614b2e34de16fefa110788125d25a9a761821597b340db7da824b0f736ee",
-      "pages": [
-        9
-      ]
-    },
-    {
-      "publicPath": "/works/refinement-v2/plumber/underground-scene.webp",
-      "sha256": "84cdc404be1eca8ad8e18907aafcfa2b2d5591917bf4259548a7b71140b91b90",
-      "pages": [
-        10
-      ]
-    },
-    {
-      "publicPath": "/works/refinement-v2/plumber/exploded.webp",
-      "sha256": "4169f143730b63ea80e0fb4c561f945018b364ff33eaf25b8e18d308057467cb",
-      "pages": [
-        11
-      ]
-    },
-    {
-      "publicPath": "/works/documents/portfolio-51/006.webp",
-      "sha256": "e6a64cc7a07e71438bc5c73e987db7bf55b32382e085e39b2cab741a4fc7db82",
-      "pages": [
-        11
-      ]
-    },
-    {
-      "publicPath": "/works/refinement-v2/plumber/underground-close.webp",
-      "sha256": "cdcc3d540bf5c0a55cb8f03de2435b341e0bad299dbe8cd772c63fbe5335418a",
-      "pages": [
-        12
-      ]
-    },
-    {
-      "publicPath": "/works/refinement-v2/huhu/three-quarter.webp",
-      "sha256": "2e98d792e2d8c7db7fc273596bd727b62b4cd4da65a63c27866dea12eea4ee7b",
-      "pages": [
-        14
-      ]
-    },
-    {
-      "publicPath": "/works/documents/portfolio-51/023.webp",
-      "sha256": "7323161e931ac257cf697caad8d0ffe0ac068b389a9f88e6393bfb52c2874e62",
-      "pages": [
-        14
-      ]
-    },
-    {
-      "publicPath": "/works/refinement-v2/huhu/charging-base.webp",
-      "sha256": "8a9d6e348b5807aa99354a7576e64dd4d12e91f80a1fb2ed06e6613b6ae9d486",
-      "pages": [
-        15
-      ]
-    },
-    {
-      "publicPath": "/works/refinement-brand/biyuan/home-desktop.png",
-      "sha256": "b0e57ff88733fe5eee305ea9d9b1ab9b132bc25d79c72ad483463f0adc175172",
-      "pages": [
-        16,
-        17
+        3
       ]
     },
     {
       "publicPath": "/works/refinement-brand/biyuan/models-desktop.png",
       "sha256": "15af1371b1ac29ddbddd8dc3622d41ed0334e1c20f12b59f896679cb82a4d5b3",
       "pages": [
-        17
+        5,
+        7
       ]
     },
     {
-      "publicPath": "/works/refinement-brand/biyuan/models-filtered.png",
-      "sha256": "6dd108150f6a06c4215ff155c7bd89c20d831f2f94af5f1d3cf8c1ca2ede45c4",
+      "publicPath": "/works/refinement-brand/biyuan/home-mobile.png",
+      "sha256": "91456a57479cee34df97e808304b0ddf140cef53b56f5406e8f57881b06fa7e9",
       "pages": [
-        18
+        8
       ]
     },
     {
       "publicPath": "/works/brand/periastra/logo/periastra-logo-v01-20260422.webp",
       "sha256": "2637767939f8aba533262f6090ef30e01ba1831bdc3390b37d116f553c722824",
       "pages": [
+        11
+      ]
+    },
+    {
+      "publicPath": "/works/brand/periastra/exploration-orbit.png",
+      "sha256": "61b2f04987eeeeae3d6f4ea6b2c546179570c7950bda5ad2044640458cf28ba4",
+      "pages": [
+        12
+      ]
+    },
+    {
+      "publicPath": "/works/brand/yelisi/yelisi-logo.webp",
+      "sha256": "529657e9b73686384822f7ac063c2faff6a419d5e90900ccd4c56701f8318961",
+      "pages": [
+        15,
+        18,
         19
       ]
     },
     {
-      "publicPath": "/works/brand/periastra/explainers/periastra-structure-breakdown-v01.svg",
-      "sha256": "d717dfd2970cd6fe935170ed79f783cdadee87f5bd8242bac3db77a872f83a0e",
+      "publicPath": "/works/brand/yelisi/songnasty-historical-logo.webp",
+      "sha256": "81e13b35fee3ee6e5852d734494aae0cb9ee4963c6b58b65e045ff28191b47dc",
       "pages": [
-        20
+        16,
+        17
       ]
     },
     {
-      "publicPath": "/works/brand/periastra/explainers/periastra-lineweight-negative-space-v01.svg",
-      "sha256": "c1570cac57286f7be621a1730ffee00ff16655e5f061b2b953b4e3563c4a0e42",
-      "pages": [
-        20
-      ]
-    },
-    {
-      "publicPath": "/works/brand/periastra/explainers/periastra-application-fit-v01.svg",
-      "sha256": "4f0e75bb2faa71ed509f31a2dcf92fed9acd55f95cbd188799f11dd197b179e6",
+      "publicPath": "/works/legacy/lighting/211a2e25f8d767e880624789a3a63594.webp",
+      "sha256": "225c21a4ae9a6cff224e621d0500c5524f13f9606aef8dee5b3383dd6567e64e",
       "pages": [
         21
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/lighting/450b32ccc90b8ca88b74c5bbf307c838.webp",
+      "sha256": "7014614b2e34de16fefa110788125d25a9a761821597b340db7da824b0f736ee",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/hermes/f1455674fa1906fe49bd555bcad97e9c.webp",
+      "sha256": "785c5284d696ad3e4ae65d61052cda1a3046775da3d7c2386dfcad14c002de41",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/hermes/40379d8484144b6a435498fcf8b9d857.webp",
+      "sha256": "2b94e696fb262da319080edf244c47bc7f33dbc3cccbc61a84cd37cd3a8e3ff1",
+      "pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-v2/rendering-pdf/029.webp",
+      "sha256": "5201ca94706e4c7ac5da718ebaf594cb71b4ca646b11c2be6849cb2aef050e51",
+      "pages": [
+        27
       ]
     },
     {
       "publicPath": "/works/digital/lensflow/studio-analysis.webp",
       "sha256": "ea7ef2af8a00de389be498e10ac8194168b7dd89986e568bd9f58da2613706c8",
       "pages": [
-        22,
-        24
+        28,
+        31
       ]
     },
     {
       "publicPath": "/works/digital/lensflow/studio-guide.webp",
       "sha256": "329f6863f0ed922d18f5ff2f37d905477107e8e9eff44c4f669c45d13f54116d",
       "pages": [
-        23
-      ]
-    },
-    {
-      "publicPath": "/works/digital/resume-formatter/workspace.webp",
-      "sha256": "cd5f4b4cbc804c2a13cec893804aea0931bcefe02479b3d64f84f811fe555f23",
-      "pages": [
-        25,
-        27
-      ]
-    },
-    {
-      "publicPath": "/works/digital/resume-formatter/rewrite-diff.webp",
-      "sha256": "93e5c67e35fb50be30cc595a7ed4e876d4d78ec9b86870de3e629e78d15c201c",
-      "pages": [
-        26
-      ]
-    },
-    {
-      "publicPath": "/works/digital/resume-formatter/layout-controls.webp",
-      "sha256": "8ba037f244f288b4a2576d7ca46587bb1aea151f7481589a545cdd86868f32d6",
-      "pages": [
-        26
+        29,
+        30
       ]
     }
   ],
-  "sha256": "bfc708be36a16d83155dc0c830f1d078b98a7daa3b22097055312dc994c207d1",
-  "publicSha256": "a8d95a7e82a095ff57dcae787e4d026df4627d7a923ffabeb93a008e73213e66",
-  "publicBytes": 4877914,
+  "profileSource": "web/src/data/profile.json",
+  "selectionSource": "web/src/data/publication.json",
+  "sha256": "18ed851d36227ddb0c52e4a5b0d912b1b315863e7f824b8aece746ea1246337e",
+  "publicSha256": "d16ca5b44f5e0f653663571d86536cf3e3f55924d5cb0518aad81368136e7550",
+  "publicBytes": 3455210,
   "sourceHashes": {
-    "web/src/data/profile.json": "bf5ac2e47828cd8d1567ab47ace805b7f2702c32f7a5ff23994542b040a6a723",
-    "web/src/content/works/hermes.zh.md": "dbe8fa8017ea2a6bb8c8f6a3d0f14bc5ad820a8a227bde7dbdbd5d3e0667dac9",
-    "web/src/content/works/lighting.zh.md": "694da3f4757acc272ee6611ee0953aae54f3e1c5f30ab09f6b7c2e68acf2ea66",
-    "web/src/content/works/plumber.zh.md": "69221b97aafccb31ac2ff3d4ea98bb0ff95333f02a4f8841d407879c13bc112b",
-    "web/src/content/works/huhu-care.zh.md": "b725735b3ae2402f75718fe32300f021af13554049576c4442cd56562dc021dc",
-    "web/src/content/works/biyuan.zh.md": "56a9979ce8e493ea7ff4bfaf41fbfd1219ac94868bf2db6dd6474bcf1cc9add2",
-    "web/src/content/works/periastra.zh.md": "4e988ea5d7bb34c94930c6f2201e67ec501b0f72fe3b1b2ab3f8e943a4179849",
-    "web/src/content/works/lensflow.zh.md": "363f57455c978d9b0caa6856ea3fbd2cf14a9b3436b2d868bf3de63ec999c22b",
-    "web/src/content/works/resume-formatter.zh.md": "e95726aeb9e320674b8ea24f665d392e7bbbf5e7231d07e8c06070b5769009bc"
+    "web/src/data/profile.json": "77f55e2e68bff0d2569d6ff1fcb2cd13ecb49a9d115b03498e7c4d98420fbfd1",
+    "web/src/data/publication.json": "0adc96a98851c3899e9960d95249410bfe0ffd53fc3803459fcd1320e547c087",
+    "web/src/content/works/biyuan.zh.md": "77748642a0e76ca9b809f5c4b86cedfe1ba0643052f5f70f90ee241c2d360572",
+    "web/src/content/works/periastra.zh.md": "3e177a38b32e88fbb904c7cc17b568b10d314e64accb03312b91f99de38a7f9e",
+    "web/src/content/works/yelisi.zh.md": "3cfc0460f2d86235737d42d0db48f3de7697be5d016f91b8ce935a569193da23",
+    "web/src/content/works/lighting.zh.md": "6549986b5d6346fef7c35ae79bd4c7a92063325d9938f184470cab517e5d81ce",
+    "web/src/content/works/hermes.zh.md": "e8ad94e9687eb7225b9d44a6b4553e63ae4c071c7335060a6cdef9c31f690308",
+    "web/src/content/works/lensflow.zh.md": "eb90a26011989c5dfda877ef9cac39f188f2ccfd56bd4f05c3338de9ef452ddc"
   }
 }

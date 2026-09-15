@@ -10,6 +10,9 @@ from reportlab.lib.colors import HexColor
 from reportlab.lib.utils import ImageReader
 from reportlab.platypus import Paragraph
 from reportlab.lib.styles import ParagraphStyle
+from reportlab.graphics.barcode.qr import QrCodeWidget
+from reportlab.graphics.shapes import Drawing
+from reportlab.graphics import renderPDF
 from build_selected_portfolio import register_fonts, rasterize_svg, first_paragraph
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -19,9 +22,10 @@ OUT = ROOT / 'deliverables/portfolio'
 OUT.mkdir(parents=True, exist_ok=True)
 PROFILE = json.loads((ROOT/'web/src/data/profile.json').read_text(encoding='utf-8'))
 URL = PROFILE['url']
+PUBLICATION=json.loads((ROOT/'web/src/data/publication.json').read_text(encoding='utf-8'))
 register_fonts()
 W,H = 960,600
-INK, PAPER, SAGE, MUTED = '#18251f','#f4f1ea','#728776','#617066'
+INK, PAPER, SAGE, MUTED = '#131613','#f5f3ed','#bddb42','#61665f'
 chapter_source=(ROOT/'web/src/data/chapters.ts').read_text(encoding='utf-8')
 CHAPTERS=[]
 for m in re.finditer(r"\{ id: '([^']+)', title: \{ zh: '([^']+)', en: '([^']+)' \}, note: \{ zh: '([^']+)', en: '([^']+)'",chapter_source.split('] as const')[0]):
@@ -32,6 +36,7 @@ assert len(CHAPTERS)==6
 EXPANDED={'hermes','arcteryx','lighting','plumber','huhu-care','lingmu','jimu-studio','rendering-studies','biyuan','yelisi','periastra','lensflow','yantai','xintiao','formline','resume-formatter','image-2-5-xhs'}
 cases=[]
 for path in (ROOT/'web/src/content/works').glob('*.zh.md'):
+    if path.name[:-6] in PUBLICATION['excludedSlugs']: continue
     raw=path.read_text(encoding='utf-8-sig'); front,body=raw.split('---',2)[1:]
     data={m[1]:m[2].strip().strip('"') for line in front.splitlines() if (m:=re.match(r'^(\w+):\s*(.*)$',line))}
     data.update(slug=path.name[:-6],body=body)
@@ -42,7 +47,7 @@ for path in (ROOT/'web/src/content/works').glob('*.zh.md'):
     cases.append(data)
 ordered_slugs=[s for ch in CHAPTERS for s in ch['slugs']]
 cases.sort(key=lambda d:ordered_slugs.index(d['slug']))
-assert len(cases)==33,'The complete edition must introduce all 33 cases'
+assert cases and not set(PUBLICATION['excludedSlugs']).intersection(d['slug'] for d in cases)
 for d in cases:d['chapter']=next(ch for ch in CHAPTERS if d['slug'] in ch['slugs'])
 
 def chosen_gallery(d):
@@ -102,6 +107,7 @@ records=[]; page=0; used_media={}; text_bounds=[]
 def rect(x,y,w,h,color):
     c.setFillColor(HexColor(color)); c.rect(x,y,w,h,fill=1,stroke=0)
 def text(s,x,y,size=10,color=INK,font='CN'):
+    font={'Helvetica':'Body','Helvetica-Bold':'BodyBold','Times-Italic':'Display'}.get(font,font)
     s=s.replace('Arc’teryx', "Arc'teryx")
     c.setFillColor(HexColor(color));c.setFont(font,size);c.drawString(x,y,s)
 def para(s,x,top,width,size=11,leading=None,color=INK,bold=False):
@@ -129,12 +135,14 @@ def contain(src,x,y,w,h,bg='#e8e7e0',crop=None):
     if original.suffix.lower()=='.svg':
         src=rasterize_svg(original)
     with Image.open(src) as source:
-        rgba=(source.crop(crop) if crop else source).convert('RGBA');bgim=Image.new('RGBA',rgba.size,'white');bgim.alpha_composite(rgba);im=bgim.convert('RGB')
+        rgba=(source.crop(crop) if crop else source).convert('RGBA');im=rgba.copy() if rgba.getextrema()[3][0]<255 else rgba.convert('RGB')
     scale=min(w/im.width,h/im.height)
     dw,dh=im.width*scale,im.height*scale
     im.thumbnail((2400,2000),Image.Resampling.LANCZOS)
-    buffer=io.BytesIO();im.save(buffer,format='JPEG',quality=93,subsampling=0)
-    c.drawImage(ImageReader(buffer),x+(w-dw)/2,y+(h-dh)/2,width=dw,height=dh)
+    buffer=io.BytesIO()
+    if im.mode=='RGBA': im.save(buffer,format='PNG')
+    else: im.save(buffer,format='JPEG',quality=93,subsampling=0)
+    c.drawImage(ImageReader(buffer),x+(w-dw)/2,y+(h-dh)/2,width=dw,height=dh,mask='auto')
     media='/'+str(original.relative_to(PUBLIC)).replace('\\','/')
     if media not in used_media:used_media[media]={'publicPath':media,'sha256':hashlib.sha256(original.read_bytes()).hexdigest(),'pages':[]}
     used_media[media]['pages'].append(page)
@@ -164,7 +172,7 @@ lookup={d['slug']:d for d in cases}
 contain(PUBLIC/lookup['hermes']['cover'].lstrip('/'),395,308,517,212)
 contain(PUBLIC/lookup['lighting']['cover'].lstrip('/'),395,91,205,201)
 contain(PUBLIC/lookup['plumber']['cover'].lstrip('/'),616,91,296,201)
-text('33 PROJECTS / 6 CHAPTERS',51,73,9,MUTED,'Helvetica')
+text(f'{len(cases)} PROJECTS / 6 CHAPTERS',51,73,9,MUTED,'Helvetica')
 text('空间、产品、品牌与数字实践',51,51,10,MUTED)
 text(URL,395,51,9,MUTED,'Helvetica');c.linkURL(URL,(391,39,914,68),thickness=0)
 end('cover')
@@ -172,10 +180,10 @@ end('cover')
 # Index has genuine PDF links and stable corresponding web links.
 base('作品目录  /  INDEX')
 c.bookmarkPage('contents')
-text('六个章节，三十三个案例。',48,504,29,INK,'CNB')
+text(f'六个章节，{len(cases)} 个案例。',48,504,29,INK,'CNB')
 para('商业橱窗 → 铝型材灯具 → 产品设计与模型 → 三维渲染 → 品牌孵化 → AI 与数字产品。\n点击项目名称阅读本册，案例页可继续访问完整网站。',48,476,850,10.5,18)
 for i,d in enumerate(cases):
-    col=i//17;row=i%17;x=48+col*446;y=410-row*21
+    rows=(len(cases)+1)//2;col=i//rows;row=i%rows;x=48+col*446;y=410-row*21
     title=d['title'];size=9.8
     while pdfmetrics.stringWidth(title,'CN',size)>350: size-=.3
     text(title,x,y,size);text(str(case_pages[d['slug']]).zfill(2),x+384,y,9,MUTED,'Helvetica')
@@ -264,6 +272,9 @@ para('求职沟通 · 设计合作 · 项目交流',51,343,800,17,27,PAPER)
 text(PROFILE['email'],48,233,32,PAPER,'Helvetica')
 c.linkURL('mailto:'+PROFILE['email'],(48,222,500,263),relative=0,thickness=0)
 text(PROFILE['phone'],48,183,20,SAGE,'Helvetica')
+qr=QrCodeWidget(URL);qb=qr.getBounds();qs=122
+qd=Drawing(qs,qs,transform=[qs/(qb[2]-qb[0]),0,0,qs/(qb[3]-qb[1]),0,0]);qd.add(qr)
+c.setFillColor(HexColor('#ffffff'));c.rect(765,169,qs,qs,fill=1,stroke=0);renderPDF.draw(qd,c,765,169)
 text('浏览在线作品集',48,97,12,PAPER);c.linkURL(URL,(43,82,250,119),relative=0,thickness=0)
 text('SUN YINGJIE',699,90,18,SAGE,'Times-Italic')
 end('contact')
@@ -272,7 +283,7 @@ public_pdf=PUBLIC/'downloads/sun-yingjie-full-portfolio.pdf'
 web_output=OUT/'sun-yingjie-portfolio-web.pdf'
 subprocess.run([sys.executable,str(ROOT/'scripts/compress_portfolio_pdf.py'),'--input',str(output),'--output',str(web_output),'--max-edge','1800','--quality','80','--report',str(OUT/'full-compression.json')],check=True)
 shutil.copyfile(web_output,public_pdf)
-(OUT/'full-manifest.json').write_text(json.dumps({'publicPath':'/downloads/sun-yingjie-full-portfolio.pdf','document':str(output.relative_to(ROOT)),'pages':records,'caseCount':len(cases),'pageCount':page,'chapters':CHAPTERS,'profileSource':'web/src/data/profile.json','chapterSource':'web/src/data/chapters.ts','media':list(used_media.values()),'bytes':output.stat().st_size,'sha256':hashlib.sha256(output.read_bytes()).hexdigest(),'note':'Third edition: all 33 cases in six shared chapters, updated narrative and retained original gallery selections, preserved collaboration credits, clickable index and stable full-case web links.'},ensure_ascii=False,indent=2),encoding='utf-8')
+(OUT/'full-manifest.json').write_text(json.dumps({'publicPath':'/downloads/sun-yingjie-full-portfolio.pdf','document':str(output.relative_to(ROOT)),'pages':records,'caseCount':len(cases),'pageCount':page,'chapters':CHAPTERS,'profileSource':'web/src/data/profile.json','chapterSource':'web/src/data/chapters.ts','media':list(used_media.values()),'bytes':output.stat().st_size,'sha256':hashlib.sha256(output.read_bytes()).hexdigest(),'note':'Fifth edition: cleared cases in six shared chapters, updated narrative and retained original gallery selections, preserved collaboration credits, clickable index and stable full-case web links.'},ensure_ascii=False,indent=2),encoding='utf-8')
 (OUT/'qa').mkdir(exist_ok=True)
 (OUT/'qa/full-text-bounds.json').write_text(json.dumps(text_bounds,ensure_ascii=False,indent=2),encoding='utf-8')
 download_manifest=OUT/'full-manifest.json'

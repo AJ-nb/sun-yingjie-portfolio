@@ -1,7 +1,7 @@
 name: Verify portfolio
 on:
   push:
-    branches: [portfolio-redesign, portfolio-design-v3, portfolio-studio-v4]
+    branches: [portfolio-redesign, portfolio-design-v3, portfolio-studio-v4, portfolio-v5]
   pull_request:
     branches: [portfolio-redesign]
 permissions:
@@ -32,8 +32,7 @@ jobs:
       - name: Check production pages and interactions
         run: |
           npm run preview -- --host 127.0.0.1 --port 4173 > /tmp/portfolio-preview.log 2>&1 &
-          node ../scripts/qa/browser-v3.mjs
-          node ../scripts/qa/browser-v4.mjs
+          npm run test:browser
         working-directory: web
         env:
           PORTFOLIO_QA_URL: http://127.0.0.1:4173/
@@ -42,5 +41,4 @@ jobs:
         with:
           name: portfolio-browser-qa
           path: |
-            design/qa-v3/
-            design/qa-v4/
+            design/qa-v5/

@@ -68,7 +68,7 @@ const isolated = { slug: 'isolated-case', chapter: 'windows', order: 0 }
 const unrelated = { slug: 'unrelated-case', chapter: 'ai', order: 0 }
 assert.deepEqual(getCaseRelations(isolated, [isolated, unrelated], [], 'zh'), [], 'No unrelated fallback for a case without a connection')
 assert.deepEqual(getCaseRelations(isolated, works, profileCopy.zh.capabilities, 'zh'), [], 'An unknown source case has no recommendations')
-const guardian = getCaseRelations(catalog.get('water-guardian'), works, profileCopy.zh.capabilities, 'zh')
+const guardian = getCaseRelations(catalog.get('plumber'), works, profileCopy.zh.capabilities, 'zh')
 assert(guardian.every(item => !['periastra', 'lensflow'].includes(item.slug)), 'Equipment cases must not return the old unrelated fallback')
 
 console.log(`PASS: ${works.length} cases, ${recommendations} bilingual recommendations; justified destinations, deterministic order, no self/duplicate/missing/unrelated fallback.`)

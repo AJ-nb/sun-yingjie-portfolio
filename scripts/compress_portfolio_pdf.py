@@ -53,7 +53,9 @@ def compress(args):
                 if ref.idnum in seen:continue
                 seen.add(ref.idnum)
                 im=image.image
-                if im.mode not in ('RGB','L'):raise ValueError(f'Unsupported image mode {im.mode}; alpha/color policy needs review')
+                if im.mode in ('RGBA','LA') or image.indirect_reference.get_object().get('/SMask'):
+                    rows.append({'objectId':ref.idnum,'firstPage':page_number,'preservedTransparency':True});continue
+                if im.mode not in ('RGB','L'):raise ValueError(f'Unsupported image mode {im.mode}')
                 before_size=list(im.size);before_bytes=len(image.data)
                 im=im.copy();im.thumbnail((max_edge,max_edge),Image.Resampling.LANCZOS)
                 image.replace(im,quality=quality,subsampling=0,optimize=True)

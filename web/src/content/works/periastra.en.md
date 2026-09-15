@@ -1,64 +1,64 @@
 ---
-title: "Periastra Camera Bag Identity"
+title: "Periastra · Photography Equipment Identity"
 category: "brand"
-summary: "A photography equipment mark combining the letter P, a lens spiral and a protective enclosure."
-role: "Collaborative work"
-credits: "Collaborative brand-mark and application studies"
-status: "Identity concept and application studies"
-cover: "/works/brand/periastra/logo/periastra-logo-v01-20260422.webp"
-tags: ["Brand identity", "Logo design", "Photography equipment", "Negative space"]
+summary: "Moving from P and lens symbolism to a compact wordmark built around letterforms, contour and visual order."
+role: "Brand design, direction comparison & project coordination"
+credits: "Design progression led by Yingjie Sun in collaboration with the project team"
+status: "Wordmark adopted; application guidelines in development"
+cover: "/works/brand/periastra/final-wordmark.png"
+tags: ["Brand system","Wordmark","Photography equipment","Design decisions"]
 ---
 
 ## Background
 
-Periastra addresses camera bags and photography equipment storage. Its mark refers to the initial P, optical focus and a protective container, but those ideas cannot all hold equal visual priority. This case explores the reading order through the stem, negative space and outer frame.
+Periastra serves camera bags and photography equipment storage. Its identity balances dependable equipment with personal expression, from a small label to packaging, fabric and communication. The work gradually moved from a standalone symbol toward the name itself.
 
 ## My role
 
-This is collaborative identity and application research. The material covers motifs, mark structure, line weight, negative space and small-size checks. Camera bags provide the application context; identity work does not establish authorship of the bag's structure.
+At Hangzhou Liling, I advanced brand design through research, identity directions and applications. Comparing alternatives, refining graphics and organizing versions helped the team converge. This case separates the adopted wordmark from earlier explorations.
 
-## Key question
+## Key challenge
 
-What should be read first, and what must survive reduction? A dense spiral may weaken the P, while equally heavy inner and outer strokes may close the gaps. These are design judgments that can be examined visually; they have not been confirmed by a recognition study.
+A P, lens or container creates a quick association with photography, but risks looking familiar within the category. Could the name become a distinctive asset? How could connected letterforms remain readable within a compact silhouette?
 
 ## Design process
 
-### Make the letter the first reading
+### Explore the shared language of photography equipment
 
-The artwork dated 22 April 2026 and the May analysis retain explanations of the stem, curved bowl and outer frame. P acts as the entrance, with lens and protective-container associations following, so accumulated symbols do not overwhelm the identity.
+An early direction connected a P stem, a lens-like spiral and a protective frame. It communicated focus and protection, but introduced competing layers and tight negative space. It remains an exploration rather than the final primary mark.
 
-### Manage complexity through negative space
+![P and protective frame exploration](/works/brand/periastra/logo/periastra-logo-v01-20260422.webp)
 
-The line-weight study differentiates the frame from the inner spiral and examines central space and the rhythm of openings. These are refinement directions; explanatory diagrams are not completed production artwork.
+*Earlier direction; no longer presented as the current identity in v5.*
 
-### Work back from the carrier
+### Compare symbol recognition with name recognition
 
-The application record proposes checks at 16 px for an icon, 8 mm for a metal mark, 20 mm for a woven label and 30 mm for a rubber patch, extending to pulls, straps, dividers, seals and dust bags. The comparisons concern congestion, weak visual weight and reversed-color recognition. These sizes are proposed checks, not approved manufacturing specifications.
+Another direction explored rotation and convergence. The adopted identity organizes PERIASTRA within a compact rectangular silhouette. Rounded strokes, openings and continuous turns establish rhythm. The decision shifted toward making the name recognizable in its own right.
 
-![The letter, frame and lens structure within the Periastra mark](/works/brand/periastra/explainers/periastra-structure-breakdown-v01.svg)
+![Rotational symbol exploration](/works/brand/periastra/exploration-orbit.png)
 
-*Structural study: P is the primary reading; the lens and protective frame provide secondary associations.*
+*Original alternative, retained for comparison with the adopted wordmark.*
 
-![Line weight and negative space refinements for Periastra](/works/brand/periastra/explainers/periastra-lineweight-negative-space-v01.svg)
+### Separate complete expression from small-scale reading
 
-*Refinement study: differentiate outer and inner stroke weights and open up the centre.*
+The full wordmark suits packaging and larger visual applications. Woven labels, hardware and very small uses require checks of openings, gaps and fabrication tolerances. Screen comparisons identify issues before physical samples establish production suitability.
 
 ## Final work
 
-The current proposal combines a monochrome symbol with the English name. The rounded frame anchors the silhouette and the inner spiral adds focus and movement. Layer and scale views in this edition explain that relationship. Screen reduction cannot replace woven, debossed or metal samples.
+The adopted PERIASTRA wordmark is the 9 June 2026 version. A monochrome silhouette, rounded strokes and interlocking rows turn the name into a compact graphic. Original artwork is preserved to avoid changing spelling or geometry through generative redrawing.
 
-![The Periastra monochrome symbol and name](/works/brand/periastra/logo/periastra-logo-v01-20260422.webp)
+![Adopted Periastra wordmark](/works/brand/periastra/final-wordmark.png)
 
-*Current identity proposal.*
+*Adopted version, confirmed by the designer during the v5 edit.*
 
 ## Outcome and stage
 
-The work includes artwork, structural explanations and application studies. Reading order, stroke weight and negative space still need checks at actual sizes and in material samples. Physical samples, supplier reports and market-use data have not been provided. Compare openings across carriers before deciding whether a simplified mark is needed.
+The project converged from symbol explorations to an adopted wordmark, with version history and application checks organized for further development. My contribution connects brand meaning, visual decisions and delivery coordination so the team can develop applications from clear choices.
 
-![Proposed small-size and production checks for Periastra](/works/brand/periastra/explainers/periastra-application-fit-v01.svg)
+### Next decision to validate
 
-*Proposed application conditions, rather than completed physical production tests.*
+Test readability on woven fabric, embossing and hardware before defining minimum sizes and simplified variants. Available evidence establishes adoption of the mark, not physical sampling or market performance.
 
 ### Sources
 
-AJ-nb/AJNB design knowledge base: Periastra project overview, logo analysis and application/refinement record, plus the actual logo and explanatory artwork. Logo asset: 22 April 2026; application record: 11 May 2026. Physical samples, supplier process reports and market-use data have not been provided.
+Original brand files, the 9 June 2026 wordmark and the designer’s confirmation of adoption. Earlier research: [Periastra design knowledge base](https://github.com/AJ-nb/AJNB/tree/main/Design-Knowledge-Base).

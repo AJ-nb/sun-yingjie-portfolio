@@ -1,8 +1,8 @@
 ---
 title: "Biyuan AI — Brand, Website & Product Integration"
 category: "brand"
-summary: "Participation across brand identity, website, interaction and development, connecting an AI service to understandable pages and product entry points."
-role: "Brand, website, interaction and development participation"
+summary: "Overall visual design and launch support, translating a multi-model access service into a clear identity, website hierarchy and actionable entry points."
+role: "Overall visual design, website experience & launch support"
 credits: "Sun Yingjie participated; completed with the project team"
 status: "Public website and model directory; product integrations in iteration"
 cover: "/works/refinement-brand/biyuan/home-desktop.png"
@@ -15,7 +15,7 @@ Biyuan AI serves creators and developers using different models. Its website mus
 
 ## My role
 
-I participated in brand design, website pages, interaction design and development with the team. This case describes service communication, page structure and integration through retained pages and tool documentation. Team outputs and underlying model capabilities are not claimed as independently authored work.
+I was responsible for overall visual design and supported the launch, working with the team on identity, website visuals, information hierarchy and actions. I translated design directions into concrete pages and supported launch checks and refinement. The underlying service and model capabilities belong to their respective teams.
 
 ## Key question
 
@@ -54,6 +54,8 @@ Lensflow and Resume Formatter already include a Biyuan preset. Users configure t
 The website and directory provide public entry points, while tool presets bring the service into concrete creative tasks. Lensflow leaves universal provider compatibility unverified. Resume Formatter retains rewrite review and explains the scope before sending a full document. The connection between brand and product lies in the next available action as well as visual consistency.
 
 ## Outcome and stage
+
+The visual experience connects brand identity, the homepage, model directory and tool presets, with support for the public launch. Information hierarchy and distinct entry paths give service exploration, model lookup and documentation a clear next action.
 
 Mobile retains the identity, heading and primary actions, with secondary links below. Public page status, capture date and tool versions are recorded separately; model availability depends on the service and account. Prices, speed and performance statements inside the screenshots are the site's wording at that time, not independent benchmarks.
 

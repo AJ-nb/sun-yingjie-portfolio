@@ -18,7 +18,7 @@ T={entry['id']:entry for entry in P['timeline']}
 DATA={'name':P['name']['zh'],'role':P['position']['zh'],'phone':P['phone'],'email':P['email'],'portfolio_url':P['url'],'summary':P['summary']['zh'],'sections':[
  ['工作经历',[
   [T['liling']['place']['zh']+'  |  '+T['liling']['role']['zh'],T['liling']['period']['zh'],[
-   '参与彼源 AI 品牌、官网视觉、交互与开发，连接品牌定位、页面信息组织与实际体验；参与夜礼司、Periastra 的品牌研究、图形演化和应用表达。']],
+   '负责彼源 AI 整体视觉设计并辅助上线，连接品牌识别、官网层级与模型入口；推进 Periastra、夜礼司品牌研究、标志方案与应用表达，协调方向、版本与交付。']],
   [T['benwu']['place']['zh']+'  |  '+T['benwu']['role']['zh'],T['benwu']['period']['zh'],[
    '参与 Hermès 季节橱窗与 Arc’teryx Alpha Center 橱窗三维设计，围绕道具比例、商品位置、空间层次及材质灯光进行团队协作。',
    '参与铝型材灯具系列的造型与场景表达，呈现台灯、落地灯、壁灯和吊灯的系列语言、结构关系与金属表面。']],
@@ -27,10 +27,9 @@ DATA={'name':P['name']['zh'],'role':P['position']['zh'],'phone':P['phone'],'emai
  ['代表项目',[
   ['镜序 Lensflow / Resume Formatter','AI 与数字产品',[
    '围绕参考采集、结构化分析、人工确认与任务恢复组织镜序流程；在简历工具中探索局部改写、岗位对照与可撤销编辑，保留上游来源及个人扩展边界。']],
-  ['Periastra 相机包品牌标志','共同创作',[
-   '参与图形与应用研究，以 P、镜头与保护框架建立识别顺序；分析线宽、负形和小尺寸表现，区分图形研究与尚未验证的实体工艺。']],
-  ['引渡者管道机器人 / HUHU CARE','合作概念项目',[
-   '通过服务关系、产品形态、结构示意与多视角渲染说明概念；保留合作属性和原始署名，明确样机、工程及使用测试尚待验证。']]]],
+  ['Periastra 摄影装备品牌识别','品牌设计与推进',[
+   '推进图形探索、方案比较与应用研究，从早期 P 符号收束到已采用的 PERIASTRA 字体标志；整理版本与应用检查要点。']],
+ ]],
  ['教育背景',[
   [T['education']['place']['zh']+'  |  '+T['education']['role']['zh'],T['education']['period']['zh'],[
    '产品设计方法、材料与加工工艺、人机工程学、结构设计与工程制图。']]]],
@@ -51,7 +50,7 @@ for y in range(modules):
 im.save(OUT/'portfolio-qr.png')
 doc=Document();s=doc.sections[0]
 s.page_width=Mm(210);s.page_height=Mm(297)
-s.top_margin=Mm(16);s.bottom_margin=Mm(15);s.left_margin=Mm(18);s.right_margin=Mm(18)
+s.top_margin=Mm(13);s.bottom_margin=Mm(15);s.left_margin=Mm(18);s.right_margin=Mm(18)
 normal=doc.styles['Normal'];normal.font.name='Microsoft YaHei';normal.font.size=Pt(9)
 normal.font.color.rgb=RGBColor.from_string('29343A');normal.element.rPr.rFonts.set(qn('w:eastAsia'),'Microsoft YaHei')
 normal.paragraph_format.line_spacing=Pt(14.5);normal.paragraph_format.space_after=Pt(4)
@@ -62,14 +61,27 @@ for title in ['Title','Heading 1']:
  doc.styles[title].font.name='Microsoft YaHei';doc.styles[title].element.rPr.rFonts.set(qn('w:eastAsia'),'Microsoft YaHei')
  doc.styles[title].font.color.rgb=RGBColor.from_string('000000')
 def para(text,size=9,bold=False,color='29343A',after=4,before=0,parent=None,style=None):
- p=(parent or doc).add_paragraph(style=style);p.paragraph_format.space_after=Pt(after);p.paragraph_format.space_before=Pt(before)
+ p=(parent if parent is not None else doc).add_paragraph(style=style);p.paragraph_format.space_after=Pt(after);p.paragraph_format.space_before=Pt(before)
  snap=OxmlElement('w:snapToGrid');snap.set(qn('w:val'),'0');p._p.get_or_add_pPr().append(snap)
  p.paragraph_format.line_spacing=Pt(14.5 if size<14 else size*1.2)
  r=p.add_run(text.replace('—','-').replace('Arc’teryx',"Arc'teryx"));r.bold=bold;r.font.size=Pt(size);r.font.color.rgb=RGBColor.from_string(color)
  return p
-p=para(DATA['name'],28,False,'000000',after=5,style='Title')
-para(DATA['role'],11,False,'000000',after=6)
-para(DATA['phone']+'    '+DATA['email'],8.5,color='52665E',after=0)
+header=doc.add_table(rows=1,cols=2);header.autofit=False
+header.columns[0].width=Mm(139);header.columns[1].width=Mm(35)
+left,right=header.rows[0].cells
+left.width=Mm(139);right.width=Mm(35)
+for cell in (left,right):
+ cell.vertical_alignment=WD_CELL_VERTICAL_ALIGNMENT.CENTER
+ for paragraph in list(cell.paragraphs):paragraph._element.getparent().remove(paragraph._element)
+para(DATA['name'],28,False,'000000',after=5,parent=left,style='Title')
+para(DATA['role'],10,False,'000000',after=6,parent=left)
+para(DATA['phone']+'    '+DATA['email'],8.5,color='52665E',after=0,parent=left)
+photo=ROOT/'web/public/media/v5/portrait.png'
+if not photo.exists():raise FileNotFoundError('Resume portrait is required')
+photoParagraph=right.add_paragraph()
+photoParagraph.paragraph_format.line_spacing=1
+photoParagraph.paragraph_format.space_after=Pt(0)
+photoParagraph.add_run().add_picture(str(photo),width=Mm(29),height=Mm(29))
 para(DATA['summary'],9.2,after=4,before=10)
 for title,entries in DATA['sections']:
  p=para(title,11,True,'000000',after=5,before=10,style='Heading 1');p.paragraph_format.keep_with_next=True
@@ -84,6 +96,12 @@ p=para(P['url'],7.4,color='52665E',before=6,after=0)
 link=OxmlElement('w:hyperlink');link.set(qn('r:id'),p.part.relate_to(P['url'],RT.HYPERLINK,is_external=True))
 for run in list(p._p.findall(qn('w:r'))):p._p.remove(run);link.append(run)
 p._p.append(link)
+qrp=doc.add_paragraph()
+qrp.paragraph_format.line_spacing=1
+qrp.paragraph_format.space_before=Pt(3)
+qrp.paragraph_format.space_after=Pt(0)
+qrp.add_run().add_picture(str(OUT/'portfolio-qr.png'),width=Mm(20))
+qrp.add_run('  扫码查看完整作品与交互案例').font.size=Pt(8)
 doc.core_properties.author=P['name']['zh'];doc.core_properties.title='孙英杰 品牌与产品设计简历';doc.core_properties.subject='工作经历、代表项目与设计能力'
 doc.save(OUT/'sun-yingjie-resume.docx')
 print(OUT/'sun-yingjie-resume.docx')

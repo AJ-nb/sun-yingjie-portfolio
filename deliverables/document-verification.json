@@ -1,6 +1,6 @@
 {
   "passed": true,
-  "checkCount": 37,
+  "checkCount": 38,
   "checks": [
     {
       "check": "selected page count",
@@ -115,6 +115,10 @@
       "passed": true
     },
     {
+      "check": "resume has photo and QR",
+      "passed": true
+    },
+    {
       "check": "resume shared name",
       "passed": true
     },
@@ -154,32 +158,32 @@
   "artifacts": [
     {
       "path": "web/public/downloads/sun-yingjie-selected-portfolio.pdf",
-      "pages": 28,
-      "cases": 8,
+      "pages": 32,
+      "cases": 6,
       "links": 44,
-      "bytes": 4877914,
-      "sha256": "a8d95a7e82a095ff57dcae787e4d026df4627d7a923ffabeb93a008e73213e66"
+      "bytes": 3455210,
+      "sha256": "d16ca5b44f5e0f653663571d86536cf3e3f55924d5cb0518aad81368136e7550"
     },
     {
       "path": "web/public/downloads/sun-yingjie-full-portfolio.pdf",
-      "pages": 116,
-      "cases": 33,
-      "links": 256,
-      "bytes": 20397286,
-      "sha256": "a2628f82b3dfa01322fd2ecb780b6e35fcf70b10941d5e1f7c64eb1be4fe0778"
+      "pages": 112,
+      "cases": 30,
+      "links": 245,
+      "bytes": 19317084,
+      "sha256": "8cbadb34e3f008a30ae09ddc4ba9f03b9943a6a8f65df46d3ed475bbedc7b76e"
     },
     {
       "path": "web/public/downloads/sun-yingjie-resume.docx",
       "pages": 1,
-      "bytes": 38759,
-      "sha256": "a15261671ebcb6f69be32ca798c9ba77eccfe05e90c438e176dcd9fb3c6be337"
+      "bytes": 2615146,
+      "sha256": "cc1a0f151ca52d83092d97ad52c86160718c75828c89a5ef35c7b7c2e8733d85"
     },
     {
       "path": "web/public/downloads/sun-yingjie-resume.pdf",
       "pages": 1,
-      "bytes": 215491,
-      "sha256": "f00b5ccb53b8508809fc8dcdf6e72fda0cfb1a7d34bda08ff8e8dbfe63d480e9"
+      "bytes": 301925,
+      "sha256": "0f8f85a0bab6f058f4d122e1673f12164f55170fad47a0b4a159f6969a61de9c"
     }
   ],
-  "visualReview": "Recorded separately in docs/document-refinement-v3.md; text checks do not substitute for visual inspection."
+  "visualReview": "Recorded separately in docs/DELIVERY-v5.md; text checks do not substitute for visual inspection."
 }

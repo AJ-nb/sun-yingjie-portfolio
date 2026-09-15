@@ -1,4 +1,5 @@
 import { CHAPTERS, editorialMetadata, type EditorialMetadata } from './chapters'
+import publication from './publication.json'
 export type Lang = 'zh' | 'en'
 export type Category = 'commercial' | 'product' | 'brand' | 'digital' | 'experiments'
 export interface WorkDoc extends EditorialMetadata {
@@ -19,12 +20,12 @@ function parse(raw: string): { data: Record<string, string>; body: string } {
 const collection: Record<Lang, WorkDoc[]> = { zh: [], en: [] }
 for (const [path, raw] of Object.entries(files)) {
   const name = /\/([^/]+)\.(zh|en)\.md$/.exec(path)
-  if (!name) continue
+  if (!name || publication.excludedSlugs.includes(name[1])) continue
   const { data, body } = parse(raw)
   const lang = name[2] as Lang
   collection[lang].push({ ...data, ...editorialMetadata(name[1], data.category), slug: name[1], lang, body, tags: data.tags ? JSON.parse(data.tags) as string[] : [] } as WorkDoc)
 }
-export const FEATURED = ['hermes', 'arcteryx', 'lighting', 'plumber', 'huhu-care', 'rendering-studies', 'biyuan', 'yelisi', 'periastra', 'lensflow', 'yantai', 'xintiao']
+export const FEATURED = publication.selected.map(item => item.slug)
 for (const lang of ['zh', 'en'] as const) collection[lang].sort((a, b) => CHAPTERS.findIndex(ch => ch.id === a.chapter) - CHAPTERS.findIndex(ch => ch.id === b.chapter) || a.order - b.order || (a.startDate ?? '9999').localeCompare(b.startDate ?? '9999') || a.slug.localeCompare(b.slug))
 export function getWorks(lang: Lang): WorkDoc[] { return collection[lang] }
 export function getWorkDoc(slug?: string, lang: Lang = 'zh'): WorkDoc | null { return collection[lang].find(work => work.slug === slug) ?? null }
