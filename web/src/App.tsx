@@ -200,7 +200,7 @@ export default function App() {
       <DesignMethod lang={lang} visit={visit} index={methodIndex} setIndex={setMethodIndex}/>
       <StudioContact lang={lang} reduced={reduced}/>
     </motion.main>}
-    <footer><span>© 2026 孙英杰 / Yingjie Sun</span><a href={asset('/THIRD_PARTY_NOTICES.md')} target="_blank" rel="noreferrer">{lang === 'zh' ? '开源致谢' : 'Open-source credits'} ↗</a><a href={isCase ? '#works' : '#top'} onClick={homeAnchor}>{isCase ? t.works : t.top} ↑</a></footer>
+    {isCase && <footer className="case-footer"><span>© 2026 孙英杰 / Yingjie Sun</span><a href={asset('/OPEN_SOURCE_REFERENCES.md')} target="_blank" rel="noreferrer">{lang === 'zh' ? '开源项目与参考资料' : 'Open-source projects & references'} ↗</a><a href="#works" onClick={homeAnchor}>{t.works} ↑</a></footer>}
 
     {lightbox && <Suspense fallback={null}><MediaViewer {...lightbox} reduced={reduced} lang={lang} onClose={() => setLightbox(null)} onIndex={index => setLightbox({ ...lightbox, index })} /></Suspense>}
   </>

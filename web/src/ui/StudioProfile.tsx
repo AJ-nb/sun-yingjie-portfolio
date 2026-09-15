@@ -42,5 +42,35 @@ export function StudioContact({ lang, reduced }: { lang: Lang; reduced: boolean 
   async function copyEmail() {
     try { await navigator.clipboard.writeText(p.contact.email); setCopied('yes') } catch { setCopied('no') }
   }
-  return <section id="contact" className="studio-contact" aria-labelledby="contact-title" data-motion-anchor><OriginalVideo kind="footer" lang={lang} reduced={reduced}/><div className="contact-overline">{lang === 'zh' ? '下一次合作' : 'The next collaboration'}</div><div className="contact-content"><div><h2 id="contact-title">{p.collaboration.title}</h2><p>{p.collaboration.body}</p><div className="contact-topics">{p.collaboration.items.map(item => <span key={item}>{item}</span>)}</div></div><div><a className="email-link" style={{ userSelect: 'text' }} href={`mailto:${p.contact.email}`}>{p.contact.email}<ArrowUpRight size={25}/></a><div className="contact-actions"><a href={`tel:+86${p.contact.phone}`}>{p.contact.phoneDisplay}</a><a href={p.contact.githubUrl} target="_blank" rel="noreferrer">GitHub <ArrowUpRight size={14}/></a><button className="contact-copy" onClick={copyEmail}><Copy size={14}/>{lang === 'zh' ? '复制邮箱' : 'Copy email'}</button></div><p className="copy-status" role="status">{copied === 'yes' ? (lang === 'zh' ? '邮箱已复制。' : 'Email copied.') : copied === 'no' ? (lang === 'zh' ? '复制不可用，可选择下方邮箱文字，或点击邮箱发送邮件。' : 'Copy unavailable. Select the address below or use the email link.') : ''}</p>{copied === 'no' && <input className="email-fallback" aria-label={lang === 'zh' ? '选择并复制邮箱' : 'Select and copy email'} readOnly value={p.contact.email} onFocus={event => event.currentTarget.select()}/>}<p>{p.contact.body}</p></div></div></section>
+  const nav = lang === 'zh'
+    ? [['#selected', '精选作品'], ['#works', '全部作品'], ['#about', '关于我'], ['#process', '设计方法']]
+    : [['#selected', 'Selected work'], ['#works', 'All work'], ['#about', 'About'], ['#process', 'Process']]
+  return <footer id="contact" className="studio-contact" aria-labelledby="contact-title" data-motion-anchor>
+    <OriginalVideo kind="footer" lang={lang} reduced={reduced}/>
+    <nav className="footer-column footer-works" aria-label={lang === 'zh' ? '页脚作品导航' : 'Footer work navigation'}>
+      <span className="footer-label">{lang === 'zh' ? '浏览' : 'Explore'}</span>
+      {nav.map(([href, label]) => <a key={href} href={href}>{label}<ArrowUpRight size={14}/></a>)}
+    </nav>
+    <div className="footer-wordmark">
+      <p className="footer-name">孙英杰<span>Yingjie Sun</span></p>
+      <p>{lang === 'zh' ? '品牌与产品设计师｜AI 辅助设计与数字体验' : 'Brand & product designer | AI-assisted design and digital experiences'}</p>
+      <p className="footer-copyright">© 2026</p>
+    </div>
+    <div className="footer-column footer-contact">
+      <span className="footer-label">{lang === 'zh' ? '联系与下载' : 'Contact & downloads'}</span>
+      <h2 id="contact-title">{p.collaboration.title}</h2>
+      <a className="footer-email" href={`mailto:${p.contact.email}`}>{p.contact.email}<ArrowUpRight size={16}/></a>
+      <div className="footer-contact-actions"><a href={`tel:+86${p.contact.phone}`}>{p.contact.phoneDisplay}</a><a href={p.contact.githubUrl} target="_blank" rel="noreferrer">GitHub<ArrowUpRight size={13}/></a><button className="contact-copy" onClick={copyEmail}><Copy size={13}/>{lang === 'zh' ? '复制邮箱' : 'Copy email'}</button></div>
+      <p className="copy-status" role="status">{copied === 'yes' ? (lang === 'zh' ? '邮箱已复制。' : 'Email copied.') : copied === 'no' ? (lang === 'zh' ? '复制不可用，请选择邮箱地址。' : 'Copy unavailable. Select the email address.') : ''}</p>
+      {copied === 'no' && <input
+        className="email-fallback"
+        aria-label={lang === 'zh' ? '选择并复制邮箱' : 'Select and copy email'}
+        readOnly
+        value={p.contact.email}
+        onFocus={event => event.currentTarget.select()}
+      />}
+      <div className="footer-downloads"><a href={asset('/downloads/sun-yingjie-selected-portfolio.pdf')} download>{lang === 'zh' ? '精选作品集 PDF' : 'Selected portfolio PDF'}<Download size={14}/></a><a href={asset('/downloads/sun-yingjie-resume.pdf')} download>{lang === 'zh' ? '简历 PDF' : 'Résumé PDF'}<Download size={14}/></a></div>
+      <a className="footer-reference" href={asset('/OPEN_SOURCE_REFERENCES.md')} target="_blank" rel="noreferrer">{lang === 'zh' ? '开源项目与参考资料' : 'Open-source projects & references'}<ArrowUpRight size={12}/></a>
+    </div>
+  </footer>
 }

@@ -2,6 +2,7 @@ import { type MouseEvent, type ReactNode } from 'react'
 import { ArrowDown, ArrowUpRight, Download } from 'lucide-react'
 import { asset, type Lang, type WorkDoc } from '../data/workDocs'
 import { profileCopy } from '../data/profile'
+import publication from '../data/publication.json'
 import { OriginalVideo } from './OriginalVideo'
 
 type AnchorHandler = (event: MouseEvent<HTMLAnchorElement>) => void
@@ -12,7 +13,7 @@ export function CaseLink({ slug, children, visit, className, focusKey }: { slug:
   }}>{children}</a>
 }
 
-export function StudioIntroduction({ lang, reduced, visit, anchor }: { lang: Lang; reduced: boolean; visit: (slug: string) => void; anchor: AnchorHandler }) {
+export function StudioIntroduction({ lang, reduced, visit: _visit, anchor }: { lang: Lang; reduced: boolean; visit: (slug: string) => void; anchor: AnchorHandler }) {
   const p = profileCopy[lang]
   return <div className="v5-intro">
     <section className="v5-hero" aria-labelledby="hero-name">
@@ -21,9 +22,11 @@ export function StudioIntroduction({ lang, reduced, visit, anchor }: { lang: Lan
         <p className="hero-role">{p.position}</p>
         <h1 id="hero-name">{p.name}<span>{lang === 'zh' ? 'Yingjie Sun' : '孙英杰'}</span></h1>
         <p className="v5-hero-summary">{p.lead}</p>
-        <div className="v5-hero-actions"><a href="#selected" onClick={anchor} className="studio-primary">{lang === 'zh' ? '浏览精选作品' : 'Explore selected work'}<ArrowDown size={18}/></a><a href={asset('/downloads/sun-yingjie-resume.pdf')} download className="studio-text-link">{lang === 'zh' ? '下载简历' : 'Download résumé'}<Download size={17}/></a></div>
-        <nav className="hero-pills" aria-label={lang === 'zh' ? '按设计方向进入案例' : 'Explore by discipline'}>
-          <CaseLink slug="periastra" visit={visit} focusKey="hero:periastra">{lang === 'zh' ? '品牌设计' : 'Brand design'}</CaseLink><CaseLink slug="lighting" visit={visit} focusKey="hero:lighting">{lang === 'zh' ? '产品与空间' : 'Product & space'}</CaseLink><CaseLink slug="lensflow" visit={visit} focusKey="hero:lensflow">{lang === 'zh' ? 'AI 与数字体验' : 'AI & digital'}</CaseLink>
+        <nav className="hero-pills" aria-label={lang === 'zh' ? '作品与联系入口' : 'Work and contact shortcuts'}>
+          <a href="#selected" onClick={anchor}>{lang === 'zh' ? '精选作品' : 'Selected work'}<ArrowDown size={15}/></a>
+          <a href={asset('/downloads/sun-yingjie-selected-portfolio.pdf')} download>{lang === 'zh' ? '精选作品集 PDF' : 'Selected portfolio PDF'}<Download size={15}/></a>
+          <a href={asset('/downloads/sun-yingjie-resume.pdf')} download>{lang === 'zh' ? '简历 PDF' : 'Résumé PDF'}<Download size={15}/></a>
+          <a href="#contact" onClick={anchor}>{lang === 'zh' ? '联系' : 'Contact'}<ArrowDown size={15}/></a>
         </nav>
       </div>
       <div className="v5-hero-foot"><span className={`typewriter ${reduced ? 'is-still' : ''}`} aria-hidden="true">{lang === 'zh' ? '从一个想法，到可以使用的体验。' : 'From an idea to an experience.'}</span><a href="#selected" onClick={anchor} aria-label={lang === 'zh' ? '向下浏览作品' : 'Scroll to selected work'}><ArrowDown size={20}/></a></div>
@@ -33,16 +36,24 @@ export function StudioIntroduction({ lang, reduced, visit, anchor }: { lang: Lan
 }
 
 export function StudioSelected({ works, lang, visit }: { works: WorkDoc[]; lang: Lang; reduced: boolean; visit: (slug: string) => void }) {
-  const ids = ['biyuan', 'periastra', 'yelisi', 'lighting', 'hermes', 'lensflow']
-  const labels = lang === 'zh' ? ['品牌与数字体验', '品牌识别', '品牌研究与应用', '产品与三维表达', '商业空间', 'AI 辅助工作流'] : ['Brand & digital experience', 'Visual identity', 'Brand research & applications', 'Product & visualization', 'Commercial space', 'AI-assisted workflow']
+  const ids = publication.selected.map(item => item.slug)
+  const labels: Record<string, { zh: string; en: string }> = {
+    biyuan: { zh: '品牌与数字体验', en: 'Brand & digital experience' },
+    periastra: { zh: '品牌识别', en: 'Visual identity' },
+    yelisi: { zh: '品牌研究与应用', en: 'Brand research & applications' },
+    lighting: { zh: '产品与三维表达', en: 'Product & visualization' },
+    hermes: { zh: '商业空间', en: 'Commercial space' },
+    lensflow: { zh: 'AI 辅助工作流', en: 'AI-assisted workflow' },
+  }
   return <section id="selected" className="v5-selected" aria-labelledby="selected-title" tabIndex={-1}>
     <div className="v5-section-heading"><h2 id="selected-title">{lang === 'zh' ? '精选作品' : 'Selected work'}<span>2025—2026</span></h2><p>{lang === 'zh' ? '六个案例，记录从设计判断到具体呈现的过程。' : 'Six cases following design decisions into tangible outcomes.'}</p></div>
-    <div className="v5-selected-grid">{ids.map((id, index) => {
+    <div className="v5-selected-grid">{ids.map(id => {
       const work = works.find(item => item.slug === id)
       if (!work) return null
+      const thumbnail = id === 'periastra' ? '/works/brand/periastra/final-wordmark.png' : `/thumbnails/${id}.webp`
       return <article key={id} className={`v5-selected-case case-${id}`}>
-        <CaseLink className="v5-case-image" slug={id} visit={visit} focusKey={`selected:${id}`}><img src={asset(`/thumbnails/${id}.webp`)} alt={work.title} loading="lazy"/><span className="v5-case-open"><ArrowUpRight size={24}/><span className="sr-only">{lang === 'zh' ? '阅读案例' : 'Read case'}</span></span></CaseLink>
-        <div className="v5-case-copy"><span>{labels[index]}</span><h3><CaseLink slug={id} visit={visit} focusKey={`selected:text:${id}`}>{work.title}</CaseLink></h3><p>{work.summary}</p><dl><div><dt>{lang === 'zh' ? '职责' : 'Role'}</dt><dd>{work.role}</dd></div><div><dt>{lang === 'zh' ? '阶段' : 'Stage'}</dt><dd>{work.status}</dd></div></dl></div>
+        <CaseLink className="v5-case-image" slug={id} visit={visit} focusKey={`selected:${id}`}><img src={asset(thumbnail)} alt={work.title} loading="lazy"/><span className="v5-case-open"><ArrowUpRight size={24}/><span className="sr-only">{lang === 'zh' ? '阅读案例' : 'Read case'}</span></span></CaseLink>
+        <div className="v5-case-copy"><span>{labels[id]?.[lang]}</span><h3><CaseLink slug={id} visit={visit} focusKey={`selected:text:${id}`}>{work.title}</CaseLink></h3><p>{work.summary}</p><dl><div><dt>{lang === 'zh' ? '职责' : 'Role'}</dt><dd>{work.role}</dd></div><div><dt>{lang === 'zh' ? '阶段' : 'Stage'}</dt><dd>{work.status}</dd></div></dl></div>
       </article>
     })}</div>
   </section>
