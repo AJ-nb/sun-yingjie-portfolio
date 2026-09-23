@@ -45,8 +45,8 @@
         "en": "Separate product identity from camera instructions; define invariants before assigning one action per shot."
       },
       "observation": {
-        "zh": "产品广告模板将终帧构图与产品身份参考分工处理。这是文档结构的观察，不是本人的生成测试。",
-        "en": "The product-commercial template separates final-frame composition from product-identity references. This is a documentation observation, not a personal generation test."
+        "zh": "产品广告模板将终帧构图与产品身份参考分工处理；本条基于模板文档分析。",
+        "en": "The product-commercial template separates final-frame composition from product-identity references; this entry analyzes the documented template."
       },
       "limits": {
         "zh": "文字指令无法保证精确尺寸或商标；几何与文字仍需人工检查。",
@@ -241,8 +241,8 @@
         "en": "The grid-to-video template separates storyboard creation from the video prompt; this study additionally emphasizes state hand-offs."
       },
       "limits": {
-        "zh": "格数与时长是输入约束，不能保证模型严格执行；作者描述的11格不等于独立验证。",
-        "en": "Panel count and runtime are input constraints, not execution guarantees. The author-described 11 units are not independently validated."
+        "zh": "格数与时长用于组织输入，逐镜结果仍需检查；11 格来自作者的流程记录。",
+        "en": "Panel count and runtime organize the input; review each rendered shot. The 11 units come from the author's process record."
       },
       "transfer": {
         "zh": "可将产品使用过程写成“接近—接触—操作—反馈”的连续状态。",
