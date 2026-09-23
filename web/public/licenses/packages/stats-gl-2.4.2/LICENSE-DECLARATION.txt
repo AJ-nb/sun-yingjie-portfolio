@@ -1,0 +1,8 @@
+stats-gl 2.4.2
+Source: installed README.md and package.json
+Author field: Renaud ROHLINGER (https://github.com/RenaudRohlinger)
+
+## 📜 License
+This project is licensed under the MIT License.
+
+No full license text is included in the installed package or available from the upstream repository license endpoint as checked on 2026-09-15. This declaration is retained without inventing an upstream copyright notice. stats-gl is an indirect Drei dependency; this portfolio does not directly import its statistics overlay.

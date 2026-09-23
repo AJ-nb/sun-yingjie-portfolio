@@ -1,0 +1,3231 @@
+{
+  "schemaVersion": "1.0.0",
+  "generatedAt": "2026-09-21",
+  "registerPurpose": "Portfolio OS 2.0 evidence boundary for local intake assets, user-supplied cover media and existing public media",
+  "sourceRoot": "作品集图片/ (local intake; paths below are relative)",
+  "assetCount": 95,
+  "verifiedDimensions": {
+    "width": 1122,
+    "height": 1402
+  },
+  "defaults": {
+    "evidenceLevel": "C",
+    "evidenceLabel": "Retrospective Reconstruction",
+    "sourceKind": "local-board-asset",
+    "availability": "private",
+    "public": false,
+    "publicBoundary": "private-review-only",
+    "rightsStatus": "unverified",
+    "aiRole": "Unknown / not verified from the intake folder",
+    "humanGates": [
+      "provenance and source-file review",
+      "rights and client-boundary review",
+      "visual, caption and alt-text review",
+      "release-allowlist review"
+    ],
+    "dimensions": {
+      "width": 1122,
+      "height": 1402
+    },
+    "restriction": "Do not present as original photography, official client-approved work, manufactured product, production handoff or measured outcome without supporting evidence."
+  },
+  "groups": [
+    {
+      "id": "hermes-summer",
+      "projectSlug": "hermes",
+      "title": {
+        "zh": "Hermès 夏季",
+        "en": "Hermès — Summer"
+      },
+      "sourcePath": "爱马仕/夏天",
+      "season": "summer",
+      "count": 10,
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidence": {
+        "evidenceLevel": "C",
+        "evidenceLabel": "Retrospective Reconstruction",
+        "sourceKind": "local-board-asset",
+        "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+        "aiRole": "Unknown / not verified from the intake folder",
+        "humanGates": [
+          "provenance and source-file review",
+          "rights and client-boundary review",
+          "visual, caption and alt-text review",
+          "release-allowlist review"
+        ],
+        "layoutVariant": "hermes-seasonal-sequence",
+        "capabilityRoles": [
+          "brand direction",
+          "spatial storytelling",
+          "team coordination"
+        ],
+        "readingTime": "4–6 min",
+        "nextProject": "hermes-autumn"
+      },
+      "note": "Local board intake; existing public Hermès summer views remain the source-backed reference. Public display is authorized by the portfolio author; the original provenance boundary remains."
+    },
+    {
+      "id": "hermes-autumn",
+      "projectSlug": "hermes",
+      "title": {
+        "zh": "Hermès 秋季",
+        "en": "Hermès — Autumn"
+      },
+      "sourcePath": "爱马仕/秋季",
+      "season": "autumn",
+      "count": 10,
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidence": {
+        "evidenceLevel": "C",
+        "evidenceLabel": "Retrospective Reconstruction",
+        "sourceKind": "local-board-asset",
+        "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+        "aiRole": "Unknown / not verified from the intake folder",
+        "humanGates": [
+          "provenance and source-file review",
+          "rights and client-boundary review",
+          "visual, caption and alt-text review",
+          "release-allowlist review"
+        ],
+        "layoutVariant": "hermes-seasonal-sequence",
+        "capabilityRoles": [
+          "brand direction",
+          "spatial storytelling",
+          "scale and framing"
+        ],
+        "readingTime": "4–6 min",
+        "nextProject": "hermes-winter"
+      },
+      "note": "Existing public autumn views are retained separately under web/public/works/legacy/hermes. Public display is authorized by the portfolio author; the original provenance boundary remains."
+    },
+    {
+      "id": "hermes-winter",
+      "projectSlug": "hermes",
+      "title": {
+        "zh": "Hermès 冬季",
+        "en": "Hermès — Winter"
+      },
+      "sourcePath": "爱马仕/冬季",
+      "season": "winter",
+      "count": 10,
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidence": {
+        "evidenceLevel": "C",
+        "evidenceLabel": "Retrospective Reconstruction",
+        "sourceKind": "local-board-asset",
+        "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+        "aiRole": "Unknown / not verified from the intake folder",
+        "humanGates": [
+          "provenance and source-file review",
+          "rights and client-boundary review",
+          "visual, caption and alt-text review",
+          "release-allowlist review"
+        ],
+        "layoutVariant": "hermes-seasonal-sequence",
+        "capabilityRoles": [
+          "brand direction",
+          "spatial storytelling",
+          "layering and display"
+        ],
+        "readingTime": "4–6 min",
+        "nextProject": "arcteryx"
+      },
+      "note": "Local board intake; do not replace the existing source-backed winter project images. Public display is authorized by the portfolio author; the original provenance boundary remains."
+    },
+    {
+      "id": "arcteryx",
+      "projectSlug": "arcteryx",
+      "title": {
+        "zh": "Arc’teryx 山地性能场",
+        "en": "Arc’teryx — Mountain Performance Field"
+      },
+      "sourcePath": "始祖鸟",
+      "season": null,
+      "count": 10,
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidence": {
+        "evidenceLevel": "C",
+        "evidenceLabel": "Retrospective Reconstruction",
+        "sourceKind": "local-board-asset",
+        "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+        "aiRole": "Unknown / not verified from the intake folder",
+        "humanGates": [
+          "provenance and source-file review",
+          "rights and client-boundary review",
+          "visual, caption and alt-text review",
+          "release-allowlist review"
+        ],
+        "layoutVariant": "technical-decomposition",
+        "capabilityRoles": [
+          "brand direction",
+          "spatial storytelling",
+          "performance translation",
+          "production/display coordination"
+        ],
+        "readingTime": "4–6 min",
+        "nextProject": "yelisi"
+      },
+      "note": "Local board intake plus five installation photographs supplied by the portfolio author on 2026-09-22. Existing public Arc’teryx case assets remain the source-backed reference. Public display is authorized by the portfolio author; the original provenance boundary remains."
+    },
+    {
+      "id": "karimoku",
+      "projectSlug": "karimoku",
+      "title": {
+        "zh": "Karimoku × BENWU 设计研究",
+        "en": "Karimoku × BENWU Design Study"
+      },
+      "sourcePath": "Karimoku",
+      "season": null,
+      "count": 20,
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidence": {
+        "evidenceLevel": "C",
+        "evidenceLabel": "Retrospective Reconstruction",
+        "sourceKind": "local-board-asset",
+        "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+        "aiRole": "Unknown / not verified from the intake folder",
+        "humanGates": [
+          "provenance and source-file review",
+          "rights and client-boundary review",
+          "visual, caption and alt-text review",
+          "release-allowlist review"
+        ],
+        "layoutVariant": "vertical-spatial-narrative",
+        "capabilityRoles": [
+          "brand translation",
+          "material system",
+          "spatial narrative",
+          "visual communication"
+        ],
+        "readingTime": "6–8 min",
+        "nextProject": "yelisi"
+      },
+      "note": "No official project identity or client approval is linked in the intake; treat as a retrospective study. Public display is authorized by the portfolio author; the original provenance boundary remains."
+    },
+    {
+      "id": "yelisi",
+      "projectSlug": "yelisi",
+      "title": {
+        "zh": "夜礼司",
+        "en": "YELISI"
+      },
+      "sourcePath": "夜礼司",
+      "season": null,
+      "count": 20,
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidence": {
+        "evidenceLevel": "C",
+        "evidenceLabel": "Retrospective Reconstruction",
+        "sourceKind": "local-board-asset",
+        "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+        "aiRole": "Unknown / not verified from the intake folder",
+        "humanGates": [
+          "provenance and source-file review",
+          "rights and client-boundary review",
+          "visual, caption and alt-text review",
+          "release-allowlist review"
+        ],
+        "layoutVariant": "brand-product-cmf",
+        "capabilityRoles": [
+          "brand identity",
+          "product direction",
+          "CMF",
+          "team coordination"
+        ],
+        "readingTime": "6–8 min",
+        "nextProject": "periastra"
+      },
+      "note": "Local board intake supplements the existing brand case; product claims remain concept-stage. Public display is authorized by the portfolio author; the original provenance boundary remains."
+    },
+    {
+      "id": "periastra",
+      "projectSlug": "periastra",
+      "title": {
+        "zh": "Periastra",
+        "en": "Periastra"
+      },
+      "sourcePath": "periastra",
+      "season": null,
+      "count": 15,
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidence": {
+        "evidenceLevel": "C",
+        "evidenceLabel": "Retrospective Reconstruction",
+        "sourceKind": "local-board-asset",
+        "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+        "aiRole": "Unknown / not verified from the intake folder",
+        "humanGates": [
+          "provenance and source-file review",
+          "rights and client-boundary review",
+          "visual, caption and alt-text review",
+          "release-allowlist review"
+        ],
+        "layoutVariant": "metadata-image-archive",
+        "capabilityRoles": [
+          "brand strategy",
+          "identity",
+          "VI/UI",
+          "information system",
+          "product language"
+        ],
+        "readingTime": "6–8 min",
+        "nextProject": "resume-formatter"
+      },
+      "note": "Local board intake is a retrospective editorial layer; existing wordmark and brand logic remain the source-backed evidence. Public display is authorized by the portfolio author; the original provenance boundary remains."
+    }
+  ],
+  "assets": [
+    {
+      "id": "portfolio-image-hermes-summer-01",
+      "projectSlug": "hermes",
+      "groupId": "hermes-summer",
+      "season": "summer",
+      "sourcePath": "爱马仕/夏天/ChatGPT Image 2026年9月21日 12_32_57 (1).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_32_57 (1).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/summer/hermes-summer-01.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-summer-02",
+      "projectSlug": "hermes",
+      "groupId": "hermes-summer",
+      "season": "summer",
+      "sourcePath": "爱马仕/夏天/ChatGPT Image 2026年9月21日 12_32_57 (2).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_32_57 (2).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/summer/hermes-summer-02.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-summer-03",
+      "projectSlug": "hermes",
+      "groupId": "hermes-summer",
+      "season": "summer",
+      "sourcePath": "爱马仕/夏天/ChatGPT Image 2026年9月21日 12_32_58 (3).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_32_58 (3).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/summer/hermes-summer-03.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-summer-04",
+      "projectSlug": "hermes",
+      "groupId": "hermes-summer",
+      "season": "summer",
+      "sourcePath": "爱马仕/夏天/ChatGPT Image 2026年9月21日 12_32_59 (4).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_32_59 (4).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/summer/hermes-summer-04.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-summer-05",
+      "projectSlug": "hermes",
+      "groupId": "hermes-summer",
+      "season": "summer",
+      "sourcePath": "爱马仕/夏天/ChatGPT Image 2026年9月21日 12_32_59 (5).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_32_59 (5).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/summer/hermes-summer-05.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-summer-06",
+      "projectSlug": "hermes",
+      "groupId": "hermes-summer",
+      "season": "summer",
+      "sourcePath": "爱马仕/夏天/ChatGPT Image 2026年9月21日 12_32_59 (6).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_32_59 (6).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/summer/hermes-summer-06.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-summer-07",
+      "projectSlug": "hermes",
+      "groupId": "hermes-summer",
+      "season": "summer",
+      "sourcePath": "爱马仕/夏天/ChatGPT Image 2026年9月21日 12_32_59 (7).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_32_59 (7).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/summer/hermes-summer-07.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-summer-08",
+      "projectSlug": "hermes",
+      "groupId": "hermes-summer",
+      "season": "summer",
+      "sourcePath": "爱马仕/夏天/ChatGPT Image 2026年9月21日 12_33_00 (8).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_33_00 (8).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/summer/hermes-summer-08.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-summer-09",
+      "projectSlug": "hermes",
+      "groupId": "hermes-summer",
+      "season": "summer",
+      "sourcePath": "爱马仕/夏天/ChatGPT Image 2026年9月21日 12_33_00 (9).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_33_00 (9).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/summer/hermes-summer-09.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-summer-10",
+      "projectSlug": "hermes",
+      "groupId": "hermes-summer",
+      "season": "summer",
+      "sourcePath": "爱马仕/夏天/ChatGPT Image 2026年9月21日 12_33_01 (10).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_33_01 (10).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/summer/hermes-summer-10.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-autumn-01",
+      "projectSlug": "hermes",
+      "groupId": "hermes-autumn",
+      "season": "autumn",
+      "sourcePath": "爱马仕/秋季/ChatGPT Image 2026年9月21日 12_46_01 (1).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_46_01 (1).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/autumn/hermes-autumn-01.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-autumn-02",
+      "projectSlug": "hermes",
+      "groupId": "hermes-autumn",
+      "season": "autumn",
+      "sourcePath": "爱马仕/秋季/ChatGPT Image 2026年9月21日 12_46_02 (2).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_46_02 (2).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/autumn/hermes-autumn-02.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-autumn-03",
+      "projectSlug": "hermes",
+      "groupId": "hermes-autumn",
+      "season": "autumn",
+      "sourcePath": "爱马仕/秋季/ChatGPT Image 2026年9月21日 12_46_02 (3).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_46_02 (3).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/autumn/hermes-autumn-03.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-autumn-04",
+      "projectSlug": "hermes",
+      "groupId": "hermes-autumn",
+      "season": "autumn",
+      "sourcePath": "爱马仕/秋季/ChatGPT Image 2026年9月21日 12_46_02 (4).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_46_02 (4).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/autumn/hermes-autumn-04.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-autumn-05",
+      "projectSlug": "hermes",
+      "groupId": "hermes-autumn",
+      "season": "autumn",
+      "sourcePath": "爱马仕/秋季/ChatGPT Image 2026年9月21日 12_46_03 (5).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_46_03 (5).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/autumn/hermes-autumn-05.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-autumn-06",
+      "projectSlug": "hermes",
+      "groupId": "hermes-autumn",
+      "season": "autumn",
+      "sourcePath": "爱马仕/秋季/ChatGPT Image 2026年9月21日 12_46_03 (6).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_46_03 (6).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/autumn/hermes-autumn-06.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-autumn-07",
+      "projectSlug": "hermes",
+      "groupId": "hermes-autumn",
+      "season": "autumn",
+      "sourcePath": "爱马仕/秋季/ChatGPT Image 2026年9月21日 12_46_03 (7).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_46_03 (7).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/autumn/hermes-autumn-07.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-autumn-08",
+      "projectSlug": "hermes",
+      "groupId": "hermes-autumn",
+      "season": "autumn",
+      "sourcePath": "爱马仕/秋季/ChatGPT Image 2026年9月21日 12_46_04 (8).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_46_04 (8).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/autumn/hermes-autumn-08.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-autumn-09",
+      "projectSlug": "hermes",
+      "groupId": "hermes-autumn",
+      "season": "autumn",
+      "sourcePath": "爱马仕/秋季/ChatGPT Image 2026年9月21日 12_46_04 (9).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_46_04 (9).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/autumn/hermes-autumn-09.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-autumn-10",
+      "projectSlug": "hermes",
+      "groupId": "hermes-autumn",
+      "season": "autumn",
+      "sourcePath": "爱马仕/秋季/ChatGPT Image 2026年9月21日 12_46_05 (10).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_46_05 (10).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/autumn/hermes-autumn-10.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-winter-01",
+      "projectSlug": "hermes",
+      "groupId": "hermes-winter",
+      "season": "winter",
+      "sourcePath": "爱马仕/冬季/ChatGPT Image 2026年9月21日 12_58_39 (1).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_58_39 (1).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/winter/hermes-winter-01.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-winter-02",
+      "projectSlug": "hermes",
+      "groupId": "hermes-winter",
+      "season": "winter",
+      "sourcePath": "爱马仕/冬季/ChatGPT Image 2026年9月21日 12_58_39 (2).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_58_39 (2).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/winter/hermes-winter-02.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-winter-03",
+      "projectSlug": "hermes",
+      "groupId": "hermes-winter",
+      "season": "winter",
+      "sourcePath": "爱马仕/冬季/ChatGPT Image 2026年9月21日 12_58_40 (3).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_58_40 (3).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/winter/hermes-winter-03.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-winter-04",
+      "projectSlug": "hermes",
+      "groupId": "hermes-winter",
+      "season": "winter",
+      "sourcePath": "爱马仕/冬季/ChatGPT Image 2026年9月21日 12_58_41 (4).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_58_41 (4).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/winter/hermes-winter-04.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-winter-05",
+      "projectSlug": "hermes",
+      "groupId": "hermes-winter",
+      "season": "winter",
+      "sourcePath": "爱马仕/冬季/ChatGPT Image 2026年9月21日 12_58_41 (5).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_58_41 (5).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/winter/hermes-winter-05.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-winter-06",
+      "projectSlug": "hermes",
+      "groupId": "hermes-winter",
+      "season": "winter",
+      "sourcePath": "爱马仕/冬季/ChatGPT Image 2026年9月21日 12_58_41 (6).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_58_41 (6).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/winter/hermes-winter-06.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-winter-07",
+      "projectSlug": "hermes",
+      "groupId": "hermes-winter",
+      "season": "winter",
+      "sourcePath": "爱马仕/冬季/ChatGPT Image 2026年9月21日 12_58_42 (7).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_58_42 (7).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/winter/hermes-winter-07.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-winter-08",
+      "projectSlug": "hermes",
+      "groupId": "hermes-winter",
+      "season": "winter",
+      "sourcePath": "爱马仕/冬季/ChatGPT Image 2026年9月21日 12_58_42 (8).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_58_42 (8).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/winter/hermes-winter-08.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-winter-09",
+      "projectSlug": "hermes",
+      "groupId": "hermes-winter",
+      "season": "winter",
+      "sourcePath": "爱马仕/冬季/ChatGPT Image 2026年9月21日 12_58_43 (9).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_58_43 (9).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/winter/hermes-winter-09.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-hermes-winter-10",
+      "projectSlug": "hermes",
+      "groupId": "hermes-winter",
+      "season": "winter",
+      "sourcePath": "爱马仕/冬季/ChatGPT Image 2026年9月21日 12_58_44 (10).png",
+      "filename": "ChatGPT Image 2026年9月21日 12_58_44 (10).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/hermes/winter/hermes-winter-10.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-arcteryx-01",
+      "projectSlug": "arcteryx",
+      "groupId": "arcteryx",
+      "season": null,
+      "sourcePath": "始祖鸟/ChatGPT Image 2026年9月21日 13_15_51 (1).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_15_51 (1).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/arcteryx/arcteryx-01.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-arcteryx-02",
+      "projectSlug": "arcteryx",
+      "groupId": "arcteryx",
+      "season": null,
+      "sourcePath": "始祖鸟/ChatGPT Image 2026年9月21日 13_15_51 (2).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_15_51 (2).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/arcteryx/arcteryx-02.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-arcteryx-03",
+      "projectSlug": "arcteryx",
+      "groupId": "arcteryx",
+      "season": null,
+      "sourcePath": "始祖鸟/ChatGPT Image 2026年9月21日 13_15_52 (3).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_15_52 (3).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/arcteryx/arcteryx-03.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-arcteryx-04",
+      "projectSlug": "arcteryx",
+      "groupId": "arcteryx",
+      "season": null,
+      "sourcePath": "始祖鸟/ChatGPT Image 2026年9月21日 13_15_52 (4).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_15_52 (4).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/arcteryx/arcteryx-04.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-arcteryx-05",
+      "projectSlug": "arcteryx",
+      "groupId": "arcteryx",
+      "season": null,
+      "sourcePath": "始祖鸟/ChatGPT Image 2026年9月21日 13_15_54 (5).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_15_54 (5).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/arcteryx/arcteryx-05.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-arcteryx-06",
+      "projectSlug": "arcteryx",
+      "groupId": "arcteryx",
+      "season": null,
+      "sourcePath": "始祖鸟/ChatGPT Image 2026年9月21日 13_15_55 (6).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_15_55 (6).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/arcteryx/arcteryx-06.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-arcteryx-07",
+      "projectSlug": "arcteryx",
+      "groupId": "arcteryx",
+      "season": null,
+      "sourcePath": "始祖鸟/ChatGPT Image 2026年9月21日 13_15_55 (7).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_15_55 (7).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/arcteryx/arcteryx-07.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-arcteryx-08",
+      "projectSlug": "arcteryx",
+      "groupId": "arcteryx",
+      "season": null,
+      "sourcePath": "始祖鸟/ChatGPT Image 2026年9月21日 13_15_55 (8).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_15_55 (8).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/arcteryx/arcteryx-08.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-arcteryx-09",
+      "projectSlug": "arcteryx",
+      "groupId": "arcteryx",
+      "season": null,
+      "sourcePath": "始祖鸟/ChatGPT Image 2026年9月21日 13_15_57 (10).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_15_57 (10).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/arcteryx/arcteryx-09.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-arcteryx-10",
+      "projectSlug": "arcteryx",
+      "groupId": "arcteryx",
+      "season": null,
+      "sourcePath": "始祖鸟/ChatGPT Image 2026年9月21日 13_15_57 (9).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_15_57 (9).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/arcteryx/arcteryx-10.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-01",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 14_55_59 (1).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_55_59 (1).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-01.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-02",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 14_56_00 (2).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_56_00 (2).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-02.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-03",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 14_56_01 (3).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_56_01 (3).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-03.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-04",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 14_56_01 (4).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_56_01 (4).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-04.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-05",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 14_56_01 (5).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_56_01 (5).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-05.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-06",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 14_56_02 (6).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_56_02 (6).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-06.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-07",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 14_56_02 (7).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_56_02 (7).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-07.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-08",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 14_56_03 (8).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_56_03 (8).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-08.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-09",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 14_56_03 (9).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_56_03 (9).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-09.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-10",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 14_56_04 (10).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_56_04 (10).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-10.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-11",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 15_07_49 (1).png",
+      "filename": "ChatGPT Image 2026年9月21日 15_07_49 (1).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-11.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-12",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 15_07_50 (2).png",
+      "filename": "ChatGPT Image 2026年9月21日 15_07_50 (2).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-12.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-13",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 15_07_50 (3).png",
+      "filename": "ChatGPT Image 2026年9月21日 15_07_50 (3).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-13.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-14",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 15_07_51 (4).png",
+      "filename": "ChatGPT Image 2026年9月21日 15_07_51 (4).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-14.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-15",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 15_07_52 (5).png",
+      "filename": "ChatGPT Image 2026年9月21日 15_07_52 (5).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-15.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-16",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 15_07_52 (6).png",
+      "filename": "ChatGPT Image 2026年9月21日 15_07_52 (6).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-16.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-17",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 15_07_52 (7).png",
+      "filename": "ChatGPT Image 2026年9月21日 15_07_52 (7).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-17.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-18",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 15_07_53 (8).png",
+      "filename": "ChatGPT Image 2026年9月21日 15_07_53 (8).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-18.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-19",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 15_07_54 (10).png",
+      "filename": "ChatGPT Image 2026年9月21日 15_07_54 (10).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-19.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-karimoku-20",
+      "projectSlug": "karimoku",
+      "groupId": "karimoku",
+      "season": null,
+      "sourcePath": "Karimoku/ChatGPT Image 2026年9月21日 15_07_54 (9).png",
+      "filename": "ChatGPT Image 2026年9月21日 15_07_54 (9).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/karimoku/karimoku-20.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-01",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_26_14 (1).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_26_14 (1).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-01.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-02",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_26_14 (2).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_26_14 (2).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-02.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-03",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_26_15 (3).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_26_15 (3).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-03.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-04",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_26_15 (4).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_26_15 (4).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-04.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-05",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_26_15 (5).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_26_15 (5).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-05.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-06",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_26_16 (6).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_26_16 (6).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-06.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-07",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_26_16 (7).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_26_16 (7).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-07.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-08",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_26_16 (8).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_26_16 (8).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-08.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-09",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_26_17 (10).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_26_17 (10).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-09.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-10",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_26_17 (9).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_26_17 (9).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-10.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-11",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_39_32 (1).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_39_32 (1).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-11.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-12",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_39_32 (2).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_39_32 (2).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-12.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-13",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_39_33 (3).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_39_33 (3).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-13.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-14",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_39_34 (4).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_39_34 (4).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-14.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-15",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_39_35 (5).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_39_35 (5).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-15.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-16",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_39_35 (6).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_39_35 (6).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-16.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-17",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_39_36 (7).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_39_36 (7).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-17.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-18",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_39_36 (8).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_39_36 (8).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-18.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-19",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_39_36 (9).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_39_36 (9).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-19.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-yelisi-20",
+      "projectSlug": "yelisi",
+      "groupId": "yelisi",
+      "season": null,
+      "sourcePath": "夜礼司/ChatGPT Image 2026年9月21日 14_39_37 (10).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_39_37 (10).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/yelisi/yelisi-20.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-periastra-01",
+      "projectSlug": "periastra",
+      "groupId": "periastra",
+      "season": null,
+      "sourcePath": "periastra/ChatGPT Image 2026年9月21日 13_48_31 (1).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_48_31 (1).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/periastra/periastra-01.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-periastra-02",
+      "projectSlug": "periastra",
+      "groupId": "periastra",
+      "season": null,
+      "sourcePath": "periastra/ChatGPT Image 2026年9月21日 13_48_32 (2).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_48_32 (2).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/periastra/periastra-02.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-periastra-03",
+      "projectSlug": "periastra",
+      "groupId": "periastra",
+      "season": null,
+      "sourcePath": "periastra/ChatGPT Image 2026年9月21日 13_48_32 (3).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_48_32 (3).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/periastra/periastra-03.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-periastra-04",
+      "projectSlug": "periastra",
+      "groupId": "periastra",
+      "season": null,
+      "sourcePath": "periastra/ChatGPT Image 2026年9月21日 13_48_32 (4).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_48_32 (4).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/periastra/periastra-04.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-periastra-05",
+      "projectSlug": "periastra",
+      "groupId": "periastra",
+      "season": null,
+      "sourcePath": "periastra/ChatGPT Image 2026年9月21日 13_48_33 (5).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_48_33 (5).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/periastra/periastra-05.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-periastra-06",
+      "projectSlug": "periastra",
+      "groupId": "periastra",
+      "season": null,
+      "sourcePath": "periastra/ChatGPT Image 2026年9月21日 13_48_34 (6).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_48_34 (6).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/periastra/periastra-06.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-periastra-07",
+      "projectSlug": "periastra",
+      "groupId": "periastra",
+      "season": null,
+      "sourcePath": "periastra/ChatGPT Image 2026年9月21日 13_48_34 (7).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_48_34 (7).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/periastra/periastra-07.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-periastra-08",
+      "projectSlug": "periastra",
+      "groupId": "periastra",
+      "season": null,
+      "sourcePath": "periastra/ChatGPT Image 2026年9月21日 13_48_35 (10).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_48_35 (10).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/periastra/periastra-08.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-periastra-09",
+      "projectSlug": "periastra",
+      "groupId": "periastra",
+      "season": null,
+      "sourcePath": "periastra/ChatGPT Image 2026年9月21日 13_48_35 (8).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_48_35 (8).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/periastra/periastra-09.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-periastra-10",
+      "projectSlug": "periastra",
+      "groupId": "periastra",
+      "season": null,
+      "sourcePath": "periastra/ChatGPT Image 2026年9月21日 13_48_35 (9).png",
+      "filename": "ChatGPT Image 2026年9月21日 13_48_35 (9).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/periastra/periastra-10.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-periastra-11",
+      "projectSlug": "periastra",
+      "groupId": "periastra",
+      "season": null,
+      "sourcePath": "periastra/ChatGPT Image 2026年9月21日 14_09_42 (1).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_09_42 (1).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/periastra/periastra-11.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-periastra-12",
+      "projectSlug": "periastra",
+      "groupId": "periastra",
+      "season": null,
+      "sourcePath": "periastra/ChatGPT Image 2026年9月21日 14_09_42 (2).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_09_42 (2).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/periastra/periastra-12.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-periastra-13",
+      "projectSlug": "periastra",
+      "groupId": "periastra",
+      "season": null,
+      "sourcePath": "periastra/ChatGPT Image 2026年9月21日 14_09_42 (3).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_09_42 (3).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/periastra/periastra-13.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-periastra-14",
+      "projectSlug": "periastra",
+      "groupId": "periastra",
+      "season": null,
+      "sourcePath": "periastra/ChatGPT Image 2026年9月21日 14_09_42 (4).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_09_42 (4).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/periastra/periastra-14.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    },
+    {
+      "id": "portfolio-image-periastra-15",
+      "projectSlug": "periastra",
+      "groupId": "periastra",
+      "season": null,
+      "sourcePath": "periastra/ChatGPT Image 2026年9月21日 14_09_42 (5).png",
+      "filename": "ChatGPT Image 2026年9月21日 14_09_42 (5).png",
+      "dimensions": {
+        "width": 1122,
+        "height": 1402
+      },
+      "evidenceLevel": "C",
+      "evidenceLabel": "Retrospective Reconstruction",
+      "sourceKind": "local-board-asset",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicPath": "/works/boards/periastra/periastra-15.webp",
+      "publicBoundary": "User-authorized portfolio display as a Level C retrospective board; not evidence of official commission, production, installation or commercial outcome.",
+      "rightsStatus": "Supplied by the portfolio author for public portfolio display; third-party/client rights and project identity remain unverified.",
+      "aiRole": "Unknown / not verified from the intake folder",
+      "humanGates": [
+        "provenance and source-file review",
+        "rights and client-boundary review",
+        "visual, caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "altStatus": "Authored in the bilingual public visual archive.",
+      "provenanceNote": "No editable source, capture record, client approval, production handoff or independent provenance record is linked in this inventory."
+    }
+  ],
+  "existingPublicInventory": {
+    "roots": [
+      {
+        "path": "/works/legacy/hermes",
+        "kind": "legacy-project-media",
+        "count": 12,
+        "evidenceLevel": "A/B",
+        "publicBoundary": "public-case-study-with-brand-rights-and-BENWU-credit",
+        "note": "Existing source-backed Hermès project views; autumn includes 043e019544984416521bf2009313a5fb.webp, 34aa997644c1849af5a716bd5cdcf55b.webp and b1d7e5fa28f89c792ee7a540882cf5ce.webp."
+      },
+      {
+        "path": "/works/legacy/arcteryx",
+        "kind": "legacy-project-media",
+        "count": 1,
+        "evidenceLevel": "A/B",
+        "publicBoundary": "public-case-study-with-brand-rights-and-BENWU-credit",
+        "note": "Existing source-backed Arc’teryx project view."
+      },
+      {
+        "path": "/media/v7/brand",
+        "kind": "authored-analysis-and-application-diagrams",
+        "count": 13,
+        "evidenceLevel": "B",
+        "publicBoundary": "public-with-attribution-and-rights-notes",
+        "note": "Manifested authored logic/system/application diagrams and profile asset; see web/public/media/v7/manifest.json."
+      },
+      {
+        "path": "/works/brand",
+        "kind": "brand-case-media",
+        "count": 8,
+        "evidenceLevel": "B",
+        "publicBoundary": "public-case-study-with-team-credit",
+        "note": "Periastra and YELISI case media currently used by the public routes."
+      }
+    ],
+    "manifest": "web/public/media/v7/manifest.json",
+    "hermesFilmSources": "web/public/media/v7/films/sources.json",
+    "publicImageTotals": {
+      "webp": 275,
+      "png": 13,
+      "svg": 7,
+      "mp4": 2
+    }
+  },
+  "releaseRule": "User-supplied boards may be published when the portfolio author directs public display, each board has an authored caption and alt text, and the public copy preserves the Level C retrospective boundary. Publication does not establish client rights, commission, production, installation or commercial outcome.",
+  "supplementalAssets": [
+    {
+      "id": "karimoku-user-supplied-cover",
+      "projectSlug": "karimoku",
+      "sourcePath": "user-supplied/codex-clipboard-e8e1b8f8-0f2d-48e0-b8c1-a7ad9a6b0647.png",
+      "publicPath": "/works/brand/karimoku/karimoku-showroom-cover.png",
+      "evidenceLevel": "C",
+      "evidenceLabel": "Design Study / Retrospective Reconstruction",
+      "sourceKind": "user-supplied-cover",
+      "availability": "public-preview",
+      "public": true,
+      "publicBoundary": "cover-only; embedded showroom wording and project identity are not independently verified",
+      "rightsStatus": "unverified",
+      "aiRole": "Unknown / not verified from the supplied image",
+      "humanGates": [
+        "image-source and rights confirmation",
+        "project identity and commission confirmation",
+        "caption and alt-text review",
+        "release-allowlist review"
+      ],
+      "dimensions": {
+        "width": 1280,
+        "height": 1918
+      },
+      "bytes": 1980851,
+      "sha256": "e8171a938a54e9a1e69606e7a6e2ce60906e1ec28b014cfe259b5ed03d85e5b1",
+      "restriction": "Use as a cover image only; do not infer official commission, production, delivery or commercial outcome from the embedded text."
+    }
+  ],
+  "independentStudies": [
+    {
+      "id": "ai-video-systems",
+      "projectSlug": "ai-video-systems",
+      "evidenceLevel": "B",
+      "evidenceLabel": "Project Archive / Author-recorded process",
+      "sourceKind": "author-supplied-final-film-and-authored-diagrams",
+      "availability": "public-portfolio",
+      "public": true,
+      "publicBoundary": "The public case includes a supplied final film, derived poster frames and newly authored diagrams. It excludes the reference film, source character images, editable Blender files, complete prompts and third-party case media. No commercial deployment, model ownership or external performance is claimed.",
+      "rightsStatus": "Portfolio author directed public display of the supplied final film; third-party reference and source-media rights are not transferred.",
+      "aiRole": "Author-recorded: GPT 6 / Codex assisted script, prompt and scene-description work; Blender supported blocking; Seedance 2.5 rendered the supplied final film.",
+      "humanGates": [
+        "story and storyboard approval",
+        "shot-by-shot identity, camera, action and physical-logic review",
+        "source, attribution, caption and release review"
+      ],
+      "assets": [
+        {
+          "path": "/works/ai-video-systems/ai-video-systems-film.mp4",
+          "kind": "author-supplied-final-film",
+          "dimensions": {
+            "width": 1080,
+            "height": 1440
+          },
+          "durationSeconds": 22.081995,
+          "bytes": 6066281,
+          "sha256": "e615ca64a488a4957a5b0ea3adf24c9a722f69589fb0ba02fc8754bfcd4fe412"
+        },
+        {
+          "path": "/works/ai-video-systems/ai-video-systems-cover.webp",
+          "kind": "derived-poster",
+          "bytes": 67058,
+          "sha256": "9ca5ff12fd42004121e8ea8d7ba1707590f687fc558cf17f13214fcc98250152"
+        },
+        {
+          "path": "/works/ai-video-systems/control-layers.svg",
+          "kind": "authored-system-diagram",
+          "bytes": 2682,
+          "sha256": "05c73559407ddefd547af55312065e9cfd8845d87f77dfa6820ca2cf4c3aa739"
+        },
+        {
+          "path": "/works/ai-video-systems/prompt-architecture.svg",
+          "kind": "authored-system-diagram",
+          "bytes": 1818,
+          "sha256": "52c0809547464006f3f98be60765d91f71b8025895159f736b3bbadb8cd81a23"
+        },
+        {
+          "path": "/works/ai-video-systems/workflow-map.svg",
+          "kind": "authored-system-diagram",
+          "bytes": 1776,
+          "sha256": "56691962721efbacb16d53da78c0fccc9a06d9947c8e405571b8147db865c31c"
+        }
+      ],
+      "claims": {
+        "authorRecorded": [
+          "11 storyboard units",
+          "more than 20 characters",
+          "single-pass generation"
+        ],
+        "independentlyVerified": [
+          "public film duration",
+          "public film dimensions",
+          "public asset hashes"
+        ]
+      },
+      "references": [
+        "https://github.com/LearnPrompt/awesome-seedance",
+        "https://x.com/aiwarts/status/2102240456092626951",
+        "https://www.woshipm.com/ai/6468462.html"
+      ]
+    }
+  ],
+  "supplementalAssetCount": 1,
+  "publicBoardArchive": {
+    "count": 95,
+    "evidenceLevel": "C",
+    "publicBoundary": "user-authorized portfolio display; retrospective reconstruction only",
+    "updatedAt": "2026-09-22"
+  },
+  "motionAndResearchV10": {
+    "updatedAt": "2026-09-23",
+    "hero": {
+      "source": "/media/v7/hero-follow.mp4",
+      "method": "55 original frames with pose-specific foreground alpha; no generated replacement",
+      "poses": {
+        "left": 18,
+        "center": 32,
+        "right": 72
+      },
+      "frames": 55,
+      "publicBoundary": "Author-provided portfolio hero, derived foreground frames only"
+    },
+    "research": {
+      "route": "/systems/ai-video-methods",
+      "revision": "9927d9b5bc2d1c305b2945917e461b3547642497",
+      "kind": "document-analysis-and-editorial-synthesis",
+      "independentlyRetested": false,
+      "videoReviewed": false,
+      "publicBoundary": "Attributed curation and design-transfer analysis. Optional original-platform embeds; no third-party video copies. No upstream performance claimed as personal work."
+    }
+  }
+}

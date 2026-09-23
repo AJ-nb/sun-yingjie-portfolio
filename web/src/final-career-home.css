@@ -1,0 +1,354 @@
+/* Final career-led layer. Every selector is scoped to the hydrated homepage. */
+.final-career-home {
+  --career-graphite: #15181B;
+  --career-warm-white: #F1EEE7;
+  --career-surface: #E3E1D9;
+  --career-moss: #718477;
+  --career-moss-ink: #4B5F52;
+  --career-muted-ink: #424843;
+  --career-lime: #D2E86C;
+  color: var(--career-graphite);
+  background: var(--career-warm-white);
+  overflow: clip;
+}
+
+.final-career-home :where(a, button, input, summary):focus-visible {
+  outline: 2px solid var(--career-lime);
+  outline-offset: 4px;
+}
+
+.final-career-home .v5-intro { background: var(--career-graphite); color: var(--career-warm-white); }
+.final-career-home .v5-hero-copy { max-width: 78rem; }
+.final-career-home .hero-role { color: var(--career-lime); letter-spacing: .08em; text-transform: uppercase; }
+.final-career-home .hero-intro-echo { color: rgba(241, 238, 231, .62); }
+.final-career-home .hero-typewriter { max-width: 42rem; color: var(--career-warm-white); }
+.final-career-home .hero-pills a { border-color: rgba(241, 238, 231, .32); color: var(--career-warm-white); background: rgba(21, 24, 27, .82); }
+.final-career-home .hero-pills a:hover { border-color: var(--career-lime); color: var(--career-lime); }
+.final-career-home .v5-hero-foot { color: rgba(241, 238, 231, .7); }
+
+.final-career-home :where(.discipline-paths, .v6-representatives, .v7-products, .v6-open-source, .work-index, .studio-method, .v7-profile, .v7-capabilities) {
+  position: relative;
+  background: var(--career-warm-white);
+}
+
+.final-career-home .discipline-paths {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  border-bottom: 1px solid rgba(21, 24, 27, .18);
+}
+.final-career-home .discipline-paths a {
+  min-height: 15rem;
+  padding: clamp(1.5rem, 4vw, 4rem);
+  color: inherit;
+  text-decoration: none;
+  background: var(--career-surface);
+  transition: background .25s ease, color .25s ease;
+}
+.final-career-home .discipline-paths a + a { border-left: 1px solid rgba(21, 24, 27, .18); background: var(--career-warm-white); }
+.final-career-home .discipline-paths a:hover { background: var(--career-graphite); color: var(--career-warm-white); }
+.final-career-home .discipline-paths a > div { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; }
+.final-career-home .discipline-paths h2 { margin: 0; font-size: clamp(2rem, 5vw, 5.25rem); letter-spacing: -.07em; line-height: .95; }
+.final-career-home .discipline-paths p { max-width: 28rem; margin: 2.5rem 0 .7rem; font-size: 1.05rem; line-height: 1.45; }
+.final-career-home .discipline-paths a > p { color: var(--career-muted-ink); }
+.final-career-home .discipline-paths small { display: block; max-width: 32rem; color: var(--career-moss-ink); font-size: .77rem; letter-spacing: .04em; }
+.final-career-home .discipline-paths a:hover small { color: var(--career-lime); }
+
+.final-career-home :where(.v7-heading, .index-heading, .studio-section-heading) h2 { color: var(--career-graphite); letter-spacing: -.055em; }
+.final-career-home :where(.v7-heading, .index-heading, .studio-section-heading) > p { color: var(--career-muted-ink); }
+.final-career-home :where(.v7-heading, .index-heading, .studio-section-heading) > div > span,
+.final-career-home .studio-eyebrow { color: var(--career-moss-ink); }
+.final-career-home .v7-representative-copy,
+.final-career-home .v7-product-grid article,
+.final-career-home .v6-open-source-card { border-color: rgba(21, 24, 27, .2); }
+.final-career-home :where(.v7-project-image, .v7-product-image, .v7-digital-image) { background: var(--career-surface); }
+.final-career-home :where(.v7-project-image, .v7-product-image, .v7-digital-image):focus-visible { outline-color: var(--career-lime); }
+
+.final-career-home .work-index { background: var(--career-surface); }
+.final-career-home .index-heading > div > p,
+.final-career-home .index-heading > div > .studio-eyebrow,
+.final-career-home .work-index .result-count { color: var(--career-muted-ink); }
+.final-career-home .catalog-summary,
+.final-career-home .catalog-meta { color: var(--career-muted-ink); }
+.final-career-home .archive-expand { border-color: var(--career-moss); color: var(--career-graphite); }
+.final-career-home .archive-expand:hover { background: var(--career-graphite); color: var(--career-warm-white); }
+
+.final-career-home .v7-profile { background: var(--career-graphite); color: var(--career-warm-white); }
+.final-career-home .v7-profile-intro { color: var(--career-warm-white); }
+.final-career-home .v7-profile-intro > img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  object-position: center;
+  filter: saturate(.82) contrast(1.02);
+}
+.final-career-home .v7-profile-intro > div > span,
+.final-career-home .v7-profile dt,
+.final-career-home .v7-profile .v7-career-summary > h3 { color: var(--career-lime); }
+.final-career-home .v7-profile .v7-career-summary article > span { color: var(--career-lime); }
+.final-career-home .v7-profile :where(p, dd) { color: rgba(241, 238, 231, .78); }
+.final-career-home .v7-profile :where(.v7-career-summary article, .v7-education) { border-color: rgba(241, 238, 231, .24); }
+.final-career-home .v7-profile a { color: var(--career-lime); }
+
+.final-career-home .v7-capabilities,
+.final-career-home .studio-method { background: var(--career-warm-white); }
+.final-career-home .capability-list details,
+.final-career-home .method-selector button { border-color: rgba(21, 24, 27, .2); }
+.final-career-home .capability-list details[open] { background: var(--career-surface); }
+.final-career-home .capability-list details[open] > div > p,
+.final-career-home .capability-list details[open] > div > .capability-tools { color: var(--career-muted-ink); }
+
+/* Evidence-led capability map. This sits below the digital/open-source layer so
+   the second-layer entry can land on a complete, auditable view of the practice. */
+.final-career-home .capability-matrix {
+  position: relative;
+  padding: clamp(4rem, 8vw, 8rem) clamp(1.25rem, 5vw, 6rem);
+  background: var(--career-surface);
+  border-top: 1px solid rgba(21, 24, 27, .18);
+}
+.final-career-home .capability-matrix-heading {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 2rem;
+  max-width: 90rem;
+  margin: 0 auto clamp(2rem, 5vw, 4.5rem);
+}
+.final-career-home .capability-matrix-heading h2 {
+  margin: .55rem 0 0;
+  color: var(--career-graphite);
+  font-size: clamp(2.5rem, 6vw, 6.5rem);
+  letter-spacing: -.07em;
+  line-height: .92;
+}
+.final-career-home .capability-matrix-heading > p {
+  max-width: 32rem;
+  margin: 0;
+  color: var(--career-muted-ink);
+  font-size: .95rem;
+  line-height: 1.8;
+}
+.final-career-home .capability-matrix-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1px;
+  max-width: 90rem;
+  margin: 0 auto;
+  background: rgba(21, 24, 27, .18);
+  border: 1px solid rgba(21, 24, 27, .18);
+}
+.final-career-home .capability-territory {
+  min-width: 0;
+  padding: clamp(1.25rem, 3vw, 2.5rem);
+  background: var(--career-warm-white);
+}
+.final-career-home .capability-territory > header {
+  display: grid;
+  grid-template-columns: 2.25rem minmax(0, 1fr);
+  gap: 1rem;
+  align-items: start;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid rgba(21, 24, 27, .18);
+}
+.final-career-home .capability-territory-index {
+  color: var(--career-moss-ink);
+  font-size: .7rem;
+  letter-spacing: .08em;
+  line-height: 1.6;
+}
+.final-career-home .capability-territory h3 {
+  margin: 0;
+  color: var(--career-graphite);
+  font-size: clamp(1.35rem, 2.4vw, 2rem);
+  letter-spacing: -.045em;
+  line-height: 1.15;
+}
+.final-career-home .capability-territory > header p {
+  max-width: 28rem;
+  margin: .6rem 0 0;
+  color: var(--career-muted-ink);
+  font-size: .79rem;
+  line-height: 1.7;
+}
+.final-career-home .capability-territory ul,
+.final-career-home .capability-practice-card ul,
+.final-career-home .capability-practice-card ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.final-career-home .capability-item {
+  padding: 1rem 0 1.15rem;
+  border-bottom: 1px solid rgba(21, 24, 27, .14);
+}
+.final-career-home .capability-item:last-child { border-bottom: 0; padding-bottom: .2rem; }
+.final-career-home .capability-item-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: .8rem;
+}
+.final-career-home .capability-item h4 {
+  margin: 0;
+  color: var(--career-graphite);
+  font-size: .92rem;
+  font-weight: 600;
+  line-height: 1.45;
+}
+.final-career-home .capability-level {
+  flex: 0 0 auto;
+  color: var(--career-moss-ink);
+  font-size: .58rem;
+  letter-spacing: .035em;
+  line-height: 1.35;
+  text-align: right;
+}
+.final-career-home .capability-item--demonstrated-expertise .capability-level { color: #536c34; }
+.final-career-home .capability-item-meta {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+  margin-top: .45rem;
+  color: var(--career-moss-ink);
+}
+.final-career-home .capability-item-meta svg { flex: 0 0 auto; }
+.final-career-home .capability-evidence-count,
+.final-career-home .capability-matrix-method {
+  font-size: .62rem;
+  letter-spacing: .025em;
+  line-height: 1.5;
+}
+.final-career-home .capability-matrix-evidence {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem .75rem;
+  margin-top: .55rem;
+}
+.final-career-home .capability-matrix-evidence a {
+  display: inline-flex;
+  align-items: center;
+  gap: .25rem;
+  min-height: 1.8rem;
+  border-bottom: 1px solid rgba(75, 95, 82, .45);
+  color: var(--career-graphite);
+  font-size: .68rem;
+  text-decoration: none;
+}
+.final-career-home .capability-matrix-reference {
+  display: inline-flex;
+  align-items: center;
+  min-height: 1.8rem;
+  border-bottom: 1px dashed rgba(75, 95, 82, .45);
+  color: var(--career-muted-ink);
+  font-size: .68rem;
+}
+.final-career-home .capability-matrix-evidence a:hover { color: var(--career-moss-ink); border-color: currentColor; }
+.final-career-home .capability-item-note {
+  max-width: 34rem;
+  margin: .65rem 0 0;
+  color: var(--career-muted-ink);
+  font-size: .7rem;
+  line-height: 1.7;
+}
+.final-career-home .capability-matrix-practice {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1px;
+  max-width: 90rem;
+  margin: clamp(2rem, 4vw, 4rem) auto 0;
+  background: rgba(21, 24, 27, .18);
+  border: 1px solid rgba(21, 24, 27, .18);
+}
+.final-career-home .capability-practice-card {
+  min-width: 0;
+  padding: clamp(1.25rem, 3vw, 2.5rem);
+  background: var(--career-graphite);
+  color: var(--career-warm-white);
+}
+.final-career-home .capability-practice-card--research { background: var(--career-warm-white); color: var(--career-graphite); }
+.final-career-home .capability-practice-card .studio-eyebrow { color: var(--career-lime); }
+.final-career-home .capability-practice-card--research .studio-eyebrow { color: var(--career-moss-ink); }
+.final-career-home .capability-practice-card h3 {
+  margin: .6rem 0 .75rem;
+  font-size: clamp(1.55rem, 3vw, 2.7rem);
+  letter-spacing: -.055em;
+  line-height: 1;
+}
+.final-career-home .capability-practice-card > header > p {
+  max-width: 33rem;
+  margin: 0;
+  color: rgba(241, 238, 231, .74);
+  font-size: .83rem;
+  line-height: 1.75;
+}
+.final-career-home .capability-practice-card--research > header > p,
+.final-career-home .capability-practice-card--research .capability-boundary { color: var(--career-muted-ink); }
+.final-career-home .capability-workflow,
+.final-career-home .capability-research-steps {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: .55rem;
+  margin-top: 2rem;
+}
+.final-career-home .capability-workflow li,
+.final-career-home .capability-research-steps li {
+  display: grid;
+  gap: .55rem;
+  min-height: 4.2rem;
+  padding: .65rem .6rem;
+  border-top: 1px solid rgba(241, 238, 231, .36);
+  color: var(--career-warm-white);
+  font-size: .65rem;
+  line-height: 1.45;
+}
+.final-career-home .capability-workflow li span,
+.final-career-home .capability-research-steps li span { color: var(--career-lime); font-size: .58rem; letter-spacing: .08em; }
+.final-career-home .capability-research-steps li {
+  border-color: rgba(21, 24, 27, .25);
+  color: var(--career-graphite);
+}
+.final-career-home .capability-research-steps li span { color: var(--career-moss-ink); }
+.final-career-home .capability-role-boundary {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0 0;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(241, 238, 231, .26);
+}
+.final-career-home .capability-role-boundary > div { min-width: 0; }
+.final-career-home .capability-role-boundary dt { color: var(--career-lime); font-size: .64rem; }
+.final-career-home .capability-role-boundary dd { margin: .35rem 0 0; color: rgba(241, 238, 231, .72); font-size: .68rem; line-height: 1.65; }
+.final-career-home .capability-boundary { margin: 1.5rem 0 0; font-size: .68rem; line-height: 1.7; }
+
+@media (max-width: 720px) {
+  .final-career-home .discipline-paths { grid-template-columns: 1fr; }
+  .final-career-home .discipline-paths a { min-height: 10rem; }
+  .final-career-home .discipline-paths a + a { border-left: 0; border-top: 1px solid rgba(21, 24, 27, .18); }
+  .final-career-home .discipline-paths p { margin-top: 1.8rem; }
+  .final-career-home .capability-matrix-heading { display: block; }
+  .final-career-home .capability-matrix-heading > p { margin-top: 1.5rem; }
+  .final-career-home .capability-matrix-grid,
+  .final-career-home .capability-matrix-practice { grid-template-columns: 1fr; }
+  .final-career-home .capability-practice-card--research { border-top: 1px solid rgba(21, 24, 27, .18); }
+}
+
+@media (max-width: 390px) {
+  .final-career-home .discipline-paths a { padding: 1.25rem; }
+  .final-career-home .discipline-paths h2 { font-size: 2.35rem; }
+  .final-career-home .hero-pills { gap: .45rem; }
+  .final-career-home .hero-pills a { padding-inline: .65rem; }
+  .final-career-home .capability-matrix { padding-inline: 1.25rem; }
+  .final-career-home .capability-matrix-heading h2 { font-size: 2.65rem; }
+  .final-career-home .capability-territory { padding: 1.25rem; }
+  .final-career-home .capability-item-head { display: block; }
+  .final-career-home .capability-level { display: block; margin-top: .35rem; text-align: left; }
+  .final-career-home .capability-workflow,
+  .final-career-home .capability-research-steps { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .final-career-home .capability-role-boundary { grid-template-columns: 1fr; }
+}
+
+:root[data-motion=reduced]{
+  .final-career-home *,
+  .final-career-home *::before,
+  .final-career-home *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
+}

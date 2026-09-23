@@ -1,0 +1,5 @@
+.motion-preference{display:flex;align-items:center;justify-content:flex-end;gap:10px;flex-wrap:wrap;padding:12px var(--gutter,24px);max-width:1600px;margin:auto;color:#b9c5cf;font-size:12px;position:relative;z-index:4}
+.motion-preference select,.motion-preference button{font:inherit;color:#e7edf2;background:#202328;border:1px solid #61666c;border-radius:20px;padding:8px 12px;min-height:36px;cursor:pointer}
+.motion-preference :focus-visible{outline:2px solid #dfb3ff;outline-offset:3px}
+html[data-motion=reduced] *,html[data-motion=reduced] *::before,html[data-motion=reduced] *::after{scroll-behavior:auto!important;animation:none!important;transition:none!important}
+@media(max-width:520px){.motion-preference{padding:8px 20px;font-size:11px;gap:7px}}

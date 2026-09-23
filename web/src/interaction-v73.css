@@ -1,0 +1,181 @@
+/* Responsive feedback: keep the work itself still and animate the affordance. */
+:root {
+  --interaction-quick: 160ms;
+  --interaction-settle: 260ms;
+  --interaction-ease: cubic-bezier(.2, .7, .2, 1);
+}
+
+.work-card .work-image img,
+.v7-project-image > img,
+.work-card:hover .work-image img,
+.v7-project-image:hover > img {
+  transform: none;
+  transition: none;
+}
+
+:is(.work-card, .v7-project-image, .v7-product-image, .v7-digital-image):focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 5px;
+}
+
+.search:focus-within {
+  border-bottom-color: currentColor;
+  box-shadow: 0 1px 0 currentColor;
+}
+
+.work-card:focus-visible .work-caption h3,
+.v7-product-grid h3 a:focus-visible,
+.v7-digital-more > a:focus-visible h3,
+.evidence-links a:focus-visible,
+.footer-column a:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: .24em;
+  text-decoration-thickness: 1px;
+}
+
+.work-card:focus-visible .read-label {
+  background: #435721;
+}
+
+.capability-list summary:focus-visible,
+.v7-education summary:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+
+@media (hover: hover) and (pointer: fine){:root[data-motion=full]{
+  :is(.work-card .read-label, .work-card .work-caption h3,
+      .category-list button, .view-switch button, .download-variants button,
+      .brand-format-controls button, .archive-expand, .method-selector button,
+      .capability-list summary, .v7-education summary, .product-subpaths a,
+      .contact-copy, .search) {
+    transition: color var(--interaction-quick) ease,
+      background-color var(--interaction-quick) ease,
+      border-color var(--interaction-quick) ease,
+      box-shadow var(--interaction-quick) ease,
+      translate var(--interaction-quick) var(--interaction-ease);
+  }
+
+  :is(.v7-project-image > span > svg, .v7-product-image > svg,
+      .v7-digital-more > a > svg, .work-card .read-label > span,
+      .method-image a svg, .evidence-links a svg, .footer-column a svg,
+      .download-link > svg, .discipline-paths > a svg) {
+    transition: translate var(--interaction-settle) var(--interaction-ease),
+      background-color var(--interaction-quick) ease;
+  }
+
+  :is(.v7-project-image, .v7-product-image):is(:hover, :focus-visible) svg,
+  .v7-digital-more > a:is(:hover, :focus-visible) > svg,
+  .work-card:is(:hover, :focus-visible) .read-label > span,
+  :is(.method-image, .evidence-links, .footer-column) a:is(:hover, :focus-visible) svg {
+    translate: 2px -2px;
+  }
+
+  .discipline-paths > a:is(:hover, :focus-visible) svg {
+    transform: none;
+    translate: 2px 2px;
+  }
+
+  .download-link:is(:hover, :focus-visible) > svg,
+  .footer-downloads a:is(:hover, :focus-visible) svg {
+    translate: 0 2px;
+  }
+
+  .work-card:hover .read-label {
+    background: #435721;
+  }
+
+  .work-card:hover .work-caption h3,
+  .v7-digital-more > a:hover h3 {
+    text-decoration: underline;
+    text-underline-offset: .24em;
+    text-decoration-thickness: 1px;
+  }
+
+  :is(.category-list, .view-switch, .download-variants, .brand-format-controls)
+  button:not([aria-pressed=true]):hover,
+  .capability-list summary:hover,
+  .v7-education summary:hover {
+    background-color: #20251f0a;
+  }
+
+  :is(.category-list button, .view-switch button, .download-variants button,
+      .brand-format-controls button, .archive-expand, .contact-copy):active {
+    translate: 0 1px;
+    transition-duration: 80ms;
+  }
+
+  .capability-list summary svg {
+    transition: transform var(--interaction-settle) var(--interaction-ease);
+  }
+
+  .method-description {
+    animation: interaction-content-arrive var(--interaction-settle) ease both;
+  }
+}}
+
+@keyframes interaction-content-arrive {
+  from { opacity: .65; }
+  to { opacity: 1; }
+}
+
+@media (max-width: 768px) and (hover: hover) and (pointer: fine){:root[data-motion=full]{
+  .site-header.mainframe-header.v5-header nav a {
+    translate: 0 6px;
+    transition: translate var(--interaction-settle) var(--interaction-ease),
+      color var(--interaction-quick) ease,
+      opacity var(--interaction-quick) ease;
+  }
+
+  .site-header.mainframe-header.v5-header nav.is-open a {
+    translate: 0;
+  }
+}}
+
+/* Touch and reduced-motion keep the same states without decorative travel. */
+@media (hover: none){
+  .method-description {
+    animation: none;
+  }
+
+  .capability-list summary svg,
+  .discipline-paths > a svg,
+  .site-header.mainframe-header.v5-header nav,
+  .mainframe-header .menu-bars i {
+    transition: none;
+  }
+
+  .discipline-paths > a:hover svg {
+    transform: none;
+  }
+}@media (pointer: coarse){
+  .method-description {
+    animation: none;
+  }
+
+  .capability-list summary svg,
+  .discipline-paths > a svg,
+  .site-header.mainframe-header.v5-header nav,
+  .mainframe-header .menu-bars i {
+    transition: none;
+  }
+
+  .discipline-paths > a:hover svg {
+    transform: none;
+  }
+}:root[data-motion=reduced]{
+  .method-description {
+    animation: none;
+  }
+
+  .capability-list summary svg,
+  .discipline-paths > a svg,
+  .site-header.mainframe-header.v5-header nav,
+  .mainframe-header .menu-bars i {
+    transition: none;
+  }
+
+  .discipline-paths > a:hover svg {
+    transform: none;
+  }
+}

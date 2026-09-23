@@ -1,0 +1,10 @@
+{
+  "name": "Yingjie Sun Design OS",
+  "short_name": "Yingjie Design OS",
+  "start_url": "/sun-yingjie-portfolio/",
+  "display": "standalone",
+  "background_color": "#0c0c0c",
+  "theme_color": "#0c0c0c",
+  "description": "Industrial & Product Designer. From form to system.",
+  "lang": "zh-CN"
+}

@@ -1,0 +1,1 @@
+export { HomeDesignOS } from './HomePortfolio'

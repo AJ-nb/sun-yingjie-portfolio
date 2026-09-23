@@ -1,0 +1,324 @@
+{
+  "hermes": {
+    "zh": {
+      "title": "Hermès — 季节橱窗世界",
+      "summary": "通过商品、道具、材质与光线的关系，参与构建三个季节的橱窗叙事。",
+      "role": "BENWU 团队 · 三维设计与视觉呈现",
+      "problem": "如何让季节主题形成鲜明的空间体验，同时让商品成为画面的主角？",
+      "outcome": "项目档案保留了夏、秋、冬三季的空间与视觉方案，以及季节语言的对照。我的工作集中在团队中的三维设计和视觉呈现。",
+      "reflection": "季节差异不只来自颜色和装饰。真正需要比较的是观看距离、商品层级、道具比例以及材料对光线的反应。",
+      "decisions": [
+        [
+          "夏季：图形成为空间节奏",
+          "以图形、色块和重复关系建立活力，同时比较商品与背景的对比，避免主题吞没陈列。"
+        ],
+        [
+          "秋季：熟悉物件形成超现实关系",
+          "利用家具、物件与尺度变化组织场景，让观者在熟悉与陌生之间建立叙事联想。"
+        ],
+        [
+          "冬季：马术意象与冰雪层次",
+          "通过白马、雪地层面和悬挂关系，比较主体、商品与背景的距离及层次。"
+        ]
+      ]
+    },
+    "en": {
+      "title": "Hermès — Seasonal Window Worlds",
+      "summary": "Contributing to three seasonal window narratives through merchandise, props, material and light.",
+      "role": "BENWU team · 3D design & visual presentation",
+      "problem": "How can each season create a distinct spatial world while keeping merchandise at the centre of the composition?",
+      "outcome": "The project record retains summer, autumn and winter spatial and visual studies. My contribution focused on 3D design and visual presentation within the BENWU team.",
+      "reflection": "Seasonal distinction involves more than colour and decoration. Viewing distance, merchandise hierarchy, prop proportion and the response of materials to light are the useful comparisons.",
+      "decisions": [
+        [
+          "Summer: graphic energy in space",
+          "Graphic shapes, colour blocks and repetition establish rhythm. Product-to-background contrast keeps the merchandise legible."
+        ],
+        [
+          "Autumn: a surreal domestic world",
+          "Familiar furniture and objects become narrative elements through shifts in scale and unexpected spatial relationships."
+        ],
+        [
+          "Winter: an equestrian frozen landscape",
+          "The horse, snow planes and suspended accessories establish a hierarchy of figure, merchandise and background."
+        ]
+      ]
+    }
+  },
+  "arcteryx": {
+    "zh": {
+      "title": "Arc’teryx — 山地性能场",
+      "summary": "将地形、身体与装备转译为空间层次，参与 Alpha Center 橱窗的三维设计与视觉表达。",
+      "role": "BENWU 团队 · 三维设计与空间视觉",
+      "problem": "如何让户外性能的语境进入零售空间，同时清楚呈现身体、装备与环境的关系？",
+      "outcome": "形成地形、方向与装备层级的空间表达；公开档案包含方案图与补充落地效果图。",
+      "reflection": "技术叙事需要让关系可读：哪里承载、力量如何指向、装备如何被观看。视觉上的动态不能替代性能或工程验证。",
+      "decisions": [
+        [
+          "从地形建立层次",
+          "以地形的高差、折线与体块建立观看顺序，让商品有清晰的位置，而非仅作为场景装饰。"
+        ],
+        [
+          "用方向组织力量感",
+          "比较斜向、路径和视觉重心，使空间中的运动线索服务身体与装备之间的关系。"
+        ],
+        [
+          "回到展示尺度",
+          "通过全景与局部视图比较支撑、悬挂、商品间距及观看角度，并以落地效果图补充空间阅读。"
+        ]
+      ]
+    },
+    "en": {
+      "title": "Arc’teryx — Mountain Performance Field",
+      "summary": "Translating terrain, bodies and equipment into spatial layers for the Alpha Center window display.",
+      "role": "BENWU team · 3D design & spatial visualisation",
+      "problem": "How can an outdoor performance context become a retail environment in which the relationship between body, equipment and terrain remains clear?",
+      "outcome": "The archive presents spatial studies of terrain, direction and equipment hierarchy, alongside additional installation views.",
+      "reflection": "A technical narrative needs readable relationships: support, direction and viewing position. Visual dynamism alone does not establish performance or engineering validation.",
+      "decisions": [
+        [
+          "Start with terrain",
+          "Changes in height, angular lines and volumes establish a viewing sequence and give merchandise a clear place."
+        ],
+        [
+          "Organise direction and force",
+          "Diagonals, paths and visual centres connect spatial motion cues to the relationship between bodies and equipment."
+        ],
+        [
+          "Return to display scale",
+          "Overall and detail views compare support, suspension, spacing and viewing angles. Installation views add spatial context."
+        ]
+      ]
+    }
+  },
+  "karimoku": {
+    "zh": {
+      "title": "Karimoku × BENWU — 设计研究",
+      "summary": "从木作文化、材料与留白出发，研究家具如何进入空间、摄影与传播。",
+      "role": "品牌与材料研究 · 空间叙事整理",
+      "problem": "如何将木作家具的文化基础转化为材料、空间和观看路径之间的关系？",
+      "outcome": "整理了品牌基础、文化转译、材料、留白、动线、光线与传播的连续研究框架，公开阶段为 Design Study。",
+      "reflection": "克制需要具体依据：物件之间的距离、层次、材料边缘和光线变化。研究仍需材料样片与原始项目记录支持后续判断。",
+      "decisions": [
+        [
+          "从文化语义转向材料关系",
+          "以木材、工艺与生活方式为研究起点，比较边界、连接和触感，避免把文化简化为装饰符号。"
+        ],
+        [
+          "用空与层组织观看",
+          "家具、墙面和展示物之间的间距承担空间秩序；全景与局部共同解释比例。"
+        ],
+        [
+          "让光线连接时间与传播",
+          "关注阴影、表面变化和摄影尺度，让传播画面保留材料与空间的关系。"
+        ]
+      ]
+    },
+    "en": {
+      "title": "Karimoku × BENWU — Design Study",
+      "summary": "A study of how woodcraft, material and space can connect furniture, photography and communication.",
+      "role": "Brand & material research · Spatial narrative",
+      "problem": "How can a furniture brand’s craft and cultural context translate into relationships between materials, space and movement?",
+      "outcome": "A connected research framework spanning brand foundations, cultural translation, materials, void, movement, light and communication. Presented as a design study.",
+      "reflection": "Restraint needs concrete decisions about distance, layers, edges and light. Material samples and original project records remain necessary for further validation.",
+      "decisions": [
+        [
+          "Translate culture into relationships",
+          "Wood, craft and everyday life inform the study of edges, joints and touch, beyond decorative shorthand."
+        ],
+        [
+          "Organise the void and the layers",
+          "Distances between furniture, walls and display elements create spatial order. Overall and detail views explain scale together."
+        ],
+        [
+          "Connect light and communication",
+          "Shadows, surface variation and photographic scale help preserve material and spatial relationships in communication."
+        ]
+      ]
+    }
+  },
+  "lighting": {
+    "zh": {
+      "title": "铝型材灯具系统",
+      "summary": "一个截面、不同的使用位置：连接台灯、落地灯、壁灯与吊灯的系列语言。",
+      "role": "BENWU 团队 · 三维设计与视觉呈现",
+      "problem": "长度、方向和支撑方式改变时，哪些形态特征可以维持系列的一致性？",
+      "outcome": "通过单体、细部与室内场景呈现系列关系，支持造型、材料与比例的比较。",
+      "reflection": "视觉上的一致性不等于工程部件通用。进一步开发需要结合光学、散热、装配与控制方式验证。",
+      "decisions": [
+        [
+          "截面建立家族特征",
+          "近似四瓣的端部轮廓和纵向发光条构成可识别的共同语言，变化集中在长度、方向和支撑。"
+        ],
+        [
+          "细部解释材料与功能",
+          "金属槽道、发光面和圆形控制件分别承担结构、光线与交互的视觉线索。"
+        ],
+        [
+          "场景校准比例",
+          "以桌面、墙面与长桌为参照，比较同一种线性语言如何适应不同使用位置。"
+        ]
+      ]
+    },
+    "en": {
+      "title": "Aluminum Lighting System",
+      "summary": "One section across different uses: a family of table, floor, wall and pendant lights.",
+      "role": "BENWU team · 3D design & visual presentation",
+      "problem": "As length, direction and support change, which formal characteristics hold a product family together?",
+      "outcome": "Object, detail and interior views make the family’s formal, material and proportional relationships available for comparison.",
+      "reflection": "Visual consistency does not establish shared engineering components. Further development requires optical, thermal, assembly and control validation.",
+      "decisions": [
+        [
+          "Build identity through the section",
+          "A near four-lobed end profile and longitudinal light strip create common features, while length, orientation and support vary."
+        ],
+        [
+          "Explain material and function in the detail",
+          "Metal channels, luminous surfaces and circular controls provide distinct visual cues for construction, light and interaction."
+        ],
+        [
+          "Calibrate proportion in context",
+          "Desks, walls and long tables provide references for comparing how one linear language adapts to different uses."
+        ]
+      ]
+    }
+  },
+  "yelisi": {
+    "zh": {
+      "title": "夜礼司 — 品牌、产品与 CMF",
+      "summary": "从中文识别到产品概念，让边界、曲线与触感形成连续的品牌语言。",
+      "role": "团队协作 · 品牌视觉、产品概念与 CMF",
+      "problem": "如何同时表达亲密感、仪式感和个人边界，并让品牌识别与产品概念相互支撑？",
+      "outcome": "形成以中文名称与私印秩序为核心的品牌方向，并延伸出产品和 CMF 概念。产品尚处概念阶段。",
+      "reflection": "材料与接触方式应经过实物验证。磁吸、释放、耐久与人体工学是后续研究重点，不能由渲染图直接推断。",
+      "decisions": [
+        [
+          "将中文名称变成品牌资产",
+          "从早期 Songnasty 的曲线探索转向中文字标与私印秩序，让名称成为稳定的识别核心。"
+        ],
+        [
+          "用边界容纳流动",
+          "近方形轮廓和篆意笔画提供秩序，身体曲线作为负形进入第二层阅读。"
+        ],
+        [
+          "将识别延伸至物件",
+          "蛇形主体与蝴蝶配件探索连接、组合与触感，将品牌语义转成产品和 CMF 的具体研究问题。"
+        ]
+      ]
+    },
+    "en": {
+      "title": "YELISI — Brand, Product & CMF",
+      "summary": "Connecting a Chinese identity to product concepts through boundaries, curves and touch.",
+      "role": "Team collaboration · Identity, product concepts & CMF",
+      "problem": "How can intimacy, ritual and personal boundaries inform both a recognisable identity and a coherent product direction?",
+      "outcome": "An identity direction centred on the Chinese name and seal-like order, extended into product and CMF studies. The products remain concepts.",
+      "reflection": "Materials and contact mechanisms need physical validation. Magnetic retention, release, durability and ergonomics cannot be established by renders.",
+      "decisions": [
+        [
+          "Make the name a brand asset",
+          "The work moved from early Songnasty curves to Chinese lettering and seal-like order, giving the identity a stable centre."
+        ],
+        [
+          "Hold fluidity within a boundary",
+          "A near-square contour and seal-inspired strokes establish order; bodily curves emerge as a secondary reading in negative space."
+        ],
+        [
+          "Extend identity into objects",
+          "A snake-like body and butterfly components explore connection, combination and touch, translating brand semantics into product and CMF questions."
+        ]
+      ]
+    }
+  },
+  "periastra": {
+    "zh": {
+      "title": "Periastra — 品牌策略与系统",
+      "summary": "以摄影装备为语境，连接品牌定位、字体识别、信息层级和产品语言。",
+      "role": "团队协作 · 品牌图形、应用与信息系统",
+      "problem": "如何建立具有技术感的品牌识别，同时让产品与应用信息保持清楚？",
+      "outcome": "形成从品牌定位、字标到应用和信息系统的研究方向；以摄影装备的阅读需求组织视觉层级。",
+      "reflection": "对经典品牌的研究应提取方法。Hasselblad 在此作为 Reference Study，其品牌资产和产品不属于本项目成果。",
+      "decisions": [
+        [
+          "先建立定位和阅读顺序",
+          "围绕摄影装备的使用与信息需求，区分品牌识别、产品信息和辅助叙述的职责。"
+        ],
+        [
+          "用字标建立稳定识别",
+          "比较字形结构、笔画、负形与间距，使技术语气与可读性保持平衡。"
+        ],
+        [
+          "把图形转成系统规则",
+          "在不同应用尺度中检查信息层级与产品语言，使品牌表达可以延续。"
+        ]
+      ]
+    },
+    "en": {
+      "title": "Periastra — Brand Strategy & System",
+      "summary": "Connecting positioning, typographic identity, information hierarchy and product language for a photography-equipment context.",
+      "role": "Team collaboration · Identity, applications & information systems",
+      "problem": "How can a technically expressive identity keep product and application information clear?",
+      "outcome": "A study connecting positioning and lettering to applications and information systems, organised around how photography equipment is read and used.",
+      "reflection": "Studying an established brand means learning its methods. Hasselblad is a reference study here; its brand assets and products are not project outcomes.",
+      "decisions": [
+        [
+          "Define positioning and reading order",
+          "Separate the roles of brand identity, product information and supporting communication around the needs of photography equipment."
+        ],
+        [
+          "Create stability through lettering",
+          "Compare letter structure, strokes, negative space and spacing to balance technical character with legibility."
+        ],
+        [
+          "Turn graphics into rules",
+          "Test hierarchy and product language at different application scales so that the identity remains coherent."
+        ]
+      ]
+    }
+  },
+  "biyuan": {
+    "zh": {
+      "title": "彼源 AI — 品牌与产品体验",
+      "summary": "让多模型服务拥有统一识别、清楚的信息层级和可以继续的操作路径。",
+      "role": "整体 VI/UI 设计与体验迭代",
+      "problem": "如何把不同模型和服务组织成用户能够理解、选择并继续使用的体验？",
+      "outcome": "完成品牌视觉与桌面、移动界面的设计和迭代表达；公开项目按产品协作与原型边界呈现。",
+      "reflection": "一致的视觉需要与任务逻辑一起工作。模型选择、反馈和下一步操作应共同降低理解成本，具体效果仍需真实使用研究。",
+      "decisions": [
+        [
+          "先建立一致的入口",
+          "让标识、页面层级和关键操作采用一致的视觉语气，帮助用户识别服务。"
+        ],
+        [
+          "把模型信息变成可比较的选择",
+          "区分主要任务、模型信息和操作状态，避免把所有内容放在同一层级。"
+        ],
+        [
+          "让跨屏体验延续",
+          "在桌面与移动端保留共同的信息顺序，再根据屏幕和操作方式调整密度。"
+        ]
+      ]
+    },
+    "en": {
+      "title": "Biyuan AI — Identity & Product Experience",
+      "summary": "A shared identity, clear information hierarchy and continuous task paths for a multi-model service.",
+      "role": "Visual identity, UI design & experience iteration",
+      "problem": "How can multiple models and services become an experience people can understand, choose from and continue using?",
+      "outcome": "Visual identity and desktop/mobile interface design and iteration, presented within the boundaries of product collaboration and prototyping.",
+      "reflection": "Visual consistency must work with task logic. Model selection, feedback and next actions should reduce the effort of understanding; effects require actual user research.",
+      "decisions": [
+        [
+          "Create a consistent entry point",
+          "Align identity, page hierarchy and key actions so users can recognise the service across screens."
+        ],
+        [
+          "Make model information comparable",
+          "Distinguish the main task, model information and operating state instead of treating all content equally."
+        ],
+        [
+          "Carry the experience across screens",
+          "Keep a shared reading order on desktop and mobile, then adjust density for screen size and interaction."
+        ]
+      ]
+    }
+  }
+}

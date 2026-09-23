@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aj-nb.github.io/sun-yingjie-portfolio/sitemap.xml

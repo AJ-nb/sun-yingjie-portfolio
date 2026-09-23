@@ -1,0 +1,78 @@
+---
+title: "渲染与动态影像习作"
+category: "experiments"
+summary: "通过自行车静态图、产品场景选集与跑车动态短片，探索材质、灯光、镜头和环境之间的视觉关系。"
+role: "3D渲染与场景呈现"
+credits: "视觉习作；车辆设计、品牌标识与第三方参考素材的权利归原权利人所有"
+status: "静态与动态视觉习作"
+cover: "/works/legacy/rendering/6b8d00417baa8b204447fd0857eb435a.webp"
+tags: ["3D视觉", "材质与灯光", "自行车渲染", "动态影像"]
+---
+
+## 背景
+
+本组选集围绕材质、灯光、构图与场景展开，包含自行车静态图、产品渲染长卷和跑车动态习作。不同主题共同探索产品在细节、完整形态与环境中的视觉呈现。
+
+## 本人职责
+
+展示方向为 3D 渲染与场景呈现，涵盖自行车产品图、产品场景选集与跑车动态影像。本案例聚焦材质、灯光与镜头表达。
+
+## 关键问题
+
+材质真实感来自光照、表面与尺度的共同关系，单纯增加反射或发光并不能让物体可信。完整图需要说明轮廓，近景需要说明连接与表面，动态镜头则需要维持空间连续性。
+
+## 设计过程
+
+自行车组用暗场整车建立轮廓，以雪地和山地场景比较环境关系，再通过车架、水壶、车把与传动部件近景观察材质。产品选片呈现个护、健身、灯具和装备在不同构图中的表现；跑车短片切换极光与沙漠背景，研究车身与运动镜头。
+
+本轮复盘按“整体—细节—环境”阅读留存画面，不将不同视角并置为精确前后对照。产品的设计职责见对应案例；本组讨论的是图像与镜头表达，第三方车辆和品牌不归为个人设计。
+
+## 最终作品
+
+作品分为自行车静态组、产品与场景选片、跑车动态习作三个部分。选片包含 GO GLOW、HUHU CARE、植遇相伴、引渡者及其他视觉主题；跑车短片约 28 秒，画面中的 Ferrari 标志属于所展示车辆。
+
+**自行车静态组**
+
+![暗色灯光下的整车渲染](/works/legacy/rendering/22de046ff3e66598345084183a3aea6b.webp)
+
+![CLIMBER MINI24 雪地场景渲染](/works/legacy/rendering/6b8d00417baa8b204447fd0857eb435a.webp)
+
+![山地自行车环境渲染](/works/legacy/rendering/7ddd2cc1d08f22e83dbf11ca277471eb.webp)
+
+![车架与水壶细节](/works/legacy/rendering/a7bdacdb33c834301102c595220b48d3.webp)
+
+![车把局部材质与灯光](/works/legacy/rendering/c7db2abf68343f46198039db6ab4fba6.webp)
+
+![传动部件近景](/works/legacy/rendering/d426d7f675239cd43c29396f4b542fee.webp)
+
+**产品与场景选片**
+
+以下独立画面提取自原始渲染作品集的高清内嵌图，按材质、灯光和场景组织观看。产品项目的设计职责见对应案例；来源尚未明确的参考画面与装饰纹理不计入本组选片。
+
+![GO GLOW 材质、灯光与静物组合](/works/refinement-v2/rendering-pdf/038.webp)
+
+![GO GLOW 水面镜头](/works/refinement-v2/rendering-pdf/040.webp)
+
+![GO GLOW 暗场产品组合](/works/refinement-v2/rendering-pdf/041.webp)
+
+![HUHU CARE 圆环与球体场景](/works/refinement-v2/rendering-pdf/022.webp)
+
+![植遇相伴产品与显示底座](/works/refinement-v2/rendering-pdf/024.webp)
+
+![生态丰收漫游者外景](/works/refinement-v2/rendering-pdf/014.webp)
+
+![手腕支撑产品视觉习作](/works/refinement-v2/rendering-pdf/017.webp)
+
+![引渡者地下设施灯光](/works/refinement-v2/rendering-pdf/034.webp)
+
+![机器人地下环境构图](/works/refinement-v2/rendering-pdf/036.webp)
+
+[查看原始渲染长卷存档](/works/documents/rendering-sheet/001.webp)
+
+**跑车动态习作**
+
+<video controls playsinline preload="metadata" src="/works/local/111.mp4" aria-label="跑车场景与动态镜头习作"></video>
+
+## 成果与阶段
+
+成果为静态与动态视觉习作。选集展示图像表达，不将出现的品牌视为委托客户，也不据此声明汽车或自行车产品造型为原创设计。

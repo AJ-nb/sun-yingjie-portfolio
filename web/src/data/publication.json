@@ -1,0 +1,280 @@
+{
+  "edition": "portfolio-v9",
+  "primaryWorkOrder": [
+    "hermes",
+    "arcteryx",
+    "karimoku",
+    "lighting",
+    "plumber",
+    "huhu-care",
+    "plant-companion",
+    "go-glow",
+    "lingmu",
+    "jimu-studio",
+    "biyuan",
+    "rendering-studies",
+    "yelisi",
+    "periastra"
+  ],
+  "selected": [
+    {
+      "slug": "hermes",
+      "pages": 5,
+      "focus": "hermes"
+    },
+    {
+      "slug": "arcteryx",
+      "pages": 4,
+      "focus": "arcteryx"
+    },
+    {
+      "slug": "karimoku",
+      "pages": 4,
+      "focus": "karimoku"
+    },
+    {
+      "slug": "lighting",
+      "pages": 3,
+      "focus": "lighting"
+    },
+    {
+      "slug": "yelisi",
+      "pages": 3,
+      "focus": "yelisi"
+    },
+    {
+      "slug": "periastra",
+      "pages": 3,
+      "focus": "periastra"
+    },
+    {
+      "slug": "biyuan",
+      "pages": 4,
+      "focus": "biyuan"
+    },
+    {
+      "slug": "ai-video-systems",
+      "pages": 3,
+      "focus": "ai-video-systems"
+    }
+  ],
+  "frontMatterPages": 4,
+  "selectedPageCount": 33,
+  "portfolioPdfDeferredSlugs": [],
+  "portfolioPdfSnapshotExemptions": {},
+  "portfolioPdfDeferralReason": "All current public cases are included in the complete bilingual archive.",
+  "excludedSlugs": [
+    "baobab-glow",
+    "water-guardian",
+    "yuju"
+  ],
+  "exclusionReason": "保留私有资料，待署名与个人参与范围核实后再公开。",
+  "editions": {
+    "overview": {
+      "title": "工业与产品设计师 · 精选作品",
+      "maxPages": 40,
+      "cases": [
+        {
+          "slug": "hermes",
+          "pageIds": [
+            "summer",
+            "autumn",
+            "winter",
+            "delivery"
+          ]
+        },
+        {
+          "slug": "arcteryx",
+          "pageIds": [
+            "layers",
+            "coordination",
+            "installation"
+          ]
+        },
+        {
+          "slug": "karimoku",
+          "pageIds": [
+            "foundation",
+            "material",
+            "space"
+          ]
+        },
+        {
+          "slug": "lighting",
+          "pageIds": [
+            "family",
+            "materials"
+          ]
+        },
+        {
+          "slug": "yelisi",
+          "pageIds": [
+            "identity",
+            "product"
+          ]
+        },
+        {
+          "slug": "periastra",
+          "pageIds": [
+            "exploration",
+            "wordmark"
+          ]
+        },
+        {
+          "slug": "biyuan",
+          "pageIds": [
+            "home",
+            "models",
+            "mobile"
+          ]
+        },
+        {
+          "slug": "ai-video-systems",
+          "pageIds": [
+            "control",
+            "evaluation"
+          ]
+        }
+      ],
+      "pageCount": 33
+    },
+    "brand": {
+      "title": "品牌视觉与跨触点交付",
+      "maxPages": 32,
+      "cases": [
+        {
+          "slug": "hermes",
+          "pageIds": [
+            "summer",
+            "autumn",
+            "winter",
+            "delivery"
+          ]
+        },
+        {
+          "slug": "arcteryx",
+          "pageIds": [
+            "layers",
+            "coordination",
+            "installation"
+          ]
+        },
+        {
+          "slug": "periastra",
+          "pageIds": [
+            "exploration",
+            "wordmark"
+          ]
+        },
+        {
+          "slug": "yelisi",
+          "pageIds": [
+            "identity",
+            "product"
+          ]
+        }
+      ],
+      "pageCount": 19
+    },
+    "physical": {
+      "title": "产品形态 CMF与使用体验",
+      "maxPages": 24,
+      "cases": [
+        {
+          "slug": "lighting",
+          "pageIds": [
+            "family",
+            "materials",
+            "space"
+          ]
+        },
+        {
+          "slug": "huhu-care",
+          "pageIds": [
+            "study",
+            "parts",
+            "system"
+          ]
+        },
+        {
+          "slug": "go-glow",
+          "pageIds": [
+            "journey",
+            "modules",
+            "interface"
+          ]
+        },
+        {
+          "slug": "plumber",
+          "pageIds": [
+            "service",
+            "assembly",
+            "workflow"
+          ]
+        }
+      ],
+      "pageCount": 20
+    },
+    "digital": {
+      "title": "数字产品与交互体验",
+      "maxPages": 24,
+      "cases": [
+        {
+          "slug": "biyuan",
+          "pageIds": [
+            "interface",
+            "models"
+          ]
+        },
+        {
+          "slug": "resume-formatter",
+          "pageIds": [
+            "review",
+            "versions",
+            "layout"
+          ]
+        },
+        {
+          "slug": "formline",
+          "pageIds": [
+            "desktop",
+            "mobile"
+          ]
+        },
+        {
+          "slug": "xintiao",
+          "pageIds": [
+            "onboarding",
+            "detail",
+            "settings"
+          ]
+        },
+        {
+          "slug": "lensflow",
+          "pageIds": [
+            "guide",
+            "analysis"
+          ]
+        },
+        {
+          "slug": "ai-video-systems",
+          "pageIds": [
+            "control",
+            "evaluation"
+          ]
+        }
+      ],
+      "pageCount": 24
+    }
+  },
+  "homepageSelection": [
+    "hermes",
+    "arcteryx",
+    "karimoku",
+    "lighting",
+    "yelisi",
+    "periastra",
+    "biyuan",
+    "ai-video-systems"
+  ]
+}

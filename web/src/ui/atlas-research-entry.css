@@ -1,0 +1,34 @@
+.final-career-home .atlas-research-entry {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  gap: 1.5rem;
+  align-items: start;
+  margin: 2.5rem 0 0;
+  padding: 1.25rem 0;
+  border-top: 1px solid rgba(113, 132, 119, .45);
+  border-bottom: 1px solid rgba(113, 132, 119, .28);
+}
+
+.final-career-home .atlas-research-mark {
+  display: grid;
+  gap: .55rem;
+  justify-items: center;
+  color: #4B5F52;
+  font-size: .63rem;
+  letter-spacing: .12em;
+}
+
+.final-career-home .atlas-research-copy { max-width: 54rem; }
+.final-career-home .atlas-research-eyebrow { margin: 0 0 .45rem; font-size: .75rem; letter-spacing: .12em; text-transform: uppercase; color: #4B5F52; }
+.final-career-home .atlas-research-copy h3 { margin: 0; font-size: clamp(1.35rem, 2.6vw, 2.2rem); letter-spacing: -.035em; }
+.final-career-home .atlas-research-copy h3 span { font-size: .58em; font-weight: 400; letter-spacing: -.01em; }
+.final-career-home .atlas-research-copy p { margin: .75rem 0 0; max-width: 48rem; line-height: 1.6; }
+.final-career-home .atlas-research-boundary { color: #5e655f; font-size: .9rem; }
+.final-career-home .atlas-research-link { display: inline-flex; align-items: center; gap: .4rem; color: inherit; white-space: nowrap; font-size: .85rem; text-decoration: none; }
+.final-career-home .atlas-research-link:hover { color: #718477; }
+.final-career-home .atlas-research-link:focus-visible { outline: 2px solid #D2E86C; outline-offset: 4px; }
+
+@media (max-width: 720px) {
+  .final-career-home .atlas-research-entry { grid-template-columns: auto minmax(0, 1fr); gap: 1rem; }
+  .final-career-home .atlas-research-link { grid-column: 2; }
+}

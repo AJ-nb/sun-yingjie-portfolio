@@ -1,0 +1,350 @@
+{
+  "karimoku": {
+    "foundation": {
+      "title": "Brand foundations",
+      "body": "Woodcraft, furniture and everyday life frame this retrospective design study. The material does not establish an official commission.",
+      "captions": [
+        "Karimoku × BENWU | user-supplied retrospective board 01 / 20"
+      ]
+    },
+    "material": {
+      "title": "A material system",
+      "body": "Wood, surface, joints and edges organise the material language. Species, finishes and durability require samples and engineering validation.",
+      "captions": [
+        "Karimoku × BENWU | user-supplied retrospective board 07 / 20"
+      ]
+    },
+    "space": {
+      "title": "Void and layers",
+      "body": "Spacing, layers, movement and light connect objects with their photographic representation. These images are design studies.",
+      "captions": [
+        "Karimoku × BENWU | user-supplied retrospective board 15 / 20"
+      ]
+    }
+  },
+  "hermes": {
+    "summer": {
+      "title": "Summer: props connect the merchandise",
+      "body": "Fishing rods, hands and folding chairs create a viewing path. Compare product position, prop scale and background contrast so the narrative keeps merchandise legible.",
+      "captions": [
+        "Summer window with a fishing rod, folding chair, fish props and a speech bubble",
+        "Summer window with a mannequin, drink-shaped prop, orange slice and COOL speech bubble"
+      ]
+    },
+    "autumn": {
+      "title": "Autumn: familiar frames, unfamiliar scale",
+      "body": "Doors, windows and walls establish spatial references. Oversized animals disrupt those references while framing and suspension separate merchandise from large props.",
+      "captions": [
+        "Autumn window with an oversized pink fish passing through a doorway beside a mannequin",
+        "Autumn window with a yellow snail, an open door and a suspended pink bag"
+      ]
+    },
+    "winter": {
+      "title": "Winter: different rhythms for different windows",
+      "body": "Wide windows connect products across snow planes. Tall windows build a vertical hierarchy around the horse. Each format requires a new composition.",
+      "captions": [
+        "Wide winter window with a large white horse head, snowy planes, a yellow bag and a small pink horse",
+        "Layered white horse contours and suspended accessories against a blue background"
+      ]
+    },
+    "delivery": {
+      "title": "From visual direction to spatial relationships",
+      "body": "My contribution was 3D design and visual presentation within BENWU. The retrospective diagram compares composition and merchandise hierarchy; individual production and store-delivery responsibility is not established.",
+      "captions": [
+        "From visual direction to spatial relationships"
+      ]
+    }
+  },
+  "arcteryx": {
+    "layers": {
+      "title": "Terrain, body and equipment",
+      "body": "A rock face anchors the background, layered contours form the middle ground and a mannequin establishes human scale. Their boundaries and overlap help equipment remain readable.",
+      "captions": [
+        "Arc’teryx Mountain Performance Field | user-supplied retrospective board 01 / 10",
+        "Arc’teryx Alpha Center window with rock forms, layered curves and a mannequin holding poles"
+      ]
+    },
+    "coordination": {
+      "title": "Communicate spatial relationships",
+      "body": "Compare the rock face, curves and equipment as distinct layers. Window format, lighting and product visibility guide the spatial reading.",
+      "captions": [
+        "Return to display scale"
+      ]
+    },
+    "installation": {
+      "title": "The window in its retail context",
+      "body": "Additional installation views connect the window with the interior. Rock, directional lines, mannequins and moss surfaces extend the mountain language around clothing and circulation.",
+      "captions": [
+        "Arc’teryx Alpha Center installation, front window",
+        "Arc’teryx mountain-performance retail interior"
+      ]
+    }
+  },
+  "biyuan": {
+    "home": {
+      "title": "Understand the service, then take action",
+      "body": "The VI/UI connects brand expression with service entry points. The homepage introduces the offer before presenting the main action.",
+      "captions": [
+        "Biyuan desktop homepage"
+      ]
+    },
+    "models": {
+      "title": "Support browsing and deliberate search",
+      "body": "Model lists and name search support two different tasks. Hierarchy helps users identify a model, understand its entry point and continue.",
+      "captions": [
+        "Biyuan model directory",
+        "Filtered model search"
+      ]
+    },
+    "mobile": {
+      "title": "Preserve the main action on mobile",
+      "body": "I designed and iterated the VI/UI. The mobile study rearranges content by priority, checking text, actions and scrolling. This archive does not establish ownership of the deployed service.",
+      "captions": [
+        "Biyuan mobile homepage"
+      ]
+    },
+    "interface": {
+      "title": "One identity across desktop and mobile",
+      "body": "Desktop and mobile views share naming and brand rules. The smaller screen rearranges information around the primary action.",
+      "captions": [
+        "Biyuan desktop homepage",
+        "Biyuan mobile homepage"
+      ]
+    }
+  },
+  "periastra": {
+    "exploration": {
+      "title": "Build the system around recognition",
+      "body": "Compare the photography-equipment context, name recognition and small-scale legibility. The wordmark anchors the visual and information system.",
+      "captions": [
+        "Periastra | user-supplied retrospective board 01 / 15",
+        "Design decisions and system applications (Chinese diagram)"
+      ]
+    },
+    "wordmark": {
+      "title": "Compare the wordmark at different scales",
+      "body": "The PERIASTRA wordmark study, dated 9 June 2026, supports comparison of letterforms, hierarchy and application scale. Commercial adoption is not independently verified.",
+      "captions": [
+        "Periastra wordmark study"
+      ]
+    }
+  },
+  "yelisi": {
+    "identity": {
+      "title": "From historical exploration to a private seal",
+      "body": "The earlier Songnasty exploration and current YELISI mark show a shift in identity language. Seal, folded line and cut-corner forms connect naming, graphics and product context.",
+      "captions": [
+        "Historical Songnasty identity exploration",
+        "Current Yelisi brand identity"
+      ]
+    },
+    "product": {
+      "title": "Connect identity, products and CMF",
+      "body": "Collaborative brand and product-concept work shares a material direction. The archive supports comparison of form and surface; no manufacture or market launch is claimed.",
+      "captions": [
+        "YELISI | user-supplied retrospective board 01 / 20",
+        "Design decisions and system applications (Chinese diagram)"
+      ]
+    }
+  },
+  "lighting": {
+    "family": {
+      "title": "A shared section across different uses",
+      "body": "Table and floor lights share a linear body, luminous strips and distinctive ends. Support, length and direction change around the use scenario.",
+      "captions": [
+        "Silver table lamp with a circular base beside an open book on a blue surface",
+        "Full view of a silver floor lamp against black"
+      ]
+    },
+    "materials": {
+      "title": "Separate material and functional cues",
+      "body": "Metal channels, luminous surfaces and circular controls explain different roles. Renderings support comparison of reflection and proportion; optical performance requires testing.",
+      "captions": [
+        "Detail of a gold light body with longitudinal light strips and a circular control",
+        "Horizontal pendant with parallel light strips, metal channels and end details against a dark background"
+      ]
+    },
+    "space": {
+      "title": "Check the object against the room",
+      "body": "Wall recesses and long tables provide scale references. Scenes help compare length, mounting and visual centre in an actual use context.",
+      "captions": [
+        "Gold vertical wall light within a grey architectural recess",
+        "Horizontal linear pendant above a dining table and chairs"
+      ]
+    }
+  },
+  "huhu-care": {
+    "study": {
+      "title": "Turn a child’s use into form constraints",
+      "body": "Sketches and physical models explore grip, mouthpiece position and approachability. Clinical performance and manufacture remain outside the validated scope.",
+      "captions": [
+        "Sketches, handmade form models and AIGC exploration"
+      ]
+    },
+    "parts": {
+      "title": "Separate contact, grip and charging",
+      "body": "Mouth contact, handheld volume and charging base have different requirements. Their separation makes the relationship between position and action available for review.",
+      "captions": [
+        "Mouthpiece and connection",
+        "Textured grip area"
+      ]
+    },
+    "system": {
+      "title": "Connect the product and its feedback",
+      "body": "The device and base form a use unit. Interface feedback addresses children, carers and clinicians. Models and renderings document the concept stage.",
+      "captions": [
+        "Product and base arrangement",
+        "Proposed breath interaction and feedback sequence"
+      ]
+    }
+  },
+  "go-glow": {
+    "journey": {
+      "title": "From travel preparation to maintenance",
+      "body": "Carrying, changing modules, cleaning and storage create different tasks. The journey gives the product system concrete design criteria.",
+      "captions": [
+        "Packing, use and maintenance journey",
+        "Modular personal-care sketches"
+      ]
+    },
+    "modules": {
+      "title": "Organise the system around use",
+      "body": "The handle, replaceable modules and supporting information respond to carrying, switching, cleaning and storage. The diagram analyses original concept evidence.",
+      "captions": [
+        "Organise the system around use"
+      ]
+    },
+    "interface": {
+      "title": "Connect the object and its instructions",
+      "body": "The companion interface organises care guidance and module recognition. Naming, colour and hierarchy remain consistent across the product and instructions.",
+      "captions": [
+        "Companion-app low- and high-fidelity screens",
+        "GO GLOW product-family render"
+      ]
+    }
+  },
+  "plumber": {
+    "service": {
+      "title": "Define the roles before the equipment",
+      "body": "The service blueprint separates public participation, professional operation and equipment maintenance. Permissions and information flows frame the scanning, transport and return tasks.",
+      "captions": [
+        "Storyboard and service-system blueprint",
+        "Roles and user journey"
+      ]
+    },
+    "assembly": {
+      "title": "Explain the robot through its parts",
+      "body": "Overall and exploded views connect the body, actuators and tail. This concept does not establish sealing, power or pipe-traversal performance.",
+      "captions": [
+        "Robot three-quarter view",
+        "Robot exploded view"
+      ]
+    },
+    "workflow": {
+      "title": "Connect equipment and interface",
+      "body": "The station, device and control interface support parking, execution and monitoring. Their relationship makes it possible to review entry, feedback and recovery.",
+      "captions": [
+        "Underground service-station concept",
+        "Operation, monitoring and points screens"
+      ]
+    }
+  },
+  "resume-formatter": {
+    "review": {
+      "title": "Make automated rewriting reviewable",
+      "body": "Before-and-after differences let the user choose which changes to keep. Confirmation and undo preserve control over the text.",
+      "captions": [
+        "Reviewing an AI rewrite diff in Resume Formatter"
+      ]
+    },
+    "versions": {
+      "title": "Give the master and variants distinct roles",
+      "body": "The master retains stable facts; role-specific versions choose emphasis. Evidence links keep wording close to its supporting record.",
+      "captions": [
+        "Master resume, job version and evidence workspace"
+      ]
+    },
+    "layout": {
+      "title": "Make layout changes visible and reversible",
+      "body": "Templates change presentation rather than silently changing facts. This tool builds on an MIT upstream fork; this portfolio’s independent Word-export pipeline is not a feature claim about that editor.",
+      "captions": [
+        "Resume Formatter template and layout controls"
+      ]
+    }
+  },
+  "formline": {
+    "desktop": {
+      "title": "Keep spatial input and feedback together",
+      "body": "Objects, parameters and views share one editor. Drawing, selection and constraints help users understand the next action.",
+      "captions": [
+        "Formline desktop geometry editor"
+      ]
+    },
+    "mobile": {
+      "title": "Preserve the spatial task on a small screen",
+      "body": "Mobile reallocates attention between tools and canvas. X-Ray exposes internal relationships while retaining an explicit way back.",
+      "captions": [
+        "Formline mobile X-Ray view"
+      ]
+    }
+  },
+  "xintiao": {
+    "onboarding": {
+      "title": "Make the income model understandable",
+      "body": "A clear first-run configuration connects home-screen values to user inputs. Native WeChat developer-tool captures document this interface.",
+      "captions": [
+        "Salary configuration in Xintiao onboarding",
+        "Xintiao native home screen"
+      ]
+    },
+    "detail": {
+      "title": "Let users inspect the number",
+      "body": "The detail view explains a result; the calendar handles days without records. Empty states are part of the workflow.",
+      "captions": [
+        "Xintiao salary details",
+        "Xintiao calendar with no completed records"
+      ]
+    },
+    "settings": {
+      "title": "Let users control appearance and motion",
+      "body": "Themes and motion controls accommodate preferences. The native mini-program reuses PayDance’s AGPL-3.0-only calculation core, credited separately from interface work.",
+      "captions": [
+        "Xintiao appearance and animation settings"
+      ]
+    }
+  },
+  "lensflow": {
+    "guide": {
+      "title": "Establish input context before the task",
+      "body": "Guidance and sample material provide a starting point. Material, task and result share a workspace that supports stepwise progress and recovery.",
+      "captions": [
+        "Lensflow onboarding and demo workspace"
+      ]
+    },
+    "analysis": {
+      "title": "Reuse structured material analysis",
+      "body": "Structured output helps analysis feed later tasks. This public demonstration uses precomputed results and does not claim live model inference.",
+      "captions": [
+        "Lensflow image analysis and structured results"
+      ]
+    }
+  },
+  "ai-video-systems": {
+    "control": {
+      "title": "A controllable creative workflow",
+      "body": "A film-language reference, a new story and two character inputs become a storyboard, Blender blocking, controlled imagery and prompts, then a Seedance 2.5 render. The 11 storyboard units and 20+ characters are my process-log counts.",
+      "captions": [
+        "Workflow map from case observation to a reviewed output",
+        "A Blender blocking frame from the supplied source video used to check camera and cast relations"
+      ]
+    },
+    "evaluation": {
+      "title": "Review relationships, then revise the right layer",
+      "body": "A searchable reference index, six control layers and eight analyses connect product, CMF, space and narrative. The personal 22.08-second film remains a process record; upstream retests are not personal results. Explore Systems / AI video methods on the website.",
+      "captions": [
+        "Six control layers for an AI video workflow",
+        "Review relationships, then revise the right layer"
+      ]
+    }
+  }
+}

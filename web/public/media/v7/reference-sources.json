@@ -1,0 +1,31 @@
+{
+  "edition": "v7.3",
+  "role": "User-selected Mainframe presentation reference for the portfolio homepage; not a personal project achievement.",
+  "sourceUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260530_042513_df96a13b-6155-4f6e-8b93-c9dee66fba08.mp4",
+  "desktop": "/media/v7/hero-follow.mp4",
+  "mobile": null,
+  "interaction": "Automatic fine-pointer following with no playback or mode switch. Pointerless touch devices use the poster. Reduced-motion keeps direct pointer response without smoothing, while nonessential page animation is disabled.",
+  "poster": "/media/v5/hero-poster.webp",
+  "derivativeMethod": "H264 all-intra, CRF22, 1920x1086 with source display aspect ratio, 24fps, 97 frames, unchanged footage/timing, faststart; fetched as a local Blob for seeking on static hosting",
+  "files": [
+    {
+      "name": "hero-original.mp4",
+      "bytes": 4588424,
+      "sha256": "a8a035f82baaf5e07d90e451f8cee4416c68d03781dba6dc8143e4b41974c25b"
+    },
+    {
+      "name": "hero-poster.webp",
+      "bytes": 164242,
+      "sha256": "3a4bfcee354e2e35ff4ff0182c5d5e34bfa24273cac38ae91ba9d4ba74978948"
+    },
+    {
+      "name": "hero-follow.mp4",
+      "bytes": 4643421,
+      "sha256": "2ad9fdc55eb2de942869405f3ed1bd38a3786f203bd9071c449908deece8cfcd"
+    }
+  ],
+  "fontStylesheets": [
+    "https://db.onlinewebfonts.com/c/5ac3fe7c6abd2f62067f266d89671492?family=HelveticaNowDisplay-Medium",
+    "https://db.onlinewebfonts.com/c/1aa3377e489837a26d019bba501e779d?family=HelveticaNowDisplayW01-Rg"
+  ]
+}

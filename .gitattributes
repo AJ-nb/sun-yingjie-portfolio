@@ -1,0 +1,11 @@
+* text=auto
+*.pdf binary
+*.docx binary
+*.webp binary
+*.png binary
+*.mp4 binary
+web/public/licenses/** -text
+web/src/content/works/*.md -text
+web/src/data/*.json -text
+scripts/*.py -text
+scripts/resume/*.py -text

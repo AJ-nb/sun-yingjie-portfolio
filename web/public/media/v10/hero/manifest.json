@@ -1,0 +1,10 @@
+{
+  "source": "/media/v7/hero-follow.mp4",
+  "fps": 24,
+  "first": 18,
+  "center": 32,
+  "last": 72,
+  "width": 800,
+  "height": 722,
+  "method": "Original video frames with per-frame GrabCut alpha; no generated imagery"
+}

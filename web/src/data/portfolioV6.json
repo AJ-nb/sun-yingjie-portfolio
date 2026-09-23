@@ -1,0 +1,296 @@
+{
+  "edition": "v7",
+  "asOf": "2026.09",
+  "representatives": [
+    {
+      "id": "brand-design",
+      "period": "2025—2026",
+      "title": {
+        "zh": "品牌设计／从方向到触点",
+        "en": "Brand design / Direction to touchpoints"
+      },
+      "statement": {
+        "zh": "Hermès、Arc’teryx、Periastra 与夜礼司：以方向、识别和应用规则组织品牌体验，记录团队协作与公开交付边界。",
+        "en": "Hermès, Arc’teryx, Periastra and Yelisi: connect direction, identity and application rules while recording team collaboration and public delivery boundaries."
+      },
+      "role": {
+        "zh": "方向研究／VI/UI 协作／视觉呈现",
+        "en": "Direction studies / VI/UI collaboration / Visual presentation"
+      },
+      "slugs": [
+        "hermes",
+        "arcteryx",
+        "periastra",
+        "yelisi"
+      ],
+      "cover": "/thumbnails/hermes.webp"
+    },
+    {
+      "id": "product-design",
+      "period": "2021—2026",
+      "title": {
+        "zh": "产品设计／实体与数字体验",
+        "en": "Product design / Physical & digital experiences"
+      },
+      "statement": {
+        "zh": "从灯具、个护与服务产品，到彼源 AI 和数字工具；以场景、形态、信息结构与操作流程组织完整产品体验。",
+        "en": "From lighting, personal-care and service concepts to Biyuan AI and digital tools, connect scenarios, form, information structure and interaction."
+      },
+      "role": {
+        "zh": "产品方向／形态与 CMF／VI/UI 与交互协作",
+        "en": "Product direction / Form & CMF / VI/UI & interaction collaboration"
+      },
+      "slugs": [
+        "biyuan",
+        "lighting",
+        "huhu-care",
+        "go-glow",
+        "resume-formatter"
+      ],
+      "cover": "/thumbnails/biyuan.webp"
+    }
+  ],
+  "careerChapters": [
+    {
+      "id": "liling",
+      "timelineId": "liling",
+      "period": "2026.02—至今",
+      "title": {
+        "zh": "杭州理灵／品牌、产品与项目统筹",
+        "en": "Hangzhou Liling / Brand, product & project coordination"
+      },
+      "role": {
+        "zh": "品牌设计与项目统筹",
+        "en": "Brand design & project coordination"
+      },
+      "summary": {
+        "zh": "负责彼源 AI 整体 VI/UI 设计与迭代；参与 Periastra 品牌图形与应用研究及夜礼司品牌视觉与产品概念共同创作。页面归属、上线责任、团队规模与商业结果按证据边界说明。",
+        "en": "Responsible for Biyuan AI’s overall VI/UI design and iteration; contributed collaboratively to Periastra brand-graphic and application research and Yelisi brand-visual and product-concept work. Page attribution, launch responsibility, team size and commercial outcomes remain bounded by the available evidence."
+      },
+      "slugs": [
+        "biyuan",
+        "periastra",
+        "yelisi"
+      ]
+    },
+    {
+      "id": "benwu",
+      "timelineId": "benwu",
+      "period": "2025.03—2025.12",
+      "title": {
+        "zh": "BENWU／商业展示与三维视觉",
+        "en": "BENWU / Commercial display & 3D visual work"
+      },
+      "role": {
+        "zh": "三维设计师",
+        "en": "3D designer"
+      },
+      "summary": {
+        "zh": "在 Hermès 与 Arc’teryx 橱窗项目中参与三维设计与视觉呈现；团队规模、个人统筹、法国沟通、工厂生产和门店展示边界待核验。参与铝型材灯具设计与三维表达。",
+        "en": "Contributed to 3D design and visual presentation on Hermès and Arc’teryx windows; team size, individual leadership, France communication, factory production and store-display boundaries remain unverified. Also contributed to aluminum lighting design and visualization."
+      },
+      "slugs": [
+        "hermes",
+        "arcteryx",
+        "lighting"
+      ]
+    },
+    {
+      "id": "hannstar",
+      "timelineId": "hannstar",
+      "period": "2025.08—2026.01",
+      "title": {
+        "zh": "瀚宇博德／制造与设计系统",
+        "en": "HannStar Board / Manufacturing & design systems"
+      },
+      "role": {
+        "zh": "设计系统工程设计师",
+        "en": "Design systems engineering designer"
+      },
+      "summary": {
+        "zh": "在 PCB 制造环境中接触标准化、工程约束、质量要求与跨部门协同。公开档案不包含客户板件、Gerber、内部 SOP 或工艺参数。",
+        "en": "Worked within a PCB manufacturing environment shaped by standardization, engineering constraints, quality requirements and cross-functional coordination. The public record excludes customer boards, Gerber files, internal SOPs and process parameters."
+      },
+      "slugs": []
+    },
+    {
+      "id": "ouyin",
+      "timelineId": "ouyin",
+      "period": "2023.12—2025.02",
+      "title": {
+        "zh": "湖南欧音文化传媒／用户与交互支持",
+        "en": "Hunan Ouyin Culture & Media / User & interaction support"
+      },
+      "role": {
+        "zh": "设计师助理",
+        "en": "Design assistant"
+      },
+      "summary": {
+        "zh": "参与市场调研、用户反馈整理和交互原型设计，协助团队把需求转化为可讨论、可迭代的体验方案。",
+        "en": "Contributed to market research, user feedback synthesis and interaction prototypes, helping the team turn requirements into tangible proposals."
+      },
+      "slugs": []
+    },
+    {
+      "id": "ai-open-source",
+      "timelineId": "ai",
+      "period": "2026.08—持续",
+      "title": {
+        "zh": "AI 与开源／把判断写进工具",
+        "en": "AI and open source / Put judgment into tools"
+      },
+      "role": {
+        "zh": "独立实践与开源二次开发",
+        "en": "Independent practice and open-source derivative work"
+      },
+      "summary": {
+        "zh": "从输入、证据、差异审核到恢复机制，把设计判断变成可操作流程，并清楚说明继承与新增的边界。",
+        "en": "Turned design judgment into operable flows from input and evidence to diff review and recovery, while stating inherited and added work clearly."
+      },
+      "slugs": [
+        "resume-formatter",
+        "xintiao",
+        "lensflow"
+      ]
+    },
+    {
+      "id": "academic-modeling",
+      "timelineId": "education",
+      "period": "2021.09—2025.06",
+      "title": {
+        "zh": "产品设计／使用、形态与 CMF",
+        "en": "Product design / Use, form & CMF"
+      },
+      "role": {
+        "zh": "产品设计本科与合作概念项目",
+        "en": "Product-design education and collaborative concept projects"
+      },
+      "summary": {
+        "zh": "从角色与任务出发，用草图、部件、形态模型及 CMF 说明选择，连接实体产品、服务关系与界面。",
+        "en": "Start with people and tasks, using sketches, components, form models and CMF to explain decisions across products, service relationships and interfaces."
+      },
+      "slugs": [
+        "huhu-care",
+        "go-glow",
+        "plumber",
+        "rendering-studies"
+      ]
+    }
+  ],
+  "openSource": [
+    {
+      "slug": "resume-formatter",
+      "upstream": "gracexygu/resume-formatter",
+      "upstreamUrl": "https://github.com/gracexygu/resume-formatter",
+      "license": "MIT",
+      "retained": {
+        "zh": "保留上游简历解析、编辑与排版工作台的基础。",
+        "en": "Retains the upstream résumé parsing, editing and layout workspace foundation."
+      },
+      "contribution": {
+        "zh": "扩展岗位版与主版本对照、证据片段、局部改写、差异审核、拒绝与撤销路径。",
+        "en": "Extends job/master version comparison, evidence excerpts, local rewrites, diff review, reject and undo paths."
+      },
+      "result": {
+        "zh": "形成可操作的本地工作台与对应案例记录，并以行为测试验证恢复与审核状态。",
+        "en": "Produced an operable local workspace and case record, with behavior tests covering recovery and review states."
+      },
+      "boundary": {
+        "zh": "基于 MIT 上游的个人二次开发，不代表上游官方产品。",
+        "en": "An individual MIT-licensed derivative; not an official upstream product."
+      }
+    },
+    {
+      "slug": "xintiao",
+      "upstream": "MrBaoboer/PayDance",
+      "upstreamUrl": "https://github.com/MrBaoboer/PayDance",
+      "license": "AGPL-3.0-only",
+      "retained": {
+        "zh": "复用上游工资模拟的核心计算与开源许可边界。",
+        "en": "Reuses the upstream salary-simulation core and its open-source license boundary."
+      },
+      "contribution": {
+        "zh": "独立组织小程序端的入门、首页、主题、日历与详情体验，并整理原生运行记录。",
+        "en": "Independently organizes mini-program onboarding, home, themes, calendar and detail experiences, with native run records."
+      },
+      "result": {
+        "zh": "形成可运行的独立小程序实践与页面证据，用于说明移动端交互和主题系统能力。",
+        "en": "Produced an independent runnable mini-program practice and page evidence for mobile interaction and theming capability."
+      },
+      "boundary": {
+        "zh": "遵循 AGPL-3.0-only；不是 PayDance 上游的官方小程序版本。",
+        "en": "Follows AGPL-3.0-only and is not an official PayDance mini-program release."
+      }
+    }
+  ],
+  "capabilityEvidence": [
+    {
+      "id": "brand-systems",
+      "title": {
+        "zh": "品牌识别与 VI/UI 系统",
+        "en": "Identity & VI/UI Systems"
+      },
+      "summary": {
+        "zh": "从定位、标志规则到界面层级和跨载体应用。",
+        "en": "From positioning and identity rules to interface hierarchy and applications."
+      },
+      "slugs": [
+        "hermes",
+        "arcteryx",
+        "periastra",
+        "yelisi"
+      ]
+    },
+    {
+      "id": "space-product",
+      "title": {
+        "zh": "方向、团队协作与交付边界",
+        "en": "Direction, team collaboration & delivery boundaries"
+      },
+      "summary": {
+        "zh": "分析整体设计稿、团队评审、制作语境与展示关系；个人生产和现场责任按证据边界说明。",
+        "en": "Analyze design proposals, team review, production context and display relationships; individual production and site responsibility remain evidence-bounded."
+      },
+      "slugs": [
+        "hermes",
+        "arcteryx",
+        "yelisi"
+      ]
+    },
+    {
+      "id": "model-render",
+      "title": {
+        "zh": "产品形态、CMF 与三维",
+        "en": "Product Form, CMF & 3D"
+      },
+      "summary": {
+        "zh": "用场景、比例、部件与模型解释产品设计选择。",
+        "en": "Explain product decisions through scenarios, proportion, components and models."
+      },
+      "slugs": [
+        "lighting",
+        "huhu-care",
+        "go-glow",
+        "plumber"
+      ]
+    },
+    {
+      "id": "ai-open-source",
+      "title": {
+        "zh": "交互流程与数字实现",
+        "en": "Interaction Flows & Digital Delivery"
+      },
+      "summary": {
+        "zh": "把 VI/UI、编辑、确认、差异与恢复连接为可操作的产品。",
+        "en": "Connect VI/UI, editing, confirmation, differences and recovery into usable products."
+      },
+      "slugs": [
+        "biyuan",
+        "resume-formatter",
+        "xintiao",
+        "lensflow",
+        "formline"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 680" role="img" aria-labelledby="title desc">
+  <title id="title">AI video workflow map</title><desc id="desc">An authored workflow moving from case observation to a reusable evaluated output.</desc>
+  <rect width="1600" height="680" fill="#121212"/>
+  <g fill="#f3f2ee" font-family="Arial, Noto Sans SC, sans-serif"><text x="82" y="94" font-size="26" letter-spacing="5" fill="#c84936">AI VIDEO SYSTEMS / METHOD TRANSFER</text><text x="82" y="155" font-size="56" letter-spacing="-2">CASE → SYSTEM → OUTPUT</text></g>
+  <g stroke="#76736d" stroke-width="2" fill="none"><path d="M148 360H1450"/><path d="M148 360l22-14m-22 14 22 14M1450 360l-22-14m22 14-22 14"/></g>
+  <g font-family="Arial, Noto Sans SC, sans-serif" font-size="21" letter-spacing="1.8"><g fill="#f3f2ee"><text x="92" y="325">CASE</text><text x="245" y="325">OBSERVE</text><text x="443" y="325">DECOMPOSE</text><text x="684" y="325">COMPARE</text><text x="896" y="325">EVALUATE</text><text x="1125" y="325">ABSTRACT</text><text x="1340" y="325">TEMPLATE</text></g><g fill="#a9a69e" font-size="15" letter-spacing=".6"><text x="92" y="412">public examples</text><text x="245" y="412">camera / time</text><text x="443" y="412">variables</text><text x="684" y="412">alternatives</text><text x="896" y="412">failure modes</text><text x="1125" y="412">transferable rules</text><text x="1340" y="412">reusable brief</text></g></g>
+  <g transform="translate(82 530)" font-family="Arial, Noto Sans SC, sans-serif"><rect width="1436" height="2" fill="#c84936"/><text y="65" fill="#f3f2ee" font-size="27">PROMPT → TEMPLATE → SKILL → WORKFLOW → REVIEWED OUTPUT</text><text x="1070" y="65" fill="#a9a69e" font-size="17">AUTHOR-DIRECTED</text></g>
+</svg>

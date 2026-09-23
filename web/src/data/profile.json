@@ -1,0 +1,330 @@
+{
+  "name": {
+    "zh": "孙英杰",
+    "en": "Yingjie Sun"
+  },
+  "position": {
+    "zh": "工业与产品设计师",
+    "en": "Industrial & Product Designer"
+  },
+  "phone": "13515249897",
+  "email": "2950884508@qq.com",
+  "url": "https://aj-nb.github.io/sun-yingjie-portfolio",
+  "summary": {
+    "zh": "我设计实体产品、视觉系统与 AI 工作流，连接形态、CMF、三维与品牌。以使用情境和材料为起点，通过模型、原型与方案比较推进设计。",
+    "en": "I design physical products, visual systems and AI-native workflows, connecting form, CMF, 3D and brand. I start with use and materials, then develop ideas through models, prototypes and comparison."
+  },
+  "timeline": [
+    {
+      "id": "education",
+      "point": "focus-1",
+      "start": "2021-09",
+      "end": "2025-06",
+      "period": {
+        "zh": "2021.09 — 2025.06",
+        "en": "2021.09 — 2025.06"
+      },
+      "place": {
+        "zh": "常州工学院",
+        "en": "Changzhou Institute of Technology"
+      },
+      "role": {
+        "zh": "产品设计 · 本科",
+        "en": "Bachelor's degree in Product Design"
+      },
+      "description": {
+        "zh": "从用户研究、材料工艺与人机关系出发，建立产品造型、结构表达和设计验证的方法。",
+        "en": "A foundation in user research, materials and ergonomics, extending into product form, structural communication and design evaluation."
+      }
+    },
+    {
+      "id": "ouyin",
+      "point": "focus-2",
+      "start": "2023-12",
+      "end": "2025-02",
+      "period": {
+        "zh": "2023.12 — 2025.02",
+        "en": "2023.12 — 2025.02"
+      },
+      "place": {
+        "zh": "湖南欧音文化传媒有限公司",
+        "en": "Hunan Ouyin Culture & Media"
+      },
+      "role": {
+        "zh": "设计师助理",
+        "en": "Design assistant"
+      },
+      "description": {
+        "zh": "整理市场调研与用户反馈，制作 Figma 交互原型，支持需求比较与体验迭代。",
+        "en": "Organised market research and user feedback; built Figma prototypes to support design comparisons and iteration."
+      }
+    },
+    {
+      "id": "benwu",
+      "point": "focus-3",
+      "start": "2025-03",
+      "end": "2025-12",
+      "period": {
+        "zh": "2025.03 — 2025.12",
+        "en": "2025.03 — 2025.12"
+      },
+      "place": {
+        "zh": "BENWU",
+        "en": "BENWU"
+      },
+      "role": {
+        "zh": "3D 设计师",
+        "en": "3D designer"
+      },
+      "description": {
+        "zh": "参与 Hermès、Arc’teryx 橱窗项目的三维设计和视觉呈现。 参与铝型材灯具的三维表达与材料比较；整理 Karimoku × BENWU 设计研究。",
+        "en": "Contributed 3D design and visual presentation to Hermès and Arc’teryx window projects. Developed lighting visualisations and material comparisons; organised the Karimoku × BENWU design study."
+      }
+    },
+    {
+      "id": "hannstar",
+      "point": "focus-5",
+      "start": "2025-08",
+      "end": "2026-01",
+      "period": {
+        "zh": "2025.08 — 2026.01",
+        "en": "2025.08 — 2026.01"
+      },
+      "place": {
+        "zh": "瀚宇博德",
+        "en": "HannStar Board"
+      },
+      "role": {
+        "zh": "设计系统工程设计师",
+        "en": "Design systems engineering designer"
+      },
+      "description": {
+        "zh": "在 PCB 制造环境中从事设计系统工程工作，关注标准化、工程约束、质量与跨部门协作。",
+        "en": "Worked on design-systems engineering in PCB manufacturing, within standardisation, engineering and quality constraints."
+      }
+    },
+    {
+      "id": "liling",
+      "point": "focus-4",
+      "start": "2026-02",
+      "end": null,
+      "period": {
+        "zh": "2026.02 — 至今（档案截至 2026.09）",
+        "en": "2026.02 — Present (record as of 2026.09)"
+      },
+      "place": {
+        "zh": "杭州理灵企业服务有限公司",
+        "en": "Hangzhou Liling Enterprise Services"
+      },
+      "role": {
+        "zh": "品牌设计与项目统筹",
+        "en": "Brand design & project coordination"
+      },
+      "description": {
+        "zh": "负责彼源 AI 的 VI/UI 设计与迭代。 与团队推进 Periastra 品牌识别与信息系统、夜礼司品牌视觉、产品概念与 CMF 研究。",
+        "en": "Design and iterate Biyuan AI’s visual identity and UI. Collaborate on Periastra identity and information systems, and YELISI brand, product concepts and CMF studies."
+      }
+    },
+    {
+      "id": "ai",
+      "point": "focus-5",
+      "start": "2026-08",
+      "end": null,
+      "period": {
+        "zh": "2026 — 持续实践",
+        "en": "2026 — Ongoing"
+      },
+      "place": {
+        "zh": "AI 与数字产品实践",
+        "en": "AI & digital product practice"
+      },
+      "role": {
+        "zh": "需求、交互与实现",
+        "en": "Research, interaction & implementation"
+      },
+      "description": {
+        "zh": "这是与任职经历并行记录的独立实践，结合 Codex、ComfyUI、ChatGPT 与 Midjourney，组织参考分析、提示词与节点工作流、图像修整和方案比较；由人负责问题定义、设计判断与最终批准，通过镜序、Resume Formatter、构线与薪跳推进开源整合、原型实现及流程复用。",
+        "en": "This is an independent practice recorded alongside employment. I use Codex, ComfyUI, ChatGPT and Midjourney for reference analysis, prompt and node workflows, image refinement and concept comparison. Human judgment remains responsible for framing, selection and approval while Lensflow, Resume Formatter, Formline and Xintiao support open-source integration and reusable prototypes."
+      }
+    }
+  ],
+  "headline": {
+    "zh": "工业与产品设计 · 3D · CMF · 品牌",
+    "en": "Industrial & Product Design · 3D · CMF · Brand"
+  },
+  "resume": {
+    "summary": "我设计实体产品、视觉系统与 AI 工作流，连接形态、CMF、三维与品牌。以使用情境和材料为起点，通过模型、原型与方案比较推进设计。",
+    "experience": {
+      "liling": [
+        "负责彼源 AI 的 VI/UI 设计与迭代。",
+        "与团队推进 Periastra 品牌识别与信息系统、夜礼司品牌视觉、产品概念与 CMF 研究。"
+      ],
+      "benwu": [
+        "参与 Hermès、Arc’teryx 橱窗项目的三维设计和视觉呈现。",
+        "参与铝型材灯具的三维表达与材料比较；整理 Karimoku × BENWU 设计研究。"
+      ],
+      "hannstar": [
+        "在 PCB 制造环境中从事设计系统工程工作，关注标准化、工程约束、质量与跨部门协作。"
+      ],
+      "ouyin": [
+        "整理市场调研与用户反馈，制作 Figma 交互原型，支持需求比较与体验迭代。"
+      ]
+    },
+    "capabilities": [
+      "品牌系统：定位与识别、VI/UI、Adobe Photoshop 图像处理、Illustrator 矢量设计、应用延展与版本管理",
+      "产品设计：使用场景、形态方案、CMF、部件关系、模型与界面",
+      "项目协作：方向设计、团队推进、跨方方案沟通、生产与展示语境分析",
+      "数字体验：任务流程、原型与状态设计、开源整合、改写审阅与恢复",
+      "专业工具：Adobe Photoshop、Illustrator、Figma、Rhino、SolidWorks、KeyShot、Cinema 4D、Blender、React / TypeScript",
+      "AIGC 与设计自动化：Codex、ComfyUI、ChatGPT、Midjourney；参考分析、提示词与节点工作流、图像修整、输出比较、人工审阅与开源整合",
+      "AI 视频工作流研究：将故事、分镜、Blender 白模、提示词与渲染评估组织为可复核流程；成片和过程边界按作者记录说明",
+      "国际市场研究：跨市场竞品、消费者、趋势、文化与设计语言分析，将研究结论转化为品牌、产品和体验设计方向"
+    ],
+    "variants": [
+      {
+        "id": "general",
+        "title": {
+          "zh": "工业与产品设计师",
+          "en": "Industrial & Product Designer"
+        },
+        "summary": {
+          "zh": "连接产品形态、CMF、三维与品牌，以模型和原型支持设计判断。",
+          "en": "I connect product form, CMF, 3D and brand, using models and prototypes to make design choices concrete."
+        },
+        "caseSlugs": [
+          "hermes",
+          "arcteryx",
+          "yelisi",
+          "biyuan",
+          "lighting",
+          "resume-formatter"
+        ],
+        "capabilityIds": [
+          "brand-systems",
+          "product-system",
+          "review-delivery",
+          "interaction"
+        ]
+      },
+      {
+        "id": "brand",
+        "title": {
+          "zh": "工业与产品设计师 · 品牌视觉方向",
+          "en": "Industrial & Product Designer | Visual Systems"
+        },
+        "summary": {
+          "zh": "以产品设计方法连接品牌识别、空间视觉与数字触点，关注一致性与应用条件。",
+          "en": "I connect identity, spatial visuals and digital touchpoints through a product-design approach."
+        },
+        "caseSlugs": [
+          "hermes",
+          "arcteryx",
+          "periastra",
+          "yelisi"
+        ],
+        "capabilityIds": [
+          "brand-systems",
+          "spatial-visualization",
+          "review-delivery"
+        ]
+      },
+      {
+        "id": "product",
+        "title": {
+          "zh": "工业与产品设计师 · 实体产品方向",
+          "en": "Industrial & Product Designer | Physical Products"
+        },
+        "summary": {
+          "zh": "从使用动作与材料出发，比较产品形态、CMF 与部件关系，以三维表达支持方案评审。",
+          "en": "I explore product form, CMF and component relationships around use, making proposals tangible through 3D."
+        },
+        "caseSlugs": [
+          "lighting",
+          "huhu-care",
+          "go-glow",
+          "plumber",
+          "biyuan"
+        ],
+        "capabilityIds": [
+          "product-system",
+          "spatial-visualization",
+          "review-delivery"
+        ]
+      },
+      {
+        "id": "digital",
+        "title": {
+          "zh": "工业与产品设计师 · 数字体验方向",
+          "en": "Industrial & Product Designer | Digital Experience"
+        },
+        "summary": {
+          "zh": "将复杂任务转为清楚的输入、操作与反馈，结合界面设计、原型与开源整合完善体验。",
+          "en": "I turn complex tasks into clear inputs, actions and feedback through interface design, prototypes and open-source integration."
+        },
+        "caseSlugs": [
+          "biyuan",
+          "resume-formatter",
+          "formline",
+          "xintiao",
+          "lensflow"
+        ],
+        "capabilityIds": [
+          "interaction",
+          "ai-workflows",
+          "brand-systems",
+          "review-delivery"
+        ]
+      }
+    ],
+    "experienceLocalized": {
+      "zh": {
+        "liling": [
+          "负责彼源 AI 的 VI/UI 设计与迭代。",
+          "与团队推进 Periastra 品牌识别与信息系统、夜礼司品牌视觉、产品概念与 CMF 研究。"
+        ],
+        "benwu": [
+          "参与 Hermès、Arc’teryx 橱窗项目的三维设计和视觉呈现。",
+          "参与铝型材灯具的三维表达与材料比较；整理 Karimoku × BENWU 设计研究。"
+        ],
+        "hannstar": [
+          "在 PCB 制造环境中从事设计系统工程工作，关注标准化、工程约束、质量与跨部门协作。"
+        ],
+        "ouyin": [
+          "整理市场调研与用户反馈，制作 Figma 交互原型，支持需求比较与体验迭代。"
+        ]
+      },
+      "en": {
+        "liling": [
+          "Design and iterate Biyuan AI’s visual identity and UI.",
+          "Collaborate on Periastra identity and information systems, and YELISI brand, product concepts and CMF studies."
+        ],
+        "benwu": [
+          "Contributed 3D design and visual presentation to Hermès and Arc’teryx window projects.",
+          "Developed lighting visualisations and material comparisons; organised the Karimoku × BENWU design study."
+        ],
+        "hannstar": [
+          "Worked on design-systems engineering in PCB manufacturing, within standardisation, engineering and quality constraints."
+        ],
+        "ouyin": [
+          "Organised market research and user feedback; built Figma prototypes to support design comparisons and iteration."
+        ]
+      }
+    },
+    "practice": {
+      "zh": "独立 AI 视频研究：建立参考索引与八项解析，归纳六层控制，连接分镜、Blender 白模与渲染审阅。AI 辅助生成，人负责判断；未声称商业部署或上游成果。",
+      "en": "Independent AI-video research: a reference index, six control layers and eight analyses linked to storyboard, Blender blocking and render review. Human-led judgment; no commercial or upstream results claimed."
+    }
+  },
+  "about": {
+    "zh": [
+      "我关注物件如何被使用，也关注它如何进入更大的视觉和空间系统。形态、比例、材料与触感必须回应具体情境。",
+      "在产品、商业空间与品牌之间工作，让我习惯同时比较局部细节和整体关系：一个截面如何形成系列，一套识别如何进入产品，一种空间语言如何服务商品。",
+      "我把 AI 当作研究和制作流程的一部分：整理参考、生成变体、辅助实现，再由人判断和核验。设计的价值最终体现在选择与取舍中。"
+    ],
+    "en": [
+      "I care about how an object is used and how it belongs to a larger visual or spatial system. Form, proportion, materials and touch need to respond to a particular context.",
+      "Working across products, commercial spaces and brands has taught me to compare details with the whole: how a section becomes a family, an identity reaches a product, or a spatial language supports merchandise.",
+      "I use AI within research and production: organising references, exploring variants and supporting implementation, then reviewing the results. The value of design lies in the choices we make."
+    ]
+  }
+}

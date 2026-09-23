@@ -1,0 +1,618 @@
+{
+  "edition": "resume-v9-bilingual",
+  "confirmedInputs": {
+    "source": "User request in this task on 2026-09-17",
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Codex",
+      "ComfyUI"
+    ],
+    "scope": "Application and workflow use. No proficiency level, certification, measured gain or compatibility guarantee is asserted."
+  },
+  "variants": {
+    "overview": {
+      "summary": "连接产品形态、CMF、三维与品牌，以模型和原型支持设计判断。",
+      "strengths": [
+        {
+          "label": "实体产品",
+          "body": "从使用情境比较形态、材料与部件关系。",
+          "evidence": [
+            "liling",
+            "yelisi",
+            "periastra"
+          ]
+        },
+        {
+          "label": "视觉系统",
+          "body": "连接品牌识别、产品与商业空间的表达。",
+          "evidence": [
+            "hermes",
+            "arcteryx",
+            "lighting",
+            "ouyin"
+          ]
+        },
+        {
+          "label": "设计协作",
+          "body": "以三维、界面和版本比较支持团队讨论。",
+          "evidence": [
+            "benwu",
+            "hermes",
+            "arcteryx"
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "label": "产品与三维",
+          "body": "Rhino、SolidWorks、KeyShot、Cinema 4D、Blender"
+        },
+        {
+          "label": "视觉与界面",
+          "body": "Photoshop、Illustrator、Figma；React / TypeScript"
+        },
+        {
+          "label": "AI 与研究",
+          "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析"
+        }
+      ],
+      "workflow": "独立 AI 视频研究：建立参考索引与八项解析，归纳六层控制，连接分镜、Blender 白模与渲染审阅。AI 辅助生成，人负责判断；未声称商业部署或上游成果。",
+      "workflowEvidence": [
+        "ai-video-systems"
+      ],
+      "localized": {
+        "zh": {
+          "summary": "连接产品形态、CMF、三维与品牌，以模型和原型支持设计判断。",
+          "strengths": [
+            {
+              "label": "实体产品",
+              "body": "从使用情境比较形态、材料与部件关系。",
+              "evidence": [
+                "liling",
+                "yelisi",
+                "periastra"
+              ]
+            },
+            {
+              "label": "视觉系统",
+              "body": "连接品牌识别、产品与商业空间的表达。",
+              "evidence": [
+                "hermes",
+                "arcteryx",
+                "lighting",
+                "ouyin"
+              ]
+            },
+            {
+              "label": "设计协作",
+              "body": "以三维、界面和版本比较支持团队讨论。",
+              "evidence": [
+                "benwu",
+                "hermes",
+                "arcteryx"
+              ]
+            }
+          ],
+          "tools": [
+            {
+              "label": "产品与三维",
+              "body": "Rhino、SolidWorks、KeyShot、Cinema 4D、Blender"
+            },
+            {
+              "label": "视觉与界面",
+              "body": "Photoshop、Illustrator、Figma；React / TypeScript"
+            },
+            {
+              "label": "AI 与研究",
+              "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析"
+            }
+          ],
+          "workflow": "独立 AI 视频研究：建立参考索引与八项解析，归纳六层控制，连接分镜、Blender 白模与渲染审阅。AI 辅助生成，人负责判断；未声称商业部署或上游成果。",
+          "workflowEvidence": [
+            "ai-video-systems"
+          ]
+        },
+        "en": {
+          "summary": "I connect product form, CMF, 3D and brand, using models and prototypes to make design choices concrete.",
+          "strengths": [
+            {
+              "label": "Physical products",
+              "body": "Compare form, materials and component relationships around use.",
+              "evidence": [
+                "liling",
+                "yelisi",
+                "periastra"
+              ]
+            },
+            {
+              "label": "Visual systems",
+              "body": "Connect identity, products and commercial spaces.",
+              "evidence": [
+                "hermes",
+                "arcteryx",
+                "lighting",
+                "ouyin"
+              ]
+            },
+            {
+              "label": "Collaboration",
+              "body": "Use 3D, interfaces and version comparisons to support team decisions.",
+              "evidence": [
+                "benwu",
+                "hermes",
+                "arcteryx"
+              ]
+            }
+          ],
+          "tools": [
+            {
+              "label": "Product and 3D",
+              "body": "Rhino, SolidWorks, KeyShot, Cinema 4D, Blender"
+            },
+            {
+              "label": "Visual and digital",
+              "body": "Photoshop, Illustrator, Figma; React / TypeScript"
+            },
+            {
+              "label": "AI and research",
+              "body": "Codex, ChatGPT, ComfyUI, Midjourney; market and cultural context"
+            }
+          ],
+          "workflow": "Independent AI-video research: a reference index, six control layers and eight analyses linked to storyboard, Blender blocking and render review. Human-led judgment; no commercial or upstream results claimed.",
+          "workflowEvidence": [
+            "ai-video-systems"
+          ]
+        }
+      }
+    },
+    "brand": {
+      "summary": "以产品设计方法连接品牌识别、空间视觉与数字触点，关注一致性与应用条件。",
+      "strengths": [
+        {
+          "label": "品牌识别",
+          "body": "比较字标、色彩与信息层级，形成可延展的规则。",
+          "evidence": [
+            "periastra",
+            "yelisi",
+            "biyuan"
+          ]
+        },
+        {
+          "label": "空间表达",
+          "body": "以三维和材质光线呈现商品、道具与环境关系。",
+          "evidence": [
+            "hermes",
+            "arcteryx"
+          ]
+        },
+        {
+          "label": "跨触点一致性",
+          "body": "围绕 Periastra、夜礼司与彼源 AI 研究不同载体。",
+          "evidence": [
+            "benwu",
+            "periastra"
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "label": "产品与三维",
+          "body": "Rhino、SolidWorks、KeyShot、Cinema 4D、Blender"
+        },
+        {
+          "label": "视觉与界面",
+          "body": "Photoshop、Illustrator、Figma；React / TypeScript"
+        },
+        {
+          "label": "AI 与研究",
+          "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析"
+        }
+      ],
+      "workflow": "独立 AI 视频研究：建立参考索引与八项解析，归纳六层控制，连接分镜、Blender 白模与渲染审阅。AI 辅助生成，人负责判断；未声称商业部署或上游成果。",
+      "workflowEvidence": [
+        "ai-video-systems"
+      ],
+      "localized": {
+        "zh": {
+          "summary": "以产品设计方法连接品牌识别、空间视觉与数字触点，关注一致性与应用条件。",
+          "strengths": [
+            {
+              "label": "品牌识别",
+              "body": "比较字标、色彩与信息层级，形成可延展的规则。",
+              "evidence": [
+                "periastra",
+                "yelisi",
+                "biyuan"
+              ]
+            },
+            {
+              "label": "空间表达",
+              "body": "以三维和材质光线呈现商品、道具与环境关系。",
+              "evidence": [
+                "hermes",
+                "arcteryx"
+              ]
+            },
+            {
+              "label": "跨触点一致性",
+              "body": "围绕 Periastra、夜礼司与彼源 AI 研究不同载体。",
+              "evidence": [
+                "benwu",
+                "periastra"
+              ]
+            }
+          ],
+          "tools": [
+            {
+              "label": "产品与三维",
+              "body": "Rhino、SolidWorks、KeyShot、Cinema 4D、Blender"
+            },
+            {
+              "label": "视觉与界面",
+              "body": "Photoshop、Illustrator、Figma；React / TypeScript"
+            },
+            {
+              "label": "AI 与研究",
+              "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析"
+            }
+          ],
+          "workflow": "独立 AI 视频研究：建立参考索引与八项解析，归纳六层控制，连接分镜、Blender 白模与渲染审阅。AI 辅助生成，人负责判断；未声称商业部署或上游成果。",
+          "workflowEvidence": [
+            "ai-video-systems"
+          ]
+        },
+        "en": {
+          "summary": "I connect identity, spatial visuals and digital touchpoints through a product-design approach.",
+          "strengths": [
+            {
+              "label": "Identity",
+              "body": "Compare wordmarks, colour and hierarchy to form reusable rules.",
+              "evidence": [
+                "periastra",
+                "yelisi",
+                "biyuan"
+              ]
+            },
+            {
+              "label": "Spatial expression",
+              "body": "Use 3D, materials and light to frame merchandise and props.",
+              "evidence": [
+                "hermes",
+                "arcteryx"
+              ]
+            },
+            {
+              "label": "Consistency",
+              "body": "Explore applications through Periastra, YELISI and Biyuan AI.",
+              "evidence": [
+                "benwu",
+                "periastra"
+              ]
+            }
+          ],
+          "tools": [
+            {
+              "label": "Product and 3D",
+              "body": "Rhino, SolidWorks, KeyShot, Cinema 4D, Blender"
+            },
+            {
+              "label": "Visual and digital",
+              "body": "Photoshop, Illustrator, Figma; React / TypeScript"
+            },
+            {
+              "label": "AI and research",
+              "body": "Codex, ChatGPT, ComfyUI, Midjourney; market and cultural context"
+            }
+          ],
+          "workflow": "Independent AI-video research: a reference index, six control layers and eight analyses linked to storyboard, Blender blocking and render review. Human-led judgment; no commercial or upstream results claimed.",
+          "workflowEvidence": [
+            "ai-video-systems"
+          ]
+        }
+      }
+    },
+    "physical": {
+      "summary": "从使用动作与材料出发，比较产品形态、CMF 与部件关系，以三维表达支持方案评审。",
+      "strengths": [
+        {
+          "label": "产品形态",
+          "body": "用系列灯具、HUHU CARE 与 GO GLOW 比较比例与操作。",
+          "evidence": [
+            "huhu-care",
+            "go-glow"
+          ]
+        },
+        {
+          "label": "CMF 与三维",
+          "body": "通过模型、渲染和场景研究材质、边缘与尺度。",
+          "evidence": [
+            "lighting",
+            "hermes",
+            "arcteryx"
+          ]
+        },
+        {
+          "label": "工程语境",
+          "body": "将制造环境中的标准化、质量与约束意识带入设计。",
+          "evidence": [
+            "benwu",
+            "hermes",
+            "arcteryx"
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "label": "产品与三维",
+          "body": "Rhino、SolidWorks、KeyShot、Cinema 4D、Blender"
+        },
+        {
+          "label": "视觉与界面",
+          "body": "Photoshop、Illustrator、Figma；React / TypeScript"
+        },
+        {
+          "label": "AI 与研究",
+          "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析"
+        }
+      ],
+      "workflow": "独立 AI 视频研究：建立参考索引与八项解析，归纳六层控制，连接分镜、Blender 白模与渲染审阅。AI 辅助生成，人负责判断；未声称商业部署或上游成果。",
+      "workflowEvidence": [
+        "ai-video-systems"
+      ],
+      "localized": {
+        "zh": {
+          "summary": "从使用动作与材料出发，比较产品形态、CMF 与部件关系，以三维表达支持方案评审。",
+          "strengths": [
+            {
+              "label": "产品形态",
+              "body": "用系列灯具、HUHU CARE 与 GO GLOW 比较比例与操作。",
+              "evidence": [
+                "huhu-care",
+                "go-glow"
+              ]
+            },
+            {
+              "label": "CMF 与三维",
+              "body": "通过模型、渲染和场景研究材质、边缘与尺度。",
+              "evidence": [
+                "lighting",
+                "hermes",
+                "arcteryx"
+              ]
+            },
+            {
+              "label": "工程语境",
+              "body": "将制造环境中的标准化、质量与约束意识带入设计。",
+              "evidence": [
+                "benwu",
+                "hermes",
+                "arcteryx"
+              ]
+            }
+          ],
+          "tools": [
+            {
+              "label": "产品与三维",
+              "body": "Rhino、SolidWorks、KeyShot、Cinema 4D、Blender"
+            },
+            {
+              "label": "视觉与界面",
+              "body": "Photoshop、Illustrator、Figma；React / TypeScript"
+            },
+            {
+              "label": "AI 与研究",
+              "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析"
+            }
+          ],
+          "workflow": "独立 AI 视频研究：建立参考索引与八项解析，归纳六层控制，连接分镜、Blender 白模与渲染审阅。AI 辅助生成，人负责判断；未声称商业部署或上游成果。",
+          "workflowEvidence": [
+            "ai-video-systems"
+          ]
+        },
+        "en": {
+          "summary": "I explore product form, CMF and component relationships around use, making proposals tangible through 3D.",
+          "strengths": [
+            {
+              "label": "Product form",
+              "body": "Compare proportion and use in lighting, HUHU CARE and GO GLOW.",
+              "evidence": [
+                "huhu-care",
+                "go-glow"
+              ]
+            },
+            {
+              "label": "CMF and 3D",
+              "body": "Study materials, edges and scale through models and rendering.",
+              "evidence": [
+                "lighting",
+                "hermes",
+                "arcteryx"
+              ]
+            },
+            {
+              "label": "Engineering context",
+              "body": "Bring awareness of standards, quality and constraints from manufacturing.",
+              "evidence": [
+                "benwu",
+                "hermes",
+                "arcteryx"
+              ]
+            }
+          ],
+          "tools": [
+            {
+              "label": "Product and 3D",
+              "body": "Rhino, SolidWorks, KeyShot, Cinema 4D, Blender"
+            },
+            {
+              "label": "Visual and digital",
+              "body": "Photoshop, Illustrator, Figma; React / TypeScript"
+            },
+            {
+              "label": "AI and research",
+              "body": "Codex, ChatGPT, ComfyUI, Midjourney; market and cultural context"
+            }
+          ],
+          "workflow": "Independent AI-video research: a reference index, six control layers and eight analyses linked to storyboard, Blender blocking and render review. Human-led judgment; no commercial or upstream results claimed.",
+          "workflowEvidence": [
+            "ai-video-systems"
+          ]
+        }
+      }
+    },
+    "digital": {
+      "summary": "将复杂任务转为清楚的输入、操作与反馈，结合界面设计、原型与开源整合完善体验。",
+      "strengths": [
+        {
+          "label": "界面与流程",
+          "body": "设计彼源 AI 的 VI/UI；比较桌面与移动端层级。",
+          "evidence": [
+            "biyuan"
+          ]
+        },
+        {
+          "label": "可控交互",
+          "body": "围绕改写审阅、恢复和版本选择设计工具流程。",
+          "evidence": [
+            "resume-formatter",
+            "lensflow",
+            "formline",
+            "xintiao"
+          ]
+        },
+        {
+          "label": "创作系统",
+          "body": "用分镜与白模组织 AI 视频的输入、镜头和评估。",
+          "evidence": [
+            "biyuan",
+            "periastra",
+            "yelisi"
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "label": "产品与三维",
+          "body": "Rhino、SolidWorks、KeyShot、Cinema 4D、Blender"
+        },
+        {
+          "label": "视觉与界面",
+          "body": "Photoshop、Illustrator、Figma；React / TypeScript"
+        },
+        {
+          "label": "AI 与研究",
+          "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析"
+        }
+      ],
+      "workflow": "独立 AI 视频研究：建立参考索引与八项解析，归纳六层控制，连接分镜、Blender 白模与渲染审阅。AI 辅助生成，人负责判断；未声称商业部署或上游成果。",
+      "workflowEvidence": [
+        "ai-video-systems"
+      ],
+      "localized": {
+        "zh": {
+          "summary": "将复杂任务转为清楚的输入、操作与反馈，结合界面设计、原型与开源整合完善体验。",
+          "strengths": [
+            {
+              "label": "界面与流程",
+              "body": "设计彼源 AI 的 VI/UI；比较桌面与移动端层级。",
+              "evidence": [
+                "biyuan"
+              ]
+            },
+            {
+              "label": "可控交互",
+              "body": "围绕改写审阅、恢复和版本选择设计工具流程。",
+              "evidence": [
+                "resume-formatter",
+                "lensflow",
+                "formline",
+                "xintiao"
+              ]
+            },
+            {
+              "label": "创作系统",
+              "body": "用分镜与白模组织 AI 视频的输入、镜头和评估。",
+              "evidence": [
+                "biyuan",
+                "periastra",
+                "yelisi"
+              ]
+            }
+          ],
+          "tools": [
+            {
+              "label": "产品与三维",
+              "body": "Rhino、SolidWorks、KeyShot、Cinema 4D、Blender"
+            },
+            {
+              "label": "视觉与界面",
+              "body": "Photoshop、Illustrator、Figma；React / TypeScript"
+            },
+            {
+              "label": "AI 与研究",
+              "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析"
+            }
+          ],
+          "workflow": "独立 AI 视频研究：建立参考索引与八项解析，归纳六层控制，连接分镜、Blender 白模与渲染审阅。AI 辅助生成，人负责判断；未声称商业部署或上游成果。",
+          "workflowEvidence": [
+            "ai-video-systems"
+          ]
+        },
+        "en": {
+          "summary": "I turn complex tasks into clear inputs, actions and feedback through interface design, prototypes and open-source integration.",
+          "strengths": [
+            {
+              "label": "Interfaces",
+              "body": "Design Biyuan AI VI/UI and compare desktop and mobile hierarchy.",
+              "evidence": [
+                "biyuan"
+              ]
+            },
+            {
+              "label": "Controlled interaction",
+              "body": "Design review, recovery and version-selection workflows.",
+              "evidence": [
+                "resume-formatter",
+                "lensflow",
+                "formline",
+                "xintiao"
+              ]
+            },
+            {
+              "label": "Creative systems",
+              "body": "Organise AI-video inputs, camera direction and review through storyboards and blocking.",
+              "evidence": [
+                "biyuan",
+                "periastra",
+                "yelisi"
+              ]
+            }
+          ],
+          "tools": [
+            {
+              "label": "Product and 3D",
+              "body": "Rhino, SolidWorks, KeyShot, Cinema 4D, Blender"
+            },
+            {
+              "label": "Visual and digital",
+              "body": "Photoshop, Illustrator, Figma; React / TypeScript"
+            },
+            {
+              "label": "AI and research",
+              "body": "Codex, ChatGPT, ComfyUI, Midjourney; market and cultural context"
+            }
+          ],
+          "workflow": "Independent AI-video research: a reference index, six control layers and eight analyses linked to storyboard, Blender blocking and render review. Human-led judgment; no commercial or upstream results claimed.",
+          "workflowEvidence": [
+            "ai-video-systems"
+          ]
+        }
+      }
+    }
+  },
+  "practice": {
+    "zh": "独立 AI 视频研究：建立参考索引与八项解析，归纳六层控制，连接分镜、Blender 白模与渲染审阅。AI 辅助生成，人负责判断；未声称商业部署或上游成果。",
+    "en": "Independent AI-video research: a reference index, six control layers and eight analyses linked to storyboard, Blender blocking and render review. Human-led judgment; no commercial or upstream results claimed."
+  }
+}

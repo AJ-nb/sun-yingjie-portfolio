@@ -1,0 +1,4359 @@
+{
+  "checked_at_utc": "2026-09-16",
+  "method": "Retained original dependency notices plus exact v5 font packages; historical removed package notices retained as archive.",
+  "packages": [
+    {
+      "name": "@axe-core/playwright",
+      "version": "4.13.0",
+      "license_metadata": "MPL-2.0",
+      "kind": "development tool",
+      "installed_locations": [
+        "node_modules/@axe-core/playwright"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/dequelabs/axe-core-npm.git"
+      },
+      "files": [
+        {
+          "path": "packages/axe-core-playwright-4.13.0/LICENSE",
+          "sha256": "812e9d96e900a093ae4d1d3f22c5f82f568a0a0461c3007a99d00573d41c5461",
+          "source": "node_modules/@axe-core/playwright/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@babel/runtime",
+      "version": "7.29.7",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@babel/runtime"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/babel/babel.git",
+        "directory": "packages/babel-runtime"
+      },
+      "files": [
+        {
+          "path": "packages/babel-runtime-7.29.7/LICENSE",
+          "sha256": "117da2af0d4ce0fe1c8e19b5cff9dcd806adf973d328d27b11d4448c4ff24f76",
+          "source": "node_modules/@babel/runtime/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@fontsource/bodoni-moda",
+      "version": "5.3.0",
+      "license_metadata": "OFL-1.1",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@fontsource/bodoni-moda"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fontsource/font-files.git",
+        "directory": "fonts/google/bodoni-moda"
+      },
+      "files": [
+        {
+          "path": "packages/fontsource-bodoni-moda-5.3.0/LICENSE",
+          "sha256": "6c64f717433eadd29b058d6254fe25c1ee2d249ce3772f843bb21f73285779c2",
+          "source": "node_modules/@fontsource/bodoni-moda/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@fontsource/noto-sans-sc",
+      "version": "5.3.0",
+      "license_metadata": "OFL-1.1",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@fontsource/noto-sans-sc"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fontsource/font-files.git",
+        "directory": "fonts/google/noto-sans-sc"
+      },
+      "files": [
+        {
+          "path": "packages/fontsource-noto-sans-sc-5.3.0/LICENSE",
+          "sha256": "18aabf190848725e2576eefb5c29ba06aac1029d02132252a7f312eac2e50cf3",
+          "source": "node_modules/@fontsource/noto-sans-sc/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@gltf-transform/cli",
+      "version": "4.5.0",
+      "license_metadata": "MIT",
+      "kind": "development tool",
+      "installed_locations": [
+        "node_modules/@gltf-transform/cli"
+      ],
+      "repository": "github:donmccurdy/glTF-Transform",
+      "files": [
+        {
+          "path": "packages/gltf-transform-cli-4.5.0/LICENSE.md",
+          "sha256": "2c4f111d00dbf22b10d31a14813c5f5de6a828640f7311f26b9dda89b3fce165",
+          "source": "node_modules/@gltf-transform/cli/LICENSE.md",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@gltf-transform/core",
+      "version": "4.5.0",
+      "license_metadata": "MIT",
+      "kind": "development tool",
+      "installed_locations": [
+        "node_modules/@gltf-transform/core"
+      ],
+      "repository": "github:donmccurdy/glTF-Transform",
+      "files": [
+        {
+          "path": "packages/gltf-transform-core-4.5.0/LICENSE.md",
+          "sha256": "2c4f111d00dbf22b10d31a14813c5f5de6a828640f7311f26b9dda89b3fce165",
+          "source": "node_modules/@gltf-transform/core/LICENSE.md",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@mediapipe/tasks-vision",
+      "version": "0.10.17",
+      "license_metadata": "Apache-2.0",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@mediapipe/tasks-vision"
+      ],
+      "repository": null,
+      "files": [
+        {
+          "path": "packages/mediapipe-tasks-vision-0.10.17/LICENSE.upstream",
+          "sha256": "8707eef0533987efc5b155d64761eeb6e20793f50b9bd1a68dad1cf4719d0ed8",
+          "source": "https://github.com/google-ai-edge/mediapipe/blob/master/LICENSE",
+          "git_blob_sha": "0e03e3911e0ac02c72ed527b34efe250f0fb9bef",
+          "origin": "upstream default-branch license; matching release tag unavailable"
+        }
+      ]
+    },
+    {
+      "name": "@monogrid/gainmap-js",
+      "version": "3.4.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@monogrid/gainmap-js"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/MONOGRID/gainmap-js.git"
+      },
+      "files": [
+        {
+          "path": "packages/monogrid-gainmap-js-3.4.0/LICENSE",
+          "sha256": "7fb8f722609c6669a9c9a4865e2a86205c7760e7dc7a039b0fb9913c3e62c6cc",
+          "source": "node_modules/@monogrid/gainmap-js/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@playwright/test",
+      "version": "1.63.0",
+      "license_metadata": "Apache-2.0",
+      "kind": "development tool",
+      "installed_locations": [
+        "node_modules/@playwright/test"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/microsoft/playwright.git"
+      },
+      "files": [
+        {
+          "path": "packages/playwright-test-1.63.0/LICENSE",
+          "sha256": "45873d00a0dd243596deb4aa23b2493b3d1f0671921bf2538ea431d7380220eb",
+          "source": "node_modules/@playwright/test/LICENSE",
+          "origin": "exact installed package file"
+        },
+        {
+          "path": "packages/playwright-test-1.63.0/NOTICE",
+          "sha256": "6d602191187b35b9b01d2cffa01c8469c2c8d9de8a96f1bf868e0f264f51c81d",
+          "source": "node_modules/@playwright/test/NOTICE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@react-spring/animated",
+      "version": "9.7.5",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@react-spring/animated"
+      ],
+      "repository": "pmndrs/react-spring",
+      "files": [
+        {
+          "path": "packages/react-spring-animated-9.7.5/LICENSE",
+          "sha256": "51863a051d919d260e725327cb58df68d04289919d90fa64283beb9c646a2b02",
+          "source": "node_modules/@react-spring/animated/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@react-spring/core",
+      "version": "9.7.5",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@react-spring/core"
+      ],
+      "repository": "pmndrs/react-spring",
+      "files": [
+        {
+          "path": "packages/react-spring-core-9.7.5/LICENSE",
+          "sha256": "51863a051d919d260e725327cb58df68d04289919d90fa64283beb9c646a2b02",
+          "source": "node_modules/@react-spring/core/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@react-spring/rafz",
+      "version": "9.7.5",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@react-spring/rafz"
+      ],
+      "repository": "pmndrs/react-spring",
+      "files": [
+        {
+          "path": "packages/react-spring-rafz-9.7.5/LICENSE",
+          "sha256": "51863a051d919d260e725327cb58df68d04289919d90fa64283beb9c646a2b02",
+          "source": "node_modules/@react-spring/rafz/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@react-spring/shared",
+      "version": "9.7.5",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@react-spring/shared"
+      ],
+      "repository": "pmndrs/react-spring",
+      "files": [
+        {
+          "path": "packages/react-spring-shared-9.7.5/LICENSE",
+          "sha256": "51863a051d919d260e725327cb58df68d04289919d90fa64283beb9c646a2b02",
+          "source": "node_modules/@react-spring/shared/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@react-spring/three",
+      "version": "9.7.5",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@react-spring/three"
+      ],
+      "repository": "pmndrs/react-spring",
+      "files": [
+        {
+          "path": "packages/react-spring-three-9.7.5/LICENSE",
+          "sha256": "51863a051d919d260e725327cb58df68d04289919d90fa64283beb9c646a2b02",
+          "source": "node_modules/@react-spring/three/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@react-spring/types",
+      "version": "9.7.5",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@react-spring/types"
+      ],
+      "repository": "pmndrs/react-spring",
+      "files": [
+        {
+          "path": "packages/react-spring-types-9.7.5/LICENSE",
+          "sha256": "51863a051d919d260e725327cb58df68d04289919d90fa64283beb9c646a2b02",
+          "source": "node_modules/@react-spring/types/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@react-three/drei",
+      "version": "9.122.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@react-three/drei"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pmndrs/drei.git"
+      },
+      "files": [
+        {
+          "path": "packages/react-three-drei-9.122.0/LICENSE",
+          "sha256": "2e36b208b403882158daf95cae207087bbb830db4d434a79ebafffca177244c8",
+          "source": "node_modules/@react-three/drei/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "zustand",
+      "version": "5.0.14",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@react-three/drei/node_modules/zustand"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pmndrs/zustand.git"
+      },
+      "files": [
+        {
+          "path": "packages/zustand-5.0.14/LICENSE",
+          "sha256": "c1e6e266563517467b1bf874817d23e426f3149252bd7d42758cd697514b8417",
+          "source": "node_modules/@react-three/drei/node_modules/zustand/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@react-three/fiber",
+      "version": "8.18.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@react-three/fiber"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pmndrs/react-three-fiber.git"
+      },
+      "files": [
+        {
+          "path": "packages/react-three-fiber-8.18.0/LICENSE.upstream",
+          "sha256": "ebd6a29bec64bdfcf8795388f2eceaf1479c14d343c0846de347ab8609d66139",
+          "source": "https://github.com/pmndrs/react-three-fiber/blob/v8.18.0/LICENSE",
+          "git_blob_sha": "8268b7a4ebff68143b9a14a98b5a38d6ae961774",
+          "origin": "matching release tag"
+        }
+      ]
+    },
+    {
+      "name": "zustand",
+      "version": "3.7.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@react-three/fiber/node_modules/zustand"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pmndrs/zustand.git"
+      },
+      "files": [
+        {
+          "path": "packages/zustand-3.7.2/LICENSE",
+          "sha256": "c1e6e266563517467b1bf874817d23e426f3149252bd7d42758cd697514b8417",
+          "source": "node_modules/@react-three/fiber/node_modules/zustand/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@react-three/postprocessing",
+      "version": "2.19.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@react-three/postprocessing"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pmndrs/react-postprocessing.git"
+      },
+      "files": [
+        {
+          "path": "packages/react-three-postprocessing-2.19.1/LICENSE",
+          "sha256": "2e36b208b403882158daf95cae207087bbb830db4d434a79ebafffca177244c8",
+          "source": "node_modules/@react-three/postprocessing/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "maath",
+      "version": "0.6.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@react-three/postprocessing/node_modules/maath"
+      ],
+      "repository": null,
+      "files": [
+        {
+          "path": "packages/maath-0.6.0/LICENSE.upstream",
+          "sha256": "f8ed15d0893b846b869dc0290a5aee14c82319a09d3522091ad300a0e5f73291",
+          "source": "https://github.com/pmndrs/math/blob/main/LICENSE",
+          "git_blob_sha": "bf20ae590914b900be34ab35248a91b78cc318ee",
+          "origin": "upstream default-branch license; package did not include text"
+        }
+      ]
+    },
+    {
+      "name": "@tweenjs/tween.js",
+      "version": "23.1.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@tweenjs/tween.js"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/tweenjs/tween.js.git"
+      },
+      "files": [
+        {
+          "path": "packages/tweenjs-tween.js-23.1.3/LICENSE",
+          "sha256": "c95fecd88f2709bfc34e4d1f1ccc36d17048990e6ba26c283cfecdef0432936b",
+          "source": "node_modules/@tweenjs/tween.js/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/debug",
+      "version": "4.1.13",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@types/debug"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/debug"
+      },
+      "files": [
+        {
+          "path": "packages/types-debug-4.1.13/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/debug/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/draco3d",
+      "version": "1.4.10",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@types/draco3d"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/draco3d"
+      },
+      "files": [
+        {
+          "path": "packages/types-draco3d-1.4.10/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/draco3d/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/estree",
+      "version": "1.0.9",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@types/estree"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/estree"
+      },
+      "files": [
+        {
+          "path": "packages/types-estree-1.0.9/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/estree/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/estree-jsx",
+      "version": "1.0.5",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@types/estree-jsx"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/estree-jsx"
+      },
+      "files": [
+        {
+          "path": "packages/types-estree-jsx-1.0.5/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/estree-jsx/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/hast",
+      "version": "3.0.4",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@types/hast"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/hast"
+      },
+      "files": [
+        {
+          "path": "packages/types-hast-3.0.4/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/hast/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/mdast",
+      "version": "4.0.4",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@types/mdast"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/mdast"
+      },
+      "files": [
+        {
+          "path": "packages/types-mdast-4.0.4/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/mdast/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/ms",
+      "version": "2.1.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@types/ms"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/ms"
+      },
+      "files": [
+        {
+          "path": "packages/types-ms-2.1.0/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/ms/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/offscreencanvas",
+      "version": "2019.7.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@types/offscreencanvas"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/offscreencanvas"
+      },
+      "files": [
+        {
+          "path": "packages/types-offscreencanvas-2019.7.3/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/offscreencanvas/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/prop-types",
+      "version": "15.7.15",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@types/prop-types"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/prop-types"
+      },
+      "files": [
+        {
+          "path": "packages/types-prop-types-15.7.15/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/prop-types/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/react",
+      "version": "18.3.31",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@types/react"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/react"
+      },
+      "files": [
+        {
+          "path": "packages/types-react-18.3.31/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/react/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/react-dom",
+      "version": "18.3.7",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@types/react-dom"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/react-dom"
+      },
+      "files": [
+        {
+          "path": "packages/types-react-dom-18.3.7/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/react-dom/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/react-reconciler",
+      "version": "0.26.7",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@types/react-reconciler"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/react-reconciler"
+      },
+      "files": [
+        {
+          "path": "packages/types-react-reconciler-0.26.7/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/react-reconciler/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/stats.js",
+      "version": "0.17.4",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@types/stats.js"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/stats.js"
+      },
+      "files": [
+        {
+          "path": "packages/types-stats.js-0.17.4/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/stats.js/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/three",
+      "version": "0.169.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@types/three"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/three"
+      },
+      "files": [
+        {
+          "path": "packages/types-three-0.169.0/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/three/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/unist",
+      "version": "3.0.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@types/unist"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/unist"
+      },
+      "files": [
+        {
+          "path": "packages/types-unist-3.0.3/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/unist/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/webxr",
+      "version": "0.5.24",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@types/webxr"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/webxr"
+      },
+      "files": [
+        {
+          "path": "packages/types-webxr-0.5.24/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/@types/webxr/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@ungap/structured-clone",
+      "version": "1.3.1",
+      "license_metadata": "ISC",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@ungap/structured-clone"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ungap/structured-clone.git"
+      },
+      "files": [
+        {
+          "path": "packages/ungap-structured-clone-1.3.1/LICENSE",
+          "sha256": "dc6d4961d8b6ee747231582ae9c53ce1d66bf76bc9f5a28f554c0e97210953bf",
+          "source": "node_modules/@ungap/structured-clone/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@use-gesture/core",
+      "version": "10.3.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@use-gesture/core"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pmndrs/use-gesture.git",
+        "directory": "packages/core"
+      },
+      "files": [
+        {
+          "path": "packages/use-gesture-core-10.3.1/LICENSE",
+          "sha256": "b99672ef9af57432e6d025a66d34f8b968564e4e0a1e2005ea9018457a7e38dc",
+          "source": "node_modules/@use-gesture/core/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@use-gesture/react",
+      "version": "10.3.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@use-gesture/react"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pmndrs/use-gesture.git",
+        "directory": "packages/react"
+      },
+      "files": [
+        {
+          "path": "packages/use-gesture-react-10.3.1/LICENSE",
+          "sha256": "b99672ef9af57432e6d025a66d34f8b968564e4e0a1e2005ea9018457a7e38dc",
+          "source": "node_modules/@use-gesture/react/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@webgpu/types",
+      "version": "0.1.71",
+      "license_metadata": "BSD-3-Clause",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/@webgpu/types"
+      ],
+      "repository": "gpuweb/types",
+      "files": [
+        {
+          "path": "packages/webgpu-types-0.1.71/LICENSE",
+          "sha256": "ad88400fc55c2871ba2ed33930dc13001ef01907c2ddcbfa3caa8656e9142f05",
+          "source": "node_modules/@webgpu/types/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "axe-core",
+      "version": "4.13.0",
+      "license_metadata": "MPL-2.0",
+      "kind": "development tool",
+      "installed_locations": [
+        "node_modules/axe-core"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/dequelabs/axe-core.git"
+      },
+      "files": [
+        {
+          "path": "packages/axe-core-4.13.0/LICENSE",
+          "sha256": "af175b9d96ee93c21a036152e1b905b0b95304d4ae8c2c921c7609100ba8df7e",
+          "source": "node_modules/axe-core/LICENSE",
+          "origin": "exact installed package file"
+        },
+        {
+          "path": "packages/axe-core-4.13.0/LICENSE-3RD-PARTY.txt",
+          "sha256": "4f8563870d0fca38bbc3e00b6f670cb7fa9f380ba9f26a7f7d1184a6b18b1653",
+          "source": "node_modules/axe-core/LICENSE-3RD-PARTY.txt",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "bail",
+      "version": "2.0.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/bail"
+      ],
+      "repository": "wooorm/bail",
+      "files": [
+        {
+          "path": "packages/bail-2.0.2/license",
+          "sha256": "63cb98b3f6abfb3c3592c16f88253c1bdc834087bf52671e8ce5609e4eb693cf",
+          "source": "node_modules/bail/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "base64-js",
+      "version": "1.5.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/base64-js"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/beatgammit/base64-js.git"
+      },
+      "files": [
+        {
+          "path": "packages/base64-js-1.5.1/LICENSE",
+          "sha256": "5b37224c080cdcc97c871ada971c224e9926370fe74f11b539aa1cf9f3b1aca1",
+          "source": "node_modules/base64-js/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "bidi-js",
+      "version": "1.0.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/bidi-js"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/lojjic/bidi-js.git"
+      },
+      "files": [
+        {
+          "path": "packages/bidi-js-1.0.3/LICENSE.txt",
+          "sha256": "49d4d143fed599deb502a0fe6e02f49832f87e9a3a4cd0502e469596d50faa6d",
+          "source": "node_modules/bidi-js/LICENSE.txt",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "buffer",
+      "version": "6.0.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/buffer"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/feross/buffer.git"
+      },
+      "files": [
+        {
+          "path": "packages/buffer-6.0.3/LICENSE",
+          "sha256": "06bafa45fdad2579ba0e43b0c9b2c6290287c99c4203c300254a462b38a307f6",
+          "source": "node_modules/buffer/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "camera-controls",
+      "version": "2.10.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/camera-controls"
+      ],
+      "repository": "yomotsu/camera-controls",
+      "files": [
+        {
+          "path": "packages/camera-controls-2.10.1/LICENSE",
+          "sha256": "d175c34ca3b4fb17d0568627ef8fd9363ae6f63f9ffdc97d4da71f0d7f3473ee",
+          "source": "node_modules/camera-controls/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "ccount",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/ccount"
+      ],
+      "repository": "wooorm/ccount",
+      "files": [
+        {
+          "path": "packages/ccount-2.0.1/license",
+          "sha256": "63cb98b3f6abfb3c3592c16f88253c1bdc834087bf52671e8ce5609e4eb693cf",
+          "source": "node_modules/ccount/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "character-entities",
+      "version": "2.0.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/character-entities"
+      ],
+      "repository": "wooorm/character-entities",
+      "files": [
+        {
+          "path": "packages/character-entities-2.0.2/license",
+          "sha256": "63cb98b3f6abfb3c3592c16f88253c1bdc834087bf52671e8ce5609e4eb693cf",
+          "source": "node_modules/character-entities/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "character-entities-html4",
+      "version": "2.1.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/character-entities-html4"
+      ],
+      "repository": "wooorm/character-entities-html4",
+      "files": [
+        {
+          "path": "packages/character-entities-html4-2.1.0/license",
+          "sha256": "63cb98b3f6abfb3c3592c16f88253c1bdc834087bf52671e8ce5609e4eb693cf",
+          "source": "node_modules/character-entities-html4/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "character-entities-legacy",
+      "version": "3.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/character-entities-legacy"
+      ],
+      "repository": "wooorm/character-entities-legacy",
+      "files": [
+        {
+          "path": "packages/character-entities-legacy-3.0.0/license",
+          "sha256": "63cb98b3f6abfb3c3592c16f88253c1bdc834087bf52671e8ce5609e4eb693cf",
+          "source": "node_modules/character-entities-legacy/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "character-reference-invalid",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/character-reference-invalid"
+      ],
+      "repository": "wooorm/character-reference-invalid",
+      "files": [
+        {
+          "path": "packages/character-reference-invalid-2.0.1/license",
+          "sha256": "63cb98b3f6abfb3c3592c16f88253c1bdc834087bf52671e8ce5609e4eb693cf",
+          "source": "node_modules/character-reference-invalid/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "comma-separated-tokens",
+      "version": "2.0.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/comma-separated-tokens"
+      ],
+      "repository": "wooorm/comma-separated-tokens",
+      "files": [
+        {
+          "path": "packages/comma-separated-tokens-2.0.3/license",
+          "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+          "source": "node_modules/comma-separated-tokens/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "cross-env",
+      "version": "7.0.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/cross-env"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/kentcdodds/cross-env.git"
+      },
+      "files": [
+        {
+          "path": "packages/cross-env-7.0.3/LICENSE",
+          "sha256": "bf8fd38056b7606deccfcadb4d8ca1c210082d8ef5513426d2650daedc30bed3",
+          "source": "node_modules/cross-env/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "cross-spawn",
+      "version": "7.0.6",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/cross-spawn"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:moxystudio/node-cross-spawn.git"
+      },
+      "files": [
+        {
+          "path": "packages/cross-spawn-7.0.6/LICENSE",
+          "sha256": "aaa78451b6fecd1b9c4594c796c133c0e90cad100372ff8bc6de615e9ef9adf1",
+          "source": "node_modules/cross-spawn/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "csstype",
+      "version": "3.2.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/csstype"
+      ],
+      "repository": "https://github.com/frenic/csstype",
+      "files": [
+        {
+          "path": "packages/csstype-3.2.3/LICENSE",
+          "sha256": "11d55bd4541c75ee7879547ac49089c489163dae49551389713c3d026cab383e",
+          "source": "node_modules/csstype/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "debug",
+      "version": "4.4.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/debug"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/debug-js/debug.git"
+      },
+      "files": [
+        {
+          "path": "packages/debug-4.4.3/LICENSE",
+          "sha256": "3a61c6c96caf5c1d9b623fb9b04c822b783dfcb78aa7e49c76a3f643e6ed7f95",
+          "source": "node_modules/debug/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "decode-named-character-reference",
+      "version": "1.3.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/decode-named-character-reference"
+      ],
+      "repository": "wooorm/decode-named-character-reference",
+      "files": [
+        {
+          "path": "packages/decode-named-character-reference-1.3.0/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/decode-named-character-reference/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "dequal",
+      "version": "2.0.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/dequal"
+      ],
+      "repository": "lukeed/dequal",
+      "files": [
+        {
+          "path": "packages/dequal-2.0.3/license",
+          "sha256": "306fa513e39b23a6e8747520de761809d206b99800ef41907b530226574c59ae",
+          "source": "node_modules/dequal/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "detect-gpu",
+      "version": "5.0.70",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/detect-gpu"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/pmndrs/detect-gpu.git"
+      },
+      "files": [
+        {
+          "path": "packages/detect-gpu-5.0.70/LICENSE",
+          "sha256": "b7ec746220d05b353b6f05196599c50d0a8bf7b75eaf90de439d2152452d298e",
+          "source": "node_modules/detect-gpu/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "devlop",
+      "version": "1.1.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/devlop"
+      ],
+      "repository": "wooorm/devlop",
+      "files": [
+        {
+          "path": "packages/devlop-1.1.0/license",
+          "sha256": "6f296a5eccc1dc96714bb94ebaa9cac25b0a1467d74cc5263ac4d0646ab01f62",
+          "source": "node_modules/devlop/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "draco3d",
+      "version": "1.5.7",
+      "license_metadata": "Apache-2.0",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/draco3d"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/google/draco.git"
+      },
+      "files": [
+        {
+          "path": "packages/draco3d-1.5.7/LICENSE.upstream",
+          "sha256": "d3709b0fb4b8a94bbb1d02b8a2e484f258b0d9c5c5a01f940391f3fe662cd1a4",
+          "source": "https://github.com/google/draco/blob/1.5.7/LICENSE",
+          "git_blob_sha": "30109545483a9b9889532c2bd5254c6fee4eb121",
+          "origin": "matching release tag"
+        }
+      ]
+    },
+    {
+      "name": "entities",
+      "version": "6.0.1",
+      "license_metadata": "BSD-2-Clause",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/entities"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/fb55/entities.git"
+      },
+      "files": [
+        {
+          "path": "packages/entities-6.0.1/LICENSE",
+          "sha256": "cb992345949ccd6e8394b2cd6c465f7b897c864f845937dbf64e8997f389e164",
+          "source": "node_modules/entities/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "escape-string-regexp",
+      "version": "5.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/escape-string-regexp"
+      ],
+      "repository": "sindresorhus/escape-string-regexp",
+      "files": [
+        {
+          "path": "packages/escape-string-regexp-5.0.0/license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+          "source": "node_modules/escape-string-regexp/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "estree-util-is-identifier-name",
+      "version": "3.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/estree-util-is-identifier-name"
+      ],
+      "repository": "syntax-tree/estree-util-is-identifier-name",
+      "files": [
+        {
+          "path": "packages/estree-util-is-identifier-name-3.0.0/license",
+          "sha256": "536804b3adbff17dbbb9ed0d2bf9655b78f07640278581e37e3d7475282d5e61",
+          "source": "node_modules/estree-util-is-identifier-name/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "extend",
+      "version": "3.0.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/extend"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/justmoon/node-extend.git"
+      },
+      "files": [
+        {
+          "path": "packages/extend-3.0.2/LICENSE",
+          "sha256": "97af7428f93afbab9bf79cd09254da1357161794f4255eb1b4599f04dd2d2e7c",
+          "source": "node_modules/extend/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "fflate",
+      "version": "0.8.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/fflate"
+      ],
+      "repository": "https://github.com/101arrowz/fflate",
+      "files": [
+        {
+          "path": "packages/fflate-0.8.3/LICENSE",
+          "sha256": "0a1df3a083d0c010560aa342e87959c8c1070e6fd54545741f083f22d0c8b551",
+          "source": "node_modules/fflate/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "framer-motion",
+      "version": "11.18.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/framer-motion"
+      ],
+      "repository": "https://github.com/motiondivision/motion/",
+      "files": [
+        {
+          "path": "packages/framer-motion-11.18.2/LICENSE.md",
+          "sha256": "5ff46083b88563822b0560dd6221ab89d2f74bc97a52d4c97a75020fd62c6f32",
+          "source": "node_modules/framer-motion/LICENSE.md",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "glsl-noise",
+      "version": "0.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/glsl-noise"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/hughsk/glsl-noise.git"
+      },
+      "files": [
+        {
+          "path": "packages/glsl-noise-0.0.0/LICENSE",
+          "sha256": "bce6c887104eda776ad5e3a2c0b249d1ef5adca91573b350e7147a59d65757f1",
+          "source": "node_modules/glsl-noise/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "gltf-validator",
+      "version": "2.0.0-dev.3.10",
+      "license_metadata": "Apache-2.0",
+      "kind": "development tool",
+      "installed_locations": [
+        "node_modules/gltf-validator"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/KhronosGroup/glTF-Validator"
+      },
+      "files": [
+        {
+          "path": "packages/gltf-validator-2.0.0-dev.3.10/LICENSE",
+          "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5",
+          "source": "node_modules/gltf-validator/LICENSE",
+          "origin": "exact installed package file"
+        },
+        {
+          "path": "packages/gltf-validator-2.0.0-dev.3.10/NOTICES",
+          "sha256": "933f161ca1e7b3ead5a6cf93ebb3bf6cb67f0e79b38e08d2046f8cdc41cb78a3",
+          "source": "node_modules/gltf-validator/NOTICES",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "hast-util-from-parse5",
+      "version": "8.0.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/hast-util-from-parse5"
+      ],
+      "repository": "syntax-tree/hast-util-from-parse5",
+      "files": [
+        {
+          "path": "packages/hast-util-from-parse5-8.0.3/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/hast-util-from-parse5/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "hast-util-parse-selector",
+      "version": "4.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/hast-util-parse-selector"
+      ],
+      "repository": "syntax-tree/hast-util-parse-selector",
+      "files": [
+        {
+          "path": "packages/hast-util-parse-selector-4.0.0/license",
+          "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+          "source": "node_modules/hast-util-parse-selector/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "hast-util-raw",
+      "version": "9.1.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/hast-util-raw"
+      ],
+      "repository": "syntax-tree/hast-util-raw",
+      "files": [
+        {
+          "path": "packages/hast-util-raw-9.1.0/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/hast-util-raw/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "hast-util-to-jsx-runtime",
+      "version": "2.3.6",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/hast-util-to-jsx-runtime"
+      ],
+      "repository": "syntax-tree/hast-util-to-jsx-runtime",
+      "files": [
+        {
+          "path": "packages/hast-util-to-jsx-runtime-2.3.6/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/hast-util-to-jsx-runtime/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "hast-util-to-parse5",
+      "version": "8.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/hast-util-to-parse5"
+      ],
+      "repository": "syntax-tree/hast-util-to-parse5",
+      "files": [
+        {
+          "path": "packages/hast-util-to-parse5-8.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/hast-util-to-parse5/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "hast-util-whitespace",
+      "version": "3.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/hast-util-whitespace"
+      ],
+      "repository": "syntax-tree/hast-util-whitespace",
+      "files": [
+        {
+          "path": "packages/hast-util-whitespace-3.0.0/license",
+          "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+          "source": "node_modules/hast-util-whitespace/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "hastscript",
+      "version": "9.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/hastscript"
+      ],
+      "repository": "syntax-tree/hastscript",
+      "files": [
+        {
+          "path": "packages/hastscript-9.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/hastscript/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "hls.js",
+      "version": "1.6.16",
+      "license_metadata": "Apache-2.0",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/hls.js"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/video-dev/hls.js"
+      },
+      "files": [
+        {
+          "path": "packages/hls.js-1.6.16/LICENSE",
+          "sha256": "ca8773cf798c7ed997d4dd7c8e23c348699f8d5b7462636694cc14de6cda12db",
+          "source": "node_modules/hls.js/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "html-url-attributes",
+      "version": "3.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/html-url-attributes"
+      ],
+      "repository": "https://github.com/rehypejs/rehype-minify/tree/main/packages/html-url-attributes",
+      "files": [
+        {
+          "path": "packages/html-url-attributes-3.0.1/license",
+          "sha256": "e18cf5173e928f808f0cd208097fee8fbec9d28fc0255213938e4c559e29ff58",
+          "source": "node_modules/html-url-attributes/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "html-void-elements",
+      "version": "3.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/html-void-elements"
+      ],
+      "repository": "wooorm/html-void-elements",
+      "files": [
+        {
+          "path": "packages/html-void-elements-3.0.0/license",
+          "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+          "source": "node_modules/html-void-elements/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "ieee754",
+      "version": "1.2.1",
+      "license_metadata": "BSD-3-Clause",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/ieee754"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/feross/ieee754.git"
+      },
+      "files": [
+        {
+          "path": "packages/ieee754-1.2.1/LICENSE",
+          "sha256": "18d45466ba3253deae04667e267a91ea8de8548f18c1125264d1c9db28194cc1",
+          "source": "node_modules/ieee754/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "img-comparison-slider",
+      "version": "8.0.7",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/img-comparison-slider"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/sneas/img-comparison-slider.git"
+      },
+      "files": [
+        {
+          "path": "packages/img-comparison-slider-8.0.7/LICENSE.upstream",
+          "sha256": "7ea86ea7d6b3bf7d1368064512d24bdbe8a5c7c66dd7e0e55f608ec3c39cc2b3",
+          "source": "https://github.com/sneas/img-comparison-slider/blob/master/LICENSE",
+          "git_blob_sha": "8bffb2812d6511dd15c7937a6197a5d75923725e",
+          "origin": "upstream default-branch license; package did not include text"
+        }
+      ]
+    },
+    {
+      "name": "immediate",
+      "version": "3.0.6",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/immediate"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/calvinmetcalf/immediate.git"
+      },
+      "files": [
+        {
+          "path": "packages/immediate-3.0.6/LICENSE.txt",
+          "sha256": "809e66de579fb7d92503848bbe6d1f348f4f6521a71e5d294fe7cc0c87a3b4ff",
+          "source": "node_modules/immediate/LICENSE.txt",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "inline-style-parser",
+      "version": "0.2.7",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/inline-style-parser"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/remarkablemark/inline-style-parser.git"
+      },
+      "files": [
+        {
+          "path": "packages/inline-style-parser-0.2.7/LICENSE",
+          "sha256": "395c95f20598da653ff1eb1cb9d74947c7fac689697147f1d192fd0242a0e635",
+          "source": "node_modules/inline-style-parser/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "is-alphabetical",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/is-alphabetical"
+      ],
+      "repository": "wooorm/is-alphabetical",
+      "files": [
+        {
+          "path": "packages/is-alphabetical-2.0.1/license",
+          "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+          "source": "node_modules/is-alphabetical/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "is-alphanumerical",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/is-alphanumerical"
+      ],
+      "repository": "wooorm/is-alphanumerical",
+      "files": [
+        {
+          "path": "packages/is-alphanumerical-2.0.1/license",
+          "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+          "source": "node_modules/is-alphanumerical/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "is-decimal",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/is-decimal"
+      ],
+      "repository": "wooorm/is-decimal",
+      "files": [
+        {
+          "path": "packages/is-decimal-2.0.1/license",
+          "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+          "source": "node_modules/is-decimal/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "is-hexadecimal",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/is-hexadecimal"
+      ],
+      "repository": "wooorm/is-hexadecimal",
+      "files": [
+        {
+          "path": "packages/is-hexadecimal-2.0.1/license",
+          "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+          "source": "node_modules/is-hexadecimal/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "is-plain-obj",
+      "version": "4.1.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/is-plain-obj"
+      ],
+      "repository": "sindresorhus/is-plain-obj",
+      "files": [
+        {
+          "path": "packages/is-plain-obj-4.1.0/license",
+          "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+          "source": "node_modules/is-plain-obj/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "is-promise",
+      "version": "2.2.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/is-promise"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/then/is-promise.git"
+      },
+      "files": [
+        {
+          "path": "packages/is-promise-2.2.2/LICENSE",
+          "sha256": "44191656d296391e0ec97e32f5385f0d02b6f2992694082d22ea04ba0f66f9e4",
+          "source": "node_modules/is-promise/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "isexe",
+      "version": "2.0.0",
+      "license_metadata": "ISC",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/isexe"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/isaacs/isexe.git"
+      },
+      "files": [
+        {
+          "path": "packages/isexe-2.0.0/LICENSE",
+          "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b",
+          "source": "node_modules/isexe/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "its-fine",
+      "version": "1.2.5",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/its-fine"
+      ],
+      "repository": "https://github.com/pmndrs/its-fine",
+      "files": [
+        {
+          "path": "packages/its-fine-1.2.5/LICENSE",
+          "sha256": "978e8e1b1678b5e73758171a2d1a3cc1b2732495874a5e82d4a73a290e66158b",
+          "source": "node_modules/its-fine/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/react-reconciler",
+      "version": "0.28.9",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/its-fine/node_modules/@types/react-reconciler"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/react-reconciler"
+      },
+      "files": [
+        {
+          "path": "packages/types-react-reconciler-0.28.9/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/its-fine/node_modules/@types/react-reconciler/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "js-tokens",
+      "version": "4.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/js-tokens"
+      ],
+      "repository": "lydell/js-tokens",
+      "files": [
+        {
+          "path": "packages/js-tokens-4.0.0/LICENSE",
+          "sha256": "2213d91c606205c71eb051a199478cdc2adde945893404d7f1421436dd6d5cc1",
+          "source": "node_modules/js-tokens/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "lie",
+      "version": "3.3.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/lie"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/calvinmetcalf/lie.git"
+      },
+      "files": [
+        {
+          "path": "packages/lie-3.3.0/license.md",
+          "sha256": "5c81b0caa98593408b03125efa25efe622341ed87ae55561968828cd887d64a4",
+          "source": "node_modules/lie/license.md",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "longest-streak",
+      "version": "3.1.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/longest-streak"
+      ],
+      "repository": "wooorm/longest-streak",
+      "files": [
+        {
+          "path": "packages/longest-streak-3.1.0/license",
+          "sha256": "9f084fac69d8cf1e6ce983ba5a3499c7695ed74a26ec625c38f0fd19fddd5e10",
+          "source": "node_modules/longest-streak/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "loose-envify",
+      "version": "1.4.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/loose-envify"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/zertosh/loose-envify.git"
+      },
+      "files": [
+        {
+          "path": "packages/loose-envify-1.4.0/LICENSE",
+          "sha256": "4eb7543b08d955a6d23fcc224601d43ff566e775be918805e26210d7f6eb4893",
+          "source": "node_modules/loose-envify/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "lucide-react",
+      "version": "1.46.0",
+      "license_metadata": "ISC",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/lucide-react"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/lucide-icons/lucide.git",
+        "directory": "packages/lucide-react"
+      },
+      "files": [
+        {
+          "path": "packages/lucide-react-1.46.0/LICENSE",
+          "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
+          "source": "node_modules/lucide-react/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "maath",
+      "version": "0.10.8",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/maath"
+      ],
+      "repository": null,
+      "files": [
+        {
+          "path": "packages/maath-0.10.8/LICENSE.upstream",
+          "sha256": "f8ed15d0893b846b869dc0290a5aee14c82319a09d3522091ad300a0e5f73291",
+          "source": "https://github.com/pmndrs/math/blob/main/LICENSE",
+          "git_blob_sha": "bf20ae590914b900be34ab35248a91b78cc318ee",
+          "origin": "upstream default-branch license; package did not include text"
+        }
+      ]
+    },
+    {
+      "name": "markdown-table",
+      "version": "3.0.4",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/markdown-table"
+      ],
+      "repository": "wooorm/markdown-table",
+      "files": [
+        {
+          "path": "packages/markdown-table-3.0.4/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/markdown-table/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "mdast-util-find-and-replace",
+      "version": "3.0.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/mdast-util-find-and-replace"
+      ],
+      "repository": "syntax-tree/mdast-util-find-and-replace",
+      "files": [
+        {
+          "path": "packages/mdast-util-find-and-replace-3.0.2/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/mdast-util-find-and-replace/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "mdast-util-from-markdown",
+      "version": "2.0.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/mdast-util-from-markdown"
+      ],
+      "repository": "syntax-tree/mdast-util-from-markdown",
+      "files": [
+        {
+          "path": "packages/mdast-util-from-markdown-2.0.3/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/mdast-util-from-markdown/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "mdast-util-gfm",
+      "version": "3.1.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/mdast-util-gfm"
+      ],
+      "repository": "syntax-tree/mdast-util-gfm",
+      "files": [
+        {
+          "path": "packages/mdast-util-gfm-3.1.0/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/mdast-util-gfm/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "mdast-util-gfm-autolink-literal",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/mdast-util-gfm-autolink-literal"
+      ],
+      "repository": "syntax-tree/mdast-util-gfm-autolink-literal",
+      "files": [
+        {
+          "path": "packages/mdast-util-gfm-autolink-literal-2.0.1/license",
+          "sha256": "536804b3adbff17dbbb9ed0d2bf9655b78f07640278581e37e3d7475282d5e61",
+          "source": "node_modules/mdast-util-gfm-autolink-literal/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "mdast-util-gfm-footnote",
+      "version": "2.1.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/mdast-util-gfm-footnote"
+      ],
+      "repository": "syntax-tree/mdast-util-gfm-footnote",
+      "files": [
+        {
+          "path": "packages/mdast-util-gfm-footnote-2.1.0/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/mdast-util-gfm-footnote/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "mdast-util-gfm-strikethrough",
+      "version": "2.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/mdast-util-gfm-strikethrough"
+      ],
+      "repository": "syntax-tree/mdast-util-gfm-strikethrough",
+      "files": [
+        {
+          "path": "packages/mdast-util-gfm-strikethrough-2.0.0/license",
+          "sha256": "536804b3adbff17dbbb9ed0d2bf9655b78f07640278581e37e3d7475282d5e61",
+          "source": "node_modules/mdast-util-gfm-strikethrough/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "mdast-util-gfm-table",
+      "version": "2.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/mdast-util-gfm-table"
+      ],
+      "repository": "syntax-tree/mdast-util-gfm-table",
+      "files": [
+        {
+          "path": "packages/mdast-util-gfm-table-2.0.0/license",
+          "sha256": "536804b3adbff17dbbb9ed0d2bf9655b78f07640278581e37e3d7475282d5e61",
+          "source": "node_modules/mdast-util-gfm-table/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "mdast-util-gfm-task-list-item",
+      "version": "2.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/mdast-util-gfm-task-list-item"
+      ],
+      "repository": "syntax-tree/mdast-util-gfm-task-list-item",
+      "files": [
+        {
+          "path": "packages/mdast-util-gfm-task-list-item-2.0.0/license",
+          "sha256": "536804b3adbff17dbbb9ed0d2bf9655b78f07640278581e37e3d7475282d5e61",
+          "source": "node_modules/mdast-util-gfm-task-list-item/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "mdast-util-mdx-expression",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/mdast-util-mdx-expression"
+      ],
+      "repository": "syntax-tree/mdast-util-mdx-expression",
+      "files": [
+        {
+          "path": "packages/mdast-util-mdx-expression-2.0.1/license",
+          "sha256": "536804b3adbff17dbbb9ed0d2bf9655b78f07640278581e37e3d7475282d5e61",
+          "source": "node_modules/mdast-util-mdx-expression/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "mdast-util-mdx-jsx",
+      "version": "3.2.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/mdast-util-mdx-jsx"
+      ],
+      "repository": "syntax-tree/mdast-util-mdx-jsx",
+      "files": [
+        {
+          "path": "packages/mdast-util-mdx-jsx-3.2.0/license",
+          "sha256": "536804b3adbff17dbbb9ed0d2bf9655b78f07640278581e37e3d7475282d5e61",
+          "source": "node_modules/mdast-util-mdx-jsx/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "mdast-util-mdxjs-esm",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/mdast-util-mdxjs-esm"
+      ],
+      "repository": "syntax-tree/mdast-util-mdxjs-esm",
+      "files": [
+        {
+          "path": "packages/mdast-util-mdxjs-esm-2.0.1/license",
+          "sha256": "536804b3adbff17dbbb9ed0d2bf9655b78f07640278581e37e3d7475282d5e61",
+          "source": "node_modules/mdast-util-mdxjs-esm/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "mdast-util-phrasing",
+      "version": "4.1.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/mdast-util-phrasing"
+      ],
+      "repository": "syntax-tree/mdast-util-phrasing",
+      "files": [
+        {
+          "path": "packages/mdast-util-phrasing-4.1.0/license",
+          "sha256": "b6d1a4e1831b177acc96f22a817d4f0f4c18419355badc3125754445fc69e3a7",
+          "source": "node_modules/mdast-util-phrasing/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "mdast-util-to-hast",
+      "version": "13.2.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/mdast-util-to-hast"
+      ],
+      "repository": "syntax-tree/mdast-util-to-hast",
+      "files": [
+        {
+          "path": "packages/mdast-util-to-hast-13.2.1/license",
+          "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+          "source": "node_modules/mdast-util-to-hast/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "mdast-util-to-markdown",
+      "version": "2.1.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/mdast-util-to-markdown"
+      ],
+      "repository": "syntax-tree/mdast-util-to-markdown",
+      "files": [
+        {
+          "path": "packages/mdast-util-to-markdown-2.1.2/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/mdast-util-to-markdown/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "mdast-util-to-string",
+      "version": "4.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/mdast-util-to-string"
+      ],
+      "repository": "syntax-tree/mdast-util-to-string",
+      "files": [
+        {
+          "path": "packages/mdast-util-to-string-4.0.0/license",
+          "sha256": "63cb98b3f6abfb3c3592c16f88253c1bdc834087bf52671e8ce5609e4eb693cf",
+          "source": "node_modules/mdast-util-to-string/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "meshline",
+      "version": "3.3.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/meshline"
+      ],
+      "repository": null,
+      "files": [
+        {
+          "path": "packages/meshline-3.3.1/LICENSE",
+          "sha256": "60616aab1af71f2603d9d4ab3c29b5d80cc43cd9a62e2e8b3fa68c1c5597103f",
+          "source": "node_modules/meshline/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "meshoptimizer",
+      "version": "0.18.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/meshoptimizer"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/zeux/meshoptimizer"
+      },
+      "files": [
+        {
+          "path": "packages/meshoptimizer-0.18.1/LICENSE.md",
+          "sha256": "063805e3b8e24ceab4c5dea358b03245ee41c31be87cf65c61d836636cb494bb",
+          "source": "node_modules/meshoptimizer/LICENSE.md",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark",
+      "version": "4.0.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark",
+      "files": [
+        {
+          "path": "packages/micromark-4.0.2/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-core-commonmark",
+      "version": "2.0.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-core-commonmark"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-core-commonmark",
+      "files": [
+        {
+          "path": "packages/micromark-core-commonmark-2.0.3/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-core-commonmark/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-extension-gfm",
+      "version": "3.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-extension-gfm"
+      ],
+      "repository": "micromark/micromark-extension-gfm",
+      "files": [
+        {
+          "path": "packages/micromark-extension-gfm-3.0.0/license",
+          "sha256": "536804b3adbff17dbbb9ed0d2bf9655b78f07640278581e37e3d7475282d5e61",
+          "source": "node_modules/micromark-extension-gfm/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-extension-gfm-autolink-literal",
+      "version": "2.1.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-extension-gfm-autolink-literal"
+      ],
+      "repository": "micromark/micromark-extension-gfm-autolink-literal",
+      "files": [
+        {
+          "path": "packages/micromark-extension-gfm-autolink-literal-2.1.0/license",
+          "sha256": "536804b3adbff17dbbb9ed0d2bf9655b78f07640278581e37e3d7475282d5e61",
+          "source": "node_modules/micromark-extension-gfm-autolink-literal/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-extension-gfm-footnote",
+      "version": "2.1.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-extension-gfm-footnote"
+      ],
+      "repository": "micromark/micromark-extension-gfm-footnote",
+      "files": [
+        {
+          "path": "packages/micromark-extension-gfm-footnote-2.1.0/license",
+          "sha256": "807a88522a850092aece49486207c17c313c4d5708ac276524840fe1caa0b0fa",
+          "source": "node_modules/micromark-extension-gfm-footnote/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-extension-gfm-strikethrough",
+      "version": "2.1.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-extension-gfm-strikethrough"
+      ],
+      "repository": "micromark/micromark-extension-gfm-strikethrough",
+      "files": [
+        {
+          "path": "packages/micromark-extension-gfm-strikethrough-2.1.0/license",
+          "sha256": "536804b3adbff17dbbb9ed0d2bf9655b78f07640278581e37e3d7475282d5e61",
+          "source": "node_modules/micromark-extension-gfm-strikethrough/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-extension-gfm-table",
+      "version": "2.1.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-extension-gfm-table"
+      ],
+      "repository": "micromark/micromark-extension-gfm-table",
+      "files": [
+        {
+          "path": "packages/micromark-extension-gfm-table-2.1.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-extension-gfm-table/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-extension-gfm-tagfilter",
+      "version": "2.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-extension-gfm-tagfilter"
+      ],
+      "repository": "micromark/micromark-extension-gfm-tagfilter",
+      "files": [
+        {
+          "path": "packages/micromark-extension-gfm-tagfilter-2.0.0/license",
+          "sha256": "536804b3adbff17dbbb9ed0d2bf9655b78f07640278581e37e3d7475282d5e61",
+          "source": "node_modules/micromark-extension-gfm-tagfilter/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-extension-gfm-task-list-item",
+      "version": "2.1.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-extension-gfm-task-list-item"
+      ],
+      "repository": "micromark/micromark-extension-gfm-task-list-item",
+      "files": [
+        {
+          "path": "packages/micromark-extension-gfm-task-list-item-2.1.0/license",
+          "sha256": "536804b3adbff17dbbb9ed0d2bf9655b78f07640278581e37e3d7475282d5e61",
+          "source": "node_modules/micromark-extension-gfm-task-list-item/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-factory-destination",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-factory-destination"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-factory-destination",
+      "files": [
+        {
+          "path": "packages/micromark-factory-destination-2.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-factory-destination/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-factory-label",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-factory-label"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-factory-label",
+      "files": [
+        {
+          "path": "packages/micromark-factory-label-2.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-factory-label/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-factory-space",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-factory-space"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-factory-space",
+      "files": [
+        {
+          "path": "packages/micromark-factory-space-2.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-factory-space/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-factory-title",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-factory-title"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-factory-title",
+      "files": [
+        {
+          "path": "packages/micromark-factory-title-2.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-factory-title/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-factory-whitespace",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-factory-whitespace"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-factory-whitespace",
+      "files": [
+        {
+          "path": "packages/micromark-factory-whitespace-2.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-factory-whitespace/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-util-character",
+      "version": "2.1.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-util-character"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-character",
+      "files": [
+        {
+          "path": "packages/micromark-util-character-2.1.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-util-character/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-util-chunked",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-util-chunked"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-chunked",
+      "files": [
+        {
+          "path": "packages/micromark-util-chunked-2.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-util-chunked/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-util-classify-character",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-util-classify-character"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-classify-character",
+      "files": [
+        {
+          "path": "packages/micromark-util-classify-character-2.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-util-classify-character/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-util-combine-extensions",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-util-combine-extensions"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-combine-extensions",
+      "files": [
+        {
+          "path": "packages/micromark-util-combine-extensions-2.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-util-combine-extensions/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-util-decode-numeric-character-reference",
+      "version": "2.0.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-util-decode-numeric-character-reference"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-decode-numeric-character-reference",
+      "files": [
+        {
+          "path": "packages/micromark-util-decode-numeric-character-reference-2.0.2/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-util-decode-numeric-character-reference/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-util-decode-string",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-util-decode-string"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-decode-string",
+      "files": [
+        {
+          "path": "packages/micromark-util-decode-string-2.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-util-decode-string/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-util-encode",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-util-encode"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-encode",
+      "files": [
+        {
+          "path": "packages/micromark-util-encode-2.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-util-encode/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-util-html-tag-name",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-util-html-tag-name"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-html-tag-name",
+      "files": [
+        {
+          "path": "packages/micromark-util-html-tag-name-2.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-util-html-tag-name/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-util-normalize-identifier",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-util-normalize-identifier"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-normalize-identifier",
+      "files": [
+        {
+          "path": "packages/micromark-util-normalize-identifier-2.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-util-normalize-identifier/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-util-resolve-all",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-util-resolve-all"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-resolve-all",
+      "files": [
+        {
+          "path": "packages/micromark-util-resolve-all-2.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-util-resolve-all/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-util-sanitize-uri",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-util-sanitize-uri"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-sanitize-uri",
+      "files": [
+        {
+          "path": "packages/micromark-util-sanitize-uri-2.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-util-sanitize-uri/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-util-subtokenize",
+      "version": "2.1.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-util-subtokenize"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-subtokenize",
+      "files": [
+        {
+          "path": "packages/micromark-util-subtokenize-2.1.0/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-util-subtokenize/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-util-symbol",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-util-symbol"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-symbol",
+      "files": [
+        {
+          "path": "packages/micromark-util-symbol-2.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-util-symbol/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "micromark-util-types",
+      "version": "2.0.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/micromark-util-types"
+      ],
+      "repository": "https://github.com/micromark/micromark/tree/main/packages/micromark-util-types",
+      "files": [
+        {
+          "path": "packages/micromark-util-types-2.0.2/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/micromark-util-types/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "motion-dom",
+      "version": "11.18.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/motion-dom"
+      ],
+      "repository": "https://github.com/motiondivision/motion",
+      "files": [
+        {
+          "path": "packages/motion-dom-11.18.1/LICENSE.md",
+          "sha256": "1bf0dc3f7727723e5a032ed12164a47cf92c05204cb1a3485f123c24e2833ed1",
+          "source": "node_modules/motion-dom/LICENSE.md",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "motion-utils",
+      "version": "11.18.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/motion-utils"
+      ],
+      "repository": "https://github.com/motiondivision/motion",
+      "files": [
+        {
+          "path": "packages/motion-utils-11.18.1/LICENSE.md",
+          "sha256": "1bf0dc3f7727723e5a032ed12164a47cf92c05204cb1a3485f123c24e2833ed1",
+          "source": "node_modules/motion-utils/LICENSE.md",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "ms",
+      "version": "2.1.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/ms"
+      ],
+      "repository": "vercel/ms",
+      "files": [
+        {
+          "path": "packages/ms-2.1.3/license.md",
+          "sha256": "1662fae9b5314d11cf51284e2dcd1f006a354f7343f08712a730fcff9a359801",
+          "source": "node_modules/ms/license.md",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "n8ao",
+      "version": "1.10.2",
+      "license_metadata": "ISC",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/n8ao"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/N8python/n8ao.git"
+      },
+      "files": [
+        {
+          "path": "packages/n8ao-1.10.2/LICENSE",
+          "sha256": "6d489af6292662d9e36d34ce49423784984a5f6e41d7b58f49b01264df59fa03",
+          "source": "node_modules/n8ao/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "object-assign",
+      "version": "4.1.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/object-assign"
+      ],
+      "repository": "sindresorhus/object-assign",
+      "files": [
+        {
+          "path": "packages/object-assign-4.1.1/license",
+          "sha256": "6fb9754611c20f6649f68805e8c990e83261f29316e29de9e6cedae607b8634c",
+          "source": "node_modules/object-assign/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "parse-entities",
+      "version": "4.0.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/parse-entities"
+      ],
+      "repository": "wooorm/parse-entities",
+      "files": [
+        {
+          "path": "packages/parse-entities-4.0.2/license",
+          "sha256": "5d0698266086f217bb11ea0499d33453e401fe479fb9126ad04e625e63d3557b",
+          "source": "node_modules/parse-entities/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@types/unist",
+      "version": "2.0.11",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/parse-entities/node_modules/@types/unist"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/unist"
+      },
+      "files": [
+        {
+          "path": "packages/types-unist-2.0.11/LICENSE",
+          "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+          "source": "node_modules/parse-entities/node_modules/@types/unist/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "parse5",
+      "version": "7.3.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/parse5"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/inikulin/parse5.git"
+      },
+      "files": [
+        {
+          "path": "packages/parse5-7.3.0/LICENSE",
+          "sha256": "8c535800331e1e4439835555b3f9edc7fe9dee2fab0d8bbbd5a982e8b8343d4d",
+          "source": "node_modules/parse5/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "path-key",
+      "version": "3.1.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/path-key"
+      ],
+      "repository": "sindresorhus/path-key",
+      "files": [
+        {
+          "path": "packages/path-key-3.1.1/license",
+          "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+          "source": "node_modules/path-key/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "playwright",
+      "version": "1.63.0",
+      "license_metadata": "Apache-2.0",
+      "kind": "development tool",
+      "installed_locations": [
+        "node_modules/playwright"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/microsoft/playwright.git"
+      },
+      "files": [
+        {
+          "path": "packages/playwright-1.63.0/LICENSE",
+          "sha256": "45873d00a0dd243596deb4aa23b2493b3d1f0671921bf2538ea431d7380220eb",
+          "source": "node_modules/playwright/LICENSE",
+          "origin": "exact installed package file"
+        },
+        {
+          "path": "packages/playwright-1.63.0/NOTICE",
+          "sha256": "6d602191187b35b9b01d2cffa01c8469c2c8d9de8a96f1bf868e0f264f51c81d",
+          "source": "node_modules/playwright/NOTICE",
+          "origin": "exact installed package file"
+        },
+        {
+          "path": "packages/playwright-1.63.0/ThirdPartyNotices.txt",
+          "sha256": "b17ac0bd6f4b8207e440639cc8e0ba1bf1d9eaf9b12236764ab93b346c7abd8e",
+          "source": "node_modules/playwright/ThirdPartyNotices.txt",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "playwright-core",
+      "version": "1.63.0",
+      "license_metadata": "Apache-2.0",
+      "kind": "development tool",
+      "installed_locations": [
+        "node_modules/playwright-core"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/microsoft/playwright.git"
+      },
+      "files": [
+        {
+          "path": "packages/playwright-core-1.63.0/LICENSE",
+          "sha256": "45873d00a0dd243596deb4aa23b2493b3d1f0671921bf2538ea431d7380220eb",
+          "source": "node_modules/playwright-core/LICENSE",
+          "origin": "exact installed package file"
+        },
+        {
+          "path": "packages/playwright-core-1.63.0/NOTICE",
+          "sha256": "6d602191187b35b9b01d2cffa01c8469c2c8d9de8a96f1bf868e0f264f51c81d",
+          "source": "node_modules/playwright-core/NOTICE",
+          "origin": "exact installed package file"
+        },
+        {
+          "path": "packages/playwright-core-1.63.0/ThirdPartyNotices.txt",
+          "sha256": "a549d329bad8806fe279f0ecae0fc0270dec7e7c2dc8ec10f90e394f7c32b144",
+          "source": "node_modules/playwright-core/ThirdPartyNotices.txt",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "postprocessing",
+      "version": "6.39.1",
+      "license_metadata": "Zlib",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/postprocessing"
+      ],
+      "repository": {
+        "url": "git+https://github.com/pmndrs/postprocessing.git"
+      },
+      "files": [
+        {
+          "path": "packages/postprocessing-6.39.1/LICENSE.md",
+          "sha256": "b7650918449bd5fb011ce30ce0e5bcda27aa9639db1fb3aef8c67c32945237f2",
+          "source": "node_modules/postprocessing/LICENSE.md",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "potpack",
+      "version": "1.0.2",
+      "license_metadata": "ISC",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/potpack"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mapbox/potpack.git"
+      },
+      "files": [
+        {
+          "path": "packages/potpack-1.0.2/LICENSE",
+          "sha256": "2c620eaf6c3ee3e33b07f3b6ef0dfd0a9e0a52c93a46aa4ccf7773dbb562daec",
+          "source": "node_modules/potpack/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "promise-worker-transferable",
+      "version": "1.0.4",
+      "license_metadata": "Apache-2.0",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/promise-worker-transferable"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/terikon/promise-worker-transferable.git"
+      },
+      "files": [
+        {
+          "path": "packages/promise-worker-transferable-1.0.4/LICENSE",
+          "sha256": "0f0ba7a9d825b6cac29a3c949860dcfc0b87f2f0f57a078199520a3cd03896f6",
+          "source": "node_modules/promise-worker-transferable/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "prop-types",
+      "version": "15.8.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/prop-types"
+      ],
+      "repository": "facebook/prop-types",
+      "files": [
+        {
+          "path": "packages/prop-types-15.8.1/LICENSE",
+          "sha256": "f657f99d3fb9647db92628e96007aabb46e5f04f33e49999075aab8e250ca7ce",
+          "source": "node_modules/prop-types/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "property-information",
+      "version": "7.2.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/property-information"
+      ],
+      "repository": "wooorm/property-information",
+      "files": [
+        {
+          "path": "packages/property-information-7.2.0/license",
+          "sha256": "5d0698266086f217bb11ea0499d33453e401fe479fb9126ad04e625e63d3557b",
+          "source": "node_modules/property-information/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "react",
+      "version": "18.3.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/react"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/facebook/react.git",
+        "directory": "packages/react"
+      },
+      "files": [
+        {
+          "path": "packages/react-18.3.1/LICENSE",
+          "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+          "source": "node_modules/react/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "react-composer",
+      "version": "5.0.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/react-composer"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/jamesplease/react-composer.git"
+      },
+      "files": [
+        {
+          "path": "packages/react-composer-5.0.3/LICENSE",
+          "sha256": "02dbac7304c820b57e3485e58855ff77d7d23cc8dc733cff6dca73c580832c23",
+          "source": "node_modules/react-composer/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "react-dom",
+      "version": "18.3.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/react-dom"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/facebook/react.git",
+        "directory": "packages/react-dom"
+      },
+      "files": [
+        {
+          "path": "packages/react-dom-18.3.1/LICENSE",
+          "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+          "source": "node_modules/react-dom/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "scheduler",
+      "version": "0.23.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/react-dom/node_modules/scheduler"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/facebook/react.git",
+        "directory": "packages/scheduler"
+      },
+      "files": [
+        {
+          "path": "packages/scheduler-0.23.2/LICENSE",
+          "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+          "source": "node_modules/react-dom/node_modules/scheduler/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "react-is",
+      "version": "16.13.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/react-is"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/facebook/react.git",
+        "directory": "packages/react-is"
+      },
+      "files": [
+        {
+          "path": "packages/react-is-16.13.1/LICENSE",
+          "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+          "source": "node_modules/react-is/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "react-markdown",
+      "version": "10.1.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/react-markdown"
+      ],
+      "repository": "remarkjs/react-markdown",
+      "files": [
+        {
+          "path": "packages/react-markdown-10.1.0/license",
+          "sha256": "f6196c64e144f9a6fa9154c3a80bc8b89615a9567934b83a8951879f06ba2aef",
+          "source": "node_modules/react-markdown/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "react-reconciler",
+      "version": "0.27.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/react-reconciler"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/facebook/react.git",
+        "directory": "packages/react-reconciler"
+      },
+      "files": [
+        {
+          "path": "packages/react-reconciler-0.27.0/LICENSE",
+          "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+          "source": "node_modules/react-reconciler/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "react-use-measure",
+      "version": "2.1.7",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/react-use-measure"
+      ],
+      "repository": "https://github.com/pmndrs/react-use-measure",
+      "files": [
+        {
+          "path": "packages/react-use-measure-2.1.7/LICENSE",
+          "sha256": "1f9038eff8dbd6505a26f9d6830cc6da2b87ab1a9305d1100884986e9c11a31a",
+          "source": "node_modules/react-use-measure/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "rehype-raw",
+      "version": "7.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/rehype-raw"
+      ],
+      "repository": "rehypejs/rehype-raw",
+      "files": [
+        {
+          "path": "packages/rehype-raw-7.0.0/license",
+          "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+          "source": "node_modules/rehype-raw/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "remark-gfm",
+      "version": "4.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/remark-gfm"
+      ],
+      "repository": "remarkjs/remark-gfm",
+      "files": [
+        {
+          "path": "packages/remark-gfm-4.0.1/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/remark-gfm/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "remark-parse",
+      "version": "11.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/remark-parse"
+      ],
+      "repository": "https://github.com/remarkjs/remark/tree/main/packages/remark-parse",
+      "files": [
+        {
+          "path": "packages/remark-parse-11.0.0/license",
+          "sha256": "413654b0a78b98661dce96d2aff2e4d075603d220b8483e28b1aa010ccc138b4",
+          "source": "node_modules/remark-parse/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "remark-rehype",
+      "version": "11.1.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/remark-rehype"
+      ],
+      "repository": "remarkjs/remark-rehype",
+      "files": [
+        {
+          "path": "packages/remark-rehype-11.1.2/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/remark-rehype/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "remark-stringify",
+      "version": "11.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/remark-stringify"
+      ],
+      "repository": "https://github.com/remarkjs/remark/tree/main/packages/remark-stringify",
+      "files": [
+        {
+          "path": "packages/remark-stringify-11.0.0/license",
+          "sha256": "413654b0a78b98661dce96d2aff2e4d075603d220b8483e28b1aa010ccc138b4",
+          "source": "node_modules/remark-stringify/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "require-from-string",
+      "version": "2.0.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/require-from-string"
+      ],
+      "repository": "floatdrop/require-from-string",
+      "files": [
+        {
+          "path": "packages/require-from-string-2.0.2/license",
+          "sha256": "6ee0feb1f6ef996ff5a68600f8cf98909cf412d39ef3cdceaefd87d636fa1b7f",
+          "source": "node_modules/require-from-string/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "scheduler",
+      "version": "0.21.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/scheduler"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/facebook/react.git",
+        "directory": "packages/scheduler"
+      },
+      "files": [
+        {
+          "path": "packages/scheduler-0.21.0/LICENSE",
+          "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+          "source": "node_modules/scheduler/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "shebang-command",
+      "version": "2.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/shebang-command"
+      ],
+      "repository": "kevva/shebang-command",
+      "files": [
+        {
+          "path": "packages/shebang-command-2.0.0/license",
+          "sha256": "69dee148a2cc470554dfa7142e830662062394d0fe67cddd379aba90dc60d6b3",
+          "source": "node_modules/shebang-command/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "shebang-regex",
+      "version": "3.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/shebang-regex"
+      ],
+      "repository": "sindresorhus/shebang-regex",
+      "files": [
+        {
+          "path": "packages/shebang-regex-3.0.0/license",
+          "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+          "source": "node_modules/shebang-regex/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "space-separated-tokens",
+      "version": "2.0.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/space-separated-tokens"
+      ],
+      "repository": "wooorm/space-separated-tokens",
+      "files": [
+        {
+          "path": "packages/space-separated-tokens-2.0.2/license",
+          "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+          "source": "node_modules/space-separated-tokens/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "stats-gl",
+      "version": "2.4.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/stats-gl"
+      ],
+      "repository": "https://github.com/RenaudRohlinger/stats-gl",
+      "files": [
+        {
+          "path": "packages/stats-gl-2.4.2/LICENSE-DECLARATION.txt",
+          "sha256": "e1e1ef3fa8069ae0b150f5e9e1e8800b1641329dc32004bd2e6c972ccbacfd7b",
+          "source": "https://github.com/RenaudRohlinger/stats-gl",
+          "origin": "exact package license declaration plus identified availability boundary"
+        }
+      ],
+      "full_license_text_status": "Unavailable from installed package and live upstream license endpoint; MIT declaration retained."
+    },
+    {
+      "name": "three",
+      "version": "0.170.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/stats-gl/node_modules/three"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/mrdoob/three.js"
+      },
+      "files": [
+        {
+          "path": "packages/three-0.170.0/LICENSE",
+          "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+          "source": "node_modules/stats-gl/node_modules/three/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "stats.js",
+      "version": "0.17.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/stats.js"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/mrdoob/stats.js.git"
+      },
+      "files": [
+        {
+          "path": "packages/stats.js-0.17.0/LICENSE",
+          "sha256": "9d23ed2d037cc4b97860dc61dc3787ca2c1faac8b11402064a6fa90e91360adc",
+          "source": "node_modules/stats.js/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "stringify-entities",
+      "version": "4.0.4",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/stringify-entities"
+      ],
+      "repository": "wooorm/stringify-entities",
+      "files": [
+        {
+          "path": "packages/stringify-entities-4.0.4/license",
+          "sha256": "9f084fac69d8cf1e6ce983ba5a3499c7695ed74a26ec625c38f0fd19fddd5e10",
+          "source": "node_modules/stringify-entities/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "style-to-js",
+      "version": "1.1.21",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/style-to-js"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/remarkablemark/style-to-js.git"
+      },
+      "files": [
+        {
+          "path": "packages/style-to-js-1.1.21/LICENSE",
+          "sha256": "bbb380e5c1a717079378d6ea4d33c8a5a81655d4612b749f882e34e46712aab5",
+          "source": "node_modules/style-to-js/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "style-to-object",
+      "version": "1.0.14",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/style-to-object"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/remarkablemark/style-to-object.git"
+      },
+      "files": [
+        {
+          "path": "packages/style-to-object-1.0.14/LICENSE",
+          "sha256": "896c9fd6b5fc48ac31800b9d29a6e3ffcb0c2d534ed077ebfa5c2fa388cc38b7",
+          "source": "node_modules/style-to-object/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "suspend-react",
+      "version": "0.1.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/suspend-react"
+      ],
+      "repository": "pmndrs/suspend-react",
+      "files": [
+        {
+          "path": "packages/suspend-react-0.1.3/LICENSE",
+          "sha256": "997e79b828d8b85d6f18730c8dbf58074811360a199506bd84e1263e17c227a2",
+          "source": "node_modules/suspend-react/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "three",
+      "version": "0.169.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/three"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/mrdoob/three.js"
+      },
+      "files": [
+        {
+          "path": "packages/three-0.169.0/LICENSE",
+          "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+          "source": "node_modules/three/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "three-mesh-bvh",
+      "version": "0.7.8",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/three-mesh-bvh"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gkjohnson/three-mesh-bvh.git"
+      },
+      "files": [
+        {
+          "path": "packages/three-mesh-bvh-0.7.8/LICENSE",
+          "sha256": "b106ef6198a9862ed2b5b873e944ecf3583c631a84a7462d400ecc1910ce7fee",
+          "source": "node_modules/three-mesh-bvh/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "three-stdlib",
+      "version": "2.36.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/three-stdlib"
+      ],
+      "repository": "https://github.com/pmndrs/three-stdlib",
+      "files": [
+        {
+          "path": "packages/three-stdlib-2.36.1/LICENSE",
+          "sha256": "28eb7edf059a39094aa3d169db1fec46ac4a6279c921a90f965828d92ec86e79",
+          "source": "node_modules/three-stdlib/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "fflate",
+      "version": "0.6.11",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/three-stdlib/node_modules/fflate"
+      ],
+      "repository": "https://github.com/101arrowz/fflate",
+      "files": [
+        {
+          "path": "packages/fflate-0.6.11/LICENSE",
+          "sha256": "62249119bb7df6e54300f37a37145c26a6d4420410aac8881a119c5b427cf751",
+          "source": "node_modules/three-stdlib/node_modules/fflate/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "trim-lines",
+      "version": "3.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/trim-lines"
+      ],
+      "repository": "wooorm/trim-lines",
+      "files": [
+        {
+          "path": "packages/trim-lines-3.0.1/license",
+          "sha256": "9f084fac69d8cf1e6ce983ba5a3499c7695ed74a26ec625c38f0fd19fddd5e10",
+          "source": "node_modules/trim-lines/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "troika-three-text",
+      "version": "0.52.4",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/troika-three-text"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/protectwise/troika.git",
+        "directory": "packages/troika-three-text"
+      },
+      "files": [
+        {
+          "path": "packages/troika-three-text-0.52.4/LICENSE",
+          "sha256": "c514829145810d3bf5730a78b5054250bd1b711b2823f2fc58c2ba89930bce5c",
+          "source": "node_modules/troika-three-text/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "troika-three-utils",
+      "version": "0.52.4",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/troika-three-utils"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/protectwise/troika.git",
+        "directory": "packages/troika-three-utils"
+      },
+      "files": [
+        {
+          "path": "packages/troika-three-utils-0.52.4/LICENSE",
+          "sha256": "c514829145810d3bf5730a78b5054250bd1b711b2823f2fc58c2ba89930bce5c",
+          "source": "node_modules/troika-three-utils/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "troika-worker-utils",
+      "version": "0.52.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/troika-worker-utils"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/protectwise/troika.git",
+        "directory": "packages/troika-worker-utils"
+      },
+      "files": [
+        {
+          "path": "packages/troika-worker-utils-0.52.0/LICENSE",
+          "sha256": "c514829145810d3bf5730a78b5054250bd1b711b2823f2fc58c2ba89930bce5c",
+          "source": "node_modules/troika-worker-utils/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "trough",
+      "version": "2.2.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/trough"
+      ],
+      "repository": "wooorm/trough",
+      "files": [
+        {
+          "path": "packages/trough-2.2.0/license",
+          "sha256": "6c03fd41cfd7c92d8aa8a2fa521b94b2683f059123281dcf921ddea9216b6254",
+          "source": "node_modules/trough/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "tslib",
+      "version": "2.8.1",
+      "license_metadata": "0BSD",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/tslib"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/Microsoft/tslib.git"
+      },
+      "files": [
+        {
+          "path": "packages/tslib-2.8.1/CopyrightNotice.txt",
+          "sha256": "da16ddb65f8ca390998fb99223d0112498b56b45784d00afd77ff8ce1ac4de8b",
+          "source": "node_modules/tslib/CopyrightNotice.txt",
+          "origin": "exact installed package file"
+        },
+        {
+          "path": "packages/tslib-2.8.1/LICENSE.txt",
+          "sha256": "210b19e543130388c68654b7497e967119ce17145f66ab7d85688fbd70f08751",
+          "source": "node_modules/tslib/LICENSE.txt",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "tunnel-rat",
+      "version": "0.1.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/tunnel-rat"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pmndrs/tunnel-rat.git"
+      },
+      "files": [
+        {
+          "path": "packages/tunnel-rat-0.1.2/LICENSE",
+          "sha256": "cd14add33d47bcecae9fed5559224ae135c5ec41e1d3a126601f5fbd82291834",
+          "source": "node_modules/tunnel-rat/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "unified",
+      "version": "11.0.5",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/unified"
+      ],
+      "repository": "unifiedjs/unified",
+      "files": [
+        {
+          "path": "packages/unified-11.0.5/license",
+          "sha256": "05811400116ed61f1a7693b78fe8ca6598c155a12f3978e609db4df648a4cb3d",
+          "source": "node_modules/unified/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "unist-util-is",
+      "version": "6.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/unist-util-is"
+      ],
+      "repository": "syntax-tree/unist-util-is",
+      "files": [
+        {
+          "path": "packages/unist-util-is-6.0.1/license",
+          "sha256": "82974dbf2639d13edab95c32ed9cb6c0867ede272cd2e07ce47ce8548fe55c05",
+          "source": "node_modules/unist-util-is/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "unist-util-position",
+      "version": "5.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/unist-util-position"
+      ],
+      "repository": "syntax-tree/unist-util-position",
+      "files": [
+        {
+          "path": "packages/unist-util-position-5.0.0/license",
+          "sha256": "63cb98b3f6abfb3c3592c16f88253c1bdc834087bf52671e8ce5609e4eb693cf",
+          "source": "node_modules/unist-util-position/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "unist-util-stringify-position",
+      "version": "4.0.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/unist-util-stringify-position"
+      ],
+      "repository": "syntax-tree/unist-util-stringify-position",
+      "files": [
+        {
+          "path": "packages/unist-util-stringify-position-4.0.0/license",
+          "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+          "source": "node_modules/unist-util-stringify-position/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "unist-util-visit",
+      "version": "5.1.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/unist-util-visit"
+      ],
+      "repository": "syntax-tree/unist-util-visit",
+      "files": [
+        {
+          "path": "packages/unist-util-visit-5.1.0/license",
+          "sha256": "63cb98b3f6abfb3c3592c16f88253c1bdc834087bf52671e8ce5609e4eb693cf",
+          "source": "node_modules/unist-util-visit/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "unist-util-visit-parents",
+      "version": "6.0.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/unist-util-visit-parents"
+      ],
+      "repository": "syntax-tree/unist-util-visit-parents",
+      "files": [
+        {
+          "path": "packages/unist-util-visit-parents-6.0.2/license",
+          "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+          "source": "node_modules/unist-util-visit-parents/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "use-sync-external-store",
+      "version": "1.6.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/use-sync-external-store"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/facebook/react.git",
+        "directory": "packages/use-sync-external-store"
+      },
+      "files": [
+        {
+          "path": "packages/use-sync-external-store-1.6.0/LICENSE",
+          "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+          "source": "node_modules/use-sync-external-store/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "utility-types",
+      "version": "3.11.0",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/utility-types"
+      ],
+      "repository": "https://github.com/piotrwitek/utility-types",
+      "files": [
+        {
+          "path": "packages/utility-types-3.11.0/LICENSE",
+          "sha256": "eba0c3a8b90636744cc57e1a90f2d87767a57cccc86578a8168130f96896c9a9",
+          "source": "node_modules/utility-types/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "vfile",
+      "version": "6.0.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/vfile"
+      ],
+      "repository": "vfile/vfile",
+      "files": [
+        {
+          "path": "packages/vfile-6.0.3/license",
+          "sha256": "05811400116ed61f1a7693b78fe8ca6598c155a12f3978e609db4df648a4cb3d",
+          "source": "node_modules/vfile/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "vfile-location",
+      "version": "5.0.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/vfile-location"
+      ],
+      "repository": "vfile/vfile-location",
+      "files": [
+        {
+          "path": "packages/vfile-location-5.0.3/license",
+          "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+          "source": "node_modules/vfile-location/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "vfile-message",
+      "version": "4.0.3",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/vfile-message"
+      ],
+      "repository": "vfile/vfile-message",
+      "files": [
+        {
+          "path": "packages/vfile-message-4.0.3/license",
+          "sha256": "dd1081884a92952802f4803110a6bb543acea9a814c786d58605b4c1219b5ebb",
+          "source": "node_modules/vfile-message/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "web-namespaces",
+      "version": "2.0.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/web-namespaces"
+      ],
+      "repository": "wooorm/web-namespaces",
+      "files": [
+        {
+          "path": "packages/web-namespaces-2.0.1/license",
+          "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+          "source": "node_modules/web-namespaces/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "webgl-constants",
+      "version": "1.1.1",
+      "license_metadata": null,
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/webgl-constants"
+      ],
+      "repository": null,
+      "files": [
+        {
+          "path": "packages/webgl-constants-1.1.1/LICENSE",
+          "sha256": "0969fa65680b694452c2c65981df14af5c192da24f2b1f87bdd51d8ed24efcfa",
+          "source": "node_modules/webgl-constants/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "webgl-sdf-generator",
+      "version": "1.1.1",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/webgl-sdf-generator"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/lojjic/webgl-sdf-generator.git"
+      },
+      "files": [
+        {
+          "path": "packages/webgl-sdf-generator-1.1.1/LICENSE.txt",
+          "sha256": "49d4d143fed599deb502a0fe6e02f49832f87e9a3a4cd0502e469596d50faa6d",
+          "source": "node_modules/webgl-sdf-generator/LICENSE.txt",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "which",
+      "version": "2.0.2",
+      "license_metadata": "ISC",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/which"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/isaacs/node-which.git"
+      },
+      "files": [
+        {
+          "path": "packages/which-2.0.2/LICENSE",
+          "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b",
+          "source": "node_modules/which/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "yet-another-react-lightbox",
+      "version": "3.32.2",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/yet-another-react-lightbox"
+      ],
+      "repository": "github:igordanchenko/yet-another-react-lightbox",
+      "files": [
+        {
+          "path": "packages/yet-another-react-lightbox-3.32.2/LICENSE",
+          "sha256": "edde2a52c6ac1a1dcce70a4f3dd739e27f160ebc0615587e2ee2aa609f13facb",
+          "source": "node_modules/yet-another-react-lightbox/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "zustand",
+      "version": "4.5.7",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/zustand"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pmndrs/zustand.git"
+      },
+      "files": [
+        {
+          "path": "packages/zustand-4.5.7/LICENSE",
+          "sha256": "c1e6e266563517467b1bf874817d23e426f3149252bd7d42758cd697514b8417",
+          "source": "node_modules/zustand/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "zwitch",
+      "version": "2.0.4",
+      "license_metadata": "MIT",
+      "kind": "runtime dependency",
+      "installed_locations": [
+        "node_modules/zwitch"
+      ],
+      "repository": "wooorm/zwitch",
+      "files": [
+        {
+          "path": "packages/zwitch-2.0.4/license",
+          "sha256": "ca4662cb5d1b738fbe5350c0d5485ba11773b4b7208974082ae6e129a52d631d",
+          "source": "node_modules/zwitch/license",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@fontsource/epilogue",
+      "version": "5.3.0",
+      "license_metadata": "OFL-1.1",
+      "kind": "runtime font",
+      "files": [
+        {
+          "path": "packages/fontsource-epilogue-5.3.0/LICENSE",
+          "sha256": "6f84852ae089c9490e7709d36856b196ae4d4d30faa477525815fc1846a7b7f5",
+          "source": "node_modules/@fontsource/epilogue/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@fontsource/dm-sans",
+      "version": "5.3.0",
+      "license_metadata": "OFL-1.1",
+      "kind": "runtime font",
+      "files": [
+        {
+          "path": "packages/fontsource-dm-sans-5.3.0/LICENSE",
+          "sha256": "6fbd040a29c2037a765dfb9f2561e9965b5c95c6dcb5dce516089d63d5f17af7",
+          "source": "node_modules/@fontsource/dm-sans/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "svgo",
+      "version": "4.1.0",
+      "license_metadata": "MIT",
+      "kind": "build-time SVG optimizer",
+      "installed_locations": [
+        "node_modules/svgo"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/svg/svgo.git"
+      },
+      "files": [
+        {
+          "path": "packages/svgo-4.1.0/LICENSE",
+          "sha256": "d2b5640808aeec9c243152ae733cf9cca3a86189ad7817bf50335290dbb31012",
+          "source": "node_modules/svgo/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@fontsource/geist",
+      "version": "5.3.0",
+      "license_metadata": "OFL-1.1",
+      "kind": "runtime font",
+      "files": [
+        {
+          "path": "packages/fontsource-geist-5.3.0/LICENSE",
+          "sha256": "71609cbb5c78b5870d712eab73a31d76622635c6ed034ab5cee3b9ecbda8685f",
+          "source": "node_modules/@fontsource/geist/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@fontsource/geist-mono",
+      "version": "5.3.0",
+      "license_metadata": "OFL-1.1",
+      "kind": "runtime font",
+      "files": [
+        {
+          "path": "packages/fontsource-geist-mono-5.3.0/LICENSE",
+          "sha256": "cc815ed4fc045f0e991abb10395b7932bd028c6a067deb13316d6002105074e6",
+          "source": "node_modules/@fontsource/geist-mono/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    },
+    {
+      "name": "@fontsource/kanit",
+      "version": "5.3.0",
+      "license_metadata": "OFL-1.1",
+      "kind": "runtime font",
+      "installed_locations": [
+        "node_modules/@fontsource/kanit"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fontsource/font-files.git",
+        "directory": "fonts/google/kanit"
+      },
+      "files": [
+        {
+          "path": "packages/fontsource-kanit-5.3.0/LICENSE",
+          "sha256": "0c796c259354fbbc1a5041e468085d219519b3fd93f4e882bcb21ed602dbcca8",
+          "source": "node_modules/@fontsource/kanit/LICENSE",
+          "origin": "exact installed package file"
+        }
+      ]
+    }
+  ],
+  "font_source_checks": [
+    {
+      "font": "Bodoni Moda",
+      "source": "https://github.com/google/fonts/blob/main/ofl/bodonimoda/OFL.txt",
+      "git_blob_sha": "973cec73f0874f3b7821a44ff43e4a4c88e44844",
+      "sha256": "931dfe2e0cd3c9443295f5c1d754b8a8403bf060df50c1d5900267ade83d0046",
+      "path": "font-sources/Bodoni-Moda/OFL.txt"
+    },
+    {
+      "font": "Noto Sans SC",
+      "source": "https://github.com/google/fonts/blob/main/ofl/notosanssc/OFL.txt",
+      "git_blob_sha": "1c9f43281b8f216c5461fe9ac729afbade7724e4",
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+      "path": "font-sources/Noto-Sans-SC/OFL.txt"
+    }
+  ],
+  "foundation_notices": [
+    "sen/LICENSE.sen",
+    "sen/NOTICE.sen"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "edition": "v7",
+  "assets": [
+    {
+      "id": "hermes-logic",
+      "path": "/media/v7/brand/hermes-logic.webp",
+      "bytes": 133120,
+      "origin": "original-media-and-authored-diagram",
+      "productGeometry": "unaltered",
+      "purpose": "Design analysis and application system",
+      "sha256": "0c48eb989b89b8bde6b9b062ce51ab22a461164e19d926134c7e81855d225219"
+    },
+    {
+      "id": "hermes-system",
+      "path": "/media/v7/brand/hermes-system.webp",
+      "bytes": 109044,
+      "origin": "original-media-and-authored-diagram",
+      "productGeometry": "unaltered",
+      "purpose": "Design analysis and application system",
+      "sha256": "d551937b7ab7ec2ba08603e1779869969baf95daad5df0ff6878d0ff9b6fdb33"
+    },
+    {
+      "id": "hermes-application",
+      "path": "/media/v7/brand/hermes-application.webp",
+      "bytes": 130014,
+      "origin": "original-media-and-authored-diagram",
+      "productGeometry": "unaltered",
+      "purpose": "Design analysis and application system",
+      "sha256": "31cf29071a738250aea4e8430c7383b0d2e6629d9abb27eab52c1e4476623bd4"
+    },
+    {
+      "id": "arcteryx-logic",
+      "path": "/media/v7/brand/arcteryx-logic.webp",
+      "bytes": 100444,
+      "origin": "original-media-and-authored-diagram",
+      "productGeometry": "unaltered",
+      "purpose": "Design analysis and application system",
+      "sha256": "bd1f6745bc8c46ab371cfb988976b9a5167eec79aba4c41b389f588bc2d09475"
+    },
+    {
+      "id": "arcteryx-system",
+      "path": "/media/v7/brand/arcteryx-system.webp",
+      "bytes": 98386,
+      "origin": "original-media-and-authored-diagram",
+      "productGeometry": "unaltered",
+      "purpose": "Design analysis and application system",
+      "sha256": "6270649bf3641a8c202a70b0126a87fc5e80c8a24d6aba29f68c5efba52dfee6"
+    },
+    {
+      "id": "arcteryx-application",
+      "path": "/media/v7/brand/arcteryx-application.webp",
+      "bytes": 101706,
+      "origin": "original-media-and-authored-diagram",
+      "productGeometry": "unaltered",
+      "purpose": "Design analysis and application system",
+      "sha256": "100b1943dc4a2abf1718799925110e8bbd36543ee6d2e6d9e87d6572ab24c509"
+    },
+    {
+      "id": "goglow-logic",
+      "path": "/media/v7/brand/goglow-logic.webp",
+      "bytes": 80176,
+      "origin": "original-media-and-authored-diagram",
+      "productGeometry": "unaltered",
+      "purpose": "Design analysis and application system",
+      "sha256": "cbc31b0fe037eaa5dbd852f2c1485115d3e1384c24f08613693ecd70d5011903"
+    },
+    {
+      "id": "goglow-system",
+      "path": "/media/v7/brand/goglow-system.webp",
+      "bytes": 79518,
+      "origin": "original-media-and-authored-diagram",
+      "productGeometry": "unaltered",
+      "purpose": "Design analysis and application system",
+      "sha256": "3238cd2408e333d26b8601b248df4f614fc2fa2ddaccbd5f7e984aae6d8a3ba5"
+    },
+    {
+      "id": "goglow-application",
+      "path": "/media/v7/brand/goglow-application.webp",
+      "bytes": 60538,
+      "origin": "original-media-and-authored-diagram",
+      "productGeometry": "unaltered",
+      "purpose": "Design analysis and application system",
+      "sha256": "560ef6f68d59c3990592647d695592f97f2ca07ee7d5fad812c62fdaec342035"
+    },
+    {
+      "id": "biyuan-logic",
+      "path": "/media/v7/brand/biyuan-logic.webp",
+      "bytes": 95276,
+      "origin": "original-media-and-authored-diagram",
+      "productGeometry": "unaltered",
+      "purpose": "Design analysis and application system",
+      "sha256": "2941dab9fad338ab27f39eec33c5d0cb201c489cbdf321caf1e89e97f5bbad05"
+    },
+    {
+      "id": "periastra-logic",
+      "path": "/media/v7/brand/periastra-logic.webp",
+      "bytes": 93088,
+      "origin": "original-media-and-authored-diagram",
+      "productGeometry": "unaltered",
+      "purpose": "Design analysis and application system",
+      "sha256": "2335f5254e48570283ee90d47a8cee6f66d472ae6daeb1d5f8c4984abbe8fffc"
+    },
+    {
+      "id": "yelisi-logic",
+      "path": "/media/v7/brand/yelisi-logic.webp",
+      "bytes": 84202,
+      "origin": "original-media-and-authored-diagram",
+      "productGeometry": "unaltered",
+      "purpose": "Design analysis and application system",
+      "sha256": "c5af32259c989620fd9014f8c3dc8ec0559cd9377f34d4082465b2cc8ea1c5bb"
+    },
+    {
+      "id": "profile-portrait-cutout",
+      "path": "/media/v7/profile-portrait-cutout.png",
+      "bytes": 2185648,
+      "origin": "canonical user-supplied portrait plus deterministic transparent-background derivative",
+      "productGeometry": "unaltered",
+      "purpose": "Website About/profile and portfolio PDF portrait cutout; exact identity and clothing preserved",
+      "sha256": "855fae1209d439f27ceb825ee51c1704c55b09abe1742fa961a21496a6a8247c"
+    }
+  ]
+}

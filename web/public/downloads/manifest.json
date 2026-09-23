@@ -1,0 +1,422 @@
+{
+  "edition": "v9",
+  "updatedAt": "2026-09-23T04:04:39.021376+00:00",
+  "items": [
+    {
+      "id": "resume-overview-zh-pdf",
+      "variant": "overview",
+      "type": "resume",
+      "format": "pdf",
+      "lang": "zh",
+      "label": {
+        "zh": "总览简历",
+        "en": "Overview résumé"
+      },
+      "path": "/downloads/sun-yingjie-resume.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-resume.webp",
+      "pages": 1,
+      "bytes": 281796,
+      "sha256": "af579a258af1a3d1c452429c71d0d01efad32d3904614881d2e44f9357b96f8a"
+    },
+    {
+      "id": "resume-overview-zh-docx",
+      "variant": "overview",
+      "type": "resume",
+      "format": "docx",
+      "lang": "zh",
+      "label": {
+        "zh": "总览简历",
+        "en": "Overview résumé"
+      },
+      "path": "/downloads/sun-yingjie-resume.docx",
+      "preview": "/media/v9/downloads/sun-yingjie-resume.webp",
+      "pages": 1,
+      "bytes": 2472236,
+      "sha256": "b5a62748bd3421213267b296b6b9070016e9fdbee0758fe451c5d1aeb7e5ea44"
+    },
+    {
+      "id": "portfolio-overview-zh-pdf",
+      "variant": "overview",
+      "type": "portfolio",
+      "format": "pdf",
+      "lang": "zh",
+      "label": {
+        "zh": "总览精选作品集",
+        "en": "Overview selected portfolio"
+      },
+      "path": "/downloads/sun-yingjie-selected-portfolio.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-selected-portfolio.webp",
+      "pages": 33,
+      "bytes": 11987203,
+      "sha256": "e59b26e1514c358a2619091778aa40b0321336153b3ddb25b760dbff96878049"
+    },
+    {
+      "id": "resume-brand-zh-pdf",
+      "variant": "brand",
+      "type": "resume",
+      "format": "pdf",
+      "lang": "zh",
+      "label": {
+        "zh": "品牌视觉简历",
+        "en": "Visual systems résumé"
+      },
+      "path": "/downloads/sun-yingjie-resume-brand.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-resume-brand.webp",
+      "pages": 1,
+      "bytes": 296083,
+      "sha256": "b54f623519e55e38fce8f505ffcd07efb3dfe3224569cb2a6c97aa501f3f29d3"
+    },
+    {
+      "id": "resume-brand-zh-docx",
+      "variant": "brand",
+      "type": "resume",
+      "format": "docx",
+      "lang": "zh",
+      "label": {
+        "zh": "品牌视觉简历",
+        "en": "Visual systems résumé"
+      },
+      "path": "/downloads/sun-yingjie-resume-brand.docx",
+      "preview": "/media/v9/downloads/sun-yingjie-resume-brand.webp",
+      "pages": 1,
+      "bytes": 2472322,
+      "sha256": "c1ab44ec39dc5852c3f58134e2ff5bbce0f6e771dc93cba0ce14b36ab0cf7473"
+    },
+    {
+      "id": "portfolio-brand-zh-pdf",
+      "variant": "brand",
+      "type": "portfolio",
+      "format": "pdf",
+      "lang": "zh",
+      "label": {
+        "zh": "品牌视觉精选作品集",
+        "en": "Visual systems selected portfolio"
+      },
+      "path": "/downloads/sun-yingjie-portfolio-brand.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-portfolio-brand.webp",
+      "pages": 19,
+      "bytes": 7663348,
+      "sha256": "a31a9a36ef3fb380e4ec5ff01c04de39b92739db8263f641c4760a27a537d885"
+    },
+    {
+      "id": "resume-physical-zh-pdf",
+      "variant": "physical",
+      "type": "resume",
+      "format": "pdf",
+      "lang": "zh",
+      "label": {
+        "zh": "实体产品简历",
+        "en": "Physical products résumé"
+      },
+      "path": "/downloads/sun-yingjie-resume-physical.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-resume-physical.webp",
+      "pages": 1,
+      "bytes": 289774,
+      "sha256": "f6389631756f7b7ec630554ed82779b6f5e9f717ae3cc608d6110975e5944c45"
+    },
+    {
+      "id": "resume-physical-zh-docx",
+      "variant": "physical",
+      "type": "resume",
+      "format": "docx",
+      "lang": "zh",
+      "label": {
+        "zh": "实体产品简历",
+        "en": "Physical products résumé"
+      },
+      "path": "/downloads/sun-yingjie-resume-physical.docx",
+      "preview": "/media/v9/downloads/sun-yingjie-resume-physical.webp",
+      "pages": 1,
+      "bytes": 2472325,
+      "sha256": "3a65a011714d36cca37433ee278b193101480c8dac17e7c086c19b9c0cff2da7"
+    },
+    {
+      "id": "portfolio-physical-zh-pdf",
+      "variant": "physical",
+      "type": "portfolio",
+      "format": "pdf",
+      "lang": "zh",
+      "label": {
+        "zh": "实体产品精选作品集",
+        "en": "Physical products selected portfolio"
+      },
+      "path": "/downloads/sun-yingjie-portfolio-physical.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-portfolio-physical.webp",
+      "pages": 20,
+      "bytes": 7681608,
+      "sha256": "7fc20f0c8315ccf865c1a456955bb45bf59ed00a89186603c5cace25b2b3ad0c"
+    },
+    {
+      "id": "resume-digital-zh-pdf",
+      "variant": "digital",
+      "type": "resume",
+      "format": "pdf",
+      "lang": "zh",
+      "label": {
+        "zh": "数字体验简历",
+        "en": "Digital experience résumé"
+      },
+      "path": "/downloads/sun-yingjie-resume-digital.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-resume-digital.webp",
+      "pages": 1,
+      "bytes": 298280,
+      "sha256": "d0f3c02749966d22c29a3c0205a4407800a3097bf7880d1b06430abce9f6458a"
+    },
+    {
+      "id": "resume-digital-zh-docx",
+      "variant": "digital",
+      "type": "resume",
+      "format": "docx",
+      "lang": "zh",
+      "label": {
+        "zh": "数字体验简历",
+        "en": "Digital experience résumé"
+      },
+      "path": "/downloads/sun-yingjie-resume-digital.docx",
+      "preview": "/media/v9/downloads/sun-yingjie-resume-digital.webp",
+      "pages": 1,
+      "bytes": 2472341,
+      "sha256": "8a87dc9d64fcab10e8ddc844dedc4f5297a8482871b115edf5b970bcac2dda64"
+    },
+    {
+      "id": "portfolio-digital-zh-pdf",
+      "variant": "digital",
+      "type": "portfolio",
+      "format": "pdf",
+      "lang": "zh",
+      "label": {
+        "zh": "数字体验精选作品集",
+        "en": "Digital experience selected portfolio"
+      },
+      "path": "/downloads/sun-yingjie-portfolio-digital.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-portfolio-digital.webp",
+      "pages": 24,
+      "bytes": 3981260,
+      "sha256": "718f57db507e782696eaefcc895650e6150a6177e971488778e4d9861314fe90"
+    },
+    {
+      "id": "full-zh-pdf",
+      "variant": "overview",
+      "type": "portfolio",
+      "format": "pdf",
+      "lang": "zh",
+      "label": {
+        "zh": "完整作品档案",
+        "en": "Complete project archive"
+      },
+      "path": "/downloads/sun-yingjie-full-portfolio.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-full-portfolio.webp",
+      "pages": 268,
+      "bytes": 19118966,
+      "sha256": "24d86c024c947853abd3b364c03cf002d6b81f2c5643ff0f04a1f108755686e4"
+    },
+    {
+      "id": "resume-overview-en-pdf",
+      "variant": "overview",
+      "type": "resume",
+      "format": "pdf",
+      "lang": "en",
+      "label": {
+        "zh": "总览简历",
+        "en": "Overview résumé"
+      },
+      "path": "/downloads/sun-yingjie-resume-en.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-resume-en.webp",
+      "pages": 1,
+      "bytes": 207484,
+      "sha256": "0ce1f8d2f36a6214fdb92ae192efddb8dc2251028a4b41cb391ae6fc47314c56"
+    },
+    {
+      "id": "resume-overview-en-docx",
+      "variant": "overview",
+      "type": "resume",
+      "format": "docx",
+      "lang": "en",
+      "label": {
+        "zh": "总览简历",
+        "en": "Overview résumé"
+      },
+      "path": "/downloads/sun-yingjie-resume-en.docx",
+      "preview": "/media/v9/downloads/sun-yingjie-resume-en.webp",
+      "pages": 1,
+      "bytes": 2472061,
+      "sha256": "0f207d530c1838ffeb328039959eec5f90d405b100f624b891232614c9b46629"
+    },
+    {
+      "id": "portfolio-overview-en-pdf",
+      "variant": "overview",
+      "type": "portfolio",
+      "format": "pdf",
+      "lang": "en",
+      "label": {
+        "zh": "总览精选作品集",
+        "en": "Overview selected portfolio"
+      },
+      "path": "/downloads/sun-yingjie-selected-portfolio-en.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-selected-portfolio-en.webp",
+      "pages": 33,
+      "bytes": 11606466,
+      "sha256": "103568e765c421387e8b74e9754cba3240d2ecf48943b209ef925dbbed6e3718"
+    },
+    {
+      "id": "resume-brand-en-pdf",
+      "variant": "brand",
+      "type": "resume",
+      "format": "pdf",
+      "lang": "en",
+      "label": {
+        "zh": "品牌视觉简历",
+        "en": "Visual systems résumé"
+      },
+      "path": "/downloads/sun-yingjie-resume-brand-en.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-resume-brand-en.webp",
+      "pages": 1,
+      "bytes": 209250,
+      "sha256": "d03ae18899ee993bcfa69649c0e743f3c9e1cfa4f9f4362d310adb4cc4bc0337"
+    },
+    {
+      "id": "resume-brand-en-docx",
+      "variant": "brand",
+      "type": "resume",
+      "format": "docx",
+      "lang": "en",
+      "label": {
+        "zh": "品牌视觉简历",
+        "en": "Visual systems résumé"
+      },
+      "path": "/downloads/sun-yingjie-resume-brand-en.docx",
+      "preview": "/media/v9/downloads/sun-yingjie-resume-brand-en.webp",
+      "pages": 1,
+      "bytes": 2472093,
+      "sha256": "1fb28daecdfad159aa64cbcda8cded21d701073b21d08d268eb5f78ed58c1d12"
+    },
+    {
+      "id": "portfolio-brand-en-pdf",
+      "variant": "brand",
+      "type": "portfolio",
+      "format": "pdf",
+      "lang": "en",
+      "label": {
+        "zh": "品牌视觉精选作品集",
+        "en": "Visual systems selected portfolio"
+      },
+      "path": "/downloads/sun-yingjie-portfolio-brand-en.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-portfolio-brand-en.webp",
+      "pages": 19,
+      "bytes": 7377490,
+      "sha256": "55c006795fd2a530aaae90f5d866fd7b6cb6bef58e39e98ed2e9115a622fa629"
+    },
+    {
+      "id": "resume-physical-en-pdf",
+      "variant": "physical",
+      "type": "resume",
+      "format": "pdf",
+      "lang": "en",
+      "label": {
+        "zh": "实体产品简历",
+        "en": "Physical products résumé"
+      },
+      "path": "/downloads/sun-yingjie-resume-physical-en.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-resume-physical-en.webp",
+      "pages": 1,
+      "bytes": 208913,
+      "sha256": "e169c9e5afdd75050f27e9a48520a7fbac6e8c95410877727b3bf2a3cce443bd"
+    },
+    {
+      "id": "resume-physical-en-docx",
+      "variant": "physical",
+      "type": "resume",
+      "format": "docx",
+      "lang": "en",
+      "label": {
+        "zh": "实体产品简历",
+        "en": "Physical products résumé"
+      },
+      "path": "/downloads/sun-yingjie-resume-physical-en.docx",
+      "preview": "/media/v9/downloads/sun-yingjie-resume-physical-en.webp",
+      "pages": 1,
+      "bytes": 2472102,
+      "sha256": "6ceb1e7704e6668616a80e38d0ebb568ff3e1c42ddc34db6ee89f348508065e0"
+    },
+    {
+      "id": "portfolio-physical-en-pdf",
+      "variant": "physical",
+      "type": "portfolio",
+      "format": "pdf",
+      "lang": "en",
+      "label": {
+        "zh": "实体产品精选作品集",
+        "en": "Physical products selected portfolio"
+      },
+      "path": "/downloads/sun-yingjie-portfolio-physical-en.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-portfolio-physical-en.webp",
+      "pages": 20,
+      "bytes": 7379287,
+      "sha256": "cc9d090b7c9b19091cc063354e79195edee431efd9d97c566f658f68aa1227a8"
+    },
+    {
+      "id": "resume-digital-en-pdf",
+      "variant": "digital",
+      "type": "resume",
+      "format": "pdf",
+      "lang": "en",
+      "label": {
+        "zh": "数字体验简历",
+        "en": "Digital experience résumé"
+      },
+      "path": "/downloads/sun-yingjie-resume-digital-en.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-resume-digital-en.webp",
+      "pages": 1,
+      "bytes": 209735,
+      "sha256": "127cd2d3a3757fdbed21a849ca51f6c439f525541ea12d98d27c2f6fcdc1bbdc"
+    },
+    {
+      "id": "resume-digital-en-docx",
+      "variant": "digital",
+      "type": "resume",
+      "format": "docx",
+      "lang": "en",
+      "label": {
+        "zh": "数字体验简历",
+        "en": "Digital experience résumé"
+      },
+      "path": "/downloads/sun-yingjie-resume-digital-en.docx",
+      "preview": "/media/v9/downloads/sun-yingjie-resume-digital-en.webp",
+      "pages": 1,
+      "bytes": 2472121,
+      "sha256": "7e3343e1c0ea1a68533e0227e17f685bc66d8d4c971e3d3c1837456227d50657"
+    },
+    {
+      "id": "portfolio-digital-en-pdf",
+      "variant": "digital",
+      "type": "portfolio",
+      "format": "pdf",
+      "lang": "en",
+      "label": {
+        "zh": "数字体验精选作品集",
+        "en": "Digital experience selected portfolio"
+      },
+      "path": "/downloads/sun-yingjie-portfolio-digital-en.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-portfolio-digital-en.webp",
+      "pages": 24,
+      "bytes": 3647027,
+      "sha256": "e5872022f02e813cc2a9c20b67944ba8d9f8492d2111a799a0af0ef12ec7b0b0"
+    },
+    {
+      "id": "full-en-pdf",
+      "variant": "overview",
+      "type": "portfolio",
+      "format": "pdf",
+      "lang": "en",
+      "label": {
+        "zh": "完整作品档案",
+        "en": "Complete project archive"
+      },
+      "path": "/downloads/sun-yingjie-full-portfolio-en.pdf",
+      "preview": "/media/v9/downloads/sun-yingjie-full-portfolio-en.webp",
+      "pages": 268,
+      "bytes": 18620711,
+      "sha256": "a2ff5a62770e827ee940fb9b47ca581750bcb7b37130613119848bd74afbb8a2"
+    }
+  ]
+}
