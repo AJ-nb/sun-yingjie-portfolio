@@ -1,7 +1,7 @@
 name: Publish portfolio
 on:
   push:
-    branches: [portfolio-v11-public]
+    branches: [portfolio-v12-public]
   workflow_dispatch:
 permissions:
   contents: read

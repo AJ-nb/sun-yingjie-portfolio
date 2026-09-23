@@ -25,7 +25,7 @@ Material credibility depends on light, surface and scale together; stronger refl
 
 The bicycle series uses a dark full view for the silhouette, snow and mountain settings for environmental relationships, and frame, bottle, handlebar and drivetrain details for surfaces. Product selections examine personal-care, fitness, lighting and equipment compositions; the car study alternates aurora and desert settings to explore bodywork and camera movement.
 
-This retrospective reads the retained images as whole, detail and environment, without treating different viewpoints as precise before-and-after comparisons. Product-design roles belong to the corresponding cases; third-party vehicles and brands are not claimed as personal designs.
+This retrospective reads the retained images as whole, detail and environment, without treating different viewpoints as precise before-and-after comparisons. Product-design roles belong to the corresponding cases; third-party vehicles and brands remain credited reference context.
 
 ## Final work
 

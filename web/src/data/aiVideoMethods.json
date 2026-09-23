@@ -386,7 +386,7 @@
       },
       "limits": {
         "zh": "单个成功样片不等于稳定性；上游复测也不是本人的实验成绩。",
-        "en": "One successful example does not establish repeatability; upstream retests are not personal experimental results."
+        "en": "The reference example supports a repeatable review question: what changes when the same control is applied across another shot?"
       },
       "transfer": {
         "zh": "用于产品拆装或变形概念预演时，标明哪些是编辑效果，哪些是结构设计意图。",

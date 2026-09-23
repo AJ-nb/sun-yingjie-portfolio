@@ -11,7 +11,7 @@ old=read('resume-positioning.json')
 # A short, evidence-backed common practice statement fits on a one-page CV.
 practice={
  'zh':'独立 AI 视频研究：设计分镜、Blender 白模与渲染评估流程。AI 辅助生成，人负责输入、设计判断与核验；未作为商业部署成果。',
- 'en':'Independent AI-video research: storyboard, Blender blocking and render review. AI assists generation; I define inputs, judge and verify outputs. No commercial deployment claimed.'}
+ 'en':'Independent AI-video research: storyboard, Blender blocking and render review. AI assists generation; I define inputs, judge and verify outputs. The work focuses on independent workflow practice and method development.'}
 variants={
  'overview':{
   'zh':('连接产品形态、CMF、三维与品牌，以模型和原型支持设计判断。', [('实体产品','从使用情境比较形态、材料与部件关系。'),('视觉系统','连接品牌识别、产品与商业空间的表达。'),('设计协作','以三维、界面和版本比较支持团队讨论。')]),

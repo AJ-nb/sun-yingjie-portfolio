@@ -31,7 +31,7 @@ Storage, a work surface and a stool need distinct roles within a small footprint
 
 The proposal starts with plant-derived material and furniture directions, then uses scenarios and sketches to organize the cabinet, surface and stool. Exploded and dimension views explain combinations; domestic scenes show occupied space and proportions when deployed.
 
-This retrospective compares storage and work states, considering access and dependencies between modules. The sRGB exports from original layered files retain material research, sketches and layout. Interior backgrounds set the furniture in context and are not claimed as original spatial design.
+This retrospective compares storage and work states, considering access and dependencies between modules. The sRGB exports from original layered files retain material research, sketches and layout. Interior backgrounds set the furniture in context and are credited as supplied references.
 
 ![Modular-furniture sketches and combination studies](/works/documents/portfolio-51/047.webp)
 
@@ -48,7 +48,7 @@ This retrospective compares storage and work states, considering access and depe
 
 ![Native furniture structure and rendering board](/works/refinement-v2/psd-jimu/product-board.webp)
 
-![Original furniture scenario board; interior assets are not claimed as original design](/works/refinement-v2/psd-jimu/scene-board.webp)
+![Original furniture scenario board; interior assets are presented as supplied context with source credit](/works/refinement-v2/psd-jimu/scene-board.webp)
 
 ![Isolated material and component diagram](/works/refinement-v2/psd-jimu/materials-exploded.webp)
 

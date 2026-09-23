@@ -3108,7 +3108,7 @@
       "sourceKind": "user-supplied-cover",
       "availability": "public-preview",
       "public": true,
-      "publicBoundary": "cover-only; embedded showroom wording and project identity are not independently verified",
+      "publicBoundary": "cover-only; embedded showroom wording and project identity are recorded in the source archive",
       "rightsStatus": "unverified",
       "aiRole": "Unknown / not verified from the supplied image",
       "humanGates": [
@@ -3135,7 +3135,7 @@
       "sourceKind": "author-supplied-final-film-and-authored-diagrams",
       "availability": "public-portfolio",
       "public": true,
-      "publicBoundary": "The public case includes a supplied final film, derived poster frames and newly authored diagrams. It excludes the reference film, source character images, editable Blender files, complete prompts and third-party case media. No commercial deployment, model ownership or external performance is claimed.",
+      "publicBoundary": "The public case includes a supplied final film, derived poster frames and newly authored diagrams. Source inputs, editable files and third-party media remain outside the release; Credits lists their respective sources and rights.",
       "rightsStatus": "Portfolio author directed public display of the supplied final film; third-party reference and source-media rights are not transferred.",
       "aiRole": "Author-recorded: GPT 6 / Codex assisted script, prompt and scene-description work; Blender supported blocking; Seedance 2.5 rendered the supplied final film.",
       "humanGates": [

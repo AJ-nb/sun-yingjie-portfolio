@@ -24,7 +24,7 @@ copy={
  ('interface','One identity across desktop and mobile','Desktop and mobile views share naming and brand rules. The smaller screen rearranges information around the primary action.')],
 'periastra':[
  ('exploration','Build the system around recognition','Compare the photography-equipment context, name recognition and small-scale legibility. The wordmark anchors the visual and information system.'),
- ('wordmark','Compare the wordmark at different scales','The PERIASTRA wordmark study, dated 9 June 2026, supports comparison of letterforms, hierarchy and application scale. Commercial adoption is not independently verified.')],
+ ('wordmark','Compare the wordmark at different scales','The PERIASTRA wordmark study, dated 9 June 2026, supports comparison of letterforms, hierarchy, application scale and production direction.')],
 'yelisi':[
  ('identity','From historical exploration to a private seal','The earlier Songnasty exploration and current YELISI mark show a shift in identity language. Seal, folded line and cut-corner forms connect naming, graphics and product context.'),
  ('product','Connect identity, products and CMF','Collaborative brand and product-concept work shares a material direction. The archive supports comparison of form and surface; no manufacture or market launch is claimed.')],

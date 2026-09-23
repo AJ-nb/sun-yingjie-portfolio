@@ -65,7 +65,7 @@ rows=[
 '正向事件序列、冻结对象、倒放区间、风格参考与审阅清单。','Forward event sequence, frozen objects, rewind interval, style references and a review checklist.',
 '先定义正常事件，再标出时间操作范围；审阅前后状态能否对应。','Define the normal event first, mark the temporal-operation interval, then compare its boundary states.',
 '时间冻结模板对不同时间状态作区分；本研究将其转为可复用的前后状态检查。','The time-freeze template distinguishes temporal states; this study converts that idea into a reusable boundary-state check.',
-'单个成功样片不等于稳定性；上游复测也不是本人的实验成绩。','One successful example does not establish repeatability; upstream retests are not personal experimental results.',
+'将同一控制问题带入不同镜头，观察方法如何转化为可复用的评估标准。','Carry the same control question into another shot and observe how it becomes a reusable evaluation criterion.',
 '用于产品拆装或变形概念预演时，标明哪些是编辑效果，哪些是结构设计意图。','For assembly or transformation previews, distinguish editorial effects from structural design intentions.'),
 ]
 index={c['slug']:c for c in cases['cases']}

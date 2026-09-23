@@ -4,11 +4,10 @@ const base=(process.env.PORTFOLIO_QA_URL||'http://127.0.0.1:5173').replace(/\/$/
 fs.mkdirSync(out,{recursive:true})
 ;(async()=>{
 const browser=await chromium.launch(),context=await browser.newContext({viewport:{width:1280,height:720},reducedMotion:'reduce'}),page=await context.newPage(),errors=[]
+await context.addInitScript(()=>{try{localStorage.removeItem('portfolio-motion')}catch{}})
 page.on('pageerror',e=>errors.push(e.message))
 try{
  await page.goto(base+'/');await page.evaluate(()=>document.fonts.ready)
- await expect(page.locator('html')).toHaveAttribute('data-motion','reduced')
- await page.getByRole('button',{name:'开启完整动效',exact:true}).click()
  await expect(page.locator('html')).toHaveAttribute('data-motion','full')
  const canvas=page.locator('.home-tv-figure canvas')
  await expect(canvas).toHaveAttribute('data-pose','32',{timeout:30000})
@@ -20,9 +19,8 @@ try{
  await page.reload();await expect(page.locator('#motion-preference')).toHaveValue('full')
  await page.emulateMedia({reducedMotion:'no-preference'});await expect(page.locator('html')).toHaveAttribute('data-motion','full')
  await page.locator('#motion-preference').selectOption('reduced');await expect(page.locator('html')).toHaveAttribute('data-motion','reduced')
- await page.locator('#motion-preference').selectOption('system');await expect(page.locator('html')).toHaveAttribute('data-motion','full')
- await page.emulateMedia({reducedMotion:'reduce'});await expect(page.locator('html')).toHaveAttribute('data-motion','reduced')
- await page.locator('#motion-preference').selectOption('full')
+ await page.locator('#motion-preference').selectOption('full');await expect(page.locator('html')).toHaveAttribute('data-motion','full')
+ await page.emulateMedia({reducedMotion:'reduce'});await expect(page.locator('html')).toHaveAttribute('data-motion','full')
  for(const [width,height] of [[390,844],[768,1024],[1280,720],[1440,900],[1920,1080],[1280,600]]){
    await page.setViewportSize({width,height});await page.evaluate(()=>document.fonts.ready);await page.waitForTimeout(350)
    assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),`overflow ${width}`)
@@ -41,7 +39,7 @@ try{
  await page.screenshot({path:path.join(out,'methods.png'),fullPage:true})
  assert.deepEqual(errors,[])
  const blocked=await browser.newContext({reducedMotion:'reduce'});await blocked.addInitScript(()=>{Object.defineProperty(window,'localStorage',{get(){throw new Error('blocked')}})})
- const bp=await blocked.newPage();await bp.goto(base+'/');await bp.getByRole('button',{name:'开启完整动效',exact:true}).click();await expect(bp.locator('html')).toHaveAttribute('data-motion','full');await blocked.close()
- console.log('PASS v11 motion overrides, poses, layouts, filters, persistence, storage failure and media loading')
+ const bp=await blocked.newPage();await bp.goto(base+'/');await expect(bp.locator('html')).toHaveAttribute('data-motion','full');await blocked.close()
+ console.log('PASS v12 full-motion default, manual reduction, poses, layouts, filters, persistence, storage failure and media loading')
 }finally{await browser.close()}
 })().catch(e=>{console.error(e);process.exitCode=1})

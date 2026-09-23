@@ -81,7 +81,7 @@ const editorial = {
       "以引渡者、HUHU CARE、GO GLOW 等合作概念，连接角色旅程、形态、模型与界面。"
     ],
     "practiceDetails": [
-      "独立 AI 视频研究：整理六层控制方法与八项参考分析，连接分镜、Blender 白模与渲染审阅。AI 辅助生成，人负责判断；未声称商业部署或上游成果。",
+      "独立 AI 视频研究：整理六层控制方法与八项参考分析，连接分镜、Blender 白模与渲染审阅。AI 辅助生成，人负责输入组织、比较与判断。",
       "以 Resume Formatter 的母版与岗位版本、差异审阅和撤销，实践可控的内容改写；它是 MIT 上游 fork，不主张从零原创。"
     ],
     "capabilities": [
@@ -288,7 +288,7 @@ const editorial = {
       "Collaborative concepts including Plumber, HUHU CARE and GO GLOW connect role journeys, form, models and interfaces."
     ],
     "practiceDetails": [
-      "Independent AI-video research: six control layers and eight reference analyses linked to storyboard, Blender blocking and render review. Human-led judgment; no commercial or upstream results claimed.",
+      "Independent AI-video research: six control layers and eight reference analyses linked to storyboard, Blender blocking and render review. Human-led judgment; the practice focuses on workflow method and application.",
       "Resume Formatter explores master and job-specific versions, diff review and undo in a controlled editing flow; it is an MIT upstream fork rather than a from-scratch original."
     ],
     "capabilities": [

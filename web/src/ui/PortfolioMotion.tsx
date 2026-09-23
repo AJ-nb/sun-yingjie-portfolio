@@ -7,10 +7,10 @@ import { heroPoseTime } from './videoSeek'
 export function TurningFigure({ hero, lang }: { hero: RefObject<HTMLElement | null>; lang: Lang }) {
   const canvas = useRef<HTMLCanvasElement>(null)
   const reduced = useReducedMotion()
-  const [ready, setReady] = useState(false)
   const x = useSpring(0, { stiffness: 100, damping: 22 }), y = useSpring(0, { stiffness: 100, damping: 22 })
   useEffect(() => {
     const surface = hero.current, targetCanvas = canvas.current
+    targetCanvas?.classList.remove('is-ready')
     if (!surface || !targetCanvas || reduced || !matchMedia('(any-hover:hover) and (any-pointer:fine)').matches) return
     const context = targetCanvas.getContext('2d')
     if (!context) return
@@ -20,7 +20,8 @@ export function TurningFigure({ hero, lang }: { hero: RefObject<HTMLElement | nu
       const image = frames.get(frame)
       if (!image || disposed) return
       context.clearRect(0, 0, 800, 722); context.drawImage(image, 0, 0, 800, 722)
-      targetCanvas.dataset.pose = String(frame); setReady(true)
+      targetCanvas.dataset.pose = String(frame)
+      targetCanvas.classList.add('is-ready')
     }
     const animate = (now: number) => {
       raf = 0
@@ -57,7 +58,7 @@ export function TurningFigure({ hero, lang }: { hero: RefObject<HTMLElement | nu
   }, [hero,reduced,x,y])
   return <div className="home-tv-stage"><motion.div className="home-tv-figure" style={reduced ? undefined : {x,y}}>
     <img src={asset('/media/v10/hero/poster.webp')} width="800" height="722" alt={lang==='zh'?'灰色西装与粉色眼睛的电视头角色':'TV-head character in a grey jacket with pink eyes'}/>
-    <canvas ref={canvas} width="800" height="722" aria-hidden="true" className={ready&&!reduced?'is-ready':''}/>
+    <canvas ref={canvas} width="800" height="722" aria-hidden="true"/>
   </motion.div></div>
 }
 

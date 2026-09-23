@@ -36,8 +36,8 @@ export const capabilityTerritories: CapabilityTerritory[] = [
     items: [
       { id: 'form-cmf', label: { zh: '产品形态与 CMF', en: 'Product form & CMF' }, level: 'demonstrated-expertise', evidence: ['lighting', 'huhu-care', 'go-glow', 'plumber', 'yelisi'] },
       { id: 'surface', label: { zh: '曲面与表面质量', en: 'Surface quality & continuity' }, level: 'professional-proficiency', evidence: [], note: { zh: '用户确认具备；当前项目未形成公开 G0–G3 或 Zebra 记录。', en: 'User-confirmed; no public G0–G3 or zebra-analysis record is published yet.' } },
-      { id: 'dfm', label: { zh: 'DFM 与工程意识', en: 'DFM & engineering awareness' }, level: 'professional-proficiency', evidence: ['hermes', 'arcteryx', 'hannstar'], note: { zh: '公开证据支持制造语境、设计交接和工程约束分析；个人生产对接与量产工程签核均未独立核验。', en: 'Public evidence supports manufacturing context, design handoff and engineering-constraint analysis; individual production liaison and mass-production sign-off are not independently verified.' } },
-      { id: 'prototype', label: { zh: '原型与设计验证', en: 'Prototyping & design validation' }, level: 'professional-proficiency', evidence: ['huhu-care', 'go-glow'], note: { zh: '公开案例以概念与模型为主，未声称已完成量产验证。', en: 'Public cases focus on concepts and models; mass-production validation is not claimed.' } },
+      { id: 'dfm', label: { zh: 'DFM 与工程意识', en: 'DFM & engineering awareness' }, level: 'professional-proficiency', evidence: ['hermes', 'arcteryx', 'hannstar'], note: { zh: '公开案例记录制造语境、设计交接和工程约束分析；具体签核职责见项目资料说明。', en: 'Public cases document manufacturing context, design handoff and engineering-constraint analysis; project notes define the specific sign-off scope.' } },
+      { id: 'prototype', label: { zh: '原型与设计验证', en: 'Prototyping & design validation' }, level: 'professional-proficiency', evidence: ['huhu-care', 'go-glow'], note: { zh: '公开案例以概念与模型为主，后续工程验证另行推进。', en: 'Public cases focus on concepts and models; mass-production validation is a future engineering step.' } },
     ],
   },
   {

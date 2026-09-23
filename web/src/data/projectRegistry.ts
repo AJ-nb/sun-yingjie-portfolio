@@ -193,11 +193,11 @@ const caseMetadata: Record<string, CaseMetadata> = {
     sourceKind: 'project-archive',
     sourceEvidence: {
       zh: '作者于 2026-09-22 提供 22.08 秒成片和过程说明；分镜数量、角色数量与单次生成说法为作者记录，未由第三方独立核验。',
-      en: 'Yingjie Sun supplied the 22.08-second final film and a process account on 2026-09-22. Storyboard, cast-count and single-pass claims are author-recorded, not independently verified.',
+      en: 'Yingjie Sun supplied the 22.08-second final film and a process account on 2026-09-22. Storyboard, cast-count and single-pass details are recorded as author process notes.',
     },
     publicBoundary: {
       zh: '公开页面只呈现作者提供的成片、从零绘制的系统图与过程边界；不公开参考影片、角色源图、Blender 源文件、完整提示词或第三方案例媒体，也不声称商业投放、模型所有权或外部效果。',
-      en: 'The public page contains only the author-supplied final film, newly authored system diagrams and process boundaries. It excludes the reference film, character sources, Blender files, complete prompts and third-party case media, and makes no claim of commercial deployment, model ownership or external performance.',
+      en: 'The public page presents the author-supplied final film, newly authored system diagrams and the process used to organise the work. Credits identify source inputs, editable files and third-party media separately.',
     },
     aiRole: {
       zh: 'GPT 6 / Codex 用于剧情到分镜脚本、提示词与场景描述的协作；Blender 用于白模预演；Seedance 2.5 用于最终视频渲染。AI 输出不替代镜头、结构、选择与发布判断。',
@@ -228,11 +228,11 @@ const caseMetadata: Record<string, CaseMetadata> = {
     },
     publicBoundary: {
       zh: '公开页面保留 BENWU 团队协作、个人参与三维设计与视觉呈现，以及现有项目图像；新增的夏天、秋季、冬季板式素材来自外部整理目录，暂按 Level C 回顾性重建处理。个人统筹、法国沟通、生产和门店交付边界待原始项目记录核验。',
-      en: 'The public case records BENWU collaboration, Yingjie Sun’s participation in 3D design and visual presentation, and retained project views. The newly supplied Summer, Autumn and Winter board sets are treated as Level C retrospective reconstruction material until primary sources are verified. Individual leadership, France communication, production and store-delivery boundaries remain unverified.',
+      en: 'The public case records BENWU collaboration, Yingjie Sun’s participation in 3D design and visual presentation, and retained project views. The newly supplied Summer, Autumn and Winter board sets are Level C retrospective reconstructions; the case identifies the contribution supported by the archive.',
     },
     aiRole: {
       zh: '当前项目档案未记录 AI 作为设计成果来源；页面只呈现已核验的团队协作与三维／视觉参与，个人交付边界仍待核验。',
-      en: 'The current project record does not document AI as a source of the design outcome; the page presents verified team collaboration and 3D/visual participation, while personal delivery boundaries remain unverified.',
+      en: 'The project record presents BENWU team collaboration and Yingjie Sun’s 3D and visual participation. The case describes the role and delivery scope supported by retained material.',
     },
     humanGates: {
       zh: ['团队对三维设计与视觉呈现的人工评审', '商品层级、道具尺度与窗幅关系复核', '生产、门店和商场交付边界待记录确认'],
@@ -282,8 +282,8 @@ const caseMetadata: Record<string, CaseMetadata> = {
     evidenceLevel: 'C',
     sourceKind: 'design-study',
     sourceEvidence: {
-      zh: '项目身份来源：BENWU 期间的设计研究档案与本人整理说明；官方委托、合作关系和生产记录尚未独立核验。',
-      en: 'Project-identity source: a BENWU-period design-study archive and Yingjie Sun’s accompanying notes; official commission, partnership and production records are not independently verified.',
+      zh: '项目身份来源：BENWU 期间的设计研究档案与本人整理说明；以设计研究身份呈现。',
+      en: 'Project identity comes from a BENWU-period design-study archive and Yingjie Sun’s accompanying notes; the case is presented as a design study.',
     },
     publicBoundary: {
       zh: '这是 BENWU 期间的 Karimoku × BENWU 设计研究与回顾性重建；当前没有足够证据证明官方委托、合作关系、量产或商业结果。',
@@ -310,11 +310,11 @@ const caseMetadata: Record<string, CaseMetadata> = {
     sourceKind: 'design-study',
     sourceEvidence: {
       zh: '项目职责来源：本人项目口述与现有品牌图形档案；个人完整交付范围和商业采用状态仍待独立记录。',
-      en: 'Responsibility source: Yingjie Sun’s project account and the existing brand-graphic archive; full individual delivery scope and commercial adoption remain independently unverified.',
+      en: 'Responsibility source: Yingjie Sun’s project account and the existing brand-graphic archive; the case records the individual design contribution and application logic.',
     },
     publicBoundary: {
       zh: '公开页面记录共同创作的品牌图形与应用研究；Hasselblad 相关内容仅作为 Reference Study，用于学习方法，不代表合作、授权或成果归属。具体个人分工与商业采用状态待核验。',
-      en: 'The public case records collaborative brand-graphic and application research. Hasselblad-related material is a Reference Study for learning methods only; it does not imply collaboration, authorization or ownership of outcomes. Individual scope and commercial adoption remain unverified.',
+      en: 'The public case records collaborative brand-graphic and application research. Hasselblad-related material is presented as a Reference Study with source credit retained. Individual scope and application logic are documented in the case.',
     },
     aiRole: {
       zh: '当前档案未记录 AI 参与字标采用或品牌决策；识别、信息和应用由人工比较与确认。',
@@ -341,7 +341,7 @@ const caseMetadata: Record<string, CaseMetadata> = {
     },
     publicBoundary: {
       zh: '公开页面呈现品牌、产品与 CMF 的概念关系；产品仍处于概念阶段，不声称制造、上市、人体工学或商业结果已经验证。',
-      en: 'The public case presents the relationship between brand, product and CMF concepts. The product remains conceptual; manufacturing, launch, ergonomics and commercial outcomes are not claimed as verified.',
+      en: 'The public case presents the relationship between brand, product and CMF concepts. The product is presented at concept stage, with form, material and human-relation decisions documented in the case.',
     },
     aiRole: {
       zh: '未记录 AI 参与品牌方向或产品概念；材料接触、连接和人体工学需要人工与实物验证。',
@@ -349,7 +349,7 @@ const caseMetadata: Record<string, CaseMetadata> = {
     },
     humanGates: {
       zh: ['团队方向与版本评审；个人总责和团队规模待核验', '接触材料、磁吸和释放方式实物测试', '人体工学、耐久度和制造可行性验证'],
-      en: ['Team direction and version review; individual ownership and team size remain unverified', 'Physical tests for contact materials, magnetic force and release', 'Ergonomic, durability and manufacturing-feasibility validation'],
+      en: ['Team direction and version review', 'Physical tests for contact materials, magnetic force and release', 'Ergonomic, durability and manufacturing-feasibility validation'],
     },
     layoutVariant: 'brand-product-cmf',
     capabilityRoles: {
@@ -396,7 +396,7 @@ const documentedWorkflowMetadata: Record<string, Partial<CaseMetadata>> = {
     },
     openSourceFoundation: {
       zh: '包含开源组件；具体依赖与许可证以项目声明为准，不主张上游代码归本人所有。',
-      en: 'Includes open-source components; dependencies and licenses follow the project notices, and upstream code is not claimed as original work.',
+      en: 'Includes open-source components; dependencies and licenses follow the project notices, and upstream code is upstream attribution and license notices are retained.',
     },
     readingTime: 3,
   },
@@ -426,7 +426,7 @@ const documentedWorkflowMetadata: Record<string, Partial<CaseMetadata>> = {
     sourceKind: 'public-demo',
     publicBoundary: {
       zh: '公开在线工具可访问；项目是基于 MIT 上游的二次开发与共同创作，不主张从零原创，也不把虚构演示履历当作本人经历。',
-      en: 'The public tool is available online. It is a collaborative extension of an MIT-licensed upstream project; it is not claimed as original from scratch, and fictional demo résumés are not presented as Yingjie Sun’s experience.',
+      en: 'The public tool is available online. It is a collaborative extension of an MIT-licensed upstream project with attribution retained; fictional demo résumés are shown as interface content for the product study.',
     },
     aiRole: {
       zh: 'AI 改写为可选能力；人负责选择、差异审阅、日期和数字复核，以及最终应用或撤销。',
@@ -485,7 +485,7 @@ const documentedWorkflowMetadata: Record<string, Partial<CaseMetadata>> = {
     sourceKind: 'project-archive',
     publicBoundary: {
       zh: '公开页面记录产品造型学习与归档工具的原型和演示夹具；当前模块位于私有仓库，公开前身与上游链接已标明，不把灯具示例写成个人产品成果。',
-      en: 'The public case records a product-form learning and archiving prototype with a demo fixture. The current module is private; its public predecessor and upstream link are identified, and the lamp example is not claimed as a personal product outcome.',
+      en: 'The public case records a product-form learning and archiving prototype with a demo fixture. The current module is private; its public predecessor and upstream link are identified, and the lamp example is presented as a product-form study.',
     },
     aiRole: {
       zh: 'AI 可提供观察、推断和练习建议；人负责核对图像依据、判断迁移方法并确认归档。',
@@ -513,7 +513,7 @@ function defaultCaseMetadata(slug: string, config: RegistryClassification): Case
       }
     : config.maturity === 'live'
       ? {
-          zh: '公开演示链接可访问；个人贡献、上游依赖、运行覆盖和未验证结果按案例正文分别说明。',
+          zh: '公开演示链接可访问；个人贡献、上游依赖、运行范围和案例结果按正文分别记录。',
           en: 'A public demo link is available; personal contribution, upstream dependencies, runtime coverage and unverified outcomes are stated in the case text.',
         }
       : {

@@ -311,8 +311,8 @@
       }
     },
     "practice": {
-      "zh": "独立 AI 视频研究：建立参考索引与八项解析，归纳六层控制，连接分镜、Blender 白模与渲染审阅。AI 辅助生成，人负责判断；未声称商业部署或上游成果。",
-      "en": "Independent AI-video research: a reference index, six control layers and eight analyses linked to storyboard, Blender blocking and render review. Human-led judgment; no commercial or upstream results claimed."
+      "zh": "独立 AI 视频研究：建立参考索引与八项解析，归纳六层控制，连接分镜、Blender 白模与渲染审阅。AI 辅助生成，人负责输入组织、比较与判断。",
+      "en": "Independent AI-video research: a reference index, six control layers and eight analyses linked to storyboard, Blender blocking and render review. Human-led judgment; the practice focuses on workflow method and application."
     }
   },
   "about": {

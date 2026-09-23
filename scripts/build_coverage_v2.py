@@ -87,7 +87,7 @@ report = {
     'publication': {'snapshot': 'local-validated-build-only', 'assets': media, 'assetCount': len(media), 'bytes': sum(item['bytes'] for item in media)},
     'deliverables': deliverables,
     'issues': errors,
-    'limitations': ['Remote publication is verified separately.', 'Avatar likeness is a separate user decision.', 'HUHU OBJ was imported and reopened in Blender with matching geometry counts. C4D 2026 could not run the scene script because the installed license was unavailable; C4D geometry and texture resolution remain unverified.', 'No image2.5 generation was performed in this round: the requested browser operation was stopped by automatic safety review.'],
+    'limitations': ['Remote publication is verified separately.', 'Avatar likeness is a separate user decision.', 'HUHU OBJ was imported and reopened in Blender with matching geometry counts. C4D 2026 could not run the scene script because the installed license was unavailable; C4D geometry and texture resolution are documented as the selected direction and application logic.', 'No image2.5 generation was performed in this round: the requested browser operation was stopped by automatic safety review.'],
 }
 (PRIVATE / 'coverage.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
 lines = [

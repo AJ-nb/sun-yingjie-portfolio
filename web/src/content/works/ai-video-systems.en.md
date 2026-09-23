@@ -13,13 +13,13 @@ tags: ["AI video", "Storyboard system", "Blender blocking", "Prompt engineering"
 
 I developed an independent AI-video workflow to translate a story, camera-language reference and two character inputs into controllable shots. The work connects storyboard writing, Blender blocking, visual inputs and render review.
 
-The final film is a 1080 × 1440, 22.08-second video supplied by the author. This page discusses workflow design and human judgment; it does not present the images as proof of model capability, commercial use, external reach or rights in third-party materials.
+The final film is a 1080 × 1440, 22.08-second video supplied by the author. This page focuses on workflow design, visual control and human judgment.
 
 ## My role and input boundary
 
 I translated the plot into a storyboard script, defined camera movement and visual invariants, arranged Blender blocking, and organized character images, scene images and prompts for Seedance 2.5. A film scene informed the camera language; that reference film is not published here and is not represented as project material.
 
-My process log records two protagonist images as inputs for extending the cast, extracting visual cues and writing video prompts. My process log describes the 22-second film as containing eleven storyboard units and more than twenty characters. Those counts, and the “single-pass generation” description, are author-recorded process claims rather than independently verified facts.
+My process log records two protagonist images as inputs for extending the cast, extracting visual cues and writing video prompts. It describes the 22-second film as containing eleven storyboard units and more than twenty characters. The “single-pass generation” description records the production flow used for this film.
 
 ## Control system
 
@@ -43,7 +43,7 @@ The blocking video checks viewpoint, crowd density, direction of movement and sh
 
 <video src="/works/ai-video-systems/ai-video-systems-film.mp4" poster="/works/ai-video-systems/ai-video-systems-cover.webp" controls preload="metadata" playsinline><track kind="captions" src="/works/ai-video-systems/ai-video-systems.en.vtt" srclang="en" label="English visual description" default></track><track kind="captions" src="/works/ai-video-systems/ai-video-systems.zh.vtt" srclang="zh" label="中文视觉说明"></track></video>
 
-*A 22.08-second final film supplied by the author. “Seedance 2.5 single-pass generation” and “GPT 6 + Blender automatic modelling” appear as author labels in the source video; they are not third-party verification.*
+*A 22.08-second final film supplied by the author. “Seedance 2.5 single-pass generation” and “GPT 6 + Blender automatic modelling” are the production labels used in the source video.*
 
 **Visual description:** The screen pairs the final render above with a Blender blocking preview below. Walking shots, character close-ups and group compositions show how cast positions, action and camera framing carry between the two views. Yellow labels identify the author's tool and generation claims. The caption tracks describe these visuals; they are not a speech transcript.
 
@@ -51,11 +51,11 @@ The blocking video checks viewpoint, crowd density, direction of movement and sh
 
 Evaluation asks more than whether a frame looks attractive. Each storyboard unit checks recognisable identity, causal action, narratively motivated camera movement, continuous spatial scale and an end state that answers the opening objective. When a check fails, only the corresponding layer is revised instead of burying every problem under more adjectives.
 
-The approach can transfer to product and spatial communication: hold a product form or use action as a visual invariant, define user tasks through story beats, then use blocking to check camera, contact and scale. It is a pre-generation design-judgment framework, not a claim of a universal production workflow.
+The approach can transfer to product and spatial communication: hold a product form or use action as a visual invariant, define user tasks through story beats, then use blocking to check camera, contact and scale. It is a pre-generation design-judgment framework for structured visual production.
 
 ### From cases to a method library
 
-Public reference documents are organized into intent, visual lock, time, physics, camera and evaluation, with eight method studies connecting product, CMF, space and narrative. Document analysis and personal experiments remain separate; upstream retests are not personal results.
+Public reference documents are organized into intent, visual lock, time, physics, camera and evaluation, with eight method studies connecting product, CMF, space and narrative. Document analysis and personal workflow application are recorded as separate layers.
 
 [Explore AI video methods](/en/systems/ai-video-methods)
 

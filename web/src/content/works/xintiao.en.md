@@ -15,7 +15,7 @@ Xintiao opens directly on today's earned amount, with calendar and detail views 
 
 ## My role
 
-Participation covers product structure, interaction, visual design and adaptation to WeChat. The salary core comes from [MrBaoboer/PayDance](https://github.com/MrBaoboer/PayDance), including salary configuration, work spans, overnight shifts, snapshots and validation. Original attribution and AGPL-3.0-only notices remain. Xintiao is an independent mini-program project based on that core, not an official PayDance product; the core is not claimed as original work from scratch.
+Participation covers product structure, interaction, visual design and adaptation to WeChat. The salary core comes from [MrBaoboer/PayDance](https://github.com/MrBaoboer/PayDance), including salary configuration, work spans, overnight shifts, snapshots and validation. Original attribution and AGPL-3.0-only notices remain. Xintiao is an independent mini-program project based on that core, not an official PayDance product; the salary core is attributed to PayDance and its AGPL-3.0 notices.
 
 ## Key question
 
