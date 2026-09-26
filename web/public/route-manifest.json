@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T04:53:48.065Z",
+  "generatedAt": "2026-09-26T14:22:32.476Z",
   "origin": "https://aj-nb.github.io/sun-yingjie-portfolio",
   "routes": [
     "/",
@@ -28,6 +28,7 @@
     "/en/tools/biyuan",
     "/en/tools/formline",
     "/en/tools/lensflow",
+    "/en/tools/quick-studio",
     "/en/tools/resume-formatter",
     "/en/tools/xintiao",
     "/en/work",
@@ -86,6 +87,7 @@
     "/tools/biyuan",
     "/tools/formline",
     "/tools/lensflow",
+    "/tools/quick-studio",
     "/tools/resume-formatter",
     "/tools/xintiao",
     "/work",
@@ -1355,6 +1357,52 @@
               "@id": "https://aj-nb.github.io/sun-yingjie-portfolio/#person"
             },
             "image": "https://aj-nb.github.io/sun-yingjie-portfolio/works/digital/lensflow/studio-analysis.webp"
+          }
+        ]
+      }
+    },
+    "/en/tools/quick-studio": {
+      "title": "Quick Studio garment workflow | Yingjie Sun",
+      "description": "Upload garment front and back references, generate on-model imagery, review it, and package approved files. Add video when needed.",
+      "canonical": "https://aj-nb.github.io/sun-yingjie-portfolio/en/tools/quick-studio",
+      "noindex": false,
+      "type": "WebPage",
+      "alternates": {
+        "zh-CN": "https://aj-nb.github.io/sun-yingjie-portfolio/tools/quick-studio",
+        "en": "https://aj-nb.github.io/sun-yingjie-portfolio/en/tools/quick-studio",
+        "x-default": "https://aj-nb.github.io/sun-yingjie-portfolio/tools/quick-studio"
+      },
+      "robots": "index,follow",
+      "lang": "en",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://aj-nb.github.io/sun-yingjie-portfolio/#website",
+            "name": "Yingjie Sun Design OS",
+            "url": "https://aj-nb.github.io/sun-yingjie-portfolio",
+            "inLanguage": "en"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://aj-nb.github.io/sun-yingjie-portfolio/#person",
+            "name": "孙英杰 / Yingjie Sun",
+            "url": "https://aj-nb.github.io/sun-yingjie-portfolio",
+            "jobTitle": "Industrial & Product Designer"
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://aj-nb.github.io/sun-yingjie-portfolio/en/tools/quick-studio#page",
+            "url": "https://aj-nb.github.io/sun-yingjie-portfolio/en/tools/quick-studio",
+            "name": "Quick Studio garment workflow | Yingjie Sun",
+            "description": "Upload garment front and back references, generate on-model imagery, review it, and package approved files. Add video when needed.",
+            "isPartOf": {
+              "@id": "https://aj-nb.github.io/sun-yingjie-portfolio/#website"
+            },
+            "about": {
+              "@id": "https://aj-nb.github.io/sun-yingjie-portfolio/#person"
+            }
           }
         ]
       }
@@ -4179,6 +4227,52 @@
               "@id": "https://aj-nb.github.io/sun-yingjie-portfolio/#person"
             },
             "image": "https://aj-nb.github.io/sun-yingjie-portfolio/works/digital/lensflow/studio-analysis.webp"
+          }
+        ]
+      }
+    },
+    "/tools/quick-studio": {
+      "title": "Quick Studio 服装视觉工作台 | 孙英杰",
+      "description": "上传商品正背面，生成模特上身图，经人工审核后整理成可交付文件。视频按需追加。",
+      "canonical": "https://aj-nb.github.io/sun-yingjie-portfolio/tools/quick-studio",
+      "noindex": false,
+      "type": "WebPage",
+      "alternates": {
+        "zh-CN": "https://aj-nb.github.io/sun-yingjie-portfolio/tools/quick-studio",
+        "en": "https://aj-nb.github.io/sun-yingjie-portfolio/en/tools/quick-studio",
+        "x-default": "https://aj-nb.github.io/sun-yingjie-portfolio/tools/quick-studio"
+      },
+      "robots": "index,follow",
+      "lang": "zh-CN",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://aj-nb.github.io/sun-yingjie-portfolio/#website",
+            "name": "Yingjie Sun Design OS",
+            "url": "https://aj-nb.github.io/sun-yingjie-portfolio",
+            "inLanguage": "zh-CN"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://aj-nb.github.io/sun-yingjie-portfolio/#person",
+            "name": "孙英杰 / Yingjie Sun",
+            "url": "https://aj-nb.github.io/sun-yingjie-portfolio",
+            "jobTitle": "工业与产品设计师"
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://aj-nb.github.io/sun-yingjie-portfolio/tools/quick-studio#page",
+            "url": "https://aj-nb.github.io/sun-yingjie-portfolio/tools/quick-studio",
+            "name": "Quick Studio 服装视觉工作台 | 孙英杰",
+            "description": "上传商品正背面，生成模特上身图，经人工审核后整理成可交付文件。视频按需追加。",
+            "isPartOf": {
+              "@id": "https://aj-nb.github.io/sun-yingjie-portfolio/#website"
+            },
+            "about": {
+              "@id": "https://aj-nb.github.io/sun-yingjie-portfolio/#person"
+            }
           }
         ]
       }

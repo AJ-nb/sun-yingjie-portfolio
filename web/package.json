@@ -13,6 +13,7 @@
     "lint": "eslint .",
     "check:invariants": "node ../scripts/verify-experiments.mjs && node ../scripts/verify-scroll-timeline.mjs && node ../scripts/verify-case-relations.mjs && node ../scripts/verify-v6-story.mjs && npm run test:video",
     "test:browser": "node ../scripts/qa/browser-v9.cjs",
+    "test:quick-studio": "node ../scripts/qa/quick-studio.cjs",
     "test:browser:v6": "node ../scripts/qa/browser-v7.cjs",
     "test:browser:v7": "node ../scripts/qa/browser-v9.cjs",
     "test:browser:v9": "node ../scripts/qa/browser-v9.cjs",

@@ -1,6 +1,6 @@
 import { unlocalizedPath, routeLocale } from './locale'
 import type { Lang } from './workDocs'
-export type DesignOSRouteName = 'work' | 'work-detail' | 'lab' | 'lab-detail' | 'tools' | 'tools-detail' | 'research' | 'research-detail' | 'systems' | 'video-methods' | 'about' | 'resume' | 'contact' | '404'
+export type DesignOSRouteName = 'work' | 'work-detail' | 'lab' | 'lab-detail' | 'tools' | 'tools-detail' | 'quick-studio' | 'research' | 'research-detail' | 'systems' | 'video-methods' | 'about' | 'resume' | 'contact' | '404'
 
 export interface DesignOSRoute {
   name: DesignOSRouteName
@@ -25,6 +25,7 @@ function resolveBasePathname(pathname: string): DesignOSRoute | null {
   if (normalized === '/lab') return { name: 'lab', pathname: normalized }
   if (normalized.startsWith('/lab/')) return { name: 'lab-detail', slug: decodeSegment(normalized.slice(5)), pathname: normalized }
   if (normalized === '/tools') return { name: 'tools', pathname: normalized }
+  if (normalized === '/tools/quick-studio') return { name: 'quick-studio', pathname: normalized }
   if (normalized.startsWith('/tools/')) return { name: 'tools-detail', slug: decodeSegment(normalized.slice(7)), pathname: normalized }
   if (normalized === '/research') return { name: 'research', pathname: normalized }
   if (normalized.startsWith('/research/')) return { name: 'research-detail', slug: decodeSegment(normalized.slice(10)), pathname: normalized }

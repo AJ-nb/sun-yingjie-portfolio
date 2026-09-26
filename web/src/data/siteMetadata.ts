@@ -4,6 +4,7 @@ import profile from './profile.json'
 import { getProject, isLabProject, isResearchProject, isToolProject, type ProjectEntry } from './projectRegistry'
 import type { DesignOSRoute } from './routeResolver'
 import type { Lang } from './workDocs'
+import { QUICK_STUDIO } from './quickStudio'
 
 export type PageType = 'WebPage' | 'CollectionPage' | 'CreativeWork'
 export interface PageMetadata {
@@ -22,6 +23,7 @@ const DEFAULT_TITLE = { zh: '孙英杰 | 工业与产品设计师', en: 'Yingjie
 const DEFAULT_DESCRIPTION = profile.summary
 
 const pageCopy: Record<string, { title: { zh: string; en: string }; description: { zh: string; en: string }; type: PageType; noindex?: boolean }> = {
+  [QUICK_STUDIO.path]: { title: { zh: 'Quick Studio 服装视觉工作台 | 孙英杰', en: 'Quick Studio garment workflow | Yingjie Sun' }, description: QUICK_STUDIO.summary, type: 'WebPage' },
   '/systems/ai-video-methods': { title: { zh: 'AI 视频研究方法库 | 孙英杰', en: 'AI video methods | Yingjie Sun' }, description: { zh: '六个控制层与八项方法拆解：从分镜、角色、材料与运镜研究，到个人 Blender 和 AI 视频实践。', en: 'Six control layers and eight method studies connecting storyboard, identity, material and camera research to a personal Blender and AI-video workflow.' }, type: 'CollectionPage' },
   '/': { title: DEFAULT_TITLE, description: DEFAULT_DESCRIPTION, type: 'WebPage' },
   '/systems': { title: { zh: '系统与工作流 | 孙英杰', en: 'Systems & workflows | Yingjie Sun' }, description: { zh: '用于创作、比较和审阅的设计工具与 AI 工作流。', en: 'Design tools and AI workflows for creation, comparison and review.' }, type: 'CollectionPage' },

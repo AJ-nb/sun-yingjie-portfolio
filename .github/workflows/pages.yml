@@ -30,6 +30,17 @@ jobs:
         working-directory: web
       - run: npm run build
         working-directory: web
+      - run: npx playwright install --with-deps chromium
+        working-directory: web
+      - name: Verify public workflow entry
+        working-directory: web
+        run: |
+          npm run preview -- --host 127.0.0.1 --port 4181 > /tmp/portfolio-preview.log 2>&1 &
+          for attempt in $(seq 1 30); do
+            if curl --fail --silent http://127.0.0.1:4181/sun-yingjie-portfolio/ > /dev/null; then break; fi
+            sleep 1
+          done
+          npm run test:quick-studio
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

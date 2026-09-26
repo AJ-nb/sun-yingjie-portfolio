@@ -14,6 +14,7 @@ import { DesignOSSeo } from './DesignOSSeo'
 import { SiteHeader, SiteFooter } from './SiteChrome'
 import { localePath } from '../data/locale'
 import AIVideoMethods, { MethodsLink } from './AIVideoMethods'
+import { QuickStudio, QuickStudioEntry } from './QuickStudio'
 
 type Props = { route: DesignOSRoute; lang: Lang }
 const b = <T,>(lang: Lang, value: { zh: T; en: T }) => value[lang]
@@ -68,6 +69,7 @@ export function DesignOSRoutes({ route, lang }: Props) {
 
 
 function RouteContent({ route, lang, profile }: Props & { profile: typeof profileCopy.zh }) {
+  if (route.name === 'quick-studio') return <QuickStudio lang={lang}/>
   if (route.name === 'video-methods') return <AIVideoMethods lang={lang}/>
   if (route.name === 'systems') return <Systems lang={lang}/>
   if (route.name === '404') return <NotFound lang={lang} pathname={route.pathname} />
@@ -101,6 +103,7 @@ function ProjectIndex({ entries, lang, mode, basePath }: { entries: ProjectEntry
   }, [category, entries, lang, query])
   return <RouteFrame eyebrow={b(lang, labels)} title={b(lang, labels)} intro={b(lang, intro)} lang={lang}>
     {mode==='research'&&<MethodsLink lang={lang}/>}
+    {mode==='tools'&&<QuickStudioEntry lang={lang}/>}
     <div className="design-os-index-tools">
       <div className="design-os-filters" role="group" aria-label={lang === 'zh' ? '筛选项目分类' : 'Filter project category'}>
         <button type="button" aria-pressed={category === 'all'} onClick={() => setCategory('all')}>{lang === 'zh' ? '全部' : 'All'}</button>
@@ -301,7 +304,7 @@ function RouteFrame({ eyebrow, title, intro, lang, children }: { eyebrow: string
 function Systems({ lang }: { lang: Lang }) {
   const slugs = ['ai-video-systems', 'resume-formatter', 'lensflow', 'formline', 'xintiao']
   return <RouteFrame eyebrow={lang === 'zh' ? '系统与工作流' : 'Systems & workflows'} title={lang === 'zh' ? '让方法可以复用。' : 'Make the method reusable.'} intro={lang === 'zh' ? '从故事与镜头控制，到可审阅的内容改写和可恢复的任务流程。工具服务于设计判断。' : 'From story and camera control to reviewable writing and recoverable tasks. Tools support design judgment.'} lang={lang}>
-    <MethodsLink lang={lang}/><div className="systems-grid">{slugs.map(slug => {
+    <QuickStudioEntry lang={lang}/><MethodsLink lang={lang}/><div className="systems-grid">{slugs.map(slug => {
       const project = getProject(slug)!
       return <article key={slug}>
         <a href={routeHref('/work/' + slug, lang)}>

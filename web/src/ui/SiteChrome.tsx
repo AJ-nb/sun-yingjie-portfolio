@@ -9,7 +9,7 @@ import './design-os-v9.css'
 
 export function SiteHeader({ lang, pathname = '/' }: { lang: Lang; pathname?: string }) {
   const menu = useRef<HTMLDetailsElement>(null)
-  const nav = [['/work', '作品', 'Work'], ['/systems', '系统', 'Systems'], ['/lab', '实验', 'Lab'], ['/about', '关于', 'About'], ['/resume', '简历', 'Résumé']]
+  const nav = [['/work', '作品', 'Work'], ['/systems', '系统', 'Systems'], ['/tools', '工具', 'Tools'], ['/lab', '实验', 'Lab'], ['/about', '关于', 'About'], ['/resume', '简历', 'Résumé']]
   const links = nav.map(([path, zh, en]) => <a key={path} href={localePath(path, lang)} aria-current={pathname === path || pathname.startsWith(path + '/') ? 'page' : undefined}>{lang === 'zh' ? zh : en}</a>)
   return <><header className="site-header">
     <a className="site-name" href={localePath('/', lang)} aria-label={lang === 'zh' ? '孙英杰首页' : 'Yingjie Sun home'}>YINGJIE SUN<span>{lang === 'zh' ? '工业与产品设计师' : 'Industrial & Product Designer'}</span></a>
