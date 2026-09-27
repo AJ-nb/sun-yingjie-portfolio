@@ -1,0 +1,395 @@
+{
+  "variant": "overview",
+  "lang": "en",
+  "pageCount": 39,
+  "casePages": {
+    "hermes": 4,
+    "arcteryx": 9,
+    "karimoku": 13,
+    "lighting": 17,
+    "yelisi": 20,
+    "periastra": 23,
+    "biyuan": 26,
+    "ai-video-systems": 30,
+    "ink-realm": 33,
+    "character-consistency": 35,
+    "portrait-lighting": 37
+  },
+  "plan": [
+    {
+      "slug": "hermes",
+      "pages": [
+        {
+          "id": "summer",
+          "title": "Summer: props connect the merchandise",
+          "body": "Fishing rods, hands and folding chairs create a viewing path. Compare product position, prop scale and background contrast so the narrative keeps merchandise legible.",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/40379d8484144b6a435498fcf8b9d857.webp",
+              "caption": "Summer window with a fishing rod, folding chair, fish props and a speech bubble"
+            },
+            {
+              "src": "/works/legacy/hermes/51a7ab3976cb48ff18f4591b5056409e.webp",
+              "caption": "Summer window with a mannequin, drink-shaped prop, orange slice and COOL speech bubble"
+            }
+          ]
+        },
+        {
+          "id": "autumn",
+          "title": "Autumn: familiar frames, unfamiliar scale",
+          "body": "Doors, windows and walls establish spatial references. Oversized animals disrupt those references while framing and suspension separate merchandise from large props.",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/043e019544984416521bf2009313a5fb.webp",
+              "caption": "Autumn window with an oversized pink fish passing through a doorway beside a mannequin"
+            },
+            {
+              "src": "/works/legacy/hermes/34aa997644c1849af5a716bd5cdcf55b.webp",
+              "caption": "Autumn window with a yellow snail, an open door and a suspended pink bag"
+            }
+          ]
+        },
+        {
+          "id": "winter",
+          "title": "Winter: different rhythms for different windows",
+          "body": "Wide windows connect products across snow planes. Tall windows build a vertical hierarchy around the horse. Each format requires a new composition.",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/f1455674fa1906fe49bd555bcad97e9c.webp",
+              "caption": "Wide winter window with a large white horse head, snowy planes, a yellow bag and a small pink horse"
+            },
+            {
+              "src": "/works/legacy/hermes/776d28c61be0075bb8c93bffd65035ef.webp",
+              "caption": "Layered white horse contours and suspended accessories against a blue background"
+            }
+          ]
+        },
+        {
+          "id": "delivery",
+          "title": "From visual direction to spatial relationships",
+          "body": "My contribution was 3D design and visual presentation within BENWU. The retrospective diagram compares composition and merchandise hierarchy; individual production and store-delivery responsibility is not established.",
+          "images": [
+            {
+              "src": "/media/v7/brand/hermes-logic.webp",
+              "caption": "From visual direction to spatial relationships"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "arcteryx",
+      "pages": [
+        {
+          "id": "layers",
+          "title": "Terrain, body and equipment",
+          "body": "A rock face anchors the background, layered contours form the middle ground and a mannequin establishes human scale. Their boundaries and overlap help equipment remain readable.",
+          "images": [
+            {
+              "src": "/works/boards/arcteryx/arcteryx-01.webp",
+              "caption": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 01 / 10"
+            },
+            {
+              "src": "/works/legacy/arcteryx/cb880134dd55b4ea48ac6a2c188bf65b.webp",
+              "caption": "Arc’teryx Alpha Center window with rock forms, layered curves and a mannequin holding poles"
+            }
+          ]
+        },
+        {
+          "id": "coordination",
+          "title": "Communicate spatial relationships",
+          "body": "Compare the rock face, curves and equipment as distinct layers. Window format, lighting and product visibility guide the spatial reading.",
+          "images": [
+            {
+              "src": "/media/v7/brand/arcteryx-logic.webp",
+              "caption": "Return to display scale"
+            }
+          ]
+        },
+        {
+          "id": "installation",
+          "title": "The window in its retail context",
+          "body": "Additional installation views connect the window with the interior. Rock, directional lines, mannequins and moss surfaces extend the mountain language around clothing and circulation.",
+          "images": [
+            {
+              "src": "/works/legacy/arcteryx/installation/arcteryx-installation-window-portrait.jpg",
+              "caption": "Arc’teryx Alpha Center installation, front window"
+            },
+            {
+              "src": "/works/legacy/arcteryx/installation/arcteryx-installation-interior.jpg",
+              "caption": "Arc’teryx mountain-performance retail interior"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "karimoku",
+      "pages": [
+        {
+          "id": "foundation",
+          "title": "Brand foundations",
+          "body": "Woodcraft, furniture and everyday life frame this retrospective design study. The material does not establish an official commission.",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-01.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 01 / 20"
+            }
+          ]
+        },
+        {
+          "id": "material",
+          "title": "A material system",
+          "body": "Wood, surface, joints and edges organise the material language. Species, finishes and durability require samples and engineering validation.",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-07.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 07 / 20"
+            }
+          ]
+        },
+        {
+          "id": "space",
+          "title": "Void and layers",
+          "body": "Spacing, layers, movement and light connect objects with their photographic representation. These images are design studies.",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-15.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 15 / 20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lighting",
+      "pages": [
+        {
+          "id": "family",
+          "title": "A shared section across different uses",
+          "body": "Table and floor lights share a linear body, luminous strips and distinctive ends. Support, length and direction change around the use scenario.",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/5beb6f4875965136b4cf16ffcfe6f1fe.webp",
+              "caption": "Silver table lamp with a circular base beside an open book on a blue surface"
+            },
+            {
+              "src": "/works/legacy/lighting/916094a2d9a1fe336ac2d4c9854737b4.webp",
+              "caption": "Full view of a silver floor lamp against black"
+            }
+          ]
+        },
+        {
+          "id": "materials",
+          "title": "Separate material and functional cues",
+          "body": "Metal channels, luminous surfaces and circular controls explain different roles. Renderings support comparison of reflection and proportion; optical performance requires testing.",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/e9ab15f955279470fd53cb6e9e9a8c18.webp",
+              "caption": "Detail of a gold light body with longitudinal light strips and a circular control"
+            },
+            {
+              "src": "/works/legacy/lighting/a56bfb9a22490e6fa6dc7073ce8b6f87.webp",
+              "caption": "Horizontal pendant with parallel light strips, metal channels and end details against a dark background"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "yelisi",
+      "pages": [
+        {
+          "id": "identity",
+          "title": "From historical exploration to a private seal",
+          "body": "The earlier Songnasty exploration and current YELISI mark show a shift in identity language. Seal, folded line and cut-corner forms connect naming, graphics and product context.",
+          "images": [
+            {
+              "src": "/works/brand/yelisi/songnasty-historical-logo.webp",
+              "caption": "Historical Songnasty identity exploration"
+            },
+            {
+              "src": "/works/brand/yelisi/yelisi-logo.webp",
+              "caption": "Current Yelisi brand identity"
+            }
+          ]
+        },
+        {
+          "id": "product",
+          "title": "Connect identity, products and CMF",
+          "body": "Collaborative brand and product-concept work shares a material direction. The archive supports comparison of form and surface; no manufacture or market launch is claimed.",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-01.webp",
+              "caption": "YELISI | user-supplied retrospective board 01 / 20"
+            },
+            {
+              "src": "/media/v7/brand/yelisi-logic.webp",
+              "caption": "Design decisions and system applications (Chinese diagram)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "periastra",
+      "pages": [
+        {
+          "id": "exploration",
+          "title": "Build the system around recognition",
+          "body": "Compare the photography-equipment context, name recognition and small-scale legibility. The wordmark anchors the visual and information system.",
+          "images": [
+            {
+              "src": "/works/boards/periastra/periastra-01.webp",
+              "caption": "Periastra | user-supplied retrospective board 01 / 15"
+            },
+            {
+              "src": "/media/v7/brand/periastra-logic.webp",
+              "caption": "Design decisions and system applications (Chinese diagram)"
+            }
+          ]
+        },
+        {
+          "id": "wordmark",
+          "title": "Compare the wordmark at different scales",
+          "body": "The PERIASTRA wordmark study, dated 9 June 2026, supports comparison of letterforms, hierarchy, application scale and production direction.",
+          "images": [
+            {
+              "src": "/works/brand/periastra/final-wordmark.png",
+              "caption": "Periastra wordmark study"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "biyuan",
+      "pages": [
+        {
+          "id": "home",
+          "title": "Understand the service, then take action",
+          "body": "The VI/UI connects brand expression with service entry points. The homepage introduces the offer before presenting the main action.",
+          "images": [
+            {
+              "src": "/works/refinement-brand/biyuan/home-desktop.png",
+              "caption": "Biyuan desktop homepage"
+            }
+          ]
+        },
+        {
+          "id": "models",
+          "title": "Support browsing and deliberate search",
+          "body": "Model lists and name search support two different tasks. Hierarchy helps users identify a model, understand its entry point and continue.",
+          "images": [
+            {
+              "src": "/works/refinement-brand/biyuan/models-desktop.png",
+              "caption": "Biyuan model directory"
+            },
+            {
+              "src": "/works/refinement-brand/biyuan/models-filtered.png",
+              "caption": "Filtered model search"
+            }
+          ]
+        },
+        {
+          "id": "mobile",
+          "title": "Preserve the main action on mobile",
+          "body": "I designed and iterated the VI/UI. The mobile study rearranges content by priority, checking text, actions and scrolling. This archive does not establish ownership of the deployed service.",
+          "images": [
+            {
+              "src": "/works/refinement-brand/biyuan/home-mobile.png",
+              "caption": "Biyuan mobile homepage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ai-video-systems",
+      "pages": [
+        {
+          "id": "control",
+          "title": "A controllable creative workflow",
+          "body": "A film-language reference, a new story and two character inputs become a storyboard, Blender blocking, controlled imagery and prompts, then a Seedance 2.5 render. The 11 storyboard units and 20+ characters are my process-log counts.",
+          "images": [
+            {
+              "src": "/works/ai-video-systems/workflow-map.svg",
+              "caption": "Workflow map from case observation to a reviewed output"
+            },
+            {
+              "src": "/works/ai-video-systems/ai-video-systems-blocking.webp",
+              "caption": "A Blender blocking frame from the supplied source video used to check camera and cast relations"
+            }
+          ]
+        },
+        {
+          "id": "evaluation",
+          "title": "Review relationships, then revise the right layer",
+          "body": "A searchable reference index, six control layers and eight analyses connect product, CMF, space and narrative. The personal 22.08-second film remains a process record; the page separates source analysis from personal workflow application. Explore Systems / AI video methods on the website.",
+          "images": [
+            {
+              "src": "/works/ai-video-systems/control-layers.svg",
+              "caption": "Six control layers for an AI video workflow"
+            },
+            {
+              "src": "/works/ai-video-systems/ai-video-systems-cover.webp",
+              "caption": "Review relationships, then revise the right layer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ink-realm",
+      "pages": [
+        {
+          "id": "method",
+          "title": "Character, action and ink",
+          "body": "Small gestures trigger ink at landscape scale. The complete script organises eight action passages; the film records the relationship between camera, identity and effects. Open the case to watch.",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-01.webp",
+              "caption": "Ink Step: ground-level motion and dry-brush trails"
+            },
+            {
+              "src": "/works/ink-realm/frame-06.webp",
+              "caption": "Ink Lotus: layered black ink and muted gold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "character-consistency",
+      "pages": [
+        {
+          "id": "method",
+          "title": "Organise the visual definition around identity",
+          "body": "Views, expressions, micro-expressions, clothing and hands form a visual definition that can be inspected repeatedly. The full case retains five images and the input template.",
+          "images": [
+            {
+              "src": "/works/character-consistency/02.jpg",
+              "caption": "Character sheet: a shared reference for views and details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "portrait-lighting",
+      "pages": [
+        {
+          "id": "method",
+          "title": "Light type, direction and visible results",
+          "body": "Turn lighting into short, inspectable prompts. Nose shadows, wall shadows and hair highlights guide concrete revisions. The full archive retains nine images and every comparison.",
+          "images": [
+            {
+              "src": "/works/portrait-lighting/02.jpg",
+              "caption": "Soft and hard light: changes in nose and chin shadows"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

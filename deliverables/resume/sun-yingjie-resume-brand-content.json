@@ -1,0 +1,89 @@
+{
+  "variant": "brand",
+  "title": {
+    "zh": "工业与产品设计师 · 品牌视觉方向",
+    "en": "Industrial & Product Designer | Visual Systems"
+  },
+  "summary": "以产品设计方法连接品牌识别、空间视觉与数字触点，关注一致性与应用条件。",
+  "strengths": [
+    {
+      "label": "品牌识别",
+      "body": "比较字标、色彩与信息层级，形成可延展的规则。",
+      "evidence": [
+        "periastra",
+        "yelisi",
+        "biyuan"
+      ]
+    },
+    {
+      "label": "空间表达",
+      "body": "以三维和材质光线呈现商品、道具与环境关系。",
+      "evidence": [
+        "hermes",
+        "arcteryx"
+      ]
+    },
+    {
+      "label": "跨触点一致性",
+      "body": "围绕 Periastra、夜礼司与彼源 AI 研究不同载体。",
+      "evidence": [
+        "benwu",
+        "periastra"
+      ]
+    }
+  ],
+  "experience": {
+    "liling": [
+      "负责彼源 AI 的 VI/UI 设计与迭代。",
+      "与团队推进 Periastra 品牌识别与信息系统、夜礼司品牌视觉、产品概念与 CMF 研究。"
+    ],
+    "benwu": [
+      "参与 Hermès、Arc’teryx 橱窗项目的三维设计和视觉呈现。",
+      "参与铝型材灯具的三维表达与材料比较；整理 Karimoku × BENWU 设计研究。"
+    ],
+    "hannstar": [
+      "在 PCB 制造环境中从事设计系统工程工作，关注标准化、工程约束、质量与跨部门协作。"
+    ],
+    "ouyin": [
+      "整理市场调研与用户反馈，制作 Figma 交互原型，支持需求比较与体验迭代。"
+    ]
+  },
+  "tools": [
+    {
+      "label": "产品与三维",
+      "body": "Rhino、SolidWorks、KeyShot、Cinema 4D、Blender"
+    },
+    {
+      "label": "视觉与界面",
+      "body": "Photoshop、Illustrator、Figma；React / TypeScript"
+    },
+    {
+      "label": "AI 与研究",
+      "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析"
+    }
+  ],
+  "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
+  "workflowEvidence": [
+    "ai-video-systems",
+    "ink-realm",
+    "character-consistency",
+    "portrait-lighting"
+  ],
+  "confirmedInputs": {
+    "source": "User request in this task on 2026-09-17",
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Codex",
+      "ComfyUI"
+    ],
+    "scope": "Application and workflow use. No proficiency level, certification, measured gain or compatibility guarantee is asserted."
+  },
+  "sections": [
+    "核心优势",
+    "工作经历",
+    "专业工具",
+    "教育背景"
+  ],
+  "url": "https://aj-nb.github.io/sun-yingjie-portfolio/"
+}

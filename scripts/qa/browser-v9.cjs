@@ -47,7 +47,7 @@ async function main() {
         assert.equal(await page.locator('h1').count(),1)
         assert.equal(await page.locator('html').getAttribute('lang'),lang==='en'?'en':'zh-CN')
         if (route==='/') {
-          assert.deepEqual(await page.locator('.home-project').evaluateAll(nodes=>nodes.map(n=>n.dataset.project)),['hermes','arcteryx','karimoku','lighting','yelisi','periastra','biyuan','ai-video-systems'])
+          assert.deepEqual(await page.locator('.home-project').evaluateAll(nodes=>nodes.map(n=>n.dataset.project)),['hermes','arcteryx','karimoku','lighting','yelisi','periastra','biyuan','ai-video-systems','ink-realm','character-consistency','portrait-lighting'])
           assert.equal(await page.locator('video').count(),0)
           assert.deepEqual(await page.evaluate(()=>performance.getEntriesByType('resource').filter(r=>r.name.endsWith('.mp4')).map(r=>r.name)),[])
           if (width===390) {const actions=await page.locator('.home-hero-bottom').boundingBox();assert(actions.y+actions.height<=height+1,JSON.stringify(actions))}

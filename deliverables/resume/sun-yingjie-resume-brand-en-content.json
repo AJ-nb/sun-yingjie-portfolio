@@ -1,0 +1,89 @@
+{
+  "variant": "brand",
+  "title": {
+    "zh": "工业与产品设计师 · 品牌视觉方向",
+    "en": "Industrial & Product Designer | Visual Systems"
+  },
+  "summary": "I connect identity, spatial visuals and digital touchpoints through a product-design approach.",
+  "strengths": [
+    {
+      "label": "Identity",
+      "body": "Compare wordmarks, colour and hierarchy to form reusable rules.",
+      "evidence": [
+        "periastra",
+        "yelisi",
+        "biyuan"
+      ]
+    },
+    {
+      "label": "Spatial expression",
+      "body": "Use 3D, materials and light to frame merchandise and props.",
+      "evidence": [
+        "hermes",
+        "arcteryx"
+      ]
+    },
+    {
+      "label": "Consistency",
+      "body": "Explore applications through Periastra, YELISI and Biyuan AI.",
+      "evidence": [
+        "benwu",
+        "periastra"
+      ]
+    }
+  ],
+  "experience": {
+    "liling": [
+      "Design and iterate Biyuan AI’s visual identity and UI.",
+      "Collaborate on Periastra identity and information systems, and YELISI brand, product concepts and CMF studies."
+    ],
+    "benwu": [
+      "Contributed 3D design and visual presentation to Hermès and Arc’teryx window projects.",
+      "Developed lighting visualisations and material comparisons; organised the Karimoku × BENWU design study."
+    ],
+    "hannstar": [
+      "Worked on design-systems engineering in PCB manufacturing, within standardisation, engineering and quality constraints."
+    ],
+    "ouyin": [
+      "Organised market research and user feedback; built Figma prototypes to support design comparisons and iteration."
+    ]
+  },
+  "tools": [
+    {
+      "label": "Product and 3D",
+      "body": "Rhino, SolidWorks, KeyShot, Cinema 4D, Blender"
+    },
+    {
+      "label": "Visual and digital",
+      "body": "Photoshop, Illustrator, Figma; React / TypeScript"
+    },
+    {
+      "label": "AI and research",
+      "body": "Codex, ChatGPT, ComfyUI, Midjourney; market and cultural context"
+    }
+  ],
+  "workflow": "Independent AI practice: character sheets, lighting studies and ink film connect visual constraints, prompts and human review with 3D and brand expression.",
+  "workflowEvidence": [
+    "ai-video-systems",
+    "ink-realm",
+    "character-consistency",
+    "portrait-lighting"
+  ],
+  "confirmedInputs": {
+    "source": "User request in this task on 2026-09-17",
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Codex",
+      "ComfyUI"
+    ],
+    "scope": "Application and workflow use. No proficiency level, certification, measured gain or compatibility guarantee is asserted."
+  },
+  "sections": [
+    "核心优势",
+    "工作经历",
+    "专业工具",
+    "教育背景"
+  ],
+  "url": "https://aj-nb.github.io/sun-yingjie-portfolio/en/"
+}

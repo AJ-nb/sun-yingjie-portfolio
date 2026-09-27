@@ -1,0 +1,89 @@
+{
+  "variant": "digital",
+  "title": {
+    "zh": "工业与产品设计师 · 数字体验方向",
+    "en": "Industrial & Product Designer | Digital Experience"
+  },
+  "summary": "I combine interface design with AI visual creation, translating character, lighting and camera requirements into reviewable images and films.",
+  "strengths": [
+    {
+      "label": "Interfaces",
+      "body": "Design Biyuan AI VI/UI and compare desktop and mobile hierarchy.",
+      "evidence": [
+        "biyuan"
+      ]
+    },
+    {
+      "label": "Controlled interaction",
+      "body": "Design review, recovery and version-selection workflows.",
+      "evidence": [
+        "resume-formatter",
+        "lensflow",
+        "formline",
+        "xintiao"
+      ]
+    },
+    {
+      "label": "AI imagery and film",
+      "body": "Create ink film, character sheets and lighting studies; structure prompts and review output.",
+      "evidence": [
+        "ink-realm",
+        "character-consistency",
+        "portrait-lighting"
+      ]
+    }
+  ],
+  "experience": {
+    "liling": [
+      "Design and iterate Biyuan AI’s visual identity and UI.",
+      "Collaborate on Periastra identity and information systems, and YELISI brand, product concepts and CMF studies."
+    ],
+    "benwu": [
+      "Contributed 3D design and visual presentation to Hermès and Arc’teryx window projects.",
+      "Developed lighting visualisations and material comparisons; organised the Karimoku × BENWU design study."
+    ],
+    "hannstar": [
+      "Worked on design-systems engineering in PCB manufacturing, within standardisation, engineering and quality constraints."
+    ],
+    "ouyin": [
+      "Organised market research and user feedback; built Figma prototypes to support design comparisons and iteration."
+    ]
+  },
+  "tools": [
+    {
+      "label": "Product and 3D",
+      "body": "Rhino, SolidWorks, KeyShot, Cinema 4D, Blender"
+    },
+    {
+      "label": "Visual and digital",
+      "body": "Photoshop, Illustrator, Figma; React / TypeScript"
+    },
+    {
+      "label": "AI creation",
+      "body": "Codex, Image 2.5, Seedance 2.5, ComfyUI"
+    }
+  ],
+  "workflow": "Personal AI practice: a 30-second ink film, five character-sheet images and nine lighting images. Direction, prompt organisation and output review.",
+  "workflowEvidence": [
+    "ink-realm",
+    "character-consistency",
+    "portrait-lighting"
+  ],
+  "confirmedInputs": {
+    "source": "User request in this task on 2026-09-17",
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Codex",
+      "ComfyUI"
+    ],
+    "scope": "Application and workflow use. No proficiency level, certification, measured gain or compatibility guarantee is asserted."
+  },
+  "sections": [
+    "核心优势",
+    "工作经历",
+    "专业工具",
+    "教育背景"
+  ],
+  "url": "https://aj-nb.github.io/sun-yingjie-portfolio/en/"
+}

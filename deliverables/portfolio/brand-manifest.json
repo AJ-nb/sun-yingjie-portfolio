@@ -1,0 +1,409 @@
+{
+  "edition": "v9",
+  "variant": "brand",
+  "lang": "zh",
+  "pageCount": 19,
+  "caseCount": 4,
+  "caseSlugs": [
+    "hermes",
+    "arcteryx",
+    "periastra",
+    "yelisi"
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "kind": "cover",
+      "case": null
+    },
+    {
+      "page": 2,
+      "kind": "contents",
+      "case": null
+    },
+    {
+      "page": 3,
+      "kind": "profile",
+      "case": null
+    },
+    {
+      "page": 4,
+      "kind": "project",
+      "case": "hermes"
+    },
+    {
+      "page": 5,
+      "kind": "evidence",
+      "case": "hermes",
+      "pageId": "summer",
+      "title": "夏季 让道具串联商品",
+      "body": "鱼竿、手形与折叠椅形成观看路径。组织方向时，先检查商品位置，再判断道具尺度与背景对比；场景的趣味必须同时支持商品轮廓的辨认。",
+      "images": [
+        {
+          "src": "/works/legacy/hermes/40379d8484144b6a435498fcf8b9d857.webp",
+          "caption": "鱼竿、手形与折叠椅主题"
+        },
+        {
+          "src": "/works/legacy/hermes/51a7ab3976cb48ff18f4591b5056409e.webp",
+          "caption": "饮品、橙片与漫画气泡主题"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "kind": "evidence",
+      "case": "hermes",
+      "pageId": "autumn",
+      "title": "秋季 用框景组织错位尺度",
+      "body": "门、窗与墙面先建立空间参照，再用超出常规的动物尺度形成叙事。两组画面分别通过门框和悬挂位置，将商品与大体量道具分开阅读。",
+      "images": [
+        {
+          "src": "/works/legacy/hermes/043e019544984416521bf2009313a5fb.webp",
+          "caption": "粉色鱼形穿过门框"
+        },
+        {
+          "src": "/works/legacy/hermes/34aa997644c1849af5a716bd5cdcf55b.webp",
+          "caption": "蜗牛、门与悬挂包袋"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "kind": "evidence",
+      "case": "hermes",
+      "pageId": "winter",
+      "title": "冬季 横窗与竖窗采用不同节奏",
+      "body": "横窗用连续的雪地层面连接主体与配饰；竖窗围绕白马轮廓建立上下层次。不同画幅需要重新组织商品位置和留白，不能只将完整场景等比缩小。",
+      "images": [
+        {
+          "src": "/works/legacy/hermes/f1455674fa1906fe49bd555bcad97e9c.webp",
+          "caption": "横向白马与雪地层面"
+        },
+        {
+          "src": "/works/legacy/hermes/776d28c61be0075bb8c93bffd65035ef.webp",
+          "caption": "竖向白马与悬挂配饰"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "kind": "evidence",
+      "case": "hermes",
+      "pageId": "delivery",
+      "title": "方向 方案与交付的连续推进",
+      "body": "以 BENWU 团队协作中的三维设计与视觉呈现为核心，观察前期方向、整体画面与商品层级；个人统筹、法国沟通、工厂生产和门店展示边界待原始记录核验。",
+      "images": [
+        {
+          "src": "/media/v7/brand/hermes-logic.webp",
+          "caption": "原始项目图像与设计过程分析"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "kind": "project",
+      "case": "arcteryx"
+    },
+    {
+      "page": 10,
+      "kind": "evidence",
+      "case": "arcteryx",
+      "pageId": "layers",
+      "title": "环境 层次 装备",
+      "body": "岩壁提供背景体量，层叠曲线连接中景，持杖人台提供人体尺度。比较三层的边界与遮挡关系，让户外意象服务于装备表达。",
+      "images": [
+        {
+          "src": "/works/boards/arcteryx/arcteryx-01.webp",
+          "caption": "Arc’teryx / user-supplied retrospective board 01 of 10 / Level C"
+        },
+        {
+          "src": "/works/legacy/arcteryx/cb880134dd55b4ea48ac6a2c188bf65b.webp",
+          "caption": "Alpha Center 原始完整橱窗视图"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "kind": "evidence",
+      "case": "arcteryx",
+      "pageId": "coordination",
+      "title": "空间层次与实施沟通",
+      "body": "将岩壁、曲线与装备的层次转成可比较的视觉分析，保持主体关系清楚，并以现场呈现检查窗幅、灯光与商品阅读。",
+      "images": [
+        {
+          "src": "/media/v7/brand/arcteryx-logic.webp",
+          "caption": "原始项目图像与设计过程分析"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "kind": "evidence",
+      "case": "arcteryx",
+      "pageId": "installation",
+      "title": "现场呈现与店内语境",
+      "body": "现场图让橱窗正视与店内陈列可以共同阅读：岩壁、方向线、人台与苔藓地面在不同画幅中维持性能语言，并与服装、灯光和动线建立连续关系。",
+      "images": [
+        {
+          "src": "/works/legacy/arcteryx/installation/arcteryx-installation-window-portrait.jpg",
+          "caption": "Alpha Center 现场橱窗正视"
+        },
+        {
+          "src": "/works/legacy/arcteryx/installation/arcteryx-installation-interior.jpg",
+          "caption": "Arc’teryx 店内山地陈列"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "kind": "project",
+      "case": "periastra"
+    },
+    {
+      "page": 14,
+      "kind": "evidence",
+      "case": "periastra",
+      "pageId": "exploration",
+      "title": "从识别问题建立视觉体系",
+      "body": "围绕摄影装备语境、名称识别与缩小可读性比较方案，以正式字标为核心组织整体 VI/UI。",
+      "images": [
+        {
+          "src": "/works/boards/periastra/periastra-01.webp",
+          "caption": "Periastra / user-supplied retrospective board 01 of 15 / Level C"
+        },
+        {
+          "src": "/media/v7/brand/periastra-logic.webp",
+          "caption": "原始项目图像与设计过程分析"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "kind": "evidence",
+      "case": "periastra",
+      "pageId": "wordmark",
+      "title": "以选定字标方向建立一致识别",
+      "body": "保留 2026 年 6 月 9 日 PERIASTRA 字体标志研究稿，用于比较字标、信息层级和应用秩序；商业采用状态和个人交付归属待核验。此页完整呈现选定方向研究稿，不以局部裁切代替尺寸可读性检查。",
+      "images": [
+        {
+          "src": "/works/brand/periastra/final-wordmark.png",
+          "caption": "PERIASTRA 字体标志研究稿"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "kind": "project",
+      "case": "yelisi"
+    },
+    {
+      "page": 17,
+      "kind": "evidence",
+      "case": "yelisi",
+      "pageId": "identity",
+      "title": "从历史曲线转向中文私印",
+      "body": "历史 Songnasty 方向与现行夜礼司标志共同说明识别语言的变化。现行方向以中文私印、身体曲线和负形建立品牌表达，推进时同时考虑名称、界面与产品语境。",
+      "images": [
+        {
+          "src": "/works/brand/yelisi/songnasty-historical-logo.webp",
+          "caption": "历史探索方向"
+        },
+        {
+          "src": "/works/brand/yelisi/yelisi-logo.webp",
+          "caption": "现行夜礼司标志"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "kind": "evidence",
+      "case": "yelisi",
+      "pageId": "product",
+      "title": "品牌 产品与团队方向统一",
+      "body": "以项目团队共同创作的品牌视觉与产品概念为基础，将识别语言、界面与产品概念放在同一 CMF 研究框架中；个人总责、团队规模和制造或上市状态待核验。",
+      "images": [
+        {
+          "src": "/works/boards/yelisi/yelisi-01.webp",
+          "caption": "YELISI / user-supplied retrospective board 01 of 20 / Level C"
+        },
+        {
+          "src": "/media/v7/brand/yelisi-logic.webp",
+          "caption": "原始项目图像与设计过程分析"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "kind": "contact",
+      "case": null
+    }
+  ],
+  "media": [
+    {
+      "publicPath": "/works/legacy/hermes/f1455674fa1906fe49bd555bcad97e9c.webp",
+      "sha256": "785c5284d696ad3e4ae65d61052cda1a3046775da3d7c2386dfcad14c002de41",
+      "pages": [
+        1,
+        4,
+        7
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/arcteryx/cb880134dd55b4ea48ac6a2c188bf65b.webp",
+      "sha256": "b354f9f006fd3e6aefa92c7635c0f83fea037b994f79661455d8dfc603fd07f6",
+      "pages": [
+        1,
+        9,
+        10
+      ]
+    },
+    {
+      "publicPath": "/works/brand/periastra/final-wordmark.png",
+      "sha256": "92b7c176b3e083da1a5a240ca90f270860064616902e56e0e9d5921c595ad395",
+      "pages": [
+        1,
+        13,
+        15
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/hermes/40379d8484144b6a435498fcf8b9d857.webp",
+      "sha256": "2b94e696fb262da319080edf244c47bc7f33dbc3cccbc61a84cd37cd3a8e3ff1",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/hermes/51a7ab3976cb48ff18f4591b5056409e.webp",
+      "sha256": "0b575602914e2ca46f55f2024ff0e7ab3b31bb004bb2f83bf54bc85649d5ab9f",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/hermes/043e019544984416521bf2009313a5fb.webp",
+      "sha256": "c131e5bd173ecec7e476b98676684bff78305b39ace67ad1d673125ffb289bf2",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/hermes/34aa997644c1849af5a716bd5cdcf55b.webp",
+      "sha256": "55c38cf1849a27688848afc24e3da9e354223037621147650784ea3bc55bc7be",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/hermes/776d28c61be0075bb8c93bffd65035ef.webp",
+      "sha256": "6ee5903ca919fdf408f90d395e40944e15ef900e904125256ce65870373dd1e4",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "publicPath": "/media/v7/brand/hermes-logic.webp",
+      "sha256": "0c48eb989b89b8bde6b9b062ce51ab22a461164e19d926134c7e81855d225219",
+      "pages": [
+        8
+      ]
+    },
+    {
+      "publicPath": "/works/boards/arcteryx/arcteryx-01.webp",
+      "sha256": "a4f530a7a63137ba1931c6480599d46f3bef49cf3380484f20b33e7bf5acbca7",
+      "pages": [
+        10
+      ]
+    },
+    {
+      "publicPath": "/media/v7/brand/arcteryx-logic.webp",
+      "sha256": "bd1f6745bc8c46ab371cfb988976b9a5167eec79aba4c41b389f588bc2d09475",
+      "pages": [
+        11
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/arcteryx/installation/arcteryx-installation-window-portrait.jpg",
+      "sha256": "450600e175f17d420d0058354becddbb86690a3fa6306beade17c0d0c38b3077",
+      "pages": [
+        12
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/arcteryx/installation/arcteryx-installation-interior.jpg",
+      "sha256": "c2d3ed7dfbaccb357e98cf9a1d3d0c63c59ee1017df0c12f2efbe035c9af6635",
+      "pages": [
+        12
+      ]
+    },
+    {
+      "publicPath": "/works/boards/periastra/periastra-01.webp",
+      "sha256": "3d3e9e1e59fb20d8d5db235cddf2ef95fd8c17f2bc211b0b0da9b9ff18590c83",
+      "pages": [
+        14
+      ]
+    },
+    {
+      "publicPath": "/media/v7/brand/periastra-logic.webp",
+      "sha256": "2335f5254e48570283ee90d47a8cee6f66d472ae6daeb1d5f8c4984abbe8fffc",
+      "pages": [
+        14
+      ]
+    },
+    {
+      "publicPath": "/works/brand/yelisi/yelisi-logo.webp",
+      "sha256": "529657e9b73686384822f7ac063c2faff6a419d5e90900ccd4c56701f8318961",
+      "pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "publicPath": "/works/brand/yelisi/songnasty-historical-logo.webp",
+      "sha256": "81e13b35fee3ee6e5852d734494aae0cb9ee4963c6b58b65e045ff28191b47dc",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "publicPath": "/works/boards/yelisi/yelisi-01.webp",
+      "sha256": "ff64396640c0256c69f491935af2b559de73a35d3d659eb1309339b5f0859e47",
+      "pages": [
+        18
+      ]
+    },
+    {
+      "publicPath": "/media/v7/brand/yelisi-logic.webp",
+      "sha256": "c5af32259c989620fd9014f8c3dc8ec0559cd9377f34d4082465b2cc8ea1c5bb",
+      "pages": [
+        18
+      ]
+    }
+  ],
+  "document": "deliverables/portfolio/sun-yingjie-portfolio-brand.pdf",
+  "publicPath": "/downloads/sun-yingjie-portfolio-brand.pdf",
+  "sha256": "6d2954076716b13ec7606b61df96f90dd1f0a3580985c12c3965c2c6d1836576",
+  "publicSha256": "6d2954076716b13ec7606b61df96f90dd1f0a3580985c12c3965c2c6d1836576",
+  "publicBytes": 7663348,
+  "url": "https://aj-nb.github.io/sun-yingjie-portfolio/",
+  "sourceHashes": {
+    "web/src/data/profile.json": "aba7dffd5ab87663bc2f9c8754e1049f44c611cf2d7f779aa34359a757810e5b",
+    "web/src/data/publication.json": "02191c95833027c4a8716d9fa80d815cbbade26737d6c532b728e60e67ff8e11",
+    "web/src/data/publication-pages.json": "4cec3dffaef6ad611d38de8954fb981d8469c48dfaf926a5847048657b883eba",
+    "web/src/data/publication-locales.json": "7942c87f1682639541f59d5dc2d780d2061af539f298fcb5034d5559f4d921e3",
+    "web/src/data/projectRegistry.ts": "9b436eaa13c97b68fc13add316701b82f79b2fa6e405651d986ece7ebeeb7f86",
+    "scripts/build_publications_v9.py": "56675139086fc7ec828ff568d38c286af3831c283744b5b9058f302b57c97833",
+    "scripts/build_selected_portfolio.py": "443ba65aaa90020a3e231e480c900b32c81282cf856926c7545b565a2f1162f2",
+    "web/src/data/chapters.ts": "41115cc1eaa069374dd5ae8aa62b3df8ae3834b029a27e3eb9837ec4f79dfcbf",
+    "web/src/content/works/hermes.zh.md": "75536e492388012de0b72502b9bf70f76224f0bbb64f5a339446c1689c6015b6",
+    "web/src/content/works/arcteryx.zh.md": "c655afb00f6b45107207d0a49b9f37247d494ad00423df089d2539276ac3fc2b",
+    "web/src/content/works/periastra.zh.md": "23211b43bf001f5ce53f0d7c58f5fb9887c9cb13d7f364db573cc76d082438b6",
+    "web/src/content/works/yelisi.zh.md": "685f2f464b62af5407dda9126e25a50b1ab75c120b7384154b54643b32aa83d6"
+  },
+  "externalFontHashes": {
+    "C:\\Windows\\Fonts\\msyh.ttc": "d79c55e68b1131eea0cc1c47be4f572d964f28c682e143db2ad09c1e4cb07a3f",
+    "C:\\Windows\\Fonts\\msyhbd.ttc": "4508821b3dffe01f0ef5e5326a3e60df705a44633858811f67b6982dce3f6ee6",
+    "D:\\portfolio-public-v11-mobile\\web\\public\\fonts\\documents\\DM-Sans-Regular.ttf": "7d45112607557ba9af1ef1a1eda89083522794736d53c95e4f5a50513eafefd0",
+    "D:\\portfolio-public-v11-mobile\\web\\public\\fonts\\documents\\DM-Sans-SemiBold.ttf": "f19593ab27001f52a1339dde0ea1bbd3f9e463c55f0d17f16648b1e9b2383edc"
+  }
+}

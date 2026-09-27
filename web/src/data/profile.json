@@ -178,7 +178,8 @@
       "专业工具：Adobe Photoshop、Illustrator、Figma、Rhino、SolidWorks、KeyShot、Cinema 4D、Blender、React / TypeScript",
       "AIGC 与设计自动化：Codex、ComfyUI、ChatGPT、Midjourney；参考分析、提示词与节点工作流、图像修整、输出比较、人工审阅与开源整合",
       "AI 视频工作流研究：将故事、分镜、Blender 白模、提示词与渲染评估组织为可复核流程；成片和过程边界按作者记录说明",
-      "国际市场研究：跨市场竞品、消费者、趋势、文化与设计语言分析，将研究结论转化为品牌、产品和体验设计方向"
+      "国际市场研究：跨市场竞品、消费者、趋势、文化与设计语言分析，将研究结论转化为品牌、产品和体验设计方向",
+      "AI 视觉实践：角色卡、肖像布光与 30 秒水墨影像；Image 2.5 图像生成、Seedance 2.5 视频生成与人工视觉审阅"
     ],
     "variants": [
       {
@@ -262,6 +263,9 @@
           "en": "I turn complex tasks into clear inputs, actions and feedback through interface design, prototypes and open-source integration."
         },
         "caseSlugs": [
+          "ink-realm",
+          "character-consistency",
+          "portrait-lighting",
           "biyuan",
           "resume-formatter",
           "formline",

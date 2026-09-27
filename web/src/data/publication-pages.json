@@ -588,6 +588,49 @@
           }
         ]
       }
+    ],
+    "ink-realm": [
+      {
+        "id": "method",
+        "title": "角色、动作与水墨",
+        "body": "以轻微动作触发大尺度水墨变化。完整脚本组织八段技能，成片记录镜头、角色与视觉效果的关系。点击在线案例观看完整视频。",
+        "images": [
+          {
+            "src": "/works/ink-realm/frame-01.webp",
+            "caption": "墨步：贴地移动与飞白轨迹"
+          },
+          {
+            "src": "/works/ink-realm/frame-06.webp",
+            "caption": "墨莲：黑墨与暗金的分层展开"
+          }
+        ]
+      }
+    ],
+    "character-consistency": [
+      {
+        "id": "method",
+        "title": "以主形象组织视觉定义",
+        "body": "通过多视角、表情、微表情、服装与手部模块，建立可反复检查的角色说明。完整档案保留五张图像和输入模板。",
+        "images": [
+          {
+            "src": "/works/character-consistency/02.jpg",
+            "caption": "角色卡：多视角与细节的共同参照"
+          }
+        ]
+      }
+    ],
+    "portrait-lighting": [
+      {
+        "id": "method",
+        "title": "光型、方向与可见结果",
+        "body": "将布光写为可检查的短提示词。观察鼻影、墙影与发丝亮边，以具体画面结果指导调整。完整档案保留九张图像和全部对照。",
+        "images": [
+          {
+            "src": "/works/portrait-lighting/02.jpg",
+            "caption": "柔光与硬光：鼻影和下巴影的变化"
+          }
+        ]
+      }
     ]
   },
   "archiveImages": {
@@ -1831,6 +1874,9 @@
         "src": "/works/ai-video-systems/ai-video-systems-cover.webp",
         "caption": "作者提供的 22.08 秒视频封面；完整视频见网页"
       }
-    ]
+    ],
+    "ink-realm": [],
+    "character-consistency": [],
+    "portrait-lighting": []
   }
 }

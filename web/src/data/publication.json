@@ -56,10 +56,25 @@
       "slug": "ai-video-systems",
       "pages": 3,
       "focus": "ai-video-systems"
+    },
+    {
+      "slug": "ink-realm",
+      "pages": 2,
+      "focus": "ink-realm"
+    },
+    {
+      "slug": "character-consistency",
+      "pages": 2,
+      "focus": "character-consistency"
+    },
+    {
+      "slug": "portrait-lighting",
+      "pages": 2,
+      "focus": "portrait-lighting"
     }
   ],
   "frontMatterPages": 4,
-  "selectedPageCount": 33,
+  "selectedPageCount": 39,
   "portfolioPdfDeferredSlugs": [],
   "portfolioPdfSnapshotExemptions": {},
   "portfolioPdfDeferralReason": "All current public cases are included in the complete bilingual archive.",
@@ -134,9 +149,27 @@
             "control",
             "evaluation"
           ]
+        },
+        {
+          "slug": "ink-realm",
+          "pageIds": [
+            "method"
+          ]
+        },
+        {
+          "slug": "character-consistency",
+          "pageIds": [
+            "method"
+          ]
+        },
+        {
+          "slug": "portrait-lighting",
+          "pageIds": [
+            "method"
+          ]
         }
       ],
-      "pageCount": 33
+      "pageCount": 39
     },
     "brand": {
       "title": "品牌视觉与跨触点交付",
@@ -217,7 +250,7 @@
     },
     "digital": {
       "title": "数字产品与交互体验",
-      "maxPages": 24,
+      "maxPages": 32,
       "cases": [
         {
           "slug": "biyuan",
@@ -262,9 +295,27 @@
             "control",
             "evaluation"
           ]
+        },
+        {
+          "slug": "ink-realm",
+          "pageIds": [
+            "method"
+          ]
+        },
+        {
+          "slug": "character-consistency",
+          "pageIds": [
+            "method"
+          ]
+        },
+        {
+          "slug": "portrait-lighting",
+          "pageIds": [
+            "method"
+          ]
         }
       ],
-      "pageCount": 24
+      "pageCount": 30
     }
   },
   "homepageSelection": [
@@ -275,6 +326,9 @@
     "yelisi",
     "periastra",
     "biyuan",
-    "ai-video-systems"
+    "ai-video-systems",
+    "ink-realm",
+    "character-consistency",
+    "portrait-lighting"
   ]
 }

@@ -1,4 +1,5 @@
 import { usePortfolioReducedMotion } from './MotionPreference'
+import { PromptBlock } from './PromptBlock'
 import { lazy, Suspense, useEffect, useMemo, useRef, useState } from 'react'
 import { ArrowUpRight, Check, Copy, Download, Mail, Printer, ZoomIn } from 'lucide-react'
 import ReactMarkdown from 'react-markdown'
@@ -220,6 +221,7 @@ function ProjectDetail({ project, lang, basePath }: { project: ProjectEntry; lan
     <figure className="design-os-detail-cover"><button type="button" data-media-trigger="media-0" onClick={event => openViewer(0, event.currentTarget)} aria-label={lang === 'zh' ? '放大项目封面' : 'Enlarge project cover'}><img src={asset(project.cover)} alt={b(lang, project.title)} /><span><ZoomIn size={16}/>{lang === 'zh' ? '查看大图' : 'View image'}</span></button></figure>
     {work && <article className="design-os-detail-body">
       <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]} components={{
+        pre: ({ children }) => ['ink-realm', 'character-consistency', 'portrait-lighting'].includes(project.slug) ? <PromptBlock lang={lang}>{children}</PromptBlock> : <pre>{children}</pre>,
         h2: ({ children }) => <h2 id={`design-os-section-${headings.indexOf(String(children))}`}>{children}</h2>,
         img: ({ src = '', alt = '' }) => {
           const index = photos.findIndex(photo => photo.src === src)
@@ -302,7 +304,7 @@ function NotFound({ lang, pathname }: { lang: Lang; pathname: string }) { return
 function RouteFrame({ eyebrow, title, intro, lang, children }: { eyebrow: string; title: string; intro: string; lang: Lang; children: React.ReactNode }) { return <section className="design-os-frame"><header className="design-os-hero"><span>{eyebrow}</span><h1>{title}</h1><p>{intro}</p></header>{children}<div className="design-os-featured"><span>{lang === 'zh' ? '精选' : 'Selected'}</span>{getDesignOSFeaturedProjects().slice(0, 4).map(project => <a key={project.slug} href={routeHref(`/work/${project.slug}`, lang)}>{b(lang, project.title)} <ArrowUpRight size={14}/></a>)}</div></section> }
 
 function Systems({ lang }: { lang: Lang }) {
-  const slugs = ['ai-video-systems', 'resume-formatter', 'lensflow', 'formline', 'xintiao']
+  const slugs = ['ai-video-systems', 'resume-formatter', 'lensflow', 'formline', 'xintiao', 'ink-realm', 'character-consistency', 'portrait-lighting']
   return <RouteFrame eyebrow={lang === 'zh' ? '系统与工作流' : 'Systems & workflows'} title={lang === 'zh' ? '让方法可以复用。' : 'Make the method reusable.'} intro={lang === 'zh' ? '从故事与镜头控制，到可审阅的内容改写和可恢复的任务流程。工具服务于设计判断。' : 'From story and camera control to reviewable writing and recoverable tasks. Tools support design judgment.'} lang={lang}>
     <QuickStudioEntry lang={lang}/><MethodsLink lang={lang}/><div className="systems-grid">{slugs.map(slug => {
       const project = getProject(slug)!

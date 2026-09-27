@@ -1,0 +1,205 @@
+{
+  "variant": "physical",
+  "lang": "en",
+  "pageCount": 20,
+  "casePages": {
+    "lighting": 4,
+    "huhu-care": 8,
+    "go-glow": 12,
+    "plumber": 16
+  },
+  "plan": [
+    {
+      "slug": "lighting",
+      "pages": [
+        {
+          "id": "family",
+          "title": "A shared section across different uses",
+          "body": "Table and floor lights share a linear body, luminous strips and distinctive ends. Support, length and direction change around the use scenario.",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/5beb6f4875965136b4cf16ffcfe6f1fe.webp",
+              "caption": "Silver table lamp with a circular base beside an open book on a blue surface"
+            },
+            {
+              "src": "/works/legacy/lighting/916094a2d9a1fe336ac2d4c9854737b4.webp",
+              "caption": "Full view of a silver floor lamp against black"
+            }
+          ]
+        },
+        {
+          "id": "materials",
+          "title": "Separate material and functional cues",
+          "body": "Metal channels, luminous surfaces and circular controls explain different roles. Renderings support comparison of reflection and proportion; optical performance requires testing.",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/e9ab15f955279470fd53cb6e9e9a8c18.webp",
+              "caption": "Detail of a gold light body with longitudinal light strips and a circular control"
+            },
+            {
+              "src": "/works/legacy/lighting/a56bfb9a22490e6fa6dc7073ce8b6f87.webp",
+              "caption": "Horizontal pendant with parallel light strips, metal channels and end details against a dark background"
+            }
+          ]
+        },
+        {
+          "id": "space",
+          "title": "Check the object against the room",
+          "body": "Wall recesses and long tables provide scale references. Scenes help compare length, mounting and visual centre in an actual use context.",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/3f7ec7c3d1a16952bb9a0a0c1523be7b.webp",
+              "caption": "Gold vertical wall light within a grey architectural recess"
+            },
+            {
+              "src": "/works/legacy/lighting/450b32ccc90b8ca88b74c5bbf307c838.webp",
+              "caption": "Horizontal linear pendant above a dining table and chairs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "huhu-care",
+      "pages": [
+        {
+          "id": "study",
+          "title": "Turn a child’s use into form constraints",
+          "body": "Sketches and physical models explore grip, mouthpiece position and approachability. Clinical performance and manufacture remain outside the validated scope.",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/023.webp",
+              "caption": "Sketches, handmade form models and AIGC exploration"
+            }
+          ]
+        },
+        {
+          "id": "parts",
+          "title": "Separate contact, grip and charging",
+          "body": "Mouth contact, handheld volume and charging base have different requirements. Their separation makes the relationship between position and action available for review.",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/mouthpiece.webp",
+              "caption": "Mouthpiece and connection"
+            },
+            {
+              "src": "/works/refinement-v2/huhu/grip.webp",
+              "caption": "Textured grip area"
+            }
+          ]
+        },
+        {
+          "id": "system",
+          "title": "Connect the product and its feedback",
+          "body": "The device and base form a use unit. Interface feedback addresses children, carers and clinicians. Models and renderings document the concept stage.",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/charging-base.webp",
+              "caption": "Product and base arrangement"
+            },
+            {
+              "src": "/works/documents/portfolio-51/026.webp",
+              "caption": "Proposed breath interaction and feedback sequence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "go-glow",
+      "pages": [
+        {
+          "id": "journey",
+          "title": "From travel preparation to maintenance",
+          "body": "Carrying, changing modules, cleaning and storage create different tasks. The journey gives the product system concrete design criteria.",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/032.webp",
+              "caption": "Packing, use and maintenance journey"
+            },
+            {
+              "src": "/works/documents/portfolio-51/033.webp",
+              "caption": "Modular personal-care sketches"
+            }
+          ]
+        },
+        {
+          "id": "modules",
+          "title": "Organise the system around use",
+          "body": "The handle, replaceable modules and supporting information respond to carrying, switching, cleaning and storage. The diagram analyses original concept evidence.",
+          "images": [
+            {
+              "src": "/media/v7/brand/goglow-logic.webp",
+              "caption": "Organise the system around use"
+            }
+          ]
+        },
+        {
+          "id": "interface",
+          "title": "Connect the object and its instructions",
+          "body": "The companion interface organises care guidance and module recognition. Naming, colour and hierarchy remain consistent across the product and instructions.",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/035.webp",
+              "caption": "Companion-app low- and high-fidelity screens"
+            },
+            {
+              "src": "/works/documents/portfolio-51/036.webp",
+              "caption": "GO GLOW product-family render"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "plumber",
+      "pages": [
+        {
+          "id": "service",
+          "title": "Define the roles before the equipment",
+          "body": "The service blueprint separates public participation, professional operation and equipment maintenance. Permissions and information flows frame the scanning, transport and return tasks.",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/006.webp",
+              "caption": "Storyboard and service-system blueprint"
+            },
+            {
+              "src": "/works/documents/portfolio-51/007.webp",
+              "caption": "Roles and user journey"
+            }
+          ]
+        },
+        {
+          "id": "assembly",
+          "title": "Explain the robot through its parts",
+          "body": "Overall and exploded views connect the body, actuators and tail. This concept does not establish sealing, power or pipe-traversal performance.",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/three-quarter.webp",
+              "caption": "Robot three-quarter view"
+            },
+            {
+              "src": "/works/refinement-v2/plumber/exploded.webp",
+              "caption": "Robot exploded view"
+            }
+          ]
+        },
+        {
+          "id": "workflow",
+          "title": "Connect equipment and interface",
+          "body": "The station, device and control interface support parking, execution and monitoring. Their relationship makes it possible to review entry, feedback and recovery.",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/station.webp",
+              "caption": "Underground service-station concept"
+            },
+            {
+              "src": "/works/documents/portfolio-51/013.webp",
+              "caption": "Operation, monitoring and points screens"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

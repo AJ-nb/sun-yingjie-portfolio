@@ -1,0 +1,828 @@
+{
+  "edition": "v9",
+  "variant": "overview",
+  "lang": "en",
+  "pageCount": 39,
+  "caseCount": 11,
+  "caseSlugs": [
+    "hermes",
+    "arcteryx",
+    "karimoku",
+    "lighting",
+    "yelisi",
+    "periastra",
+    "biyuan",
+    "ai-video-systems",
+    "ink-realm",
+    "character-consistency",
+    "portrait-lighting"
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "kind": "cover",
+      "case": null
+    },
+    {
+      "page": 2,
+      "kind": "contents",
+      "case": null
+    },
+    {
+      "page": 3,
+      "kind": "profile",
+      "case": null
+    },
+    {
+      "page": 4,
+      "kind": "project",
+      "case": "hermes"
+    },
+    {
+      "page": 5,
+      "kind": "evidence",
+      "case": "hermes",
+      "pageId": "summer",
+      "title": "Summer: props connect the merchandise",
+      "body": "Fishing rods, hands and folding chairs create a viewing path. Compare product position, prop scale and background contrast so the narrative keeps merchandise legible.",
+      "images": [
+        {
+          "src": "/works/legacy/hermes/40379d8484144b6a435498fcf8b9d857.webp",
+          "caption": "Summer window with a fishing rod, folding chair, fish props and a speech bubble"
+        },
+        {
+          "src": "/works/legacy/hermes/51a7ab3976cb48ff18f4591b5056409e.webp",
+          "caption": "Summer window with a mannequin, drink-shaped prop, orange slice and COOL speech bubble"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "kind": "evidence",
+      "case": "hermes",
+      "pageId": "autumn",
+      "title": "Autumn: familiar frames, unfamiliar scale",
+      "body": "Doors, windows and walls establish spatial references. Oversized animals disrupt those references while framing and suspension separate merchandise from large props.",
+      "images": [
+        {
+          "src": "/works/legacy/hermes/043e019544984416521bf2009313a5fb.webp",
+          "caption": "Autumn window with an oversized pink fish passing through a doorway beside a mannequin"
+        },
+        {
+          "src": "/works/legacy/hermes/34aa997644c1849af5a716bd5cdcf55b.webp",
+          "caption": "Autumn window with a yellow snail, an open door and a suspended pink bag"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "kind": "evidence",
+      "case": "hermes",
+      "pageId": "winter",
+      "title": "Winter: different rhythms for different windows",
+      "body": "Wide windows connect products across snow planes. Tall windows build a vertical hierarchy around the horse. Each format requires a new composition.",
+      "images": [
+        {
+          "src": "/works/legacy/hermes/f1455674fa1906fe49bd555bcad97e9c.webp",
+          "caption": "Wide winter window with a large white horse head, snowy planes, a yellow bag and a small pink horse"
+        },
+        {
+          "src": "/works/legacy/hermes/776d28c61be0075bb8c93bffd65035ef.webp",
+          "caption": "Layered white horse contours and suspended accessories against a blue background"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "kind": "evidence",
+      "case": "hermes",
+      "pageId": "delivery",
+      "title": "From visual direction to spatial relationships",
+      "body": "My contribution was 3D design and visual presentation within BENWU. The retrospective diagram compares composition and merchandise hierarchy; individual production and store-delivery responsibility is not established.",
+      "images": [
+        {
+          "src": "/media/v7/brand/hermes-logic.webp",
+          "caption": "From visual direction to spatial relationships"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "kind": "project",
+      "case": "arcteryx"
+    },
+    {
+      "page": 10,
+      "kind": "evidence",
+      "case": "arcteryx",
+      "pageId": "layers",
+      "title": "Terrain, body and equipment",
+      "body": "A rock face anchors the background, layered contours form the middle ground and a mannequin establishes human scale. Their boundaries and overlap help equipment remain readable.",
+      "images": [
+        {
+          "src": "/works/boards/arcteryx/arcteryx-01.webp",
+          "caption": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 01 / 10"
+        },
+        {
+          "src": "/works/legacy/arcteryx/cb880134dd55b4ea48ac6a2c188bf65b.webp",
+          "caption": "Arc’teryx Alpha Center window with rock forms, layered curves and a mannequin holding poles"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "kind": "evidence",
+      "case": "arcteryx",
+      "pageId": "coordination",
+      "title": "Communicate spatial relationships",
+      "body": "Compare the rock face, curves and equipment as distinct layers. Window format, lighting and product visibility guide the spatial reading.",
+      "images": [
+        {
+          "src": "/media/v7/brand/arcteryx-logic.webp",
+          "caption": "Return to display scale"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "kind": "evidence",
+      "case": "arcteryx",
+      "pageId": "installation",
+      "title": "The window in its retail context",
+      "body": "Additional installation views connect the window with the interior. Rock, directional lines, mannequins and moss surfaces extend the mountain language around clothing and circulation.",
+      "images": [
+        {
+          "src": "/works/legacy/arcteryx/installation/arcteryx-installation-window-portrait.jpg",
+          "caption": "Arc’teryx Alpha Center installation, front window"
+        },
+        {
+          "src": "/works/legacy/arcteryx/installation/arcteryx-installation-interior.jpg",
+          "caption": "Arc’teryx mountain-performance retail interior"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "kind": "project",
+      "case": "karimoku"
+    },
+    {
+      "page": 14,
+      "kind": "evidence",
+      "case": "karimoku",
+      "pageId": "foundation",
+      "title": "Brand foundations",
+      "body": "Woodcraft, furniture and everyday life frame this retrospective design study. The material does not establish an official commission.",
+      "images": [
+        {
+          "src": "/works/boards/karimoku/karimoku-01.webp",
+          "caption": "Karimoku × BENWU | user-supplied retrospective board 01 / 20"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "kind": "evidence",
+      "case": "karimoku",
+      "pageId": "material",
+      "title": "A material system",
+      "body": "Wood, surface, joints and edges organise the material language. Species, finishes and durability require samples and engineering validation.",
+      "images": [
+        {
+          "src": "/works/boards/karimoku/karimoku-07.webp",
+          "caption": "Karimoku × BENWU | user-supplied retrospective board 07 / 20"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "kind": "evidence",
+      "case": "karimoku",
+      "pageId": "space",
+      "title": "Void and layers",
+      "body": "Spacing, layers, movement and light connect objects with their photographic representation. These images are design studies.",
+      "images": [
+        {
+          "src": "/works/boards/karimoku/karimoku-15.webp",
+          "caption": "Karimoku × BENWU | user-supplied retrospective board 15 / 20"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "kind": "project",
+      "case": "lighting"
+    },
+    {
+      "page": 18,
+      "kind": "evidence",
+      "case": "lighting",
+      "pageId": "family",
+      "title": "A shared section across different uses",
+      "body": "Table and floor lights share a linear body, luminous strips and distinctive ends. Support, length and direction change around the use scenario.",
+      "images": [
+        {
+          "src": "/works/legacy/lighting/5beb6f4875965136b4cf16ffcfe6f1fe.webp",
+          "caption": "Silver table lamp with a circular base beside an open book on a blue surface"
+        },
+        {
+          "src": "/works/legacy/lighting/916094a2d9a1fe336ac2d4c9854737b4.webp",
+          "caption": "Full view of a silver floor lamp against black"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "kind": "evidence",
+      "case": "lighting",
+      "pageId": "materials",
+      "title": "Separate material and functional cues",
+      "body": "Metal channels, luminous surfaces and circular controls explain different roles. Renderings support comparison of reflection and proportion; optical performance requires testing.",
+      "images": [
+        {
+          "src": "/works/legacy/lighting/e9ab15f955279470fd53cb6e9e9a8c18.webp",
+          "caption": "Detail of a gold light body with longitudinal light strips and a circular control"
+        },
+        {
+          "src": "/works/legacy/lighting/a56bfb9a22490e6fa6dc7073ce8b6f87.webp",
+          "caption": "Horizontal pendant with parallel light strips, metal channels and end details against a dark background"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "kind": "project",
+      "case": "yelisi"
+    },
+    {
+      "page": 21,
+      "kind": "evidence",
+      "case": "yelisi",
+      "pageId": "identity",
+      "title": "From historical exploration to a private seal",
+      "body": "The earlier Songnasty exploration and current YELISI mark show a shift in identity language. Seal, folded line and cut-corner forms connect naming, graphics and product context.",
+      "images": [
+        {
+          "src": "/works/brand/yelisi/songnasty-historical-logo.webp",
+          "caption": "Historical Songnasty identity exploration"
+        },
+        {
+          "src": "/works/brand/yelisi/yelisi-logo.webp",
+          "caption": "Current Yelisi brand identity"
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "kind": "evidence",
+      "case": "yelisi",
+      "pageId": "product",
+      "title": "Connect identity, products and CMF",
+      "body": "Collaborative brand and product-concept work shares a material direction. The archive supports comparison of form and surface; no manufacture or market launch is claimed.",
+      "images": [
+        {
+          "src": "/works/boards/yelisi/yelisi-01.webp",
+          "caption": "YELISI | user-supplied retrospective board 01 / 20"
+        },
+        {
+          "src": "/media/v7/brand/yelisi-logic.webp",
+          "caption": "Design decisions and system applications (Chinese diagram)"
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "kind": "project",
+      "case": "periastra"
+    },
+    {
+      "page": 24,
+      "kind": "evidence",
+      "case": "periastra",
+      "pageId": "exploration",
+      "title": "Build the system around recognition",
+      "body": "Compare the photography-equipment context, name recognition and small-scale legibility. The wordmark anchors the visual and information system.",
+      "images": [
+        {
+          "src": "/works/boards/periastra/periastra-01.webp",
+          "caption": "Periastra | user-supplied retrospective board 01 / 15"
+        },
+        {
+          "src": "/media/v7/brand/periastra-logic.webp",
+          "caption": "Design decisions and system applications (Chinese diagram)"
+        }
+      ]
+    },
+    {
+      "page": 25,
+      "kind": "evidence",
+      "case": "periastra",
+      "pageId": "wordmark",
+      "title": "Compare the wordmark at different scales",
+      "body": "The PERIASTRA wordmark study, dated 9 June 2026, supports comparison of letterforms, hierarchy, application scale and production direction.",
+      "images": [
+        {
+          "src": "/works/brand/periastra/final-wordmark.png",
+          "caption": "Periastra wordmark study"
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "kind": "project",
+      "case": "biyuan"
+    },
+    {
+      "page": 27,
+      "kind": "evidence",
+      "case": "biyuan",
+      "pageId": "home",
+      "title": "Understand the service, then take action",
+      "body": "The VI/UI connects brand expression with service entry points. The homepage introduces the offer before presenting the main action.",
+      "images": [
+        {
+          "src": "/works/refinement-brand/biyuan/home-desktop.png",
+          "caption": "Biyuan desktop homepage"
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "kind": "evidence",
+      "case": "biyuan",
+      "pageId": "models",
+      "title": "Support browsing and deliberate search",
+      "body": "Model lists and name search support two different tasks. Hierarchy helps users identify a model, understand its entry point and continue.",
+      "images": [
+        {
+          "src": "/works/refinement-brand/biyuan/models-desktop.png",
+          "caption": "Biyuan model directory"
+        },
+        {
+          "src": "/works/refinement-brand/biyuan/models-filtered.png",
+          "caption": "Filtered model search"
+        }
+      ]
+    },
+    {
+      "page": 29,
+      "kind": "evidence",
+      "case": "biyuan",
+      "pageId": "mobile",
+      "title": "Preserve the main action on mobile",
+      "body": "I designed and iterated the VI/UI. The mobile study rearranges content by priority, checking text, actions and scrolling. This archive does not establish ownership of the deployed service.",
+      "images": [
+        {
+          "src": "/works/refinement-brand/biyuan/home-mobile.png",
+          "caption": "Biyuan mobile homepage"
+        }
+      ]
+    },
+    {
+      "page": 30,
+      "kind": "project",
+      "case": "ai-video-systems"
+    },
+    {
+      "page": 31,
+      "kind": "evidence",
+      "case": "ai-video-systems",
+      "pageId": "control",
+      "title": "A controllable creative workflow",
+      "body": "A film-language reference, a new story and two character inputs become a storyboard, Blender blocking, controlled imagery and prompts, then a Seedance 2.5 render. The 11 storyboard units and 20+ characters are my process-log counts.",
+      "images": [
+        {
+          "src": "/works/ai-video-systems/workflow-map.svg",
+          "caption": "Workflow map from case observation to a reviewed output"
+        },
+        {
+          "src": "/works/ai-video-systems/ai-video-systems-blocking.webp",
+          "caption": "A Blender blocking frame from the supplied source video used to check camera and cast relations"
+        }
+      ]
+    },
+    {
+      "page": 32,
+      "kind": "evidence",
+      "case": "ai-video-systems",
+      "pageId": "evaluation",
+      "title": "Review relationships, then revise the right layer",
+      "body": "A searchable reference index, six control layers and eight analyses connect product, CMF, space and narrative. The personal 22.08-second film remains a process record; the page separates source analysis from personal workflow application. Explore Systems / AI video methods on the website.",
+      "images": [
+        {
+          "src": "/works/ai-video-systems/control-layers.svg",
+          "caption": "Six control layers for an AI video workflow"
+        },
+        {
+          "src": "/works/ai-video-systems/ai-video-systems-cover.webp",
+          "caption": "Review relationships, then revise the right layer"
+        }
+      ]
+    },
+    {
+      "page": 33,
+      "kind": "project",
+      "case": "ink-realm"
+    },
+    {
+      "page": 34,
+      "kind": "evidence",
+      "case": "ink-realm",
+      "pageId": "method",
+      "title": "Character, action and ink",
+      "body": "Small gestures trigger ink at landscape scale. The complete script organises eight action passages; the film records the relationship between camera, identity and effects. Open the case to watch.",
+      "images": [
+        {
+          "src": "/works/ink-realm/frame-01.webp",
+          "caption": "Ink Step: ground-level motion and dry-brush trails"
+        },
+        {
+          "src": "/works/ink-realm/frame-06.webp",
+          "caption": "Ink Lotus: layered black ink and muted gold"
+        }
+      ]
+    },
+    {
+      "page": 35,
+      "kind": "project",
+      "case": "character-consistency"
+    },
+    {
+      "page": 36,
+      "kind": "evidence",
+      "case": "character-consistency",
+      "pageId": "method",
+      "title": "Organise the visual definition around identity",
+      "body": "Views, expressions, micro-expressions, clothing and hands form a visual definition that can be inspected repeatedly. The full case retains five images and the input template.",
+      "images": [
+        {
+          "src": "/works/character-consistency/02.jpg",
+          "caption": "Character sheet: a shared reference for views and details"
+        }
+      ]
+    },
+    {
+      "page": 37,
+      "kind": "project",
+      "case": "portrait-lighting"
+    },
+    {
+      "page": 38,
+      "kind": "evidence",
+      "case": "portrait-lighting",
+      "pageId": "method",
+      "title": "Light type, direction and visible results",
+      "body": "Turn lighting into short, inspectable prompts. Nose shadows, wall shadows and hair highlights guide concrete revisions. The full archive retains nine images and every comparison.",
+      "images": [
+        {
+          "src": "/works/portrait-lighting/02.jpg",
+          "caption": "Soft and hard light: changes in nose and chin shadows"
+        }
+      ]
+    },
+    {
+      "page": 39,
+      "kind": "contact",
+      "case": null
+    }
+  ],
+  "media": [
+    {
+      "publicPath": "/works/legacy/hermes/f1455674fa1906fe49bd555bcad97e9c.webp",
+      "sha256": "785c5284d696ad3e4ae65d61052cda1a3046775da3d7c2386dfcad14c002de41",
+      "pages": [
+        1,
+        4,
+        7
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/arcteryx/cb880134dd55b4ea48ac6a2c188bf65b.webp",
+      "sha256": "b354f9f006fd3e6aefa92c7635c0f83fea037b994f79661455d8dfc603fd07f6",
+      "pages": [
+        1,
+        9,
+        10
+      ]
+    },
+    {
+      "publicPath": "/works/brand/karimoku/karimoku-showroom-cover.png",
+      "sha256": "e8171a938a54e9a1e69606e7a6e2ce60906e1ec28b014cfe259b5ed03d85e5b1",
+      "pages": [
+        1,
+        13
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/hermes/40379d8484144b6a435498fcf8b9d857.webp",
+      "sha256": "2b94e696fb262da319080edf244c47bc7f33dbc3cccbc61a84cd37cd3a8e3ff1",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/hermes/51a7ab3976cb48ff18f4591b5056409e.webp",
+      "sha256": "0b575602914e2ca46f55f2024ff0e7ab3b31bb004bb2f83bf54bc85649d5ab9f",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/hermes/043e019544984416521bf2009313a5fb.webp",
+      "sha256": "c131e5bd173ecec7e476b98676684bff78305b39ace67ad1d673125ffb289bf2",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/hermes/34aa997644c1849af5a716bd5cdcf55b.webp",
+      "sha256": "55c38cf1849a27688848afc24e3da9e354223037621147650784ea3bc55bc7be",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/hermes/776d28c61be0075bb8c93bffd65035ef.webp",
+      "sha256": "6ee5903ca919fdf408f90d395e40944e15ef900e904125256ce65870373dd1e4",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "publicPath": "/media/v7/brand/hermes-logic.webp",
+      "sha256": "0c48eb989b89b8bde6b9b062ce51ab22a461164e19d926134c7e81855d225219",
+      "pages": [
+        8
+      ]
+    },
+    {
+      "publicPath": "/works/boards/arcteryx/arcteryx-01.webp",
+      "sha256": "a4f530a7a63137ba1931c6480599d46f3bef49cf3380484f20b33e7bf5acbca7",
+      "pages": [
+        10
+      ]
+    },
+    {
+      "publicPath": "/media/v7/brand/arcteryx-logic.webp",
+      "sha256": "bd1f6745bc8c46ab371cfb988976b9a5167eec79aba4c41b389f588bc2d09475",
+      "pages": [
+        11
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/arcteryx/installation/arcteryx-installation-window-portrait.jpg",
+      "sha256": "450600e175f17d420d0058354becddbb86690a3fa6306beade17c0d0c38b3077",
+      "pages": [
+        12
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/arcteryx/installation/arcteryx-installation-interior.jpg",
+      "sha256": "c2d3ed7dfbaccb357e98cf9a1d3d0c63c59ee1017df0c12f2efbe035c9af6635",
+      "pages": [
+        12
+      ]
+    },
+    {
+      "publicPath": "/works/boards/karimoku/karimoku-01.webp",
+      "sha256": "ab11513fb5e383154dcac6380ecb49efe0af2fc008f1b2156f5fff106e677d70",
+      "pages": [
+        14
+      ]
+    },
+    {
+      "publicPath": "/works/boards/karimoku/karimoku-07.webp",
+      "sha256": "0e058230fb1bdab488641d67b64963b82f27c38db546435c0d5dd11a47b6ef04",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "publicPath": "/works/boards/karimoku/karimoku-15.webp",
+      "sha256": "80541f84f74e1edbee3501dd312b59c7fe4b9e6b139f3cac6178b4e7813b8370",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/lighting/5beb6f4875965136b4cf16ffcfe6f1fe.webp",
+      "sha256": "8ac8a806d97a235229a0c39244bdffb4d8d533ef0962b5856b1dc23af9ce85f7",
+      "pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/lighting/916094a2d9a1fe336ac2d4c9854737b4.webp",
+      "sha256": "4f2eb08764ebb16588b6e9e51f22376d8a069cad190c20a8d128a6c3bc54a35a",
+      "pages": [
+        18
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/lighting/e9ab15f955279470fd53cb6e9e9a8c18.webp",
+      "sha256": "b1a906ec441a91bb4ca84e164239b160b8c72c5176634564557af7ecfa580456",
+      "pages": [
+        19
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/lighting/a56bfb9a22490e6fa6dc7073ce8b6f87.webp",
+      "sha256": "e0725b4d7f5321ac44cacc47244e97efc8f22cf0a6ea02065cd334aa1cb85371",
+      "pages": [
+        19
+      ]
+    },
+    {
+      "publicPath": "/works/brand/yelisi/yelisi-logo.webp",
+      "sha256": "529657e9b73686384822f7ac063c2faff6a419d5e90900ccd4c56701f8318961",
+      "pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "publicPath": "/works/brand/yelisi/songnasty-historical-logo.webp",
+      "sha256": "81e13b35fee3ee6e5852d734494aae0cb9ee4963c6b58b65e045ff28191b47dc",
+      "pages": [
+        21
+      ]
+    },
+    {
+      "publicPath": "/works/boards/yelisi/yelisi-01.webp",
+      "sha256": "ff64396640c0256c69f491935af2b559de73a35d3d659eb1309339b5f0859e47",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "publicPath": "/media/v7/brand/yelisi-logic.webp",
+      "sha256": "c5af32259c989620fd9014f8c3dc8ec0559cd9377f34d4082465b2cc8ea1c5bb",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "publicPath": "/works/brand/periastra/final-wordmark.png",
+      "sha256": "92b7c176b3e083da1a5a240ca90f270860064616902e56e0e9d5921c595ad395",
+      "pages": [
+        23,
+        25
+      ]
+    },
+    {
+      "publicPath": "/works/boards/periastra/periastra-01.webp",
+      "sha256": "3d3e9e1e59fb20d8d5db235cddf2ef95fd8c17f2bc211b0b0da9b9ff18590c83",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "publicPath": "/media/v7/brand/periastra-logic.webp",
+      "sha256": "2335f5254e48570283ee90d47a8cee6f66d472ae6daeb1d5f8c4984abbe8fffc",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-brand/biyuan/home-desktop.png",
+      "sha256": "b0e57ff88733fe5eee305ea9d9b1ab9b132bc25d79c72ad483463f0adc175172",
+      "pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-brand/biyuan/models-desktop.png",
+      "sha256": "15af1371b1ac29ddbddd8dc3622d41ed0334e1c20f12b59f896679cb82a4d5b3",
+      "pages": [
+        28
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-brand/biyuan/models-filtered.png",
+      "sha256": "6dd108150f6a06c4215ff155c7bd89c20d831f2f94af5f1d3cf8c1ca2ede45c4",
+      "pages": [
+        28
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-brand/biyuan/home-mobile.png",
+      "sha256": "91456a57479cee34df97e808304b0ddf140cef53b56f5406e8f57881b06fa7e9",
+      "pages": [
+        29
+      ]
+    },
+    {
+      "publicPath": "/works/ai-video-systems/ai-video-systems-cover.webp",
+      "sha256": "9ca5ff12fd42004121e8ea8d7ba1707590f687fc558cf17f13214fcc98250152",
+      "pages": [
+        30,
+        32
+      ]
+    },
+    {
+      "publicPath": "/works/ai-video-systems/workflow-map.svg",
+      "sha256": "56691962721efbacb16d53da78c0fccc9a06d9947c8e405571b8147db865c31c",
+      "pages": [
+        31
+      ]
+    },
+    {
+      "publicPath": "/works/ai-video-systems/ai-video-systems-blocking.webp",
+      "sha256": "a65e12ca8a3a0d8fc7c7f5aa9932e912354cd68be7e0583f14a4f087f9b758bf",
+      "pages": [
+        31
+      ]
+    },
+    {
+      "publicPath": "/works/ai-video-systems/control-layers.svg",
+      "sha256": "05c73559407ddefd547af55312065e9cfd8845d87f77dfa6820ca2cf4c3aa739",
+      "pages": [
+        32
+      ]
+    },
+    {
+      "publicPath": "/works/ink-realm/cover.webp",
+      "sha256": "b292ac2057f208ed006bcd398f026d0eba0eff0397409546557c90d708c45452",
+      "pages": [
+        33
+      ]
+    },
+    {
+      "publicPath": "/works/ink-realm/frame-01.webp",
+      "sha256": "f17d6a021b2323f612a354373688b0f52f6477ffaabfe32f5e02e781475ff1a4",
+      "pages": [
+        34
+      ]
+    },
+    {
+      "publicPath": "/works/ink-realm/frame-06.webp",
+      "sha256": "8eeacbf1e371ea271d2285a6b194ca9d2c2858afa464ca342c8925ea4e156e93",
+      "pages": [
+        34
+      ]
+    },
+    {
+      "publicPath": "/works/character-consistency/cover.webp",
+      "sha256": "244ff0d415f6b03825a1c73b06555af88a7999d641e694eb4a70065dc12cc91f",
+      "pages": [
+        35
+      ]
+    },
+    {
+      "publicPath": "/works/character-consistency/02.jpg",
+      "sha256": "8bfae8482313c906d9a6a4772727df89e4196cdb674fb3fed08b2e06a6fe3229",
+      "pages": [
+        36
+      ]
+    },
+    {
+      "publicPath": "/works/portrait-lighting/cover.webp",
+      "sha256": "95d0b1b29c07bfb3a6876097e874e509992c33020f33e00079e0b7b2d9f12199",
+      "pages": [
+        37
+      ]
+    },
+    {
+      "publicPath": "/works/portrait-lighting/02.jpg",
+      "sha256": "b9a775b7a01b79f71d011d9e64b66d0dee1b17757df7f5ae513a129e66e11aff",
+      "pages": [
+        38
+      ]
+    }
+  ],
+  "document": "deliverables/portfolio/sun-yingjie-selected-portfolio-en.pdf",
+  "publicPath": "/downloads/sun-yingjie-selected-portfolio-en.pdf",
+  "sha256": "e81d70c14d2edcb3c89ddad38c59832c5c20b657c4b6a81b2ebceef4b9f68a70",
+  "publicSha256": "e81d70c14d2edcb3c89ddad38c59832c5c20b657c4b6a81b2ebceef4b9f68a70",
+  "publicBytes": 14699021,
+  "url": "https://aj-nb.github.io/sun-yingjie-portfolio/en/",
+  "sourceHashes": {
+    "web/src/data/profile.json": "aba7dffd5ab87663bc2f9c8754e1049f44c611cf2d7f779aa34359a757810e5b",
+    "web/src/data/publication.json": "02191c95833027c4a8716d9fa80d815cbbade26737d6c532b728e60e67ff8e11",
+    "web/src/data/publication-pages.json": "4cec3dffaef6ad611d38de8954fb981d8469c48dfaf926a5847048657b883eba",
+    "web/src/data/publication-locales.json": "7942c87f1682639541f59d5dc2d780d2061af539f298fcb5034d5559f4d921e3",
+    "web/src/data/projectRegistry.ts": "9b436eaa13c97b68fc13add316701b82f79b2fa6e405651d986ece7ebeeb7f86",
+    "scripts/build_publications_v9.py": "56675139086fc7ec828ff568d38c286af3831c283744b5b9058f302b57c97833",
+    "scripts/build_selected_portfolio.py": "443ba65aaa90020a3e231e480c900b32c81282cf856926c7545b565a2f1162f2",
+    "web/src/data/chapters.ts": "41115cc1eaa069374dd5ae8aa62b3df8ae3834b029a27e3eb9837ec4f79dfcbf",
+    "web/src/content/works/hermes.en.md": "0c688c0341a9d3005f9f8f55fd390784bf084629746aefc172c1eb339e6ae8cf",
+    "web/src/content/works/arcteryx.en.md": "2009622dadaa9c4cd2e80aa84c54b11a52f78f52f4d9e0e29052633927a6d704",
+    "web/src/content/works/karimoku.en.md": "96525befe8dce64171d16c5d0446d548bcc61ff50a9046a7e70a313c76fcfc40",
+    "web/src/content/works/lighting.en.md": "321daf890cd9849727dea81e36609a6e5c5e2d72986d45dcf309fd20cfeea580",
+    "web/src/content/works/yelisi.en.md": "fe34e06e02c0bd124d78f75bc30a45e779ca66be34263cbbfb356afb5decc2c8",
+    "web/src/content/works/periastra.en.md": "e2f2e9d66b5cacbc743866614dbc7ddb177d59e6ce7b1496ec9d8c8edac20b7f",
+    "web/src/content/works/biyuan.en.md": "91a5e031e533e41f9525a1a6a3f3a05cc6f690ac7855506e7830d33c530f96a5",
+    "web/src/content/works/ai-video-systems.en.md": "fa8312045cdfc241a5ab7cdac9cd27eaf5c5df5cd008e3f4dd6d3e020130a6f6",
+    "web/src/content/works/ink-realm.en.md": "4d0654e939f2695884fc645ad601b92160c10c92b4929bad5adcbe0a71910689",
+    "web/src/content/works/character-consistency.en.md": "9602264086ac0afc2a64f0283a5ab255a567f4eadc3a9181b11e67e3d6821572",
+    "web/src/content/works/portrait-lighting.en.md": "58f451c6c102ac2cbbeed008688e63baf39391f5c33a7356e3ff9d6a9d6f97d0"
+  },
+  "externalFontHashes": {
+    "C:\\Windows\\Fonts\\msyh.ttc": "d79c55e68b1131eea0cc1c47be4f572d964f28c682e143db2ad09c1e4cb07a3f",
+    "C:\\Windows\\Fonts\\msyhbd.ttc": "4508821b3dffe01f0ef5e5326a3e60df705a44633858811f67b6982dce3f6ee6",
+    "D:\\portfolio-public-v11-mobile\\web\\public\\fonts\\documents\\DM-Sans-Regular.ttf": "7d45112607557ba9af1ef1a1eda89083522794736d53c95e4f5a50513eafefd0",
+    "D:\\portfolio-public-v11-mobile\\web\\public\\fonts\\documents\\DM-Sans-SemiBold.ttf": "f19593ab27001f52a1339dde0ea1bbd3f9e463c55f0d17f16648b1e9b2383edc"
+  }
+}

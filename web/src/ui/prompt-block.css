@@ -1,0 +1,8 @@
+.case-prompt{margin:1.5rem 0;border:1px solid #666;border-radius:12px;overflow:hidden;max-width:100%}
+.case-prompt-actions{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;padding:.75rem 1rem;border-bottom:1px solid #666}
+.case-prompt-actions button{background:transparent;color:inherit;font:inherit;border:1px solid currentColor;border-radius:6px;padding:.5rem .75rem;cursor:pointer}
+.case-prompt-actions button:focus-visible{outline:2px solid currentColor;outline-offset:3px}
+.case-prompt-actions span{font-size:.85rem}
+.design-os-detail-body .case-prompt pre{margin:0;padding:1.2rem;white-space:pre-wrap;overflow-wrap:anywhere;max-height:34rem;overflow:auto;font-size:.88rem;line-height:1.85}
+.case-prompt code{white-space:inherit;word-break:normal}
+.case-prompt pre:focus-visible{outline:2px solid currentColor;outline-offset:-3px}

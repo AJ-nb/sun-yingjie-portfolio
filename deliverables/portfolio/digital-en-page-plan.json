@@ -1,0 +1,278 @@
+{
+  "variant": "digital",
+  "lang": "en",
+  "pageCount": 30,
+  "casePages": {
+    "biyuan": 4,
+    "resume-formatter": 7,
+    "formline": 11,
+    "xintiao": 14,
+    "lensflow": 18,
+    "ai-video-systems": 21,
+    "ink-realm": 24,
+    "character-consistency": 26,
+    "portrait-lighting": 28
+  },
+  "plan": [
+    {
+      "slug": "biyuan",
+      "pages": [
+        {
+          "id": "interface",
+          "title": "One identity across desktop and mobile",
+          "body": "Desktop and mobile views share naming and brand rules. The smaller screen rearranges information around the primary action.",
+          "images": [
+            {
+              "src": "/works/refinement-brand/biyuan/home-desktop.png",
+              "caption": "Biyuan desktop homepage"
+            },
+            {
+              "src": "/works/refinement-brand/biyuan/home-mobile.png",
+              "caption": "Biyuan mobile homepage"
+            }
+          ]
+        },
+        {
+          "id": "models",
+          "title": "Support browsing and deliberate search",
+          "body": "Model lists and name search support two different tasks. Hierarchy helps users identify a model, understand its entry point and continue.",
+          "images": [
+            {
+              "src": "/works/refinement-brand/biyuan/models-desktop.png",
+              "caption": "Biyuan model directory"
+            },
+            {
+              "src": "/works/refinement-brand/biyuan/models-filtered.png",
+              "caption": "Filtered model search"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "resume-formatter",
+      "pages": [
+        {
+          "id": "review",
+          "title": "Make automated rewriting reviewable",
+          "body": "Before-and-after differences let the user choose which changes to keep. Confirmation and undo preserve control over the text.",
+          "images": [
+            {
+              "src": "/works/digital/resume-formatter/rewrite-diff.webp",
+              "caption": "Reviewing an AI rewrite diff in Resume Formatter"
+            }
+          ]
+        },
+        {
+          "id": "versions",
+          "title": "Give the master and variants distinct roles",
+          "body": "The master retains stable facts; role-specific versions choose emphasis. Evidence links keep wording close to its supporting record.",
+          "images": [
+            {
+              "src": "/works/digital/resume-formatter/workspace.webp",
+              "caption": "Master resume, job version and evidence workspace"
+            }
+          ]
+        },
+        {
+          "id": "layout",
+          "title": "Make layout changes visible and reversible",
+          "body": "Templates change presentation rather than silently changing facts. This tool builds on an MIT upstream fork; this portfolio’s independent Word-export pipeline is not a feature claim about that editor.",
+          "images": [
+            {
+              "src": "/works/digital/resume-formatter/layout-controls.webp",
+              "caption": "Resume Formatter template and layout controls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "formline",
+      "pages": [
+        {
+          "id": "desktop",
+          "title": "Keep spatial input and feedback together",
+          "body": "Objects, parameters and views share one editor. Drawing, selection and constraints help users understand the next action.",
+          "images": [
+            {
+              "src": "/works/digital/formline/editor-desktop.webp",
+              "caption": "Formline desktop geometry editor"
+            }
+          ]
+        },
+        {
+          "id": "mobile",
+          "title": "Preserve the spatial task on a small screen",
+          "body": "Mobile reallocates attention between tools and canvas. X-Ray exposes internal relationships while retaining an explicit way back.",
+          "images": [
+            {
+              "src": "/works/digital/formline/editor-mobile.webp",
+              "caption": "Formline mobile X-Ray view"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "xintiao",
+      "pages": [
+        {
+          "id": "onboarding",
+          "title": "Make the income model understandable",
+          "body": "A clear first-run configuration connects home-screen values to user inputs. Native WeChat developer-tool captures document this interface.",
+          "images": [
+            {
+              "src": "/works/refinement-digital/xintiao/onboarding-native.png",
+              "caption": "Salary configuration in Xintiao onboarding"
+            },
+            {
+              "src": "/works/refinement-digital/xintiao/home-native.png",
+              "caption": "Xintiao native home screen"
+            }
+          ]
+        },
+        {
+          "id": "detail",
+          "title": "Let users inspect the number",
+          "body": "The detail view explains a result; the calendar handles days without records. Empty states are part of the workflow.",
+          "images": [
+            {
+              "src": "/works/refinement-digital/xintiao/detail-native.png",
+              "caption": "Xintiao salary details"
+            },
+            {
+              "src": "/works/refinement-digital/xintiao/calendar-native.png",
+              "caption": "Xintiao calendar with no completed records"
+            }
+          ]
+        },
+        {
+          "id": "settings",
+          "title": "Let users control appearance and motion",
+          "body": "Themes and motion controls accommodate preferences. The native mini-program reuses PayDance’s AGPL-3.0-only calculation core, credited separately from interface work.",
+          "images": [
+            {
+              "src": "/works/refinement-digital/xintiao/appearance-native.png",
+              "caption": "Xintiao appearance and animation settings"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lensflow",
+      "pages": [
+        {
+          "id": "guide",
+          "title": "Establish input context before the task",
+          "body": "Guidance and sample material provide a starting point. Material, task and result share a workspace that supports stepwise progress and recovery.",
+          "images": [
+            {
+              "src": "/works/digital/lensflow/studio-guide.webp",
+              "caption": "Lensflow onboarding and demo workspace"
+            }
+          ]
+        },
+        {
+          "id": "analysis",
+          "title": "Reuse structured material analysis",
+          "body": "Structured output helps analysis feed later tasks. This public demonstration uses precomputed results and does not claim live model inference.",
+          "images": [
+            {
+              "src": "/works/digital/lensflow/studio-analysis.webp",
+              "caption": "Lensflow image analysis and structured results"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ai-video-systems",
+      "pages": [
+        {
+          "id": "control",
+          "title": "A controllable creative workflow",
+          "body": "A film-language reference, a new story and two character inputs become a storyboard, Blender blocking, controlled imagery and prompts, then a Seedance 2.5 render. The 11 storyboard units and 20+ characters are my process-log counts.",
+          "images": [
+            {
+              "src": "/works/ai-video-systems/workflow-map.svg",
+              "caption": "Workflow map from case observation to a reviewed output"
+            },
+            {
+              "src": "/works/ai-video-systems/ai-video-systems-blocking.webp",
+              "caption": "A Blender blocking frame from the supplied source video used to check camera and cast relations"
+            }
+          ]
+        },
+        {
+          "id": "evaluation",
+          "title": "Review relationships, then revise the right layer",
+          "body": "A searchable reference index, six control layers and eight analyses connect product, CMF, space and narrative. The personal 22.08-second film remains a process record; the page separates source analysis from personal workflow application. Explore Systems / AI video methods on the website.",
+          "images": [
+            {
+              "src": "/works/ai-video-systems/control-layers.svg",
+              "caption": "Six control layers for an AI video workflow"
+            },
+            {
+              "src": "/works/ai-video-systems/ai-video-systems-cover.webp",
+              "caption": "Review relationships, then revise the right layer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ink-realm",
+      "pages": [
+        {
+          "id": "method",
+          "title": "Character, action and ink",
+          "body": "Small gestures trigger ink at landscape scale. The complete script organises eight action passages; the film records the relationship between camera, identity and effects. Open the case to watch.",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-01.webp",
+              "caption": "Ink Step: ground-level motion and dry-brush trails"
+            },
+            {
+              "src": "/works/ink-realm/frame-06.webp",
+              "caption": "Ink Lotus: layered black ink and muted gold"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "character-consistency",
+      "pages": [
+        {
+          "id": "method",
+          "title": "Organise the visual definition around identity",
+          "body": "Views, expressions, micro-expressions, clothing and hands form a visual definition that can be inspected repeatedly. The full case retains five images and the input template.",
+          "images": [
+            {
+              "src": "/works/character-consistency/02.jpg",
+              "caption": "Character sheet: a shared reference for views and details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "portrait-lighting",
+      "pages": [
+        {
+          "id": "method",
+          "title": "Light type, direction and visible results",
+          "body": "Turn lighting into short, inspectable prompts. Nose shadows, wall shadows and hair highlights guide concrete revisions. The full archive retains nine images and every comparison.",
+          "images": [
+            {
+              "src": "/works/portrait-lighting/02.jpg",
+              "caption": "Soft and hard light: changes in nose and chin shadows"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

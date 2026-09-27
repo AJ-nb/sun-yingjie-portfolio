@@ -1,0 +1,464 @@
+{
+  "edition": "v9",
+  "variant": "physical",
+  "lang": "zh",
+  "pageCount": 20,
+  "caseCount": 4,
+  "caseSlugs": [
+    "lighting",
+    "huhu-care",
+    "go-glow",
+    "plumber"
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "kind": "cover",
+      "case": null
+    },
+    {
+      "page": 2,
+      "kind": "contents",
+      "case": null
+    },
+    {
+      "page": 3,
+      "kind": "profile",
+      "case": null
+    },
+    {
+      "page": 4,
+      "kind": "project",
+      "case": "lighting"
+    },
+    {
+      "page": 5,
+      "kind": "evidence",
+      "case": "lighting",
+      "pageId": "family",
+      "title": "截面语言连接不同使用位置",
+      "body": "从台灯到落地灯，竖向灯体、线性发光面与端部轮廓形成家族关系。比例与支撑形式随使用尺度变化，系列识别由可以对照的共同细节承担。",
+      "images": [
+        {
+          "src": "/works/legacy/lighting/5beb6f4875965136b4cf16ffcfe6f1fe.webp",
+          "caption": "银色台灯与圆形底座"
+        },
+        {
+          "src": "/works/legacy/lighting/916094a2d9a1fe336ac2d4c9854737b4.webp",
+          "caption": "落地灯完整视图"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "kind": "evidence",
+      "case": "lighting",
+      "pageId": "materials",
+      "title": "把材料与功能分区分别表达",
+      "body": "金色与银色表面、发光条、金属槽道和圆形控制件构成产品细部。三维表达帮助讨论反射、体量与局部关系；实际光学及电气性能由后续工程测试确定。",
+      "images": [
+        {
+          "src": "/works/legacy/lighting/e9ab15f955279470fd53cb6e9e9a8c18.webp",
+          "caption": "金色灯体、发光条及圆形控制件"
+        },
+        {
+          "src": "/works/legacy/lighting/a56bfb9a22490e6fa6dc7073ce8b6f87.webp",
+          "caption": "水平吊灯的槽道与端部"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "kind": "evidence",
+      "case": "lighting",
+      "pageId": "space",
+      "title": "将单体比例放回空间检验",
+      "body": "壁灯与墙面凹处形成竖向关系，吊灯沿餐桌方向展开。两类场景帮助判断灯体长度、安装方向和视觉重心，避免只在脱离使用环境的单体画面中讨论产品。",
+      "images": [
+        {
+          "src": "/works/legacy/lighting/3f7ec7c3d1a16952bb9a0a0c1523be7b.webp",
+          "caption": "灰色墙面凹处的金色壁灯"
+        },
+        {
+          "src": "/works/legacy/lighting/450b32ccc90b8ca88b74c5bbf307c838.webp",
+          "caption": "长桌上方的水平线性吊灯"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "kind": "project",
+      "case": "huhu-care"
+    },
+    {
+      "page": 9,
+      "kind": "evidence",
+      "case": "huhu-care",
+      "pageId": "study",
+      "title": "把儿童使用情境转成形态约束",
+      "body": "草图与手工模型用于讨论握持、吹嘴位置和儿童对物体的理解。模型阶段关注外形与使用关系，呼气检测的临床及传感性能仍属于后续验证。",
+      "images": [
+        {
+          "src": "/works/documents/portfolio-51/023.webp",
+          "caption": "草图与手工形态模型原始展板"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "kind": "evidence",
+      "case": "huhu-care",
+      "pageId": "parts",
+      "title": "拆开吹嘴 握持与底座的关系",
+      "body": "把接触嘴部的部件、握持区域和底座分别表达，使不同功能的边界清楚。外观、连接位置和使用动作需要共同推敲，不能仅用完整产品渲染代替设计过程。",
+      "images": [
+        {
+          "src": "/works/refinement-v2/huhu/mouthpiece.webp",
+          "caption": "吹嘴及连接位置"
+        },
+        {
+          "src": "/works/refinement-v2/huhu/grip.webp",
+          "caption": "握持区域"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "kind": "evidence",
+      "case": "huhu-care",
+      "pageId": "system",
+      "title": "产品与反馈形成连续体验",
+      "body": "产品及底座构成完整使用单元；反馈流程需要照顾儿童、家长与医护各自的理解。保留原有形态与部件关系，以原始模型和渲染呈现当前概念阶段。",
+      "images": [
+        {
+          "src": "/works/refinement-v2/huhu/charging-base.webp",
+          "caption": "产品与底座组合"
+        },
+        {
+          "src": "/works/documents/portfolio-51/026.webp",
+          "caption": "呼气与反馈流程设想"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "kind": "project",
+      "case": "go-glow"
+    },
+    {
+      "page": 13,
+      "kind": "evidence",
+      "case": "go-glow",
+      "pageId": "journey",
+      "title": "从旅行准备到日常维护",
+      "body": "旅行个护涉及携带、切换、清洁与收纳。使用旅程将这些阶段拆开，使模块组合与产品形态有明确的任务依据。",
+      "images": [
+        {
+          "src": "/works/documents/portfolio-51/032.webp",
+          "caption": "旅行准备、使用及维护旅程"
+        },
+        {
+          "src": "/works/documents/portfolio-51/033.webp",
+          "caption": "模块化产品草图"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "kind": "evidence",
+      "case": "go-glow",
+      "pageId": "modules",
+      "title": "从使用任务建立模块系统",
+      "body": "围绕携带、切换、清洁与收纳，组织握持手柄、可替换模块和信息说明；保留原产品造型与部件关系。",
+      "images": [
+        {
+          "src": "/media/v7/brand/goglow-logic.webp",
+          "caption": "原始项目图像与设计过程分析"
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "kind": "evidence",
+      "case": "go-glow",
+      "pageId": "interface",
+      "title": "将实体产品与数字说明连接",
+      "body": "配套界面以护理任务和模块识别组织信息。产品系列、使用说明与界面需要采用一致的名称、颜色及视觉优先级，使概念能够被连续地理解。",
+      "images": [
+        {
+          "src": "/works/documents/portfolio-51/035.webp",
+          "caption": "配套应用低保真与高保真页面"
+        },
+        {
+          "src": "/works/documents/portfolio-51/036.webp",
+          "caption": "原始产品系列渲染"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "kind": "project",
+      "case": "plumber"
+    },
+    {
+      "page": 17,
+      "kind": "evidence",
+      "case": "plumber",
+      "pageId": "service",
+      "title": "先明确角色 再组织设备任务",
+      "body": "服务蓝图与角色旅程把公众参与、专业处置与设备工作拆开。任务权限与信息反馈决定界面内容，产品形态则需要对应扫描、清理与返回的流程。",
+      "images": [
+        {
+          "src": "/works/documents/portfolio-51/006.webp",
+          "caption": "故事板与服务系统蓝图"
+        },
+        {
+          "src": "/works/documents/portfolio-51/007.webp",
+          "caption": "角色与用户旅程"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "kind": "evidence",
+      "case": "plumber",
+      "pageId": "assembly",
+      "title": "以部件关系解释机器人本体",
+      "body": "完整视图与分解视图共同呈现主体、清理端和尾部关系。产品处于概念设计阶段，部件表达用于讨论方案，并不代替密封、驱动与管道工况测试。",
+      "images": [
+        {
+          "src": "/works/refinement-v2/plumber/three-quarter.webp",
+          "caption": "机器人三分之四视角"
+        },
+        {
+          "src": "/works/refinement-v2/plumber/exploded.webp",
+          "caption": "机器人部件分解"
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "kind": "evidence",
+      "case": "plumber",
+      "pageId": "workflow",
+      "title": "设备与界面支持同一服务流程",
+      "body": "基站、地下设备与操作页面分别承接停靠、执行及监控。把这些部分放在同一服务关系中理解，可以检查任务是否有入口、反馈及可恢复的终点。",
+      "images": [
+        {
+          "src": "/works/refinement-v2/plumber/station.webp",
+          "caption": "地下基站概念"
+        },
+        {
+          "src": "/works/documents/portfolio-51/013.webp",
+          "caption": "操作、监控与积分界面"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "kind": "contact",
+      "case": null
+    }
+  ],
+  "media": [
+    {
+      "publicPath": "/works/legacy/lighting/5beb6f4875965136b4cf16ffcfe6f1fe.webp",
+      "sha256": "8ac8a806d97a235229a0c39244bdffb4d8d533ef0962b5856b1dc23af9ce85f7",
+      "pages": [
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-v2/huhu/product-scene.webp",
+      "sha256": "0eb3fc5f3dce7462e86bde8a40e48e254a4d5064dd739c63c01839bc2060e3fd",
+      "pages": [
+        1,
+        8
+      ]
+    },
+    {
+      "publicPath": "/works/documents/portfolio-51/036.webp",
+      "sha256": "ab1119420d23befc0891563f64378c5cd7a7d8437f11ae3d91e00fc4f295efd2",
+      "pages": [
+        1,
+        12,
+        15
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/lighting/916094a2d9a1fe336ac2d4c9854737b4.webp",
+      "sha256": "4f2eb08764ebb16588b6e9e51f22376d8a069cad190c20a8d128a6c3bc54a35a",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/lighting/e9ab15f955279470fd53cb6e9e9a8c18.webp",
+      "sha256": "b1a906ec441a91bb4ca84e164239b160b8c72c5176634564557af7ecfa580456",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/lighting/a56bfb9a22490e6fa6dc7073ce8b6f87.webp",
+      "sha256": "e0725b4d7f5321ac44cacc47244e97efc8f22cf0a6ea02065cd334aa1cb85371",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/lighting/3f7ec7c3d1a16952bb9a0a0c1523be7b.webp",
+      "sha256": "bb76aa2bbb061b55634d2a380c4bb903a8809a2227416ceadccdbdad40fa306e",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "publicPath": "/works/legacy/lighting/450b32ccc90b8ca88b74c5bbf307c838.webp",
+      "sha256": "7014614b2e34de16fefa110788125d25a9a761821597b340db7da824b0f736ee",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "publicPath": "/works/documents/portfolio-51/023.webp",
+      "sha256": "7323161e931ac257cf697caad8d0ffe0ac068b389a9f88e6393bfb52c2874e62",
+      "pages": [
+        9
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-v2/huhu/mouthpiece.webp",
+      "sha256": "79c7dd54850c6cef251e813ce94b244efbcd478304cec8d33e8f56aa6433b5b7",
+      "pages": [
+        10
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-v2/huhu/grip.webp",
+      "sha256": "a97ebe3f4acee516e8af63a2d3dbc0e68bbc5dd197a7738cda5f53c777007cdd",
+      "pages": [
+        10
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-v2/huhu/charging-base.webp",
+      "sha256": "8a9d6e348b5807aa99354a7576e64dd4d12e91f80a1fb2ed06e6613b6ae9d486",
+      "pages": [
+        11
+      ]
+    },
+    {
+      "publicPath": "/works/documents/portfolio-51/026.webp",
+      "sha256": "2b667f02162999190ede6d6b97528a06d5da065049fd5c00a74be38b187a6742",
+      "pages": [
+        11
+      ]
+    },
+    {
+      "publicPath": "/works/documents/portfolio-51/032.webp",
+      "sha256": "87d344ff6fc2e90025363c24521d661b5996d13276fd6568548b79c695da7ff5",
+      "pages": [
+        13
+      ]
+    },
+    {
+      "publicPath": "/works/documents/portfolio-51/033.webp",
+      "sha256": "5da0861dba0d662b0b15676d6034d5abb3e7517f5a7ef3a46bc0f015955bc91f",
+      "pages": [
+        13
+      ]
+    },
+    {
+      "publicPath": "/media/v7/brand/goglow-logic.webp",
+      "sha256": "cbc31b0fe037eaa5dbd852f2c1485115d3e1384c24f08613693ecd70d5011903",
+      "pages": [
+        14
+      ]
+    },
+    {
+      "publicPath": "/works/documents/portfolio-51/035.webp",
+      "sha256": "49c36d85bef624ea3d7f1d2c8cbc8c0875475b5c9b48f9cd68a931058a6f9aae",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-v2/plumber/underground-scene.webp",
+      "sha256": "84cdc404be1eca8ad8e18907aafcfa2b2d5591917bf4259548a7b71140b91b90",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "publicPath": "/works/documents/portfolio-51/006.webp",
+      "sha256": "e6a64cc7a07e71438bc5c73e987db7bf55b32382e085e39b2cab741a4fc7db82",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "publicPath": "/works/documents/portfolio-51/007.webp",
+      "sha256": "b9ffd61476a88ef0cce216e67ee1b756d7d308d6c835e75475e31fed00273eba",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-v2/plumber/three-quarter.webp",
+      "sha256": "9802190870212e528e3f77e3c50b95cef6cb2ff239fd2550621654159a23dc09",
+      "pages": [
+        18
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-v2/plumber/exploded.webp",
+      "sha256": "4169f143730b63ea80e0fb4c561f945018b364ff33eaf25b8e18d308057467cb",
+      "pages": [
+        18
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-v2/plumber/station.webp",
+      "sha256": "48cb96af5827f75897856302a999d84aa20631f85df2f01312b32a99f7baf595",
+      "pages": [
+        19
+      ]
+    },
+    {
+      "publicPath": "/works/documents/portfolio-51/013.webp",
+      "sha256": "93818c828bb784407e6315b13a949da7268d1cff761d5f9767dc7ad607960f89",
+      "pages": [
+        19
+      ]
+    }
+  ],
+  "document": "deliverables/portfolio/sun-yingjie-portfolio-physical.pdf",
+  "publicPath": "/downloads/sun-yingjie-portfolio-physical.pdf",
+  "sha256": "c11d7a183817800561531432577203675a2f7ab686fcc31d07451ae5c04a45f5",
+  "publicSha256": "c11d7a183817800561531432577203675a2f7ab686fcc31d07451ae5c04a45f5",
+  "publicBytes": 7681608,
+  "url": "https://aj-nb.github.io/sun-yingjie-portfolio/",
+  "sourceHashes": {
+    "web/src/data/profile.json": "aba7dffd5ab87663bc2f9c8754e1049f44c611cf2d7f779aa34359a757810e5b",
+    "web/src/data/publication.json": "02191c95833027c4a8716d9fa80d815cbbade26737d6c532b728e60e67ff8e11",
+    "web/src/data/publication-pages.json": "4cec3dffaef6ad611d38de8954fb981d8469c48dfaf926a5847048657b883eba",
+    "web/src/data/publication-locales.json": "7942c87f1682639541f59d5dc2d780d2061af539f298fcb5034d5559f4d921e3",
+    "web/src/data/projectRegistry.ts": "9b436eaa13c97b68fc13add316701b82f79b2fa6e405651d986ece7ebeeb7f86",
+    "scripts/build_publications_v9.py": "56675139086fc7ec828ff568d38c286af3831c283744b5b9058f302b57c97833",
+    "scripts/build_selected_portfolio.py": "443ba65aaa90020a3e231e480c900b32c81282cf856926c7545b565a2f1162f2",
+    "web/src/data/chapters.ts": "41115cc1eaa069374dd5ae8aa62b3df8ae3834b029a27e3eb9837ec4f79dfcbf",
+    "web/src/content/works/lighting.zh.md": "c3dbd1e4e58807739bd4f6eedc53c63da1ec2d81881b536d24e5faa866094eb5",
+    "web/src/content/works/huhu-care.zh.md": "46430f9f0bf2bc1a838c856e49eed3e714e446b0967a733f6f1b3d0fc70c589e",
+    "web/src/content/works/go-glow.zh.md": "1a26d198d19eff0222606585b261ace6a551b9121fdfcab40a0f23c5e9f9d2d3",
+    "web/src/content/works/plumber.zh.md": "69221b97aafccb31ac2ff3d4ea98bb0ff95333f02a4f8841d407879c13bc112b"
+  },
+  "externalFontHashes": {
+    "C:\\Windows\\Fonts\\msyh.ttc": "d79c55e68b1131eea0cc1c47be4f572d964f28c682e143db2ad09c1e4cb07a3f",
+    "C:\\Windows\\Fonts\\msyhbd.ttc": "4508821b3dffe01f0ef5e5326a3e60df705a44633858811f67b6982dce3f6ee6",
+    "D:\\portfolio-public-v11-mobile\\web\\public\\fonts\\documents\\DM-Sans-Regular.ttf": "7d45112607557ba9af1ef1a1eda89083522794736d53c95e4f5a50513eafefd0",
+    "D:\\portfolio-public-v11-mobile\\web\\public\\fonts\\documents\\DM-Sans-SemiBold.ttf": "f19593ab27001f52a1339dde0ea1bbd3f9e463c55f0d17f16648b1e9b2383edc"
+  }
+}

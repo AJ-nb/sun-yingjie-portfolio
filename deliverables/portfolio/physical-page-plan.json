@@ -1,0 +1,205 @@
+{
+  "variant": "physical",
+  "lang": "zh",
+  "pageCount": 20,
+  "casePages": {
+    "lighting": 4,
+    "huhu-care": 8,
+    "go-glow": 12,
+    "plumber": 16
+  },
+  "plan": [
+    {
+      "slug": "lighting",
+      "pages": [
+        {
+          "id": "family",
+          "title": "截面语言连接不同使用位置",
+          "body": "从台灯到落地灯，竖向灯体、线性发光面与端部轮廓形成家族关系。比例与支撑形式随使用尺度变化，系列识别由可以对照的共同细节承担。",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/5beb6f4875965136b4cf16ffcfe6f1fe.webp",
+              "caption": "银色台灯与圆形底座"
+            },
+            {
+              "src": "/works/legacy/lighting/916094a2d9a1fe336ac2d4c9854737b4.webp",
+              "caption": "落地灯完整视图"
+            }
+          ]
+        },
+        {
+          "id": "materials",
+          "title": "把材料与功能分区分别表达",
+          "body": "金色与银色表面、发光条、金属槽道和圆形控制件构成产品细部。三维表达帮助讨论反射、体量与局部关系；实际光学及电气性能由后续工程测试确定。",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/e9ab15f955279470fd53cb6e9e9a8c18.webp",
+              "caption": "金色灯体、发光条及圆形控制件"
+            },
+            {
+              "src": "/works/legacy/lighting/a56bfb9a22490e6fa6dc7073ce8b6f87.webp",
+              "caption": "水平吊灯的槽道与端部"
+            }
+          ]
+        },
+        {
+          "id": "space",
+          "title": "将单体比例放回空间检验",
+          "body": "壁灯与墙面凹处形成竖向关系，吊灯沿餐桌方向展开。两类场景帮助判断灯体长度、安装方向和视觉重心，避免只在脱离使用环境的单体画面中讨论产品。",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/3f7ec7c3d1a16952bb9a0a0c1523be7b.webp",
+              "caption": "灰色墙面凹处的金色壁灯"
+            },
+            {
+              "src": "/works/legacy/lighting/450b32ccc90b8ca88b74c5bbf307c838.webp",
+              "caption": "长桌上方的水平线性吊灯"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "huhu-care",
+      "pages": [
+        {
+          "id": "study",
+          "title": "把儿童使用情境转成形态约束",
+          "body": "草图与手工模型用于讨论握持、吹嘴位置和儿童对物体的理解。模型阶段关注外形与使用关系，呼气检测的临床及传感性能仍属于后续验证。",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/023.webp",
+              "caption": "草图与手工形态模型原始展板"
+            }
+          ]
+        },
+        {
+          "id": "parts",
+          "title": "拆开吹嘴 握持与底座的关系",
+          "body": "把接触嘴部的部件、握持区域和底座分别表达，使不同功能的边界清楚。外观、连接位置和使用动作需要共同推敲，不能仅用完整产品渲染代替设计过程。",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/mouthpiece.webp",
+              "caption": "吹嘴及连接位置"
+            },
+            {
+              "src": "/works/refinement-v2/huhu/grip.webp",
+              "caption": "握持区域"
+            }
+          ]
+        },
+        {
+          "id": "system",
+          "title": "产品与反馈形成连续体验",
+          "body": "产品及底座构成完整使用单元；反馈流程需要照顾儿童、家长与医护各自的理解。保留原有形态与部件关系，以原始模型和渲染呈现当前概念阶段。",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/charging-base.webp",
+              "caption": "产品与底座组合"
+            },
+            {
+              "src": "/works/documents/portfolio-51/026.webp",
+              "caption": "呼气与反馈流程设想"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "go-glow",
+      "pages": [
+        {
+          "id": "journey",
+          "title": "从旅行准备到日常维护",
+          "body": "旅行个护涉及携带、切换、清洁与收纳。使用旅程将这些阶段拆开，使模块组合与产品形态有明确的任务依据。",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/032.webp",
+              "caption": "旅行准备、使用及维护旅程"
+            },
+            {
+              "src": "/works/documents/portfolio-51/033.webp",
+              "caption": "模块化产品草图"
+            }
+          ]
+        },
+        {
+          "id": "modules",
+          "title": "从使用任务建立模块系统",
+          "body": "围绕携带、切换、清洁与收纳，组织握持手柄、可替换模块和信息说明；保留原产品造型与部件关系。",
+          "images": [
+            {
+              "src": "/media/v7/brand/goglow-logic.webp",
+              "caption": "原始项目图像与设计过程分析"
+            }
+          ]
+        },
+        {
+          "id": "interface",
+          "title": "将实体产品与数字说明连接",
+          "body": "配套界面以护理任务和模块识别组织信息。产品系列、使用说明与界面需要采用一致的名称、颜色及视觉优先级，使概念能够被连续地理解。",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/035.webp",
+              "caption": "配套应用低保真与高保真页面"
+            },
+            {
+              "src": "/works/documents/portfolio-51/036.webp",
+              "caption": "原始产品系列渲染"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "plumber",
+      "pages": [
+        {
+          "id": "service",
+          "title": "先明确角色 再组织设备任务",
+          "body": "服务蓝图与角色旅程把公众参与、专业处置与设备工作拆开。任务权限与信息反馈决定界面内容，产品形态则需要对应扫描、清理与返回的流程。",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/006.webp",
+              "caption": "故事板与服务系统蓝图"
+            },
+            {
+              "src": "/works/documents/portfolio-51/007.webp",
+              "caption": "角色与用户旅程"
+            }
+          ]
+        },
+        {
+          "id": "assembly",
+          "title": "以部件关系解释机器人本体",
+          "body": "完整视图与分解视图共同呈现主体、清理端和尾部关系。产品处于概念设计阶段，部件表达用于讨论方案，并不代替密封、驱动与管道工况测试。",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/three-quarter.webp",
+              "caption": "机器人三分之四视角"
+            },
+            {
+              "src": "/works/refinement-v2/plumber/exploded.webp",
+              "caption": "机器人部件分解"
+            }
+          ]
+        },
+        {
+          "id": "workflow",
+          "title": "设备与界面支持同一服务流程",
+          "body": "基站、地下设备与操作页面分别承接停靠、执行及监控。把这些部分放在同一服务关系中理解，可以检查任务是否有入口、反馈及可恢复的终点。",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/station.webp",
+              "caption": "地下基站概念"
+            },
+            {
+              "src": "/works/documents/portfolio-51/013.webp",
+              "caption": "操作、监控与积分界面"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

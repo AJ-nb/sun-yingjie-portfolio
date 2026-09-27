@@ -346,5 +346,33 @@
         "Review relationships, then revise the right layer"
       ]
     }
+  },
+  "ink-realm": {
+    "method": {
+      "title": "Character, action and ink",
+      "body": "Small gestures trigger ink at landscape scale. The complete script organises eight action passages; the film records the relationship between camera, identity and effects. Open the case to watch.",
+      "captions": [
+        "Ink Step: ground-level motion and dry-brush trails",
+        "Ink Lotus: layered black ink and muted gold"
+      ]
+    }
+  },
+  "character-consistency": {
+    "method": {
+      "title": "Organise the visual definition around identity",
+      "body": "Views, expressions, micro-expressions, clothing and hands form a visual definition that can be inspected repeatedly. The full case retains five images and the input template.",
+      "captions": [
+        "Character sheet: a shared reference for views and details"
+      ]
+    }
+  },
+  "portrait-lighting": {
+    "method": {
+      "title": "Light type, direction and visible results",
+      "body": "Turn lighting into short, inspectable prompts. Nose shadows, wall shadows and hair highlights guide concrete revisions. The full archive retains nine images and every comparison.",
+      "captions": [
+        "Soft and hard light: changes in nose and chin shadows"
+      ]
+    }
   }
 }

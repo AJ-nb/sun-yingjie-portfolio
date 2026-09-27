@@ -1,0 +1,151 @@
+{
+  "ink-realm": {
+    "evidenceLevel": "B",
+    "sourceKind": "project-archive",
+    "sourceEvidence": {
+      "zh": "作者提供的角色图、30 秒成片与完整创作脚本。",
+      "en": "Author-supplied character image, 30-second film and complete creative script."
+    },
+    "publicBoundary": {
+      "zh": "个人 AI 影像实验，呈现创作脚本与成片观察。",
+      "en": "A personal AI-film experiment presenting the creative script and observations of the result."
+    },
+    "aiRole": {
+      "zh": "Codex 辅助创作与内容组织；Image 2.5 生成图像，Seedance 2.5 生成视频。",
+      "en": "Codex assisted creation and content organisation; Image 2.5 generated imagery and Seedance 2.5 generated the video."
+    },
+    "humanGates": {
+      "zh": [
+        "方向设定与视觉选择",
+        "图像、脚本与成片审阅",
+        "案例内容与发布检查"
+      ],
+      "en": [
+        "Direction and visual selection",
+        "Review of imagery, script and output",
+        "Case content and release review"
+      ]
+    },
+    "layoutVariant": "default",
+    "capabilityRoles": {
+      "zh": [
+        "AI 视觉创作",
+        "提示词与视觉约束",
+        "结果审阅"
+      ],
+      "en": [
+        "AI visual creation",
+        "Prompts and visual constraints",
+        "Output review"
+      ]
+    },
+    "readingTime": 8,
+    "tools": [
+      "Codex",
+      "Image 2.5",
+      "Seedance 2.5"
+    ],
+    "models": [
+      "Image 2.5",
+      "Seedance 2.5"
+    ]
+  },
+  "character-consistency": {
+    "evidenceLevel": "B",
+    "sourceKind": "project-archive",
+    "sourceEvidence": {
+      "zh": "作者提供的完整图像与方法笔记，所有原图按案例顺序保留。",
+      "en": "Author-supplied complete images and method notes, retained in case order."
+    },
+    "publicBoundary": {
+      "zh": "个人 AI 图像实验，呈现角色定义与布光方法的具体样例。",
+      "en": "A personal AI-image experiment presenting concrete examples of identity and lighting methods."
+    },
+    "aiRole": {
+      "zh": "Codex 辅助创作与内容组织；Image 2.5 生成图像。",
+      "en": "Codex assisted creation and content organisation; Image 2.5 generated imagery."
+    },
+    "humanGates": {
+      "zh": [
+        "方向设定与视觉选择",
+        "图像、脚本与成片审阅",
+        "案例内容与发布检查"
+      ],
+      "en": [
+        "Direction and visual selection",
+        "Review of imagery, script and output",
+        "Case content and release review"
+      ]
+    },
+    "layoutVariant": "default",
+    "capabilityRoles": {
+      "zh": [
+        "AI 视觉创作",
+        "提示词与视觉约束",
+        "结果审阅"
+      ],
+      "en": [
+        "AI visual creation",
+        "Prompts and visual constraints",
+        "Output review"
+      ]
+    },
+    "readingTime": 6,
+    "tools": [
+      "Codex",
+      "Image 2.5"
+    ],
+    "models": [
+      "Image 2.5"
+    ]
+  },
+  "portrait-lighting": {
+    "evidenceLevel": "B",
+    "sourceKind": "project-archive",
+    "sourceEvidence": {
+      "zh": "作者提供的完整图像与方法笔记，所有原图按案例顺序保留。",
+      "en": "Author-supplied complete images and method notes, retained in case order."
+    },
+    "publicBoundary": {
+      "zh": "个人 AI 图像实验，呈现角色定义与布光方法的具体样例。",
+      "en": "A personal AI-image experiment presenting concrete examples of identity and lighting methods."
+    },
+    "aiRole": {
+      "zh": "Codex 辅助创作与内容组织；Image 2.5 生成图像。",
+      "en": "Codex assisted creation and content organisation; Image 2.5 generated imagery."
+    },
+    "humanGates": {
+      "zh": [
+        "方向设定与视觉选择",
+        "图像、脚本与成片审阅",
+        "案例内容与发布检查"
+      ],
+      "en": [
+        "Direction and visual selection",
+        "Review of imagery, script and output",
+        "Case content and release review"
+      ]
+    },
+    "layoutVariant": "default",
+    "capabilityRoles": {
+      "zh": [
+        "AI 视觉创作",
+        "提示词与视觉约束",
+        "结果审阅"
+      ],
+      "en": [
+        "AI visual creation",
+        "Prompts and visual constraints",
+        "Output review"
+      ]
+    },
+    "readingTime": 6,
+    "tools": [
+      "Codex",
+      "Image 2.5"
+    ],
+    "models": [
+      "Image 2.5"
+    ]
+  }
+}

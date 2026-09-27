@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-28",
+  "attribution": "Yingjie Sun · personal projects with AI-assisted creation, confirmed by the author",
+  "models": {
+    "image": "Image 2.5",
+    "video": "Seedance 2.5"
+  },
+  "assets": [
+    {
+      "project": "character-consistency",
+      "path": "/works/character-consistency/01.jpg",
+      "source": "https://pbs.twimg.com/media/HSvZRyHXEAAMVcE?format=jpg&name=large",
+      "width": 1983,
+      "height": 793,
+      "sha256": "a392d1a58b98dfb45f0f4d0aa448540f58a5c5a70ea972739c927c0a7869995b"
+    },
+    {
+      "project": "character-consistency",
+      "path": "/works/character-consistency/02.jpg",
+      "source": "https://pbs.twimg.com/media/HSvYtXoWsAATPN3?format=jpg&name=large",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "8bfae8482313c906d9a6a4772727df89e4196cdb674fb3fed08b2e06a6fe3229"
+    },
+    {
+      "project": "character-consistency",
+      "path": "/works/character-consistency/03.jpg",
+      "source": "https://pbs.twimg.com/media/HSvYpMdWkAAeuX7?format=jpg&name=large",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "c7314ec9c83654595f0e07d9b38c9cede85ce1851b5a27058c7375cbe1740cbe"
+    },
+    {
+      "project": "character-consistency",
+      "path": "/works/character-consistency/04.jpg",
+      "source": "https://pbs.twimg.com/media/HSvY9HxXIAABo27?format=jpg&name=large",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "8e5c66a05e6b6bd95300e5b847c990f4d5b62ccf4d98b7d86da8e7268c30e358"
+    },
+    {
+      "project": "character-consistency",
+      "path": "/works/character-consistency/05.jpg",
+      "source": "https://pbs.twimg.com/media/HSvY481XwAASO6R?format=jpg&name=large",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "36b8dca0171ffe9664d49e71008d848e03530825a103810181eaf50e61dfc29c"
+    },
+    {
+      "project": "portrait-lighting",
+      "path": "/works/portrait-lighting/01.jpg",
+      "source": "https://pbs.twimg.com/media/HTPabIPWoAAAAbp?format=jpg&name=large",
+      "width": 1922,
+      "height": 818,
+      "sha256": "1cfc4f1500e22ed0dbfe26a41de9939f885424b7bf4fd04a3a3b45cc8f2462af"
+    },
+    {
+      "project": "portrait-lighting",
+      "path": "/works/portrait-lighting/02.jpg",
+      "source": "https://pbs.twimg.com/media/HTPaN1hWcAAClZ_?format=jpg&name=large",
+      "width": 2048,
+      "height": 1446,
+      "sha256": "b9a775b7a01b79f71d011d9e64b66d0dee1b17757df7f5ae513a129e66e11aff"
+    },
+    {
+      "project": "portrait-lighting",
+      "path": "/works/portrait-lighting/03.jpg",
+      "source": "https://pbs.twimg.com/media/HTPaP-gWIAA8bvV?format=jpg&name=large",
+      "width": 2048,
+      "height": 1447,
+      "sha256": "f84d1638bb108abf71872ff1b80d0f43a2235846386ed56cc2f53764f36dfcd2"
+    },
+    {
+      "project": "portrait-lighting",
+      "path": "/works/portrait-lighting/04.jpg",
+      "source": "https://pbs.twimg.com/media/HTPaSMaWcAA5qth?format=jpg&name=large",
+      "width": 2048,
+      "height": 1447,
+      "sha256": "546be9a93c4ce26b0858b55a4c1adb7f1e67538f35baf22045fcd2d9426e6b35"
+    },
+    {
+      "project": "portrait-lighting",
+      "path": "/works/portrait-lighting/05.jpg",
+      "source": "https://pbs.twimg.com/media/HTPaUEhWUAAJRRW?format=jpg&name=large",
+      "width": 2048,
+      "height": 1447,
+      "sha256": "efb68a21447be7f9a71f77536886a99a2ab10a82d82e8ea82779827202324f15"
+    },
+    {
+      "project": "portrait-lighting",
+      "path": "/works/portrait-lighting/06.jpg",
+      "source": "https://pbs.twimg.com/media/HTPaVYDXoAAEG9M?format=jpg&name=large",
+      "width": 2048,
+      "height": 1447,
+      "sha256": "1610217f746230e64eef3790c61dda888f2bc753c5c27eba10eca8841419ad88"
+    },
+    {
+      "project": "portrait-lighting",
+      "path": "/works/portrait-lighting/07.jpg",
+      "source": "https://pbs.twimg.com/media/HTPaWgBWoAAyI3y?format=jpg&name=large",
+      "width": 2048,
+      "height": 1447,
+      "sha256": "df7c74206192b8bd63446d9166bf9dc8d2ec758a646c07ebdf6692a828bc6d61"
+    },
+    {
+      "project": "portrait-lighting",
+      "path": "/works/portrait-lighting/08.jpg",
+      "source": "https://pbs.twimg.com/media/HTPaYNPX0AAac1O?format=jpg&name=large",
+      "width": 2048,
+      "height": 1447,
+      "sha256": "e817e2a3e3b9f91624a461584b8eae2258da23b1f0362e61c418c6f312f6d801"
+    },
+    {
+      "project": "portrait-lighting",
+      "path": "/works/portrait-lighting/09.jpg",
+      "source": "https://pbs.twimg.com/media/HTPaZuIWYAE_PCJ?format=jpg&name=large",
+      "width": 2048,
+      "height": 1447,
+      "sha256": "cc6d447df39010f18f76e0f82ec36072da6d92d3a27426b29135ef2dc4b8ad68"
+    },
+    {
+      "project": "ink-realm",
+      "path": "/works/ink-realm/character.png",
+      "source": "Author-supplied character image",
+      "sha256": "590ce44c3c6cbafbfa87186dceb05a63790637b9e28c6899eeaf28000e65109e"
+    },
+    {
+      "project": "ink-realm",
+      "path": "/works/ink-realm/film.mp4",
+      "source": "Author-supplied final film",
+      "sha256": "fa51e2ccdc9b876f10bee2551283cd66cec3181689e4f6eaf481bc658aaa6f09",
+      "durationSeconds": 30.048005,
+      "width": 1280,
+      "height": 720,
+      "fps": 24
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "variant": "overview",
+  "lang": "zh",
+  "pageCount": 39,
+  "casePages": {
+    "hermes": 4,
+    "arcteryx": 9,
+    "karimoku": 13,
+    "lighting": 17,
+    "yelisi": 20,
+    "periastra": 23,
+    "biyuan": 26,
+    "ai-video-systems": 30,
+    "ink-realm": 33,
+    "character-consistency": 35,
+    "portrait-lighting": 37
+  },
+  "plan": [
+    {
+      "slug": "hermes",
+      "pages": [
+        {
+          "id": "summer",
+          "title": "夏季 让道具串联商品",
+          "body": "鱼竿、手形与折叠椅形成观看路径。组织方向时，先检查商品位置，再判断道具尺度与背景对比；场景的趣味必须同时支持商品轮廓的辨认。",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/40379d8484144b6a435498fcf8b9d857.webp",
+              "caption": "鱼竿、手形与折叠椅主题"
+            },
+            {
+              "src": "/works/legacy/hermes/51a7ab3976cb48ff18f4591b5056409e.webp",
+              "caption": "饮品、橙片与漫画气泡主题"
+            }
+          ]
+        },
+        {
+          "id": "autumn",
+          "title": "秋季 用框景组织错位尺度",
+          "body": "门、窗与墙面先建立空间参照，再用超出常规的动物尺度形成叙事。两组画面分别通过门框和悬挂位置，将商品与大体量道具分开阅读。",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/043e019544984416521bf2009313a5fb.webp",
+              "caption": "粉色鱼形穿过门框"
+            },
+            {
+              "src": "/works/legacy/hermes/34aa997644c1849af5a716bd5cdcf55b.webp",
+              "caption": "蜗牛、门与悬挂包袋"
+            }
+          ]
+        },
+        {
+          "id": "winter",
+          "title": "冬季 横窗与竖窗采用不同节奏",
+          "body": "横窗用连续的雪地层面连接主体与配饰；竖窗围绕白马轮廓建立上下层次。不同画幅需要重新组织商品位置和留白，不能只将完整场景等比缩小。",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/f1455674fa1906fe49bd555bcad97e9c.webp",
+              "caption": "横向白马与雪地层面"
+            },
+            {
+              "src": "/works/legacy/hermes/776d28c61be0075bb8c93bffd65035ef.webp",
+              "caption": "竖向白马与悬挂配饰"
+            }
+          ]
+        },
+        {
+          "id": "delivery",
+          "title": "方向 方案与交付的连续推进",
+          "body": "以 BENWU 团队协作中的三维设计与视觉呈现为核心，观察前期方向、整体画面与商品层级；个人统筹、法国沟通、工厂生产和门店展示边界待原始记录核验。",
+          "images": [
+            {
+              "src": "/media/v7/brand/hermes-logic.webp",
+              "caption": "原始项目图像与设计过程分析"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "arcteryx",
+      "pages": [
+        {
+          "id": "layers",
+          "title": "环境 层次 装备",
+          "body": "岩壁提供背景体量，层叠曲线连接中景，持杖人台提供人体尺度。比较三层的边界与遮挡关系，让户外意象服务于装备表达。",
+          "images": [
+            {
+              "src": "/works/boards/arcteryx/arcteryx-01.webp",
+              "caption": "Arc’teryx / user-supplied retrospective board 01 of 10 / Level C"
+            },
+            {
+              "src": "/works/legacy/arcteryx/cb880134dd55b4ea48ac6a2c188bf65b.webp",
+              "caption": "Alpha Center 原始完整橱窗视图"
+            }
+          ]
+        },
+        {
+          "id": "coordination",
+          "title": "空间层次与实施沟通",
+          "body": "将岩壁、曲线与装备的层次转成可比较的视觉分析，保持主体关系清楚，并以现场呈现检查窗幅、灯光与商品阅读。",
+          "images": [
+            {
+              "src": "/media/v7/brand/arcteryx-logic.webp",
+              "caption": "原始项目图像与设计过程分析"
+            }
+          ]
+        },
+        {
+          "id": "installation",
+          "title": "现场呈现与店内语境",
+          "body": "现场图让橱窗正视与店内陈列可以共同阅读：岩壁、方向线、人台与苔藓地面在不同画幅中维持性能语言，并与服装、灯光和动线建立连续关系。",
+          "images": [
+            {
+              "src": "/works/legacy/arcteryx/installation/arcteryx-installation-window-portrait.jpg",
+              "caption": "Alpha Center 现场橱窗正视"
+            },
+            {
+              "src": "/works/legacy/arcteryx/installation/arcteryx-installation-interior.jpg",
+              "caption": "Arc’teryx 店内山地陈列"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "karimoku",
+      "pages": [
+        {
+          "id": "foundation",
+          "title": "Brand Foundation · 品牌基础",
+          "body": "从家具、木材、工艺与生活方式中提取品牌问题；当前材料属于 Level C 设计研究与回顾性重建。",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-01.webp",
+              "caption": "Karimoku × BENWU / user-supplied retrospective board 01 of 20 / Level C"
+            }
+          ]
+        },
+        {
+          "id": "material",
+          "title": "Material System · 材料系统",
+          "body": "以木材、表面、连接和边缘组织材料系统；木种、涂装、耐久与工艺仍需样片、供应链和工程验证。",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-07.webp",
+              "caption": "Karimoku × BENWU / user-supplied retrospective board 07 of 20 / Level C"
+            }
+          ]
+        },
+        {
+          "id": "space",
+          "title": "Void / Layer · 空与层",
+          "body": "通过留白、层叠、移动、光线、摄影与传播组织空间叙事；不将研究图像写成官方项目或现场交付。",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-15.webp",
+              "caption": "Karimoku × BENWU / user-supplied retrospective board 15 of 20 / Level C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lighting",
+      "pages": [
+        {
+          "id": "family",
+          "title": "截面语言连接不同使用位置",
+          "body": "从台灯到落地灯，竖向灯体、线性发光面与端部轮廓形成家族关系。比例与支撑形式随使用尺度变化，系列识别由可以对照的共同细节承担。",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/5beb6f4875965136b4cf16ffcfe6f1fe.webp",
+              "caption": "银色台灯与圆形底座"
+            },
+            {
+              "src": "/works/legacy/lighting/916094a2d9a1fe336ac2d4c9854737b4.webp",
+              "caption": "落地灯完整视图"
+            }
+          ]
+        },
+        {
+          "id": "materials",
+          "title": "把材料与功能分区分别表达",
+          "body": "金色与银色表面、发光条、金属槽道和圆形控制件构成产品细部。三维表达帮助讨论反射、体量与局部关系；实际光学及电气性能由后续工程测试确定。",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/e9ab15f955279470fd53cb6e9e9a8c18.webp",
+              "caption": "金色灯体、发光条及圆形控制件"
+            },
+            {
+              "src": "/works/legacy/lighting/a56bfb9a22490e6fa6dc7073ce8b6f87.webp",
+              "caption": "水平吊灯的槽道与端部"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "yelisi",
+      "pages": [
+        {
+          "id": "identity",
+          "title": "从历史曲线转向中文私印",
+          "body": "历史 Songnasty 方向与现行夜礼司标志共同说明识别语言的变化。现行方向以中文私印、身体曲线和负形建立品牌表达，推进时同时考虑名称、界面与产品语境。",
+          "images": [
+            {
+              "src": "/works/brand/yelisi/songnasty-historical-logo.webp",
+              "caption": "历史探索方向"
+            },
+            {
+              "src": "/works/brand/yelisi/yelisi-logo.webp",
+              "caption": "现行夜礼司标志"
+            }
+          ]
+        },
+        {
+          "id": "product",
+          "title": "品牌 产品与团队方向统一",
+          "body": "以项目团队共同创作的品牌视觉与产品概念为基础，将识别语言、界面与产品概念放在同一 CMF 研究框架中；个人总责、团队规模和制造或上市状态待核验。",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-01.webp",
+              "caption": "YELISI / user-supplied retrospective board 01 of 20 / Level C"
+            },
+            {
+              "src": "/media/v7/brand/yelisi-logic.webp",
+              "caption": "原始项目图像与设计过程分析"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "periastra",
+      "pages": [
+        {
+          "id": "exploration",
+          "title": "从识别问题建立视觉体系",
+          "body": "围绕摄影装备语境、名称识别与缩小可读性比较方案，以正式字标为核心组织整体 VI/UI。",
+          "images": [
+            {
+              "src": "/works/boards/periastra/periastra-01.webp",
+              "caption": "Periastra / user-supplied retrospective board 01 of 15 / Level C"
+            },
+            {
+              "src": "/media/v7/brand/periastra-logic.webp",
+              "caption": "原始项目图像与设计过程分析"
+            }
+          ]
+        },
+        {
+          "id": "wordmark",
+          "title": "以选定字标方向建立一致识别",
+          "body": "保留 2026 年 6 月 9 日 PERIASTRA 字体标志研究稿，用于比较字标、信息层级和应用秩序；商业采用状态和个人交付归属待核验。此页完整呈现选定方向研究稿，不以局部裁切代替尺寸可读性检查。",
+          "images": [
+            {
+              "src": "/works/brand/periastra/final-wordmark.png",
+              "caption": "PERIASTRA 字体标志研究稿"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "biyuan",
+      "pages": [
+        {
+          "id": "home",
+          "title": "先理解服务 再进入操作",
+          "body": "整体 VI/UI 将品牌表达与服务入口放在同一信息体系中。首页先说明服务内容，再提供清楚的主要行动，降低首次进入时对功能范围的判断成本。",
+          "images": [
+            {
+              "src": "/works/refinement-brand/biyuan/home-desktop.png",
+              "caption": "彼源官网桌面首页"
+            }
+          ]
+        },
+        {
+          "id": "models",
+          "title": "让模型目录支持不同选择方式",
+          "body": "模型列表与名称搜索对应浏览和明确寻找两类任务。视觉层级需要帮助用户识别模型、理解入口并继续操作，同时保持品牌规则一致。",
+          "images": [
+            {
+              "src": "/works/refinement-brand/biyuan/models-desktop.png",
+              "caption": "模型广场"
+            },
+            {
+              "src": "/works/refinement-brand/biyuan/models-filtered.png",
+              "caption": "名称搜索结果"
+            }
+          ]
+        },
+        {
+          "id": "mobile",
+          "title": "在移动端保留主要行动",
+          "body": "负责彼源 AI 整体 VI/UI 设计与迭代；页面归属与上线责任待核验。移动端按信息优先级重排内容，检查文字、入口和滚动之间的关系；团队协作和公开页面整理按证据边界说明。",
+          "images": [
+            {
+              "src": "/works/refinement-brand/biyuan/home-mobile.png",
+              "caption": "移动端首页"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ai-video-systems",
+      "pages": [
+        {
+          "id": "control",
+          "title": "让创作过程可以控制",
+          "body": "电影运镜参考、新剧情与两张角色输入，经过分镜、Blender 白模、视觉输入和提示词，进入 Seedance 2.5 渲染。11 个分镜单元和 20 余个角色为本人过程记录。",
+          "images": [
+            {
+              "src": "/works/ai-video-systems/workflow-map.svg",
+              "caption": "从参考、分镜和白模到生成与评审的自绘工作流"
+            },
+            {
+              "src": "/works/ai-video-systems/ai-video-systems-blocking.webp",
+              "caption": "作者视频中的 Blender 白模画面"
+            }
+          ]
+        },
+        {
+          "id": "evaluation",
+          "title": "检查关系 再修改对应层",
+          "body": "将参考文档编为可搜索索引、六个控制层与八项方法分析，连接产品、CMF、空间和叙事。个人22.08秒影片保留为流程记录；上游复测不计为个人成绩。研究方法库：网站 Systems → AI 视频研究方法库。",
+          "images": [
+            {
+              "src": "/works/ai-video-systems/control-layers.svg",
+              "caption": "自绘六层控制模型"
+            },
+            {
+              "src": "/works/ai-video-systems/ai-video-systems-cover.webp",
+              "caption": "作者提供的 22.08 秒视频封面；完整视频见网页"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ink-realm",
+      "pages": [
+        {
+          "id": "method",
+          "title": "角色、动作与水墨",
+          "body": "以轻微动作触发大尺度水墨变化。完整脚本组织八段技能，成片记录镜头、角色与视觉效果的关系。点击在线案例观看完整视频。",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-01.webp",
+              "caption": "墨步：贴地移动与飞白轨迹"
+            },
+            {
+              "src": "/works/ink-realm/frame-06.webp",
+              "caption": "墨莲：黑墨与暗金的分层展开"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "character-consistency",
+      "pages": [
+        {
+          "id": "method",
+          "title": "以主形象组织视觉定义",
+          "body": "通过多视角、表情、微表情、服装与手部模块，建立可反复检查的角色说明。完整档案保留五张图像和输入模板。",
+          "images": [
+            {
+              "src": "/works/character-consistency/02.jpg",
+              "caption": "角色卡：多视角与细节的共同参照"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "portrait-lighting",
+      "pages": [
+        {
+          "id": "method",
+          "title": "光型、方向与可见结果",
+          "body": "将布光写为可检查的短提示词。观察鼻影、墙影与发丝亮边，以具体画面结果指导调整。完整档案保留九张图像和全部对照。",
+          "images": [
+            {
+              "src": "/works/portrait-lighting/02.jpg",
+              "caption": "柔光与硬光：鼻影和下巴影的变化"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

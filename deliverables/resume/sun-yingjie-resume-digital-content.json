@@ -1,0 +1,89 @@
+{
+  "variant": "digital",
+  "title": {
+    "zh": "工业与产品设计师 · 数字体验方向",
+    "en": "Industrial & Product Designer | Digital Experience"
+  },
+  "summary": "结合界面设计与 AI 视觉创作，将角色、布光和镜头要求转成可审阅的图像与影像。",
+  "strengths": [
+    {
+      "label": "界面与流程",
+      "body": "设计彼源 AI 的 VI/UI；比较桌面与移动端层级。",
+      "evidence": [
+        "biyuan"
+      ]
+    },
+    {
+      "label": "可控交互",
+      "body": "围绕改写审阅、恢复和版本选择设计工具流程。",
+      "evidence": [
+        "resume-formatter",
+        "lensflow",
+        "formline",
+        "xintiao"
+      ]
+    },
+    {
+      "label": "AI 视觉与影像",
+      "body": "完成水墨影像、角色卡与布光实验，组织提示词并比较输出。",
+      "evidence": [
+        "ink-realm",
+        "character-consistency",
+        "portrait-lighting"
+      ]
+    }
+  ],
+  "experience": {
+    "liling": [
+      "负责彼源 AI 的 VI/UI 设计与迭代。",
+      "与团队推进 Periastra 品牌识别与信息系统、夜礼司品牌视觉、产品概念与 CMF 研究。"
+    ],
+    "benwu": [
+      "参与 Hermès、Arc’teryx 橱窗项目的三维设计和视觉呈现。",
+      "参与铝型材灯具的三维表达与材料比较；整理 Karimoku × BENWU 设计研究。"
+    ],
+    "hannstar": [
+      "在 PCB 制造环境中从事设计系统工程工作，关注标准化、工程约束、质量与跨部门协作。"
+    ],
+    "ouyin": [
+      "整理市场调研与用户反馈，制作 Figma 交互原型，支持需求比较与体验迭代。"
+    ]
+  },
+  "tools": [
+    {
+      "label": "产品与三维",
+      "body": "Rhino、SolidWorks、KeyShot、Cinema 4D、Blender"
+    },
+    {
+      "label": "视觉与界面",
+      "body": "Photoshop、Illustrator、Figma；React / TypeScript"
+    },
+    {
+      "label": "AI 创作",
+      "body": "Codex、Image 2.5、Seedance 2.5、ComfyUI"
+    }
+  ],
+  "workflow": "个人 AI 实践：30 秒水墨影像、五张角色卡与九张布光图像。负责方向设定、提示词组织与结果审阅。",
+  "workflowEvidence": [
+    "ink-realm",
+    "character-consistency",
+    "portrait-lighting"
+  ],
+  "confirmedInputs": {
+    "source": "User request in this task on 2026-09-17",
+    "tools": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Codex",
+      "ComfyUI"
+    ],
+    "scope": "Application and workflow use. No proficiency level, certification, measured gain or compatibility guarantee is asserted."
+  },
+  "sections": [
+    "核心优势",
+    "工作经历",
+    "专业工具",
+    "教育背景"
+  ],
+  "url": "https://aj-nb.github.io/sun-yingjie-portfolio/"
+}

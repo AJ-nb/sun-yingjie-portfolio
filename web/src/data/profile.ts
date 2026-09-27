@@ -516,7 +516,7 @@ function makeProfile(lang: Lang): ProfileCopy {
       timelineEntry('ouyin', lang, details.ouyin, []),
     ],
     education: timelineEntry('education', lang, copy.educationDetails, ['plumber', 'huhu-care', 'go-glow']),
-    practice: timelineEntry('ai', lang, copy.practiceDetails, ['ai-video-systems', 'resume-formatter', 'lensflow', 'formline', 'xintiao']),
+    practice: timelineEntry('ai', lang, copy.practiceDetails, ['ai-video-systems', 'resume-formatter', 'lensflow', 'formline', 'xintiao', 'ink-realm', 'character-consistency', 'portrait-lighting']),
     capabilities: [copy.capabilities.find(item => item.id === 'product-system') ?? copy.capabilities[1], copy.capabilities[0], copy.capabilities.find(item => item.id.includes('ai')) ?? copy.capabilities[copy.capabilities.length - 1]],
     methods: copy.methods,
     principles: copy.principles,

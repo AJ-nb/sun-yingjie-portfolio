@@ -4,7 +4,7 @@ Industrial & Product Designer · 工业与产品设计师
 
 [Open the portfolio](https://aj-nb.github.io/sun-yingjie-portfolio/) · [English](https://aj-nb.github.io/sun-yingjie-portfolio/en/) · [Résumé and downloads](https://aj-nb.github.io/sun-yingjie-portfolio/resume/)
 
-32 bilingual projects, eight selected works, and a research library containing a pinned reference index and eight authored method studies. The reference library is not counted as personal project work.
+35 bilingual projects, eleven selected works, and a research library containing a pinned reference index and eight authored method studies. The reference library is not counted as personal project work.
 
 ## Quick Studio workflow
 
@@ -12,7 +12,7 @@ Industrial & Product Designer · 工业与产品设计师
 
 The portfolio now includes a public entry for the garment visual workflow: front/back references → on-model generation → human review → optional detail-image stitching → image delivery, with video as an optional branch. Visitors use their own assets and API keys. The workbench runs on Vercel because GitHub Pages cannot run its API proxy. Simulation makes reference copies; real generation requires a compatible provider and incurs provider charges. Paid image quality has not yet been accepted using a valid key.
 
-The tool is presented separately from the 32 documented portfolio projects and existing PDF editions. Public links do not contain or synchronize a visitor's drafts, uploaded assets or keys.
+The tool is presented separately from the 35 documented portfolio projects and existing PDF editions. Public links do not contain or synchronize a visitor's drafts, uploaded assets or keys.
 
 ## Local development
 

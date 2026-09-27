@@ -1,0 +1,3544 @@
+{
+  "variant": "full",
+  "lang": "zh",
+  "pageCount": 291,
+  "casePages": {
+    "hermes": 4,
+    "arcteryx": 29,
+    "lighting": 39,
+    "plumber": 49,
+    "huhu-care": 79,
+    "lingmu": 100,
+    "jimu-studio": 116,
+    "plant-companion": 131,
+    "go-glow": 147,
+    "cloudwing": 166,
+    "bat-quad": 168,
+    "little-orange": 170,
+    "ecological-harvest": 172,
+    "purewater-rolling-filter": 176,
+    "polar-wing": 178,
+    "construction-recycler": 180,
+    "water-walking-bath": 182,
+    "rendering-studies": 184,
+    "karimoku": 197,
+    "biyuan": 209,
+    "yelisi": 213,
+    "periastra": 227,
+    "ai-video-systems": 239,
+    "lensflow": 245,
+    "yantai": 247,
+    "xintiao": 249,
+    "formline": 253,
+    "resume-formatter": 256,
+    "visual-archive": 259,
+    "aesthetic-atlas": 261,
+    "image-2-5-xhs": 263,
+    "xhs-methods": 266,
+    "ink-realm": 268,
+    "character-consistency": 279,
+    "portrait-lighting": 284
+  },
+  "plan": [
+    {
+      "slug": "hermes",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/f1455674fa1906fe49bd555bcad97e9c.webp",
+              "caption": "Hermès — 季节橱窗世界",
+              "captionEn": "Wide winter window with a large white horse head, snowy planes, a yellow bag and a small pink horse"
+            },
+            {
+              "src": "/works/legacy/hermes/40379d8484144b6a435498fcf8b9d857.webp",
+              "caption": "夏季橱窗中的鱼竿、折叠椅、鱼形道具与文字气泡",
+              "captionEn": "Summer window with a fishing rod, folding chair, fish props and a speech bubble"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/51a7ab3976cb48ff18f4591b5056409e.webp",
+              "caption": "夏季橱窗中的人台、饮品造型、橙片与 COOL 文字气泡",
+              "captionEn": "Summer window with a mannequin, drink-shaped prop, orange slice and COOL speech bubble"
+            },
+            {
+              "src": "/works/legacy/hermes/043e019544984416521bf2009313a5fb.webp",
+              "caption": "秋季橱窗中穿过门框的粉色鱼形道具与人台",
+              "captionEn": "Autumn window with an oversized pink fish passing through a doorway beside a mannequin"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/a8d210af1968eb83486446dc2f40027a.webp",
+              "caption": "鱼竿与折叠椅主题夏季橱窗的另一视角",
+              "captionEn": "Additional view of the summer window with a fishing rod and folding chair"
+            },
+            {
+              "src": "/works/legacy/hermes/34aa997644c1849af5a716bd5cdcf55b.webp",
+              "caption": "黄色蜗牛、开启的门与悬挂粉色包袋的秋季橱窗",
+              "captionEn": "Autumn window with a yellow snail, an open door and a suspended pink bag"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/b1d7e5fa28f89c792ee7a540882cf5ce.webp",
+              "caption": "金色马形、人台、云朵与蓝绿色窗景构成的秋季橱窗",
+              "captionEn": "Autumn window with a golden horse, mannequin, clouds and a turquoise window"
+            },
+            {
+              "src": "/works/legacy/hermes/54f3c93240044222915bc785ca86bc40.webp",
+              "caption": "冬季橱窗中的层叠白马与山形、滑雪剪影和悬挂配饰",
+              "captionEn": "Winter window with layered white horse and mountain forms, skier silhouettes and suspended accessories"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "图像档案 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/776d28c61be0075bb8c93bffd65035ef.webp",
+              "caption": "蓝色背景前的白马层叠轮廓与悬挂配饰",
+              "captionEn": "Layered white horse contours and suspended accessories against a blue background"
+            },
+            {
+              "src": "/works/legacy/hermes/8c4f37a6cb7ca715256d9a6f7dc9e210.webp",
+              "caption": "窄幅冬季橱窗中的正面马头、粉色包袋与鞋履",
+              "captionEn": "Narrow winter window with a frontal horse head, pink bag and footwear"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "图像档案 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/bfdc3c738e0adc5a35237a99374f7ac5.webp",
+              "caption": "蓝白树形、悬挂配饰、红色靴子与滑冰剪影的冬季橱窗",
+              "captionEn": "Winter window with blue and white trees, suspended accessories, red boots and skater silhouettes"
+            },
+            {
+              "src": "/works/legacy/hermes/e8d955a3898da97773e081384d4117e3.webp",
+              "caption": "横向蓝色树林橱窗中的包袋、丝巾与滑冰人物剪影",
+              "captionEn": "Wide blue forest window with bags, scarves and skater silhouettes"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "图像档案 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/027.webp",
+              "caption": "夏季橱窗空间方案",
+              "captionEn": "Summer window spatial proposal"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "图像档案 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/028.webp",
+              "caption": "季节橱窗空间方案",
+              "captionEn": "Seasonal window spatial proposal"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "图像档案 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/029.webp",
+              "caption": "灯塔主题橱窗方案",
+              "captionEn": "Lighthouse-themed window proposal"
+            },
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-01.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 01 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 01 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "图像档案 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-02.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 02 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 02 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-03.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 03 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 03 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "图像档案 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-04.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 04 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 04 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-05.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 05 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 05 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "图像档案 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-06.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 06 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 06 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-07.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 07 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 07 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-13",
+          "title": "图像档案 13",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-08.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 08 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 08 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-09.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 09 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 09 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-14",
+          "title": "图像档案 14",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-10.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 10 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 10 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-01.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 01 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 01 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-15",
+          "title": "图像档案 15",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-02.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 02 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 02 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-03.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 03 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 03 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-16",
+          "title": "图像档案 16",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-04.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 04 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 04 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-05.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 05 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 05 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-17",
+          "title": "图像档案 17",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-06.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 06 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 06 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-07.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 07 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 07 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-18",
+          "title": "图像档案 18",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-08.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 08 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 08 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-09.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 09 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 09 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-19",
+          "title": "图像档案 19",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-10.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 10 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 10 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-01.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 01 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 01 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-20",
+          "title": "图像档案 20",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-02.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 02 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 02 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-03.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 03 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 03 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-21",
+          "title": "图像档案 21",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-04.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 04 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 04 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-05.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 05 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 05 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-22",
+          "title": "图像档案 22",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-06.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 06 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 06 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-07.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 07 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 07 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-23",
+          "title": "图像档案 23",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-08.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 08 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 08 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-09.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 09 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 09 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-24",
+          "title": "图像档案 24",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-10.webp",
+              "caption": "Hermès Seasonal Window Worlds｜用户提供回顾性版式 10 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 10 / 10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "arcteryx",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/arcteryx/cb880134dd55b4ea48ac6a2c188bf65b.webp",
+              "caption": "Arc’teryx — 山地性能场",
+              "captionEn": "Arc’teryx Alpha Center window with rock forms, layered curves and a mannequin holding poles"
+            },
+            {
+              "src": "/works/boards/arcteryx/arcteryx-01.webp",
+              "caption": "Arc’teryx Mountain Performance Field｜用户提供回顾性版式 01 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 01 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/media/v7/brand/arcteryx-logic.webp",
+              "caption": "回到展示尺度",
+              "captionEn": "Return to display scale"
+            },
+            {
+              "src": "/works/legacy/arcteryx/installation/arcteryx-installation-window-portrait.jpg",
+              "caption": "Arc’teryx Alpha Center 橱窗现场正视",
+              "captionEn": "Arc’teryx Alpha Center installation, front window"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/arcteryx/installation/arcteryx-installation-window-wide.jpg",
+              "caption": "Arc’teryx Alpha Center 橱窗现场宽幅",
+              "captionEn": "Arc’teryx Alpha Center installation, wide window"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/arcteryx/installation/arcteryx-installation-storefront.jpg",
+              "caption": "Arc’teryx 门店立面中的橱窗装置",
+              "captionEn": "Arc’teryx storefront installation"
+            },
+            {
+              "src": "/works/legacy/arcteryx/installation/arcteryx-installation-interior.jpg",
+              "caption": "Arc’teryx 店内山地陈列",
+              "captionEn": "Arc’teryx mountain-performance retail interior"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "图像档案 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/arcteryx/installation/arcteryx-installation-product-window.jpg",
+              "caption": "Arc’teryx 产品橱窗现场",
+              "captionEn": "Arc’teryx product-window installation"
+            },
+            {
+              "src": "/works/boards/arcteryx/arcteryx-02.webp",
+              "caption": "Arc’teryx Mountain Performance Field｜用户提供回顾性版式 02 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 02 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "图像档案 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/arcteryx/arcteryx-03.webp",
+              "caption": "Arc’teryx Mountain Performance Field｜用户提供回顾性版式 03 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 03 / 10"
+            },
+            {
+              "src": "/works/boards/arcteryx/arcteryx-04.webp",
+              "caption": "Arc’teryx Mountain Performance Field｜用户提供回顾性版式 04 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 04 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "图像档案 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/arcteryx/arcteryx-05.webp",
+              "caption": "Arc’teryx Mountain Performance Field｜用户提供回顾性版式 05 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 05 / 10"
+            },
+            {
+              "src": "/works/boards/arcteryx/arcteryx-06.webp",
+              "caption": "Arc’teryx Mountain Performance Field｜用户提供回顾性版式 06 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 06 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "图像档案 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/arcteryx/arcteryx-07.webp",
+              "caption": "Arc’teryx Mountain Performance Field｜用户提供回顾性版式 07 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 07 / 10"
+            },
+            {
+              "src": "/works/boards/arcteryx/arcteryx-08.webp",
+              "caption": "Arc’teryx Mountain Performance Field｜用户提供回顾性版式 08 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 08 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "图像档案 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/arcteryx/arcteryx-09.webp",
+              "caption": "Arc’teryx Mountain Performance Field｜用户提供回顾性版式 09 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 09 / 10"
+            },
+            {
+              "src": "/works/boards/arcteryx/arcteryx-10.webp",
+              "caption": "Arc’teryx Mountain Performance Field｜用户提供回顾性版式 10 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 10 / 10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lighting",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/5beb6f4875965136b4cf16ffcfe6f1fe.webp",
+              "caption": "铝型材灯具系统",
+              "captionEn": "Silver table lamp with a circular base beside an open book on a blue surface"
+            },
+            {
+              "src": "/works/legacy/lighting/916094a2d9a1fe336ac2d4c9854737b4.webp",
+              "caption": "黑色背景中的银色落地灯全貌",
+              "captionEn": "Full view of a silver floor lamp against black"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/e9ab15f955279470fd53cb6e9e9a8c18.webp",
+              "caption": "金色灯体的线性发光条与圆形控制件细部",
+              "captionEn": "Detail of a gold light body with longitudinal light strips and a circular control"
+            },
+            {
+              "src": "/works/legacy/lighting/211a2e25f8d767e880624789a3a63594.webp",
+              "caption": "黑色背景中四种长度的竖向吊灯",
+              "captionEn": "Four lengths of vertical pendant lights against a black background"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/a56bfb9a22490e6fa6dc7073ce8b6f87.webp",
+              "caption": "深色背景中水平吊灯的发光条、金属槽道与端部细节",
+              "captionEn": "Horizontal pendant with parallel light strips, metal channels and end details against a dark background"
+            },
+            {
+              "src": "/works/legacy/lighting/3f7ec7c3d1a16952bb9a0a0c1523be7b.webp",
+              "caption": "灰色墙面凹处的金色竖向壁灯",
+              "captionEn": "Gold vertical wall light within a grey architectural recess"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/4c9ca8a7b2459a9667ce0b7438da56e1.webp",
+              "caption": "灰色门洞场景中的另一金色壁灯视图",
+              "captionEn": "Additional view of a gold wall light in a grey doorway setting"
+            },
+            {
+              "src": "/works/legacy/lighting/450b32ccc90b8ca88b74c5bbf307c838.webp",
+              "caption": "餐桌与座椅上方的水平线性吊灯",
+              "captionEn": "Horizontal linear pendant above a dining table and chairs"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "图像档案 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/1a933b09873b81c73f03877f8f9a61ea.webp",
+              "caption": "展示空间中的银色与金色吊灯、落地灯和台灯",
+              "captionEn": "Silver and gold pendant, floor and table lights in a display space"
+            },
+            {
+              "src": "/works/legacy/lighting/b3462a8b9f91b20f2fb239d91e7cadcf.webp",
+              "caption": "灯具展示空间的另一视角",
+              "captionEn": "Additional view of the lighting display space"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "图像档案 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/9aa74a4014cf6e5ba9f80dae478ae31e.webp",
+              "caption": "红色 BENWU EDITION 展台中的灯具与家具陈列",
+              "captionEn": "Lights and furniture in a red BENWU EDITION exhibition stand"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "图像档案 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/011.webp",
+              "caption": "线性吊灯渲染",
+              "captionEn": "Linear pendant light render"
+            },
+            {
+              "src": "/works/refinement-v2/rendering-pdf/012.webp",
+              "caption": "壁灯空间渲染",
+              "captionEn": "Wall-light interior render"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "图像档案 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/013.webp",
+              "caption": "壁灯发光细节",
+              "captionEn": "Wall-light illumination detail"
+            },
+            {
+              "src": "/works/refinement-v2/rendering-pdf/023.webp",
+              "caption": "线性灯具室内场景",
+              "captionEn": "Linear-light interior scene"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "图像档案 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/025.webp",
+              "caption": "灯具与型材分解",
+              "captionEn": "Light and extrusion study"
+            },
+            {
+              "src": "/works/refinement-v2/rendering-pdf/026.webp",
+              "caption": "落地灯完整视图",
+              "captionEn": "Complete floor-light view"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "plumber",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/006.webp",
+              "caption": "故事板与服务系统蓝图",
+              "captionEn": "Storyboard and service-system blueprint"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/007.webp",
+              "caption": "角色与用户旅程",
+              "captionEn": "Roles and user journey"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/008.webp",
+              "caption": "机器人草图与 AIGC 形态探索",
+              "captionEn": "Robot sketches and AIGC form exploration"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/014.webp",
+              "caption": "机器人与基站的分解及三视图",
+              "captionEn": "Robot and station exploded and orthographic views"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "图像档案 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/three-quarter.webp",
+              "caption": "机器人三分之四视角",
+              "captionEn": "Robot three-quarter view"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "图像档案 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/exploded.webp",
+              "caption": "机器人部件分解",
+              "captionEn": "Robot exploded view"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "图像档案 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/station.webp",
+              "caption": "地下基站概念",
+              "captionEn": "Underground service-station concept"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "图像档案 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/underground-scene.webp",
+              "caption": "地下环境原始渲染",
+              "captionEn": "Original underground scene render"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "图像档案 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/003.webp",
+              "caption": "引渡者项目视觉开篇"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "图像档案 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/004.webp",
+              "caption": "项目背景与原提案研究图表"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "图像档案 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/005.webp",
+              "caption": "游戏化与公众参与的概念框架"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "图像档案 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/010.webp",
+              "caption": "扫描、清理与返回基站的流程设想"
+            }
+          ]
+        },
+        {
+          "id": "archive-13",
+          "title": "图像档案 13",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/009.webp",
+              "caption": "产品视觉、配色与材料设想"
+            }
+          ]
+        },
+        {
+          "id": "archive-14",
+          "title": "图像档案 14",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/011.webp",
+              "caption": "识别与成像流程示意"
+            }
+          ]
+        },
+        {
+          "id": "archive-15",
+          "title": "图像档案 15",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/012.webp",
+              "caption": "游戏界面风格、颜色与页面组织"
+            }
+          ]
+        },
+        {
+          "id": "archive-16",
+          "title": "图像档案 16",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/013.webp",
+              "caption": "操作、监控与积分界面"
+            }
+          ]
+        },
+        {
+          "id": "archive-17",
+          "title": "图像档案 17",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/side.webp",
+              "caption": "机器人侧视"
+            }
+          ]
+        },
+        {
+          "id": "archive-18",
+          "title": "图像档案 18",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/front.webp",
+              "caption": "机器人正视"
+            }
+          ]
+        },
+        {
+          "id": "archive-19",
+          "title": "图像档案 19",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/top.webp",
+              "caption": "机器人俯视"
+            }
+          ]
+        },
+        {
+          "id": "archive-20",
+          "title": "图像档案 20",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/rear-detail.webp",
+              "caption": "外壳与尾部细节"
+            }
+          ]
+        },
+        {
+          "id": "archive-21",
+          "title": "图像档案 21",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/cleaning-head.webp",
+              "caption": "清理端结构细节"
+            }
+          ]
+        },
+        {
+          "id": "archive-22",
+          "title": "图像档案 22",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/underground-close.webp",
+              "caption": "地下环境近景"
+            }
+          ]
+        },
+        {
+          "id": "archive-23",
+          "title": "图像档案 23",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/underground-wide.webp",
+              "caption": "地下环境远景"
+            }
+          ]
+        },
+        {
+          "id": "archive-24",
+          "title": "图像档案 24",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/015.webp",
+              "caption": "清淤机器人地下场景渲染"
+            }
+          ]
+        },
+        {
+          "id": "archive-25",
+          "title": "图像档案 25",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/016.webp",
+              "caption": "机器人与环境的产品视觉"
+            }
+          ]
+        },
+        {
+          "id": "archive-26",
+          "title": "图像档案 26",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/017.webp",
+              "caption": "引渡者视觉展示页"
+            }
+          ]
+        },
+        {
+          "id": "archive-27",
+          "title": "图像档案 27",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/legacy-full-portfolio/010.webp",
+              "caption": "早期演示版本：扫描、清理与返回基站的流程设想"
+            }
+          ]
+        },
+        {
+          "id": "archive-28",
+          "title": "图像档案 28",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/legacy-full-portfolio/013.webp",
+              "caption": "早期演示版本：操作、监控与积分界面"
+            }
+          ]
+        },
+        {
+          "id": "archive-29",
+          "title": "图像档案 29",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/legacy-full-portfolio/017.webp",
+              "caption": "早期演示版本：引渡者视觉展示页"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "huhu-care",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/023.webp",
+              "caption": "草图、手工形态模型与 AIGC 探索",
+              "captionEn": "Sketches, handmade form models and AIGC exploration"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/025.webp",
+              "caption": "吹嘴、握持、灯光与底座的部件示意",
+              "captionEn": "Mouthpiece, grip, lighting and base diagrams"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/026.webp",
+              "caption": "呼气与反馈的交互流程设想",
+              "captionEn": "Proposed breath interaction and feedback sequence"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/early-form.webp",
+              "caption": "早期配色与形态方案",
+              "captionEn": "Earlier form and color study"
+            },
+            {
+              "src": "/works/refinement-v2/huhu/mouthpiece.webp",
+              "caption": "吹嘴与连接位置",
+              "captionEn": "Mouthpiece and connection"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "图像档案 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/grip.webp",
+              "caption": "防滑握持区域",
+              "captionEn": "Textured grip area"
+            },
+            {
+              "src": "/works/refinement-v2/huhu/three-quarter.webp",
+              "caption": "最终配色三分之四视角",
+              "captionEn": "Final-color three-quarter view"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "图像档案 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/charging-base.webp",
+              "caption": "产品与底座组合",
+              "captionEn": "Product and base arrangement"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "图像档案 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/product-scene.webp",
+              "caption": "儿童呼气检测概念场景原始渲染",
+              "captionEn": "Original pediatric breath-test concept scene render"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "图像档案 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/018.webp",
+              "caption": "HUHU CARE 项目开篇"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "图像档案 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/019.webp",
+              "caption": "儿童检查情境与 AIGC 故事画面"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "图像档案 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/020.webp",
+              "caption": "呼气检测体验的背景整理"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "图像档案 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/021.webp",
+              "caption": "儿童、家长与医护的需求情境"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "图像档案 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/022.webp",
+              "caption": "角色旅程与设计目标"
+            }
+          ]
+        },
+        {
+          "id": "archive-13",
+          "title": "图像档案 13",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/024.webp",
+              "caption": "产品外观、材料设想与三视图"
+            }
+          ]
+        },
+        {
+          "id": "archive-14",
+          "title": "图像档案 14",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/rim-detail.webp",
+              "caption": "吹嘴外缘细节"
+            },
+            {
+              "src": "/works/refinement-v2/huhu/neck-detail.webp",
+              "caption": "颈部连接与标识"
+            }
+          ]
+        },
+        {
+          "id": "archive-15",
+          "title": "图像档案 15",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/rear.webp",
+              "caption": "反向视角与气球连接"
+            },
+            {
+              "src": "/works/refinement-v2/huhu/base-reverse.webp",
+              "caption": "底座组合反向视角"
+            }
+          ]
+        },
+        {
+          "id": "archive-16",
+          "title": "图像档案 16",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/balloon-detail.webp",
+              "caption": "气球、连接与吹嘴局部"
+            }
+          ]
+        },
+        {
+          "id": "archive-17",
+          "title": "图像档案 17",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/027.webp",
+              "caption": "HUHU CARE 产品场景渲染"
+            }
+          ]
+        },
+        {
+          "id": "archive-18",
+          "title": "图像档案 18",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/028.webp",
+              "caption": "HUHU CARE 配色与组合展示"
+            }
+          ]
+        },
+        {
+          "id": "archive-19",
+          "title": "图像档案 19",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/legacy-full-portfolio/022.webp",
+              "caption": "早期演示版本：角色旅程与设计目标"
+            }
+          ]
+        },
+        {
+          "id": "archive-20",
+          "title": "图像档案 20",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/legacy-full-portfolio/023.webp",
+              "caption": "早期演示版本：草图、手工形态模型与 AIGC 探索"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lingmu",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/037.webp",
+              "caption": "LINGMU 项目开篇"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/038.webp",
+              "caption": "无障碍洗浴需求与背景研究"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/039.webp",
+              "caption": "洗浴角色、旅程与操作情境"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/040.webp",
+              "caption": "洗浴设备草图与形态方向"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "图像档案 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/041.webp",
+              "caption": "洗浴模块的构造与布局设想"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "图像档案 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/042.webp",
+              "caption": "模块、控制与人机位置关系"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "图像档案 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-lingmu/opening.webp",
+              "caption": "LINGMU 原生扉页"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "图像档案 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-lingmu/background.webp",
+              "caption": "原始设计背景与用户画像版块"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "图像档案 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-lingmu/journey.webp",
+              "caption": "原始用户旅程与故事板"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "图像档案 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-lingmu/sketches.webp",
+              "caption": "洗浴设备原始草图版块"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "图像档案 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-lingmu/usage.webp",
+              "caption": "LINGMU · 无臂人士洗浴概念"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "图像档案 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-lingmu/cmf.webp",
+              "caption": "原始 CMF 与效果图版块"
+            }
+          ]
+        },
+        {
+          "id": "archive-13",
+          "title": "图像档案 13",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-lingmu/head-module.webp",
+              "caption": "头部清洁模块独立图层"
+            },
+            {
+              "src": "/works/refinement-v2/psd-lingmu/body-module.webp",
+              "caption": "身体清洁模块独立图层"
+            }
+          ]
+        },
+        {
+          "id": "archive-14",
+          "title": "图像档案 14",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-lingmu/front-view.webp",
+              "caption": "正视图独立图层"
+            }
+          ]
+        },
+        {
+          "id": "archive-15",
+          "title": "图像档案 15",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/043.webp",
+              "caption": "LINGMU 整体场景与产品呈现"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "jimu-studio",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/044.webp",
+              "caption": "JiMu Studio 项目开篇"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/045.webp",
+              "caption": "植物材料与家具应用研究"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/046.webp",
+              "caption": "小空间使用情境与需求"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/047.webp",
+              "caption": "模块化家具草图与组合探索"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "图像档案 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/048.webp",
+              "caption": "材料、结构与尺寸设想"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "图像档案 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-jimu/opening.webp",
+              "caption": "JiMu Studio 原生扉页"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "图像档案 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-jimu/materials-research.webp",
+              "caption": "玉米芯材料研究与原始构思版块"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "图像档案 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-jimu/sketches.webp",
+              "caption": "原始画像与草图版块"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "图像档案 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-jimu/product-board.webp",
+              "caption": "家具结构与效果图原生版块"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "图像档案 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-jimu/scene-board.webp",
+              "caption": "原始家具场景版块；室内背景不归为原创设计"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "图像档案 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-jimu/product-arrangement.webp",
+              "caption": "JiMu Studio · 玉米芯板材模块化家具"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "图像档案 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-jimu/materials-exploded.webp",
+              "caption": "材料与部件分解独立图层"
+            }
+          ]
+        },
+        {
+          "id": "archive-13",
+          "title": "图像档案 13",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-jimu/dimension-view.webp",
+              "caption": "尺寸视图独立图层"
+            }
+          ]
+        },
+        {
+          "id": "archive-14",
+          "title": "图像档案 14",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/049.webp",
+              "caption": "JiMu Studio 家具与居家场景"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "plant-companion",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/001.webp",
+              "caption": "植遇相伴项目开篇"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/002.webp",
+              "caption": "办公轻活动背景与原提案研究图表"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/003.webp",
+              "caption": "办公人群画像与需求情境"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/004.webp",
+              "caption": "竞品观察、头脑风暴与需求整理"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "图像档案 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/005.webp",
+              "caption": "方案机会与挑战分析"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "图像档案 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/006.webp",
+              "caption": "产品定位与游戏化框架"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "图像档案 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/007.webp",
+              "caption": "植物形态与器材收纳草图"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "图像档案 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/010.webp",
+              "caption": "界面视觉规范与像素植物"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "图像档案 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/011.webp",
+              "caption": "虚拟养植、卡片与打卡流程"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "图像档案 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/008.webp",
+              "caption": "器材组合、三视图与 CMF"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "图像档案 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/012.webp",
+              "caption": "植遇相伴 · 办公轻智能健身"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "图像档案 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/009.webp",
+              "caption": "哑铃、跳绳、按摩与拉伸用法"
+            }
+          ]
+        },
+        {
+          "id": "archive-13",
+          "title": "图像档案 13",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/001.webp",
+              "caption": "植遇相伴模块组合"
+            }
+          ]
+        },
+        {
+          "id": "archive-14",
+          "title": "图像档案 14",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/024.webp",
+              "caption": "植遇相伴模块与显示底座"
+            }
+          ]
+        },
+        {
+          "id": "archive-15",
+          "title": "图像档案 15",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/035.webp",
+              "caption": "植遇相伴低视角组合"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "go-glow",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/032.webp",
+              "caption": "旅行准备、使用和维护旅程",
+              "captionEn": "Packing, use and maintenance journey"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/033.webp",
+              "caption": "模块化个护产品草图",
+              "captionEn": "Modular personal-care sketches"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/035.webp",
+              "caption": "配套应用低保真与高保真页面",
+              "captionEn": "Companion-app low- and high-fidelity screens"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/036.webp",
+              "caption": "GO GLOW 产品系列渲染",
+              "captionEn": "GO GLOW product-family render"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "图像档案 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/002.webp",
+              "caption": "GO GLOW 个护产品组合",
+              "captionEn": "GO GLOW personal-care arrangement"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "图像档案 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/006.webp",
+              "caption": "模块与握持手柄分解",
+              "captionEn": "Care modules and handle arrangement"
+            },
+            {
+              "src": "/works/refinement-v2/rendering-pdf/008.webp",
+              "caption": "可替换护理模块",
+              "captionEn": "Interchangeable care module"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "图像档案 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/037.webp",
+              "caption": "桌面个护场景",
+              "captionEn": "Desktop care scene"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "图像档案 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/029.webp",
+              "caption": "GO GLOW 项目开篇"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "图像档案 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/030.webp",
+              "caption": "旅行个护背景与原提案研究图表"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "图像档案 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/031.webp",
+              "caption": "竞品观察与概念定位"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "图像档案 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/034.webp",
+              "caption": "护理模块与使用方式"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "图像档案 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/004.webp",
+              "caption": "牙刷与镜面模块"
+            },
+            {
+              "src": "/works/refinement-v2/rendering-pdf/009.webp",
+              "caption": "产品与底座系列"
+            }
+          ]
+        },
+        {
+          "id": "archive-13",
+          "title": "图像档案 13",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/038.webp",
+              "caption": "个护产品与花卉静物"
+            },
+            {
+              "src": "/works/refinement-v2/rendering-pdf/039.webp",
+              "caption": "模块组合俯视构图"
+            }
+          ]
+        },
+        {
+          "id": "archive-14",
+          "title": "图像档案 14",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/040.webp",
+              "caption": "牙刷与水面场景"
+            }
+          ]
+        },
+        {
+          "id": "archive-15",
+          "title": "图像档案 15",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/041.webp",
+              "caption": "岩石场景中的产品组合"
+            }
+          ]
+        },
+        {
+          "id": "archive-16",
+          "title": "图像档案 16",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/042.webp",
+              "caption": "洁面模块水面近景"
+            }
+          ]
+        },
+        {
+          "id": "archive-17",
+          "title": "图像档案 17",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/044.webp",
+              "caption": "护理模块与花卉构图"
+            }
+          ]
+        },
+        {
+          "id": "archive-18",
+          "title": "图像档案 18",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/legacy-full-portfolio/030.webp",
+              "caption": "早期演示版本：旅行个护背景与原提案研究图表"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cloudwing",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/embedded-boards/x3.webp",
+              "caption": "云端之翼 · 垂直起降载人飞行器完整概念展板"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bat-quad",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/embedded-boards/x2.webp",
+              "caption": "蝠型四轮越野电动摩托车完整概念展板"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "little-orange",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/embedded-boards/x4.webp",
+              "caption": "小橘运动加油站完整概念展板"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ecological-harvest",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/embedded-boards/x7.webp",
+              "caption": "生态丰收漫游者 · 落叶回收转换清洁车完整概念展板"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/014.webp",
+              "caption": "生态丰收漫游者环境渲染"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/031.webp",
+              "caption": "生态丰收漫游者正面场景"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "purewater-rolling-filter",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/embedded-boards/x8.webp",
+              "caption": "PureWater · 滚动取水过滤设备完整概念展板"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "polar-wing",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/embedded-boards/x9.webp",
+              "caption": "极翼 · 载人级无人驾驶eVTOL完整概念展板"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "construction-recycler",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/local/local-05.webp",
+              "caption": "模块化建筑废料回收装备完整概念展板"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "water-walking-bath",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/local/local-03.webp",
+              "caption": "适老型水中漫步浴缸完整概念展板"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "rendering-studies",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/rendering/22de046ff3e66598345084183a3aea6b.webp",
+              "caption": "暗色灯光下的整车渲染"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/rendering/6b8d00417baa8b204447fd0857eb435a.webp",
+              "caption": "CLIMBER MINI24 雪地场景渲染"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/rendering/7ddd2cc1d08f22e83dbf11ca277471eb.webp",
+              "caption": "山地自行车环境渲染"
+            },
+            {
+              "src": "/works/legacy/rendering/a7bdacdb33c834301102c595220b48d3.webp",
+              "caption": "车架与水壶细节"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/rendering/c7db2abf68343f46198039db6ab4fba6.webp",
+              "caption": "车把局部材质与灯光"
+            },
+            {
+              "src": "/works/legacy/rendering/d426d7f675239cd43c29396f4b542fee.webp",
+              "caption": "传动部件近景"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "图像档案 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/038.webp",
+              "caption": "GO GLOW 材质、灯光与静物组合"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "图像档案 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/040.webp",
+              "caption": "GO GLOW 水面镜头"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "图像档案 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/041.webp",
+              "caption": "GO GLOW 暗场产品组合"
+            },
+            {
+              "src": "/works/refinement-v2/rendering-pdf/022.webp",
+              "caption": "HUHU CARE 圆环与球体场景"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "图像档案 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/024.webp",
+              "caption": "植遇相伴产品与显示底座"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "图像档案 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/014.webp",
+              "caption": "生态丰收漫游者外景"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "图像档案 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/017.webp",
+              "caption": "手腕支撑产品视觉习作"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "图像档案 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/034.webp",
+              "caption": "引渡者地下设施灯光"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "图像档案 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/036.webp",
+              "caption": "机器人地下环境构图"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "karimoku",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/brand/karimoku/karimoku-showroom-cover.png",
+              "caption": "Karimoku × BENWU — 设计研究",
+              "captionEn": "Brand foundations"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-01.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 01 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 01 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-07.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 07 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 07 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-15.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 15 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 15 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-02.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 02 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 02 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-03.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 03 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 03 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-04.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 04 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 04 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-05.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 05 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 05 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "图像档案 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-06.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 06 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 06 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-08.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 08 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 08 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "图像档案 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-09.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 09 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 09 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-10.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 10 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 10 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "图像档案 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-11.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 11 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 11 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-12.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 12 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 12 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "图像档案 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-13.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 13 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 13 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-14.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 14 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 14 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "图像档案 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-16.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 16 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 16 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-17.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 17 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 17 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "图像档案 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-18.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 18 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 18 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-19.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 19 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 19 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "图像档案 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-20.webp",
+              "caption": "Karimoku × BENWU｜用户提供回顾性版式 20 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 20 / 20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "biyuan",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-brand/biyuan/home-desktop.png",
+              "caption": "彼源 AI — 品牌与产品体验",
+              "captionEn": "Biyuan desktop homepage"
+            },
+            {
+              "src": "/works/refinement-brand/biyuan/models-desktop.png",
+              "caption": "彼源模型广场",
+              "captionEn": "Biyuan model directory"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-brand/biyuan/models-filtered.png",
+              "caption": "彼源模型名称搜索结果",
+              "captionEn": "Filtered model search"
+            },
+            {
+              "src": "/media/v7/brand/biyuan-logic.webp",
+              "caption": "从方向判断到系统应用的设计解析",
+              "captionEn": "Design decisions and system applications (Chinese diagram)"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-brand/biyuan/home-mobile.png",
+              "caption": "彼源官网移动端首页",
+              "captionEn": "Biyuan mobile homepage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "yelisi",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/brand/yelisi/yelisi-logo.webp",
+              "caption": "夜礼司 — 品牌、产品与 CMF",
+              "captionEn": "Current Yelisi brand identity"
+            },
+            {
+              "src": "/works/brand/yelisi/songnasty-historical-logo.webp",
+              "caption": "Songnasty 历史探索标志",
+              "captionEn": "Historical Songnasty identity exploration"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-01.webp",
+              "caption": "YELISI｜用户提供回顾性版式 01 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 01 / 20"
+            },
+            {
+              "src": "/media/v7/brand/yelisi-logic.webp",
+              "caption": "从方向判断到系统应用的设计解析",
+              "captionEn": "Design decisions and system applications (Chinese diagram)"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/brand/yelisi/snake-component-dimensions-concept.webp",
+              "caption": "蛇形部件概念与尺寸研究",
+              "captionEn": "Snake component concept and dimensional study"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-02.webp",
+              "caption": "YELISI｜用户提供回顾性版式 02 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 02 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-03.webp",
+              "caption": "YELISI｜用户提供回顾性版式 03 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 03 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "图像档案 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-04.webp",
+              "caption": "YELISI｜用户提供回顾性版式 04 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 04 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-05.webp",
+              "caption": "YELISI｜用户提供回顾性版式 05 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 05 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "图像档案 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-06.webp",
+              "caption": "YELISI｜用户提供回顾性版式 06 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 06 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-07.webp",
+              "caption": "YELISI｜用户提供回顾性版式 07 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 07 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "图像档案 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-08.webp",
+              "caption": "YELISI｜用户提供回顾性版式 08 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 08 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-09.webp",
+              "caption": "YELISI｜用户提供回顾性版式 09 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 09 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "图像档案 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-10.webp",
+              "caption": "YELISI｜用户提供回顾性版式 10 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 10 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-11.webp",
+              "caption": "YELISI｜用户提供回顾性版式 11 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 11 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "图像档案 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-12.webp",
+              "caption": "YELISI｜用户提供回顾性版式 12 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 12 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-13.webp",
+              "caption": "YELISI｜用户提供回顾性版式 13 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 13 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "图像档案 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-14.webp",
+              "caption": "YELISI｜用户提供回顾性版式 14 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 14 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-15.webp",
+              "caption": "YELISI｜用户提供回顾性版式 15 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 15 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "图像档案 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-16.webp",
+              "caption": "YELISI｜用户提供回顾性版式 16 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 16 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-17.webp",
+              "caption": "YELISI｜用户提供回顾性版式 17 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 17 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "图像档案 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-18.webp",
+              "caption": "YELISI｜用户提供回顾性版式 18 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 18 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-19.webp",
+              "caption": "YELISI｜用户提供回顾性版式 19 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 19 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-13",
+          "title": "图像档案 13",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-20.webp",
+              "caption": "YELISI｜用户提供回顾性版式 20 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 20 / 20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "periastra",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/brand/periastra/final-wordmark.png",
+              "caption": "Periastra — 品牌策略与系统",
+              "captionEn": "Periastra wordmark study"
+            },
+            {
+              "src": "/works/boards/periastra/periastra-01.webp",
+              "caption": "Periastra｜用户提供回顾性版式 01 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 01 / 15"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/media/v7/brand/periastra-logic.webp",
+              "caption": "从方向判断到系统应用的设计解析",
+              "captionEn": "Design decisions and system applications (Chinese diagram)"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/brand/periastra/logo/periastra-logo-v01-20260422.webp",
+              "caption": "P 图形与保护外框探索",
+              "captionEn": "P and protective frame exploration"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/brand/periastra/exploration-orbit.png",
+              "caption": "回旋图形探索方案",
+              "captionEn": "Rotational symbol exploration"
+            },
+            {
+              "src": "/works/boards/periastra/periastra-02.webp",
+              "caption": "Periastra｜用户提供回顾性版式 02 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 02 / 15"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "图像档案 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/periastra/periastra-03.webp",
+              "caption": "Periastra｜用户提供回顾性版式 03 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 03 / 15"
+            },
+            {
+              "src": "/works/boards/periastra/periastra-04.webp",
+              "caption": "Periastra｜用户提供回顾性版式 04 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 04 / 15"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "图像档案 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/periastra/periastra-05.webp",
+              "caption": "Periastra｜用户提供回顾性版式 05 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 05 / 15"
+            },
+            {
+              "src": "/works/boards/periastra/periastra-06.webp",
+              "caption": "Periastra｜用户提供回顾性版式 06 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 06 / 15"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "图像档案 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/periastra/periastra-07.webp",
+              "caption": "Periastra｜用户提供回顾性版式 07 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 07 / 15"
+            },
+            {
+              "src": "/works/boards/periastra/periastra-08.webp",
+              "caption": "Periastra｜用户提供回顾性版式 08 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 08 / 15"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "图像档案 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/periastra/periastra-09.webp",
+              "caption": "Periastra｜用户提供回顾性版式 09 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 09 / 15"
+            },
+            {
+              "src": "/works/boards/periastra/periastra-10.webp",
+              "caption": "Periastra｜用户提供回顾性版式 10 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 10 / 15"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "图像档案 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/periastra/periastra-11.webp",
+              "caption": "Periastra｜用户提供回顾性版式 11 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 11 / 15"
+            },
+            {
+              "src": "/works/boards/periastra/periastra-12.webp",
+              "caption": "Periastra｜用户提供回顾性版式 12 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 12 / 15"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "图像档案 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/periastra/periastra-13.webp",
+              "caption": "Periastra｜用户提供回顾性版式 13 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 13 / 15"
+            },
+            {
+              "src": "/works/boards/periastra/periastra-14.webp",
+              "caption": "Periastra｜用户提供回顾性版式 14 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 14 / 15"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "图像档案 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/periastra/periastra-15.webp",
+              "caption": "Periastra｜用户提供回顾性版式 15 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 15 / 15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ai-video-systems",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ai-video-systems/workflow-map.svg",
+              "caption": "从参考、分镜和白模到生成与评审的自绘工作流"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ai-video-systems/ai-video-systems-blocking.webp",
+              "caption": "作者视频中的 Blender 白模画面"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ai-video-systems/control-layers.svg",
+              "caption": "自绘六层控制模型"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ai-video-systems/ai-video-systems-cover.webp",
+              "caption": "作者提供的 22.08 秒视频封面；完整视频见网页"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "检查关系 再修改对应层",
+          "body": "将参考文档编为可搜索索引、六个控制层与八项方法分析，连接产品、CMF、空间和叙事。个人22.08秒影片保留为流程记录；上游复测不计为个人成绩。研究方法库：网站 Systems → AI 视频研究方法库。",
+          "images": [
+            {
+              "src": "/works/ai-video-systems/prompt-architecture.svg",
+              "caption": "AI 视频提示词的结构化架构"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lensflow",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/lensflow/studio-guide.webp",
+              "caption": "镜序首次使用引导与演示工作区",
+              "captionEn": "Lensflow onboarding and demo workspace"
+            },
+            {
+              "src": "/works/digital/lensflow/studio-analysis.webp",
+              "caption": "镜序素材分析与结构化结果界面",
+              "captionEn": "Lensflow image analysis and structured results"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "yantai",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/yantai/design-study-fixture.webp",
+              "caption": "砚台观察、拆解、迁移与归档界面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "xintiao",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-digital/xintiao/home-native.png",
+              "caption": "薪跳原生首页",
+              "captionEn": "Xintiao native home screen"
+            },
+            {
+              "src": "/works/refinement-digital/xintiao/onboarding-native.png",
+              "caption": "薪跳三步引导的计薪配置",
+              "captionEn": "Salary configuration in Xintiao onboarding"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-digital/xintiao/detail-native.png",
+              "caption": "薪跳工资明细",
+              "captionEn": "Xintiao salary details"
+            },
+            {
+              "src": "/works/refinement-digital/xintiao/calendar-native.png",
+              "caption": "薪跳日历空记录状态",
+              "captionEn": "Xintiao calendar with no completed records"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-digital/xintiao/appearance-native.png",
+              "caption": "薪跳外观与动画设置",
+              "captionEn": "Xintiao appearance and animation settings"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "formline",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/formline/editor-desktop.webp",
+              "caption": "构线桌面几何编辑器",
+              "captionEn": "Formline desktop geometry editor"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/formline/editor-mobile.webp",
+              "caption": "构线移动端 X-Ray 视图",
+              "captionEn": "Formline mobile X-Ray view"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "resume-formatter",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/resume-formatter/rewrite-diff.webp",
+              "caption": "Resume Formatter 的 AI 改写差异确认",
+              "captionEn": "Reviewing an AI rewrite diff in Resume Formatter"
+            },
+            {
+              "src": "/works/digital/resume-formatter/workspace.webp",
+              "caption": "简历母版、岗位版本与证据工作区",
+              "captionEn": "Master resume, job version and evidence workspace"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/resume-formatter/layout-controls.webp",
+              "caption": "Resume Formatter 模板与排版调整界面",
+              "captionEn": "Resume Formatter template and layout controls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "visual-archive",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/visual-archive/analysis-desktop.webp",
+              "caption": "视觉档案桌面原型的本地测量与待生成状态"
+            },
+            {
+              "src": "/works/digital/visual-archive/analysis-mobile.webp",
+              "caption": "视觉档案移动端的测量与档案区域"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "aesthetic-atlas",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/aesthetic-atlas/bauhaus-product-dna.webp",
+              "caption": "包豪斯产品风格 DNA 学习卡"
+            },
+            {
+              "src": "/works/digital/aesthetic-atlas/bauhaus-product-transfer.webp",
+              "caption": "包豪斯产品风格迁移方法卡"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "image-2-5-xhs",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/image-2-5-xhs/product-consistency.webp",
+              "caption": "虚构包装的参考与生成结果比较"
+            },
+            {
+              "src": "/works/digital/image-2-5-xhs/evaluation-cover.webp",
+              "caption": "图像生成与连续编辑研究封面"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/image-2-5-xhs/evaluation-boundaries.webp",
+              "caption": "实验可用性判定与结论边界"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "xhs-methods",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-digital/xhs-methods/workflow.png",
+              "caption": "XHS 内容方法研究流程"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ink-realm",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/cover.webp",
+              "caption": "墨界｜水墨少女技能影像"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/character.png",
+              "caption": "角色设定图：短发、宽松浅色外套、深色多层裙摆与厚底鞋"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-01.webp",
+              "caption": "墨步 · 成片关键帧"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-02.webp",
+              "caption": "水镜折空 · 成片关键帧"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "图像档案 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-03.webp",
+              "caption": "墨掌 · 成片关键帧"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "图像档案 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-04.webp",
+              "caption": "流墨回身 · 成片关键帧"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "图像档案 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-05.webp",
+              "caption": "水墨坠 · 成片关键帧"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "图像档案 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-06.webp",
+              "caption": "墨莲 · 成片关键帧"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "图像档案 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-07.webp",
+              "caption": "五行乱流 · 成片关键帧"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "图像档案 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-08.webp",
+              "caption": "墨界·天地倒悬 · 成片关键帧"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "character-consistency",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/character-consistency/cover.webp",
+              "caption": "角色一致性｜角色卡设计系统"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/character-consistency/01.jpg",
+              "caption": "角色卡总览：中心主形象与多视角、表情和细节模块"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/character-consistency/02.jpg",
+              "caption": "结构样例：全身多视角、配色与面部细节"
+            },
+            {
+              "src": "/works/character-consistency/03.jpg",
+              "caption": "表现力样例：独立角色的多视角、表情与姿态系统"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/character-consistency/04.jpg",
+              "caption": "细节样例：发型、服装材质、手部与表情的模块关系"
+            },
+            {
+              "src": "/works/character-consistency/05.jpg",
+              "caption": "完整样例：从主形象延展至姿态、手部和服装细节"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "portrait-lighting",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/portrait-lighting/cover.webp",
+              "caption": "从布光到提示词｜AI 肖像光线实验"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/portrait-lighting/01.jpg",
+              "caption": "从摄影布光到短提示词的实验封面"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "图像档案 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/portrait-lighting/02.jpg",
+              "caption": "柔光与硬光对照图"
+            },
+            {
+              "src": "/works/portrait-lighting/03.jpg",
+              "caption": "直闪与跳闪对照图"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "图像档案 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/portrait-lighting/04.jpg",
+              "caption": "侧逆光对照图"
+            },
+            {
+              "src": "/works/portrait-lighting/05.jpg",
+              "caption": "顶光对照图"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "图像档案 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/portrait-lighting/06.jpg",
+              "caption": "双色凝胶光对照图"
+            },
+            {
+              "src": "/works/portrait-lighting/07.jpg",
+              "caption": "百叶窗投影对照图"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "图像档案 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/portrait-lighting/08.jpg",
+              "caption": "聚束光对照图"
+            },
+            {
+              "src": "/works/portrait-lighting/09.jpg",
+              "caption": "从光型名称到可检查的结果对照图"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

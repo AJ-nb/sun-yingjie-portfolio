@@ -1,0 +1,582 @@
+{
+  "edition": "v9",
+  "variant": "digital",
+  "lang": "zh",
+  "pageCount": 30,
+  "caseCount": 9,
+  "caseSlugs": [
+    "biyuan",
+    "resume-formatter",
+    "formline",
+    "xintiao",
+    "lensflow",
+    "ai-video-systems",
+    "ink-realm",
+    "character-consistency",
+    "portrait-lighting"
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "kind": "cover",
+      "case": null
+    },
+    {
+      "page": 2,
+      "kind": "contents",
+      "case": null
+    },
+    {
+      "page": 3,
+      "kind": "profile",
+      "case": null
+    },
+    {
+      "page": 4,
+      "kind": "project",
+      "case": "biyuan"
+    },
+    {
+      "page": 5,
+      "kind": "evidence",
+      "case": "biyuan",
+      "pageId": "interface",
+      "title": "同一识别 桌面与移动",
+      "body": "桌面与移动端共享品牌和命名规则，小屏幕围绕主要行动重排信息。",
+      "images": [
+        {
+          "src": "/works/refinement-brand/biyuan/home-desktop.png",
+          "caption": "彼源官网桌面首页"
+        },
+        {
+          "src": "/works/refinement-brand/biyuan/home-mobile.png",
+          "caption": "移动端首页"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "kind": "evidence",
+      "case": "biyuan",
+      "pageId": "models",
+      "title": "让模型目录支持不同选择方式",
+      "body": "模型列表与名称搜索对应浏览和明确寻找两类任务。视觉层级需要帮助用户识别模型、理解入口并继续操作，同时保持品牌规则一致。",
+      "images": [
+        {
+          "src": "/works/refinement-brand/biyuan/models-desktop.png",
+          "caption": "模型广场"
+        },
+        {
+          "src": "/works/refinement-brand/biyuan/models-filtered.png",
+          "caption": "名称搜索结果"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "kind": "project",
+      "case": "resume-formatter"
+    },
+    {
+      "page": 8,
+      "kind": "evidence",
+      "case": "resume-formatter",
+      "pageId": "review",
+      "title": "把自动改写变成可审阅选择",
+      "body": "逐项呈现改写前后差异，让使用者决定哪些变化进入简历。人工确认与撤销作为工作流程的一部分，使文本优化保持可控。",
+      "images": [
+        {
+          "src": "/works/digital/resume-formatter/rewrite-diff.webp",
+          "caption": "改写差异确认工作区"
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "kind": "evidence",
+      "case": "resume-formatter",
+      "pageId": "versions",
+      "title": "母版与岗位版本分别承担职责",
+      "body": "母版保存稳定事实，岗位版本选择表达重点。证据工作区帮助把表述与经历依据放在一起，避免在多个版本中重复维护个人信息。",
+      "images": [
+        {
+          "src": "/works/digital/resume-formatter/workspace.webp",
+          "caption": "母版、岗位版本与证据工作区"
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "kind": "evidence",
+      "case": "resume-formatter",
+      "pageId": "layout",
+      "title": "排版修改需要可见结果与恢复",
+      "body": "模板和排版调整改变呈现，不应默默改写事实。该项目基于开源上游协作开发，保留许可证与来源；本作品集的独立 DOCX 出版流程不作为编辑器本身的导出能力。",
+      "images": [
+        {
+          "src": "/works/digital/resume-formatter/layout-controls.webp",
+          "caption": "模板与排版调整界面"
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "kind": "project",
+      "case": "formline"
+    },
+    {
+      "page": 12,
+      "kind": "evidence",
+      "case": "formline",
+      "pageId": "desktop",
+      "title": "让空间操作与反馈同时可见",
+      "body": "几何编辑工作区将对象、操作与视图组织在一起。设计关注控制、选择及结果之间的关系，让用户能够在可见反馈中判断下一步操作。",
+      "images": [
+        {
+          "src": "/works/digital/formline/editor-desktop.webp",
+          "caption": "桌面几何编辑器"
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "kind": "evidence",
+      "case": "formline",
+      "pageId": "mobile",
+      "title": "小屏幕保留核心空间理解",
+      "body": "移动端重新分配工具与画布的优先级。X-Ray 视图帮助查看内部关系，同时保留触控可用的入口，减少对桌面悬停行为的依赖。",
+      "images": [
+        {
+          "src": "/works/digital/formline/editor-mobile.webp",
+          "caption": "移动端 X-Ray 视图"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "kind": "project",
+      "case": "xintiao"
+    },
+    {
+      "page": 15,
+      "kind": "evidence",
+      "case": "xintiao",
+      "pageId": "onboarding",
+      "title": "用三步配置建立计薪起点",
+      "body": "将复杂配置分解为逐步确认，使首页反馈建立在用户能够理解的输入上。原生微信开发者工具截图记录当前交互与界面。",
+      "images": [
+        {
+          "src": "/works/refinement-digital/xintiao/onboarding-native.png",
+          "caption": "三步计薪配置"
+        },
+        {
+          "src": "/works/refinement-digital/xintiao/home-native.png",
+          "caption": "原生首页"
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "kind": "evidence",
+      "case": "xintiao",
+      "pageId": "detail",
+      "title": "让汇总数字可以展开检查",
+      "body": "明细页解释结果，日历空状态解释没有记录时的下一步。既设计正常数据，也设计空白状态，确保流程不依赖理想输入。",
+      "images": [
+        {
+          "src": "/works/refinement-digital/xintiao/detail-native.png",
+          "caption": "工资明细"
+        },
+        {
+          "src": "/works/refinement-digital/xintiao/calendar-native.png",
+          "caption": "日历空记录状态"
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "kind": "evidence",
+      "case": "xintiao",
+      "pageId": "settings",
+      "title": "将外观与动态变成用户选择",
+      "body": "设置页面提供外观与动画控制，让表现方式适配不同偏好。项目延续 PayDance 的计薪基础并保留开源归属，原生界面与流程围绕微信使用情境重新组织。",
+      "images": [
+        {
+          "src": "/works/refinement-digital/xintiao/appearance-native.png",
+          "caption": "外观与动画设置"
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "kind": "project",
+      "case": "lensflow"
+    },
+    {
+      "page": 19,
+      "kind": "evidence",
+      "case": "lensflow",
+      "pageId": "guide",
+      "title": "先建立工作区 再进入生成任务",
+      "body": "首次使用引导与演示素材提供可尝试的起点。把素材、任务和结果留在工作区中，使创作流程可以连续推进，也便于中断后的恢复。",
+      "images": [
+        {
+          "src": "/works/digital/lensflow/studio-guide.webp",
+          "caption": "首次使用引导与演示工作区"
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "kind": "evidence",
+      "case": "lensflow",
+      "pageId": "analysis",
+      "title": "让素材分析输出可以继续使用",
+      "body": "将分析结果结构化，使其能进入后续创作任务。界面表达关注输入、结果和人工判断的关系，以真实本地工作区截图展示当前流程。",
+      "images": [
+        {
+          "src": "/works/digital/lensflow/studio-analysis.webp",
+          "caption": "素材分析与结构化结果"
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "kind": "project",
+      "case": "ai-video-systems"
+    },
+    {
+      "page": 22,
+      "kind": "evidence",
+      "case": "ai-video-systems",
+      "pageId": "control",
+      "title": "让创作过程可以控制",
+      "body": "电影运镜参考、新剧情与两张角色输入，经过分镜、Blender 白模、视觉输入和提示词，进入 Seedance 2.5 渲染。11 个分镜单元和 20 余个角色为本人过程记录。",
+      "images": [
+        {
+          "src": "/works/ai-video-systems/workflow-map.svg",
+          "caption": "从参考、分镜和白模到生成与评审的自绘工作流"
+        },
+        {
+          "src": "/works/ai-video-systems/ai-video-systems-blocking.webp",
+          "caption": "作者视频中的 Blender 白模画面"
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "kind": "evidence",
+      "case": "ai-video-systems",
+      "pageId": "evaluation",
+      "title": "检查关系 再修改对应层",
+      "body": "将参考文档编为可搜索索引、六个控制层与八项方法分析，连接产品、CMF、空间和叙事。个人22.08秒影片保留为流程记录；上游复测不计为个人成绩。研究方法库：网站 Systems → AI 视频研究方法库。",
+      "images": [
+        {
+          "src": "/works/ai-video-systems/control-layers.svg",
+          "caption": "自绘六层控制模型"
+        },
+        {
+          "src": "/works/ai-video-systems/ai-video-systems-cover.webp",
+          "caption": "作者提供的 22.08 秒视频封面；完整视频见网页"
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "kind": "project",
+      "case": "ink-realm"
+    },
+    {
+      "page": 25,
+      "kind": "evidence",
+      "case": "ink-realm",
+      "pageId": "method",
+      "title": "角色、动作与水墨",
+      "body": "以轻微动作触发大尺度水墨变化。完整脚本组织八段技能，成片记录镜头、角色与视觉效果的关系。点击在线案例观看完整视频。",
+      "images": [
+        {
+          "src": "/works/ink-realm/frame-01.webp",
+          "caption": "墨步：贴地移动与飞白轨迹"
+        },
+        {
+          "src": "/works/ink-realm/frame-06.webp",
+          "caption": "墨莲：黑墨与暗金的分层展开"
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "kind": "project",
+      "case": "character-consistency"
+    },
+    {
+      "page": 27,
+      "kind": "evidence",
+      "case": "character-consistency",
+      "pageId": "method",
+      "title": "以主形象组织视觉定义",
+      "body": "通过多视角、表情、微表情、服装与手部模块，建立可反复检查的角色说明。完整档案保留五张图像和输入模板。",
+      "images": [
+        {
+          "src": "/works/character-consistency/02.jpg",
+          "caption": "角色卡：多视角与细节的共同参照"
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "kind": "project",
+      "case": "portrait-lighting"
+    },
+    {
+      "page": 29,
+      "kind": "evidence",
+      "case": "portrait-lighting",
+      "pageId": "method",
+      "title": "光型、方向与可见结果",
+      "body": "将布光写为可检查的短提示词。观察鼻影、墙影与发丝亮边，以具体画面结果指导调整。完整档案保留九张图像和全部对照。",
+      "images": [
+        {
+          "src": "/works/portrait-lighting/02.jpg",
+          "caption": "柔光与硬光：鼻影和下巴影的变化"
+        }
+      ]
+    },
+    {
+      "page": 30,
+      "kind": "contact",
+      "case": null
+    }
+  ],
+  "media": [
+    {
+      "publicPath": "/works/refinement-brand/biyuan/home-desktop.png",
+      "sha256": "b0e57ff88733fe5eee305ea9d9b1ab9b132bc25d79c72ad483463f0adc175172",
+      "pages": [
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "publicPath": "/works/digital/resume-formatter/workspace.webp",
+      "sha256": "cd5f4b4cbc804c2a13cec893804aea0931bcefe02479b3d64f84f811fe555f23",
+      "pages": [
+        1,
+        7,
+        9
+      ]
+    },
+    {
+      "publicPath": "/works/digital/formline/editor-desktop.webp",
+      "sha256": "a7f26c8e69d06e3e7f2e3cb57cd436990636477675c6747a7c261f186ed96073",
+      "pages": [
+        1,
+        11,
+        12
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-brand/biyuan/home-mobile.png",
+      "sha256": "91456a57479cee34df97e808304b0ddf140cef53b56f5406e8f57881b06fa7e9",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-brand/biyuan/models-desktop.png",
+      "sha256": "15af1371b1ac29ddbddd8dc3622d41ed0334e1c20f12b59f896679cb82a4d5b3",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-brand/biyuan/models-filtered.png",
+      "sha256": "6dd108150f6a06c4215ff155c7bd89c20d831f2f94af5f1d3cf8c1ca2ede45c4",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "publicPath": "/works/digital/resume-formatter/rewrite-diff.webp",
+      "sha256": "93e5c67e35fb50be30cc595a7ed4e876d4d78ec9b86870de3e629e78d15c201c",
+      "pages": [
+        8
+      ]
+    },
+    {
+      "publicPath": "/works/digital/resume-formatter/layout-controls.webp",
+      "sha256": "8ba037f244f288b4a2576d7ca46587bb1aea151f7481589a545cdd86868f32d6",
+      "pages": [
+        10
+      ]
+    },
+    {
+      "publicPath": "/works/digital/formline/editor-mobile.webp",
+      "sha256": "037144988c4a936dad18573e623633c46a79d99d4ecc7a098d183b560f3992ec",
+      "pages": [
+        13
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-digital/xintiao/home-native.png",
+      "sha256": "238a1fdc9cc27a803c41f233fade72008b106ac2a218238d53045aa266c75b93",
+      "pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-digital/xintiao/onboarding-native.png",
+      "sha256": "a2b8c4968feafd8fe6c6fe9f04a78e10a5d9ea97e49e9af0a6b4ca606a5894c3",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-digital/xintiao/detail-native.png",
+      "sha256": "ebd8d34bb0cc150ea8baf40f54489298fc6cb028bc98731d3035ec479ac2e1f3",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-digital/xintiao/calendar-native.png",
+      "sha256": "b43f58f087a750b637fb7a56405fb2c26cd9619d7b72356fa9b99934cfb84596",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "publicPath": "/works/refinement-digital/xintiao/appearance-native.png",
+      "sha256": "65e5c0f81ddbb846cc0496b676756f6d5fa204ae8f850bd781695c5fcbb7827b",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "publicPath": "/works/digital/lensflow/studio-analysis.webp",
+      "sha256": "ea7ef2af8a00de389be498e10ac8194168b7dd89986e568bd9f58da2613706c8",
+      "pages": [
+        18,
+        20
+      ]
+    },
+    {
+      "publicPath": "/works/digital/lensflow/studio-guide.webp",
+      "sha256": "329f6863f0ed922d18f5ff2f37d905477107e8e9eff44c4f669c45d13f54116d",
+      "pages": [
+        19
+      ]
+    },
+    {
+      "publicPath": "/works/ai-video-systems/ai-video-systems-cover.webp",
+      "sha256": "9ca5ff12fd42004121e8ea8d7ba1707590f687fc558cf17f13214fcc98250152",
+      "pages": [
+        21,
+        23
+      ]
+    },
+    {
+      "publicPath": "/works/ai-video-systems/workflow-map.svg",
+      "sha256": "56691962721efbacb16d53da78c0fccc9a06d9947c8e405571b8147db865c31c",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "publicPath": "/works/ai-video-systems/ai-video-systems-blocking.webp",
+      "sha256": "a65e12ca8a3a0d8fc7c7f5aa9932e912354cd68be7e0583f14a4f087f9b758bf",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "publicPath": "/works/ai-video-systems/control-layers.svg",
+      "sha256": "05c73559407ddefd547af55312065e9cfd8845d87f77dfa6820ca2cf4c3aa739",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "publicPath": "/works/ink-realm/cover.webp",
+      "sha256": "b292ac2057f208ed006bcd398f026d0eba0eff0397409546557c90d708c45452",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "publicPath": "/works/ink-realm/frame-01.webp",
+      "sha256": "f17d6a021b2323f612a354373688b0f52f6477ffaabfe32f5e02e781475ff1a4",
+      "pages": [
+        25
+      ]
+    },
+    {
+      "publicPath": "/works/ink-realm/frame-06.webp",
+      "sha256": "8eeacbf1e371ea271d2285a6b194ca9d2c2858afa464ca342c8925ea4e156e93",
+      "pages": [
+        25
+      ]
+    },
+    {
+      "publicPath": "/works/character-consistency/cover.webp",
+      "sha256": "244ff0d415f6b03825a1c73b06555af88a7999d641e694eb4a70065dc12cc91f",
+      "pages": [
+        26
+      ]
+    },
+    {
+      "publicPath": "/works/character-consistency/02.jpg",
+      "sha256": "8bfae8482313c906d9a6a4772727df89e4196cdb674fb3fed08b2e06a6fe3229",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "publicPath": "/works/portrait-lighting/cover.webp",
+      "sha256": "95d0b1b29c07bfb3a6876097e874e509992c33020f33e00079e0b7b2d9f12199",
+      "pages": [
+        28
+      ]
+    },
+    {
+      "publicPath": "/works/portrait-lighting/02.jpg",
+      "sha256": "b9a775b7a01b79f71d011d9e64b66d0dee1b17757df7f5ae513a129e66e11aff",
+      "pages": [
+        29
+      ]
+    }
+  ],
+  "document": "deliverables/portfolio/sun-yingjie-portfolio-digital.pdf",
+  "publicPath": "/downloads/sun-yingjie-portfolio-digital.pdf",
+  "sha256": "12f2d6156fa645daa2fa337e372be2202458c0a9d4237487dad8b16f06325aea",
+  "publicSha256": "12f2d6156fa645daa2fa337e372be2202458c0a9d4237487dad8b16f06325aea",
+  "publicBytes": 7103159,
+  "url": "https://aj-nb.github.io/sun-yingjie-portfolio/",
+  "sourceHashes": {
+    "web/src/data/profile.json": "aba7dffd5ab87663bc2f9c8754e1049f44c611cf2d7f779aa34359a757810e5b",
+    "web/src/data/publication.json": "02191c95833027c4a8716d9fa80d815cbbade26737d6c532b728e60e67ff8e11",
+    "web/src/data/publication-pages.json": "4cec3dffaef6ad611d38de8954fb981d8469c48dfaf926a5847048657b883eba",
+    "web/src/data/publication-locales.json": "7942c87f1682639541f59d5dc2d780d2061af539f298fcb5034d5559f4d921e3",
+    "web/src/data/projectRegistry.ts": "9b436eaa13c97b68fc13add316701b82f79b2fa6e405651d986ece7ebeeb7f86",
+    "scripts/build_publications_v9.py": "56675139086fc7ec828ff568d38c286af3831c283744b5b9058f302b57c97833",
+    "scripts/build_selected_portfolio.py": "443ba65aaa90020a3e231e480c900b32c81282cf856926c7545b565a2f1162f2",
+    "web/src/data/chapters.ts": "41115cc1eaa069374dd5ae8aa62b3df8ae3834b029a27e3eb9837ec4f79dfcbf",
+    "web/src/content/works/biyuan.zh.md": "7e08afacb6e978d585323b0f0c2677ff9a996bad84d5b7cd89037cce412e662f",
+    "web/src/content/works/resume-formatter.zh.md": "e95726aeb9e320674b8ea24f665d392e7bbbf5e7231d07e8c06070b5769009bc",
+    "web/src/content/works/formline.zh.md": "7702d3cf33697a80605942d49372b5cad4b31cd55e20dc987e5dfe1286c9488f",
+    "web/src/content/works/xintiao.zh.md": "0c5ea2b1978674570681642ed542cc644d596ceb9454742b4a539f6326f8a325",
+    "web/src/content/works/lensflow.zh.md": "eb90a26011989c5dfda877ef9cac39f188f2ccfd56bd4f05c3338de9ef452ddc",
+    "web/src/content/works/ai-video-systems.zh.md": "cb6569ed52f45c1dbf5ee8df03a082a24516c286a16d6b1588b8c68ca463d06c",
+    "web/src/content/works/ink-realm.zh.md": "6688e12ebef2fc695826c28a55ca38d3245c2155c7784e9f2c2e6d5e4ef3e6b4",
+    "web/src/content/works/character-consistency.zh.md": "142e8cacaa979580d2b80eb8a396963862d0a7f3aba031d2b0b3eeceaa9fb32b",
+    "web/src/content/works/portrait-lighting.zh.md": "2072456be2f4d9a52426db15283b2b07336fcd1fe72102deb35ebf3470cffffc"
+  },
+  "externalFontHashes": {
+    "C:\\Windows\\Fonts\\msyh.ttc": "d79c55e68b1131eea0cc1c47be4f572d964f28c682e143db2ad09c1e4cb07a3f",
+    "C:\\Windows\\Fonts\\msyhbd.ttc": "4508821b3dffe01f0ef5e5326a3e60df705a44633858811f67b6982dce3f6ee6",
+    "D:\\portfolio-public-v11-mobile\\web\\public\\fonts\\documents\\DM-Sans-Regular.ttf": "7d45112607557ba9af1ef1a1eda89083522794736d53c95e4f5a50513eafefd0",
+    "D:\\portfolio-public-v11-mobile\\web\\public\\fonts\\documents\\DM-Sans-SemiBold.ttf": "f19593ab27001f52a1339dde0ea1bbd3f9e463c55f0d17f16648b1e9b2383edc"
+  }
+}

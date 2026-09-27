@@ -1,0 +1,3544 @@
+{
+  "variant": "full",
+  "lang": "en",
+  "pageCount": 291,
+  "casePages": {
+    "hermes": 4,
+    "arcteryx": 29,
+    "lighting": 39,
+    "plumber": 49,
+    "huhu-care": 79,
+    "lingmu": 100,
+    "jimu-studio": 116,
+    "plant-companion": 131,
+    "go-glow": 147,
+    "cloudwing": 166,
+    "bat-quad": 168,
+    "little-orange": 170,
+    "ecological-harvest": 172,
+    "purewater-rolling-filter": 176,
+    "polar-wing": 178,
+    "construction-recycler": 180,
+    "water-walking-bath": 182,
+    "rendering-studies": 184,
+    "karimoku": 197,
+    "biyuan": 209,
+    "yelisi": 213,
+    "periastra": 227,
+    "ai-video-systems": 239,
+    "lensflow": 245,
+    "yantai": 247,
+    "xintiao": 249,
+    "formline": 253,
+    "resume-formatter": 256,
+    "visual-archive": 259,
+    "aesthetic-atlas": 261,
+    "image-2-5-xhs": 263,
+    "xhs-methods": 266,
+    "ink-realm": 268,
+    "character-consistency": 279,
+    "portrait-lighting": 284
+  },
+  "plan": [
+    {
+      "slug": "hermes",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/f1455674fa1906fe49bd555bcad97e9c.webp",
+              "caption": "Wide winter window with a large white horse head, snowy planes, a yellow bag and a small pink horse",
+              "captionEn": "Wide winter window with a large white horse head, snowy planes, a yellow bag and a small pink horse"
+            },
+            {
+              "src": "/works/legacy/hermes/40379d8484144b6a435498fcf8b9d857.webp",
+              "caption": "Summer window with a fishing rod, folding chair, fish props and a speech bubble",
+              "captionEn": "Summer window with a fishing rod, folding chair, fish props and a speech bubble"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/51a7ab3976cb48ff18f4591b5056409e.webp",
+              "caption": "Summer window with a mannequin, drink-shaped prop, orange slice and COOL speech bubble",
+              "captionEn": "Summer window with a mannequin, drink-shaped prop, orange slice and COOL speech bubble"
+            },
+            {
+              "src": "/works/legacy/hermes/043e019544984416521bf2009313a5fb.webp",
+              "caption": "Autumn window with an oversized pink fish passing through a doorway beside a mannequin",
+              "captionEn": "Autumn window with an oversized pink fish passing through a doorway beside a mannequin"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/a8d210af1968eb83486446dc2f40027a.webp",
+              "caption": "Additional view of the summer window with a fishing rod and folding chair",
+              "captionEn": "Additional view of the summer window with a fishing rod and folding chair"
+            },
+            {
+              "src": "/works/legacy/hermes/34aa997644c1849af5a716bd5cdcf55b.webp",
+              "caption": "Autumn window with a yellow snail, an open door and a suspended pink bag",
+              "captionEn": "Autumn window with a yellow snail, an open door and a suspended pink bag"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/b1d7e5fa28f89c792ee7a540882cf5ce.webp",
+              "caption": "Autumn window with a golden horse, mannequin, clouds and a turquoise window",
+              "captionEn": "Autumn window with a golden horse, mannequin, clouds and a turquoise window"
+            },
+            {
+              "src": "/works/legacy/hermes/54f3c93240044222915bc785ca86bc40.webp",
+              "caption": "Winter window with layered white horse and mountain forms, skier silhouettes and suspended accessories",
+              "captionEn": "Winter window with layered white horse and mountain forms, skier silhouettes and suspended accessories"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Image archive 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/776d28c61be0075bb8c93bffd65035ef.webp",
+              "caption": "Layered white horse contours and suspended accessories against a blue background",
+              "captionEn": "Layered white horse contours and suspended accessories against a blue background"
+            },
+            {
+              "src": "/works/legacy/hermes/8c4f37a6cb7ca715256d9a6f7dc9e210.webp",
+              "caption": "Narrow winter window with a frontal horse head, pink bag and footwear",
+              "captionEn": "Narrow winter window with a frontal horse head, pink bag and footwear"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "Image archive 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/hermes/bfdc3c738e0adc5a35237a99374f7ac5.webp",
+              "caption": "Winter window with blue and white trees, suspended accessories, red boots and skater silhouettes",
+              "captionEn": "Winter window with blue and white trees, suspended accessories, red boots and skater silhouettes"
+            },
+            {
+              "src": "/works/legacy/hermes/e8d955a3898da97773e081384d4117e3.webp",
+              "caption": "Wide blue forest window with bags, scarves and skater silhouettes",
+              "captionEn": "Wide blue forest window with bags, scarves and skater silhouettes"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "Image archive 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/027.webp",
+              "caption": "Summer window spatial proposal",
+              "captionEn": "Summer window spatial proposal"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "Image archive 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/028.webp",
+              "caption": "Seasonal window spatial proposal",
+              "captionEn": "Seasonal window spatial proposal"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "Image archive 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/029.webp",
+              "caption": "Lighthouse-themed window proposal",
+              "captionEn": "Lighthouse-themed window proposal"
+            },
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-01.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 01 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 01 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "Image archive 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-02.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 02 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 02 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-03.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 03 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 03 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "Image archive 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-04.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 04 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 04 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-05.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 05 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 05 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "Image archive 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-06.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 06 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 06 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-07.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 07 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 07 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-13",
+          "title": "Image archive 13",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-08.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 08 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 08 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-09.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 09 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 09 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-14",
+          "title": "Image archive 14",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/summer/hermes-summer-10.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 10 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 10 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-01.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 01 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 01 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-15",
+          "title": "Image archive 15",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-02.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 02 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 02 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-03.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 03 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 03 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-16",
+          "title": "Image archive 16",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-04.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 04 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 04 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-05.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 05 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 05 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-17",
+          "title": "Image archive 17",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-06.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 06 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 06 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-07.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 07 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 07 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-18",
+          "title": "Image archive 18",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-08.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 08 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 08 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-09.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 09 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 09 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-19",
+          "title": "Image archive 19",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/autumn/hermes-autumn-10.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 10 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 10 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-01.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 01 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 01 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-20",
+          "title": "Image archive 20",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-02.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 02 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 02 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-03.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 03 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 03 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-21",
+          "title": "Image archive 21",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-04.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 04 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 04 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-05.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 05 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 05 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-22",
+          "title": "Image archive 22",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-06.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 06 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 06 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-07.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 07 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 07 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-23",
+          "title": "Image archive 23",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-08.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 08 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 08 / 10"
+            },
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-09.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 09 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 09 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-24",
+          "title": "Image archive 24",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/hermes/winter/hermes-winter-10.webp",
+              "caption": "Hermès Seasonal Window Worlds | user-supplied retrospective board 10 / 10",
+              "captionEn": "Hermès Seasonal Window Worlds | user-supplied retrospective board 10 / 10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "arcteryx",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/arcteryx/cb880134dd55b4ea48ac6a2c188bf65b.webp",
+              "caption": "Arc’teryx Alpha Center window with rock forms, layered curves and a mannequin holding poles",
+              "captionEn": "Arc’teryx Alpha Center window with rock forms, layered curves and a mannequin holding poles"
+            },
+            {
+              "src": "/works/boards/arcteryx/arcteryx-01.webp",
+              "caption": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 01 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 01 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/media/v7/brand/arcteryx-logic.webp",
+              "caption": "Return to display scale",
+              "captionEn": "Return to display scale"
+            },
+            {
+              "src": "/works/legacy/arcteryx/installation/arcteryx-installation-window-portrait.jpg",
+              "caption": "Arc’teryx Alpha Center installation, front window",
+              "captionEn": "Arc’teryx Alpha Center installation, front window"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/arcteryx/installation/arcteryx-installation-window-wide.jpg",
+              "caption": "Arc’teryx Alpha Center installation, wide window",
+              "captionEn": "Arc’teryx Alpha Center installation, wide window"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/arcteryx/installation/arcteryx-installation-storefront.jpg",
+              "caption": "Arc’teryx storefront installation",
+              "captionEn": "Arc’teryx storefront installation"
+            },
+            {
+              "src": "/works/legacy/arcteryx/installation/arcteryx-installation-interior.jpg",
+              "caption": "Arc’teryx mountain-performance retail interior",
+              "captionEn": "Arc’teryx mountain-performance retail interior"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Image archive 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/arcteryx/installation/arcteryx-installation-product-window.jpg",
+              "caption": "Arc’teryx product-window installation",
+              "captionEn": "Arc’teryx product-window installation"
+            },
+            {
+              "src": "/works/boards/arcteryx/arcteryx-02.webp",
+              "caption": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 02 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 02 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "Image archive 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/arcteryx/arcteryx-03.webp",
+              "caption": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 03 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 03 / 10"
+            },
+            {
+              "src": "/works/boards/arcteryx/arcteryx-04.webp",
+              "caption": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 04 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 04 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "Image archive 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/arcteryx/arcteryx-05.webp",
+              "caption": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 05 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 05 / 10"
+            },
+            {
+              "src": "/works/boards/arcteryx/arcteryx-06.webp",
+              "caption": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 06 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 06 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "Image archive 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/arcteryx/arcteryx-07.webp",
+              "caption": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 07 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 07 / 10"
+            },
+            {
+              "src": "/works/boards/arcteryx/arcteryx-08.webp",
+              "caption": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 08 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 08 / 10"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "Image archive 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/arcteryx/arcteryx-09.webp",
+              "caption": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 09 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 09 / 10"
+            },
+            {
+              "src": "/works/boards/arcteryx/arcteryx-10.webp",
+              "caption": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 10 / 10",
+              "captionEn": "Arc’teryx Mountain Performance Field | user-supplied retrospective board 10 / 10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lighting",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/5beb6f4875965136b4cf16ffcfe6f1fe.webp",
+              "caption": "Silver table lamp with a circular base beside an open book on a blue surface",
+              "captionEn": "Silver table lamp with a circular base beside an open book on a blue surface"
+            },
+            {
+              "src": "/works/legacy/lighting/916094a2d9a1fe336ac2d4c9854737b4.webp",
+              "caption": "Full view of a silver floor lamp against black",
+              "captionEn": "Full view of a silver floor lamp against black"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/e9ab15f955279470fd53cb6e9e9a8c18.webp",
+              "caption": "Detail of a gold light body with longitudinal light strips and a circular control",
+              "captionEn": "Detail of a gold light body with longitudinal light strips and a circular control"
+            },
+            {
+              "src": "/works/legacy/lighting/211a2e25f8d767e880624789a3a63594.webp",
+              "caption": "Four lengths of vertical pendant lights against a black background",
+              "captionEn": "Four lengths of vertical pendant lights against a black background"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/a56bfb9a22490e6fa6dc7073ce8b6f87.webp",
+              "caption": "Horizontal pendant with parallel light strips, metal channels and end details against a dark background",
+              "captionEn": "Horizontal pendant with parallel light strips, metal channels and end details against a dark background"
+            },
+            {
+              "src": "/works/legacy/lighting/3f7ec7c3d1a16952bb9a0a0c1523be7b.webp",
+              "caption": "Gold vertical wall light within a grey architectural recess",
+              "captionEn": "Gold vertical wall light within a grey architectural recess"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/4c9ca8a7b2459a9667ce0b7438da56e1.webp",
+              "caption": "Additional view of a gold wall light in a grey doorway setting",
+              "captionEn": "Additional view of a gold wall light in a grey doorway setting"
+            },
+            {
+              "src": "/works/legacy/lighting/450b32ccc90b8ca88b74c5bbf307c838.webp",
+              "caption": "Horizontal linear pendant above a dining table and chairs",
+              "captionEn": "Horizontal linear pendant above a dining table and chairs"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Image archive 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/1a933b09873b81c73f03877f8f9a61ea.webp",
+              "caption": "Silver and gold pendant, floor and table lights in a display space",
+              "captionEn": "Silver and gold pendant, floor and table lights in a display space"
+            },
+            {
+              "src": "/works/legacy/lighting/b3462a8b9f91b20f2fb239d91e7cadcf.webp",
+              "caption": "Additional view of the lighting display space",
+              "captionEn": "Additional view of the lighting display space"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "Image archive 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/lighting/9aa74a4014cf6e5ba9f80dae478ae31e.webp",
+              "caption": "Lights and furniture in a red BENWU EDITION exhibition stand",
+              "captionEn": "Lights and furniture in a red BENWU EDITION exhibition stand"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "Image archive 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/011.webp",
+              "caption": "Linear pendant light render",
+              "captionEn": "Linear pendant light render"
+            },
+            {
+              "src": "/works/refinement-v2/rendering-pdf/012.webp",
+              "caption": "Wall-light interior render",
+              "captionEn": "Wall-light interior render"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "Image archive 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/013.webp",
+              "caption": "Wall-light illumination detail",
+              "captionEn": "Wall-light illumination detail"
+            },
+            {
+              "src": "/works/refinement-v2/rendering-pdf/023.webp",
+              "caption": "Linear-light interior scene",
+              "captionEn": "Linear-light interior scene"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "Image archive 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/025.webp",
+              "caption": "Light and extrusion study",
+              "captionEn": "Light and extrusion study"
+            },
+            {
+              "src": "/works/refinement-v2/rendering-pdf/026.webp",
+              "caption": "Complete floor-light view",
+              "captionEn": "Complete floor-light view"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "plumber",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/006.webp",
+              "caption": "Storyboard and service-system blueprint",
+              "captionEn": "Storyboard and service-system blueprint"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/007.webp",
+              "caption": "Roles and user journey",
+              "captionEn": "Roles and user journey"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/008.webp",
+              "caption": "Robot sketches and AIGC form exploration",
+              "captionEn": "Robot sketches and AIGC form exploration"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/014.webp",
+              "caption": "Robot and station exploded and orthographic views",
+              "captionEn": "Robot and station exploded and orthographic views"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Image archive 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/three-quarter.webp",
+              "caption": "Robot three-quarter view",
+              "captionEn": "Robot three-quarter view"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "Image archive 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/exploded.webp",
+              "caption": "Robot exploded view",
+              "captionEn": "Robot exploded view"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "Image archive 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/station.webp",
+              "caption": "Underground service-station concept",
+              "captionEn": "Underground service-station concept"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "Image archive 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/underground-scene.webp",
+              "caption": "Original underground scene render",
+              "captionEn": "Original underground scene render"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "Image archive 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/003.webp",
+              "caption": "PLUMBER project opening"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "Image archive 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/004.webp",
+              "caption": "Background and research charts from the proposal"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "Image archive 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/005.webp",
+              "caption": "Concept framework for gamification and public participation"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "Image archive 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/010.webp",
+              "caption": "Proposed scanning, cleaning and return-to-station workflow"
+            }
+          ]
+        },
+        {
+          "id": "archive-13",
+          "title": "Image archive 13",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/009.webp",
+              "caption": "Product visualization, colors and material ideas"
+            }
+          ]
+        },
+        {
+          "id": "archive-14",
+          "title": "Image archive 14",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/011.webp",
+              "caption": "Proposed recognition and imaging sequence"
+            }
+          ]
+        },
+        {
+          "id": "archive-15",
+          "title": "Image archive 15",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/012.webp",
+              "caption": "Game-interface direction, colors and screen organization"
+            }
+          ]
+        },
+        {
+          "id": "archive-16",
+          "title": "Image archive 16",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/013.webp",
+              "caption": "Operation, monitoring and points screens"
+            }
+          ]
+        },
+        {
+          "id": "archive-17",
+          "title": "Image archive 17",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/side.webp",
+              "caption": "Robot side view"
+            }
+          ]
+        },
+        {
+          "id": "archive-18",
+          "title": "Image archive 18",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/front.webp",
+              "caption": "Robot front view"
+            }
+          ]
+        },
+        {
+          "id": "archive-19",
+          "title": "Image archive 19",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/top.webp",
+              "caption": "Robot top view"
+            }
+          ]
+        },
+        {
+          "id": "archive-20",
+          "title": "Image archive 20",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/rear-detail.webp",
+              "caption": "Shell and rear detail"
+            }
+          ]
+        },
+        {
+          "id": "archive-21",
+          "title": "Image archive 21",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/cleaning-head.webp",
+              "caption": "Cleaning-head detail"
+            }
+          ]
+        },
+        {
+          "id": "archive-22",
+          "title": "Image archive 22",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/underground-close.webp",
+              "caption": "Underground close-up"
+            }
+          ]
+        },
+        {
+          "id": "archive-23",
+          "title": "Image archive 23",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/plumber/underground-wide.webp",
+              "caption": "Underground wide shot"
+            }
+          ]
+        },
+        {
+          "id": "archive-24",
+          "title": "Image archive 24",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/015.webp",
+              "caption": "Underground cleaning-robot scene render"
+            }
+          ]
+        },
+        {
+          "id": "archive-25",
+          "title": "Image archive 25",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/016.webp",
+              "caption": "Product visualization of the robot in its environment"
+            }
+          ]
+        },
+        {
+          "id": "archive-26",
+          "title": "Image archive 26",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/017.webp",
+              "caption": "PLUMBER visual presentation"
+            }
+          ]
+        },
+        {
+          "id": "archive-27",
+          "title": "Image archive 27",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/legacy-full-portfolio/010.webp",
+              "caption": "Earlier presentation version: Proposed scanning, cleaning and return-to-station workflow"
+            }
+          ]
+        },
+        {
+          "id": "archive-28",
+          "title": "Image archive 28",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/legacy-full-portfolio/013.webp",
+              "caption": "Earlier presentation version: Operation, monitoring and points screens"
+            }
+          ]
+        },
+        {
+          "id": "archive-29",
+          "title": "Image archive 29",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/legacy-full-portfolio/017.webp",
+              "caption": "Earlier presentation version: PLUMBER visual presentation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "huhu-care",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/023.webp",
+              "caption": "Sketches, handmade form models and AIGC exploration",
+              "captionEn": "Sketches, handmade form models and AIGC exploration"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/025.webp",
+              "caption": "Mouthpiece, grip, lighting and base diagrams",
+              "captionEn": "Mouthpiece, grip, lighting and base diagrams"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/026.webp",
+              "caption": "Proposed breath interaction and feedback sequence",
+              "captionEn": "Proposed breath interaction and feedback sequence"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/early-form.webp",
+              "caption": "Earlier form and color study",
+              "captionEn": "Earlier form and color study"
+            },
+            {
+              "src": "/works/refinement-v2/huhu/mouthpiece.webp",
+              "caption": "Mouthpiece and connection",
+              "captionEn": "Mouthpiece and connection"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Image archive 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/grip.webp",
+              "caption": "Textured grip area",
+              "captionEn": "Textured grip area"
+            },
+            {
+              "src": "/works/refinement-v2/huhu/three-quarter.webp",
+              "caption": "Final-color three-quarter view",
+              "captionEn": "Final-color three-quarter view"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "Image archive 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/charging-base.webp",
+              "caption": "Product and base arrangement",
+              "captionEn": "Product and base arrangement"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "Image archive 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/product-scene.webp",
+              "caption": "Original pediatric breath-test concept scene render",
+              "captionEn": "Original pediatric breath-test concept scene render"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "Image archive 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/018.webp",
+              "caption": "HUHU CARE project opening"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "Image archive 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/019.webp",
+              "caption": "Pediatric examination scenarios and AIGC storyboard images"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "Image archive 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/020.webp",
+              "caption": "Background research for the breath-test experience"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "Image archive 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/021.webp",
+              "caption": "Needs of children, parents and clinical staff"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "Image archive 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/022.webp",
+              "caption": "Role journeys and design objectives"
+            }
+          ]
+        },
+        {
+          "id": "archive-13",
+          "title": "Image archive 13",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/024.webp",
+              "caption": "Product appearance, proposed materials and orthographic views"
+            }
+          ]
+        },
+        {
+          "id": "archive-14",
+          "title": "Image archive 14",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/rim-detail.webp",
+              "caption": "Mouthpiece rim detail"
+            },
+            {
+              "src": "/works/refinement-v2/huhu/neck-detail.webp",
+              "caption": "Neck joint and identity detail"
+            }
+          ]
+        },
+        {
+          "id": "archive-15",
+          "title": "Image archive 15",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/rear.webp",
+              "caption": "Reverse view and balloon connection"
+            },
+            {
+              "src": "/works/refinement-v2/huhu/base-reverse.webp",
+              "caption": "Reverse view of product and base"
+            }
+          ]
+        },
+        {
+          "id": "archive-16",
+          "title": "Image archive 16",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/huhu/balloon-detail.webp",
+              "caption": "Balloon, connection and mouthpiece detail"
+            }
+          ]
+        },
+        {
+          "id": "archive-17",
+          "title": "Image archive 17",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/027.webp",
+              "caption": "HUHU CARE product scene render"
+            }
+          ]
+        },
+        {
+          "id": "archive-18",
+          "title": "Image archive 18",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/028.webp",
+              "caption": "HUHU CARE colors and product arrangement"
+            }
+          ]
+        },
+        {
+          "id": "archive-19",
+          "title": "Image archive 19",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/legacy-full-portfolio/022.webp",
+              "caption": "Earlier presentation version: Role journeys and design objectives"
+            }
+          ]
+        },
+        {
+          "id": "archive-20",
+          "title": "Image archive 20",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/legacy-full-portfolio/023.webp",
+              "caption": "Earlier presentation version: Sketches, handmade form models and AIGC exploration"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lingmu",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/037.webp",
+              "caption": "LINGMU project opening"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/038.webp",
+              "caption": "Accessible-bathing needs and background research"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/039.webp",
+              "caption": "Bathing roles, journey and interaction scenarios"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/040.webp",
+              "caption": "Bathing-equipment sketches and form directions"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Image archive 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/041.webp",
+              "caption": "Washing-module construction and layout concept"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "Image archive 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/042.webp",
+              "caption": "Modules, controls and human-scale relationships"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "Image archive 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-lingmu/opening.webp",
+              "caption": "LINGMU native opening board"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "Image archive 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-lingmu/background.webp",
+              "caption": "Original design context and persona board"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "Image archive 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-lingmu/journey.webp",
+              "caption": "Original user journey and storyboard"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "Image archive 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-lingmu/sketches.webp",
+              "caption": "Original bathing-equipment sketch board"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "Image archive 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-lingmu/usage.webp",
+              "caption": "Original usage-scenario board"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "Image archive 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-lingmu/cmf.webp",
+              "caption": "Original CMF and rendering board"
+            }
+          ]
+        },
+        {
+          "id": "archive-13",
+          "title": "Image archive 13",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-lingmu/head-module.webp",
+              "caption": "Isolated head-cleaning module layer"
+            },
+            {
+              "src": "/works/refinement-v2/psd-lingmu/body-module.webp",
+              "caption": "Isolated body-cleaning module layer"
+            }
+          ]
+        },
+        {
+          "id": "archive-14",
+          "title": "Image archive 14",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-lingmu/front-view.webp",
+              "caption": "Isolated front-view layer"
+            }
+          ]
+        },
+        {
+          "id": "archive-15",
+          "title": "Image archive 15",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/043.webp",
+              "caption": "LINGMU overall scene and product presentation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "jimu-studio",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/044.webp",
+              "caption": "JiMu Studio project opening"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/045.webp",
+              "caption": "Plant-material and furniture-application research"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/046.webp",
+              "caption": "Compact-space scenarios and needs"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/047.webp",
+              "caption": "Modular-furniture sketches and combination studies"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Image archive 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/048.webp",
+              "caption": "Proposed materials, structure and dimensions"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "Image archive 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-jimu/opening.webp",
+              "caption": "JiMu Studio native opening board"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "Image archive 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-jimu/materials-research.webp",
+              "caption": "Original corn-cob material research and ideation board"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "Image archive 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-jimu/sketches.webp",
+              "caption": "Original persona and sketch board"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "Image archive 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-jimu/product-board.webp",
+              "caption": "Native furniture structure and rendering board"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "Image archive 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-jimu/scene-board.webp",
+              "caption": "Original furniture scenario board; interior assets are presented as supplied context with source credit"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "Image archive 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-jimu/product-arrangement.webp",
+              "caption": "Isolated furniture arrangement layer"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "Image archive 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-jimu/materials-exploded.webp",
+              "caption": "Isolated material and component diagram"
+            }
+          ]
+        },
+        {
+          "id": "archive-13",
+          "title": "Image archive 13",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/psd-jimu/dimension-view.webp",
+              "caption": "Isolated dimension-view layer"
+            }
+          ]
+        },
+        {
+          "id": "archive-14",
+          "title": "Image archive 14",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/049.webp",
+              "caption": "JiMu Studio furniture and domestic scene"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "plant-companion",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/001.webp",
+              "caption": "Plant Companion project opening"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/002.webp",
+              "caption": "Office-activity background and original research charts"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/003.webp",
+              "caption": "Office-user profiles and needs"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/004.webp",
+              "caption": "Competitor observations, brainstorming and needs"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Image archive 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/005.webp",
+              "caption": "Concept opportunities and challenges"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "Image archive 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/006.webp",
+              "caption": "Product positioning and gamification framework"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "Image archive 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/007.webp",
+              "caption": "Plant forms and equipment-storage sketches"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "Image archive 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/010.webp",
+              "caption": "Interface guidelines and pixel plants"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "Image archive 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/011.webp",
+              "caption": "Virtual-growing, card and check-in flows"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "Image archive 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/008.webp",
+              "caption": "Equipment combination, orthographic views and CMF"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "Image archive 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/012.webp",
+              "caption": "Plant Companion product and app presentation"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "Image archive 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/office-fitness/009.webp",
+              "caption": "Dumbbell, skipping, massage and stretching uses"
+            }
+          ]
+        },
+        {
+          "id": "archive-13",
+          "title": "Image archive 13",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/001.webp",
+              "caption": "Plant Companion modular arrangement"
+            }
+          ]
+        },
+        {
+          "id": "archive-14",
+          "title": "Image archive 14",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/024.webp",
+              "caption": "Plant Companion modules and display base"
+            }
+          ]
+        },
+        {
+          "id": "archive-15",
+          "title": "Image archive 15",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/035.webp",
+              "caption": "Plant Companion low-angle arrangement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "go-glow",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/032.webp",
+              "caption": "Packing, use and maintenance journey",
+              "captionEn": "Packing, use and maintenance journey"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/033.webp",
+              "caption": "Modular personal-care sketches",
+              "captionEn": "Modular personal-care sketches"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/035.webp",
+              "caption": "Companion-app low- and high-fidelity screens",
+              "captionEn": "Companion-app low- and high-fidelity screens"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/036.webp",
+              "caption": "GO GLOW product-family render",
+              "captionEn": "GO GLOW product-family render"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Image archive 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/002.webp",
+              "caption": "GO GLOW personal-care arrangement",
+              "captionEn": "GO GLOW personal-care arrangement"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "Image archive 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/006.webp",
+              "caption": "Care modules and handle arrangement",
+              "captionEn": "Care modules and handle arrangement"
+            },
+            {
+              "src": "/works/refinement-v2/rendering-pdf/008.webp",
+              "caption": "Interchangeable care module",
+              "captionEn": "Interchangeable care module"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "Image archive 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/037.webp",
+              "caption": "Desktop care scene",
+              "captionEn": "Desktop care scene"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "Image archive 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/029.webp",
+              "caption": "GO GLOW project opening"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "Image archive 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/030.webp",
+              "caption": "Travel-care background and original proposal research charts"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "Image archive 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/031.webp",
+              "caption": "Competitor observations and concept positioning"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "Image archive 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/portfolio-51/034.webp",
+              "caption": "Care attachments and usage illustrations"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "Image archive 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/004.webp",
+              "caption": "Toothbrush and mirror module"
+            },
+            {
+              "src": "/works/refinement-v2/rendering-pdf/009.webp",
+              "caption": "Product and base family"
+            }
+          ]
+        },
+        {
+          "id": "archive-13",
+          "title": "Image archive 13",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/038.webp",
+              "caption": "Care products and floral still life"
+            },
+            {
+              "src": "/works/refinement-v2/rendering-pdf/039.webp",
+              "caption": "Overhead care-module composition"
+            }
+          ]
+        },
+        {
+          "id": "archive-14",
+          "title": "Image archive 14",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/040.webp",
+              "caption": "Toothbrush and water scene"
+            }
+          ]
+        },
+        {
+          "id": "archive-15",
+          "title": "Image archive 15",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/041.webp",
+              "caption": "Care arrangement in a rock scene"
+            }
+          ]
+        },
+        {
+          "id": "archive-16",
+          "title": "Image archive 16",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/042.webp",
+              "caption": "Face-care module over water"
+            }
+          ]
+        },
+        {
+          "id": "archive-17",
+          "title": "Image archive 17",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/044.webp",
+              "caption": "Care modules and floral composition"
+            }
+          ]
+        },
+        {
+          "id": "archive-18",
+          "title": "Image archive 18",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/legacy-full-portfolio/030.webp",
+              "caption": "Earlier presentation version: Travel-care background and original proposal research charts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "cloudwing",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/embedded-boards/x3.webp",
+              "caption": "CloudWing · VTOL Passenger Aircraft complete concept board"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bat-quad",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/embedded-boards/x2.webp",
+              "caption": "Bat-Inspired Electric Quad complete concept board"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "little-orange",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/embedded-boards/x4.webp",
+              "caption": "Little Orange · Seated Pedal Exerciser complete concept board"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ecological-harvest",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/embedded-boards/x7.webp",
+              "caption": "Ecological Harvest Rambler · Leaf-Recycling Sweeper complete concept board"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/014.webp",
+              "caption": "Ecological Harvester environment render"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/031.webp",
+              "caption": "Ecological Harvester frontal scene"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "purewater-rolling-filter",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/embedded-boards/x8.webp",
+              "caption": "PureWater Rolling Filter complete concept board"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "polar-wing",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/documents/embedded-boards/x9.webp",
+              "caption": "Polar Wing · Autonomous Passenger eVTOL complete concept board"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "construction-recycler",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/local/local-05.webp",
+              "caption": "Modular Construction-Waste Recycler complete concept board"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "water-walking-bath",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/local/local-03.webp",
+              "caption": "Age-Friendly Water-Walking Bathtub complete concept board"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "rendering-studies",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/rendering/22de046ff3e66598345084183a3aea6b.webp",
+              "caption": "Complete bicycle under dark lighting"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/rendering/6b8d00417baa8b204447fd0857eb435a.webp",
+              "caption": "CLIMBER MINI24 snow-scene render"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/rendering/7ddd2cc1d08f22e83dbf11ca277471eb.webp",
+              "caption": "Mountain-bike environment render"
+            },
+            {
+              "src": "/works/legacy/rendering/a7bdacdb33c834301102c595220b48d3.webp",
+              "caption": "Frame and bottle detail"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/legacy/rendering/c7db2abf68343f46198039db6ab4fba6.webp",
+              "caption": "Handlebar material and lighting detail"
+            },
+            {
+              "src": "/works/legacy/rendering/d426d7f675239cd43c29396f4b542fee.webp",
+              "caption": "Drivetrain close-up"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Image archive 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/038.webp",
+              "caption": "GO GLOW materials, lighting and still-life arrangement"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "Image archive 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/040.webp",
+              "caption": "GO GLOW water-scene camera study"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "Image archive 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/041.webp",
+              "caption": "GO GLOW low-key product arrangement"
+            },
+            {
+              "src": "/works/refinement-v2/rendering-pdf/022.webp",
+              "caption": "HUHU CARE circular and spherical scene"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "Image archive 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/024.webp",
+              "caption": "Plant Companion products and display base"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "Image archive 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/014.webp",
+              "caption": "Ecological Harvester exterior scene"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "Image archive 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/017.webp",
+              "caption": "Wrist-support visualization study"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "Image archive 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/034.webp",
+              "caption": "PLUMBER underground-facility lighting"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "Image archive 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-v2/rendering-pdf/036.webp",
+              "caption": "Robot underground-environment composition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "karimoku",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/brand/karimoku/karimoku-showroom-cover.png",
+              "caption": "Brand foundations",
+              "captionEn": "Brand foundations"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-01.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 01 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 01 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-07.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 07 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 07 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-15.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 15 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 15 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-02.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 02 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 02 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-03.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 03 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 03 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-04.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 04 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 04 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-05.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 05 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 05 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Image archive 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-06.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 06 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 06 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-08.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 08 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 08 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "Image archive 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-09.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 09 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 09 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-10.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 10 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 10 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "Image archive 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-11.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 11 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 11 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-12.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 12 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 12 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "Image archive 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-13.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 13 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 13 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-14.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 14 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 14 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "Image archive 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-16.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 16 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 16 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-17.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 17 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 17 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "Image archive 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-18.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 18 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 18 / 20"
+            },
+            {
+              "src": "/works/boards/karimoku/karimoku-19.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 19 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 19 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "Image archive 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/karimoku/karimoku-20.webp",
+              "caption": "Karimoku × BENWU | user-supplied retrospective board 20 / 20",
+              "captionEn": "Karimoku × BENWU | user-supplied retrospective board 20 / 20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "biyuan",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-brand/biyuan/home-desktop.png",
+              "caption": "Biyuan desktop homepage",
+              "captionEn": "Biyuan desktop homepage"
+            },
+            {
+              "src": "/works/refinement-brand/biyuan/models-desktop.png",
+              "caption": "Biyuan model directory",
+              "captionEn": "Biyuan model directory"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-brand/biyuan/models-filtered.png",
+              "caption": "Filtered model search",
+              "captionEn": "Filtered model search"
+            },
+            {
+              "src": "/media/v7/brand/biyuan-logic.webp",
+              "caption": "Design decisions and system applications (Chinese diagram)",
+              "captionEn": "Design decisions and system applications (Chinese diagram)"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-brand/biyuan/home-mobile.png",
+              "caption": "Biyuan mobile homepage",
+              "captionEn": "Biyuan mobile homepage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "yelisi",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/brand/yelisi/yelisi-logo.webp",
+              "caption": "Current Yelisi brand identity",
+              "captionEn": "Current Yelisi brand identity"
+            },
+            {
+              "src": "/works/brand/yelisi/songnasty-historical-logo.webp",
+              "caption": "Historical Songnasty identity exploration",
+              "captionEn": "Historical Songnasty identity exploration"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-01.webp",
+              "caption": "YELISI | user-supplied retrospective board 01 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 01 / 20"
+            },
+            {
+              "src": "/media/v7/brand/yelisi-logic.webp",
+              "caption": "Design decisions and system applications (Chinese diagram)",
+              "captionEn": "Design decisions and system applications (Chinese diagram)"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/brand/yelisi/snake-component-dimensions-concept.webp",
+              "caption": "Snake component concept and dimensional study",
+              "captionEn": "Snake component concept and dimensional study"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-02.webp",
+              "caption": "YELISI | user-supplied retrospective board 02 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 02 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-03.webp",
+              "caption": "YELISI | user-supplied retrospective board 03 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 03 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Image archive 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-04.webp",
+              "caption": "YELISI | user-supplied retrospective board 04 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 04 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-05.webp",
+              "caption": "YELISI | user-supplied retrospective board 05 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 05 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "Image archive 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-06.webp",
+              "caption": "YELISI | user-supplied retrospective board 06 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 06 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-07.webp",
+              "caption": "YELISI | user-supplied retrospective board 07 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 07 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "Image archive 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-08.webp",
+              "caption": "YELISI | user-supplied retrospective board 08 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 08 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-09.webp",
+              "caption": "YELISI | user-supplied retrospective board 09 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 09 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "Image archive 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-10.webp",
+              "caption": "YELISI | user-supplied retrospective board 10 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 10 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-11.webp",
+              "caption": "YELISI | user-supplied retrospective board 11 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 11 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "Image archive 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-12.webp",
+              "caption": "YELISI | user-supplied retrospective board 12 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 12 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-13.webp",
+              "caption": "YELISI | user-supplied retrospective board 13 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 13 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "Image archive 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-14.webp",
+              "caption": "YELISI | user-supplied retrospective board 14 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 14 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-15.webp",
+              "caption": "YELISI | user-supplied retrospective board 15 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 15 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "Image archive 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-16.webp",
+              "caption": "YELISI | user-supplied retrospective board 16 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 16 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-17.webp",
+              "caption": "YELISI | user-supplied retrospective board 17 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 17 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-12",
+          "title": "Image archive 12",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-18.webp",
+              "caption": "YELISI | user-supplied retrospective board 18 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 18 / 20"
+            },
+            {
+              "src": "/works/boards/yelisi/yelisi-19.webp",
+              "caption": "YELISI | user-supplied retrospective board 19 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 19 / 20"
+            }
+          ]
+        },
+        {
+          "id": "archive-13",
+          "title": "Image archive 13",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/yelisi/yelisi-20.webp",
+              "caption": "YELISI | user-supplied retrospective board 20 / 20",
+              "captionEn": "YELISI | user-supplied retrospective board 20 / 20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "periastra",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/brand/periastra/final-wordmark.png",
+              "caption": "Periastra wordmark study",
+              "captionEn": "Periastra wordmark study"
+            },
+            {
+              "src": "/works/boards/periastra/periastra-01.webp",
+              "caption": "Periastra | user-supplied retrospective board 01 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 01 / 15"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/media/v7/brand/periastra-logic.webp",
+              "caption": "Design decisions and system applications (Chinese diagram)",
+              "captionEn": "Design decisions and system applications (Chinese diagram)"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/brand/periastra/logo/periastra-logo-v01-20260422.webp",
+              "caption": "P and protective frame exploration",
+              "captionEn": "P and protective frame exploration"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/brand/periastra/exploration-orbit.png",
+              "caption": "Rotational symbol exploration",
+              "captionEn": "Rotational symbol exploration"
+            },
+            {
+              "src": "/works/boards/periastra/periastra-02.webp",
+              "caption": "Periastra | user-supplied retrospective board 02 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 02 / 15"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Image archive 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/periastra/periastra-03.webp",
+              "caption": "Periastra | user-supplied retrospective board 03 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 03 / 15"
+            },
+            {
+              "src": "/works/boards/periastra/periastra-04.webp",
+              "caption": "Periastra | user-supplied retrospective board 04 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 04 / 15"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "Image archive 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/periastra/periastra-05.webp",
+              "caption": "Periastra | user-supplied retrospective board 05 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 05 / 15"
+            },
+            {
+              "src": "/works/boards/periastra/periastra-06.webp",
+              "caption": "Periastra | user-supplied retrospective board 06 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 06 / 15"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "Image archive 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/periastra/periastra-07.webp",
+              "caption": "Periastra | user-supplied retrospective board 07 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 07 / 15"
+            },
+            {
+              "src": "/works/boards/periastra/periastra-08.webp",
+              "caption": "Periastra | user-supplied retrospective board 08 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 08 / 15"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "Image archive 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/periastra/periastra-09.webp",
+              "caption": "Periastra | user-supplied retrospective board 09 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 09 / 15"
+            },
+            {
+              "src": "/works/boards/periastra/periastra-10.webp",
+              "caption": "Periastra | user-supplied retrospective board 10 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 10 / 15"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "Image archive 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/periastra/periastra-11.webp",
+              "caption": "Periastra | user-supplied retrospective board 11 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 11 / 15"
+            },
+            {
+              "src": "/works/boards/periastra/periastra-12.webp",
+              "caption": "Periastra | user-supplied retrospective board 12 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 12 / 15"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "Image archive 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/periastra/periastra-13.webp",
+              "caption": "Periastra | user-supplied retrospective board 13 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 13 / 15"
+            },
+            {
+              "src": "/works/boards/periastra/periastra-14.webp",
+              "caption": "Periastra | user-supplied retrospective board 14 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 14 / 15"
+            }
+          ]
+        },
+        {
+          "id": "archive-11",
+          "title": "Image archive 11",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/boards/periastra/periastra-15.webp",
+              "caption": "Periastra | user-supplied retrospective board 15 / 15",
+              "captionEn": "Periastra | user-supplied retrospective board 15 / 15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ai-video-systems",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ai-video-systems/workflow-map.svg",
+              "caption": "Workflow map from case observation to a reviewed output"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ai-video-systems/ai-video-systems-blocking.webp",
+              "caption": "A Blender blocking frame from the supplied source video used to check camera and cast relations"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ai-video-systems/control-layers.svg",
+              "caption": "Six control layers for an AI video workflow"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ai-video-systems/ai-video-systems-cover.webp",
+              "caption": "AI Video Systems — From Prompt Cases to Reusable Workflows"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Review relationships, then revise the right layer",
+          "body": "A searchable reference index, six control layers and eight analyses connect product, CMF, space and narrative. The personal 22.08-second film remains a process record; the page separates source analysis from personal workflow application. Explore Systems / AI video methods on the website.",
+          "images": [
+            {
+              "src": "/works/ai-video-systems/prompt-architecture.svg",
+              "caption": "Structured prompt architecture for the AI video workflow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "lensflow",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/lensflow/studio-guide.webp",
+              "caption": "Lensflow onboarding and demo workspace",
+              "captionEn": "Lensflow onboarding and demo workspace"
+            },
+            {
+              "src": "/works/digital/lensflow/studio-analysis.webp",
+              "caption": "Lensflow image analysis and structured results",
+              "captionEn": "Lensflow image analysis and structured results"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "yantai",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/yantai/design-study-fixture.webp",
+              "caption": "Yantai observation, analysis, transfer and archiving interface"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "xintiao",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-digital/xintiao/home-native.png",
+              "caption": "Xintiao native home screen",
+              "captionEn": "Xintiao native home screen"
+            },
+            {
+              "src": "/works/refinement-digital/xintiao/onboarding-native.png",
+              "caption": "Salary configuration in Xintiao onboarding",
+              "captionEn": "Salary configuration in Xintiao onboarding"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-digital/xintiao/detail-native.png",
+              "caption": "Xintiao salary details",
+              "captionEn": "Xintiao salary details"
+            },
+            {
+              "src": "/works/refinement-digital/xintiao/calendar-native.png",
+              "caption": "Xintiao calendar with no completed records",
+              "captionEn": "Xintiao calendar with no completed records"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-digital/xintiao/appearance-native.png",
+              "caption": "Xintiao appearance and animation settings",
+              "captionEn": "Xintiao appearance and animation settings"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "formline",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/formline/editor-desktop.webp",
+              "caption": "Formline desktop geometry editor",
+              "captionEn": "Formline desktop geometry editor"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/formline/editor-mobile.webp",
+              "caption": "Formline mobile X-Ray view",
+              "captionEn": "Formline mobile X-Ray view"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "resume-formatter",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/resume-formatter/rewrite-diff.webp",
+              "caption": "Reviewing an AI rewrite diff in Resume Formatter",
+              "captionEn": "Reviewing an AI rewrite diff in Resume Formatter"
+            },
+            {
+              "src": "/works/digital/resume-formatter/workspace.webp",
+              "caption": "Master resume, job version and evidence workspace",
+              "captionEn": "Master resume, job version and evidence workspace"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/resume-formatter/layout-controls.webp",
+              "caption": "Resume Formatter template and layout controls",
+              "captionEn": "Resume Formatter template and layout controls"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "visual-archive",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/visual-archive/analysis-desktop.webp",
+              "caption": "Visual Archive desktop prototype with measurements and an ungenerated archive"
+            },
+            {
+              "src": "/works/digital/visual-archive/analysis-mobile.webp",
+              "caption": "Visual Archive mobile measurement and archive areas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "aesthetic-atlas",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/aesthetic-atlas/bauhaus-product-dna.webp",
+              "caption": "Bauhaus Product style DNA card"
+            },
+            {
+              "src": "/works/digital/aesthetic-atlas/bauhaus-product-transfer.webp",
+              "caption": "Bauhaus Product transfer-method card"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "image-2-5-xhs",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/image-2-5-xhs/product-consistency.webp",
+              "caption": "Reference and generated versions of the fictional packaging"
+            },
+            {
+              "src": "/works/digital/image-2-5-xhs/evaluation-cover.webp",
+              "caption": "Cover of the image generation and successive-editing study"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/digital/image-2-5-xhs/evaluation-boundaries.webp",
+              "caption": "Usability judgments and limits of the experiment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "xhs-methods",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/refinement-digital/xhs-methods/workflow.png",
+              "caption": "XHS method workflow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "ink-realm",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/cover.webp",
+              "caption": "Ink Realm | A Character in Motion"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/character.png",
+              "caption": "Character reference: short hair, a loose pale jacket, dark layered skirt and platform shoes"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-01.webp",
+              "caption": "Ink Step · frame from the film"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-02.webp",
+              "caption": "Folding Water Mirrors · frame from the film"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Image archive 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-03.webp",
+              "caption": "Ink Palm · frame from the film"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "Image archive 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-04.webp",
+              "caption": "Flowing Ink Turn · frame from the film"
+            }
+          ]
+        },
+        {
+          "id": "archive-7",
+          "title": "Image archive 07",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-05.webp",
+              "caption": "Inkfall · frame from the film"
+            }
+          ]
+        },
+        {
+          "id": "archive-8",
+          "title": "Image archive 08",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-06.webp",
+              "caption": "Ink Lotus · frame from the film"
+            }
+          ]
+        },
+        {
+          "id": "archive-9",
+          "title": "Image archive 09",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-07.webp",
+              "caption": "Five-Phase Torrent · frame from the film"
+            }
+          ]
+        },
+        {
+          "id": "archive-10",
+          "title": "Image archive 10",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/ink-realm/frame-08.webp",
+              "caption": "Ink Realm · frame from the film"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "character-consistency",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/character-consistency/cover.webp",
+              "caption": "Character Consistency | A Visual Definition System"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/character-consistency/01.jpg",
+              "caption": "Character-sheet overview: the main identity with views, expressions and detail modules"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/character-consistency/02.jpg",
+              "caption": "Structural example: full-body views, colour palette and facial details"
+            },
+            {
+              "src": "/works/character-consistency/03.jpg",
+              "caption": "Expressive example: a separate character with multiple views, expressions and poses"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/character-consistency/04.jpg",
+              "caption": "Detail example: relationships between hair, clothing, hand poses and expression modules"
+            },
+            {
+              "src": "/works/character-consistency/05.jpg",
+              "caption": "Complete example: extending the main identity into poses, hands and garment details"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "portrait-lighting",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/portrait-lighting/cover.webp",
+              "caption": "From Light to Prompt | AI Portrait Lighting"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/portrait-lighting/01.jpg",
+              "caption": "Experiment cover: translating photographic lighting into short prompts"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/portrait-lighting/02.jpg",
+              "caption": "Soft and hard light comparison"
+            },
+            {
+              "src": "/works/portrait-lighting/03.jpg",
+              "caption": "Direct and bounced flash comparison"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/portrait-lighting/04.jpg",
+              "caption": "Side backlight comparison"
+            },
+            {
+              "src": "/works/portrait-lighting/05.jpg",
+              "caption": "Top light comparison"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Image archive 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/portrait-lighting/06.jpg",
+              "caption": "Two-colour gel light comparison"
+            },
+            {
+              "src": "/works/portrait-lighting/07.jpg",
+              "caption": "Blind-pattern projection comparison"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "Image archive 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/portrait-lighting/08.jpg",
+              "caption": "Narrow beam comparison"
+            },
+            {
+              "src": "/works/portrait-lighting/09.jpg",
+              "caption": "From a lighting name to an observable result comparison"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

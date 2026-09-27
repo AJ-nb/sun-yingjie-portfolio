@@ -1,4 +1,5 @@
 import publication from './publication.json'
+import aiCreationData from './aiCreationProjects.json'
 import { FEATURED, getWorks, type Lang } from './workDocs'
 import { getCaseRelations, type CaseRelation } from './caseRelations'
 import { type ChapterId } from './chapters'
@@ -98,7 +99,12 @@ type RegistryClassification = Pick<ProjectEntry, 'category' | 'track' | 'maturit
 
 // Classification is intentionally explicit: these values are the reviewed boundary
 // between a public case study, a tool, and a research or concept archive.
+const aiCreationProjects = aiCreationData as Record<string, Partial<ProjectEntry>>
+
 const classification: Record<string, RegistryClassification> = {
+  'ink-realm': { category: 'ai', track: 'digital', maturity: 'experiment' },
+  'character-consistency': { category: 'research', track: 'digital', maturity: 'research' },
+  'portrait-lighting': { category: 'research', track: 'digital', maturity: 'research' },
   hermes: { category: 'brand', track: 'spatial', maturity: 'commercial-work' },
   arcteryx: { category: 'brand', track: 'spatial', maturity: 'commercial-work' },
   karimoku: { category: 'brand', track: 'spatial', maturity: 'research' },
@@ -581,6 +587,7 @@ export const PROJECT_REGISTRY: readonly ProjectEntry[] = publicSlugs.map(slug =>
     tags: { zh: zh.tags, en: en.tags },
     ...config,
     ...(caseMetadata[slug] ?? defaultCaseMetadata(slug, config)),
+    ...(aiCreationProjects[slug] ?? {}),
     visibility: 'public',
     featured: selectedSlugs.has(slug),
     selected: selectedSlugs.has(slug),

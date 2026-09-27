@@ -14,6 +14,9 @@ export interface CaseRelation {
 
 // These pairs explain a specific editorial connection; their order sets priority.
 export const CASE_CONNECTIONS: { slugs: [string, string]; reason: BilingualReason }[] = [
+  { slugs: ['ink-realm', 'character-consistency'], reason: { zh: '从静态角色定义到动态影像，继续检查发型、服装、比例与动作中的身份线索。', en: 'Connect static character definitions with identity cues in hair, clothing, proportions and motion.' } },
+  { slugs: ['ink-realm', 'portrait-lighting'], reason: { zh: '将主体识别与光线方向结合，观察静态肖像和连续镜头的视觉控制。', en: 'Connect subject identity and lighting direction across portraits and moving shots.' } },
+  { slugs: ['character-consistency', 'portrait-lighting'], reason: { zh: '区分人物结构变化与照明变化，形成更具体的视觉检查方法。', en: 'Distinguish identity changes from illumination changes to make visual review more precise.' } },
   { slugs: ['ai-video-systems', 'lensflow'], reason: { zh: '两者都把生成放进可回看的输入、判断、比较与人工复核流程。', en: 'Both place generation inside a reviewable sequence of inputs, judgment, comparison and human review.' } },
   { slugs: ['hermes', 'arcteryx'], reason: { zh: '同样通过道具、商品与空间层次，让品牌故事进入橱窗。', en: 'Both use props, merchandise and spatial layers to bring a brand story into a window.' } },
   { slugs: ['hermes', 'lighting'], reason: { zh: '从橱窗到灯具场景，继续比较物件尺度与周围空间的关系。', en: 'From windows to lighting scenes, compare the scale of an object with its surroundings.' } },
