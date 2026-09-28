@@ -1,0 +1,62 @@
+{
+  "renderer": "Bundled Poppler 150 dpi from Microsoft Word native PDF export",
+  "previewWidth": 640,
+  "pages": [
+    {
+      "id": "overview",
+      "pdf": "deliverables/resume/sun-yingjie-resume.pdf",
+      "pdfSha256": "6c0faf4eee00a7368083ba39f7f7d13e1ed673ae24042ec024e8fb8e11456da0",
+      "qaPage": "deliverables/resume/qa/v77/sun-yingjie-resume.png",
+      "qaSha256": "fc57b6af80e4cf692b9c4073c929e6f21676e0c4a5da76e9cdc9b3dce0d84df4",
+      "preview": "web/public/media/v7/resume-preview.webp",
+      "previewSha256": "3931f5f83ed8a6fd4d827bd52e670fcca0b07057da565a1301c71e54facb6ce2",
+      "previewSize": [
+        640,
+        905
+      ],
+      "pages": 1
+    },
+    {
+      "id": "brand",
+      "pdf": "deliverables/resume/sun-yingjie-resume-brand.pdf",
+      "pdfSha256": "a348ea60b9b24b81dd5a400de61002b97ab5b281a275a16bb9bf74453da01f48",
+      "qaPage": "deliverables/resume/qa/v77/sun-yingjie-resume-brand.png",
+      "qaSha256": "5493ea5495c34c04a872135631b6ec10726fa4d214ef758215a3a9121fb13a8c",
+      "preview": "web/public/media/v7/resume-preview-brand.webp",
+      "previewSha256": "fcc8e78431f76835d61b1e3f2c1009658d398672dfe6f005caa56faad708d417",
+      "previewSize": [
+        640,
+        905
+      ],
+      "pages": 1
+    },
+    {
+      "id": "physical",
+      "pdf": "deliverables/resume/sun-yingjie-resume-physical.pdf",
+      "pdfSha256": "e3d7ae13d46588ff78dec7cf0ad467caf74a485177a645b43b25200271bf762d",
+      "qaPage": "deliverables/resume/qa/v77/sun-yingjie-resume-physical.png",
+      "qaSha256": "d1074cf724d361c34ab31026f3d284c0d1b9afa7cc6f9af998fa3da0ac666090",
+      "preview": "web/public/media/v7/resume-preview-physical.webp",
+      "previewSha256": "12cbc424ca929f49c306a07e4cdc058aca64382bcdd5e185d89d07e41d208932",
+      "previewSize": [
+        640,
+        905
+      ],
+      "pages": 1
+    },
+    {
+      "id": "digital",
+      "pdf": "deliverables/resume/sun-yingjie-resume-digital.pdf",
+      "pdfSha256": "ee36e73ac8aa19e1a14a9d69e82298b9dd75b0d965e3fe2e7515e27a6a719360",
+      "qaPage": "deliverables/resume/qa/v77/sun-yingjie-resume-digital.png",
+      "qaSha256": "560fca7bf3c39156fdf8665786c0e36d7717abe199410d7dd308e171452d724c",
+      "preview": "web/public/media/v7/resume-preview-digital.webp",
+      "previewSha256": "5f9984e4c31163e893e50e1f54dd6637267b4747aee9a2c9e022c49ed8346763",
+      "previewSize": [
+        640,
+        905
+      ],
+      "pages": 1
+    }
+  ]
+}

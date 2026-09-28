@@ -71,10 +71,20 @@
       "slug": "portrait-lighting",
       "pages": 2,
       "focus": "portrait-lighting"
+    },
+    {
+      "slug": "mini-dv-coffee",
+      "pages": 2,
+      "focus": "mini-dv-coffee"
+    },
+    {
+      "slug": "autumn-fashion-film",
+      "pages": 2,
+      "focus": "autumn-fashion-film"
     }
   ],
   "frontMatterPages": 4,
-  "selectedPageCount": 39,
+  "selectedPageCount": 43,
   "portfolioPdfDeferredSlugs": [],
   "portfolioPdfSnapshotExemptions": {},
   "portfolioPdfDeferralReason": "All current public cases are included in the complete bilingual archive.",
@@ -87,7 +97,7 @@
   "editions": {
     "overview": {
       "title": "工业与产品设计师 · 精选作品",
-      "maxPages": 40,
+      "maxPages": 46,
       "cases": [
         {
           "slug": "hermes",
@@ -167,9 +177,23 @@
           "pageIds": [
             "method"
           ]
+        },
+        {
+          "slug": "mini-dv-coffee",
+          "pageIds": [
+            "overview",
+            "frames"
+          ]
+        },
+        {
+          "slug": "autumn-fashion-film",
+          "pageIds": [
+            "overview",
+            "frames"
+          ]
         }
       ],
-      "pageCount": 39
+      "pageCount": 45
     },
     "brand": {
       "title": "品牌视觉与跨触点交付",
@@ -250,7 +274,7 @@
     },
     "digital": {
       "title": "数字产品与交互体验",
-      "maxPages": 32,
+      "maxPages": 38,
       "cases": [
         {
           "slug": "biyuan",
@@ -313,9 +337,23 @@
           "pageIds": [
             "method"
           ]
+        },
+        {
+          "slug": "mini-dv-coffee",
+          "pageIds": [
+            "overview",
+            "frames"
+          ]
+        },
+        {
+          "slug": "autumn-fashion-film",
+          "pageIds": [
+            "overview",
+            "frames"
+          ]
         }
       ],
-      "pageCount": 30
+      "pageCount": 36
     }
   },
   "homepageSelection": [
@@ -329,6 +367,8 @@
     "ai-video-systems",
     "ink-realm",
     "character-consistency",
-    "portrait-lighting"
+    "portrait-lighting",
+    "mini-dv-coffee",
+    "autumn-fashion-film"
   ]
 }

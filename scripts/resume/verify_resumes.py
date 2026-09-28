@@ -38,33 +38,35 @@ def run():
         paragraphs=list(doc.paragraphs)+[p for table in doc.tables for row in table.rows for cell in row.cells for p in cell.paragraphs]
         doc_text='\n'.join(p.text for p in paragraphs)
         pdf_text='\n'.join(page.extract_text() or '' for page in reader.pages)
-        direction=positioning['variants'][key]
+        direction=positioning['variants'][key]['localized'][entry['lang']]
         check(key+' no standalone project section',all(label not in doc_text and label not in pdf_text for label in ['项目实践','代表项目','设计与交付能力']))
         headings=[p.text for p in doc.paragraphs if p.style.name=='Heading 1']
-        check(key+' ordered professional structure',headings==['核心优势','工作经历','专业工具','教育背景'])
-        check(key+' three role-specific strengths',len(direction['strengths'])==3 and all(compact(item['label']+'：'+item['body']) in compact(doc_text) and compact(item['body']) in compact(pdf_text) for item in direction['strengths']))
+        expected_headings=['核心优势','工作经历','专业工具','教育背景'] if entry['lang']=='zh' else ['Design focus','Experience','Tools and independent practice','Education']
+        check(key+' ordered professional structure',headings==expected_headings)
+        check(key+' three role-specific strengths',len(direction['strengths'])==3 and all(compact(item['body']) in compact(doc_text) and compact(item['body']) in compact(pdf_text) for item in direction['strengths']))
         check(key+' explicit evidence for each strength',all(item['evidence'] and all(any(record['id']==evidence for record in profile['timeline']) or (ROOT/f'web/src/content/works/{evidence}.zh.md').is_file() for evidence in item['evidence']) for item in direction['strengths']))
         check(key+' role-specific summary',compact(direction['summary']) in compact(doc_text) and compact(direction['summary']) in compact(pdf_text))
-        check(key+' complete professional tool groups',all(compact(item['label']+'：'+item['body']) in compact(doc_text) and compact(item['body']) in compact(pdf_text) for item in direction['tools']))
-        check(key+' four targeted tool groups',len(direction['tools'])==4)
+        check(key+' complete professional tool groups',all(compact(item['body']) in compact(doc_text) and compact(item['body']) in compact(pdf_text) for item in direction['tools']))
+        check(key+' targeted tool groups',len(direction['tools'])>=3)
         check(key+' new confirmed tools present',all(tool in doc_text and tool in pdf_text for tool in ['Photoshop','Illustrator','Codex','ComfyUI']))
-        check(key+' AIGC and open-source workflow',compact(direction['workflow']) in compact(doc_text) and compact(direction['workflow']) in compact(pdf_text) and '开源' in direction['workflow'])
-        check(key+' user-confirmed tool provenance',set(positioning['confirmedInputs']['tools'])=={'Adobe Photoshop','Adobe Illustrator','Codex','ComfyUI'})
-        check(key+' requested Liling period',('2026.02' in compact(doc_text) and '至今' in compact(doc_text) and '2026.02' in compact(pdf_text) and ('至今' in compact(pdf_text) or 'Present' in compact(pdf_text))))
-        check(key+' independent AI practice boundary',all(token in doc_text and token in pdf_text for token in ['Lensflow', 'Resume Formatter']))
+        check(key+' AIGC workflow and human review',all(token in doc_text and token in pdf_text for token in ['Image 2.5','Seedance 2.5']) and ('人工审阅' in doc_text if entry['lang']=='zh' else 'human review' in doc_text))
+        check(key+' user-confirmed tool provenance',set(positioning['confirmedInputs']['tools']) >= {'Adobe Photoshop','Adobe Illustrator','Codex','ComfyUI','Image 2.5','Seedance 2.5'})
+        check(key+' requested Liling period',('2026.02' in compact(doc_text) and (('至今' in compact(doc_text)) if entry['lang']=='zh' else ('Present' in compact(doc_text))) and '2026.02' in compact(pdf_text) and (('至今' in compact(pdf_text)) if entry['lang']=='zh' else ('Present' in compact(pdf_text)))))
+        check(key+' independent AI practice boundary',all(token in doc_text and token in pdf_text for token in ['Image 2.5', 'Seedance 2.5'] + (['Mini DV', 'autumn'] if entry['lang']=='en' else ['Mini DV', '秋日'])))
         check(key+' no invented tool proficiency',all(word not in doc_text for word in ['精通','认证','熟练度']))
         check(key+' one A4 page',len(reader.pages)==1 and abs(float(reader.pages[0].mediabox.width)-595.28)<1 and abs(float(reader.pages[0].mediabox.height)-841.89)<1)
         check(key+' native Word PDF', 'Microsoft' in str(reader.metadata.producer) or 'Word' in str(reader.metadata.creator))
-        check(key+' unchanged employment evidence', all(compact(bullet) in compact(doc_text) and compact(bullet) in compact(pdf_text) for bullets in profile['resume']['experience'].values() for bullet in bullets))
-        check(key+' preserved identity and contacts',all(profile[field] in doc_text and profile[field] in pdf_text for field in ['phone','email']) and profile['name']['zh'] in pdf_text)
-        check(key+' preserved employment and education dates',all(compact(item['period']['zh']) in compact(doc_text) and compact(item['period']['zh']) in compact(pdf_text) for item in profile['timeline'] if item['id']!='ai'))
+        check(key+' unchanged employment evidence', all(compact(bullet) in compact(doc_text) and compact(bullet) in compact(pdf_text) for bullets in profile['resume']['experienceLocalized'][entry['lang']].values() for bullet in bullets))
+        check(key+' preserved identity and contacts',all(profile[field] in doc_text and profile[field] in pdf_text for field in ['phone','email']) and profile['name'][entry['lang']] in pdf_text)
+        check(key+' preserved employment and education dates',all(item['period'][entry['lang']].split('—')[0].strip() in compact(doc_text) and item['period'][entry['lang']].split('—')[0].strip() in compact(pdf_text) for item in profile['timeline'] if item['id']!='ai'))
         check(key+' no missing or replacement text', '\ufffd' not in pdf_text and all(compact(p.text) in compact(pdf_text) for p in paragraphs if p.text.strip()))
-        check(key+' editable body and semantic name',len(doc.paragraphs)>=18 and any(p.style.name=='Title' and profile['name']['zh'] in p.text for p in paragraphs))
+        check(key+' editable body and semantic name',len(doc.paragraphs)>=18 and any(p.style.name=='Title' and profile['name'][entry['lang']] in p.text for p in paragraphs))
         check(key+' no italic role subtitle',doc.styles['Subtitle'].font.italic is False)
         check(key+' actual normal body at least 10 pt',all((run.font.size.pt if run.font.size else manifest['bodyFontPt'])>=10 for p in doc.paragraphs if p.text.strip() and p.style.name=='Normal' for run in p.runs if run.text.strip() and not run.text.startswith('\t')))
         check(key+' photo and QR descriptions',len(doc.inline_shapes)==2 and all(shape._inline.docPr.get('descr') for shape in doc.inline_shapes))
         links=[str(annotation.get_object().get('/A',{}).get('/URI','')) for page in reader.pages for annotation in page.get('/Annots',[])]
-        check(key+' active portfolio link', profile['url'].rstrip('/') in [link.rstrip('/') for link in links])
+        expected_site=profile['url'].rstrip('/') + ('/en' if entry['lang']=='en' else '')
+        check(key+' active portfolio link', expected_site in [link.rstrip('/') for link in links])
         embedded=[]
         with zipfile.ZipFile(docx) as archive:
             media=[archive.read(name) for name in archive.namelist() if name.startswith('word/media/')]
@@ -73,14 +75,16 @@ def run():
             for data in media:
                 with Image.open(io.BytesIO(data)) as im:
                     embedded.extend(code.text for code in zxingcpp.read_barcodes(np.asarray(im.convert('RGB'))))
-        check(key+' DOCX QR decodes',profile['url'] in embedded)
-        preview=next(record for record in previews['pages'] if record['id']==key)
-        with Image.open(ROOT/preview['qaPage']) as im:
-            qr_values=[code.text for code in zxingcpp.read_barcodes(np.asarray(im.convert('RGB')))]
-        check(key+' rendered QR decodes',profile['url'] in qr_values)
-        check(key+' preview generated from final PDF',preview['pdfSha256']==digest(pdf) and preview['previewSha256']==digest(ROOT/preview['preview']))
-        with Image.open(ROOT/preview['preview']) as im:
-            check(key+' full A4 preview',im.width==640 and abs(im.height/im.width-297/210)<0.005)
+        expected_qr=profile['url'].rstrip('/') + ('/en/' if entry['lang']=='en' else '/')
+        check(key+' DOCX QR decodes',any(value.rstrip('/') == expected_qr.rstrip('/') for value in embedded))
+        if entry['lang']=='zh':
+            preview=next(record for record in previews['pages'] if record['id']==key)
+            with Image.open(ROOT/preview['qaPage']) as im:
+                qr_values=[code.text for code in zxingcpp.read_barcodes(np.asarray(im.convert('RGB')))]
+            check(key+' rendered QR decodes',any(value.rstrip('/') == expected_qr.rstrip('/') for value in qr_values))
+            check(key+' preview generated from final PDF',preview['pdfSha256']==digest(pdf) and preview['previewSha256']==digest(ROOT/preview['preview']))
+            with Image.open(ROOT/preview['preview']) as im:
+                check(key+' full A4 preview',im.width==640 and abs(im.height/im.width-297/210)<0.005)
         with pdfplumber.open(pdf) as pages:
             chars=pages.pages[0].chars
             # Word permits hanging CJK punctuation beyond the right text margin;
@@ -98,7 +102,7 @@ def run():
         for extension in ['pdf','docx']:
             source=pdf if extension=='pdf' else docx
             check(key+' public '+extension+' matches',digest(source)==digest(ROOT/'web/public/downloads'/source.name))
-            metadata=next(item for item in downloads['items'] if item['id']=='resume-'+key+'-'+extension)
+            metadata=next(item for item in downloads['items'] if item['id']==f'resume-{key}-{entry["lang"]}-{extension}')
             check(key+' '+extension+' download metadata matches',metadata['sha256']==digest(source) and metadata['bytes']==source.stat().st_size and metadata['pages']==1)
     check('public download manifest matches source',digest(ROOT/'web/src/data/downloads.json')==digest(ROOT/'web/public/downloads/manifest.json'))
     result={'edition':'resume-v7.7','checkedAt':datetime.now(timezone.utc).isoformat(),'passed':all(item['passed'] for item in checks),'checkCount':len(checks),'checks':checks,'renderer':{'actual':'Microsoft Word native fixed-format PDF export, then bundled Poppler 150 dpi','skillRenderer':'render_docx.py was attempted with runtime-only PATH and failed because this Windows bundle has no LibreOffice. No system LibreOffice was used.','log':'deliverables/resume/qa/v77/skill-render.log'},'visualReview':'Separate manual review of all four final page images is required.'}

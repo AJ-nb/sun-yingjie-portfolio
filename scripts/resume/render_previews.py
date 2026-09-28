@@ -21,6 +21,10 @@ def run():
     manifest = json.loads((ROOT/'deliverables/resume/resume-manifest.json').read_text(encoding='utf-8'))
     records=[]
     for entry in manifest['variants']:
+        # The website's v7 preview rail uses the canonical Chinese resume previews.
+        # English downloads receive language-specific previews from the v9 publication QA.
+        if entry['lang'] != 'zh':
+            continue
         source=ROOT/entry['pdf']
         prefix=QA/entry['stem']
         subprocess.run([str(POPPLER), '-png', '-r', '150', '-singlefile', str(source), str(prefix)], check=True)

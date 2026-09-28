@@ -1,7 +1,7 @@
 {
   "variant": "full",
   "lang": "zh",
-  "pageCount": 291,
+  "pageCount": 297,
   "casePages": {
     "hermes": 4,
     "arcteryx": 29,
@@ -37,7 +37,9 @@
     "xhs-methods": 266,
     "ink-realm": 268,
     "character-consistency": 279,
-    "portrait-lighting": 284
+    "portrait-lighting": 284,
+    "mini-dv-coffee": 291,
+    "autumn-fashion-film": 294
   },
   "plan": [
     {
@@ -3535,6 +3537,68 @@
             {
               "src": "/works/portrait-lighting/09.jpg",
               "caption": "从光型名称到可检查的结果对照图"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "mini-dv-coffee",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/mini-dv-coffee/character-reference.jpg",
+              "caption": "Mini DV 早晨咖啡 Vlog"
+            },
+            {
+              "src": "/works/mini-dv-coffee/frame-01.webp",
+              "caption": "咖啡制作中段关键帧：萃取、杯沿与自然焦点寻找"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/mini-dv-coffee/frame-02.webp",
+              "caption": "结尾关键帧：喝咖啡后走向镜头，手掌即将遮住画面"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "autumn-fashion-film",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "图像档案 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/autumn-fashion-film/poster.webp",
+              "caption": "秋日单镜头时装片"
+            },
+            {
+              "src": "/works/autumn-fashion-film/frame-01.webp",
+              "caption": "秋日时装片关键帧：固定顶视角、秋色地毯与木质吊扇形成前景层"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "图像档案 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/autumn-fashion-film/frame-02.webp",
+              "caption": "秋日时装片后段关键帧：服装替换后，人物与扇叶阴影仍保持同一空间关系"
             }
           ]
         }

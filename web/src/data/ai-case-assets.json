@@ -133,6 +133,34 @@
       "width": 1280,
       "height": 720,
       "fps": 24
+    },
+    {
+      "project": "mini-dv-coffee",
+      "path": "/works/mini-dv-coffee/character-reference.jpg",
+      "source": "Author-supplied character reference image",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "a9c9685f3941b9ceab53ebe8cadf5bdfd61dbdb08971fa1af210537ae901855a"
+    },
+    {
+      "project": "mini-dv-coffee",
+      "path": "/works/mini-dv-coffee/film-source.hevc.mp4",
+      "source": "Author-supplied original HEVC/AAC film",
+      "durationSeconds": 30.045011,
+      "width": 960,
+      "height": 720,
+      "fps": 24,
+      "sha256": "d0df5d1561cf0c3020e2f7a1b79ad78e9e4e821b511b702a6123a9f16aa9dbc4"
+    },
+    {
+      "project": "autumn-fashion-film",
+      "path": "/works/autumn-fashion-film/film-source.hevc.mp4",
+      "source": "Author-supplied original HEVC/AAC film",
+      "durationSeconds": 30.045011,
+      "width": 720,
+      "height": 1280,
+      "fps": 24,
+      "sha256": "4f5f5acf0f8710e8d4effb7af309399e5266ea3de99339f76b420036f7fabf70"
     }
   ]
 }

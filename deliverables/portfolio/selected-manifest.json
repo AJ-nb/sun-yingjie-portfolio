@@ -2,8 +2,8 @@
   "edition": "v9",
   "variant": "overview",
   "lang": "zh",
-  "pageCount": 39,
-  "caseCount": 11,
+  "pageCount": 45,
+  "caseCount": 13,
   "caseSlugs": [
     "hermes",
     "arcteryx",
@@ -15,7 +15,9 @@
     "ai-video-systems",
     "ink-realm",
     "character-consistency",
-    "portrait-lighting"
+    "portrait-lighting",
+    "mini-dv-coffee",
+    "autumn-fashion-film"
   ],
   "pages": [
     {
@@ -482,6 +484,80 @@
     },
     {
       "page": 39,
+      "kind": "project",
+      "case": "mini-dv-coffee"
+    },
+    {
+      "page": 40,
+      "kind": "evidence",
+      "case": "mini-dv-coffee",
+      "pageId": "overview",
+      "title": "家用镜头与声音先行",
+      "body": "4:3 Mini DV 的手持偶然性、动作顺序与近距离声音共同构成咖啡 vlog 的方法；网页案例保留完整成片与提示词。",
+      "images": [
+        {
+          "src": "/works/mini-dv-coffee/character-reference.jpg",
+          "caption": "AREN SATO 角色参考图"
+        },
+        {
+          "src": "/works/mini-dv-coffee/frame-01.webp",
+          "caption": "萃取与焦点寻找"
+        }
+      ]
+    },
+    {
+      "page": 41,
+      "kind": "evidence",
+      "case": "mini-dv-coffee",
+      "pageId": "frames",
+      "title": "动作顺序与生活化收束",
+      "body": "从研磨、压粉、锁定到蒸奶、倒奶和饮用，声音连续性与 hard cut 维持普通早晨的节奏。",
+      "images": [
+        {
+          "src": "/works/mini-dv-coffee/frame-02.webp",
+          "caption": "喝咖啡后遮住镜头的结尾"
+        }
+      ]
+    },
+    {
+      "page": 42,
+      "kind": "project",
+      "case": "autumn-fashion-film"
+    },
+    {
+      "page": 43,
+      "kind": "evidence",
+      "case": "autumn-fashion-film",
+      "pageId": "overview",
+      "title": "固定顶视角与秋日材质",
+      "body": "锁定 90° 顶视角、人物身份、秋色地毯、胡桃木地板和吊扇阴影，让四套造型处于同一空间关系。",
+      "images": [
+        {
+          "src": "/works/autumn-fashion-film/poster.webp",
+          "caption": "秋日时装片固定顶视角"
+        },
+        {
+          "src": "/works/autumn-fashion-film/frame-01.webp",
+          "caption": "吊扇作为前景遮挡层"
+        }
+      ]
+    },
+    {
+      "page": 44,
+      "kind": "evidence",
+      "case": "autumn-fashion-film",
+      "pageId": "frames",
+      "title": "完整遮挡换装",
+      "body": "约 07、14、21 秒的三次扇叶遮挡是唯一换装窗口；脸部、身体位置、光线和阴影关系保持连续。",
+      "images": [
+        {
+          "src": "/works/autumn-fashion-film/frame-02.webp",
+          "caption": "遮挡换装后的材质与阴影连续性"
+        }
+      ]
+    },
+    {
+      "page": 45,
       "kind": "contact",
       "case": null
     }
@@ -790,23 +866,67 @@
       "pages": [
         38
       ]
+    },
+    {
+      "publicPath": "/works/mini-dv-coffee/character-reference.jpg",
+      "sha256": "a9c9685f3941b9ceab53ebe8cadf5bdfd61dbdb08971fa1af210537ae901855a",
+      "pages": [
+        39,
+        40
+      ]
+    },
+    {
+      "publicPath": "/works/mini-dv-coffee/frame-01.webp",
+      "sha256": "e4a6fd44c3880afd5f0f223fde0a895838442978466e8d6ec509d8aa47dcf591",
+      "pages": [
+        40
+      ]
+    },
+    {
+      "publicPath": "/works/mini-dv-coffee/frame-02.webp",
+      "sha256": "71a04d7e941df378ff1e8646bb745ced7db4177401cb8bd0c06487ce60aba3f8",
+      "pages": [
+        41
+      ]
+    },
+    {
+      "publicPath": "/works/autumn-fashion-film/poster.webp",
+      "sha256": "43c7969d2625286d7b19a02e93f34115a5b6ff565a4d22029f294acf0e3674b0",
+      "pages": [
+        42,
+        43
+      ]
+    },
+    {
+      "publicPath": "/works/autumn-fashion-film/frame-01.webp",
+      "sha256": "cf89c184ac87f9c17682789bfef2bb5b1e3e9a69fcb43fdd10c4fd90b99c44a0",
+      "pages": [
+        43
+      ]
+    },
+    {
+      "publicPath": "/works/autumn-fashion-film/frame-02.webp",
+      "sha256": "29bd6ef5b62247dd3318a582f18e47b9d6d0cff836ec7b1abb0ffbbd0a352049",
+      "pages": [
+        44
+      ]
     }
   ],
   "document": "deliverables/portfolio/sun-yingjie-selected-portfolio.pdf",
   "publicPath": "/downloads/sun-yingjie-selected-portfolio.pdf",
-  "sha256": "cf31a11529a5263b17b41a7175d9ab9e5033984c841f081ec10ff92354a2fedb",
-  "publicSha256": "cf31a11529a5263b17b41a7175d9ab9e5033984c841f081ec10ff92354a2fedb",
-  "publicBytes": 15101418,
+  "sha256": "4c676f7967a01048845483e4c8f433494ace8398c4991e8e627461bbf1d8181a",
+  "publicSha256": "4c676f7967a01048845483e4c8f433494ace8398c4991e8e627461bbf1d8181a",
+  "publicBytes": 16440438,
   "url": "https://aj-nb.github.io/sun-yingjie-portfolio/",
   "sourceHashes": {
-    "web/src/data/profile.json": "aba7dffd5ab87663bc2f9c8754e1049f44c611cf2d7f779aa34359a757810e5b",
-    "web/src/data/publication.json": "02191c95833027c4a8716d9fa80d815cbbade26737d6c532b728e60e67ff8e11",
-    "web/src/data/publication-pages.json": "4cec3dffaef6ad611d38de8954fb981d8469c48dfaf926a5847048657b883eba",
-    "web/src/data/publication-locales.json": "7942c87f1682639541f59d5dc2d780d2061af539f298fcb5034d5559f4d921e3",
-    "web/src/data/projectRegistry.ts": "9b436eaa13c97b68fc13add316701b82f79b2fa6e405651d986ece7ebeeb7f86",
+    "web/src/data/profile.json": "9b2c56fd6ee5c2b9a12820d24965cb4766ffbbfbed0095bc53c7f50c830212d5",
+    "web/src/data/publication.json": "9569aa9698e81fbd1855529285862e1146d0b3f9a10bc91dc648ec426143774f",
+    "web/src/data/publication-pages.json": "6d073102170cc3caee3baa0fba4b5d4fbdf24a4a4ff102fc802a62a7a016cfd1",
+    "web/src/data/publication-locales.json": "7be370c20da5d68ee4dd2395339157f87c3076a3502c98f7c6f44176836ed1ee",
+    "web/src/data/projectRegistry.ts": "f2e6cdeef0dd3223c665e4446e35887e1b2395a9772efe4ddb91ca0bd50afdf1",
     "scripts/build_publications_v9.py": "56675139086fc7ec828ff568d38c286af3831c283744b5b9058f302b57c97833",
     "scripts/build_selected_portfolio.py": "443ba65aaa90020a3e231e480c900b32c81282cf856926c7545b565a2f1162f2",
-    "web/src/data/chapters.ts": "41115cc1eaa069374dd5ae8aa62b3df8ae3834b029a27e3eb9837ec4f79dfcbf",
+    "web/src/data/chapters.ts": "f7b9583016aff20a8ec323d40383ff0142b533987d9b97a8948ff34022def46f",
     "web/src/content/works/hermes.zh.md": "75536e492388012de0b72502b9bf70f76224f0bbb64f5a339446c1689c6015b6",
     "web/src/content/works/arcteryx.zh.md": "c655afb00f6b45107207d0a49b9f37247d494ad00423df089d2539276ac3fc2b",
     "web/src/content/works/karimoku.zh.md": "8766d3c9067f42f5ba93650d5c65241bf08873a6584d3c17d7dc8cf654e1ab6c",
@@ -817,7 +937,9 @@
     "web/src/content/works/ai-video-systems.zh.md": "cb6569ed52f45c1dbf5ee8df03a082a24516c286a16d6b1588b8c68ca463d06c",
     "web/src/content/works/ink-realm.zh.md": "6688e12ebef2fc695826c28a55ca38d3245c2155c7784e9f2c2e6d5e4ef3e6b4",
     "web/src/content/works/character-consistency.zh.md": "142e8cacaa979580d2b80eb8a396963862d0a7f3aba031d2b0b3eeceaa9fb32b",
-    "web/src/content/works/portrait-lighting.zh.md": "2072456be2f4d9a52426db15283b2b07336fcd1fe72102deb35ebf3470cffffc"
+    "web/src/content/works/portrait-lighting.zh.md": "2072456be2f4d9a52426db15283b2b07336fcd1fe72102deb35ebf3470cffffc",
+    "web/src/content/works/mini-dv-coffee.zh.md": "184d0c3c5d2e64a696cb4281151cc866fe22f88a748952d2bb094fb96c515517",
+    "web/src/content/works/autumn-fashion-film.zh.md": "72dddd05e1fd8370f17f40a1fd5f07655e351be587abab7816ab88b20f50a4af"
   },
   "externalFontHashes": {
     "C:\\Windows\\Fonts\\msyh.ttc": "d79c55e68b1131eea0cc1c47be4f572d964f28c682e143db2ad09c1e4cb07a3f",

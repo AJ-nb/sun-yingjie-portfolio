@@ -18,3 +18,12 @@
 
 @media(min-width:1024px){.home-project-stack{padding:24px}.home-project-stack .home-project-copy{margin-bottom:20px}.home-project-composition{height:clamp(180px,34vh,440px)}.home-stack-slot{padding-bottom:0;margin-bottom:70px}.home-stack-slot:last-child{margin-bottom:0}.home-stack-slot[data-stack=enabled]{position:sticky;top:90px}.home-stack-slot[data-stack=enabled]:nth-child(2){top:118px}.home-stack-slot[data-stack=enabled]:nth-child(3){top:146px}}
 @media(max-width:520px){.home-hero-bottom{padding-top:240px}.home-tv-figure{max-width:330px}.home-hero{min-height:calc(100svh - 140px)}}
+/* v13: keep the established hero geometry while improving text contrast over the figure. */
+.home-hero:after{content:'';position:absolute;inset:0;z-index:1;pointer-events:none;background:linear-gradient(180deg,rgba(12,16,20,.12) 0%,rgba(12,16,20,.02) 42%,rgba(12,16,20,.58) 100%)}
+.home-hero h1,.home-hero-bottom{z-index:3}
+.home-hero h1{background:linear-gradient(180deg,#f4f7f8 0%,#b9c6cf 68%,#82939e 100%);background-clip:text;text-shadow:0 10px 34px rgba(8,13,17,.28)}
+.home-hero-intro,.home-hero-contact{filter:drop-shadow(0 4px 18px rgba(5,8,10,.28))}
+.home-role{color:#f5f7f7;letter-spacing:.01em}
+.home-hero-intro>p+p{color:#e0e6e8}
+.home-project-mini-dv-coffee .home-project-image,.home-project-autumn-fashion-film .home-project-image{background:#252b2d}
+@media(max-width:520px){.home-hero:after{background:linear-gradient(180deg,rgba(12,16,20,.08) 0%,rgba(12,16,20,.06) 40%,rgba(12,16,20,.72) 100%)}.home-hero-intro>p+p{color:#edf1f1}}

@@ -395,6 +395,212 @@
       "evidenceStatus": "document-analysis",
       "mediaRights": "Individual creator rights; official embed only",
       "sourceRevision": "9927d9b5bc2d1c305b2945917e461b3547642497"
+    },
+    {
+      "id": "handheld-ugc",
+      "layer": "camera",
+      "application": "narrative",
+      "template": "handheld-ugc-vlog",
+      "personallyRetested": false,
+      "videoReviewed": false,
+      "mediaMode": "official-embed",
+      "reference": {
+        "title": "Mini DV Coffee ASMR Vlog",
+        "slug": "seedance-25-minidv-coffee-asmr-vlog",
+        "creator": "@Strength04_X",
+        "sourceUrl": "https://x.com/Strength04_X/status/2083094742682787939",
+        "recordUrl": "https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog"
+      },
+      "templateUrl": "https://github.com/LearnPrompt/awesome-seedance/blob/9927d9b5bc2d1c305b2945917e461b3547642497/docs/templates/en/handheld-ugc-vlog.md",
+      "title": {
+        "zh": "手持 UGC：让日常动作与声音成为主体",
+        "en": "Handheld UGC: let everyday action and sound lead"
+      },
+      "goal": {
+        "zh": "保留消费级摄像机的偶然性，让动作顺序和近距离声音建立可信的日常记录。",
+        "en": "Keep consumer-camera accident so action order and close sound create a credible domestic record."
+      },
+      "inputs": {
+        "zh": "4:3 画幅、手持角度、生活道具、声音事件与不完美焦点。",
+        "en": "A 4:3 frame, handheld angles, domestic objects, sound events and imperfect focus."
+      },
+      "control": {
+        "zh": "先列动作顺序，再把磨豆、压粉、蒸汽与杯子声作为跨镜头连接条件。",
+        "en": "List the action order first, then use grinder, tamp, steam and cup sounds as hand-off conditions."
+      },
+      "observation": {
+        "zh": "源条目提供 UGC / vlog 的文档分析入口；本案例将其迁移到 Mini DV 咖啡制作，不复测上游视频。",
+        "en": "The source entry provides a documented UGC/vlog entry point; this case transfers it to Mini DV coffee-making without retesting the upstream video."
+      },
+      "limits": {
+        "zh": "声音与手部接触仍需逐镜人工复看；媒介词不能保证真实录音或稳定手部。",
+        "en": "Sound and hand contact still need shot-by-shot review; medium labels cannot guarantee real recording or stable hands."
+      },
+      "transfer": {
+        "zh": "适用于产品使用短片：先保证动作和接触顺序，再决定画面风格。",
+        "en": "For product-use films, establish action and contact order before styling the image."
+      },
+      "evidenceStatus": "document-analysis",
+      "mediaRights": "Individual creator rights; official embed only",
+      "sourceRevision": "9927d9b5bc2d1c305b2945917e461b3547642497",
+      "caseSlugs": [
+        "mini-dv-coffee"
+      ]
+    },
+    {
+      "id": "fixed-overhead",
+      "layer": "camera",
+      "application": "space",
+      "template": "pov-continuous-take",
+      "personallyRetested": false,
+      "videoReviewed": false,
+      "mediaMode": "official-embed",
+      "reference": {
+        "title": "Seedance 2.5 Pineapple Pizza Raid in One Bodycam Take",
+        "slug": "seedance-2-5-d68024212dfc",
+        "creator": "@techhalla",
+        "sourceUrl": "https://x.com/techhalla/status/2088036921184223468",
+        "recordUrl": "https://goodcase.ai/cases/seedance-2-5-d68024212dfc"
+      },
+      "templateUrl": "https://github.com/LearnPrompt/awesome-seedance/blob/9927d9b5bc2d1c305b2945917e461b3547642497/docs/templates/en/pov-continuous-take.md",
+      "title": {
+        "zh": "固定顶视角：把相机矩阵写成不变量",
+        "en": "Fixed overhead: write the camera matrix as an invariant"
+      },
+      "goal": {
+        "zh": "在持续观看关系中保持 90° 顶视角、主体中心和物件边缘关系稳定。",
+        "en": "Keep the 90° overhead view, subject centre and edge-object relations stable through a continuous view."
+      },
+      "inputs": {
+        "zh": "相机位置、光轴、焦段、主体中心、家具边缘、遮挡路径。",
+        "en": "Camera position, optical axis, focal length, subject centre, furniture edges and occlusion path."
+      },
+      "control": {
+        "zh": "把相机约束与主体动作分开描述；先验证固定矩阵，再添加动作。",
+        "en": "Separate camera invariants from subject action; validate the fixed matrix before adding motion."
+      },
+      "observation": {
+        "zh": "连续镜头模板被迁移为秋日时装片的 90° 顶视角检查项；源条目仅作文档分析。",
+        "en": "The continuous-take template becomes a 90° overhead check for the autumn fashion film; the source remains document analysis."
+      },
+      "limits": {
+        "zh": "写下“一镜到底”不能证明没有隐藏切换、透视漂移或边缘几何错误。",
+        "en": "Writing “one continuous take” cannot prove the absence of hidden cuts, perspective drift or edge-geometry errors."
+      },
+      "transfer": {
+        "zh": "适用于产品展示、空间导览和材质比较，先固定视点关系再讨论节奏。",
+        "en": "Use it for product presentation, spatial tours and material comparisons: lock viewpoint relations before tempo."
+      },
+      "evidenceStatus": "document-analysis",
+      "mediaRights": "Individual creator rights; official embed only",
+      "sourceRevision": "9927d9b5bc2d1c305b2945917e461b3547642497",
+      "caseSlugs": [
+        "mini-dv-coffee",
+        "autumn-fashion-film"
+      ]
+    },
+    {
+      "id": "occlusion-wardrobe",
+      "layer": "temporal",
+      "application": "narrative",
+      "template": "fashion-lookbook",
+      "personallyRetested": false,
+      "videoReviewed": false,
+      "mediaMode": "official-embed",
+      "reference": {
+        "title": "Seedance 2.5 12-Second Continuous Outfit-Change Fashion Blogger Video",
+        "slug": "johnagi168-seedance-ai-140908f952bd",
+        "creator": "@johnAGI168",
+        "sourceUrl": "https://x.com/johnAGI168/status/2089251003514102060",
+        "recordUrl": "https://goodcase.ai/cases/johnagi168-seedance-ai-140908f952bd"
+      },
+      "templateUrl": "https://github.com/LearnPrompt/awesome-seedance/blob/9927d9b5bc2d1c305b2945917e461b3547642497/docs/templates/en/fashion-lookbook.md",
+      "title": {
+        "zh": "遮挡换装：把前景遮挡变成唯一状态窗口",
+        "en": "Occlusion wardrobe change: make foreground cover the only state window"
+      },
+      "goal": {
+        "zh": "利用真实前景物体遮挡完成状态转换，同时保持人物身份、位置和光线连续。",
+        "en": "Use a real foreground object to cover a state change while identity, position and light remain continuous."
+      },
+      "inputs": {
+        "zh": "遮挡物体积、进入与离开路径、完整覆盖区域、换装时间点和前后状态。",
+        "en": "Occluder volume, entry and exit path, full-cover region, change timing and boundary states."
+      },
+      "control": {
+        "zh": "只允许在完整遮挡窗口内改变服装，禁止 morph、glitch、flash 和数字擦除。",
+        "en": "Allow wardrobe changes only inside full occlusion; exclude morph, glitch, flash and digital wipes."
+      },
+      "observation": {
+        "zh": "时装 lookbook 条目提供连续换装的参考方向；本案例把扇叶遮挡写成可审阅的物理事件。",
+        "en": "The fashion-lookbook entry provides a reference direction for outfit change; this case writes the fan cover as an inspectable physical event."
+      },
+      "limits": {
+        "zh": "遮挡范围不足、脸部变形和衣料边缘跳变仍可能出现，必须逐帧检查。",
+        "en": "Insufficient cover, facial drift and cloth-edge jumps can still occur and require frame review."
+      },
+      "transfer": {
+        "zh": "可迁移到产品拆解、包装开合或空间遮挡转场，但不把视觉连续性当作结构证据。",
+        "en": "Transfer it to product reveals, package opening or spatial occlusion, without treating visual continuity as structural proof."
+      },
+      "evidenceStatus": "document-analysis",
+      "mediaRights": "Individual creator rights; official embed only",
+      "sourceRevision": "9927d9b5bc2d1c305b2945917e461b3547642497",
+      "caseSlugs": [
+        "autumn-fashion-film"
+      ]
+    },
+    {
+      "id": "material-shadow-continuity",
+      "layer": "visual",
+      "application": "cmf",
+      "template": "fashion-lookbook",
+      "personallyRetested": false,
+      "videoReviewed": false,
+      "mediaMode": "official-embed",
+      "reference": {
+        "title": "Seedance 2.5 12-Second Continuous Outfit-Change Fashion Blogger Video",
+        "slug": "johnagi168-seedance-ai-140908f952bd",
+        "creator": "@johnAGI168",
+        "sourceUrl": "https://x.com/johnAGI168/status/2089251003514102060",
+        "recordUrl": "https://goodcase.ai/cases/johnagi168-seedance-ai-140908f952bd"
+      },
+      "templateUrl": "https://github.com/LearnPrompt/awesome-seedance/blob/9927d9b5bc2d1c305b2945917e461b3547642497/docs/templates/en/fashion-lookbook.md",
+      "title": {
+        "zh": "材质与阴影连续性：让造型变化仍在同一空间",
+        "en": "Material and shadow continuity: keep changing looks in one space"
+      },
+      "goal": {
+        "zh": "在多套造型和遮挡事件中维持地毯纤维、木地板、皮革、麂皮与移动阴影的共同光照。",
+        "en": "Keep rug fibre, wood floor, leather, suede and moving shadows under one shared light across looks."
+      },
+      "inputs": {
+        "zh": "材质关键词、粗糙度、主光方向、接触阴影、扇叶方向与颜色范围。",
+        "en": "Material terms, roughness, key-light direction, contact shadows, blade direction and palette."
+      },
+      "control": {
+        "zh": "把每种材质的可见特征与同一光源、同一阴影规则绑定，避免只堆叠风格词。",
+        "en": "Bind each visible material feature to one light and shadow rule instead of stacking style words."
+      },
+      "observation": {
+        "zh": "研究条目只支持材质与时装镜头的迁移问题；本案例的实际输出仍由人工审阅。",
+        "en": "The research entry supports the material-and-fashion transfer question; the actual output remains human-reviewed."
+      },
+      "limits": {
+        "zh": "生成材质不能证明真实面料、耐久或制造参数；光影连续也不等于物理测量。",
+        "en": "Generated material cannot establish real fabric, durability or manufacturing parameters; light continuity is not measurement."
+      },
+      "transfer": {
+        "zh": "适用于 CMF 评审：将样本、光线和接触位置分别列为审阅项。",
+        "en": "For CMF review, list sample, light and contact position as separate inspection items."
+      },
+      "evidenceStatus": "document-analysis",
+      "mediaRights": "Individual creator rights; official embed only",
+      "sourceRevision": "9927d9b5bc2d1c305b2945917e461b3547642497",
+      "caseSlugs": [
+        "mini-dv-coffee",
+        "autumn-fashion-film"
+      ]
     }
   ]
 }

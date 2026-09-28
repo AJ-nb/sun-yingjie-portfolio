@@ -1,6 +1,7 @@
 import { readFile, readdir, stat, writeFile, mkdir } from 'node:fs/promises'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { countLevelTwoHeadings } from './count-markdown-headings.mjs'
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const worksDir = path.join(root, 'web', 'src', 'content', 'works')
@@ -101,7 +102,7 @@ const allowedCategories = new Set(['commercial', 'product', 'brand', 'visual', '
 const categoryEntries = [...registrySource.matchAll(/^\s*(['\"]?)([a-z0-9][a-z0-9-]*)\1:\s*\{\s*category:\s*['\"]([^'\"]+)['\"],\s*track:\s*['\"]([^'\"]+)['\"],\s*maturity:\s*['\"]([^'\"]+)['\"]/gm)]
 const categoryBySlug = new Map(categoryEntries.map((m) => [m[2], { category: m[3], track: m[4], maturity: m[5] }]))
 
-if (publicSlugs.length !== 35) addError('public-count', `Expected 35 public bilingual slugs, found ${publicSlugs.length}`, { expected: 35, actual: publicSlugs.length })
+if (publicSlugs.length !== 37) addError('public-count', `Expected 37 public bilingual slugs, found ${publicSlugs.length}`, { expected: 37, actual: publicSlugs.length })
 for (const slug of expectedPublic) {
   const pair = docs.get(slug)
   if (!pair?.zh || !pair?.en) addError('missing-translation', `${slug}: both zh and en work documents are required`, { slug })
@@ -109,7 +110,9 @@ for (const slug of expectedPublic) {
   if (pair?.zh?.fields?.cover) await checkAsset(pair.zh.fields.cover, slug)
   else addError('missing-cover', `${slug}: cover is required`, { slug })
   if (pair?.zh?.fields?.cover !== pair?.en?.fields?.cover) addError('cover-mismatch', `${slug}: translated covers differ`, { slug })
-  if (![6,7].includes(pair?.zh?.body?.match(/(?:^|\n)## /g)?.length) || ![6,7].includes(pair?.en?.body?.match(/(?:^|\n)## /g)?.length)) addWarning('section-count', `${slug}: expected six archive or seven editorial sections`, { slug })
+  const zhSectionCount = countLevelTwoHeadings(pair?.zh?.body ?? '')
+  const enSectionCount = countLevelTwoHeadings(pair?.en?.body ?? '')
+  if (![6,7].includes(zhSectionCount) || ![6,7].includes(enSectionCount)) addWarning('section-count', `${slug}: expected six archive or seven editorial sections`, { slug })
   if (!pair?.zh?.body?.trim() || !pair?.en?.body?.trim()) missingEvidence.push({ slug, reason: 'no case body evidence' })
   if (/(D:\\|C:\\|private\/|source archive|Lorem ipsum|example\.com)/i.test(`${pair?.zh?.body ?? ''}\n${pair?.en?.body ?? ''}`)) addError('private-or-placeholder-content', `${slug}: content contains private path or placeholder text`, { slug })
 }

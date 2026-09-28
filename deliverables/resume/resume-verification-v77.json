@@ -1,0 +1,1162 @@
+{
+  "edition": "resume-v7.7",
+  "checkedAt": "2026-09-27T23:58:35.024958+00:00",
+  "passed": true,
+  "checkCount": 287,
+  "checks": [
+    {
+      "check": "four supported role variants",
+      "passed": true
+    },
+    {
+      "check": "body type at least 10 pt",
+      "passed": true
+    },
+    {
+      "check": "overview no standalone project section",
+      "passed": true
+    },
+    {
+      "check": "overview ordered professional structure",
+      "passed": true
+    },
+    {
+      "check": "overview three role-specific strengths",
+      "passed": true
+    },
+    {
+      "check": "overview explicit evidence for each strength",
+      "passed": true
+    },
+    {
+      "check": "overview role-specific summary",
+      "passed": true
+    },
+    {
+      "check": "overview complete professional tool groups",
+      "passed": true
+    },
+    {
+      "check": "overview targeted tool groups",
+      "passed": true
+    },
+    {
+      "check": "overview new confirmed tools present",
+      "passed": true
+    },
+    {
+      "check": "overview AIGC workflow and human review",
+      "passed": true
+    },
+    {
+      "check": "overview user-confirmed tool provenance",
+      "passed": true
+    },
+    {
+      "check": "overview requested Liling period",
+      "passed": true
+    },
+    {
+      "check": "overview independent AI practice boundary",
+      "passed": true
+    },
+    {
+      "check": "overview no invented tool proficiency",
+      "passed": true
+    },
+    {
+      "check": "overview one A4 page",
+      "passed": true
+    },
+    {
+      "check": "overview native Word PDF",
+      "passed": true
+    },
+    {
+      "check": "overview unchanged employment evidence",
+      "passed": true
+    },
+    {
+      "check": "overview preserved identity and contacts",
+      "passed": true
+    },
+    {
+      "check": "overview preserved employment and education dates",
+      "passed": true
+    },
+    {
+      "check": "overview no missing or replacement text",
+      "passed": true
+    },
+    {
+      "check": "overview editable body and semantic name",
+      "passed": true
+    },
+    {
+      "check": "overview no italic role subtitle",
+      "passed": true
+    },
+    {
+      "check": "overview actual normal body at least 10 pt",
+      "passed": true
+    },
+    {
+      "check": "overview photo and QR descriptions",
+      "passed": true
+    },
+    {
+      "check": "overview active portfolio link",
+      "passed": true
+    },
+    {
+      "check": "overview original portrait preserved",
+      "passed": true
+    },
+    {
+      "check": "overview DOCX QR decodes",
+      "passed": true
+    },
+    {
+      "check": "overview rendered QR decodes",
+      "passed": true
+    },
+    {
+      "check": "overview preview generated from final PDF",
+      "passed": true
+    },
+    {
+      "check": "overview full A4 preview",
+      "passed": true
+    },
+    {
+      "check": "overview all text inside safe page bounds",
+      "passed": true
+    },
+    {
+      "check": "overview actual PDF body font size",
+      "passed": true
+    },
+    {
+      "check": "overview current source snapshot",
+      "passed": true
+    },
+    {
+      "check": "overview manifest artifact hashes",
+      "passed": true
+    },
+    {
+      "check": "overview public pdf matches",
+      "passed": true
+    },
+    {
+      "check": "overview pdf download metadata matches",
+      "passed": true
+    },
+    {
+      "check": "overview public docx matches",
+      "passed": true
+    },
+    {
+      "check": "overview docx download metadata matches",
+      "passed": true
+    },
+    {
+      "check": "brand no standalone project section",
+      "passed": true
+    },
+    {
+      "check": "brand ordered professional structure",
+      "passed": true
+    },
+    {
+      "check": "brand three role-specific strengths",
+      "passed": true
+    },
+    {
+      "check": "brand explicit evidence for each strength",
+      "passed": true
+    },
+    {
+      "check": "brand role-specific summary",
+      "passed": true
+    },
+    {
+      "check": "brand complete professional tool groups",
+      "passed": true
+    },
+    {
+      "check": "brand targeted tool groups",
+      "passed": true
+    },
+    {
+      "check": "brand new confirmed tools present",
+      "passed": true
+    },
+    {
+      "check": "brand AIGC workflow and human review",
+      "passed": true
+    },
+    {
+      "check": "brand user-confirmed tool provenance",
+      "passed": true
+    },
+    {
+      "check": "brand requested Liling period",
+      "passed": true
+    },
+    {
+      "check": "brand independent AI practice boundary",
+      "passed": true
+    },
+    {
+      "check": "brand no invented tool proficiency",
+      "passed": true
+    },
+    {
+      "check": "brand one A4 page",
+      "passed": true
+    },
+    {
+      "check": "brand native Word PDF",
+      "passed": true
+    },
+    {
+      "check": "brand unchanged employment evidence",
+      "passed": true
+    },
+    {
+      "check": "brand preserved identity and contacts",
+      "passed": true
+    },
+    {
+      "check": "brand preserved employment and education dates",
+      "passed": true
+    },
+    {
+      "check": "brand no missing or replacement text",
+      "passed": true
+    },
+    {
+      "check": "brand editable body and semantic name",
+      "passed": true
+    },
+    {
+      "check": "brand no italic role subtitle",
+      "passed": true
+    },
+    {
+      "check": "brand actual normal body at least 10 pt",
+      "passed": true
+    },
+    {
+      "check": "brand photo and QR descriptions",
+      "passed": true
+    },
+    {
+      "check": "brand active portfolio link",
+      "passed": true
+    },
+    {
+      "check": "brand original portrait preserved",
+      "passed": true
+    },
+    {
+      "check": "brand DOCX QR decodes",
+      "passed": true
+    },
+    {
+      "check": "brand rendered QR decodes",
+      "passed": true
+    },
+    {
+      "check": "brand preview generated from final PDF",
+      "passed": true
+    },
+    {
+      "check": "brand full A4 preview",
+      "passed": true
+    },
+    {
+      "check": "brand all text inside safe page bounds",
+      "passed": true
+    },
+    {
+      "check": "brand actual PDF body font size",
+      "passed": true
+    },
+    {
+      "check": "brand current source snapshot",
+      "passed": true
+    },
+    {
+      "check": "brand manifest artifact hashes",
+      "passed": true
+    },
+    {
+      "check": "brand public pdf matches",
+      "passed": true
+    },
+    {
+      "check": "brand pdf download metadata matches",
+      "passed": true
+    },
+    {
+      "check": "brand public docx matches",
+      "passed": true
+    },
+    {
+      "check": "brand docx download metadata matches",
+      "passed": true
+    },
+    {
+      "check": "physical no standalone project section",
+      "passed": true
+    },
+    {
+      "check": "physical ordered professional structure",
+      "passed": true
+    },
+    {
+      "check": "physical three role-specific strengths",
+      "passed": true
+    },
+    {
+      "check": "physical explicit evidence for each strength",
+      "passed": true
+    },
+    {
+      "check": "physical role-specific summary",
+      "passed": true
+    },
+    {
+      "check": "physical complete professional tool groups",
+      "passed": true
+    },
+    {
+      "check": "physical targeted tool groups",
+      "passed": true
+    },
+    {
+      "check": "physical new confirmed tools present",
+      "passed": true
+    },
+    {
+      "check": "physical AIGC workflow and human review",
+      "passed": true
+    },
+    {
+      "check": "physical user-confirmed tool provenance",
+      "passed": true
+    },
+    {
+      "check": "physical requested Liling period",
+      "passed": true
+    },
+    {
+      "check": "physical independent AI practice boundary",
+      "passed": true
+    },
+    {
+      "check": "physical no invented tool proficiency",
+      "passed": true
+    },
+    {
+      "check": "physical one A4 page",
+      "passed": true
+    },
+    {
+      "check": "physical native Word PDF",
+      "passed": true
+    },
+    {
+      "check": "physical unchanged employment evidence",
+      "passed": true
+    },
+    {
+      "check": "physical preserved identity and contacts",
+      "passed": true
+    },
+    {
+      "check": "physical preserved employment and education dates",
+      "passed": true
+    },
+    {
+      "check": "physical no missing or replacement text",
+      "passed": true
+    },
+    {
+      "check": "physical editable body and semantic name",
+      "passed": true
+    },
+    {
+      "check": "physical no italic role subtitle",
+      "passed": true
+    },
+    {
+      "check": "physical actual normal body at least 10 pt",
+      "passed": true
+    },
+    {
+      "check": "physical photo and QR descriptions",
+      "passed": true
+    },
+    {
+      "check": "physical active portfolio link",
+      "passed": true
+    },
+    {
+      "check": "physical original portrait preserved",
+      "passed": true
+    },
+    {
+      "check": "physical DOCX QR decodes",
+      "passed": true
+    },
+    {
+      "check": "physical rendered QR decodes",
+      "passed": true
+    },
+    {
+      "check": "physical preview generated from final PDF",
+      "passed": true
+    },
+    {
+      "check": "physical full A4 preview",
+      "passed": true
+    },
+    {
+      "check": "physical all text inside safe page bounds",
+      "passed": true
+    },
+    {
+      "check": "physical actual PDF body font size",
+      "passed": true
+    },
+    {
+      "check": "physical current source snapshot",
+      "passed": true
+    },
+    {
+      "check": "physical manifest artifact hashes",
+      "passed": true
+    },
+    {
+      "check": "physical public pdf matches",
+      "passed": true
+    },
+    {
+      "check": "physical pdf download metadata matches",
+      "passed": true
+    },
+    {
+      "check": "physical public docx matches",
+      "passed": true
+    },
+    {
+      "check": "physical docx download metadata matches",
+      "passed": true
+    },
+    {
+      "check": "digital no standalone project section",
+      "passed": true
+    },
+    {
+      "check": "digital ordered professional structure",
+      "passed": true
+    },
+    {
+      "check": "digital three role-specific strengths",
+      "passed": true
+    },
+    {
+      "check": "digital explicit evidence for each strength",
+      "passed": true
+    },
+    {
+      "check": "digital role-specific summary",
+      "passed": true
+    },
+    {
+      "check": "digital complete professional tool groups",
+      "passed": true
+    },
+    {
+      "check": "digital targeted tool groups",
+      "passed": true
+    },
+    {
+      "check": "digital new confirmed tools present",
+      "passed": true
+    },
+    {
+      "check": "digital AIGC workflow and human review",
+      "passed": true
+    },
+    {
+      "check": "digital user-confirmed tool provenance",
+      "passed": true
+    },
+    {
+      "check": "digital requested Liling period",
+      "passed": true
+    },
+    {
+      "check": "digital independent AI practice boundary",
+      "passed": true
+    },
+    {
+      "check": "digital no invented tool proficiency",
+      "passed": true
+    },
+    {
+      "check": "digital one A4 page",
+      "passed": true
+    },
+    {
+      "check": "digital native Word PDF",
+      "passed": true
+    },
+    {
+      "check": "digital unchanged employment evidence",
+      "passed": true
+    },
+    {
+      "check": "digital preserved identity and contacts",
+      "passed": true
+    },
+    {
+      "check": "digital preserved employment and education dates",
+      "passed": true
+    },
+    {
+      "check": "digital no missing or replacement text",
+      "passed": true
+    },
+    {
+      "check": "digital editable body and semantic name",
+      "passed": true
+    },
+    {
+      "check": "digital no italic role subtitle",
+      "passed": true
+    },
+    {
+      "check": "digital actual normal body at least 10 pt",
+      "passed": true
+    },
+    {
+      "check": "digital photo and QR descriptions",
+      "passed": true
+    },
+    {
+      "check": "digital active portfolio link",
+      "passed": true
+    },
+    {
+      "check": "digital original portrait preserved",
+      "passed": true
+    },
+    {
+      "check": "digital DOCX QR decodes",
+      "passed": true
+    },
+    {
+      "check": "digital rendered QR decodes",
+      "passed": true
+    },
+    {
+      "check": "digital preview generated from final PDF",
+      "passed": true
+    },
+    {
+      "check": "digital full A4 preview",
+      "passed": true
+    },
+    {
+      "check": "digital all text inside safe page bounds",
+      "passed": true
+    },
+    {
+      "check": "digital actual PDF body font size",
+      "passed": true
+    },
+    {
+      "check": "digital current source snapshot",
+      "passed": true
+    },
+    {
+      "check": "digital manifest artifact hashes",
+      "passed": true
+    },
+    {
+      "check": "digital public pdf matches",
+      "passed": true
+    },
+    {
+      "check": "digital pdf download metadata matches",
+      "passed": true
+    },
+    {
+      "check": "digital public docx matches",
+      "passed": true
+    },
+    {
+      "check": "digital docx download metadata matches",
+      "passed": true
+    },
+    {
+      "check": "overview no standalone project section",
+      "passed": true
+    },
+    {
+      "check": "overview ordered professional structure",
+      "passed": true
+    },
+    {
+      "check": "overview three role-specific strengths",
+      "passed": true
+    },
+    {
+      "check": "overview explicit evidence for each strength",
+      "passed": true
+    },
+    {
+      "check": "overview role-specific summary",
+      "passed": true
+    },
+    {
+      "check": "overview complete professional tool groups",
+      "passed": true
+    },
+    {
+      "check": "overview targeted tool groups",
+      "passed": true
+    },
+    {
+      "check": "overview new confirmed tools present",
+      "passed": true
+    },
+    {
+      "check": "overview AIGC workflow and human review",
+      "passed": true
+    },
+    {
+      "check": "overview user-confirmed tool provenance",
+      "passed": true
+    },
+    {
+      "check": "overview requested Liling period",
+      "passed": true
+    },
+    {
+      "check": "overview independent AI practice boundary",
+      "passed": true
+    },
+    {
+      "check": "overview no invented tool proficiency",
+      "passed": true
+    },
+    {
+      "check": "overview one A4 page",
+      "passed": true
+    },
+    {
+      "check": "overview native Word PDF",
+      "passed": true
+    },
+    {
+      "check": "overview unchanged employment evidence",
+      "passed": true
+    },
+    {
+      "check": "overview preserved identity and contacts",
+      "passed": true
+    },
+    {
+      "check": "overview preserved employment and education dates",
+      "passed": true
+    },
+    {
+      "check": "overview no missing or replacement text",
+      "passed": true
+    },
+    {
+      "check": "overview editable body and semantic name",
+      "passed": true
+    },
+    {
+      "check": "overview no italic role subtitle",
+      "passed": true
+    },
+    {
+      "check": "overview actual normal body at least 10 pt",
+      "passed": true
+    },
+    {
+      "check": "overview photo and QR descriptions",
+      "passed": true
+    },
+    {
+      "check": "overview active portfolio link",
+      "passed": true
+    },
+    {
+      "check": "overview original portrait preserved",
+      "passed": true
+    },
+    {
+      "check": "overview DOCX QR decodes",
+      "passed": true
+    },
+    {
+      "check": "overview all text inside safe page bounds",
+      "passed": true
+    },
+    {
+      "check": "overview actual PDF body font size",
+      "passed": true
+    },
+    {
+      "check": "overview current source snapshot",
+      "passed": true
+    },
+    {
+      "check": "overview manifest artifact hashes",
+      "passed": true
+    },
+    {
+      "check": "overview public pdf matches",
+      "passed": true
+    },
+    {
+      "check": "overview pdf download metadata matches",
+      "passed": true
+    },
+    {
+      "check": "overview public docx matches",
+      "passed": true
+    },
+    {
+      "check": "overview docx download metadata matches",
+      "passed": true
+    },
+    {
+      "check": "brand no standalone project section",
+      "passed": true
+    },
+    {
+      "check": "brand ordered professional structure",
+      "passed": true
+    },
+    {
+      "check": "brand three role-specific strengths",
+      "passed": true
+    },
+    {
+      "check": "brand explicit evidence for each strength",
+      "passed": true
+    },
+    {
+      "check": "brand role-specific summary",
+      "passed": true
+    },
+    {
+      "check": "brand complete professional tool groups",
+      "passed": true
+    },
+    {
+      "check": "brand targeted tool groups",
+      "passed": true
+    },
+    {
+      "check": "brand new confirmed tools present",
+      "passed": true
+    },
+    {
+      "check": "brand AIGC workflow and human review",
+      "passed": true
+    },
+    {
+      "check": "brand user-confirmed tool provenance",
+      "passed": true
+    },
+    {
+      "check": "brand requested Liling period",
+      "passed": true
+    },
+    {
+      "check": "brand independent AI practice boundary",
+      "passed": true
+    },
+    {
+      "check": "brand no invented tool proficiency",
+      "passed": true
+    },
+    {
+      "check": "brand one A4 page",
+      "passed": true
+    },
+    {
+      "check": "brand native Word PDF",
+      "passed": true
+    },
+    {
+      "check": "brand unchanged employment evidence",
+      "passed": true
+    },
+    {
+      "check": "brand preserved identity and contacts",
+      "passed": true
+    },
+    {
+      "check": "brand preserved employment and education dates",
+      "passed": true
+    },
+    {
+      "check": "brand no missing or replacement text",
+      "passed": true
+    },
+    {
+      "check": "brand editable body and semantic name",
+      "passed": true
+    },
+    {
+      "check": "brand no italic role subtitle",
+      "passed": true
+    },
+    {
+      "check": "brand actual normal body at least 10 pt",
+      "passed": true
+    },
+    {
+      "check": "brand photo and QR descriptions",
+      "passed": true
+    },
+    {
+      "check": "brand active portfolio link",
+      "passed": true
+    },
+    {
+      "check": "brand original portrait preserved",
+      "passed": true
+    },
+    {
+      "check": "brand DOCX QR decodes",
+      "passed": true
+    },
+    {
+      "check": "brand all text inside safe page bounds",
+      "passed": true
+    },
+    {
+      "check": "brand actual PDF body font size",
+      "passed": true
+    },
+    {
+      "check": "brand current source snapshot",
+      "passed": true
+    },
+    {
+      "check": "brand manifest artifact hashes",
+      "passed": true
+    },
+    {
+      "check": "brand public pdf matches",
+      "passed": true
+    },
+    {
+      "check": "brand pdf download metadata matches",
+      "passed": true
+    },
+    {
+      "check": "brand public docx matches",
+      "passed": true
+    },
+    {
+      "check": "brand docx download metadata matches",
+      "passed": true
+    },
+    {
+      "check": "physical no standalone project section",
+      "passed": true
+    },
+    {
+      "check": "physical ordered professional structure",
+      "passed": true
+    },
+    {
+      "check": "physical three role-specific strengths",
+      "passed": true
+    },
+    {
+      "check": "physical explicit evidence for each strength",
+      "passed": true
+    },
+    {
+      "check": "physical role-specific summary",
+      "passed": true
+    },
+    {
+      "check": "physical complete professional tool groups",
+      "passed": true
+    },
+    {
+      "check": "physical targeted tool groups",
+      "passed": true
+    },
+    {
+      "check": "physical new confirmed tools present",
+      "passed": true
+    },
+    {
+      "check": "physical AIGC workflow and human review",
+      "passed": true
+    },
+    {
+      "check": "physical user-confirmed tool provenance",
+      "passed": true
+    },
+    {
+      "check": "physical requested Liling period",
+      "passed": true
+    },
+    {
+      "check": "physical independent AI practice boundary",
+      "passed": true
+    },
+    {
+      "check": "physical no invented tool proficiency",
+      "passed": true
+    },
+    {
+      "check": "physical one A4 page",
+      "passed": true
+    },
+    {
+      "check": "physical native Word PDF",
+      "passed": true
+    },
+    {
+      "check": "physical unchanged employment evidence",
+      "passed": true
+    },
+    {
+      "check": "physical preserved identity and contacts",
+      "passed": true
+    },
+    {
+      "check": "physical preserved employment and education dates",
+      "passed": true
+    },
+    {
+      "check": "physical no missing or replacement text",
+      "passed": true
+    },
+    {
+      "check": "physical editable body and semantic name",
+      "passed": true
+    },
+    {
+      "check": "physical no italic role subtitle",
+      "passed": true
+    },
+    {
+      "check": "physical actual normal body at least 10 pt",
+      "passed": true
+    },
+    {
+      "check": "physical photo and QR descriptions",
+      "passed": true
+    },
+    {
+      "check": "physical active portfolio link",
+      "passed": true
+    },
+    {
+      "check": "physical original portrait preserved",
+      "passed": true
+    },
+    {
+      "check": "physical DOCX QR decodes",
+      "passed": true
+    },
+    {
+      "check": "physical all text inside safe page bounds",
+      "passed": true
+    },
+    {
+      "check": "physical actual PDF body font size",
+      "passed": true
+    },
+    {
+      "check": "physical current source snapshot",
+      "passed": true
+    },
+    {
+      "check": "physical manifest artifact hashes",
+      "passed": true
+    },
+    {
+      "check": "physical public pdf matches",
+      "passed": true
+    },
+    {
+      "check": "physical pdf download metadata matches",
+      "passed": true
+    },
+    {
+      "check": "physical public docx matches",
+      "passed": true
+    },
+    {
+      "check": "physical docx download metadata matches",
+      "passed": true
+    },
+    {
+      "check": "digital no standalone project section",
+      "passed": true
+    },
+    {
+      "check": "digital ordered professional structure",
+      "passed": true
+    },
+    {
+      "check": "digital three role-specific strengths",
+      "passed": true
+    },
+    {
+      "check": "digital explicit evidence for each strength",
+      "passed": true
+    },
+    {
+      "check": "digital role-specific summary",
+      "passed": true
+    },
+    {
+      "check": "digital complete professional tool groups",
+      "passed": true
+    },
+    {
+      "check": "digital targeted tool groups",
+      "passed": true
+    },
+    {
+      "check": "digital new confirmed tools present",
+      "passed": true
+    },
+    {
+      "check": "digital AIGC workflow and human review",
+      "passed": true
+    },
+    {
+      "check": "digital user-confirmed tool provenance",
+      "passed": true
+    },
+    {
+      "check": "digital requested Liling period",
+      "passed": true
+    },
+    {
+      "check": "digital independent AI practice boundary",
+      "passed": true
+    },
+    {
+      "check": "digital no invented tool proficiency",
+      "passed": true
+    },
+    {
+      "check": "digital one A4 page",
+      "passed": true
+    },
+    {
+      "check": "digital native Word PDF",
+      "passed": true
+    },
+    {
+      "check": "digital unchanged employment evidence",
+      "passed": true
+    },
+    {
+      "check": "digital preserved identity and contacts",
+      "passed": true
+    },
+    {
+      "check": "digital preserved employment and education dates",
+      "passed": true
+    },
+    {
+      "check": "digital no missing or replacement text",
+      "passed": true
+    },
+    {
+      "check": "digital editable body and semantic name",
+      "passed": true
+    },
+    {
+      "check": "digital no italic role subtitle",
+      "passed": true
+    },
+    {
+      "check": "digital actual normal body at least 10 pt",
+      "passed": true
+    },
+    {
+      "check": "digital photo and QR descriptions",
+      "passed": true
+    },
+    {
+      "check": "digital active portfolio link",
+      "passed": true
+    },
+    {
+      "check": "digital original portrait preserved",
+      "passed": true
+    },
+    {
+      "check": "digital DOCX QR decodes",
+      "passed": true
+    },
+    {
+      "check": "digital all text inside safe page bounds",
+      "passed": true
+    },
+    {
+      "check": "digital actual PDF body font size",
+      "passed": true
+    },
+    {
+      "check": "digital current source snapshot",
+      "passed": true
+    },
+    {
+      "check": "digital manifest artifact hashes",
+      "passed": true
+    },
+    {
+      "check": "digital public pdf matches",
+      "passed": true
+    },
+    {
+      "check": "digital pdf download metadata matches",
+      "passed": true
+    },
+    {
+      "check": "digital public docx matches",
+      "passed": true
+    },
+    {
+      "check": "digital docx download metadata matches",
+      "passed": true
+    },
+    {
+      "check": "public download manifest matches source",
+      "passed": true
+    }
+  ],
+  "renderer": {
+    "actual": "Microsoft Word native fixed-format PDF export, then bundled Poppler 150 dpi",
+    "skillRenderer": "render_docx.py was attempted with runtime-only PATH and failed because this Windows bundle has no LibreOffice. No system LibreOffice was used.",
+    "log": "deliverables/resume/qa/v77/skill-render.log"
+  },
+  "visualReview": "Separate manual review of all four final page images is required."
+}

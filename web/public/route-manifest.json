@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T23:23:50.309Z",
+  "generatedAt": "2026-09-27T23:59:09.786Z",
   "origin": "https://aj-nb.github.io",
   "routes": [
     "/",
@@ -39,6 +39,7 @@
     "/en/work/aesthetic-atlas",
     "/en/work/ai-video-systems",
     "/en/work/arcteryx",
+    "/en/work/autumn-fashion-film",
     "/en/work/bat-quad",
     "/en/work/biyuan",
     "/en/work/character-consistency",
@@ -59,6 +60,7 @@
     "/en/work/lighting",
     "/en/work/lingmu",
     "/en/work/little-orange",
+    "/en/work/mini-dv-coffee",
     "/en/work/mountain-performance-field",
     "/en/work/periastra",
     "/en/work/periastra-brand-system",
@@ -105,6 +107,7 @@
     "/work/aesthetic-atlas",
     "/work/ai-video-systems",
     "/work/arcteryx",
+    "/work/autumn-fashion-film",
     "/work/bat-quad",
     "/work/biyuan",
     "/work/character-consistency",
@@ -125,6 +128,7 @@
     "/work/lighting",
     "/work/lingmu",
     "/work/little-orange",
+    "/work/mini-dv-coffee",
     "/work/mountain-performance-field",
     "/work/periastra",
     "/work/periastra-brand-system",
@@ -1908,6 +1912,55 @@
         ]
       }
     },
+    "/en/work/autumn-fashion-film": {
+      "title": "Hyperreal Autumn Fashion Film",
+      "description": "A 30-second 9:16 hyperreal autumn fashion film using a fixed 90° overhead frame and three fan-occluded wardrobe changes.",
+      "canonical": "https://aj-nb.github.io/en/work/autumn-fashion-film",
+      "image": "https://aj-nb.github.io/works/autumn-fashion-film/poster.webp",
+      "noindex": false,
+      "type": "CreativeWork",
+      "alternates": {
+        "zh-CN": "https://aj-nb.github.io/work/autumn-fashion-film",
+        "en": "https://aj-nb.github.io/en/work/autumn-fashion-film",
+        "x-default": "https://aj-nb.github.io/work/autumn-fashion-film"
+      },
+      "robots": "index,follow",
+      "ogImage": "https://aj-nb.github.io/works/autumn-fashion-film/poster.webp",
+      "lang": "en",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://aj-nb.github.io/#website",
+            "name": "Yingjie Sun Design OS",
+            "url": "https://aj-nb.github.io",
+            "inLanguage": "en"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://aj-nb.github.io/#person",
+            "name": "孙英杰 / Yingjie Sun",
+            "url": "https://aj-nb.github.io",
+            "jobTitle": "Industrial & Product Designer"
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "https://aj-nb.github.io/en/work/autumn-fashion-film#page",
+            "url": "https://aj-nb.github.io/en/work/autumn-fashion-film",
+            "name": "Hyperreal Autumn Fashion Film",
+            "description": "A 30-second 9:16 hyperreal autumn fashion film using a fixed 90° overhead frame and three fan-occluded wardrobe changes.",
+            "isPartOf": {
+              "@id": "https://aj-nb.github.io/#website"
+            },
+            "about": {
+              "@id": "https://aj-nb.github.io/#person"
+            },
+            "image": "https://aj-nb.github.io/works/autumn-fashion-film/poster.webp"
+          }
+        ]
+      }
+    },
     "/en/work/bat-quad": {
       "title": "Bat-Inspired Electric Quad",
       "description": "An electric-quad concept translating bat-inspired forms into bodywork, with sketches, orthographic views, component studies and color variants.",
@@ -2884,6 +2937,55 @@
               "@id": "https://aj-nb.github.io/#person"
             },
             "image": "https://aj-nb.github.io/works/documents/embedded-boards/x4.webp"
+          }
+        ]
+      }
+    },
+    "/en/work/mini-dv-coffee": {
+      "title": "Mini DV Morning Coffee Vlog",
+      "description": "A 30-second 4:3 Mini DV morning coffee record that keeps consumer-camera accident, close sound and correct action order.",
+      "canonical": "https://aj-nb.github.io/en/work/mini-dv-coffee",
+      "image": "https://aj-nb.github.io/works/mini-dv-coffee/character-reference.jpg",
+      "noindex": false,
+      "type": "CreativeWork",
+      "alternates": {
+        "zh-CN": "https://aj-nb.github.io/work/mini-dv-coffee",
+        "en": "https://aj-nb.github.io/en/work/mini-dv-coffee",
+        "x-default": "https://aj-nb.github.io/work/mini-dv-coffee"
+      },
+      "robots": "index,follow",
+      "ogImage": "https://aj-nb.github.io/works/mini-dv-coffee/character-reference.jpg",
+      "lang": "en",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://aj-nb.github.io/#website",
+            "name": "Yingjie Sun Design OS",
+            "url": "https://aj-nb.github.io",
+            "inLanguage": "en"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://aj-nb.github.io/#person",
+            "name": "孙英杰 / Yingjie Sun",
+            "url": "https://aj-nb.github.io",
+            "jobTitle": "Industrial & Product Designer"
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "https://aj-nb.github.io/en/work/mini-dv-coffee#page",
+            "url": "https://aj-nb.github.io/en/work/mini-dv-coffee",
+            "name": "Mini DV Morning Coffee Vlog",
+            "description": "A 30-second 4:3 Mini DV morning coffee record that keeps consumer-camera accident, close sound and correct action order.",
+            "isPartOf": {
+              "@id": "https://aj-nb.github.io/#website"
+            },
+            "about": {
+              "@id": "https://aj-nb.github.io/#person"
+            },
+            "image": "https://aj-nb.github.io/works/mini-dv-coffee/character-reference.jpg"
           }
         ]
       }
@@ -5121,6 +5223,55 @@
         ]
       }
     },
+    "/work/autumn-fashion-film": {
+      "title": "秋日单镜头时装片",
+      "description": "一支 30 秒 9:16 超写实秋日时装片，以固定 90° 顶视角和吊扇遮挡完成三次连续换装。",
+      "canonical": "https://aj-nb.github.io/work/autumn-fashion-film",
+      "image": "https://aj-nb.github.io/works/autumn-fashion-film/poster.webp",
+      "noindex": false,
+      "type": "CreativeWork",
+      "alternates": {
+        "zh-CN": "https://aj-nb.github.io/work/autumn-fashion-film",
+        "en": "https://aj-nb.github.io/en/work/autumn-fashion-film",
+        "x-default": "https://aj-nb.github.io/work/autumn-fashion-film"
+      },
+      "robots": "index,follow",
+      "ogImage": "https://aj-nb.github.io/works/autumn-fashion-film/poster.webp",
+      "lang": "zh-CN",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://aj-nb.github.io/#website",
+            "name": "Yingjie Sun Design OS",
+            "url": "https://aj-nb.github.io",
+            "inLanguage": "zh-CN"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://aj-nb.github.io/#person",
+            "name": "孙英杰 / Yingjie Sun",
+            "url": "https://aj-nb.github.io",
+            "jobTitle": "工业与产品设计师"
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "https://aj-nb.github.io/work/autumn-fashion-film#page",
+            "url": "https://aj-nb.github.io/work/autumn-fashion-film",
+            "name": "秋日单镜头时装片",
+            "description": "一支 30 秒 9:16 超写实秋日时装片，以固定 90° 顶视角和吊扇遮挡完成三次连续换装。",
+            "isPartOf": {
+              "@id": "https://aj-nb.github.io/#website"
+            },
+            "about": {
+              "@id": "https://aj-nb.github.io/#person"
+            },
+            "image": "https://aj-nb.github.io/works/autumn-fashion-film/poster.webp"
+          }
+        ]
+      }
+    },
     "/work/bat-quad": {
       "title": "蝠型四轮越野电动摩托车",
       "description": "借用蝙蝠的形态特征探索四轮越野车的车身造型，展板呈现草图、三视图、结构分解和配色方案。",
@@ -6097,6 +6248,55 @@
               "@id": "https://aj-nb.github.io/#person"
             },
             "image": "https://aj-nb.github.io/works/documents/embedded-boards/x4.webp"
+          }
+        ]
+      }
+    },
+    "/work/mini-dv-coffee": {
+      "title": "Mini DV 早晨咖啡 Vlog",
+      "description": "一支 30 秒 4:3 Mini DV 早晨咖啡记录，把家用摄像机的偶然性、声音近感和动作顺序保留下来。",
+      "canonical": "https://aj-nb.github.io/work/mini-dv-coffee",
+      "image": "https://aj-nb.github.io/works/mini-dv-coffee/character-reference.jpg",
+      "noindex": false,
+      "type": "CreativeWork",
+      "alternates": {
+        "zh-CN": "https://aj-nb.github.io/work/mini-dv-coffee",
+        "en": "https://aj-nb.github.io/en/work/mini-dv-coffee",
+        "x-default": "https://aj-nb.github.io/work/mini-dv-coffee"
+      },
+      "robots": "index,follow",
+      "ogImage": "https://aj-nb.github.io/works/mini-dv-coffee/character-reference.jpg",
+      "lang": "zh-CN",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://aj-nb.github.io/#website",
+            "name": "Yingjie Sun Design OS",
+            "url": "https://aj-nb.github.io",
+            "inLanguage": "zh-CN"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://aj-nb.github.io/#person",
+            "name": "孙英杰 / Yingjie Sun",
+            "url": "https://aj-nb.github.io",
+            "jobTitle": "工业与产品设计师"
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "https://aj-nb.github.io/work/mini-dv-coffee#page",
+            "url": "https://aj-nb.github.io/work/mini-dv-coffee",
+            "name": "Mini DV 早晨咖啡 Vlog",
+            "description": "一支 30 秒 4:3 Mini DV 早晨咖啡记录，把家用摄像机的偶然性、声音近感和动作顺序保留下来。",
+            "isPartOf": {
+              "@id": "https://aj-nb.github.io/#website"
+            },
+            "about": {
+              "@id": "https://aj-nb.github.io/#person"
+            },
+            "image": "https://aj-nb.github.io/works/mini-dv-coffee/character-reference.jpg"
           }
         ]
       }

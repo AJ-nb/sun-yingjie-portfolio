@@ -29,7 +29,9 @@
       "evidence": [
         "ink-realm",
         "character-consistency",
-        "portrait-lighting"
+        "portrait-lighting",
+        "mini-dv-coffee",
+        "autumn-fashion-film"
       ]
     }
   ],
@@ -63,11 +65,13 @@
       "body": "Codex, Image 2.5, Seedance 2.5, ComfyUI"
     }
   ],
-  "workflow": "Personal AI practice: a 30-second ink film, five character-sheet images and nine lighting images. Direction, prompt organisation and output review.",
+  "workflow": "Independent AI practice: character sheets, lighting studies and an ink film, a Mini DV coffee vlog and an autumn single-take fashion film connect visual constraints, prompts and human review with 3D and brand expression.",
   "workflowEvidence": [
     "ink-realm",
     "character-consistency",
-    "portrait-lighting"
+    "portrait-lighting",
+    "mini-dv-coffee",
+    "autumn-fashion-film"
   ],
   "confirmedInputs": {
     "source": "User request in this task on 2026-09-17",
@@ -75,7 +79,9 @@
       "Adobe Photoshop",
       "Adobe Illustrator",
       "Codex",
-      "ComfyUI"
+      "ComfyUI",
+      "Image 2.5",
+      "Seedance 2.5"
     ],
     "scope": "Application and workflow use. No proficiency level, certification, measured gain or compatibility guarantee is asserted."
   },

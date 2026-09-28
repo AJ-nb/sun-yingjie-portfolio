@@ -374,5 +374,39 @@
         "Soft and hard light: changes in nose and chin shadows"
       ]
     }
+  },
+  "mini-dv-coffee": {
+    "overview": {
+      "title": "Consumer camera and sound first",
+      "body": "4:3 Mini DV accident, correct action order and close sound form the coffee vlog method; the online case retains the complete film and prompt.",
+      "captions": [
+        "AREN SATO character reference",
+        "Extraction and focus search"
+      ]
+    },
+    "frames": {
+      "title": "Action order and a domestic close",
+      "body": "Grinding, tamping, locking, steaming, pouring and drinking stay connected by sound and hard cuts, keeping the rhythm of an ordinary morning.",
+      "captions": [
+        "The ending: a sip followed by a covered lens"
+      ]
+    }
+  },
+  "autumn-fashion-film": {
+    "overview": {
+      "title": "Locked overhead frame and autumn material",
+      "body": "A fixed 90° overhead camera, identity lock, autumn rug, walnut floor and fan shadow keep four looks in one spatial relationship.",
+      "captions": [
+        "Fixed overhead autumn fashion frame",
+        "The fan as a foreground occlusion layer"
+      ]
+    },
+    "frames": {
+      "title": "Full occlusion wardrobe change",
+      "body": "The fan covers the subject at about 07, 14 and 21 seconds; those are the only wardrobe windows, while face, body, light and shadow remain continuous.",
+      "captions": [
+        "Material and shadow continuity after the occlusion"
+      ]
+    }
   }
 }

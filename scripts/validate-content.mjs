@@ -2,6 +2,7 @@ import assert from 'node:assert/strict'
 import { readFile, readdir, stat } from 'node:fs/promises'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { countLevelTwoHeadings } from './count-markdown-headings.mjs'
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const directory = path.join(root, 'web/src/content/works'), pairs = new Map(), media = new Set()
 for (const file of await readdir(directory)) {
@@ -13,7 +14,7 @@ for (const file of await readdir(directory)) {
   for (const field of ['title','category','summary','role','credits','status','cover','tags']) assert(fields[field], `${file}: ${field} required`)
   assert(['commercial','product','brand','digital','experiments'].includes(fields.category), `${file}: category`)
   assert(Array.isArray(JSON.parse(fields.tags)), `${file}: tags must be JSON array`)
-  assert.ok([6,7].includes((raw.match(/^## /gm) || []).length), `${file}: expected six archive or seven editorial sections`)
+  assert.ok([6,7].includes(countLevelTwoHeadings(raw)), `${file}: expected six archive or seven editorial sections`)
   assert(!/Lorem ipsum|About Sen|郑越升|你的作品介绍|D:\\|C:\\|private\/sources/.test(raw), `${file}: private/template content`)
   const assets = [...new Set([...raw.matchAll(/\/(?:works|downloads)\/[^\s"'<>\)]+/g)].map(m => m[0]))].sort()
   for (const resource of assets) {
@@ -43,9 +44,9 @@ for (const [id, edition] of Object.entries(publication.editions)) {
   for (const item of edition.cases) assert(pairs.has(item.slug), id + ': missing case ' + item.slug)
 }
 assert.deepEqual(new Set(publication.editions.brand.cases.map(item => item.slug)), new Set(['hermes','arcteryx','periastra','yelisi']))
-const homepage = ['hermes','arcteryx','karimoku','lighting','yelisi','periastra','biyuan','ai-video-systems','ink-realm','character-consistency','portrait-lighting']
+const homepage = ['hermes','arcteryx','karimoku','lighting','yelisi','periastra','biyuan','ai-video-systems','ink-realm','character-consistency','portrait-lighting','mini-dv-coffee','autumn-fashion-film']
 assert.deepEqual(publication.homepageSelection, homepage)
 assert.deepEqual(publication.selected.map(item => item.slug), homepage)
 assert.deepEqual(publication.editions.overview.cases.map(item => item.slug), homepage)
-assert.equal(pairs.size, 35)
+assert.equal(pairs.size, 37)
 console.log(`PASS: ${pairs.size} bilingual public cases, ${media.size} media references; v9 bilingual editions with explicit page budgets; uncleared cases withheld.`)

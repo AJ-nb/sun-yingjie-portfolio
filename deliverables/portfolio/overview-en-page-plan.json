@@ -1,7 +1,7 @@
 {
   "variant": "overview",
   "lang": "en",
-  "pageCount": 39,
+  "pageCount": 45,
   "casePages": {
     "hermes": 4,
     "arcteryx": 9,
@@ -13,7 +13,9 @@
     "ai-video-systems": 30,
     "ink-realm": 33,
     "character-consistency": 35,
-    "portrait-lighting": 37
+    "portrait-lighting": 37,
+    "mini-dv-coffee": 39,
+    "autumn-fashion-film": 42
   },
   "plan": [
     {
@@ -386,6 +388,68 @@
             {
               "src": "/works/portrait-lighting/02.jpg",
               "caption": "Soft and hard light: changes in nose and chin shadows"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "mini-dv-coffee",
+      "pages": [
+        {
+          "id": "overview",
+          "title": "Consumer camera and sound first",
+          "body": "4:3 Mini DV accident, correct action order and close sound form the coffee vlog method; the online case retains the complete film and prompt.",
+          "images": [
+            {
+              "src": "/works/mini-dv-coffee/character-reference.jpg",
+              "caption": "AREN SATO character reference"
+            },
+            {
+              "src": "/works/mini-dv-coffee/frame-01.webp",
+              "caption": "Extraction and focus search"
+            }
+          ]
+        },
+        {
+          "id": "frames",
+          "title": "Action order and a domestic close",
+          "body": "Grinding, tamping, locking, steaming, pouring and drinking stay connected by sound and hard cuts, keeping the rhythm of an ordinary morning.",
+          "images": [
+            {
+              "src": "/works/mini-dv-coffee/frame-02.webp",
+              "caption": "The ending: a sip followed by a covered lens"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "autumn-fashion-film",
+      "pages": [
+        {
+          "id": "overview",
+          "title": "Locked overhead frame and autumn material",
+          "body": "A fixed 90° overhead camera, identity lock, autumn rug, walnut floor and fan shadow keep four looks in one spatial relationship.",
+          "images": [
+            {
+              "src": "/works/autumn-fashion-film/poster.webp",
+              "caption": "Fixed overhead autumn fashion frame"
+            },
+            {
+              "src": "/works/autumn-fashion-film/frame-01.webp",
+              "caption": "The fan as a foreground occlusion layer"
+            }
+          ]
+        },
+        {
+          "id": "frames",
+          "title": "Full occlusion wardrobe change",
+          "body": "The fan covers the subject at about 07, 14 and 21 seconds; those are the only wardrobe windows, while face, body, light and shadow remain continuous.",
+          "images": [
+            {
+              "src": "/works/autumn-fashion-film/frame-02.webp",
+              "caption": "Material and shadow continuity after the occlusion"
             }
           ]
         }

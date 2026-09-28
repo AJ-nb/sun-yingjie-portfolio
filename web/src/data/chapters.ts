@@ -14,7 +14,7 @@ const sequence: Record<ChapterId, string[]> = {
   windows: ['hermes', 'arcteryx'], lighting: ['lighting'],
   products: ['plumber', 'huhu-care', 'lingmu', 'jimu-studio', 'plant-companion', 'go-glow', 'baobab-glow', 'cloudwing', 'bat-quad', 'little-orange', 'water-guardian', 'ecological-harvest', 'purewater-rolling-filter', 'polar-wing', 'construction-recycler', 'water-walking-bath'],
   rendering: ['rendering-studies'], brands: ['karimoku', 'biyuan', 'yelisi', 'periastra'],
-  ai: ['ai-video-systems', 'lensflow', 'yantai', 'xintiao', 'formline', 'resume-formatter', 'visual-archive', 'aesthetic-atlas', 'image-2-5-xhs', 'xhs-methods', 'yuju', 'ink-realm', 'character-consistency', 'portrait-lighting'],
+  ai: ['ai-video-systems', 'lensflow', 'yantai', 'xintiao', 'formline', 'resume-formatter', 'visual-archive', 'aesthetic-atlas', 'image-2-5-xhs', 'xhs-methods', 'yuju', 'ink-realm', 'character-consistency', 'portrait-lighting', 'mini-dv-coffee', 'autumn-fashion-film'],
 }
 // Dates describe supported production periods, never inferred from filesystem mtime.
 const dates: Record<string, Pick<EditorialMetadata, 'startDate' | 'endDate' | 'datePrecision'>> = {
@@ -24,6 +24,7 @@ const dates: Record<string, Pick<EditorialMetadata, 'startDate' | 'endDate' | 'd
   lensflow: { startDate: '2026-08', datePrecision: 'month' }, yantai: { startDate: '2026-08', datePrecision: 'month' },
   formline: { startDate: '2026-08', datePrecision: 'month' }, 'resume-formatter': { startDate: '2026-08', datePrecision: 'month' },
   xintiao: { startDate: '2026-09', datePrecision: 'month' }, 'image-2-5-xhs': { startDate: '2026-09', datePrecision: 'month' },
+  'mini-dv-coffee': { startDate: '2026-09', datePrecision: 'month' }, 'autumn-fashion-film': { startDate: '2026-09', datePrecision: 'month' },
 }
 export function editorialMetadata(slug: string, category: string): EditorialMetadata {
   const chapter = (Object.keys(sequence) as ChapterId[]).find(id => sequence[id].includes(slug)) ?? (category === 'product' ? 'products' : category === 'brand' ? 'brands' : 'ai')

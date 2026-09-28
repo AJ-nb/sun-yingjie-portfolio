@@ -20,6 +20,8 @@ const shortNames: Record<string, { zh: string; en: string }> = {
   lighting: { zh: '铝型材灯具系统', en: 'Aluminum Lighting' },
   yelisi: { zh: '夜礼司', en: 'YELISI' }, periastra: { zh: 'Periastra', en: 'Periastra' },
   biyuan: { zh: '彼源 AI', en: 'Biyuan AI' }, 'ai-video-systems': { zh: 'AI 视频系统', en: 'AI Video Systems' },
+  'mini-dv-coffee': { zh: 'Mini DV · 早晨咖啡', en: 'Mini DV · Morning Coffee' },
+  'autumn-fashion-film': { zh: '秋日 · 单镜头时装片', en: 'Autumn · Continuous-take fashion' },
 }
 const stages: Record<string, { zh: string; en: string }> = {
   'ink-realm': { zh: '个人 AI 影像', en: 'Personal AI film' },
@@ -29,6 +31,8 @@ const stages: Record<string, { zh: string; en: string }> = {
   karimoku: { zh: '设计研究', en: 'Design study' }, lighting: { zh: '系列设计与三维呈现', en: 'Series design & 3D' },
   yelisi: { zh: '品牌与产品概念', en: 'Brand & product concept' }, periastra: { zh: '品牌系统研究', en: 'Brand system study' },
   biyuan: { zh: '数字产品与界面', en: 'Digital product & interface' }, 'ai-video-systems': { zh: '独立应用研究', en: 'Independent applied research' },
+  'mini-dv-coffee': { zh: 'AIGC 影像实验', en: 'AIGC film experiment' },
+  'autumn-fashion-film': { zh: 'AIGC 时装影像', en: 'AIGC fashion film' },
 }
 function ImageStrip({ lang }: { lang: Lang }) {
   const ref = useRef<HTMLElement>(null), reduced = useReducedMotion()
@@ -75,18 +79,18 @@ export function HomeDesignOS({ lang }: { lang: Lang }) {
     ['3D 与 CMF','用模型、材料和光线比较尺度与触感，让设计选择可见。','/work/yelisi','夜礼司 · 产品概念'],
     ['品牌与视觉','从定位到识别与信息层级，在不同触点保留清晰的品牌关系。','/work/periastra','Periastra · 品牌系统'],
     ['空间与叙事','组织物件、观看路径与季节线索，让空间成为可阅读的叙事。','/work/hermes','Hermès · 季节橱窗'],
-    ['AI 与创作系统','把参考、分镜、三维控制和评估整理为可审阅的创作方法。','/systems/ai-video-methods','AI 视频研究方法库'],
+    ['AI 与创作系统','把角色参考、分镜、镜头控制、声音与人工审阅整理为可复用的 AIGC 影像方法。','/systems/ai-video-methods','AI 视频研究方法库'],
   ] : [
     ['Industrial & product','Form, components and structure developed around how a product is used.','/work/lighting','Aluminum lighting system'],
     ['3D & CMF','Models, materials and light make scale, touch and design decisions visible.','/work/yelisi','YELISI · product concepts'],
     ['Brand & visual','Positioning, identity and information hierarchy connect a brand across touchpoints.','/work/periastra','Periastra · brand system'],
     ['Space & narrative','Objects, viewing paths and seasonal cues make a spatial story readable.','/work/hermes','Hermès · seasonal windows'],
-    ['AI & creative systems','References, storyboards, 3D control and evaluation become a reviewable creative process.','/systems/ai-video-methods','AI video methods'],
+    ['AI & creative systems','Character references, storyboards, camera control, sound and human review become a reusable AIGC film method.','/systems/ai-video-methods','AI video methods'],
   ]
   return <div className="home-os-shell" lang={lang === 'zh' ? 'zh-CN' : 'en'}>
     <DesignOSSeo route={null} lang={lang}/><a className="site-skip" href="#home-main">{lang === 'zh' ? '跳到主要内容' : 'Skip to main content'}</a><SiteHeader lang={lang}/>
     <main id="home-main">
-      <section ref={hero} className="home-hero" id="top" aria-labelledby="home-name"><h1 id="home-name">YINGJIE SUN</h1><TurningFigure hero={hero} lang={lang}/><div className="home-hero-bottom"><div className="home-hero-intro"><p className="home-role">{profile.position}</p><p>{lang === 'zh' ? '从形态到系统。连接产品、3D、CMF 与品牌，让设计在真实语境中成立。' : 'From form to system. Connecting products, 3D, CMF and brand through design that responds to its context.'}</p><a className="hero-work-link" href="#selected">{lang === 'zh' ? '查看精选作品' : 'View selected work'}<ArrowDown size={17}/></a></div><div className="home-hero-contact"><a className="contact-pill" href={'mailto:' + profile.contact.email}>{lang === 'zh' ? '联系我' : 'Contact me'}<ArrowUpRight size={19}/></a><a href={'mailto:' + profile.contact.email}>{profile.contact.email}</a></div></div></section>
+      <section ref={hero} className="home-hero" id="top" aria-labelledby="home-name"><h1 id="home-name">YINGJIE SUN</h1><TurningFigure hero={hero} lang={lang}/><div className="home-hero-bottom"><div className="home-hero-intro"><p className="home-role">{profile.position}</p><p>{lang === 'zh' ? '从产品、3D、CMF 与品牌，到角色参考、镜头脚本与 AIGC 影像，让设计在真实语境中成立。' : 'From products, 3D, CMF and brand to character references, camera scripts and AIGC films that respond to context.'}</p><a className="hero-work-link" href="#selected">{lang === 'zh' ? '查看精选作品' : 'View selected work'}<ArrowDown size={17}/></a></div><div className="home-hero-contact"><a className="contact-pill" href={'mailto:' + profile.contact.email}>{lang === 'zh' ? '联系我' : 'Contact me'}<ArrowUpRight size={19}/></a><a href={'mailto:' + profile.contact.email}>{profile.contact.email}</a></div></div></section>
       <ImageStrip lang={lang}/>
       <section className="home-about" id="about"><div className="home-about-objects" aria-hidden="true">{['/media/v6/product-lighting-cutout.png','/media/v6/product-huhu-cutout.png','/media/v6/product-plumber-cutout.png','/media/v6/product-lighting-cutout.png'].map((src,i)=><Reveal key={i} className={`home-object home-object-${i}`} delay={[.1,.25,.15,.3][i]}><img src={asset(src)} alt="" loading="lazy"/></Reveal>)}</div><p className="home-about-line">FORM → SYSTEM → INTELLIGENCE</p><h2>{lang === 'zh' ? '让形态有依据，\n让系统有温度。' : 'Thoughtful form.\nCoherent systems.'}</h2><ScrollParagraph>{lang === 'zh' ? '我是孙英杰，一名工业与产品设计师。我从使用情境与材料出发，在产品、视觉与空间之间建立关系；再把有价值的研究与 AI 方法纳入流程，让设计更容易比较、完善与传达。' : 'I’m Yingjie Sun, an industrial and product designer. I start with how things are used and what they are made of, connecting products, visual identity and space. Research and AI enter the process where they make ideas easier to compare, refine and communicate.'}</ScrollParagraph><a className="text-link" href={localePath('/about', lang)}>{lang === 'zh' ? '了解我的工作方式' : 'How I approach design'}<ArrowUpRight size={16}/></a></section>
       <section className="home-capabilities" id="capabilities"><div className="home-capabilities-heading"><h2>{lang === 'zh' ? '从一个物件，\n到一套系统。' : 'From an object\nto a system.'}</h2><p>{lang === 'zh' ? '五种能力，连接设计的不同尺度。' : 'Five capabilities, connected across scales.'}</p></div><div className="home-capability-grid">{capabilities.map(([title, body, path, note],i) => <Reveal key={title} delay={i*.1}><article><h3>{title}</h3><p>{body}</p><small>{note}</small><a href={localePath(path, lang)}>{lang === 'zh' ? '查看相关作品' : 'See the work'}<ArrowUpRight size={17}/></a></article></Reveal>)}</div></section>

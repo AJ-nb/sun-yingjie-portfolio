@@ -631,6 +631,62 @@
           }
         ]
       }
+    ],
+    "mini-dv-coffee": [
+      {
+        "id": "overview",
+        "title": "家用镜头与声音先行",
+        "body": "4:3 Mini DV 的手持偶然性、动作顺序与近距离声音共同构成咖啡 vlog 的方法；网页案例保留完整成片与提示词。",
+        "images": [
+          {
+            "src": "/works/mini-dv-coffee/character-reference.jpg",
+            "caption": "AREN SATO 角色参考图"
+          },
+          {
+            "src": "/works/mini-dv-coffee/frame-01.webp",
+            "caption": "萃取与焦点寻找"
+          }
+        ]
+      },
+      {
+        "id": "frames",
+        "title": "动作顺序与生活化收束",
+        "body": "从研磨、压粉、锁定到蒸奶、倒奶和饮用，声音连续性与 hard cut 维持普通早晨的节奏。",
+        "images": [
+          {
+            "src": "/works/mini-dv-coffee/frame-02.webp",
+            "caption": "喝咖啡后遮住镜头的结尾"
+          }
+        ]
+      }
+    ],
+    "autumn-fashion-film": [
+      {
+        "id": "overview",
+        "title": "固定顶视角与秋日材质",
+        "body": "锁定 90° 顶视角、人物身份、秋色地毯、胡桃木地板和吊扇阴影，让四套造型处于同一空间关系。",
+        "images": [
+          {
+            "src": "/works/autumn-fashion-film/poster.webp",
+            "caption": "秋日时装片固定顶视角"
+          },
+          {
+            "src": "/works/autumn-fashion-film/frame-01.webp",
+            "caption": "吊扇作为前景遮挡层"
+          }
+        ]
+      },
+      {
+        "id": "frames",
+        "title": "完整遮挡换装",
+        "body": "约 07、14、21 秒的三次扇叶遮挡是唯一换装窗口；脸部、身体位置、光线和阴影关系保持连续。",
+        "images": [
+          {
+            "src": "/works/autumn-fashion-film/frame-02.webp",
+            "caption": "遮挡换装后的材质与阴影连续性"
+          }
+        ]
+      }
     ]
   },
   "archiveImages": {

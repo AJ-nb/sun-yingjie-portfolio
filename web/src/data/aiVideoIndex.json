@@ -11634,5 +11634,53 @@
       "videoReviewed": false,
       "personallyRetested": false
     }
-  ]
+  ],
+  "caseApplications": {
+    "mini-dv-coffee": [
+      {
+        "methodId": "handheld-ugc",
+        "focus": {
+          "zh": "手持 UGC、复古 found footage、日常动作与声音近感",
+          "en": "Handheld UGC, retro found footage, everyday action and close sound"
+        }
+      },
+      {
+        "methodId": "physical-action",
+        "focus": {
+          "zh": "咖啡器具接触、动作顺序与声音剪辑点",
+          "en": "Coffee-tool contact, action order and sound edit points"
+        }
+      }
+    ],
+    "autumn-fashion-film": [
+      {
+        "methodId": "fixed-overhead",
+        "focus": {
+          "zh": "continuous take 与固定 90° 顶视角",
+          "en": "Continuous take and fixed 90° overhead camera"
+        }
+      },
+      {
+        "methodId": "character-lock",
+        "focus": {
+          "zh": "character reference lock 与身份连续性",
+          "en": "Character reference lock and identity continuity"
+        }
+      },
+      {
+        "methodId": "occlusion-wardrobe",
+        "focus": {
+          "zh": "遮挡换装与完整前景覆盖",
+          "en": "Occlusion wardrobe transition and full foreground cover"
+        }
+      },
+      {
+        "methodId": "material-shadow-continuity",
+        "focus": {
+          "zh": "材质、接触阴影与扇叶移动阴影",
+          "en": "Material, contact shadow and moving blade shadow continuity"
+        }
+      }
+    ]
+  }
 }

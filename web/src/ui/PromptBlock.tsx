@@ -2,6 +2,9 @@ import { useRef, useState, type ReactNode } from 'react'
 import type { Lang } from '../data/workDocs'
 import './prompt-block.css'
 
+/** Cases whose markdown prompt block is part of the public, copyable record. */
+export const COPY_PROMPT_CASES = ['ink-realm', 'character-consistency', 'portrait-lighting', 'mini-dv-coffee', 'autumn-fashion-film'] as const
+
 export function PromptBlock({ children, lang }: { children: ReactNode; lang: Lang }) {
   const content = useRef<HTMLPreElement>(null)
   const [status, setStatus] = useState<'idle' | 'copied' | 'select'>('idle')

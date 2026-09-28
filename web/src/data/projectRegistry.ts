@@ -105,6 +105,8 @@ const classification: Record<string, RegistryClassification> = {
   'ink-realm': { category: 'ai', track: 'digital', maturity: 'experiment' },
   'character-consistency': { category: 'research', track: 'digital', maturity: 'research' },
   'portrait-lighting': { category: 'research', track: 'digital', maturity: 'research' },
+  'mini-dv-coffee': { category: 'ai', track: 'digital', maturity: 'experiment' },
+  'autumn-fashion-film': { category: 'ai', track: 'digital', maturity: 'experiment' },
   hermes: { category: 'brand', track: 'spatial', maturity: 'commercial-work' },
   arcteryx: { category: 'brand', track: 'spatial', maturity: 'commercial-work' },
   karimoku: { category: 'brand', track: 'spatial', maturity: 'research' },

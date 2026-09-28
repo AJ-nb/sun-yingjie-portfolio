@@ -81,7 +81,7 @@ const editorial = {
       "以引渡者、HUHU CARE、GO GLOW 等合作概念，连接角色旅程、形态、模型与界面。"
     ],
     "practiceDetails": [
-      "独立 AI 视频研究：整理六层控制方法与八项参考分析，连接分镜、Blender 白模与渲染审阅。AI 辅助生成，人负责输入组织、比较与判断。",
+      "独立 AI 影像与视频研究：使用 Image 2.5 生成角色参考图、Seedance 2.5 生成视频，连接 Mini DV 声音叙事、固定顶视角遮挡换装、分镜与人工输出审阅。AI 辅助生成，人负责输入组织、比较与判断。",
       "以 Resume Formatter 的母版与岗位版本、差异审阅和撤销，实践可控的内容改写；它是 MIT 上游 fork，不主张从零原创。"
     ],
     "capabilities": [
@@ -167,19 +167,23 @@ const editorial = {
       {
         "id": "ai-workflows",
         "title": "AIGC 与开源工作流",
-        "body": "以 ChatGPT 组织参考分析与简报，用 Midjourney、ComfyUI 进行图像方向探索、提示词与节点工作流编排，并结合 Photoshop 修整输出。通过 Codex 辅助原型与界面实现；独立 AI 视频研究将故事、分镜、Blender 白模、提示词与渲染评估组织为可复核流程。",
+        "body": "以 ChatGPT 组织参考分析与简报，用 Image 2.5、Midjourney、ComfyUI 进行图像方向探索，用 Seedance 2.5 进行视频生成，并结合 Photoshop 修整输出。通过 Codex 辅助原型、提示词组织与界面实现；独立 AI 影像研究将故事、镜头、声音、遮挡换装与人工输出评估组织为可复核流程。",
         "tools": [
           "Codex",
           "ComfyUI",
           "ChatGPT",
           "Midjourney",
+          "Image 2.5",
+          "Seedance 2.5",
           "提示词与工作流复用"
         ],
         "caseSlugs": [
           "lensflow",
           "yantai",
           "resume-formatter",
-          "ai-video-systems"
+          "ai-video-systems",
+          "mini-dv-coffee",
+          "autumn-fashion-film"
         ]
       },
       {
@@ -288,7 +292,7 @@ const editorial = {
       "Collaborative concepts including Plumber, HUHU CARE and GO GLOW connect role journeys, form, models and interfaces."
     ],
     "practiceDetails": [
-      "Independent AI-video research: six control layers and eight reference analyses linked to storyboard, Blender blocking and render review. Human-led judgment; the practice focuses on workflow method and application.",
+      "Independent AI image and video practice: Image 2.5 character references and Seedance 2.5 films connect Mini DV sound-led narrative, fixed overhead occlusion wardrobe changes, storyboard and human output review. Human-led judgment; the practice focuses on workflow method and application.",
       "Resume Formatter explores master and job-specific versions, diff review and undo in a controlled editing flow; it is an MIT upstream fork rather than a from-scratch original."
     ],
     "capabilities": [
@@ -374,19 +378,23 @@ const editorial = {
       {
         "id": "ai-workflows",
         "title": "AIGC & open-source workflows",
-        "body": "Use ChatGPT for reference analysis and briefs, Midjourney and ComfyUI for visual exploration, prompts and node workflows, and Photoshop for output refinement. Use Codex to support prototypes and interface implementation; an independent AI-video study organizes story, storyboard, Blender blocking, prompts and render evaluation into a reviewable workflow.",
+        "body": "Use ChatGPT for reference analysis and briefs, Image 2.5, Midjourney and ComfyUI for visual exploration, Seedance 2.5 for video generation, and Photoshop for output refinement. Use Codex to support prototypes, prompt organisation and interface implementation; independent AI-image and video work organizes story, camera, sound, occlusion wardrobe changes and human output review into a reviewable workflow.",
         "tools": [
           "Codex",
           "ComfyUI",
           "ChatGPT",
           "Midjourney",
+          "Image 2.5",
+          "Seedance 2.5",
           "Reusable prompts & workflows"
         ],
         "caseSlugs": [
           "lensflow",
           "yantai",
           "resume-formatter",
-          "ai-video-systems"
+          "ai-video-systems",
+          "mini-dv-coffee",
+          "autumn-fashion-film"
         ]
       },
       {
@@ -516,7 +524,7 @@ function makeProfile(lang: Lang): ProfileCopy {
       timelineEntry('ouyin', lang, details.ouyin, []),
     ],
     education: timelineEntry('education', lang, copy.educationDetails, ['plumber', 'huhu-care', 'go-glow']),
-    practice: timelineEntry('ai', lang, copy.practiceDetails, ['ai-video-systems', 'resume-formatter', 'lensflow', 'formline', 'xintiao', 'ink-realm', 'character-consistency', 'portrait-lighting']),
+    practice: timelineEntry('ai', lang, copy.practiceDetails, ['ai-video-systems', 'resume-formatter', 'lensflow', 'formline', 'xintiao', 'ink-realm', 'character-consistency', 'portrait-lighting', 'mini-dv-coffee', 'autumn-fashion-film']),
     capabilities: [copy.capabilities.find(item => item.id === 'product-system') ?? copy.capabilities[1], copy.capabilities[0], copy.capabilities.find(item => item.id.includes('ai')) ?? copy.capabilities[copy.capabilities.length - 1]],
     methods: copy.methods,
     principles: copy.principles,

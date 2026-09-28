@@ -1,6 +1,6 @@
 {
   "edition": "v9",
-  "updatedAt": "2026-09-27T22:46:26.616437+00:00",
+  "updatedAt": "2026-09-28T00:38:21.279807+00:00",
   "items": [
     {
       "id": "resume-overview-zh-pdf",
@@ -15,8 +15,8 @@
       "path": "/downloads/sun-yingjie-resume.pdf",
       "preview": "/media/v9/downloads/sun-yingjie-resume.webp",
       "pages": 1,
-      "bytes": 277376,
-      "sha256": "1708516fa985ac7f34a1f3586ff99e3a9ad38e99fcbdfbb53a6f42a5bf3a395c"
+      "bytes": 281586,
+      "sha256": "6c0faf4eee00a7368083ba39f7f7d13e1ed673ae24042ec024e8fb8e11456da0"
     },
     {
       "id": "resume-overview-zh-docx",
@@ -31,8 +31,8 @@
       "path": "/downloads/sun-yingjie-resume.docx",
       "preview": "/media/v9/downloads/sun-yingjie-resume.webp",
       "pages": 1,
-      "bytes": 2472184,
-      "sha256": "961f8b65a991109db9346815434f6d9524f36b252613fe0d495487992f1ba3f3"
+      "bytes": 2472247,
+      "sha256": "b052c1e3222162a4ddd907f1bc35ece243eeb1352be942490b25040480419d23"
     },
     {
       "id": "portfolio-overview-zh-pdf",
@@ -46,9 +46,9 @@
       },
       "path": "/downloads/sun-yingjie-selected-portfolio.pdf",
       "preview": "/media/v9/downloads/sun-yingjie-selected-portfolio.webp",
-      "pages": 39,
-      "bytes": 15101418,
-      "sha256": "cf31a11529a5263b17b41a7175d9ab9e5033984c841f081ec10ff92354a2fedb"
+      "pages": 45,
+      "bytes": 16440438,
+      "sha256": "4c676f7967a01048845483e4c8f433494ace8398c4991e8e627461bbf1d8181a"
     },
     {
       "id": "resume-brand-zh-pdf",
@@ -63,8 +63,8 @@
       "path": "/downloads/sun-yingjie-resume-brand.pdf",
       "preview": "/media/v9/downloads/sun-yingjie-resume-brand.webp",
       "pages": 1,
-      "bytes": 290602,
-      "sha256": "39b266fb1ba2b0ff2af72680fdac4c132cbc3c6751cdfd0252df8e91aa716dba"
+      "bytes": 294910,
+      "sha256": "a348ea60b9b24b81dd5a400de61002b97ab5b281a275a16bb9bf74453da01f48"
     },
     {
       "id": "resume-brand-zh-docx",
@@ -79,8 +79,8 @@
       "path": "/downloads/sun-yingjie-resume-brand.docx",
       "preview": "/media/v9/downloads/sun-yingjie-resume-brand.webp",
       "pages": 1,
-      "bytes": 2472273,
-      "sha256": "2bd97fb19b7c3c7a75f2436a46bdb9aa1a902eeca98bfc1a9bfe5a0508b10db2"
+      "bytes": 2472331,
+      "sha256": "d6afd93ccf445d857108b4f80bbc6ed8d91de02ab098eff6bcb4308cb16f1b4c"
     },
     {
       "id": "portfolio-brand-zh-pdf",
@@ -96,7 +96,7 @@
       "preview": "/media/v9/downloads/sun-yingjie-portfolio-brand.webp",
       "pages": 19,
       "bytes": 7663348,
-      "sha256": "6d2954076716b13ec7606b61df96f90dd1f0a3580985c12c3965c2c6d1836576"
+      "sha256": "8c96d882dadf190d45037bda133c7d7467f0c6d46531396be378a72a6452342f"
     },
     {
       "id": "resume-physical-zh-pdf",
@@ -111,8 +111,8 @@
       "path": "/downloads/sun-yingjie-resume-physical.pdf",
       "preview": "/media/v9/downloads/sun-yingjie-resume-physical.webp",
       "pages": 1,
-      "bytes": 283423,
-      "sha256": "7de48879c5bc26bd13826fc294287185423213db92d79dfc23ecdcb6ea45b8ee"
+      "bytes": 287940,
+      "sha256": "e3d7ae13d46588ff78dec7cf0ad467caf74a485177a645b43b25200271bf762d"
     },
     {
       "id": "resume-physical-zh-docx",
@@ -127,8 +127,8 @@
       "path": "/downloads/sun-yingjie-resume-physical.docx",
       "preview": "/media/v9/downloads/sun-yingjie-resume-physical.webp",
       "pages": 1,
-      "bytes": 2472274,
-      "sha256": "8b88c20f38ffe7565f6498179ba09b5126cd4bb5882b7fc704e838607d2bf308"
+      "bytes": 2472333,
+      "sha256": "3ef30a365e3e9b5cb966416eadc9d2ade2db4f4e6f1021ab1e6323b504ea583e"
     },
     {
       "id": "portfolio-physical-zh-pdf",
@@ -144,7 +144,7 @@
       "preview": "/media/v9/downloads/sun-yingjie-portfolio-physical.webp",
       "pages": 20,
       "bytes": 7681608,
-      "sha256": "c11d7a183817800561531432577203675a2f7ab686fcc31d07451ae5c04a45f5"
+      "sha256": "ac275ed2f2dc724eef5c9f89db079dff915a3aed7f94c617e0f37cbf1303fd3a"
     },
     {
       "id": "resume-digital-zh-pdf",
@@ -159,8 +159,8 @@
       "path": "/downloads/sun-yingjie-resume-digital.pdf",
       "preview": "/media/v9/downloads/sun-yingjie-resume-digital.webp",
       "pages": 1,
-      "bytes": 288760,
-      "sha256": "641c9fee0b6cc5561957be5767ef0c7a219434a60095a5a5040b7e62cf5c5193"
+      "bytes": 290895,
+      "sha256": "ee36e73ac8aa19e1a14a9d69e82298b9dd75b0d965e3fe2e7515e27a6a719360"
     },
     {
       "id": "resume-digital-zh-docx",
@@ -175,8 +175,8 @@
       "path": "/downloads/sun-yingjie-resume-digital.docx",
       "preview": "/media/v9/downloads/sun-yingjie-resume-digital.webp",
       "pages": 1,
-      "bytes": 2472257,
-      "sha256": "e55f87481e1dd3a09edabb67a55cc5f46de78ea47a7878b3f1f84a89ac16f256"
+      "bytes": 2472295,
+      "sha256": "c23e844ac7faca6823792d06f2bf705682d90ee99efed01cd84cb347f155c60e"
     },
     {
       "id": "portfolio-digital-zh-pdf",
@@ -190,9 +190,9 @@
       },
       "path": "/downloads/sun-yingjie-portfolio-digital.pdf",
       "preview": "/media/v9/downloads/sun-yingjie-portfolio-digital.webp",
-      "pages": 30,
-      "bytes": 7103159,
-      "sha256": "12f2d6156fa645daa2fa337e372be2202458c0a9d4237487dad8b16f06325aea"
+      "pages": 36,
+      "bytes": 8452312,
+      "sha256": "95add965de829fb917efaf48996dc6dcb8767d0645d8c6aae4721fef814f9746"
     },
     {
       "id": "full-zh-pdf",
@@ -206,9 +206,9 @@
       },
       "path": "/downloads/sun-yingjie-full-portfolio.pdf",
       "preview": "/media/v9/downloads/sun-yingjie-full-portfolio.webp",
-      "pages": 291,
-      "bytes": 20478171,
-      "sha256": "da47e060dc4f03500b813b8e85c8222ed4c19b66f94372d89ade975d914a22e8"
+      "pages": 297,
+      "bytes": 20787632,
+      "sha256": "9af8258e73b9ee4182edd1ddbec04469bfd74ff9f1a0eaa51de23a3fbe212bd8"
     },
     {
       "id": "resume-overview-en-pdf",
@@ -223,8 +223,8 @@
       "path": "/downloads/sun-yingjie-resume-en.pdf",
       "preview": "/media/v9/downloads/sun-yingjie-resume-en.webp",
       "pages": 1,
-      "bytes": 207190,
-      "sha256": "593b0c9786126cdfdf31bdc59eaeff3ebe7ab88c47e0f5b6254ea5e26a0c94ed"
+      "bytes": 207520,
+      "sha256": "d584582525730bfcf6065a84b4dab80444b554ae40deeaf502d2609b3a5a51a5"
     },
     {
       "id": "resume-overview-en-docx",
@@ -239,8 +239,8 @@
       "path": "/downloads/sun-yingjie-resume-en.docx",
       "preview": "/media/v9/downloads/sun-yingjie-resume-en.webp",
       "pages": 1,
-      "bytes": 2472015,
-      "sha256": "53e0e6aa7e280e96bd6e3d8f27a1d0788d45c0a4fbac56cffe49f18dda848506"
+      "bytes": 2472073,
+      "sha256": "16e941dc952819663b700f254bd9e61b0f942afabd477a67cd06203e5ebe2804"
     },
     {
       "id": "portfolio-overview-en-pdf",
@@ -254,9 +254,9 @@
       },
       "path": "/downloads/sun-yingjie-selected-portfolio-en.pdf",
       "preview": "/media/v9/downloads/sun-yingjie-selected-portfolio-en.webp",
-      "pages": 39,
-      "bytes": 14699021,
-      "sha256": "e81d70c14d2edcb3c89ddad38c59832c5c20b657c4b6a81b2ebceef4b9f68a70"
+      "pages": 45,
+      "bytes": 16011652,
+      "sha256": "2038e9b9bcd244fd715d2730e81d20e1176d65da37160105dd1b65a8dbfb4bf0"
     },
     {
       "id": "resume-brand-en-pdf",
@@ -271,8 +271,8 @@
       "path": "/downloads/sun-yingjie-resume-brand-en.pdf",
       "preview": "/media/v9/downloads/sun-yingjie-resume-brand-en.webp",
       "pages": 1,
-      "bytes": 208920,
-      "sha256": "59b9814cb0d48a1a09e31e6072f374e4e25b54581898dd79269038a6d1eae854"
+      "bytes": 209260,
+      "sha256": "cc7563039d660f0808ad9b65aadb181430a1ed69fcb23180fc5135d974b9d953"
     },
     {
       "id": "resume-brand-en-docx",
@@ -287,8 +287,8 @@
       "path": "/downloads/sun-yingjie-resume-brand-en.docx",
       "preview": "/media/v9/downloads/sun-yingjie-resume-brand-en.webp",
       "pages": 1,
-      "bytes": 2472043,
-      "sha256": "635ab487f8530de61524bd7830b41d580840fef707dd7ebc5ce106c7caec14f0"
+      "bytes": 2472101,
+      "sha256": "3f7762991c8ad168965487045484df162cec798a05fb4ed97f666f59e9fbe6d1"
     },
     {
       "id": "portfolio-brand-en-pdf",
@@ -304,7 +304,7 @@
       "preview": "/media/v9/downloads/sun-yingjie-portfolio-brand-en.webp",
       "pages": 19,
       "bytes": 7377257,
-      "sha256": "679f20dc630bc5f19fba9a145131111f78c1013bd047d48932a05e0ef6087109"
+      "sha256": "f2436400de75493494346403875bee25347e411845e8c24e9cee06cb78b63cbd"
     },
     {
       "id": "resume-physical-en-pdf",
@@ -319,8 +319,8 @@
       "path": "/downloads/sun-yingjie-resume-physical-en.pdf",
       "preview": "/media/v9/downloads/sun-yingjie-resume-physical-en.webp",
       "pages": 1,
-      "bytes": 208594,
-      "sha256": "ead3df2cc24bc942124c4480e30001ee715c5140e8f41c35db26ea713decb0f7"
+      "bytes": 208930,
+      "sha256": "d5437d32fcca5b32183f5a8422e9b4e9063a5d60ab8397d9670b6dfee3651c7e"
     },
     {
       "id": "resume-physical-en-docx",
@@ -335,8 +335,8 @@
       "path": "/downloads/sun-yingjie-resume-physical-en.docx",
       "preview": "/media/v9/downloads/sun-yingjie-resume-physical-en.webp",
       "pages": 1,
-      "bytes": 2472057,
-      "sha256": "34795a35221c022c2e8fbca4dde4d2b1e2b131803f7ac559e002abf5e37c07f2"
+      "bytes": 2472118,
+      "sha256": "5273393bb547563c007cfc3e880fdfac242590b926e2f787994039833ccd8c36"
     },
     {
       "id": "portfolio-physical-en-pdf",
@@ -352,7 +352,7 @@
       "preview": "/media/v9/downloads/sun-yingjie-portfolio-physical-en.webp",
       "pages": 20,
       "bytes": 7379287,
-      "sha256": "ddd2e6b6826a8951d74f260ae0882d3df6b87c3fc6c71cfb8bf4e2d1a1802272"
+      "sha256": "4e24c17125e39dbd99c5d6ead9b5b5547abd8402aadd5a18f0e12283fb79f4ab"
     },
     {
       "id": "resume-digital-en-pdf",
@@ -367,8 +367,8 @@
       "path": "/downloads/sun-yingjie-resume-digital-en.pdf",
       "preview": "/media/v9/downloads/sun-yingjie-resume-digital-en.webp",
       "pages": 1,
-      "bytes": 209232,
-      "sha256": "956f489a912b868ede620ec649caaa037968183e40f410c1cc803e767808b9d5"
+      "bytes": 209278,
+      "sha256": "5d4d001bbae123a9cb81bcfc01d3fd2ff754eda2680871a978b95e94b17f8eac"
     },
     {
       "id": "resume-digital-en-docx",
@@ -383,8 +383,8 @@
       "path": "/downloads/sun-yingjie-resume-digital-en.docx",
       "preview": "/media/v9/downloads/sun-yingjie-resume-digital-en.webp",
       "pages": 1,
-      "bytes": 2472074,
-      "sha256": "795f6f0d7684983da3597f92260da40d173a32812983cd0f945e2bdd87911632"
+      "bytes": 2472105,
+      "sha256": "fd86697e1761f5de0e714c062b8416ed0c090778e3806ee4ba784a5c0f226a1d"
     },
     {
       "id": "portfolio-digital-en-pdf",
@@ -398,9 +398,9 @@
       },
       "path": "/downloads/sun-yingjie-portfolio-digital-en.pdf",
       "preview": "/media/v9/downloads/sun-yingjie-portfolio-digital-en.webp",
-      "pages": 30,
-      "bytes": 6739761,
-      "sha256": "2a25908648cba5d1a10e05ffd63dee7b311f8b160bb5e11ba64297abe4c86510"
+      "pages": 36,
+      "bytes": 8052553,
+      "sha256": "8441c3cca7214acd7a813f90ce8ce0f3d7044ae2d2ae1b252730bb035461b273"
     },
     {
       "id": "full-en-pdf",
@@ -414,9 +414,9 @@
       },
       "path": "/downloads/sun-yingjie-full-portfolio-en.pdf",
       "preview": "/media/v9/downloads/sun-yingjie-full-portfolio-en.webp",
-      "pages": 291,
-      "bytes": 19958275,
-      "sha256": "36c4765b33b6e5e031831bebcf37d4d9c56239e93d66197f0554e5dd4d0e1720"
+      "pages": 297,
+      "bytes": 20255473,
+      "sha256": "6a7ef629ed2a05aeef82589c4b716138be21fd17aaf5a20e7b52685ab8d2ce6c"
     }
   ]
 }

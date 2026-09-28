@@ -6,7 +6,9 @@
       "Adobe Photoshop",
       "Adobe Illustrator",
       "Codex",
-      "ComfyUI"
+      "ComfyUI",
+      "Image 2.5",
+      "Seedance 2.5"
     ],
     "scope": "Application and workflow use. No proficiency level, certification, measured gain or compatibility guarantee is asserted."
   },
@@ -54,15 +56,17 @@
         },
         {
           "label": "AI 与研究",
-          "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析"
+          "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析；Image 2.5、Seedance 2.5"
         }
       ],
-      "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
+      "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像、Mini DV 咖啡 vlog 与秋日单镜头时装片组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
       "workflowEvidence": [
         "ai-video-systems",
         "ink-realm",
         "character-consistency",
-        "portrait-lighting"
+        "portrait-lighting",
+        "mini-dv-coffee",
+        "autumn-fashion-film"
       ],
       "localized": {
         "zh": {
@@ -108,15 +112,17 @@
             },
             {
               "label": "AI 与研究",
-              "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析"
+              "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析；Image 2.5、Seedance 2.5"
             }
           ],
-          "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
+          "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像、Mini DV 咖啡 vlog 与秋日单镜头时装片组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
           "workflowEvidence": [
             "ai-video-systems",
             "ink-realm",
             "character-consistency",
-            "portrait-lighting"
+            "portrait-lighting",
+            "mini-dv-coffee",
+            "autumn-fashion-film"
           ]
         },
         "en": {
@@ -162,15 +168,17 @@
             },
             {
               "label": "AI and research",
-              "body": "Codex, ChatGPT, ComfyUI, Midjourney; market and cultural context"
+              "body": "Codex, ChatGPT, ComfyUI, Midjourney; market and cultural context; Image 2.5, Seedance 2.5"
             }
           ],
-          "workflow": "Independent AI practice: character sheets, lighting studies and ink film connect visual constraints, prompts and human review with 3D and brand expression.",
+          "workflow": "Independent AI practice: character sheets, lighting studies and an ink film, a Mini DV coffee vlog and an autumn single-take fashion film connect visual constraints, prompts and human review with 3D and brand expression.",
           "workflowEvidence": [
             "ai-video-systems",
             "ink-realm",
             "character-consistency",
-            "portrait-lighting"
+            "portrait-lighting",
+            "mini-dv-coffee",
+            "autumn-fashion-film"
           ]
         }
       }
@@ -215,15 +223,17 @@
         },
         {
           "label": "AI 与研究",
-          "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析"
+          "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析；Image 2.5、Seedance 2.5"
         }
       ],
-      "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
+      "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像、Mini DV 咖啡 vlog 与秋日单镜头时装片组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
       "workflowEvidence": [
         "ai-video-systems",
         "ink-realm",
         "character-consistency",
-        "portrait-lighting"
+        "portrait-lighting",
+        "mini-dv-coffee",
+        "autumn-fashion-film"
       ],
       "localized": {
         "zh": {
@@ -266,15 +276,17 @@
             },
             {
               "label": "AI 与研究",
-              "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析"
+              "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析；Image 2.5、Seedance 2.5"
             }
           ],
-          "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
+          "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像、Mini DV 咖啡 vlog 与秋日单镜头时装片组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
           "workflowEvidence": [
             "ai-video-systems",
             "ink-realm",
             "character-consistency",
-            "portrait-lighting"
+            "portrait-lighting",
+            "mini-dv-coffee",
+            "autumn-fashion-film"
           ]
         },
         "en": {
@@ -317,15 +329,17 @@
             },
             {
               "label": "AI and research",
-              "body": "Codex, ChatGPT, ComfyUI, Midjourney; market and cultural context"
+              "body": "Codex, ChatGPT, ComfyUI, Midjourney; market and cultural context; Image 2.5, Seedance 2.5"
             }
           ],
-          "workflow": "Independent AI practice: character sheets, lighting studies and ink film connect visual constraints, prompts and human review with 3D and brand expression.",
+          "workflow": "Independent AI practice: character sheets, lighting studies and an ink film, a Mini DV coffee vlog and an autumn single-take fashion film connect visual constraints, prompts and human review with 3D and brand expression.",
           "workflowEvidence": [
             "ai-video-systems",
             "ink-realm",
             "character-consistency",
-            "portrait-lighting"
+            "portrait-lighting",
+            "mini-dv-coffee",
+            "autumn-fashion-film"
           ]
         }
       }
@@ -371,15 +385,17 @@
         },
         {
           "label": "AI 与研究",
-          "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析"
+          "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析；Image 2.5、Seedance 2.5"
         }
       ],
-      "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
+      "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像、Mini DV 咖啡 vlog 与秋日单镜头时装片组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
       "workflowEvidence": [
         "ai-video-systems",
         "ink-realm",
         "character-consistency",
-        "portrait-lighting"
+        "portrait-lighting",
+        "mini-dv-coffee",
+        "autumn-fashion-film"
       ],
       "localized": {
         "zh": {
@@ -423,15 +439,17 @@
             },
             {
               "label": "AI 与研究",
-              "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析"
+              "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析；Image 2.5、Seedance 2.5"
             }
           ],
-          "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
+          "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像、Mini DV 咖啡 vlog 与秋日单镜头时装片组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
           "workflowEvidence": [
             "ai-video-systems",
             "ink-realm",
             "character-consistency",
-            "portrait-lighting"
+            "portrait-lighting",
+            "mini-dv-coffee",
+            "autumn-fashion-film"
           ]
         },
         "en": {
@@ -475,15 +493,17 @@
             },
             {
               "label": "AI and research",
-              "body": "Codex, ChatGPT, ComfyUI, Midjourney; market and cultural context"
+              "body": "Codex, ChatGPT, ComfyUI, Midjourney; market and cultural context; Image 2.5, Seedance 2.5"
             }
           ],
-          "workflow": "Independent AI practice: character sheets, lighting studies and ink film connect visual constraints, prompts and human review with 3D and brand expression.",
+          "workflow": "Independent AI practice: character sheets, lighting studies and an ink film, a Mini DV coffee vlog and an autumn single-take fashion film connect visual constraints, prompts and human review with 3D and brand expression.",
           "workflowEvidence": [
             "ai-video-systems",
             "ink-realm",
             "character-consistency",
-            "portrait-lighting"
+            "portrait-lighting",
+            "mini-dv-coffee",
+            "autumn-fashion-film"
           ]
         }
       }
@@ -514,7 +534,9 @@
           "evidence": [
             "ink-realm",
             "character-consistency",
-            "portrait-lighting"
+            "portrait-lighting",
+            "mini-dv-coffee",
+            "autumn-fashion-film"
           ]
         }
       ],
@@ -532,11 +554,13 @@
           "body": "Codex、Image 2.5、Seedance 2.5、ComfyUI"
         }
       ],
-      "workflow": "个人 AI 实践：30 秒水墨影像、五张角色卡与九张布光图像。负责方向设定、提示词组织与结果审阅。",
+      "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像、Mini DV 咖啡 vlog 与秋日单镜头时装片组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
       "workflowEvidence": [
         "ink-realm",
         "character-consistency",
-        "portrait-lighting"
+        "portrait-lighting",
+        "mini-dv-coffee",
+        "autumn-fashion-film"
       ],
       "localized": {
         "zh": {
@@ -565,7 +589,9 @@
               "evidence": [
                 "ink-realm",
                 "character-consistency",
-                "portrait-lighting"
+                "portrait-lighting",
+                "mini-dv-coffee",
+                "autumn-fashion-film"
               ]
             }
           ],
@@ -583,11 +609,13 @@
               "body": "Codex、Image 2.5、Seedance 2.5、ComfyUI"
             }
           ],
-          "workflow": "个人 AI 实践：30 秒水墨影像、五张角色卡与九张布光图像。负责方向设定、提示词组织与结果审阅。",
+          "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像、Mini DV 咖啡 vlog 与秋日单镜头时装片组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
           "workflowEvidence": [
             "ink-realm",
             "character-consistency",
-            "portrait-lighting"
+            "portrait-lighting",
+            "mini-dv-coffee",
+            "autumn-fashion-film"
           ]
         },
         "en": {
@@ -616,7 +644,9 @@
               "evidence": [
                 "ink-realm",
                 "character-consistency",
-                "portrait-lighting"
+                "portrait-lighting",
+                "mini-dv-coffee",
+                "autumn-fashion-film"
               ]
             }
           ],
@@ -634,11 +664,13 @@
               "body": "Codex, Image 2.5, Seedance 2.5, ComfyUI"
             }
           ],
-          "workflow": "Personal AI practice: a 30-second ink film, five character-sheet images and nine lighting images. Direction, prompt organisation and output review.",
+          "workflow": "Independent AI practice: character sheets, lighting studies and an ink film, a Mini DV coffee vlog and an autumn single-take fashion film connect visual constraints, prompts and human review with 3D and brand expression.",
           "workflowEvidence": [
             "ink-realm",
             "character-consistency",
-            "portrait-lighting"
+            "portrait-lighting",
+            "mini-dv-coffee",
+            "autumn-fashion-film"
           ]
         }
       }

@@ -270,7 +270,9 @@
           "resume-formatter",
           "formline",
           "xintiao",
-          "lensflow"
+          "lensflow",
+          "mini-dv-coffee",
+          "autumn-fashion-film"
         ],
         "capabilityIds": [
           "interaction",
@@ -330,5 +332,12 @@
       "Working across products, commercial spaces and brands has taught me to compare details with the whole: how a section becomes a family, an identity reaches a product, or a spatial language supports merchandise.",
       "I use AI within research and production: organising references, exploring variants and supporting implementation, then reviewing the results. The value of design lies in the choices we make."
     ]
-  }
+  },
+  "practice": {
+    "zh": "独立 AI 影像与视频研究：建立参考索引与方法解析，使用 Image 2.5 生成角色参考图、Seedance 2.5 生成视频；从 Mini DV 声音叙事到固定顶视角遮挡换装，连接提示词、镜头控制与人工输出审阅。",
+    "en": "Independent AI image and video practice: Image 2.5 character references and Seedance 2.5 films connect prompt structure, camera control and human output review, from Mini DV sound-led narrative to fixed overhead occlusion wardrobe changes."
+  },
+  "skills": [
+    "Image 2.5、Seedance 2.5：角色参考图与视频生成、镜头约束、声音与人工输出审阅"
+  ]
 }

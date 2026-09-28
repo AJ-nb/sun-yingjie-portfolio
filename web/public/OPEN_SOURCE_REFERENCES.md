@@ -52,3 +52,15 @@ The hero uses the Mainframe source video expressly selected by the portfolio aut
 ## AI video methods research (2026-09-23)
 
 Research curation is adapted from [awesome-seedance / goodcase.ai](https://github.com/LearnPrompt/awesome-seedance/tree/9927d9b5bc2d1c305b2945917e461b3547642497). Source code is MIT; curation (selection, organization, templates and editorial summaries) is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). This portfolio reorganizes the documentation into six control layers and eight product-design method studies. Prompts and media remain individually owned. No third-party prompt text, poster or video is copied into the release; optional original-platform embeds preserve source attribution. The research has not been personally retested.
+
+## v13 AIGC case transfer notes (2026-09-28)
+
+The Mini DV case transfers the pinned `handheld-ugc-vlog` / retro found-footage questions from the [Mini DV Coffee ASMR reference](https://x.com/Strength04_X/status/2083094742682787939) by `@Strength04_X` and its [GoodCase record](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog). The autumn fashion case maps `pov-continuous-take` from [@techhalla](https://x.com/techhalla/status/2088036921184223468), `character-reference-lock` from [@ElsaSofia__AI](https://x.com/ElsaSofia__AI/status/2089306746804375878), and `fashion-lookbook` from [@johnAGI168](https://x.com/johnAGI168/status/2089251003514102060). Each method keeps the pinned repository revision `9927d9b5bc2d1c305b2945917e461b3547642497`; the repository code is MIT, curation is CC BY 4.0, and reference media remains with individual creators. These are document analyses rather than personal re-tests. The site loads official X embeds only when requested and does not copy or host third-party media.
+
+The transfer questions are explicit: handheld UGC becomes a check on domestic action order and sound; continuous take becomes a fixed 90° camera invariant; character reference lock becomes identity continuity; occlusion wardrobe transition becomes a full-cover event; and material / shadow continuity becomes a frame-by-frame review of rug fibre, wood, leather, suede and fan shadows.
+
+## v13 AIGC 案例迁移说明（2026-09-28）
+
+Mini DV 案例引用固定版本资料中的 `handheld-ugc-vlog` 与复古 found footage 方法，参考 [@Strength04_X 的 Mini DV Coffee ASMR 原帖](https://x.com/Strength04_X/status/2083094742682787939) 及 [GoodCase 记录](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog)。秋日时装片把 `pov-continuous-take` 映射到 [@techhalla](https://x.com/techhalla/status/2088036921184223468)，把 `character-reference-lock` 映射到 [@ElsaSofia__AI](https://x.com/ElsaSofia__AI/status/2089306746804375878)，把 `fashion-lookbook` 映射到 [@johnAGI168](https://x.com/johnAGI168/status/2089251003514102060)。所有方法固定在 `9927d9b5bc2d1c305b2945917e461b3547642497` revision；仓库代码为 MIT，整理内容为 CC BY 4.0，参考媒体归各自创作者。以上是文档分析，没有声称本人复测。网站仅在用户点击后加载官方 X 嵌入，不复制或托管第三方媒体。
+
+迁移关系写成可检查的问题：手持 UGC 检查日常动作顺序与声音；continuous take 检查固定 90° 相机不变量；character reference lock 检查身份连续性；遮挡换装检查完整前景覆盖；材质与阴影连续性逐帧检查地毯、木地板、皮革、麂皮与扇叶阴影。

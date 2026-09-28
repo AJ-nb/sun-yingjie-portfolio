@@ -59,15 +59,17 @@
     },
     {
       "label": "AI 与研究",
-      "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析"
+      "body": "Codex、ChatGPT、ComfyUI、Midjourney；竞品与文化语境分析；Image 2.5、Seedance 2.5"
     }
   ],
-  "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
+  "workflow": "独立 AI 实践：以角色卡、布光实验与水墨影像、Mini DV 咖啡 vlog 与秋日单镜头时装片组织视觉约束、提示词和人工审阅，补充三维与品牌表达。",
   "workflowEvidence": [
     "ai-video-systems",
     "ink-realm",
     "character-consistency",
-    "portrait-lighting"
+    "portrait-lighting",
+    "mini-dv-coffee",
+    "autumn-fashion-film"
   ],
   "confirmedInputs": {
     "source": "User request in this task on 2026-09-17",
@@ -75,7 +77,9 @@
       "Adobe Photoshop",
       "Adobe Illustrator",
       "Codex",
-      "ComfyUI"
+      "ComfyUI",
+      "Image 2.5",
+      "Seedance 2.5"
     ],
     "scope": "Application and workflow use. No proficiency level, certification, measured gain or compatibility guarantee is asserted."
   },

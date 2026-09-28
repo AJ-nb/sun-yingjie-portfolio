@@ -1,7 +1,7 @@
 {
   "variant": "full",
   "lang": "en",
-  "pageCount": 291,
+  "pageCount": 297,
   "casePages": {
     "hermes": 4,
     "arcteryx": 29,
@@ -37,7 +37,9 @@
     "xhs-methods": 266,
     "ink-realm": 268,
     "character-consistency": 279,
-    "portrait-lighting": 284
+    "portrait-lighting": 284,
+    "mini-dv-coffee": 291,
+    "autumn-fashion-film": 294
   },
   "plan": [
     {
@@ -3535,6 +3537,68 @@
             {
               "src": "/works/portrait-lighting/09.jpg",
               "caption": "From a lighting name to an observable result comparison"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "mini-dv-coffee",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/mini-dv-coffee/character-reference.jpg",
+              "caption": "AREN SATO character reference: a young man in a loose plain T-shirt, just after waking"
+            },
+            {
+              "src": "/works/mini-dv-coffee/frame-01.webp",
+              "caption": "Mid-process frame: extraction, cup rim and a natural focus search"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/mini-dv-coffee/frame-02.webp",
+              "caption": "End frame: after the sip, the subject approaches and covers the lens"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "autumn-fashion-film",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/autumn-fashion-film/poster.webp",
+              "caption": "Cover frame: the complete look and edge furniture under the fixed camera"
+            },
+            {
+              "src": "/works/autumn-fashion-film/frame-01.webp",
+              "caption": "Autumn fashion frame: locked overhead camera, autumn rug and wooden fan as a foreground layer"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/autumn-fashion-film/frame-02.webp",
+              "caption": "Later frame: after a wardrobe change, subject and fan shadow remain in the same spatial relation"
             }
           ]
         }

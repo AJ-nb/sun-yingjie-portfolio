@@ -7,16 +7,17 @@ const req = createRequire(path.join(root, 'web/package.json'))
 const { chromium, expect } = req('@playwright/test')
 const AxeBuilder = req('@axe-core/playwright').default
 const { createHash } = require('node:crypto')
-const base = process.env.PORTFOLIO_QA_URL || 'http://127.0.0.1:4181/sun-yingjie-portfolio'
+const base = process.env.PORTFOLIO_QA_URL || 'http://127.0.0.1:4181'
 const output = path.join(root, '.production-runtime/qa-ai-cases')
 fs.mkdirSync(output, { recursive: true })
-const slugs = ['ink-realm', 'character-consistency', 'portrait-lighting']
+const slugs = ['ink-realm', 'character-consistency', 'portrait-lighting', 'mini-dv-coffee', 'autumn-fashion-film']
+const imageCounts = { 'ink-realm': 9, 'character-consistency': 5, 'portrait-lighting': 9, 'mini-dv-coffee': 3, 'autumn-fashion-film': 3 }
 const checks = [], errors = []
 async function check(name, run) { try { await run(); checks.push({ name, passed: true }) } catch (e) { checks.push({ name, passed: false, error: e.message }); console.error(name, e.message) } }
 async function main() {
   const assets = JSON.parse(fs.readFileSync(path.join(root, 'web/src/data/ai-case-assets.json'))).assets
   await check('all supplied originals retain their recorded bytes', async () => {
-    assert.equal(assets.length, 16)
+    assert.equal(assets.length, 19)
     for (const item of assets) assert.equal(createHash('sha256').update(fs.readFileSync(path.join(root, 'web/public', item.path))).digest('hex'), item.sha256)
   })
   const browser = await chromium.launch({ headless: true })
@@ -31,7 +32,7 @@ async function main() {
       const article = page.locator('.design-os-detail-body')
       assert(!/未知|Unknown|TBD|TODO/.test(await article.innerText()))
       const originals = article.locator(`img[src*="/works/${slug}/"]`)
-      assert.equal(await originals.count(), slug === 'ink-realm' ? 9 : slug === 'character-consistency' ? 5 : 9)
+      assert.equal(await originals.count(), imageCounts[slug])
       // Lazy images must load as the reader reaches them, at their original proportions.
       for (const im of await originals.all()) {
         await im.scrollIntoViewIfNeeded()
@@ -61,6 +62,18 @@ async function main() {
     await page.getByRole('button', { name: '复制提示词', exact: true }).click()
     await expect(page.getByRole('status')).toContainText('已复制')
     assert.equal((await page.evaluate(() => navigator.clipboard.readText())).trim().replace(/\r\n/g, '\n'), prompt.replace(/\r\n/g, '\n'))
+  })
+  for (const slug of ['mini-dv-coffee', 'autumn-fashion-film']) await check(`${slug} video plays, subtitles and complete prompt`, async () => {
+    await page.goto(base+'/work/'+slug, { waitUntil: 'networkidle' })
+    const video = page.locator('video')
+    assert.equal(await video.locator('track').count(), 2)
+    await expect.poll(() => video.evaluate(n => n.duration)).toBeGreaterThan(30)
+    await video.evaluate(n => n.play())
+    await expect.poll(() => video.evaluate(n => n.currentTime)).toBeGreaterThan(.1)
+    await video.evaluate(n => n.pause())
+    await page.locator('.design-os-detail-body details summary').click()
+    const prompt = fs.readFileSync(path.join(root,`web/public/works/${slug}/prompt.txt`),'utf8').trim()
+    assert.equal((await page.locator('.case-prompt pre').textContent()).trim().replace(/\r\n/g, '\n'), prompt.replace(/\r\n/g, '\n'))
   })
   await check('clipboard-denied path selects the full prompt', async () => {
     await context.clearPermissions()
