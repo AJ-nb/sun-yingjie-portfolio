@@ -99,7 +99,7 @@
         "en": "Design systems engineering designer"
       },
       "description": {
-        "zh": "在 PCB 制造环境中从事设计系统工程工作，关注标准化、工程约束、质量与跨部门协作。",
+        "zh": "在 PCB 制造环境中从事设计系统工程工作，关注标准化、工程约束、质量与跨部门协同。",
         "en": "Worked on design-systems engineering in PCB manufacturing, within standardisation, engineering and quality constraints."
       }
     },
@@ -164,7 +164,7 @@
         "参与铝型材灯具的三维表达与材料比较；整理 Karimoku × BENWU 设计研究。"
       ],
       "hannstar": [
-        "在 PCB 制造环境中从事设计系统工程工作，关注标准化、工程约束、质量与跨部门协作。"
+        "在 PCB 制造环境中从事设计系统工程工作，关注标准化、工程约束、质量与跨部门协同。"
       ],
       "ouyin": [
         "整理市场调研与用户反馈，制作 Figma 交互原型，支持需求比较与体验迭代。"
@@ -293,7 +293,7 @@
           "参与铝型材灯具的三维表达与材料比较；整理 Karimoku × BENWU 设计研究。"
         ],
         "hannstar": [
-          "在 PCB 制造环境中从事设计系统工程工作，关注标准化、工程约束、质量与跨部门协作。"
+          "在 PCB 制造环境中从事设计系统工程工作，关注标准化、工程约束、质量与跨部门协同。"
         ],
         "ouyin": [
           "整理市场调研与用户反馈，制作 Figma 交互原型，支持需求比较与体验迭代。"
@@ -341,3 +341,4 @@
     "Image 2.5、Seedance 2.5：角色参考图与视频生成、镜头约束、声音与人工输出审阅"
   ]
 }
+

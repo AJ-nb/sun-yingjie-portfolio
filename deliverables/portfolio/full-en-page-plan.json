@@ -1,7 +1,7 @@
 {
   "variant": "full",
   "lang": "en",
-  "pageCount": 297,
+  "pageCount": 304,
   "casePages": {
     "hermes": 4,
     "arcteryx": 29,
@@ -21,25 +21,26 @@
     "construction-recycler": 180,
     "water-walking-bath": 182,
     "rendering-studies": 184,
-    "karimoku": 197,
-    "biyuan": 209,
-    "yelisi": 213,
-    "periastra": 227,
-    "ai-video-systems": 239,
-    "lensflow": 245,
-    "yantai": 247,
-    "xintiao": 249,
-    "formline": 253,
-    "resume-formatter": 256,
-    "visual-archive": 259,
-    "aesthetic-atlas": 261,
-    "image-2-5-xhs": 263,
-    "xhs-methods": 266,
-    "ink-realm": 268,
-    "character-consistency": 279,
-    "portrait-lighting": 284,
-    "mini-dv-coffee": 291,
-    "autumn-fashion-film": 294
+    "inhaler-world": 197,
+    "karimoku": 204,
+    "biyuan": 216,
+    "yelisi": 220,
+    "periastra": 234,
+    "ai-video-systems": 246,
+    "lensflow": 252,
+    "yantai": 254,
+    "xintiao": 256,
+    "formline": 260,
+    "resume-formatter": 263,
+    "visual-archive": 266,
+    "aesthetic-atlas": 268,
+    "image-2-5-xhs": 270,
+    "xhs-methods": 273,
+    "ink-realm": 275,
+    "character-consistency": 286,
+    "portrait-lighting": 291,
+    "mini-dv-coffee": 298,
+    "autumn-fashion-film": 301
   },
   "plan": [
     {
@@ -2348,6 +2349,101 @@
             {
               "src": "/works/refinement-v2/rendering-pdf/036.webp",
               "caption": "Robot underground-environment composition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "inhaler-world",
+      "pages": [
+        {
+          "id": "archive-1",
+          "title": "Image archive 01",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/inhaler-world/poster-01.png",
+              "caption": "Poster 01: the product as an entry into the sky"
+            },
+            {
+              "src": "/works/inhaler-world/poster-02.png",
+              "caption": "Poster 02: a figure meets the inhaler in a classical space"
+            }
+          ]
+        },
+        {
+          "id": "archive-2",
+          "title": "Image archive 02",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/inhaler-world/poster-03.png",
+              "caption": "Poster 03: green product identity inside a torn image"
+            },
+            {
+              "src": "/works/inhaler-world/poster-04.png",
+              "caption": "Poster 04: ocean, clouds and a shifted product scale"
+            }
+          ]
+        },
+        {
+          "id": "archive-3",
+          "title": "Image archive 03",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/inhaler-world/poster-05.png",
+              "caption": "Poster 05: a classical figure crosses the product boundary"
+            },
+            {
+              "src": "/works/inhaler-world/poster-06.png",
+              "caption": "Poster 06: a breathing gesture enlarged into a distant opening"
+            }
+          ]
+        },
+        {
+          "id": "archive-4",
+          "title": "Image archive 04",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/inhaler-world/poster-07.png",
+              "caption": "Poster 07: mountain, arch and product in a vertical composition"
+            },
+            {
+              "src": "/works/inhaler-world/poster-08.png",
+              "caption": "Poster 08: contemporary photography beside painted texture"
+            }
+          ]
+        },
+        {
+          "id": "archive-5",
+          "title": "Image archive 05",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/inhaler-world/poster-09.png",
+              "caption": "Poster 09: the product as an anchor between sky and sea"
+            },
+            {
+              "src": "/works/inhaler-world/poster-10.png",
+              "caption": "Poster 10: figure interaction expands a small action into space"
+            }
+          ]
+        },
+        {
+          "id": "archive-6",
+          "title": "Image archive 06",
+          "body": "",
+          "images": [
+            {
+              "src": "/works/inhaler-world/poster-11.png",
+              "caption": "Poster 11: the series closes on a wider world"
+            },
+            {
+              "src": "/works/inhaler-world/poster-01.webp",
+              "caption": "A Small Inhaler & A Wider World — Surreal Product Poster Series"
             }
           ]
         }

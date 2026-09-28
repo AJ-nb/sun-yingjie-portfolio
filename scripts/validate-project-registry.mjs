@@ -102,7 +102,7 @@ const allowedCategories = new Set(['commercial', 'product', 'brand', 'visual', '
 const categoryEntries = [...registrySource.matchAll(/^\s*(['\"]?)([a-z0-9][a-z0-9-]*)\1:\s*\{\s*category:\s*['\"]([^'\"]+)['\"],\s*track:\s*['\"]([^'\"]+)['\"],\s*maturity:\s*['\"]([^'\"]+)['\"]/gm)]
 const categoryBySlug = new Map(categoryEntries.map((m) => [m[2], { category: m[3], track: m[4], maturity: m[5] }]))
 
-if (publicSlugs.length !== 37) addError('public-count', `Expected 37 public bilingual slugs, found ${publicSlugs.length}`, { expected: 37, actual: publicSlugs.length })
+if (publicSlugs.length !== 38) addError('public-count', `Expected 38 public bilingual slugs, found ${publicSlugs.length}`, { expected: 38, actual: publicSlugs.length })
 for (const slug of expectedPublic) {
   const pair = docs.get(slug)
   if (!pair?.zh || !pair?.en) addError('missing-translation', `${slug}: both zh and en work documents are required`, { slug })

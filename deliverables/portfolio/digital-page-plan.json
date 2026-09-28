@@ -1,7 +1,7 @@
 {
   "variant": "digital",
   "lang": "zh",
-  "pageCount": 36,
+  "pageCount": 39,
   "casePages": {
     "biyuan": 4,
     "resume-formatter": 7,
@@ -9,11 +9,12 @@
     "xintiao": 14,
     "lensflow": 18,
     "ai-video-systems": 21,
-    "ink-realm": 24,
-    "character-consistency": 26,
-    "portrait-lighting": 28,
-    "mini-dv-coffee": 30,
-    "autumn-fashion-film": 33
+    "inhaler-world": 24,
+    "ink-realm": 27,
+    "character-consistency": 29,
+    "portrait-lighting": 31,
+    "mini-dv-coffee": 33,
+    "autumn-fashion-film": 36
   },
   "plan": [
     {
@@ -219,6 +220,41 @@
             {
               "src": "/works/ai-video-systems/ai-video-systems-cover.webp",
               "caption": "作者提供的 22.08 秒视频封面；完整视频见网页"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "inhaler-world",
+      "pages": [
+        {
+          "id": "concept",
+          "title": "把产品变成进入更大世界的入口",
+          "body": "以 A Small Inhaler & A Wider World 为核心，将产品、古典人物、建筑和自然景观重新组织成一组连续的超现实视觉叙事。",
+          "images": [
+            {
+              "src": "/works/inhaler-world/poster-01.webp",
+              "caption": "产品作为通往天空的入口"
+            },
+            {
+              "src": "/works/inhaler-world/poster-02.webp",
+              "caption": "人物与吸入器在古典空间中相遇"
+            }
+          ]
+        },
+        {
+          "id": "sequence",
+          "title": "从微小动作到空间释放",
+          "body": "撕裂、尺度错位与绿色识别色把 11 张海报连成一条阅读路径；原始 PNG 与来源清单保留在网页案例中。",
+          "images": [
+            {
+              "src": "/works/inhaler-world/poster-06.webp",
+              "caption": "吸入动作被放大为远景入口"
+            },
+            {
+              "src": "/works/inhaler-world/poster-11.webp",
+              "caption": "打开一个更广阔世界的系列收束"
             }
           ]
         }

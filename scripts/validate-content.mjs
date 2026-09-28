@@ -44,9 +44,9 @@ for (const [id, edition] of Object.entries(publication.editions)) {
   for (const item of edition.cases) assert(pairs.has(item.slug), id + ': missing case ' + item.slug)
 }
 assert.deepEqual(new Set(publication.editions.brand.cases.map(item => item.slug)), new Set(['hermes','arcteryx','periastra','yelisi']))
-const homepage = ['hermes','arcteryx','karimoku','lighting','yelisi','periastra','biyuan','ai-video-systems','ink-realm','character-consistency','portrait-lighting','mini-dv-coffee','autumn-fashion-film']
+const homepage = ['hermes','arcteryx','karimoku','lighting','yelisi','periastra','biyuan','ai-video-systems','inhaler-world','ink-realm','character-consistency','portrait-lighting','mini-dv-coffee','autumn-fashion-film']
 assert.deepEqual(publication.homepageSelection, homepage)
 assert.deepEqual(publication.selected.map(item => item.slug), homepage)
 assert.deepEqual(publication.editions.overview.cases.map(item => item.slug), homepage)
-assert.equal(pairs.size, 37)
+assert.equal(pairs.size, 38)
 console.log(`PASS: ${pairs.size} bilingual public cases, ${media.size} media references; v9 bilingual editions with explicit page budgets; uncleared cases withheld.`)

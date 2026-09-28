@@ -58,6 +58,11 @@
       "focus": "ai-video-systems"
     },
     {
+      "slug": "inhaler-world",
+      "pages": 3,
+      "focus": "inhaler-world"
+    },
+    {
       "slug": "ink-realm",
       "pages": 2,
       "focus": "ink-realm"
@@ -84,7 +89,7 @@
     }
   ],
   "frontMatterPages": 4,
-  "selectedPageCount": 43,
+  "selectedPageCount": 46,
   "portfolioPdfDeferredSlugs": [],
   "portfolioPdfSnapshotExemptions": {},
   "portfolioPdfDeferralReason": "All current public cases are included in the complete bilingual archive.",
@@ -97,7 +102,7 @@
   "editions": {
     "overview": {
       "title": "工业与产品设计师 · 精选作品",
-      "maxPages": 46,
+      "maxPages": 48,
       "cases": [
         {
           "slug": "hermes",
@@ -161,6 +166,13 @@
           ]
         },
         {
+          "slug": "inhaler-world",
+          "pageIds": [
+            "concept",
+            "sequence"
+          ]
+        },
+        {
           "slug": "ink-realm",
           "pageIds": [
             "method"
@@ -193,7 +205,7 @@
           ]
         }
       ],
-      "pageCount": 45
+      "pageCount": 48
     },
     "brand": {
       "title": "品牌视觉与跨触点交付",
@@ -274,7 +286,7 @@
     },
     "digital": {
       "title": "数字产品与交互体验",
-      "maxPages": 38,
+      "maxPages": 39,
       "cases": [
         {
           "slug": "biyuan",
@@ -321,6 +333,13 @@
           ]
         },
         {
+          "slug": "inhaler-world",
+          "pageIds": [
+            "concept",
+            "sequence"
+          ]
+        },
+        {
           "slug": "ink-realm",
           "pageIds": [
             "method"
@@ -353,7 +372,7 @@
           ]
         }
       ],
-      "pageCount": 36
+      "pageCount": 39
     }
   },
   "homepageSelection": [
@@ -365,6 +384,7 @@
     "periastra",
     "biyuan",
     "ai-video-systems",
+    "inhaler-world",
     "ink-realm",
     "character-consistency",
     "portrait-lighting",

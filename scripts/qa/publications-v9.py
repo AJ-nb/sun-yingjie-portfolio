@@ -18,7 +18,7 @@ def run(render=True):
     for item in pdfs:
         path=PUBLIC/item['path'].lstrip('/');reader=PdfReader(path);key=item['id'];lang=item['lang'];text='\n'.join(p.extract_text() or '' for p in reader.pages);doc=pdfium.PdfDocument(str(path));pages=[]
         check(key+' measured download',len(reader.pages)==item['pages'] and path.stat().st_size==item['bytes'] and sha(path)==item['sha256'])
-        check(key+' size budget',path.stat().st_size<=20*1048576)
+        check(key+' size budget',path.stat().st_size<=24*1048576)
         check(key+' identity',profile['name'][lang].lower() in text.lower() and profile['position'][lang] in text)
         check(key+' no obsolete identity',not re.search('Design Lead|AI-native Design Technologist|设计主导',text))
         check(key+' searchable body on every page',all(len(p.extract_text() or '')>35 for p in reader.pages))

@@ -1,0 +1,84 @@
+{
+  "project": "inhaler-world",
+  "title": "A Small Inhaler & A Wider World",
+  "originalFormat": "PNG",
+  "items": [
+    {
+      "file": "poster-01.png",
+      "derivative": "poster-01.webp",
+      "sha256": "6bb69d40bec2f507004fde80874ac894f437f120deb279501fbe883756f7a59a",
+      "dimensions": "1024,1536",
+      "source": "User-supplied attachment; preserved original PNG"
+    },
+    {
+      "file": "poster-02.png",
+      "derivative": "poster-02.webp",
+      "sha256": "31b7ca1b5c85ecd6dc6ff98670c729564c1b787c752662264de75ab6673b5bbf",
+      "dimensions": "1024,1536",
+      "source": "User-supplied attachment; preserved original PNG"
+    },
+    {
+      "file": "poster-03.png",
+      "derivative": "poster-03.webp",
+      "sha256": "91cf085aec1b794a562891d9f75898ef25d8fbcac3ca6aecba222f15e0c18cf3",
+      "dimensions": "1024,1536",
+      "source": "User-supplied attachment; preserved original PNG"
+    },
+    {
+      "file": "poster-04.png",
+      "derivative": "poster-04.webp",
+      "sha256": "b5bc1579742884f3ce5d25f97cc5e7a2c703b5db9ee0f7e126d28f5a8f64807c",
+      "dimensions": "1024,1536",
+      "source": "User-supplied attachment; preserved original PNG"
+    },
+    {
+      "file": "poster-05.png",
+      "derivative": "poster-05.webp",
+      "sha256": "570ae647308d7e2453dbab4814fa53c833e2fa031cf2b7e5a870619b6b7853c1",
+      "dimensions": "1024,1536",
+      "source": "User-supplied attachment; preserved original PNG"
+    },
+    {
+      "file": "poster-06.png",
+      "derivative": "poster-06.webp",
+      "sha256": "8949534e28372debbd0f5a0e2c7f5bc49b6c0dfe11fb3210978e6a397a42519b",
+      "dimensions": "1024,1536",
+      "source": "User-supplied attachment; preserved original PNG"
+    },
+    {
+      "file": "poster-07.png",
+      "derivative": "poster-07.webp",
+      "sha256": "353ae8addfa4b4a2b92f4f916b2dfb99a551bc471f4aa6f07bc0e0468b298a21",
+      "dimensions": "1024,1536",
+      "source": "User-supplied attachment; preserved original PNG"
+    },
+    {
+      "file": "poster-08.png",
+      "derivative": "poster-08.webp",
+      "sha256": "d0191d0c9e335ceefe7f06e2b2c065aebd3d040fec1e46c497633147dbfef64a",
+      "dimensions": "1024,1536",
+      "source": "User-supplied attachment; preserved original PNG"
+    },
+    {
+      "file": "poster-09.png",
+      "derivative": "poster-09.webp",
+      "sha256": "809be623eed2fffd92a2a3e140c4b17e23a33eb23b58b6073f37b39395a721bf",
+      "dimensions": "1024,1536",
+      "source": "User-supplied attachment; preserved original PNG"
+    },
+    {
+      "file": "poster-10.png",
+      "derivative": "poster-10.webp",
+      "sha256": "2fb53adbcdc0dd65bb39e48ff285ea0d6584d3069685f971cf58a61833a8319d",
+      "dimensions": "1024,1536",
+      "source": "User-supplied attachment; preserved original PNG"
+    },
+    {
+      "file": "poster-11.png",
+      "derivative": "poster-11.webp",
+      "sha256": "91998176838251030bbc662113d9a59a728b5c288a211da13629c46b8253d95a",
+      "dimensions": "1024,1536",
+      "source": "User-supplied attachment; preserved original PNG"
+    }
+  ]
+}

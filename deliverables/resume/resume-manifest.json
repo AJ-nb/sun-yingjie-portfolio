@@ -11,7 +11,7 @@
       "docx": "deliverables/resume/sun-yingjie-resume.docx",
       "content": "deliverables/resume/sun-yingjie-resume-content.json",
       "sourceHashes": {
-        "web/src/data/profile.json": "9b2c56fd6ee5c2b9a12820d24965cb4766ffbbfbed0095bc53c7f50c830212d5",
+        "web/src/data/profile.json": "33061a48939ba612d3202a0081cc0f12ea47487dcb89fb280fcd0d70bf463e26",
         "web/src/data/resume-positioning.json": "d4bc037f5b50f2f25f2f4d5a321025f465fef597cfd53092643b47d1fab3b536",
         "scripts/resume/build_resume.py": "2637259c21be6597c64b60700441744cea5c25e19146943d2bc6a53487f55b13",
         "web/public/media/v7/resume-portrait.png": "f2f9c6171935eec9c2395b2796405bee93bac08693671d60967cb4bfc406a7b8",
@@ -30,12 +30,12 @@
         "scripts/resume/export_word.ps1": "2d13b3f224f5742585c6a709c170aa5d67672fdf970e786f7693e6c49664205a",
         "scripts/resume/finalize_resumes.py": "b47ea1b4648e6d1febb27a116c1b6d267fe77d9f240562b8b231ca1d471bddd3"
       },
-      "docxSha256": "b052c1e3222162a4ddd907f1bc35ece243eeb1352be942490b25040480419d23",
+      "docxSha256": "519f60b80743309072863eede088fb30b5e086a109f9e1117eb9b848d9592adc",
       "pdf": "deliverables/resume/sun-yingjie-resume.pdf",
       "pageCount": 1,
-      "pdfSha256": "6c0faf4eee00a7368083ba39f7f7d13e1ed673ae24042ec024e8fb8e11456da0",
-      "pdfBytes": 281586,
-      "docxBytes": 2472247
+      "pdfSha256": "21658705ddf4362ae6f54005d099fdcb4d900febcf2f637dd8246b34f9e8bc2e",
+      "pdfBytes": 281871,
+      "docxBytes": 2472249
     },
     {
       "id": "brand",
@@ -44,7 +44,7 @@
       "docx": "deliverables/resume/sun-yingjie-resume-brand.docx",
       "content": "deliverables/resume/sun-yingjie-resume-brand-content.json",
       "sourceHashes": {
-        "web/src/data/profile.json": "9b2c56fd6ee5c2b9a12820d24965cb4766ffbbfbed0095bc53c7f50c830212d5",
+        "web/src/data/profile.json": "33061a48939ba612d3202a0081cc0f12ea47487dcb89fb280fcd0d70bf463e26",
         "web/src/data/resume-positioning.json": "d4bc037f5b50f2f25f2f4d5a321025f465fef597cfd53092643b47d1fab3b536",
         "scripts/resume/build_resume.py": "2637259c21be6597c64b60700441744cea5c25e19146943d2bc6a53487f55b13",
         "web/public/media/v7/resume-portrait.png": "f2f9c6171935eec9c2395b2796405bee93bac08693671d60967cb4bfc406a7b8",
@@ -63,12 +63,12 @@
         "scripts/resume/export_word.ps1": "2d13b3f224f5742585c6a709c170aa5d67672fdf970e786f7693e6c49664205a",
         "scripts/resume/finalize_resumes.py": "b47ea1b4648e6d1febb27a116c1b6d267fe77d9f240562b8b231ca1d471bddd3"
       },
-      "docxSha256": "d6afd93ccf445d857108b4f80bbc6ed8d91de02ab098eff6bcb4308cb16f1b4c",
+      "docxSha256": "e71e73714a57631c548177253bdc31fde09241d2ec6d1cfa3ef87c6502c76bc9",
       "pdf": "deliverables/resume/sun-yingjie-resume-brand.pdf",
       "pageCount": 1,
-      "pdfSha256": "a348ea60b9b24b81dd5a400de61002b97ab5b281a275a16bb9bf74453da01f48",
-      "pdfBytes": 294910,
-      "docxBytes": 2472331
+      "pdfSha256": "325bc6ce087c8505e970148fb04d3ae5e28417183ed19d8bb2c2402d077e1fc3",
+      "pdfBytes": 294912,
+      "docxBytes": 2472332
     },
     {
       "id": "physical",
@@ -77,7 +77,7 @@
       "docx": "deliverables/resume/sun-yingjie-resume-physical.docx",
       "content": "deliverables/resume/sun-yingjie-resume-physical-content.json",
       "sourceHashes": {
-        "web/src/data/profile.json": "9b2c56fd6ee5c2b9a12820d24965cb4766ffbbfbed0095bc53c7f50c830212d5",
+        "web/src/data/profile.json": "33061a48939ba612d3202a0081cc0f12ea47487dcb89fb280fcd0d70bf463e26",
         "web/src/data/resume-positioning.json": "d4bc037f5b50f2f25f2f4d5a321025f465fef597cfd53092643b47d1fab3b536",
         "scripts/resume/build_resume.py": "2637259c21be6597c64b60700441744cea5c25e19146943d2bc6a53487f55b13",
         "web/public/media/v7/resume-portrait.png": "f2f9c6171935eec9c2395b2796405bee93bac08693671d60967cb4bfc406a7b8",
@@ -96,12 +96,12 @@
         "scripts/resume/export_word.ps1": "2d13b3f224f5742585c6a709c170aa5d67672fdf970e786f7693e6c49664205a",
         "scripts/resume/finalize_resumes.py": "b47ea1b4648e6d1febb27a116c1b6d267fe77d9f240562b8b231ca1d471bddd3"
       },
-      "docxSha256": "3ef30a365e3e9b5cb966416eadc9d2ade2db4f4e6f1021ab1e6323b504ea583e",
+      "docxSha256": "67a41a6c214ca1c4172c2d5cbbacdbe302d1d333f1e4a31e7ebf21367eade942",
       "pdf": "deliverables/resume/sun-yingjie-resume-physical.pdf",
       "pageCount": 1,
-      "pdfSha256": "e3d7ae13d46588ff78dec7cf0ad467caf74a485177a645b43b25200271bf762d",
-      "pdfBytes": 287940,
-      "docxBytes": 2472333
+      "pdfSha256": "48958bd58055ba5af84f88586e77a8b5a9fe60edf0574c133be0f87854cde1ac",
+      "pdfBytes": 288205,
+      "docxBytes": 2472335
     },
     {
       "id": "digital",
@@ -110,7 +110,7 @@
       "docx": "deliverables/resume/sun-yingjie-resume-digital.docx",
       "content": "deliverables/resume/sun-yingjie-resume-digital-content.json",
       "sourceHashes": {
-        "web/src/data/profile.json": "9b2c56fd6ee5c2b9a12820d24965cb4766ffbbfbed0095bc53c7f50c830212d5",
+        "web/src/data/profile.json": "33061a48939ba612d3202a0081cc0f12ea47487dcb89fb280fcd0d70bf463e26",
         "web/src/data/resume-positioning.json": "d4bc037f5b50f2f25f2f4d5a321025f465fef597cfd53092643b47d1fab3b536",
         "scripts/resume/build_resume.py": "2637259c21be6597c64b60700441744cea5c25e19146943d2bc6a53487f55b13",
         "web/public/media/v7/resume-portrait.png": "f2f9c6171935eec9c2395b2796405bee93bac08693671d60967cb4bfc406a7b8",
@@ -128,12 +128,12 @@
         "scripts/resume/export_word.ps1": "2d13b3f224f5742585c6a709c170aa5d67672fdf970e786f7693e6c49664205a",
         "scripts/resume/finalize_resumes.py": "b47ea1b4648e6d1febb27a116c1b6d267fe77d9f240562b8b231ca1d471bddd3"
       },
-      "docxSha256": "c23e844ac7faca6823792d06f2bf705682d90ee99efed01cd84cb347f155c60e",
+      "docxSha256": "7dc94b7c0c70128109d46a7c7cd4bd831b10c4af07e7f470a2814e472a011171",
       "pdf": "deliverables/resume/sun-yingjie-resume-digital.pdf",
       "pageCount": 1,
-      "pdfSha256": "ee36e73ac8aa19e1a14a9d69e82298b9dd75b0d965e3fe2e7515e27a6a719360",
-      "pdfBytes": 290895,
-      "docxBytes": 2472295
+      "pdfSha256": "ccf0bf527f4ce558a452140548c96a4962fb78a3b43776236ff8b27d77d556a3",
+      "pdfBytes": 291139,
+      "docxBytes": 2472296
     },
     {
       "id": "overview",
@@ -142,7 +142,7 @@
       "docx": "deliverables/resume/sun-yingjie-resume-en.docx",
       "content": "deliverables/resume/sun-yingjie-resume-en-content.json",
       "sourceHashes": {
-        "web/src/data/profile.json": "9b2c56fd6ee5c2b9a12820d24965cb4766ffbbfbed0095bc53c7f50c830212d5",
+        "web/src/data/profile.json": "33061a48939ba612d3202a0081cc0f12ea47487dcb89fb280fcd0d70bf463e26",
         "web/src/data/resume-positioning.json": "d4bc037f5b50f2f25f2f4d5a321025f465fef597cfd53092643b47d1fab3b536",
         "scripts/resume/build_resume.py": "2637259c21be6597c64b60700441744cea5c25e19146943d2bc6a53487f55b13",
         "web/public/media/v7/resume-portrait.png": "f2f9c6171935eec9c2395b2796405bee93bac08693671d60967cb4bfc406a7b8",
@@ -161,10 +161,10 @@
         "scripts/resume/export_word.ps1": "2d13b3f224f5742585c6a709c170aa5d67672fdf970e786f7693e6c49664205a",
         "scripts/resume/finalize_resumes.py": "b47ea1b4648e6d1febb27a116c1b6d267fe77d9f240562b8b231ca1d471bddd3"
       },
-      "docxSha256": "16e941dc952819663b700f254bd9e61b0f942afabd477a67cd06203e5ebe2804",
+      "docxSha256": "f110b28d9f53d78a5ed28dbad9f1d874cd9a7c54c2734c3bf6049e18ef74aeb4",
       "pdf": "deliverables/resume/sun-yingjie-resume-en.pdf",
       "pageCount": 1,
-      "pdfSha256": "d584582525730bfcf6065a84b4dab80444b554ae40deeaf502d2609b3a5a51a5",
+      "pdfSha256": "d3d4c1184f19ccfaf8ced68274942dd4c90b8c04b8d862cd830f03521647955f",
       "pdfBytes": 207520,
       "docxBytes": 2472073
     },
@@ -175,7 +175,7 @@
       "docx": "deliverables/resume/sun-yingjie-resume-brand-en.docx",
       "content": "deliverables/resume/sun-yingjie-resume-brand-en-content.json",
       "sourceHashes": {
-        "web/src/data/profile.json": "9b2c56fd6ee5c2b9a12820d24965cb4766ffbbfbed0095bc53c7f50c830212d5",
+        "web/src/data/profile.json": "33061a48939ba612d3202a0081cc0f12ea47487dcb89fb280fcd0d70bf463e26",
         "web/src/data/resume-positioning.json": "d4bc037f5b50f2f25f2f4d5a321025f465fef597cfd53092643b47d1fab3b536",
         "scripts/resume/build_resume.py": "2637259c21be6597c64b60700441744cea5c25e19146943d2bc6a53487f55b13",
         "web/public/media/v7/resume-portrait.png": "f2f9c6171935eec9c2395b2796405bee93bac08693671d60967cb4bfc406a7b8",
@@ -194,10 +194,10 @@
         "scripts/resume/export_word.ps1": "2d13b3f224f5742585c6a709c170aa5d67672fdf970e786f7693e6c49664205a",
         "scripts/resume/finalize_resumes.py": "b47ea1b4648e6d1febb27a116c1b6d267fe77d9f240562b8b231ca1d471bddd3"
       },
-      "docxSha256": "3f7762991c8ad168965487045484df162cec798a05fb4ed97f666f59e9fbe6d1",
+      "docxSha256": "3960c7500515c3b75ebcf31d9bdd30d21a7d56b057752db2a4ba0a72679c7b05",
       "pdf": "deliverables/resume/sun-yingjie-resume-brand-en.pdf",
       "pageCount": 1,
-      "pdfSha256": "cc7563039d660f0808ad9b65aadb181430a1ed69fcb23180fc5135d974b9d953",
+      "pdfSha256": "def056cee75ff1545a480b1c0394ebb722573896c28c5f164dca59002e125b20",
       "pdfBytes": 209260,
       "docxBytes": 2472101
     },
@@ -208,7 +208,7 @@
       "docx": "deliverables/resume/sun-yingjie-resume-physical-en.docx",
       "content": "deliverables/resume/sun-yingjie-resume-physical-en-content.json",
       "sourceHashes": {
-        "web/src/data/profile.json": "9b2c56fd6ee5c2b9a12820d24965cb4766ffbbfbed0095bc53c7f50c830212d5",
+        "web/src/data/profile.json": "33061a48939ba612d3202a0081cc0f12ea47487dcb89fb280fcd0d70bf463e26",
         "web/src/data/resume-positioning.json": "d4bc037f5b50f2f25f2f4d5a321025f465fef597cfd53092643b47d1fab3b536",
         "scripts/resume/build_resume.py": "2637259c21be6597c64b60700441744cea5c25e19146943d2bc6a53487f55b13",
         "web/public/media/v7/resume-portrait.png": "f2f9c6171935eec9c2395b2796405bee93bac08693671d60967cb4bfc406a7b8",
@@ -227,10 +227,10 @@
         "scripts/resume/export_word.ps1": "2d13b3f224f5742585c6a709c170aa5d67672fdf970e786f7693e6c49664205a",
         "scripts/resume/finalize_resumes.py": "b47ea1b4648e6d1febb27a116c1b6d267fe77d9f240562b8b231ca1d471bddd3"
       },
-      "docxSha256": "5273393bb547563c007cfc3e880fdfac242590b926e2f787994039833ccd8c36",
+      "docxSha256": "90c44ab24d50af105b3a7a0e99b0e6a0f123bd404d62111787ad5c574db94293",
       "pdf": "deliverables/resume/sun-yingjie-resume-physical-en.pdf",
       "pageCount": 1,
-      "pdfSha256": "d5437d32fcca5b32183f5a8422e9b4e9063a5d60ab8397d9670b6dfee3651c7e",
+      "pdfSha256": "01e52ecb29662fc4dc6c36004c92b2a21117337d6d61714191f6f7de9b35a455",
       "pdfBytes": 208930,
       "docxBytes": 2472118
     },
@@ -241,7 +241,7 @@
       "docx": "deliverables/resume/sun-yingjie-resume-digital-en.docx",
       "content": "deliverables/resume/sun-yingjie-resume-digital-en-content.json",
       "sourceHashes": {
-        "web/src/data/profile.json": "9b2c56fd6ee5c2b9a12820d24965cb4766ffbbfbed0095bc53c7f50c830212d5",
+        "web/src/data/profile.json": "33061a48939ba612d3202a0081cc0f12ea47487dcb89fb280fcd0d70bf463e26",
         "web/src/data/resume-positioning.json": "d4bc037f5b50f2f25f2f4d5a321025f465fef597cfd53092643b47d1fab3b536",
         "scripts/resume/build_resume.py": "2637259c21be6597c64b60700441744cea5c25e19146943d2bc6a53487f55b13",
         "web/public/media/v7/resume-portrait.png": "f2f9c6171935eec9c2395b2796405bee93bac08693671d60967cb4bfc406a7b8",
@@ -259,14 +259,14 @@
         "scripts/resume/export_word.ps1": "2d13b3f224f5742585c6a709c170aa5d67672fdf970e786f7693e6c49664205a",
         "scripts/resume/finalize_resumes.py": "b47ea1b4648e6d1febb27a116c1b6d267fe77d9f240562b8b231ca1d471bddd3"
       },
-      "docxSha256": "fd86697e1761f5de0e714c062b8416ed0c090778e3806ee4ba784a5c0f226a1d",
+      "docxSha256": "57c2caffdb0d694626c42e989e21464298a65ce389275100f1a6d712c4b670db",
       "pdf": "deliverables/resume/sun-yingjie-resume-digital-en.pdf",
       "pageCount": 1,
-      "pdfSha256": "5d4d001bbae123a9cb81bcfc01d3fd2ff754eda2680871a978b95e94b17f8eac",
+      "pdfSha256": "8ff04a4a7bad8feec49162437fd0e786af7358157fb9fb07362107c1818b613c",
       "pdfBytes": 209278,
       "docxBytes": 2472105
     }
   ],
   "renderer": "Microsoft Word native fixed-format export",
-  "updatedAt": "2026-09-28T00:36:20.857283+00:00"
+  "updatedAt": "2026-09-28T00:12:47.622819+00:00"
 }

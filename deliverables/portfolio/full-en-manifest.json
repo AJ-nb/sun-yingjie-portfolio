@@ -2,8 +2,8 @@
   "edition": "v9",
   "variant": "full",
   "lang": "en",
-  "pageCount": 297,
-  "caseCount": 37,
+  "pageCount": 304,
+  "caseCount": 38,
   "caseSlugs": [
     "hermes",
     "arcteryx",
@@ -23,6 +23,7 @@
     "construction-recycler",
     "water-walking-bath",
     "rendering-studies",
+    "inhaler-world",
     "karimoku",
     "biyuan",
     "yelisi",
@@ -2898,10 +2899,123 @@
     {
       "page": 197,
       "kind": "project",
-      "case": "karimoku"
+      "case": "inhaler-world"
     },
     {
       "page": 198,
+      "kind": "evidence",
+      "case": "inhaler-world",
+      "pageId": "archive-1",
+      "title": "Image archive 01",
+      "body": "",
+      "images": [
+        {
+          "src": "/works/inhaler-world/poster-01.png",
+          "caption": "Poster 01: the product as an entry into the sky"
+        },
+        {
+          "src": "/works/inhaler-world/poster-02.png",
+          "caption": "Poster 02: a figure meets the inhaler in a classical space"
+        }
+      ]
+    },
+    {
+      "page": 199,
+      "kind": "evidence",
+      "case": "inhaler-world",
+      "pageId": "archive-2",
+      "title": "Image archive 02",
+      "body": "",
+      "images": [
+        {
+          "src": "/works/inhaler-world/poster-03.png",
+          "caption": "Poster 03: green product identity inside a torn image"
+        },
+        {
+          "src": "/works/inhaler-world/poster-04.png",
+          "caption": "Poster 04: ocean, clouds and a shifted product scale"
+        }
+      ]
+    },
+    {
+      "page": 200,
+      "kind": "evidence",
+      "case": "inhaler-world",
+      "pageId": "archive-3",
+      "title": "Image archive 03",
+      "body": "",
+      "images": [
+        {
+          "src": "/works/inhaler-world/poster-05.png",
+          "caption": "Poster 05: a classical figure crosses the product boundary"
+        },
+        {
+          "src": "/works/inhaler-world/poster-06.png",
+          "caption": "Poster 06: a breathing gesture enlarged into a distant opening"
+        }
+      ]
+    },
+    {
+      "page": 201,
+      "kind": "evidence",
+      "case": "inhaler-world",
+      "pageId": "archive-4",
+      "title": "Image archive 04",
+      "body": "",
+      "images": [
+        {
+          "src": "/works/inhaler-world/poster-07.png",
+          "caption": "Poster 07: mountain, arch and product in a vertical composition"
+        },
+        {
+          "src": "/works/inhaler-world/poster-08.png",
+          "caption": "Poster 08: contemporary photography beside painted texture"
+        }
+      ]
+    },
+    {
+      "page": 202,
+      "kind": "evidence",
+      "case": "inhaler-world",
+      "pageId": "archive-5",
+      "title": "Image archive 05",
+      "body": "",
+      "images": [
+        {
+          "src": "/works/inhaler-world/poster-09.png",
+          "caption": "Poster 09: the product as an anchor between sky and sea"
+        },
+        {
+          "src": "/works/inhaler-world/poster-10.png",
+          "caption": "Poster 10: figure interaction expands a small action into space"
+        }
+      ]
+    },
+    {
+      "page": 203,
+      "kind": "evidence",
+      "case": "inhaler-world",
+      "pageId": "archive-6",
+      "title": "Image archive 06",
+      "body": "",
+      "images": [
+        {
+          "src": "/works/inhaler-world/poster-11.png",
+          "caption": "Poster 11: the series closes on a wider world"
+        },
+        {
+          "src": "/works/inhaler-world/poster-01.webp",
+          "caption": "A Small Inhaler & A Wider World — Surreal Product Poster Series"
+        }
+      ]
+    },
+    {
+      "page": 204,
+      "kind": "project",
+      "case": "karimoku"
+    },
+    {
+      "page": 205,
       "kind": "evidence",
       "case": "karimoku",
       "pageId": "archive-1",
@@ -2921,7 +3035,7 @@
       ]
     },
     {
-      "page": 199,
+      "page": 206,
       "kind": "evidence",
       "case": "karimoku",
       "pageId": "archive-2",
@@ -2941,7 +3055,7 @@
       ]
     },
     {
-      "page": 200,
+      "page": 207,
       "kind": "evidence",
       "case": "karimoku",
       "pageId": "archive-3",
@@ -2961,7 +3075,7 @@
       ]
     },
     {
-      "page": 201,
+      "page": 208,
       "kind": "evidence",
       "case": "karimoku",
       "pageId": "archive-4",
@@ -2981,7 +3095,7 @@
       ]
     },
     {
-      "page": 202,
+      "page": 209,
       "kind": "evidence",
       "case": "karimoku",
       "pageId": "archive-5",
@@ -3001,7 +3115,7 @@
       ]
     },
     {
-      "page": 203,
+      "page": 210,
       "kind": "evidence",
       "case": "karimoku",
       "pageId": "archive-6",
@@ -3021,7 +3135,7 @@
       ]
     },
     {
-      "page": 204,
+      "page": 211,
       "kind": "evidence",
       "case": "karimoku",
       "pageId": "archive-7",
@@ -3041,7 +3155,7 @@
       ]
     },
     {
-      "page": 205,
+      "page": 212,
       "kind": "evidence",
       "case": "karimoku",
       "pageId": "archive-8",
@@ -3061,7 +3175,7 @@
       ]
     },
     {
-      "page": 206,
+      "page": 213,
       "kind": "evidence",
       "case": "karimoku",
       "pageId": "archive-9",
@@ -3081,7 +3195,7 @@
       ]
     },
     {
-      "page": 207,
+      "page": 214,
       "kind": "evidence",
       "case": "karimoku",
       "pageId": "archive-10",
@@ -3101,7 +3215,7 @@
       ]
     },
     {
-      "page": 208,
+      "page": 215,
       "kind": "evidence",
       "case": "karimoku",
       "pageId": "archive-11",
@@ -3116,12 +3230,12 @@
       ]
     },
     {
-      "page": 209,
+      "page": 216,
       "kind": "project",
       "case": "biyuan"
     },
     {
-      "page": 210,
+      "page": 217,
       "kind": "evidence",
       "case": "biyuan",
       "pageId": "archive-1",
@@ -3141,7 +3255,7 @@
       ]
     },
     {
-      "page": 211,
+      "page": 218,
       "kind": "evidence",
       "case": "biyuan",
       "pageId": "archive-2",
@@ -3161,7 +3275,7 @@
       ]
     },
     {
-      "page": 212,
+      "page": 219,
       "kind": "evidence",
       "case": "biyuan",
       "pageId": "archive-3",
@@ -3176,12 +3290,12 @@
       ]
     },
     {
-      "page": 213,
+      "page": 220,
       "kind": "project",
       "case": "yelisi"
     },
     {
-      "page": 214,
+      "page": 221,
       "kind": "evidence",
       "case": "yelisi",
       "pageId": "archive-1",
@@ -3201,7 +3315,7 @@
       ]
     },
     {
-      "page": 215,
+      "page": 222,
       "kind": "evidence",
       "case": "yelisi",
       "pageId": "archive-2",
@@ -3221,7 +3335,7 @@
       ]
     },
     {
-      "page": 216,
+      "page": 223,
       "kind": "evidence",
       "case": "yelisi",
       "pageId": "archive-3",
@@ -3236,7 +3350,7 @@
       ]
     },
     {
-      "page": 217,
+      "page": 224,
       "kind": "evidence",
       "case": "yelisi",
       "pageId": "archive-4",
@@ -3256,7 +3370,7 @@
       ]
     },
     {
-      "page": 218,
+      "page": 225,
       "kind": "evidence",
       "case": "yelisi",
       "pageId": "archive-5",
@@ -3276,7 +3390,7 @@
       ]
     },
     {
-      "page": 219,
+      "page": 226,
       "kind": "evidence",
       "case": "yelisi",
       "pageId": "archive-6",
@@ -3296,7 +3410,7 @@
       ]
     },
     {
-      "page": 220,
+      "page": 227,
       "kind": "evidence",
       "case": "yelisi",
       "pageId": "archive-7",
@@ -3316,7 +3430,7 @@
       ]
     },
     {
-      "page": 221,
+      "page": 228,
       "kind": "evidence",
       "case": "yelisi",
       "pageId": "archive-8",
@@ -3336,7 +3450,7 @@
       ]
     },
     {
-      "page": 222,
+      "page": 229,
       "kind": "evidence",
       "case": "yelisi",
       "pageId": "archive-9",
@@ -3356,7 +3470,7 @@
       ]
     },
     {
-      "page": 223,
+      "page": 230,
       "kind": "evidence",
       "case": "yelisi",
       "pageId": "archive-10",
@@ -3376,7 +3490,7 @@
       ]
     },
     {
-      "page": 224,
+      "page": 231,
       "kind": "evidence",
       "case": "yelisi",
       "pageId": "archive-11",
@@ -3396,7 +3510,7 @@
       ]
     },
     {
-      "page": 225,
+      "page": 232,
       "kind": "evidence",
       "case": "yelisi",
       "pageId": "archive-12",
@@ -3416,7 +3530,7 @@
       ]
     },
     {
-      "page": 226,
+      "page": 233,
       "kind": "evidence",
       "case": "yelisi",
       "pageId": "archive-13",
@@ -3431,12 +3545,12 @@
       ]
     },
     {
-      "page": 227,
+      "page": 234,
       "kind": "project",
       "case": "periastra"
     },
     {
-      "page": 228,
+      "page": 235,
       "kind": "evidence",
       "case": "periastra",
       "pageId": "archive-1",
@@ -3456,7 +3570,7 @@
       ]
     },
     {
-      "page": 229,
+      "page": 236,
       "kind": "evidence",
       "case": "periastra",
       "pageId": "archive-2",
@@ -3471,7 +3585,7 @@
       ]
     },
     {
-      "page": 230,
+      "page": 237,
       "kind": "evidence",
       "case": "periastra",
       "pageId": "archive-3",
@@ -3486,7 +3600,7 @@
       ]
     },
     {
-      "page": 231,
+      "page": 238,
       "kind": "evidence",
       "case": "periastra",
       "pageId": "archive-4",
@@ -3506,7 +3620,7 @@
       ]
     },
     {
-      "page": 232,
+      "page": 239,
       "kind": "evidence",
       "case": "periastra",
       "pageId": "archive-5",
@@ -3526,7 +3640,7 @@
       ]
     },
     {
-      "page": 233,
+      "page": 240,
       "kind": "evidence",
       "case": "periastra",
       "pageId": "archive-6",
@@ -3546,7 +3660,7 @@
       ]
     },
     {
-      "page": 234,
+      "page": 241,
       "kind": "evidence",
       "case": "periastra",
       "pageId": "archive-7",
@@ -3566,7 +3680,7 @@
       ]
     },
     {
-      "page": 235,
+      "page": 242,
       "kind": "evidence",
       "case": "periastra",
       "pageId": "archive-8",
@@ -3586,7 +3700,7 @@
       ]
     },
     {
-      "page": 236,
+      "page": 243,
       "kind": "evidence",
       "case": "periastra",
       "pageId": "archive-9",
@@ -3606,7 +3720,7 @@
       ]
     },
     {
-      "page": 237,
+      "page": 244,
       "kind": "evidence",
       "case": "periastra",
       "pageId": "archive-10",
@@ -3626,7 +3740,7 @@
       ]
     },
     {
-      "page": 238,
+      "page": 245,
       "kind": "evidence",
       "case": "periastra",
       "pageId": "archive-11",
@@ -3641,12 +3755,12 @@
       ]
     },
     {
-      "page": 239,
+      "page": 246,
       "kind": "project",
       "case": "ai-video-systems"
     },
     {
-      "page": 240,
+      "page": 247,
       "kind": "evidence",
       "case": "ai-video-systems",
       "pageId": "archive-1",
@@ -3660,7 +3774,7 @@
       ]
     },
     {
-      "page": 241,
+      "page": 248,
       "kind": "evidence",
       "case": "ai-video-systems",
       "pageId": "archive-2",
@@ -3674,7 +3788,7 @@
       ]
     },
     {
-      "page": 242,
+      "page": 249,
       "kind": "evidence",
       "case": "ai-video-systems",
       "pageId": "archive-3",
@@ -3688,7 +3802,7 @@
       ]
     },
     {
-      "page": 243,
+      "page": 250,
       "kind": "evidence",
       "case": "ai-video-systems",
       "pageId": "archive-4",
@@ -3702,7 +3816,7 @@
       ]
     },
     {
-      "page": 244,
+      "page": 251,
       "kind": "evidence",
       "case": "ai-video-systems",
       "pageId": "archive-5",
@@ -3716,12 +3830,12 @@
       ]
     },
     {
-      "page": 245,
+      "page": 252,
       "kind": "project",
       "case": "lensflow"
     },
     {
-      "page": 246,
+      "page": 253,
       "kind": "evidence",
       "case": "lensflow",
       "pageId": "archive-1",
@@ -3741,12 +3855,12 @@
       ]
     },
     {
-      "page": 247,
+      "page": 254,
       "kind": "project",
       "case": "yantai"
     },
     {
-      "page": 248,
+      "page": 255,
       "kind": "evidence",
       "case": "yantai",
       "pageId": "archive-1",
@@ -3760,12 +3874,12 @@
       ]
     },
     {
-      "page": 249,
+      "page": 256,
       "kind": "project",
       "case": "xintiao"
     },
     {
-      "page": 250,
+      "page": 257,
       "kind": "evidence",
       "case": "xintiao",
       "pageId": "archive-1",
@@ -3785,7 +3899,7 @@
       ]
     },
     {
-      "page": 251,
+      "page": 258,
       "kind": "evidence",
       "case": "xintiao",
       "pageId": "archive-2",
@@ -3805,7 +3919,7 @@
       ]
     },
     {
-      "page": 252,
+      "page": 259,
       "kind": "evidence",
       "case": "xintiao",
       "pageId": "archive-3",
@@ -3820,12 +3934,12 @@
       ]
     },
     {
-      "page": 253,
+      "page": 260,
       "kind": "project",
       "case": "formline"
     },
     {
-      "page": 254,
+      "page": 261,
       "kind": "evidence",
       "case": "formline",
       "pageId": "archive-1",
@@ -3840,7 +3954,7 @@
       ]
     },
     {
-      "page": 255,
+      "page": 262,
       "kind": "evidence",
       "case": "formline",
       "pageId": "archive-2",
@@ -3855,12 +3969,12 @@
       ]
     },
     {
-      "page": 256,
+      "page": 263,
       "kind": "project",
       "case": "resume-formatter"
     },
     {
-      "page": 257,
+      "page": 264,
       "kind": "evidence",
       "case": "resume-formatter",
       "pageId": "archive-1",
@@ -3880,7 +3994,7 @@
       ]
     },
     {
-      "page": 258,
+      "page": 265,
       "kind": "evidence",
       "case": "resume-formatter",
       "pageId": "archive-2",
@@ -3895,12 +4009,12 @@
       ]
     },
     {
-      "page": 259,
+      "page": 266,
       "kind": "project",
       "case": "visual-archive"
     },
     {
-      "page": 260,
+      "page": 267,
       "kind": "evidence",
       "case": "visual-archive",
       "pageId": "archive-1",
@@ -3918,12 +4032,12 @@
       ]
     },
     {
-      "page": 261,
+      "page": 268,
       "kind": "project",
       "case": "aesthetic-atlas"
     },
     {
-      "page": 262,
+      "page": 269,
       "kind": "evidence",
       "case": "aesthetic-atlas",
       "pageId": "archive-1",
@@ -3941,12 +4055,12 @@
       ]
     },
     {
-      "page": 263,
+      "page": 270,
       "kind": "project",
       "case": "image-2-5-xhs"
     },
     {
-      "page": 264,
+      "page": 271,
       "kind": "evidence",
       "case": "image-2-5-xhs",
       "pageId": "archive-1",
@@ -3964,7 +4078,7 @@
       ]
     },
     {
-      "page": 265,
+      "page": 272,
       "kind": "evidence",
       "case": "image-2-5-xhs",
       "pageId": "archive-2",
@@ -3978,12 +4092,12 @@
       ]
     },
     {
-      "page": 266,
+      "page": 273,
       "kind": "project",
       "case": "xhs-methods"
     },
     {
-      "page": 267,
+      "page": 274,
       "kind": "evidence",
       "case": "xhs-methods",
       "pageId": "archive-1",
@@ -3997,12 +4111,12 @@
       ]
     },
     {
-      "page": 268,
+      "page": 275,
       "kind": "project",
       "case": "ink-realm"
     },
     {
-      "page": 269,
+      "page": 276,
       "kind": "evidence",
       "case": "ink-realm",
       "pageId": "archive-1",
@@ -4016,7 +4130,7 @@
       ]
     },
     {
-      "page": 270,
+      "page": 277,
       "kind": "evidence",
       "case": "ink-realm",
       "pageId": "archive-2",
@@ -4030,7 +4144,7 @@
       ]
     },
     {
-      "page": 271,
+      "page": 278,
       "kind": "evidence",
       "case": "ink-realm",
       "pageId": "archive-3",
@@ -4044,7 +4158,7 @@
       ]
     },
     {
-      "page": 272,
+      "page": 279,
       "kind": "evidence",
       "case": "ink-realm",
       "pageId": "archive-4",
@@ -4058,7 +4172,7 @@
       ]
     },
     {
-      "page": 273,
+      "page": 280,
       "kind": "evidence",
       "case": "ink-realm",
       "pageId": "archive-5",
@@ -4072,7 +4186,7 @@
       ]
     },
     {
-      "page": 274,
+      "page": 281,
       "kind": "evidence",
       "case": "ink-realm",
       "pageId": "archive-6",
@@ -4086,7 +4200,7 @@
       ]
     },
     {
-      "page": 275,
+      "page": 282,
       "kind": "evidence",
       "case": "ink-realm",
       "pageId": "archive-7",
@@ -4100,7 +4214,7 @@
       ]
     },
     {
-      "page": 276,
+      "page": 283,
       "kind": "evidence",
       "case": "ink-realm",
       "pageId": "archive-8",
@@ -4114,7 +4228,7 @@
       ]
     },
     {
-      "page": 277,
+      "page": 284,
       "kind": "evidence",
       "case": "ink-realm",
       "pageId": "archive-9",
@@ -4128,7 +4242,7 @@
       ]
     },
     {
-      "page": 278,
+      "page": 285,
       "kind": "evidence",
       "case": "ink-realm",
       "pageId": "archive-10",
@@ -4142,12 +4256,12 @@
       ]
     },
     {
-      "page": 279,
+      "page": 286,
       "kind": "project",
       "case": "character-consistency"
     },
     {
-      "page": 280,
+      "page": 287,
       "kind": "evidence",
       "case": "character-consistency",
       "pageId": "archive-1",
@@ -4161,7 +4275,7 @@
       ]
     },
     {
-      "page": 281,
+      "page": 288,
       "kind": "evidence",
       "case": "character-consistency",
       "pageId": "archive-2",
@@ -4175,7 +4289,7 @@
       ]
     },
     {
-      "page": 282,
+      "page": 289,
       "kind": "evidence",
       "case": "character-consistency",
       "pageId": "archive-3",
@@ -4193,7 +4307,7 @@
       ]
     },
     {
-      "page": 283,
+      "page": 290,
       "kind": "evidence",
       "case": "character-consistency",
       "pageId": "archive-4",
@@ -4211,12 +4325,12 @@
       ]
     },
     {
-      "page": 284,
+      "page": 291,
       "kind": "project",
       "case": "portrait-lighting"
     },
     {
-      "page": 285,
+      "page": 292,
       "kind": "evidence",
       "case": "portrait-lighting",
       "pageId": "archive-1",
@@ -4230,7 +4344,7 @@
       ]
     },
     {
-      "page": 286,
+      "page": 293,
       "kind": "evidence",
       "case": "portrait-lighting",
       "pageId": "archive-2",
@@ -4244,7 +4358,7 @@
       ]
     },
     {
-      "page": 287,
+      "page": 294,
       "kind": "evidence",
       "case": "portrait-lighting",
       "pageId": "archive-3",
@@ -4262,7 +4376,7 @@
       ]
     },
     {
-      "page": 288,
+      "page": 295,
       "kind": "evidence",
       "case": "portrait-lighting",
       "pageId": "archive-4",
@@ -4280,7 +4394,7 @@
       ]
     },
     {
-      "page": 289,
+      "page": 296,
       "kind": "evidence",
       "case": "portrait-lighting",
       "pageId": "archive-5",
@@ -4298,7 +4412,7 @@
       ]
     },
     {
-      "page": 290,
+      "page": 297,
       "kind": "evidence",
       "case": "portrait-lighting",
       "pageId": "archive-6",
@@ -4316,12 +4430,12 @@
       ]
     },
     {
-      "page": 291,
+      "page": 298,
       "kind": "project",
       "case": "mini-dv-coffee"
     },
     {
-      "page": 292,
+      "page": 299,
       "kind": "evidence",
       "case": "mini-dv-coffee",
       "pageId": "archive-1",
@@ -4339,7 +4453,7 @@
       ]
     },
     {
-      "page": 293,
+      "page": 300,
       "kind": "evidence",
       "case": "mini-dv-coffee",
       "pageId": "archive-2",
@@ -4353,12 +4467,12 @@
       ]
     },
     {
-      "page": 294,
+      "page": 301,
       "kind": "project",
       "case": "autumn-fashion-film"
     },
     {
-      "page": 295,
+      "page": 302,
       "kind": "evidence",
       "case": "autumn-fashion-film",
       "pageId": "archive-1",
@@ -4376,7 +4490,7 @@
       ]
     },
     {
-      "page": 296,
+      "page": 303,
       "kind": "evidence",
       "case": "autumn-fashion-film",
       "pageId": "archive-2",
@@ -4390,7 +4504,7 @@
       ]
     },
     {
-      "page": 297,
+      "page": 304,
       "kind": "contact",
       "case": null
     }
@@ -5949,929 +6063,1014 @@
       ]
     },
     {
+      "publicPath": "/works/inhaler-world/poster-01.webp",
+      "sha256": "a497146db867b823d01673b89a72702ad8663664418474948a5659825a79ab2f",
+      "pages": [
+        197,
+        203
+      ]
+    },
+    {
+      "publicPath": "/works/inhaler-world/poster-01.png",
+      "sha256": "6bb69d40bec2f507004fde80874ac894f437f120deb279501fbe883756f7a59a",
+      "pages": [
+        198
+      ]
+    },
+    {
+      "publicPath": "/works/inhaler-world/poster-02.png",
+      "sha256": "31b7ca1b5c85ecd6dc6ff98670c729564c1b787c752662264de75ab6673b5bbf",
+      "pages": [
+        198
+      ]
+    },
+    {
+      "publicPath": "/works/inhaler-world/poster-03.png",
+      "sha256": "91cf085aec1b794a562891d9f75898ef25d8fbcac3ca6aecba222f15e0c18cf3",
+      "pages": [
+        199
+      ]
+    },
+    {
+      "publicPath": "/works/inhaler-world/poster-04.png",
+      "sha256": "b5bc1579742884f3ce5d25f97cc5e7a2c703b5db9ee0f7e126d28f5a8f64807c",
+      "pages": [
+        199
+      ]
+    },
+    {
+      "publicPath": "/works/inhaler-world/poster-05.png",
+      "sha256": "570ae647308d7e2453dbab4814fa53c833e2fa031cf2b7e5a870619b6b7853c1",
+      "pages": [
+        200
+      ]
+    },
+    {
+      "publicPath": "/works/inhaler-world/poster-06.png",
+      "sha256": "8949534e28372debbd0f5a0e2c7f5bc49b6c0dfe11fb3210978e6a397a42519b",
+      "pages": [
+        200
+      ]
+    },
+    {
+      "publicPath": "/works/inhaler-world/poster-07.png",
+      "sha256": "353ae8addfa4b4a2b92f4f916b2dfb99a551bc471f4aa6f07bc0e0468b298a21",
+      "pages": [
+        201
+      ]
+    },
+    {
+      "publicPath": "/works/inhaler-world/poster-08.png",
+      "sha256": "d0191d0c9e335ceefe7f06e2b2c065aebd3d040fec1e46c497633147dbfef64a",
+      "pages": [
+        201
+      ]
+    },
+    {
+      "publicPath": "/works/inhaler-world/poster-09.png",
+      "sha256": "809be623eed2fffd92a2a3e140c4b17e23a33eb23b58b6073f37b39395a721bf",
+      "pages": [
+        202
+      ]
+    },
+    {
+      "publicPath": "/works/inhaler-world/poster-10.png",
+      "sha256": "2fb53adbcdc0dd65bb39e48ff285ea0d6584d3069685f971cf58a61833a8319d",
+      "pages": [
+        202
+      ]
+    },
+    {
+      "publicPath": "/works/inhaler-world/poster-11.png",
+      "sha256": "91998176838251030bbc662113d9a59a728b5c288a211da13629c46b8253d95a",
+      "pages": [
+        203
+      ]
+    },
+    {
       "publicPath": "/works/brand/karimoku/karimoku-showroom-cover.png",
       "sha256": "e8171a938a54e9a1e69606e7a6e2ce60906e1ec28b014cfe259b5ed03d85e5b1",
       "pages": [
-        197,
-        198
+        204,
+        205
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-01.webp",
       "sha256": "ab11513fb5e383154dcac6380ecb49efe0af2fc008f1b2156f5fff106e677d70",
       "pages": [
-        198
+        205
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-07.webp",
       "sha256": "0e058230fb1bdab488641d67b64963b82f27c38db546435c0d5dd11a47b6ef04",
       "pages": [
-        199
+        206
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-15.webp",
       "sha256": "80541f84f74e1edbee3501dd312b59c7fe4b9e6b139f3cac6178b4e7813b8370",
       "pages": [
-        199
+        206
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-02.webp",
       "sha256": "8911451a3d5c4de4768bff9b8f42fdccf1fc6ae9dfdf92a62ab48b1b7e7f4f24",
       "pages": [
-        200
+        207
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-03.webp",
       "sha256": "71c9e49b4defe3c947cde2efae284a75d7053e3c5953f8380d5f825f938a13a2",
       "pages": [
-        200
+        207
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-04.webp",
       "sha256": "9c97fea581c4f4c2a0acd96b4c835284db827adae8c5a99cabbccd0682c84ccd",
       "pages": [
-        201
+        208
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-05.webp",
       "sha256": "aabd34888d009d43c73d7d2226e4ca8eb189c49c61323a9e2f4ee0d5c0e9de22",
       "pages": [
-        201
+        208
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-06.webp",
       "sha256": "839d854f28ac76fa9204861737d93bd98948832c64b9af7ddabaf772eae2c8b4",
       "pages": [
-        202
+        209
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-08.webp",
       "sha256": "18e1870f37155f8a8ac37455b41a1c6650ffbea1d5029f587bc04932ece9aa65",
       "pages": [
-        202
+        209
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-09.webp",
       "sha256": "3f46747061e8056a3aaf2cd9220879914d574efb670305ca530b67d03d87aa3c",
       "pages": [
-        203
+        210
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-10.webp",
       "sha256": "a15022581e91be8c5fbb377d287455763ea8cd666d4d2f66cf038f968968da68",
       "pages": [
-        203
+        210
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-11.webp",
       "sha256": "4c44985c1a75e8fe8bbb86afacf66857be04cd6e1f6060152737958bf98dc89e",
       "pages": [
-        204
+        211
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-12.webp",
       "sha256": "443ced632e03aa435a601bd8e5766d039d786b805334b956314974954e7d3877",
       "pages": [
-        204
+        211
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-13.webp",
       "sha256": "05288556147cd8813c1a03f679702c95987e3b38d668ec3d2f236ccaac31dd57",
       "pages": [
-        205
+        212
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-14.webp",
       "sha256": "1480f151b7d86d1708d71f0d9d2e7efd601e94e6b55d540782ff1e8ad98435a8",
       "pages": [
-        205
+        212
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-16.webp",
       "sha256": "91fe1b27f077f86233247f605642b9e679ed2f42b1b0c16aad35063396baa963",
       "pages": [
-        206
+        213
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-17.webp",
       "sha256": "88332e1afcfa2aca81f9dd3927d904e60bcfe566912fae6280a6f1f3a17c036b",
       "pages": [
-        206
+        213
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-18.webp",
       "sha256": "ad4f7470f76765d9449947f12190b851c437038b33c2ab2bc8dc2ef629f26f37",
       "pages": [
-        207
+        214
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-19.webp",
       "sha256": "a98c5744c3f7ad7f00230d978ac46dc8ac908b5ae978fcd5b09cb21e157a12c0",
       "pages": [
-        207
+        214
       ]
     },
     {
       "publicPath": "/works/boards/karimoku/karimoku-20.webp",
       "sha256": "68f78c0fa3846f4d432447b9fe4ab43ed4d92941d5bbdbe2ba0a68fa7b5f1b3a",
       "pages": [
-        208
+        215
       ]
     },
     {
       "publicPath": "/works/refinement-brand/biyuan/home-desktop.png",
       "sha256": "b0e57ff88733fe5eee305ea9d9b1ab9b132bc25d79c72ad483463f0adc175172",
       "pages": [
-        209,
-        210
+        216,
+        217
       ]
     },
     {
       "publicPath": "/works/refinement-brand/biyuan/models-desktop.png",
       "sha256": "15af1371b1ac29ddbddd8dc3622d41ed0334e1c20f12b59f896679cb82a4d5b3",
       "pages": [
-        210
+        217
       ]
     },
     {
       "publicPath": "/works/refinement-brand/biyuan/models-filtered.png",
       "sha256": "6dd108150f6a06c4215ff155c7bd89c20d831f2f94af5f1d3cf8c1ca2ede45c4",
       "pages": [
-        211
+        218
       ]
     },
     {
       "publicPath": "/media/v7/brand/biyuan-logic.webp",
       "sha256": "2941dab9fad338ab27f39eec33c5d0cb201c489cbdf321caf1e89e97f5bbad05",
       "pages": [
-        211
+        218
       ]
     },
     {
       "publicPath": "/works/refinement-brand/biyuan/home-mobile.png",
       "sha256": "91456a57479cee34df97e808304b0ddf140cef53b56f5406e8f57881b06fa7e9",
       "pages": [
-        212
+        219
       ]
     },
     {
       "publicPath": "/works/brand/yelisi/yelisi-logo.webp",
       "sha256": "529657e9b73686384822f7ac063c2faff6a419d5e90900ccd4c56701f8318961",
       "pages": [
-        213,
-        214
+        220,
+        221
       ]
     },
     {
       "publicPath": "/works/brand/yelisi/songnasty-historical-logo.webp",
       "sha256": "81e13b35fee3ee6e5852d734494aae0cb9ee4963c6b58b65e045ff28191b47dc",
       "pages": [
-        214
+        221
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-01.webp",
       "sha256": "ff64396640c0256c69f491935af2b559de73a35d3d659eb1309339b5f0859e47",
       "pages": [
-        215
+        222
       ]
     },
     {
       "publicPath": "/media/v7/brand/yelisi-logic.webp",
       "sha256": "c5af32259c989620fd9014f8c3dc8ec0559cd9377f34d4082465b2cc8ea1c5bb",
       "pages": [
-        215
+        222
       ]
     },
     {
       "publicPath": "/works/brand/yelisi/snake-component-dimensions-concept.webp",
       "sha256": "e7db66964c17129b13ae4c686959bf73bce8c5766f99cb95d293a036b4f61844",
       "pages": [
-        216
+        223
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-02.webp",
       "sha256": "2793f36d5247ff1d758e153aeffc405887e3fdd48824ff5720db8a1a2f0cb039",
       "pages": [
-        217
+        224
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-03.webp",
       "sha256": "77ab0d4dcfef593c7aba9fff613bb9b5f51a5867ea0df5b418ad0840260e69cf",
       "pages": [
-        217
+        224
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-04.webp",
       "sha256": "dcd0a5953196ff53c4e4ff230440485ffc4933dc4f4be4cb546b25c9cf053afb",
       "pages": [
-        218
+        225
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-05.webp",
       "sha256": "e83f87ed162710ff38ca4bb1f15879c625bbd1aeb676de8a94a4313db27d5c1a",
       "pages": [
-        218
+        225
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-06.webp",
       "sha256": "3c777fc86fb40f9a2b7697d4b32e71876c6ecb40a4b529c0ac31e9599bf17a66",
       "pages": [
-        219
+        226
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-07.webp",
       "sha256": "5888bc7161f268491364d356691403e73e83234af9ff4f56b469d218303cf4d5",
       "pages": [
-        219
+        226
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-08.webp",
       "sha256": "a3ed0ff58625c657a85836f35234124b2aa15fbd23e62aefced906784e8729b9",
       "pages": [
-        220
+        227
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-09.webp",
       "sha256": "16bd30a16244fdf813dbf39230773a128054b64a7456d0c2ec12c675a1cad429",
       "pages": [
-        220
+        227
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-10.webp",
       "sha256": "5811a11be809a658846b6c7d9323a37f3fd5664d75c187349073a5cebea8235d",
       "pages": [
-        221
+        228
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-11.webp",
       "sha256": "ff2851bdbc6a92f0248643de025a7d9ce9881ece787468e0622188c8eee208e0",
       "pages": [
-        221
+        228
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-12.webp",
       "sha256": "30efcf4e0edd83255697d200659f76baeb616583475aebfbfbb3eed1d021d456",
       "pages": [
-        222
+        229
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-13.webp",
       "sha256": "131300684c006a49449ea4671fed4d0a04f5ae7f8f528160dcfc47c7a1ce386f",
       "pages": [
-        222
+        229
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-14.webp",
       "sha256": "1a02eb9024e881b9c6da47d718a240cea6e752e85ac8752520eaad61cb5291b9",
       "pages": [
-        223
+        230
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-15.webp",
       "sha256": "2fd87f3f9e5fcd6476727d95483a3513cdd4ae8785d90757a95d9d566fb4f3f3",
       "pages": [
-        223
+        230
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-16.webp",
       "sha256": "195e6ec8f8a9a183dca1ec8302552089dcab4e4966af20683b261d65b3ba506a",
       "pages": [
-        224
+        231
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-17.webp",
       "sha256": "f494cf5902232bb6311453b179f134e6d358c133cace740ef852ad40745e0d0c",
       "pages": [
-        224
+        231
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-18.webp",
       "sha256": "5a57fbf7053f99f3d426378d995bee5b28b8ec331eeb7175ccac030f88af9c75",
       "pages": [
-        225
+        232
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-19.webp",
       "sha256": "f116c5832ddb27a102eb4eac80abeba5b45dcb2ccc37fad518f6655e806ac8b7",
       "pages": [
-        225
+        232
       ]
     },
     {
       "publicPath": "/works/boards/yelisi/yelisi-20.webp",
       "sha256": "6725d99944c99d854c06ea318094417a92fefabc6283f67a16b57aa683fae341",
       "pages": [
-        226
+        233
       ]
     },
     {
       "publicPath": "/works/brand/periastra/final-wordmark.png",
       "sha256": "92b7c176b3e083da1a5a240ca90f270860064616902e56e0e9d5921c595ad395",
       "pages": [
-        227,
-        228
+        234,
+        235
       ]
     },
     {
       "publicPath": "/works/boards/periastra/periastra-01.webp",
       "sha256": "3d3e9e1e59fb20d8d5db235cddf2ef95fd8c17f2bc211b0b0da9b9ff18590c83",
       "pages": [
-        228
+        235
       ]
     },
     {
       "publicPath": "/media/v7/brand/periastra-logic.webp",
       "sha256": "2335f5254e48570283ee90d47a8cee6f66d472ae6daeb1d5f8c4984abbe8fffc",
       "pages": [
-        229
+        236
       ]
     },
     {
       "publicPath": "/works/brand/periastra/logo/periastra-logo-v01-20260422.webp",
       "sha256": "2637767939f8aba533262f6090ef30e01ba1831bdc3390b37d116f553c722824",
       "pages": [
-        230
+        237
       ]
     },
     {
       "publicPath": "/works/brand/periastra/exploration-orbit.png",
       "sha256": "61b2f04987eeeeae3d6f4ea6b2c546179570c7950bda5ad2044640458cf28ba4",
       "pages": [
-        231
+        238
       ]
     },
     {
       "publicPath": "/works/boards/periastra/periastra-02.webp",
       "sha256": "90a9a05416f9eb4f0410eeae0e41023db216c6e98b2dddb0f62e8b936da9bfaa",
       "pages": [
-        231
+        238
       ]
     },
     {
       "publicPath": "/works/boards/periastra/periastra-03.webp",
       "sha256": "c2f2fafd37e711b15e395950bcf0f4ed706b26e491698b26fb398c2dbeaf522c",
       "pages": [
-        232
+        239
       ]
     },
     {
       "publicPath": "/works/boards/periastra/periastra-04.webp",
       "sha256": "30bf2ed28ffed231e1ac40088f04a368d03d6c70e9f7d92de8a81453387167ea",
       "pages": [
-        232
+        239
       ]
     },
     {
       "publicPath": "/works/boards/periastra/periastra-05.webp",
       "sha256": "fa7bca65da93635739463db1c01a6b8a12b97c212946a9c23e22d21bdfb2dcdd",
       "pages": [
-        233
+        240
       ]
     },
     {
       "publicPath": "/works/boards/periastra/periastra-06.webp",
       "sha256": "5aff920cc02e42d287c634d7918f6a4fcd340473aec4157db5ac7a7f4b7b34a6",
       "pages": [
-        233
+        240
       ]
     },
     {
       "publicPath": "/works/boards/periastra/periastra-07.webp",
       "sha256": "85999dca82800301df6bc37f8baebaf20ee670a2bd12e385ffb8ab843532f22c",
       "pages": [
-        234
+        241
       ]
     },
     {
       "publicPath": "/works/boards/periastra/periastra-08.webp",
       "sha256": "9c28bb1d05abb3cc4462cb8b1a00c963dca17cba4c57f3c62bc51ff0cc7e4cf3",
       "pages": [
-        234
+        241
       ]
     },
     {
       "publicPath": "/works/boards/periastra/periastra-09.webp",
       "sha256": "4fb90ea708259a27198e534681f6509c9d80cee278d4832cdcff454f85007f82",
       "pages": [
-        235
+        242
       ]
     },
     {
       "publicPath": "/works/boards/periastra/periastra-10.webp",
       "sha256": "fda4bd84a3f134ec11e57c7bc4e869cfb2b1d5df39fc0719b2604c55b2c17b27",
       "pages": [
-        235
+        242
       ]
     },
     {
       "publicPath": "/works/boards/periastra/periastra-11.webp",
       "sha256": "3e322e8b5911e7b5f4f9cdd152e6fae8f0d5a69d25daac82d27fe9c8758f9f25",
       "pages": [
-        236
+        243
       ]
     },
     {
       "publicPath": "/works/boards/periastra/periastra-12.webp",
       "sha256": "b0fb62b7abaac2b15909e642ac599193a3e76411a18e2119abdd72b7a84ca86c",
       "pages": [
-        236
+        243
       ]
     },
     {
       "publicPath": "/works/boards/periastra/periastra-13.webp",
       "sha256": "ec3e831254cf93b9ab0cd24d9e4ee8c9bcffc1ec33b11fd79e4416b76f87b084",
       "pages": [
-        237
+        244
       ]
     },
     {
       "publicPath": "/works/boards/periastra/periastra-14.webp",
       "sha256": "5996636020cfc3b21dcc9149882130c8126bcf52ab464d03ff407f1f358e25eb",
       "pages": [
-        237
+        244
       ]
     },
     {
       "publicPath": "/works/boards/periastra/periastra-15.webp",
       "sha256": "c33cd5f69c6e1f4ad6619267a77f5072839d1f591f55907cdfe325a3be9ccb9e",
       "pages": [
-        238
+        245
       ]
     },
     {
       "publicPath": "/works/ai-video-systems/ai-video-systems-cover.webp",
       "sha256": "9ca5ff12fd42004121e8ea8d7ba1707590f687fc558cf17f13214fcc98250152",
       "pages": [
-        239,
-        243
+        246,
+        250
       ]
     },
     {
       "publicPath": "/works/ai-video-systems/workflow-map.svg",
       "sha256": "56691962721efbacb16d53da78c0fccc9a06d9947c8e405571b8147db865c31c",
       "pages": [
-        240
+        247
       ]
     },
     {
       "publicPath": "/works/ai-video-systems/ai-video-systems-blocking.webp",
       "sha256": "a65e12ca8a3a0d8fc7c7f5aa9932e912354cd68be7e0583f14a4f087f9b758bf",
       "pages": [
-        241
+        248
       ]
     },
     {
       "publicPath": "/works/ai-video-systems/control-layers.svg",
       "sha256": "05c73559407ddefd547af55312065e9cfd8845d87f77dfa6820ca2cf4c3aa739",
       "pages": [
-        242
+        249
       ]
     },
     {
       "publicPath": "/works/ai-video-systems/prompt-architecture.svg",
       "sha256": "52c0809547464006f3f98be60765d91f71b8025895159f736b3bbadb8cd81a23",
       "pages": [
-        244
+        251
       ]
     },
     {
       "publicPath": "/works/digital/lensflow/studio-analysis.webp",
       "sha256": "ea7ef2af8a00de389be498e10ac8194168b7dd89986e568bd9f58da2613706c8",
       "pages": [
-        245,
-        246
+        252,
+        253
       ]
     },
     {
       "publicPath": "/works/digital/lensflow/studio-guide.webp",
       "sha256": "329f6863f0ed922d18f5ff2f37d905477107e8e9eff44c4f669c45d13f54116d",
       "pages": [
-        246
+        253
       ]
     },
     {
       "publicPath": "/works/digital/yantai/design-study-fixture.webp",
       "sha256": "e76e3424c5ca778a00afc303a45c06762fb3f0a01163be08d1f59fd3737ab86b",
       "pages": [
-        247,
-        248
+        254,
+        255
       ]
     },
     {
       "publicPath": "/works/refinement-digital/xintiao/home-native.png",
       "sha256": "238a1fdc9cc27a803c41f233fade72008b106ac2a218238d53045aa266c75b93",
       "pages": [
-        249,
-        250
+        256,
+        257
       ]
     },
     {
       "publicPath": "/works/refinement-digital/xintiao/onboarding-native.png",
       "sha256": "a2b8c4968feafd8fe6c6fe9f04a78e10a5d9ea97e49e9af0a6b4ca606a5894c3",
       "pages": [
-        250
+        257
       ]
     },
     {
       "publicPath": "/works/refinement-digital/xintiao/detail-native.png",
       "sha256": "ebd8d34bb0cc150ea8baf40f54489298fc6cb028bc98731d3035ec479ac2e1f3",
       "pages": [
-        251
+        258
       ]
     },
     {
       "publicPath": "/works/refinement-digital/xintiao/calendar-native.png",
       "sha256": "b43f58f087a750b637fb7a56405fb2c26cd9619d7b72356fa9b99934cfb84596",
       "pages": [
-        251
+        258
       ]
     },
     {
       "publicPath": "/works/refinement-digital/xintiao/appearance-native.png",
       "sha256": "65e5c0f81ddbb846cc0496b676756f6d5fa204ae8f850bd781695c5fcbb7827b",
       "pages": [
-        252
+        259
       ]
     },
     {
       "publicPath": "/works/digital/formline/editor-desktop.webp",
       "sha256": "a7f26c8e69d06e3e7f2e3cb57cd436990636477675c6747a7c261f186ed96073",
       "pages": [
-        253,
-        254
+        260,
+        261
       ]
     },
     {
       "publicPath": "/works/digital/formline/editor-mobile.webp",
       "sha256": "037144988c4a936dad18573e623633c46a79d99d4ecc7a098d183b560f3992ec",
       "pages": [
-        255
+        262
       ]
     },
     {
       "publicPath": "/works/digital/resume-formatter/workspace.webp",
       "sha256": "cd5f4b4cbc804c2a13cec893804aea0931bcefe02479b3d64f84f811fe555f23",
       "pages": [
-        256,
-        257
+        263,
+        264
       ]
     },
     {
       "publicPath": "/works/digital/resume-formatter/rewrite-diff.webp",
       "sha256": "93e5c67e35fb50be30cc595a7ed4e876d4d78ec9b86870de3e629e78d15c201c",
       "pages": [
-        257
+        264
       ]
     },
     {
       "publicPath": "/works/digital/resume-formatter/layout-controls.webp",
       "sha256": "8ba037f244f288b4a2576d7ca46587bb1aea151f7481589a545cdd86868f32d6",
       "pages": [
-        258
+        265
       ]
     },
     {
       "publicPath": "/works/digital/visual-archive/analysis-desktop.webp",
       "sha256": "0417244895f9b5a91b04743c3146c5845d0f3082aa486d1361f7bc5c93039616",
       "pages": [
-        259,
-        260
+        266,
+        267
       ]
     },
     {
       "publicPath": "/works/digital/visual-archive/analysis-mobile.webp",
       "sha256": "180d2b5a76d2c1c4a21b01ab80642b71ae8150e96acab78d2454d6d3a6a03e79",
       "pages": [
-        260
+        267
       ]
     },
     {
       "publicPath": "/works/digital/aesthetic-atlas/bauhaus-product-dna.webp",
       "sha256": "08cb98185e9d807ec70c5d3d89fb5c0ab165e70070cb68953b24cf146b2223ce",
       "pages": [
-        261,
-        262
+        268,
+        269
       ]
     },
     {
       "publicPath": "/works/digital/aesthetic-atlas/bauhaus-product-transfer.webp",
       "sha256": "c980cf3d200fe35231538c8ec748122f9c8d12d8491267642a9c86862928940d",
       "pages": [
-        262
+        269
       ]
     },
     {
       "publicPath": "/works/digital/image-2-5-xhs/evaluation-cover.webp",
       "sha256": "f4d1884e545ff600abdf329e0d5069dafba9ae20386f9071a8b0ffdc5fe746c1",
       "pages": [
-        263,
-        264
+        270,
+        271
       ]
     },
     {
       "publicPath": "/works/digital/image-2-5-xhs/product-consistency.webp",
       "sha256": "a375060a52fe13632f66a29594963674d1df7e30b7aff022e477bb8d00a96b0b",
       "pages": [
-        264
+        271
       ]
     },
     {
       "publicPath": "/works/digital/image-2-5-xhs/evaluation-boundaries.webp",
       "sha256": "83b4bb7dbb770e669db56ee12b842710d8c70d4674238749b42a1411f7a47c5d",
       "pages": [
-        265
+        272
       ]
     },
     {
       "publicPath": "/works/refinement-digital/xhs-methods/workflow.png",
       "sha256": "ae0474841fba26306d356bfe690c4896e5ad16a36c121a151a810d71b702f210",
       "pages": [
-        266,
-        267
+        273,
+        274
       ]
     },
     {
       "publicPath": "/works/ink-realm/cover.webp",
       "sha256": "b292ac2057f208ed006bcd398f026d0eba0eff0397409546557c90d708c45452",
       "pages": [
-        268,
-        269
+        275,
+        276
       ]
     },
     {
       "publicPath": "/works/ink-realm/character.png",
       "sha256": "590ce44c3c6cbafbfa87186dceb05a63790637b9e28c6899eeaf28000e65109e",
       "pages": [
-        270
+        277
       ]
     },
     {
       "publicPath": "/works/ink-realm/frame-01.webp",
       "sha256": "f17d6a021b2323f612a354373688b0f52f6477ffaabfe32f5e02e781475ff1a4",
       "pages": [
-        271
+        278
       ]
     },
     {
       "publicPath": "/works/ink-realm/frame-02.webp",
       "sha256": "b1012985d99cde8410561e64bb096f812691d29d80531f36b0dea3fd1b691c8a",
       "pages": [
-        272
+        279
       ]
     },
     {
       "publicPath": "/works/ink-realm/frame-03.webp",
       "sha256": "21db64feee222232a981c089d586fe28530dd2179f9a6bd3daf0be6aa0f0c6cc",
       "pages": [
-        273
+        280
       ]
     },
     {
       "publicPath": "/works/ink-realm/frame-04.webp",
       "sha256": "4e3297ad33ab0814453a74fca9536233ac79eaea2e694b805701e8549a165662",
       "pages": [
-        274
+        281
       ]
     },
     {
       "publicPath": "/works/ink-realm/frame-05.webp",
       "sha256": "419cb51f1cb86e5459695c500b0d312ff1c00b6de7aec1c0d5ea72a350b50724",
       "pages": [
-        275
+        282
       ]
     },
     {
       "publicPath": "/works/ink-realm/frame-06.webp",
       "sha256": "8eeacbf1e371ea271d2285a6b194ca9d2c2858afa464ca342c8925ea4e156e93",
       "pages": [
-        276
+        283
       ]
     },
     {
       "publicPath": "/works/ink-realm/frame-07.webp",
       "sha256": "49e0ab31d3f4ce9ecab325371f0a0a8d0bdfb051230b3c16bd2ce3914e060e8a",
       "pages": [
-        277
+        284
       ]
     },
     {
       "publicPath": "/works/ink-realm/frame-08.webp",
       "sha256": "b292ac2057f208ed006bcd398f026d0eba0eff0397409546557c90d708c45452",
       "pages": [
-        278
+        285
       ]
     },
     {
       "publicPath": "/works/character-consistency/cover.webp",
       "sha256": "244ff0d415f6b03825a1c73b06555af88a7999d641e694eb4a70065dc12cc91f",
       "pages": [
-        279,
-        280
+        286,
+        287
       ]
     },
     {
       "publicPath": "/works/character-consistency/01.jpg",
       "sha256": "a392d1a58b98dfb45f0f4d0aa448540f58a5c5a70ea972739c927c0a7869995b",
       "pages": [
-        281
+        288
       ]
     },
     {
       "publicPath": "/works/character-consistency/02.jpg",
       "sha256": "8bfae8482313c906d9a6a4772727df89e4196cdb674fb3fed08b2e06a6fe3229",
       "pages": [
-        282
+        289
       ]
     },
     {
       "publicPath": "/works/character-consistency/03.jpg",
       "sha256": "c7314ec9c83654595f0e07d9b38c9cede85ce1851b5a27058c7375cbe1740cbe",
       "pages": [
-        282
+        289
       ]
     },
     {
       "publicPath": "/works/character-consistency/04.jpg",
       "sha256": "8e5c66a05e6b6bd95300e5b847c990f4d5b62ccf4d98b7d86da8e7268c30e358",
       "pages": [
-        283
+        290
       ]
     },
     {
       "publicPath": "/works/character-consistency/05.jpg",
       "sha256": "36b8dca0171ffe9664d49e71008d848e03530825a103810181eaf50e61dfc29c",
       "pages": [
-        283
+        290
       ]
     },
     {
       "publicPath": "/works/portrait-lighting/cover.webp",
       "sha256": "95d0b1b29c07bfb3a6876097e874e509992c33020f33e00079e0b7b2d9f12199",
       "pages": [
-        284,
-        285
+        291,
+        292
       ]
     },
     {
       "publicPath": "/works/portrait-lighting/01.jpg",
       "sha256": "1cfc4f1500e22ed0dbfe26a41de9939f885424b7bf4fd04a3a3b45cc8f2462af",
       "pages": [
-        286
+        293
       ]
     },
     {
       "publicPath": "/works/portrait-lighting/02.jpg",
       "sha256": "b9a775b7a01b79f71d011d9e64b66d0dee1b17757df7f5ae513a129e66e11aff",
       "pages": [
-        287
+        294
       ]
     },
     {
       "publicPath": "/works/portrait-lighting/03.jpg",
       "sha256": "f84d1638bb108abf71872ff1b80d0f43a2235846386ed56cc2f53764f36dfcd2",
       "pages": [
-        287
+        294
       ]
     },
     {
       "publicPath": "/works/portrait-lighting/04.jpg",
       "sha256": "546be9a93c4ce26b0858b55a4c1adb7f1e67538f35baf22045fcd2d9426e6b35",
       "pages": [
-        288
+        295
       ]
     },
     {
       "publicPath": "/works/portrait-lighting/05.jpg",
       "sha256": "efb68a21447be7f9a71f77536886a99a2ab10a82d82e8ea82779827202324f15",
       "pages": [
-        288
+        295
       ]
     },
     {
       "publicPath": "/works/portrait-lighting/06.jpg",
       "sha256": "1610217f746230e64eef3790c61dda888f2bc753c5c27eba10eca8841419ad88",
       "pages": [
-        289
+        296
       ]
     },
     {
       "publicPath": "/works/portrait-lighting/07.jpg",
       "sha256": "df7c74206192b8bd63446d9166bf9dc8d2ec758a646c07ebdf6692a828bc6d61",
       "pages": [
-        289
+        296
       ]
     },
     {
       "publicPath": "/works/portrait-lighting/08.jpg",
       "sha256": "e817e2a3e3b9f91624a461584b8eae2258da23b1f0362e61c418c6f312f6d801",
       "pages": [
-        290
+        297
       ]
     },
     {
       "publicPath": "/works/portrait-lighting/09.jpg",
       "sha256": "cc6d447df39010f18f76e0f82ec36072da6d92d3a27426b29135ef2dc4b8ad68",
       "pages": [
-        290
+        297
       ]
     },
     {
       "publicPath": "/works/mini-dv-coffee/character-reference.jpg",
       "sha256": "a9c9685f3941b9ceab53ebe8cadf5bdfd61dbdb08971fa1af210537ae901855a",
       "pages": [
-        291,
-        292
+        298,
+        299
       ]
     },
     {
       "publicPath": "/works/mini-dv-coffee/frame-01.webp",
       "sha256": "e4a6fd44c3880afd5f0f223fde0a895838442978466e8d6ec509d8aa47dcf591",
       "pages": [
-        292
+        299
       ]
     },
     {
       "publicPath": "/works/mini-dv-coffee/frame-02.webp",
       "sha256": "71a04d7e941df378ff1e8646bb745ced7db4177401cb8bd0c06487ce60aba3f8",
       "pages": [
-        293
+        300
       ]
     },
     {
       "publicPath": "/works/autumn-fashion-film/poster.webp",
       "sha256": "43c7969d2625286d7b19a02e93f34115a5b6ff565a4d22029f294acf0e3674b0",
       "pages": [
-        294,
-        295
+        301,
+        302
       ]
     },
     {
       "publicPath": "/works/autumn-fashion-film/frame-01.webp",
       "sha256": "cf89c184ac87f9c17682789bfef2bb5b1e3e9a69fcb43fdd10c4fd90b99c44a0",
       "pages": [
-        295
+        302
       ]
     },
     {
       "publicPath": "/works/autumn-fashion-film/frame-02.webp",
       "sha256": "29bd6ef5b62247dd3318a582f18e47b9d6d0cff836ec7b1abb0ffbbd0a352049",
       "pages": [
-        296
+        303
       ]
     }
   ],
   "document": "deliverables/portfolio/sun-yingjie-full-portfolio-en.pdf",
   "publicPath": "/downloads/sun-yingjie-full-portfolio-en.pdf",
-  "sha256": "6a7ef629ed2a05aeef82589c4b716138be21fd17aaf5a20e7b52685ab8d2ce6c",
-  "publicSha256": "6a7ef629ed2a05aeef82589c4b716138be21fd17aaf5a20e7b52685ab8d2ce6c",
-  "publicBytes": 20255473,
+  "sha256": "fc2fff15dc44ec9d07f4d824b8e3eecc8c21998884384bc2192065437041c49e",
+  "publicSha256": "fc2fff15dc44ec9d07f4d824b8e3eecc8c21998884384bc2192065437041c49e",
+  "publicBytes": 21825230,
   "url": "https://aj-nb.github.io/sun-yingjie-portfolio/en/",
   "sourceHashes": {
-    "web/src/data/profile.json": "9b2c56fd6ee5c2b9a12820d24965cb4766ffbbfbed0095bc53c7f50c830212d5",
-    "web/src/data/publication.json": "9569aa9698e81fbd1855529285862e1146d0b3f9a10bc91dc648ec426143774f",
-    "web/src/data/publication-pages.json": "6d073102170cc3caee3baa0fba4b5d4fbdf24a4a4ff102fc802a62a7a016cfd1",
-    "web/src/data/publication-locales.json": "7be370c20da5d68ee4dd2395339157f87c3076a3502c98f7c6f44176836ed1ee",
-    "web/src/data/projectRegistry.ts": "f2e6cdeef0dd3223c665e4446e35887e1b2395a9772efe4ddb91ca0bd50afdf1",
+    "web/src/data/profile.json": "33061a48939ba612d3202a0081cc0f12ea47487dcb89fb280fcd0d70bf463e26",
+    "web/src/data/publication.json": "1bd4b06a85da0943bab25ec69c9ef3da398ded426c94982fb5f3a0c875bd6e22",
+    "web/src/data/publication-pages.json": "e4984c30bc7191c3ac65f7e3d4fbf0037eeef07bc310e054ae1bb15e4f1096e0",
+    "web/src/data/publication-locales.json": "d44f917615e9a39f6da31ee9ea80b1cdc8c48de661b58dc81d26d6cfc1c9f3fe",
+    "web/src/data/projectRegistry.ts": "85b917ff0f42ab1f01cdeb27259881f12a7c79186d777369b929fd8b701f13ec",
     "scripts/build_publications_v9.py": "56675139086fc7ec828ff568d38c286af3831c283744b5b9058f302b57c97833",
     "scripts/build_selected_portfolio.py": "443ba65aaa90020a3e231e480c900b32c81282cf856926c7545b565a2f1162f2",
-    "web/src/data/chapters.ts": "f7b9583016aff20a8ec323d40383ff0142b533987d9b97a8948ff34022def46f",
+    "web/src/data/chapters.ts": "875026e0ed45f161dae3ede1bd8b1e84e6a18d04f2771421ba1339b184e2bf28",
     "web/src/content/works/hermes.en.md": "0c688c0341a9d3005f9f8f55fd390784bf084629746aefc172c1eb339e6ae8cf",
     "web/src/content/works/arcteryx.en.md": "2009622dadaa9c4cd2e80aa84c54b11a52f78f52f4d9e0e29052633927a6d704",
     "web/src/content/works/lighting.en.md": "321daf890cd9849727dea81e36609a6e5c5e2d72986d45dcf309fd20cfeea580",
@@ -6890,6 +7089,7 @@
     "web/src/content/works/construction-recycler.en.md": "ada59bd3ff3d09fd307e8049075904ca08dcdd128b2cf90a6002275fb7a02e54",
     "web/src/content/works/water-walking-bath.en.md": "0b41b3ee11e4872fa45d048f5e4c14d03e0a539ba4b4ff6cfef407cdcd3efd0a",
     "web/src/content/works/rendering-studies.en.md": "77d1828371e1da6a2e8eaa2b9c3cf93c61186ffe018b7330e13bba6d233c8b2f",
+    "web/src/content/works/inhaler-world.en.md": "05e54ecda85d0cd63fa8d80b7813ad814ab793f59c6421eac4218a3f2d63da1e",
     "web/src/content/works/karimoku.en.md": "96525befe8dce64171d16c5d0446d548bcc61ff50a9046a7e70a313c76fcfc40",
     "web/src/content/works/biyuan.en.md": "91a5e031e533e41f9525a1a6a3f3a05cc6f690ac7855506e7830d33c530f96a5",
     "web/src/content/works/yelisi.en.md": "fe34e06e02c0bd124d78f75bc30a45e779ca66be34263cbbfb356afb5decc2c8",
@@ -6913,7 +7113,7 @@
   "externalFontHashes": {
     "C:\\Windows\\Fonts\\msyh.ttc": "d79c55e68b1131eea0cc1c47be4f572d964f28c682e143db2ad09c1e4cb07a3f",
     "C:\\Windows\\Fonts\\msyhbd.ttc": "4508821b3dffe01f0ef5e5326a3e60df705a44633858811f67b6982dce3f6ee6",
-    "D:\\portfolio-public-v11-mobile\\web\\public\\fonts\\documents\\DM-Sans-Regular.ttf": "7d45112607557ba9af1ef1a1eda89083522794736d53c95e4f5a50513eafefd0",
-    "D:\\portfolio-public-v11-mobile\\web\\public\\fonts\\documents\\DM-Sans-SemiBold.ttf": "f19593ab27001f52a1339dde0ea1bbd3f9e463c55f0d17f16648b1e9b2383edc"
+    "D:\\OneDrive\\桌面\\文件\\项目\\sun-yingjie-portfolio\\web\\public\\fonts\\documents\\DM-Sans-Regular.ttf": "7d45112607557ba9af1ef1a1eda89083522794736d53c95e4f5a50513eafefd0",
+    "D:\\OneDrive\\桌面\\文件\\项目\\sun-yingjie-portfolio\\web\\public\\fonts\\documents\\DM-Sans-SemiBold.ttf": "f19593ab27001f52a1339dde0ea1bbd3f9e463c55f0d17f16648b1e9b2383edc"
   }
 }

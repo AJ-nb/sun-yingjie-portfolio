@@ -13,7 +13,7 @@ export interface EditorialMetadata { chapter: ChapterId; order: number; startDat
 const sequence: Record<ChapterId, string[]> = {
   windows: ['hermes', 'arcteryx'], lighting: ['lighting'],
   products: ['plumber', 'huhu-care', 'lingmu', 'jimu-studio', 'plant-companion', 'go-glow', 'baobab-glow', 'cloudwing', 'bat-quad', 'little-orange', 'water-guardian', 'ecological-harvest', 'purewater-rolling-filter', 'polar-wing', 'construction-recycler', 'water-walking-bath'],
-  rendering: ['rendering-studies'], brands: ['karimoku', 'biyuan', 'yelisi', 'periastra'],
+  rendering: ['rendering-studies', 'inhaler-world'], brands: ['karimoku', 'biyuan', 'yelisi', 'periastra'],
   ai: ['ai-video-systems', 'lensflow', 'yantai', 'xintiao', 'formline', 'resume-formatter', 'visual-archive', 'aesthetic-atlas', 'image-2-5-xhs', 'xhs-methods', 'yuju', 'ink-realm', 'character-consistency', 'portrait-lighting', 'mini-dv-coffee', 'autumn-fashion-film'],
 }
 // Dates describe supported production periods, never inferred from filesystem mtime.

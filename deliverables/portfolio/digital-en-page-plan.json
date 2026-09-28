@@ -1,7 +1,7 @@
 {
   "variant": "digital",
   "lang": "en",
-  "pageCount": 36,
+  "pageCount": 39,
   "casePages": {
     "biyuan": 4,
     "resume-formatter": 7,
@@ -9,11 +9,12 @@
     "xintiao": 14,
     "lensflow": 18,
     "ai-video-systems": 21,
-    "ink-realm": 24,
-    "character-consistency": 26,
-    "portrait-lighting": 28,
-    "mini-dv-coffee": 30,
-    "autumn-fashion-film": 33
+    "inhaler-world": 24,
+    "ink-realm": 27,
+    "character-consistency": 29,
+    "portrait-lighting": 31,
+    "mini-dv-coffee": 33,
+    "autumn-fashion-film": 36
   },
   "plan": [
     {
@@ -219,6 +220,41 @@
             {
               "src": "/works/ai-video-systems/ai-video-systems-cover.webp",
               "caption": "Review relationships, then revise the right layer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "inhaler-world",
+      "pages": [
+        {
+          "id": "concept",
+          "title": "The product as an entry into a wider world",
+          "body": "A Small Inhaler & A Wider World recombines product, classical figures, architecture and landscape into one surreal visual narrative.",
+          "images": [
+            {
+              "src": "/works/inhaler-world/poster-01.webp",
+              "caption": "The product as an entry into the sky"
+            },
+            {
+              "src": "/works/inhaler-world/poster-02.webp",
+              "caption": "A figure meets the inhaler in a classical space"
+            }
+          ]
+        },
+        {
+          "id": "sequence",
+          "title": "From a small action to spatial release",
+          "body": "Tears, scale shifts and the green recognition colour connect the 11 posters into one reading path; original PNGs and the source manifest remain in the web case.",
+          "images": [
+            {
+              "src": "/works/inhaler-world/poster-06.webp",
+              "caption": "A breathing gesture enlarged into a distant opening"
+            },
+            {
+              "src": "/works/inhaler-world/poster-11.webp",
+              "caption": "The series closes on a wider world"
             }
           ]
         }

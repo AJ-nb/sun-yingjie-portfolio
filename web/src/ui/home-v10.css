@@ -27,3 +27,21 @@
 .home-hero-intro>p+p{color:#e0e6e8}
 .home-project-mini-dv-coffee .home-project-image,.home-project-autumn-fashion-film .home-project-image{background:#252b2d}
 @media(max-width:520px){.home-hero:after{background:linear-gradient(180deg,rgba(12,16,20,.08) 0%,rgba(12,16,20,.06) 40%,rgba(12,16,20,.72) 100%)}.home-hero-intro>p+p{color:#edf1f1}}
+
+/* v13: a restrained Mondrian grid makes the hierarchy legible without changing the page structure. */
+.home-hero:before{content:'';position:absolute;inset:0;z-index:0;pointer-events:none;opacity:.18;background:linear-gradient(90deg,transparent 0 14%,rgba(244,247,248,.5) 14% 14.08%,transparent 14.08% 72%,rgba(244,247,248,.34) 72% 72.08%,transparent 72.08%),linear-gradient(180deg,transparent 0 26%,rgba(244,247,248,.38) 26% 26.08%,transparent 26.08% 78%,rgba(244,247,248,.3) 78% 78.08%,transparent 78.08%)}
+.home-hero:has(canvas.is-ready):before{opacity:.24}
+.home-aigc-kicker,.home-section-kicker{font-family:Geist Mono,monospace;font-size:10px;line-height:1.4;letter-spacing:.14em;text-transform:uppercase;color:#9ed3d5;margin:0 0 11px!important}
+.home-aigc-kicker{max-width:34ch}
+.home-section-kicker{color:#c7b36d;margin-bottom:16px!important}
+.home-selected{isolation:isolate;overflow:hidden}
+.home-selected:before{content:'';position:absolute;inset:0;z-index:-1;pointer-events:none;opacity:.2;background:linear-gradient(90deg,transparent 0 18%,#e8e9e5 18% 18.1%,transparent 18.1% 84%,#e8e9e5 84% 84.1%,transparent 84.1%),linear-gradient(180deg,transparent 0 15%,#e8e9e5 15% 15.1%,transparent 15.1% 87%,#e8e9e5 87% 87.1%,transparent 87.1%),linear-gradient(135deg,transparent 0 76%,#d84432 76% 83%,transparent 83%),linear-gradient(45deg,transparent 0 8%,#1765a7 8% 15%,transparent 15%)}
+.home-selected>header>div{position:relative}
+.home-project-inhaler-world .home-project-image{background:#e6e6e2}
+.home-project-inhaler-world .home-project-image img{object-fit:contain}
+.home-project-inhaler-world .home-project-studies img{object-fit:cover}
+.home-tv-figure canvas.is-ready{filter:saturate(.92) contrast(1.04)}
+.home-tv-figure:after{content:'';position:absolute;inset:18% 11% 21% 40%;pointer-events:none;opacity:0;mix-blend-mode:screen;background:linear-gradient(135deg,transparent 0 42%,rgba(224,240,244,.38) 42% 48%,transparent 48% 64%,rgba(200,218,225,.24) 64% 71%,transparent 71%);clip-path:polygon(0 0,100% 10%,72% 100%,18% 78%)}
+.home-tv-figure:has(canvas.is-ready):after{opacity:.16}
+@media(max-width:760px){.home-hero:before{opacity:.11}.home-selected:before{opacity:.12}.home-aigc-kicker{font-size:9px;letter-spacing:.1em}.home-section-kicker{font-size:9px}}
+@media(prefers-reduced-motion:reduce){.home-tv-figure:after{display:none}}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T23:59:09.786Z",
+  "generatedAt": "2026-09-28T00:18:58.558Z",
   "origin": "https://aj-nb.github.io",
   "routes": [
     "/",
@@ -14,6 +14,7 @@
     "/en/lab/aesthetic-atlas",
     "/en/lab/character-consistency",
     "/en/lab/image-2-5-xhs",
+    "/en/lab/inhaler-world",
     "/en/lab/portrait-lighting",
     "/en/lab/rendering-studies",
     "/en/lab/visual-archive",
@@ -52,6 +53,7 @@
     "/en/work/hermes-seasonal-window-worlds",
     "/en/work/huhu-care",
     "/en/work/image-2-5-xhs",
+    "/en/work/inhaler-world",
     "/en/work/ink-realm",
     "/en/work/jimu-studio",
     "/en/work/karimoku",
@@ -82,6 +84,7 @@
     "/lab/aesthetic-atlas",
     "/lab/character-consistency",
     "/lab/image-2-5-xhs",
+    "/lab/inhaler-world",
     "/lab/portrait-lighting",
     "/lab/rendering-studies",
     "/lab/visual-archive",
@@ -120,6 +123,7 @@
     "/work/hermes-seasonal-window-worlds",
     "/work/huhu-care",
     "/work/image-2-5-xhs",
+    "/work/inhaler-world",
     "/work/ink-realm",
     "/work/jimu-studio",
     "/work/karimoku",
@@ -701,6 +705,55 @@
               "@id": "https://aj-nb.github.io/#person"
             },
             "image": "https://aj-nb.github.io/works/digital/image-2-5-xhs/evaluation-cover.webp"
+          }
+        ]
+      }
+    },
+    "/en/lab/inhaler-world": {
+      "title": "A Small Inhaler & A Wider World — Surreal Product Poster Series",
+      "description": "A small inhaler becomes an entry into a wider world, recombining Renaissance figures, classical architecture, sky, sea and mountains through surreal collage and photographic montage.",
+      "canonical": "https://aj-nb.github.io/en/work/inhaler-world",
+      "image": "https://aj-nb.github.io/works/inhaler-world/poster-01.webp",
+      "noindex": false,
+      "type": "CreativeWork",
+      "alternates": {
+        "zh-CN": "https://aj-nb.github.io/work/inhaler-world",
+        "en": "https://aj-nb.github.io/en/work/inhaler-world",
+        "x-default": "https://aj-nb.github.io/work/inhaler-world"
+      },
+      "robots": "index,follow",
+      "ogImage": "https://aj-nb.github.io/works/inhaler-world/poster-01.webp",
+      "lang": "en",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://aj-nb.github.io/#website",
+            "name": "Yingjie Sun Design OS",
+            "url": "https://aj-nb.github.io",
+            "inLanguage": "en"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://aj-nb.github.io/#person",
+            "name": "孙英杰 / Yingjie Sun",
+            "url": "https://aj-nb.github.io",
+            "jobTitle": "Industrial & Product Designer"
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "https://aj-nb.github.io/en/work/inhaler-world#page",
+            "url": "https://aj-nb.github.io/en/work/inhaler-world",
+            "name": "A Small Inhaler & A Wider World — Surreal Product Poster Series",
+            "description": "A small inhaler becomes an entry into a wider world, recombining Renaissance figures, classical architecture, sky, sea and mountains through surreal collage and photographic montage.",
+            "isPartOf": {
+              "@id": "https://aj-nb.github.io/#website"
+            },
+            "about": {
+              "@id": "https://aj-nb.github.io/#person"
+            },
+            "image": "https://aj-nb.github.io/works/inhaler-world/poster-01.webp"
           }
         ]
       }
@@ -2549,6 +2602,55 @@
         ]
       }
     },
+    "/en/work/inhaler-world": {
+      "title": "A Small Inhaler & A Wider World — Surreal Product Poster Series",
+      "description": "A small inhaler becomes an entry into a wider world, recombining Renaissance figures, classical architecture, sky, sea and mountains through surreal collage and photographic montage.",
+      "canonical": "https://aj-nb.github.io/en/work/inhaler-world",
+      "image": "https://aj-nb.github.io/works/inhaler-world/poster-01.webp",
+      "noindex": false,
+      "type": "CreativeWork",
+      "alternates": {
+        "zh-CN": "https://aj-nb.github.io/work/inhaler-world",
+        "en": "https://aj-nb.github.io/en/work/inhaler-world",
+        "x-default": "https://aj-nb.github.io/work/inhaler-world"
+      },
+      "robots": "index,follow",
+      "ogImage": "https://aj-nb.github.io/works/inhaler-world/poster-01.webp",
+      "lang": "en",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://aj-nb.github.io/#website",
+            "name": "Yingjie Sun Design OS",
+            "url": "https://aj-nb.github.io",
+            "inLanguage": "en"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://aj-nb.github.io/#person",
+            "name": "孙英杰 / Yingjie Sun",
+            "url": "https://aj-nb.github.io",
+            "jobTitle": "Industrial & Product Designer"
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "https://aj-nb.github.io/en/work/inhaler-world#page",
+            "url": "https://aj-nb.github.io/en/work/inhaler-world",
+            "name": "A Small Inhaler & A Wider World — Surreal Product Poster Series",
+            "description": "A small inhaler becomes an entry into a wider world, recombining Renaissance figures, classical architecture, sky, sea and mountains through surreal collage and photographic montage.",
+            "isPartOf": {
+              "@id": "https://aj-nb.github.io/#website"
+            },
+            "about": {
+              "@id": "https://aj-nb.github.io/#person"
+            },
+            "image": "https://aj-nb.github.io/works/inhaler-world/poster-01.webp"
+          }
+        ]
+      }
+    },
     "/en/work/ink-realm": {
       "title": "Ink Realm | A Character in Motion",
       "description": "A 30-second film exploring character constraints, an eight-part action script and black-and-gold ink effects.",
@@ -4012,6 +4114,55 @@
               "@id": "https://aj-nb.github.io/#person"
             },
             "image": "https://aj-nb.github.io/works/digital/image-2-5-xhs/evaluation-cover.webp"
+          }
+        ]
+      }
+    },
+    "/lab/inhaler-world": {
+      "title": "A Small Inhaler & A Wider World｜超现实呼吸海报系列",
+      "description": "以一个小型吸入器为现实入口，将文艺复兴人物、古典建筑与天空、海洋、山脉重新拼接，探索一次微小使用动作如何打开更广阔的世界。",
+      "canonical": "https://aj-nb.github.io/work/inhaler-world",
+      "image": "https://aj-nb.github.io/works/inhaler-world/poster-01.webp",
+      "noindex": false,
+      "type": "CreativeWork",
+      "alternates": {
+        "zh-CN": "https://aj-nb.github.io/work/inhaler-world",
+        "en": "https://aj-nb.github.io/en/work/inhaler-world",
+        "x-default": "https://aj-nb.github.io/work/inhaler-world"
+      },
+      "robots": "index,follow",
+      "ogImage": "https://aj-nb.github.io/works/inhaler-world/poster-01.webp",
+      "lang": "zh-CN",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://aj-nb.github.io/#website",
+            "name": "Yingjie Sun Design OS",
+            "url": "https://aj-nb.github.io",
+            "inLanguage": "zh-CN"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://aj-nb.github.io/#person",
+            "name": "孙英杰 / Yingjie Sun",
+            "url": "https://aj-nb.github.io",
+            "jobTitle": "工业与产品设计师"
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "https://aj-nb.github.io/work/inhaler-world#page",
+            "url": "https://aj-nb.github.io/work/inhaler-world",
+            "name": "A Small Inhaler & A Wider World｜超现实呼吸海报系列",
+            "description": "以一个小型吸入器为现实入口，将文艺复兴人物、古典建筑与天空、海洋、山脉重新拼接，探索一次微小使用动作如何打开更广阔的世界。",
+            "isPartOf": {
+              "@id": "https://aj-nb.github.io/#website"
+            },
+            "about": {
+              "@id": "https://aj-nb.github.io/#person"
+            },
+            "image": "https://aj-nb.github.io/works/inhaler-world/poster-01.webp"
           }
         ]
       }
@@ -5856,6 +6007,55 @@
               "@id": "https://aj-nb.github.io/#person"
             },
             "image": "https://aj-nb.github.io/works/digital/image-2-5-xhs/evaluation-cover.webp"
+          }
+        ]
+      }
+    },
+    "/work/inhaler-world": {
+      "title": "A Small Inhaler & A Wider World｜超现实呼吸海报系列",
+      "description": "以一个小型吸入器为现实入口，将文艺复兴人物、古典建筑与天空、海洋、山脉重新拼接，探索一次微小使用动作如何打开更广阔的世界。",
+      "canonical": "https://aj-nb.github.io/work/inhaler-world",
+      "image": "https://aj-nb.github.io/works/inhaler-world/poster-01.webp",
+      "noindex": false,
+      "type": "CreativeWork",
+      "alternates": {
+        "zh-CN": "https://aj-nb.github.io/work/inhaler-world",
+        "en": "https://aj-nb.github.io/en/work/inhaler-world",
+        "x-default": "https://aj-nb.github.io/work/inhaler-world"
+      },
+      "robots": "index,follow",
+      "ogImage": "https://aj-nb.github.io/works/inhaler-world/poster-01.webp",
+      "lang": "zh-CN",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://aj-nb.github.io/#website",
+            "name": "Yingjie Sun Design OS",
+            "url": "https://aj-nb.github.io",
+            "inLanguage": "zh-CN"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://aj-nb.github.io/#person",
+            "name": "孙英杰 / Yingjie Sun",
+            "url": "https://aj-nb.github.io",
+            "jobTitle": "工业与产品设计师"
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "https://aj-nb.github.io/work/inhaler-world#page",
+            "url": "https://aj-nb.github.io/work/inhaler-world",
+            "name": "A Small Inhaler & A Wider World｜超现实呼吸海报系列",
+            "description": "以一个小型吸入器为现实入口，将文艺复兴人物、古典建筑与天空、海洋、山脉重新拼接，探索一次微小使用动作如何打开更广阔的世界。",
+            "isPartOf": {
+              "@id": "https://aj-nb.github.io/#website"
+            },
+            "about": {
+              "@id": "https://aj-nb.github.io/#person"
+            },
+            "image": "https://aj-nb.github.io/works/inhaler-world/poster-01.webp"
           }
         ]
       }

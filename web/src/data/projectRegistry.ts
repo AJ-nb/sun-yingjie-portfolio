@@ -139,6 +139,7 @@ const classification: Record<string, RegistryClassification> = {
   'image-2-5-xhs': { category: 'research', track: 'digital', maturity: 'research' },
   'xhs-methods': { category: 'research', track: 'digital', maturity: 'research' },
   'rendering-studies': { category: 'visual', track: 'physical', maturity: 'research' },
+  'inhaler-world': { category: 'visual', track: 'physical', maturity: 'experiment' },
 }
 
 const excludedSlugs = new Set(['baobab-glow', 'water-guardian', 'yuju'])
@@ -196,6 +197,34 @@ export const PROJECT_SLUG_ALIASES: Record<string, string> = {
 type CaseMetadata = Pick<ProjectEntry, 'evidenceLevel' | 'sourceKind' | 'sourceEvidence' | 'publicBoundary' | 'aiRole' | 'humanGates' | 'layoutVariant' | 'capabilityRoles' | 'readingTime' | 'nextProject' | 'assetGroups' | 'openSourceFoundation'>
 
 const caseMetadata: Record<string, CaseMetadata> = {
+  'inhaler-world': {
+    evidenceLevel: 'C',
+    sourceKind: 'design-study',
+    sourceEvidence: {
+      zh: '用户于 2026-09-28 提供 11 张 PNG 海报成片；页面保留原始文件、WebP 派生图与 SHA-256 清单。',
+      en: 'The user supplied 11 finished PNG posters on 2026-09-28; the page retains the originals, WebP derivatives and a SHA-256 manifest.',
+    },
+    publicBoundary: {
+      zh: '这是个人概念与视觉研究档案。公开页面托管用户提供的海报，不由图像推导官方委托、上市、医疗功效或第三方素材版权。',
+      en: 'This is an independent concept and visual-study archive. The page hosts the supplied posters without inferring an official commission, market launch, medical efficacy or ownership of third-party imagery.',
+    },
+    aiRole: {
+      zh: '本页记录 AIGC 视觉探索语境中的产品叙事与图像编排；页面不为海报补写未提供的模型、生成批次或工具归属。',
+      en: 'The case records product storytelling and image sequencing within an AIGC visual-exploration context; it does not add unprovided model, generation-run or tool claims.',
+    },
+    humanGates: {
+      zh: ['概念、色彩锚点与系列阅读顺序人工确认', '逐张检查产品识别、人物与空间关系', '原图、派生图、来源清单与公开边界检查'],
+      en: ['Human approval of concept, colour anchor and series sequence', 'Poster-by-poster review of product identity, figure and spatial relationships', 'Review of originals, derivatives, source manifest and public boundary'],
+    },
+    layoutVariant: 'vertical-space',
+    capabilityRoles: {
+      zh: ['Primary · 产品视觉与超现实叙事', 'Secondary · 系列编排与图像档案', 'Support · AIGC 视觉探索与人工审阅'],
+      en: ['Primary · Product visual language and surreal narrative', 'Secondary · Series sequencing and image archive', 'Support · AIGC visual exploration and human review'],
+    },
+    readingTime: 4,
+    nextProject: 'ai-video-systems',
+    assetGroups: [{ name: { zh: '11 张原始海报', en: '11 original posters' }, evidenceLevel: 'C' }],
+  },
   'ai-video-systems': {
     evidenceLevel: 'B',
     sourceKind: 'project-archive',
